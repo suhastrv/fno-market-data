@@ -1,0 +1,251 @@
+name: Probe data sources
+
+# Manual diagnostic only. Changes nothing in your repo; it just reports which
+# data sources answer from GitHub's servers. Run it from the Actions tab.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Run probe
+        run: |
+          cat > probe.js << 'SCRIPT'
+          // Probe: tests which data sources answer from GitHub's servers. Changes nothing; only reports.
+          const https = require('https');
+          const http = require('http');
+          const zlib = require('zlib');
+          const fs = require('fs');
+
+          const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+          const MCP_CM = process.env.PROBE_MCP_CM || 'https://mcp.nseindia.in/cmmkt/mcp';
+          const MCP_BHAV = process.env.PROBE_MCP_BHAV || 'https://mcp.nseindia.in/bhavcopy/cm/mcp';
+          const results = [];
+
+          function add(name, ok, note) {
+            const clean = String(note == null ? '' : note).replace(/[\r\n]+/g, ' ').slice(0, 170);
+            results.push({ name: name, ok: !!ok, note: clean });
+            console.log((ok ? 'PASS  ' : 'FAIL  ') + name + '  ::  ' + clean);
+          }
+          function tryJson(t) { try { return JSON.parse(t); } catch (e) { return null; } }
+          function fail(r) { return { ok: false, note: 'HTTP ' + r.status + ' ' + (r.err || '') + ' ' + String(r.text || '').slice(0, 90) }; }
+          async function test(name, fn) {
+            try { const o = await fn(); add(name, o.ok, o.note); }
+            catch (e) { add(name, false, 'script error: ' + e.message); }
+          }
+          const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+          function request(method, urlStr, headers, body, timeoutMs) {
+            return new Promise(resolve => {
+              let u;
+              try { u = new URL(urlStr); } catch (e) { return resolve({ status: 0, err: 'bad url', text: '', headers: {} }); }
+              const lib = u.protocol === 'http:' ? http : https;
+              const hdr = Object.assign({ 'User-Agent': UA, 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate, br' }, headers || {});
+              if (body) hdr['Content-Length'] = Buffer.byteLength(body);
+              const opts = { hostname: u.hostname, port: u.port || undefined, path: u.pathname + u.search, method: method, timeout: timeoutMs || 15000, headers: hdr };
+              const req = lib.request(opts, res => {
+                const chunks = [];
+                res.on('data', c => chunks.push(c));
+                res.on('end', () => {
+                  const buf = Buffer.concat(chunks);
+                  const enc = String(res.headers['content-encoding'] || '').toLowerCase();
+                  const done = (err, out) => resolve({ status: res.statusCode, headers: res.headers, text: (err ? buf : out).toString('utf8'), err: err ? 'decode: ' + err.message : null });
+                  if (enc.indexOf('br') >= 0) zlib.brotliDecompress(buf, done);
+                  else if (enc.indexOf('gzip') >= 0) zlib.gunzip(buf, done);
+                  else if (enc.indexOf('deflate') >= 0) zlib.inflate(buf, done);
+                  else done(null, buf);
+                });
+              });
+              req.on('error', e => resolve({ status: 0, err: e.message, text: '', headers: {} }));
+              req.on('timeout', () => { req.destroy(); resolve({ status: 0, err: 'timeout', text: '', headers: {} }); });
+              if (body) req.write(body);
+              req.end();
+            });
+          }
+
+          // ---------- MCP (the NSE connectors, called directly over the web) ----------
+          function parseRpc(text) {
+            if (!text) return null;
+            const t = String(text).trim();
+            const direct = tryJson(t);
+            if (direct) return direct;
+            let found = null;
+            t.split(/\r?\n/).forEach(function (line) {
+              if (line.indexOf('data:') === 0) {
+                const j = tryJson(line.slice(5).trim());
+                if (j && (j.result !== undefined || j.error !== undefined)) found = j;
+              }
+            });
+            return found;
+          }
+          function summarizeCall(cj) {
+            if (!cj) return 'no readable answer';
+            if (cj.error) return 'error: ' + (cj.error.message || JSON.stringify(cj.error));
+            const res = cj.result || {};
+            const txt = res.content && res.content[0] && res.content[0].text ? res.content[0].text : JSON.stringify(res);
+            return (res.isError ? 'tool error: ' : '') + String(txt).replace(/\s+/g, ' ').slice(0, 110);
+          }
+          async function mcpProbe(label, url, calls) {
+            const base = { 'Content-Type': 'application/json', 'Accept': 'application/json, text/event-stream', 'Accept-Encoding': 'identity' };
+            const init = await request('POST', url, base, JSON.stringify({ jsonrpc: '2.0', id: 1, method: 'initialize', params: { protocolVersion: '2025-03-26', capabilities: {}, clientInfo: { name: 'fno-probe', version: '1.0' } } }), 20000);
+            if (!init.status) { add(label + ': connect', false, init.err); return; }
+            const j = parseRpc(init.text);
+            const sid = init.headers['mcp-session-id'];
+            const ok = init.status < 300 && j && j.result;
+            const login = init.headers['www-authenticate'] ? ' | NEEDS LOGIN: ' + String(init.headers['www-authenticate']).slice(0, 60) : '';
+            add(label + ': connect', ok, 'HTTP ' + init.status + (sid ? ', session id received' : ', no session id') + ' | ' + (ok ? 'server ' + JSON.stringify(j.result.serverInfo || {}) : String(init.text).slice(0, 90)) + login);
+            if (!ok) return;
+            const h2 = Object.assign({}, base);
+            if (sid) h2['Mcp-Session-Id'] = sid;
+            await request('POST', url, h2, JSON.stringify({ jsonrpc: '2.0', method: 'notifications/initialized' }), 15000);
+            const tl = await request('POST', url, h2, JSON.stringify({ jsonrpc: '2.0', id: 2, method: 'tools/list', params: {} }), 20000);
+            const tj = parseRpc(tl.text);
+            const names = tj && tj.result && tj.result.tools ? tj.result.tools.map(t => t.name) : [];
+            add(label + ': list of tools', names.length > 0, names.length + ' tools: ' + names.join(', '));
+            let id = 3;
+            for (const c of calls) {
+              const r = await request('POST', url, h2, JSON.stringify({ jsonrpc: '2.0', id: id++, method: 'tools/call', params: { name: c.tool, arguments: c.args } }), 40000);
+              const cj = parseRpc(r.text);
+              const good = !!(cj && cj.result && !cj.result.isError);
+              add(label + ': ' + c.tool, good, r.status ? summarizeCall(cj) : r.err);
+            }
+          }
+
+          // ---------- NSE website (same route that already works for the index prices) ----------
+          let nseCookies = '';
+          async function seedNSE() {
+            const r = await request('GET', 'https://www.nseindia.com/', { 'Accept': 'text/html,application/xhtml+xml', 'Upgrade-Insecure-Requests': '1' }, null, 20000);
+            const sc = r.headers['set-cookie'] || [];
+            nseCookies = sc.map(c => c.split(';')[0]).join('; ');
+            console.log('NSE cookies: ' + (nseCookies ? sc.length + ' collected' : 'none') + ' (status ' + r.status + ')');
+            await sleep(1500);
+          }
+          async function nseJson(path) {
+            const r = await request('GET', 'https://www.nseindia.com' + path, { 'Referer': 'https://www.nseindia.com/', 'X-Requested-With': 'XMLHttpRequest', 'Accept': 'application/json, text/plain, */*', 'Cookie': nseCookies }, null, 25000);
+            return { status: r.status, err: r.err, text: r.text, json: tryJson(r.text) };
+          }
+          function ddmmyyyy(d) { return ('0' + d.getDate()).slice(-2) + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + d.getFullYear(); }
+
+          // ---------- Yahoo chart route ----------
+          async function yChart(sym, interval, range) {
+            const url = 'https://query1.finance.yahoo.com/v8/finance/chart/' + encodeURIComponent(sym) + '?interval=' + interval + '&range=' + range;
+            const r = await request('GET', url, { 'Accept': 'application/json' }, null, 25000);
+            const j = tryJson(r.text);
+            return { r: r, res: j && j.chart && j.chart.result && j.chart.result[0] };
+          }
+
+          async function main() {
+            // 1) NSE website routes
+            await seedNSE();
+            await test('NSE site: index prices (the route already in use)', async () => {
+              const r = await nseJson('/api/allIndices'); const a = r.json && r.json.data;
+              return Array.isArray(a) ? { ok: a.length > 10, note: a.length + ' indices' } : fail(r);
+            });
+            for (const idx of ['NIFTY 500', 'NIFTY 200']) {
+              await test('NSE site: all ' + idx + ' stocks with live price and volume', async () => {
+                const r = await nseJson('/api/equity-stockIndices?index=' + encodeURIComponent(idx)); const a = r.json && r.json.data;
+                if (!Array.isArray(a)) return fail(r);
+                const ex = a.find(x => x.symbol && x.symbol.indexOf('NIFTY') !== 0) || a[0];
+                return { ok: a.length > 100, note: a.length + ' rows; e.g. ' + ex.symbol + ' price ' + ex.lastPrice + ' volume ' + ex.totalTradedVolume };
+              });
+            }
+            await test('NSE site: NIFTY 50 minute-by-minute prices today', async () => {
+              const r = await nseJson('/api/chart-databyindex?index=NIFTY%2050&indices=true'); const g = r.json && r.json.grapthData;
+              return Array.isArray(g) ? { ok: g.length > 5, note: g.length + ' points; last ' + JSON.stringify(g[g.length - 1]) } : fail(r);
+            });
+            const to = new Date(), from = new Date(Date.now() - 400 * 86400000);
+            await test('NSE site: INFY daily history (about 1 year)', async () => {
+              const r = await nseJson('/api/historical/cm/equity?symbol=INFY&series=%5B%22EQ%22%5D&from=' + ddmmyyyy(from) + '&to=' + ddmmyyyy(to)); const a = r.json && r.json.data;
+              return Array.isArray(a) ? { ok: a.length > 50, note: a.length + ' days' } : fail(r);
+            });
+            await test('NSE site: NIFTY 50 index daily history', async () => {
+              const r = await nseJson('/api/historical/indicesHistory?indexType=NIFTY%2050&from=' + ddmmyyyy(new Date(Date.now() - 90 * 86400000)) + '&to=' + ddmmyyyy(to));
+              const d = r.json && r.json.data; const rec = d && (d.indexCloseOnlineRecords || d);
+              return Array.isArray(rec) ? { ok: rec.length > 20, note: rec.length + ' days' } : fail(r);
+            });
+            await test('NSE site: NIFTY futures (has volume, which indices lack)', async () => {
+              const r = await nseJson('/api/quote-derivative?symbol=NIFTY'); const s = r.json && r.json.stocks;
+              return Array.isArray(s) ? { ok: s.length > 0, note: s.length + ' contracts' } : fail(r);
+            });
+            await test('NSE site: NIFTY option chain', async () => {
+              const r = await nseJson('/api/option-chain-indices?symbol=NIFTY'); const a = r.json && r.json.records && r.json.records.data;
+              return Array.isArray(a) ? { ok: a.length > 10, note: a.length + ' strikes' } : fail(r);
+            });
+
+            // 2) The NSE connectors, called directly
+            await mcpProbe('NSE CM DATA connector', MCP_CM, [
+              { tool: 'cm_get_equity_stocks', args: { limit: 3, symbolFilter: '' } },
+              { tool: 'cm_get_stock_quote', args: { symbol: 'DMART' } }
+            ]);
+            await mcpProbe('NSE Bhavcopy connector', MCP_BHAV, [
+              { tool: 'get_bulk_quote', args: { symbols: ['INFY', 'TCS'] } },
+              { tool: 'moving_average', args: { symbol: 'INFY', days: 50 } }
+            ]);
+
+            // 3) Yahoo chart route (different from the quote route that was blocked)
+            const globals = [['^BSESN', 'SENSEX'], ['^GSPC', 'S&P 500'], ['^IXIC', 'NASDAQ'], ['^N225', 'Nikkei'], ['GC=F', 'Gold'], ['CL=F', 'Crude oil'], ['INR=X', 'USD/INR']];
+            for (const g of globals) {
+              await test('Yahoo chart: ' + g[1], async () => {
+                const o = await yChart(g[0], '1d', '5d');
+                const p = o.res && o.res.meta && o.res.meta.regularMarketPrice;
+                return p ? { ok: true, note: 'price ' + p } : fail(o.r);
+              });
+            }
+            await test('Yahoo chart: NIFTY 5-minute candles (5 days)', async () => {
+              const o = await yChart('^NSEI', '5m', '5d');
+              if (!o.res) return fail(o.r);
+              const q = o.res.indicators.quote[0]; const vols = (q.volume || []).filter(v => v != null);
+              const nonzero = vols.filter(v => v > 0).length;
+              return { ok: (o.res.timestamp || []).length > 50, note: (o.res.timestamp || []).length + ' candles; candles with volume > 0: ' + nonzero };
+            });
+            await test('Yahoo chart: RELIANCE daily history (1 year)', async () => {
+              const o = await yChart('RELIANCE.NS', '1d', '1y');
+              return o.res ? { ok: (o.res.timestamp || []).length > 100, note: (o.res.timestamp || []).length + ' days' } : fail(o.r);
+            });
+            await test('Yahoo chart: 20 stocks in a row (can we scan hundreds?)', async () => {
+              const syms = ['RELIANCE', 'TCS', 'HDFCBANK', 'ICICIBANK', 'INFY', 'SBIN', 'ITC', 'LT', 'AXISBANK', 'KOTAKBANK', 'BHARTIARTL', 'HINDUNILVR', 'MARUTI', 'SUNPHARMA', 'TITAN', 'WIPRO', 'HCLTECH', 'ONGC', 'NTPC', 'POWERGRID'];
+              let ok = 0, firstBad = '';
+              for (const s of syms) {
+                const o = await yChart(s + '.NS', '1d', '6mo');
+                if (o.res && (o.res.timestamp || []).length > 60) ok++; else if (!firstBad) firstBad = 'first failure: ' + s + ' HTTP ' + o.r.status;
+                await sleep(250);
+              }
+              return { ok: ok >= 18, note: ok + ' of ' + syms.length + ' worked. ' + firstBad };
+            });
+
+            // 4) Other free sources
+            for (const t of [['stooq.com', '^spx'], ['stooq.com', 'xauusd'], ['stooq.pl', '^spx']]) {
+              await test('Stooq (' + t[0] + '): ' + t[1], async () => {
+                const r = await request('GET', 'https://' + t[0] + '/q/l/?s=' + encodeURIComponent(t[1]) + '&f=sd2t2ohlcv&h&e=csv', { 'Accept': 'text/csv,*/*' }, null, 20000);
+                const lines = String(r.text || '').trim().split(/\r?\n/);
+                const good = r.status === 200 && lines.length >= 2 && lines[1].indexOf(',') > 0 && !/No data|<html|<meta/i.test(r.text);
+                return { ok: good, note: good ? lines[1] : 'HTTP ' + r.status + ' ' + String(r.text || '').slice(0, 60) };
+              });
+            }
+            await test('Frankfurter: USD to INR (daily rate)', async () => {
+              const r = await request('GET', 'https://api.frankfurter.app/latest?from=USD&to=INR', {}, null, 20000); const j = tryJson(r.text);
+              return j && j.rates && j.rates.INR ? { ok: true, note: '1 USD = ' + j.rates.INR + ' INR (' + j.date + ')' } : fail(r);
+            });
+            await test('BSE: SENSEX (this address is a guess)', async () => {
+              const r = await request('GET', 'https://api.bseindia.com/BseIndiaAPI/api/GetSensexData/w', { 'Referer': 'https://www.bseindia.com/', 'Origin': 'https://www.bseindia.com', 'Accept': 'application/json' }, null, 20000);
+              const j = tryJson(r.text);
+              return j ? { ok: true, note: JSON.stringify(j).slice(0, 110) } : fail(r);
+            });
+
+            // summary table
+            const pass = results.filter(r => r.ok).length;
+            let md = '## Data source probe: ' + pass + ' of ' + results.length + ' passed\n\n| Result | Test | What came back |\n|---|---|---|\n';
+            results.forEach(r => { md += '| ' + (r.ok ? 'PASS' : 'FAIL') + ' | ' + r.name.replace(/\|/g, '/') + ' | ' + r.note.replace(/\|/g, '/') + ' |\n'; });
+            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY || '/tmp/probe_summary.md', md);
+            console.log('\nDONE: ' + pass + ' of ' + results.length + ' passed');
+          }
+
+          module.exports = { parseRpc, summarizeCall, mcpProbe, request, results, add };
+          if (!process.env.PROBE_NO_RUN) main().catch(e => { console.log('probe crashed: ' + e.message); });
+          SCRIPT
+          node probe.js
