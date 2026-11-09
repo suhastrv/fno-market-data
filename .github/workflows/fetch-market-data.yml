@@ -1,0 +1,285 @@
+name: Fetch Market Data
+
+on:
+  schedule:
+    - cron: '*/3 3-10 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and write market data
+        run: |
+          mkdir -p data
+          node << 'SCRIPT'
+          const https = require('https');
+          const zlib  = require('zlib');
+          const fs    = require('fs');
+
+          function get(url, headers) {
+            return new Promise((resolve, reject) => {
+              const u = new URL(url);
+              https.request({
+                hostname: u.hostname,
+                path:     u.pathname + u.search,
+                method:   'GET',
+                timeout:  12000,
+                headers:  Object.assign({
+                  'User-Agent':      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                  'Accept':          'application/json, text/plain, */*',
+                  'Accept-Language': 'en-IN,en;q=0.9',
+                  'Accept-Encoding': 'gzip, deflate, br',
+                  'Connection':      'keep-alive',
+                }, headers || {})
+              }, res => {
+                const chunks = [];
+                res.on('data', c => chunks.push(c));
+                res.on('end', () => {
+                  const buf = Buffer.concat(chunks);
+                  const enc = (res.headers['content-encoding'] || '').toLowerCase();
+                  const dec = enc.includes('br') ? zlib.brotliDecompress
+                            : enc.includes('gzip') ? zlib.gunzip
+                            : enc.includes('deflate') ? zlib.inflate
+                            : null;
+                  if (dec) {
+                    dec(buf, (err, out) => {
+                      if (err) return resolve({ ok: false, status: res.statusCode, raw: buf.toString('utf8').slice(0,200) });
+                      const text = out.toString('utf8');
+                      try { resolve({ ok: res.statusCode < 400, status: res.statusCode, data: JSON.parse(text), raw: text.slice(0,300) }); }
+                      catch(e) { resolve({ ok: false, status: res.statusCode, raw: text.slice(0,300) }); }
+                    });
+                  } else {
+                    const text = buf.toString('utf8');
+                    try { resolve({ ok: res.statusCode < 400, status: res.statusCode, data: JSON.parse(text), raw: text.slice(0,300) }); }
+                    catch(e) { resolve({ ok: false, status: res.statusCode, raw: text.slice(0,300) }); }
+                  }
+                });
+              })
+              .on('error', reject)
+              .on('timeout', function(){ this.destroy(); reject(new Error('timeout')); })
+              .end();
+            });
+          }
+
+          let nseCookies = '';
+
+          async function seedNSE() {
+            return new Promise(resolve => {
+              https.request({
+                hostname: 'www.nseindia.com',
+                path: '/',
+                method: 'GET',
+                timeout: 10000,
+                headers: {
+                  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                  'Accept-Language': 'en-IN,en;q=0.9',
+                  'Accept-Encoding': 'gzip, deflate, br',
+                  'Upgrade-Insecure-Requests': '1',
+                }
+              }, res => {
+                const setCookie = res.headers['set-cookie'] || [];
+                nseCookies = setCookie.map(c => c.split(';')[0]).join('; ');
+                console.log('Cookies:', nseCookies.length > 0 ? nseCookies.split(';').length + ' collected' : 'NONE');
+                const chunks = [];
+                res.on('data', c => chunks.push(c));
+                res.on('end', () => resolve(true));
+              })
+              .on('error', () => resolve(false))
+              .on('timeout', function(){ this.destroy(); resolve(false); })
+              .end();
+            });
+          }
+
+          async function nseGet(path) {
+            return get('https://www.nseindia.com' + path, {
+              'Referer':          'https://www.nseindia.com/',
+              'X-Requested-With': 'XMLHttpRequest',
+              'Sec-Fetch-Dest':   'empty',
+              'Sec-Fetch-Mode':   'cors',
+              'Sec-Fetch-Site':   'same-origin',
+              'Cookie':           nseCookies,
+            });
+          }
+
+          async function main() {
+            const result = {};
+            const errors = [];
+
+            // ── Seed NSE session ──
+            console.log('Seeding NSE...');
+            await seedNSE();
+            await new Promise(r => setTimeout(r, 2000));
+
+            // ── NSE allIndices ──
+            console.log('Fetching allIndices...');
+            try {
+              const r = await nseGet('/api/allIndices');
+              console.log('Status:', r.status, '| Has data:', !!r.data);
+              // Debug: show top-level keys and first item
+              if (r.data) {
+                console.log('Top keys:', Object.keys(r.data).join(', '));
+                const arr = r.data.data || r.data.indices || r.data.indexData || [];
+                console.log('Array length:', arr.length);
+                if (arr.length > 0) {
+                  console.log('First item keys:', Object.keys(arr[0]).join(', '));
+                  console.log('First item:', JSON.stringify(arr[0]).slice(0, 200));
+                }
+
+                const MAP = {
+                  'NIFTY 50':'nifty', 'NIFTY BANK':'banknifty',
+                  'INDIA VIX':'vix', 'NIFTY FINANCIAL SERVICES':'finnifty',
+                  'NIFTY MIDCAP 50':'midcap', 'NIFTY IT':'niftyit',
+                  'NIFTY PHARMA':'niftypharma', 'NIFTY AUTO':'niftyauto',
+                  'NIFTY FMCG':'niftyfmcg', 'NIFTY 100':'nifty100',
+                };
+
+                // Try every possible array location
+                const arrays = [
+                  r.data.data, r.data.indices, r.data.indexData,
+                  r.data.advance && r.data.advance.data,
+                  Array.isArray(r.data) ? r.data : null,
+                ].filter(a => Array.isArray(a) && a.length > 0);
+
+                for (const arr2 of arrays) {
+                  arr2.forEach(item => {
+                    // Try every possible name field
+                    const name = item.indexName || item.index || item.name || item.description || '';
+                    const key  = MAP[name];
+                    if (!key) return;
+
+                    // Try every possible price field
+                    const price = parseFloat(
+                      item.last || item.current || item.ltp ||
+                      item.lastPrice || item.indexValue || 0
+                    );
+                    const prev = parseFloat(
+                      item.previousClose || item.prevClose ||
+                      item.previousDay || item.prevDay || price
+                    );
+                    const chgPct = item.percChange != null ? parseFloat(item.percChange)
+                                 : item.pChange != null ? parseFloat(item.pChange)
+                                 : prev > 0 ? ((price - prev) / prev * 100) : 0;
+
+                    if (price <= 0) return;
+                    result[key] = {
+                      price, prev,
+                      chgPct: parseFloat(chgPct.toFixed(2)),
+                      high:   parseFloat(item.dayHigh || item.high || price),
+                      low:    parseFloat(item.dayLow  || item.low  || price),
+                      open:   parseFloat(item.open    || price),
+                      w52h:   parseFloat(item.yearHigh|| item['52wHigh'] || price),
+                      w52l:   parseFloat(item.yearLow || item['52wLow']  || price),
+                      src:    'NSE'
+                    };
+                  });
+                }
+                console.log('NSE loaded:', Object.keys(result).length, Object.keys(result).join(', '));
+              } else {
+                console.log('No data. Raw:', r.raw);
+                errors.push('NSE no data: ' + (r.raw || '').slice(0, 100));
+              }
+            } catch(e) {
+              errors.push('NSE exception: ' + e.message);
+              console.log('NSE error:', e.message);
+            }
+
+            // ── Global data via Yahoo Finance (with correct headers) ──
+            console.log('Fetching global data...');
+            const globalList = [
+              { id:'sensex', s:'%5EBSESN'  },
+              { id:'sp500',  s:'%5EGSPC'   },
+              { id:'nasdaq', s:'%5EIXIC'   },
+              { id:'dow',    s:'%5EDJI'    },
+              { id:'nikkei', s:'%5EN225'   },
+              { id:'gold',   s:'GC%3DF'    },
+              { id:'crude',  s:'CL%3DF'    },
+              { id:'usd',    s:'INR%3DX'   },
+              { id:'silver', s:'SI%3DF'    },
+            ];
+
+            const missing = globalList.filter(x => !result[x.id]);
+            if (missing.length > 0) {
+              // Yahoo v7 batch quote — pre-encoded symbols avoid ^ blocking
+              const syms = missing.map(x => x.s).join('%2C');
+              try {
+                const r = await get(
+                  'https://query1.finance.yahoo.com/v7/finance/quote?symbols=' + syms +
+                  '&fields=regularMarketPrice,regularMarketChangePercent,' +
+                  'regularMarketDayHigh,regularMarketDayLow,regularMarketPreviousClose,' +
+                  'regularMarketVolume,fiftyTwoWeekHigh,fiftyTwoWeekLow',
+                  {
+                    'Referer':  'https://finance.yahoo.com/',
+                    'Origin':   'https://finance.yahoo.com',
+                    'Cookie':   '',
+                  }
+                );
+                console.log('Yahoo global status:', r.status);
+                if (r.ok && r.data && r.data.quoteResponse) {
+                  const quotes = r.data.quoteResponse.result || [];
+                  // Build reverse map from encoded -> id
+                  const symMap = {};
+                  missing.forEach(x => {
+                    // decoded symbol
+                    const decoded = decodeURIComponent(x.s);
+                    symMap[decoded] = x.id;
+                  });
+                  quotes.forEach(q => {
+                    const key = symMap[q.symbol];
+                    if (!key) return;
+                    const price  = parseFloat(q.regularMarketPrice || 0);
+                    const chgPct = parseFloat(q.regularMarketChangePercent || 0);
+                    result[key] = {
+                      price,
+                      prev:   parseFloat(q.regularMarketPreviousClose || price),
+                      chgPct: parseFloat(chgPct.toFixed(2)),
+                      high:   parseFloat(q.regularMarketDayHigh  || price),
+                      low:    parseFloat(q.regularMarketDayLow   || price),
+                      w52h:   parseFloat(q.fiftyTwoWeekHigh      || price),
+                      w52l:   parseFloat(q.fiftyTwoWeekLow       || price),
+                      volume: parseFloat(q.regularMarketVolume   || 0),
+                      src:    'Yahoo'
+                    };
+                    console.log('Yahoo OK:', key, price);
+                  });
+                  console.log('Yahoo loaded:', quotes.length, 'quotes');
+                } else {
+                  console.log('Yahoo failed:', r.status, r.raw ? r.raw.slice(0,100) : '');
+                }
+              } catch(e) {
+                console.log('Yahoo global error:', e.message);
+              }
+            }
+
+            const count = Object.keys(result).length;
+            console.log('\nTotal:', count, 'instruments');
+            if (errors.length) console.log('Errors:', JSON.stringify(errors));
+
+            fs.writeFileSync('data/market.json', JSON.stringify({
+              ok: count > 0, data: result,
+              ts: new Date().toISOString(), unix: Date.now(),
+              count, errors
+            }, null, 2));
+            console.log('Written data/market.json -', count, 'instruments');
+            if (count === 0) { console.error('FATAL: no data'); process.exit(1); }
+          }
+
+          main().catch(e => { console.error('FATAL:', e.message); process.exit(1); });
+          SCRIPT
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/market.json
+          git diff --staged --quiet && echo "No change" || git commit -m "market $(date -u '+%H:%M UTC')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
