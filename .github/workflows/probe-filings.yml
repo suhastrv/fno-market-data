@@ -1,0 +1,43 @@
+name: Probe filing sources
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Test filing routes
+        run: |
+          cat > probe.js <<'JS'
+          const UA = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36','Accept':'application/json,text/html,*/*','Accept-Language':'en-US,en;q=0.9'};
+          async function t(name, url, hdrs){
+            try{
+              const r = await fetch(url,{headers:Object.assign({},UA,hdrs||{}),redirect:'follow'});
+              const b = await r.text();
+              console.log((r.ok?'PASS':'FAIL')+' | '+name+' | HTTP '+r.status+' | '+b.length+' bytes | '+b.slice(0,80).replace(/\s+/g,' '));
+            }catch(e){console.log('FAIL | '+name+' | '+e.message);}
+          }
+          (async()=>{
+            let ck='';
+            try{const r=await fetch('https://www.nseindia.com',{headers:UA});ck=(r.headers.getSetCookie?r.headers.getSetCookie():[]).map(c=>c.split(';')[0]).join('; ');}catch(e){}
+            const H={Cookie:ck,Referer:'https://www.nseindia.com/'};
+            await t('NSE announcements TCS','https://www.nseindia.com/api/corporate-announcements?index=equities&symbol=TCS',H);
+            await t('NSE financial results TCS','https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=TCS&period=Quarterly',H);
+            await t('NSE annual reports TCS','https://www.nseindia.com/api/annual-reports?index=equities&symbol=TCS',H);
+            await t('NSE event calendar','https://www.nseindia.com/api/event-calendar',H);
+            await t('NSE archives CSV','https://archives.nseindia.com/content/indices/ind_nifty500list.csv');
+            await t('niftyindices CSV','https://www.niftyindices.com/IndexConstituent/ind_nifty500list.csv');
+            await t('BSE announcements','https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w?strCat=-1&strPrevDate=20261101&strScrip=532540&strSearch=P&strToDate=20261125&strType=C',{Referer:'https://www.bseindia.com/'});
+            await t('BSE annual reports','https://api.bseindia.com/BseIndiaAPI/api/AnnualReport_New/w?scripcode=532540',{Referer:'https://www.bseindia.com/'});
+            await t('TCS IR page','https://www.tcs.com/investor-relations');
+            await t('Infosys IR page','https://www.infosys.com/investors.html');
+            await t('HDFC Bank IR page','https://www.hdfcbank.com/personal/about-us/investor-relations');
+            await t('Asian Paints IR page','https://www.asianpaints.com/more/investors.html');
+            await t('Persistent IR page','https://www.persistent.com/investors/');
+            await t('Screener TCS','https://www.screener.in/company/TCS/consolidated/');
+            await t('SEC EDGAR (control)','https://data.sec.gov/submissions/CIK0000320193.json');
+          })();
+          JS
+          node probe.js
