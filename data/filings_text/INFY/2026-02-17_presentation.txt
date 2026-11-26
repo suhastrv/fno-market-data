@@ -1,0 +1,2289 @@
+                          TO ALL STOCK EXCHANGES
+BSE LIMITED
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+NEW YORK STOCK EXCHANGE
+February 17, 2026
+Dear Sir/ Madam,
+Sub: Investor AI day – Agenda & Presentation
+In continuation to our letter dated January 23, 2026 regarding Investor AI day in Bengaluru, please find
+attached the agenda and presentations which will be made during Investor AI day for your information and
+records.
+
+ This will also be hosted on the Company’s website, at www.infosys.com
+
+
+Thanking you,
+Yours sincerely,
+For Infosys Limited
+Anur            Digitally signed by Anur
+Gurugopala Raju Gurugopala    Raju
+                Suryanarayana Manikantha
+Suryanarayana Date: 2026.02.17 11:11:52
+                +05'30'
+Manikantha
+
+A.G.S. Manikantha
+Company Secretary
+Membership No. A21918
+
+Infosys AI Day
+    February 17th, 2026
+
+
+
+
+                          1
+
+                                                                                                                    February 17, 2026
+                                                                                                                    Convention Center, Infosys
+Agenda                                                                                                              Campus, Bengaluru
+
+Session Name                                                   Speaker                   Title                                                    Time (IST)
+Tech transitions – Why is the AI transition different?         Nandan Nilekani           Chairman of the Board                                    11:00 – 11:20 AM
+
+The AI Services Opportunity                                    Salil Parekh              Chief Executive Officer and Managing Director            11:20 – 11:50 AM
+
+AI Services Playbook                                           Satish H.C.               Chief Delivery Officer                                   11:50 – 12:20 PM
+                                                               Dinesh Rao                Chief Delivery Officer
+                                                               Balakrishna D.R.          Head – Global Services
+
+Infosys Topaz Fabric – AI platform suite                       Mohammed Rafee Tarafdar   Chief Technology Officer                                 12:20 – 12:30 PM
+
+Unlocking AI Value – Communication, Media and Technology       Anand Swaminathan         Segment Head – Communication, Media and Technology       12:30 – 12:40 PM
+
+Unlocking AI Value – Manufacturing                             Jasmeet Singh             Segment Head – Manufacturing                             12:40 – 12:50 PM
+
+Unlocking AI Value – Financial Services                        Dennis Gada               Segment Head – Banking & Financial Services              12:50 – 01:00 PM
+Networking Lunch
+Infosys Living Labs Walkthrough                                                                                                                   01:45 – 03:00 PM
+
+Unlocking AI Value – Energy, Utilities, Resources & Services   Ashiss Kumar Dash         Segment Head – Energy, Utilities, Resources & Services   03:00 – 03:10 PM
+
+Unlocking AI Value – Retail, CPG and Logistics                 Ambeshwar Nath            Industry Head – CPG, Logistics and Retail                03:10 – 03:20 PM
+
+Partnership Ecosystem for AI value delivery                    Anand Swaminathan         Segment Head – Communication, Media and Technology       03:20 – 03:30 PM
+
+The Human-AI Workforce Reimagination                           Shaji Mathew              Chief Human Resources Officer                            03:30 – 03:40 PM
+
+Brand as a Growth Catalyst                                     Sumit Virmani             Chief Marketing Officer                                  03:40 – 03:50 PM
+
+Summary, Q&A                                                   Salil Parekh              Chief Executive Officer and Managing Director            03:50 – 04:30 PM
+                                                               Jayesh Sanghrajka         Chief Financial Officer
+
+
+                                                                                                                                                                     2
+
+3
+
+Tech transitions - Why is the AI
+     transition different?
+           Nandan Nilekani
+            Chairman of the Board
+
+
+
+
+                                    4
+
+Safe harbor
+
+Certain statements mentioned in this presentation concerning our future growth prospects, our future financial or
+operating performance, our use of AI and its effects on our Business, and the United States H-1B visa program are
+forward looking statements intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform
+Act of 1995, which involve a number of risks and uncertainties that could cause actual results or outcomes to differ
+materially from those in such forward-looking statements. The risks and uncertainties relating to these statements
+include, but are not limited to, risks and uncertainties regarding the execution of our business strategy, increased
+competition for talent, our ability to attract and retain personnel, increase in wages, investments to reskill our
+employees, our ability to effectively implement a hybrid working model, economic uncertainties and geo-political
+situations, technological disruptions and innovations such as Generative AI, the complex and evolving regulatory
+landscape including, our ESG vision, our capital allocation policy and expectations concerning our market position,
+future operations, margins, profitability, liquidity, capital resources, our corporate actions including acquisitions, the
+outcome of pending litigation, the outcome of the US government investigation, the timing, implementation,
+duration and effect of the September 19, 2025 proclamation signed by the president of the United States related to
+the H-1B visa program, and the effect of current and any future tariffs. Important factors that may cause actual
+results or outcomes to differ from those implied by the forward-looking statements are discussed in more detail in
+our US Securities and Exchange Commission filings including our Annual Report on Form 20-F for the fiscal year
+ended March 31, 2025. These filings are available at https://www.sec.gov/. Infosys may, from time to time, make
+additional written and oral forward-looking statements, including statements contained in the Company's filings
+with the Securities and Exchange Commission and our reports to shareholders. The Company does not undertake
+to update any forward-looking statements that may be made from time to time by or on behalf of the Company
+unless it is required by law.
+                                                                                                                             5
+
+Technology has seen fundamental shifts over the years
+
+                           Physical, Static                                 Digital, Dynamic
+                            Information                                       Operations
+                 $500 Tr
+                                                                                     GenAI          Agentic AI
+
+                                                                            Mobile
+
+
+
+
+    Global GDP
+                  $50 Tr
+                                                            Transistors                  Cloud
+
+                                                                               PCs &
+                  $5 Tr                                                       Internet
+
+                           Printing Press
+
+                 $500 Bn                      Electrification &
+                                                 Telegraph
+(adjusted $Mn)
+                                 1400               1900             1960        2000        2025
+Source: Coatue
+                                                                                                                 6
+
+Tech innovations have continuously redefined enterprise
+operations
+
+            Computerization                    Internet Access                           Cloud Access
+
+• Replacement of paper-based        • Globalization and digital reach         • Digital scalability
+  workflows
+                                    • Platform-based business models          • Modular business architecture and
+• Enterprise systems                                                            microservices
+                                    • Enterprise data
+• Addition of IT operations                                                   • Enterprise IT
+
+
+
+
+Mainframe     Minicomputer     PC   Client Server    LAN      Web Computing     Mobile    Enterprise apps   Big data
+
+
+
+
+                                    Enterprise tech transitions
+                                                                                                                       7
+
+AI adoption is faster than the earlier tech transitions
+
+
+                      AI                Smartphones
+                                                                 Internet
+       1 Bn users
+
+
+
+
+                                              AI – the fastest tech innovation to reach 1
+                                                                Bn users
+
+
+ 0                          5                            10                            20
+                                Years from launch
+Public data sources                                                                         8
+
+The shift has multiple dimensions
+
+                      AI is not a layer of technology nor is an adjacency
+
+                                                                        Operating                Mental
+   Technology                Business                Talent
+                                                                         Model                   Model
+ • AI-ready systems      • Integrated          • Scalable AI-        • Cross-functional    • Evident-first
+ • AI-enabled data         business              augmented             knowledge graph       principle
+   platform                functions with AI     workforce           • Exponential         • Responsible AI
+ • AI-native               at core             • Adaptive learning     engineering
+   architecture          • AI-embedded           and change
+                           workflows             management
+
+
+
+
+         AI transformation is not a lift and shift; it requires a fundamental root and branch surgery
+
+                                                                                                              9
+
+Modernization of legacy systems cannot be deferred
+anymore
+
+      The true cost of delaying modernization                       Demand side needs modernization
+
+                                                                Low agility                  Tech debt
+    Financial                    60-80% of IT budgets
+    drain                        spent on outdated systems
+                                                                Slow rate of change          Cost of security
+
+                                 Average breach detection
+    Security                     exceeds 200 days in
+    vulnerabilities                                                     Supply side makes it easier
+                                 legacy environments
+                                                                High rate of change          Enhanced Security
+                                                                                             and Compliance
+    Innovation                   Legacy systems act on
+    paralysis                    data silos                     Efficient & productive       Easily scalable
+
+
+
+                                     Accumulated tech debt over decades must be paid
+
+Source: US GAO, Adalo research                                                                                   10
+
+Build vs Buy: balance moves towards build and re-
+engineering as AI becomes the core
+
+                AI as a core of enterprise IT                 Build                   Buy
+
+                                                              Customizable            Standardized
+                                              % of IT spend
+                                                  on AI       Proprietary             Vendor dependency
+
+                                                  23%         Organic and steady      Faster deployment
+
+                                                              High internal control   External control
+                  As of 2025, ~50% of firms have
+                        dedicated AI budget                   Continuous investment   Lock-in & renewals
+
+
+               Enterprises prefer proprietary agentic layer on top of the foundational models — building
+                                        customizable to composable solutions
+
+
+Source: Foundry’s AI Priorities study, 2025                                                                11
+
+AI is evolving at an astonishing speed led by hyper
+competitive market, large capital access and rapid R&D
+
+
+                                                                                      Gemma 3
+                                                                Llama 4
+                                                                                                                  Innovation cycles
+                                                            Gemini 3 Pro                              Mistral-3   are tightening
+                                                                                  Deepseek R1
+                               Gemini
+                                                                        GPT-5.2            Claude Sonnet 4.5
+                       GPT-4
+                                                                                                                  Leaderboards
+                                        Claude 2                                                                  remain in constant
+                                                             Grok 4.1         Kimi 2 Thinking
+                                                                                                      GPT-5.1
+                                                                                                                  motion, driven by a
+                          Mistral-medium
+                                                            Claude Opus 4.5
+                                                                                                                  significant rise in AI
+                                                                                      Gemini 2.5 Flash            investments —
+                                                                                                                  spending rose from
+                                                                   GPT-5                        Claude Hiku 4.5
+                                                                                                                  $24Bn in 2023 to
+                                                                                                                  $140Bn (E) in 2025.
+       100 Bn+                           10-12                 1 Tr+                             60+
+         parameters                  agent frameworks        parameters                agent frameworks
+
+                           2023                Foundation models              2025
+Source: Github, S&P Global, Medium                                                                                                         12
+
+The foundational technology is ahead of its diffusion and
+deployment
+
+A widening gap between AI progress and enterprise value
+
+
+
+
+          Performance / Value creation
+                                          Deep learning      Frontier models
+                                                                                            Benchmark model
+                                                                                              performance
+
+
+
+
+                                                                                          The deployment gap
+
+
+
+                                                                                         Realized enterprise value
+
+                                                              Tech progress
+
+
+                                         AI progress is outpacing enterprise readiness
+
+Source: Snorkel                                                                                                      13
+
+Talent demand is pivoting from legacy roles to
+high-growth AI skills
+
+ Fastest declining IT jobs                           New/upcoming IT jobs
+
+              Front-End Web Developers                    Data Annotator    AI Engineer
+
+
+              QA Testers                                  AI Forensic       Forward Deployed
+                                                          Analyst           Engineers
+              IT Support Specialist
+                                                          AI leads
+              Blockchain Developers
+
+
+
+      92 Mn                 Traditional jobs to be
+                            displaced                 170 Mn New jobs to be created
+Source: WEF                                                                                    14
+
+Greenfield AI development is easier than brownfield
+
+The greenfield-brownfield productivity gap
+
+ New build environments                                                Legacy environments
+                                                                       • Technical debt
+ • Clean structure and consistent patterns
+                                                                       • Data silos
+ • Real-time data availability
+                                                                       • Undocumented dependencies
+
+ • Structured environments                                             • Brownfield = high overhead + rework
+ • Probabilistic                                                       • Deterministic
+
+ Task level                                                            Business function level
+
+
+ 15-50% productivity                                                   Only 1% fully scaled to AI
+
+
+                                   Organizational productivity is different from task level productivity
+
+Source: Mckinsey, International Center for Law & Economics                                                     15
+
+AI implementation requires laser focus
+
+
+     AI’s zero marginal cost of               Structure AI usage guidelines
+             generation
+
+                                              Set clear quality gates for AI content
+
+              AI slops
+                                              Maintain explainability & traceability
+
+       Illusion of productivity
+                                              Establish AI value capture instead of usage
+
+
+      Organizational atrophy                  Empower high skilled workforce
+
+
+           AI investments are meaningful only if they lead to major productivity gains
+
+                                                                                            16
+
+What still matters
+
+
+     First Principles thinking    Leadership in effective change
+
+
+     Understanding enterprise
+                                  Strong collaboration
+     context
+
+
+     Agnostic design              Intense focus on productivity
+
+
+
+     Getting the house in order   Engineering bent of mind
+
+
+                                                                   17
+
+Thank You
+
+
+            18
+
+The AI Services Opportunity
+                    Salil Parekh
+      Chief Executive Officer and Managing Director
+
+
+
+
+                                                      19
+
+Clients trust Infosys for their AI Journey
+
+                 “Now, like most companies, we're still early in our AI dream. The real transportation is still to
+                come. But with Infosys, we now have the delivery model, the talent, the platform, and a
+   Infosys      partner that can move from pilots to meaningful enterprise-wide impact. I'm really excited
+                about what's ahead, and very, very proud to be building it together with Infosys”
+ provides AI                                                              - Mike Fries, CEO, Liberty Global
+
+ Services to
+                “As part of our recently launched Forward ’28 strategy, we announced our ambition to be a
+ 90% of our     leading bank in a digital age. To support us in this digital and technology transformation, we
+                now enter a strategic partnership with Infosys, a global leader in digital services and
+  large 200     consulting. Infosys has the tools, experience, and expertise to support us in accelerating our
+    clients     transformation using cloud and AI technologies.”
+                                                                    - Frans Woelders, COO, Danske Bank
+
+
+                “Partnering with leading technology firms like Infosys and leveraging Infosys Topaz Fabric is
+                helping transform how we serve our customers by integrating advanced AI at the core of our
+                operations to deliver more modern, secure, and personalized banking experiences”
+                                                                  - Michael Ruttledge, CIO, Citizens Bank
+                                                                                                                     20
+
+Our AI First Value framework is comprehensive
+
+
+
+
+                 Physical AI   INNOVATE               INSIGHT   Data for AI
+                                          Unlock AI
+                                           Value
+
+
+
+
+                                                                              21
+
+We see six areas of new services opportunity from AI
+
+    AI Strategy and AI strategy, building AI agents, and orchestrating
+1   Engineering     across platforms, tools and assets
+
+
+                       Make enterprise data ready for AI models, and drive
+2   Data for AI
+                       business insights
+
+
+3   Process AI         Reimagine core business processes using agents
+
+
+    Agentic Legacy Use agents to modernize legacy estates
+4   Modernization
+
+
+5   Physical AI        Design products and embed AI in physical devices
+
+
+
+6   AI Trust           Ensure responsible and secure AI
+
+                                                                             22
+
+We have successful AI programs at several clients
+in these areas
+
+
+
+
+                  Physical AI   INNOVATE               INSIGHT   Data for AI
+                                           Unlock AI
+                                            Value
+
+
+
+
+                                                                               23
+
+Scaling AI First Services
+
+AI First Services
+
+
+
+          30                       100
+          offerings              sub offerings
+
+                                                  New offerings in
+                Humans and agents                high growth areas
+
+
+            Enabled by Topaz Fabric and
+           partnerships with AI disrupters
+
+                                                                     24
+
+We help clients create impact with AI
+Clients’ AI Journey                                            Infosys strengths
+                                                                    Deep
+                                                                1   understanding of
+                                                                    client landscape
+
+
+Today
+• Fragmented data                                               2   Domain
+                                                                    knowledge
+• Legacy systems
+• Talent scarcity
+
+                      The Future                                3   Robust engineering
+                                                                    talent
+                      • Reimagined business and engineering
+                        workflows
+                      • Modernized tech and data foundations
+                      • Secure, scalable operating model        4   Platform & IP
+
+
+Navigate Your Next                                                                       25
+
+    The dynamic in AI services
+
+
+
+
+      AI First services                                                                                         Several entities have
+      opportunity*: $300 –                                                                                      estimated that AI
+      $400 billion by 2030                                                      AI services
+                                                                                                                productivity will lead to
+                                                                                              AI Productivity
+                                                                                    led             led         compression in IT
+                                                                                expansion      compression      services revenue
+
+
+
+
+* NASSCOM’s Future of Tech Services 2030 – In partnership with McKinsey & Co.                                                               26
+
+Infosys AI Playbook
+Vision
+
+                     Infosys aspires to be the leading partner to
+                 “unlock AI value” and deliver business outcomes on
+                  revenue growth, cost optimization, and innovation
+
+Pillars
+                  AI First Services                        AI Augmented Services
+
+              Capture new demand to                    Reinvent existing services to
+                   drive growth                          win higher wallet share
+
+
+Foundation                             Platforms and IP
+                               Go To Market and Partnership Ecosystem
+                                      Talent and Culture
+                                        Brand equity
+
+                                                                                       27
+
+28
+
+Infosys AI Playbook
+Vision
+
+                     Infosys aspires to be the leading partner to
+                 “unlock AI value” and deliver business outcomes on
+                  revenue growth, cost optimization, and innovation
+
+Pillars
+                  AI First Services                        AI Augmented Services
+
+              Capture new demand to                    Reinvent existing services to
+                   drive growth                          win higher wallet share
+
+
+Foundation                            Platforms and IP
+                           Go To Market and Partnership Ecosystem
+                                      Talent and Culture
+                                        Brand Equity
+
+                                                                                       29
+
+AI Services Playbook
+  Satish H.C.              Dinesh Rao
+Chief Delivery Officer   Chief Delivery Officer
+
+
+
+
+                                                  30
+
+Enterprise AI is much more than plug and play
+
+
+C loud
+
+
+
+
+                                                31
+
+Enterprise Stack is transforming – Myth vs Reality
+
+   State of Enterprise   Enterprise AI Myth     Enterprise AI Reality
+
+
+
+
+                                                         Amplified
+                                                        Intelligence
+
+
+
+
+                                                                        32
+
+Monetizing the Opportunity
+
+
+                                                                     Human + Agent Workflow
+                                                                                                          New Services Stack
+                                                                     Reimagination
+
+
+
+
+Physical AI   INNOVATE               INSIGHT   Data for AI
+                         Unlock AI                                   Codifying
+                                                                                                          New Domain Stack
+                          Value                                      Enterprise Context
+
+
+
+                                                                     Agentic Engineering
+                                                                     (Infosys Topaz Fabric +              New Deal Archetypes
+                                                                     Specialist talent)
+
+
+
+                                Context                      |   Accountability        |       Growth Pathways
+                                                                                                                                33
+
+      AI First Journey for a Multinational Food Products
+      Company
+                                Oct 2023                        May 2024                           Jan 2025                           Jul 2025                        Jan 2026
+                                Jan 2024                        Aug 2024                           Apr 2025                           Oct 2025                       Feb 2026+
+
+                                                                  Pilot:                         Market Research           Knowledge Agent (Internal + Web)    Food Storage Optimization
+
+Reimagine
+                                                             Market Research
+                                                                                            Product Research & Spend
+                                                            HR Concierge Agent                                                 Agentic App for Digital         Defect Detection (Edge +
+                                                                                                 Analysis Agents
+                                                                                                                              Marketplace Shelf Creation               ML+AI)
+Business                                                                                       Procurement Agent
+                                                                                                                              Agentic App for Competitive        Agentic App: Inventory
+                                                                                               HR Concierge Agent                 Brand Intelligence          Replenishment & Rebalancing
+
+                       AI Governance & Value Office    Enterprise AI Foundation Setup      AI Foundation Enhancements          AI for IT Transformation       R&D Assist: Recipe Retrieval
+
+
+
+
+  Build Foundations
+                                  Setup               (Data Fingerprinting, Knowledge        (Agent Canvas, Semantic                                             from 5K Handwritten
+                                                         Harvesting, AI Governance               Caching, Video)                                               Documents and connected
+                          AI Governance Policies         Gateway, Lowcode Studio)                                                                                Research documents
+                                                                                           4-6 Week Idea-to-Production
+                                                                                                      Cycle
+                                                       Knowledge Harvesting & Con-
+                         Enterprise AI Architecture   versational AI (text, image, data)
+                                  Blueprint                                                       FinOps Agent
+
+                                                       Foundry + Factory Operating         Content Translator Enterprise
+                                                                 Model                                Rollout
+
+                       AI Risk Assessment Framework
+
+
+  Strategy
+                          Value Mgmt. Framework
+                         AI Use Case Prioritization
+
+
+
+                      50+ Mn USD                      25+ Mn USD                                   40+%                                   10+                       2 Weeks Time of
+                                                                                                                                                                    Ideation to Beta
+                         New business                      Annual savings                     Business productivity                   AI Applications
+                         opportunities                     from efficiency                       improvement                          Productionized
+                                                                                                                                                                        rollout
+
+                                                                                                                                                                                             34
+
+Introducing Infosys AI First Value framework
+                                                                  Growth drivers                                Indicative offerings
+
+                                                                    1   • AI experimentation to enterprise-      AI Strategy, Roadmap And
+                                                                          scale deployment                       Architecture
+                                                                                                                 Agentic AI Platform Build &
+                                                                        • Optimize AI infra cost and
+                                                                                                                 Implementation
+                                                                          performance
+                                                                                                                 Context Engineering
+
+
+
+
+ Physical AI   INNOVATE               INSIGHT   Data for AI
+                          Unlock AI                                 2   • Enterprise data is not AI ready        AI Data Strategy
+                                                              2
+                           Value
+                                                                        • Need for high quality data             AI Ready Data Platform Build
+                                                                          foundations
+                                                                                                                 AI Grade Data Engineering
+
+
+                                                                    3   • Re-imagining end to end business
+                                                                                                                 AI Use Case Prioritization
+                                                                          processes
+                                                                        • Domain-aware AI orchestration          Domain Specific Agent Foundry
+                                                                        • Need for holistic interventions for
+                                                                                                                 Agentic Extensions Of Func. /
+                                                                          ops, tech and consulting               Vertical Stacks
+                                                                                                                                                 35
+
+Introducing Infosys AI First Value framework
+                                                                 Growth drivers                                  Indicative offerings
+
+                                                                   4   • Accumulating tech debt                  Tech Debt Assessment
+                                                                         slowing change
+                                                                                                                 Reverse Engineering & Target
+                                                                       • Compelling business case                State Design
+                                                                         driven by AI                            Agentic-led Full-stack
+                                                                                                                 Modernization
+
+
+
+
+    Physical AI   INNOVATE               INSIGHT   Data for AI
+                             Unlock AI                             5   • Cloud AI to real-time intelligence at   Physical AI Strategy
+5
+                              Value                                      the edge
+                                                                                                                 AI First Product Design
+                                                                       • Growth of autonomous systems in
+                                                                         physical environments                   Physical AI Labs, Digital Twins
+
+
+
+                                                                   6   • Agent led autonomy risks                Responsible AI Risk Assessment
+
+                                                                       • Increasing regulatory and compliance    AI Policy Design
+                                                                         expectations
+                                                                                                                 AI Governance Services
+
+                                                                                                                                                   36
+
+                                                                                                            Physical AI              Data for AI
+                                                                                                                          Unlock
+                                                                                                                          AI Value
+
+
+
+
+Physical AI at Nova Chemicals
+
+Business context              AI First Solutions                                                 Impact
+NOVA Chemicals is             Infosys has brought deep domain & AI expertise through             •   Increase in planning
+evolving into an              accelerators like Infosys Agri-Chemical AI Cloud in this               efficiency
+AI-enabled, insight-driven    journey. The components of this solution have enabled
+industrial enterprise with    manufacturing operations insights & analytical capabilities        •   Improvement in asset
+agentic experiences , smart   that position NOVA Chemicals to streamline operations,                 utilization
+maintenance advisors,         drive efficiencies, and unlock greater value from its industrial   •   Increase in productivity
+knowledge graphs to           assets. Leveraged Azure Databricks, Azure Foundry,
+                              Azure Open AI.                                                     •   Faster decision making
+accelerate AI development,
+and GenAI assistants that      Agentic AI solutions deployed
+simplify information
+discovery.
+                                     AI algorithms for diagnostics and prognostics
+
+                                     Multi-modal AI – For structured and
+                                     unstructured operation data
+
+                                     Agentic AI to orchestrate multiple maintenance
+                                     workflows
+
+                                     Smart Maintenance Advisor
+                                                                                                                                                   37
+
+                                                                                                  Physical AI              Data for AI
+                                                                                                                Unlock
+                                                                                                                AI Value
+
+
+
+
+Agentic Legacy Modernization at Hertz
+
+
+Business context               AI First Solutions                                    Impact
+Need for Agility as Critical    AI-first modernization strategy to speed code        60%
+workflows run on legacy         comprehension, reverse engineering, and cloud-
+COBOL-based HP                  ready redevelopment leveraging Open AI, Claude       Accelerated modernization
+Tandem Non-Stop                 Sonnet and AWS Bedrock                               timelines
+platforms (~3mn lines of
+code)                           Agentic AI solutions deployed                        80%
+Strategic objective to                                                               Increase of reusable, cross-
+                                     Infosys iLEAD + GitHub Copilot
+migrate to domain-centric                                                            channel capabilities
+Java microservices on
+                                     AI-powered reverse engineering
+AWS Cloud
+                                     AI-driven forward engineering                   60%
+                                     AI-enabled testing to validate modern domain-   Cost reduction in Hosting
+                                     centric architecture                            Services
+
+
+
+                                                                                                                                         38
+
+Thank You
+
+
+            39
+
+Infosys AI Playbook
+Vision
+
+                       Infosys aspires to be the leading partner to
+                   “unlock AI value” and deliver business outcomes on
+                    revenue growth, cost optimization, and innovation
+Pillars
+                      AI First Services                        AI Augmented Services
+
+                Capture new demand to                      Reinvent existing services to
+                     drive growth                            win higher wallet share
+
+
+Foundation                                Platforms and IP
+                               Go To Market and Partnership Ecosystem
+                                          Talent and Culture
+                                            Brand equity
+
+                                                                                           40
+
+AI Services Playbook
+      Balakrishna D.R.
+      Head - Global Services
+
+
+
+
+                               41
+
+Differentiated services powered by Agentic AI
+
+
+
+                              Powered by Best-in-   Amplified by Infosys         Delivered by World
+Reimagined Services
+                               Class Models and      Enterprise Context         Class AI Native Talent
+                                     Tools
+                                                          Topaz Fabric            Dedicated AI Centre of
+ Application Development,
+                                     Models                                     Excellence (GitHub, Cursor,
+ Maintenance and Testing
+                                                                                        Devin, etc.)
+                                                    AI Agents & Orchestrators
+   Engineering Services                                                            Forward-Deployed AI
+                                                                                       Engineers
+ Migration & Modernization           Tools                MCP Servers
+                                                                                  Continuous Upskilling &
+ Package Implementation                                                           Certification Programs
+                                                    Enterprise Context Graphs
+                                                                                  Cross-Domain Expertise
+  Back-Office Operations
+                                                                                      (Industry + AI)
+
+
+  20+ PLAYBOOKS              BEST-IN-CLASS TOOLS       100+ ASSETS                90% AI TRAINED
+                                                                                                              42
+
+Application Development and Support at Microsoft
+
+Business context                     AI First Solutions                                     Impact
+
+▪ Microsoft is transforming the      Infosys is involved in Greenfield development of new
+  way they engage with their         commerce platform to transition to MCA.
+  Enterprise Customers through       Infosys also provides mission-critical support         2.5x increase in developer
+  ▪ Unified agreement                safeguarding uptime and trust - key to cloud growth    velocity
+  ▪ Direct selling                   and retention.
+  ▪ Simplified offers                                                                       35% improvement in time to
+                                     Agentic solutions:                                     market for large features
+▪ Accelerating the migration to
+  Microsoft Customer Agreement        1   Agentic RCA engine auto-generates incident
+  (MCA) is critical for:                  insights and resiliency recommendations           40% Faster incident response
+  • Accelerating the sales
+     motion for new age               2   Agentic case triage & routing accelerates
+     offerings                            classification and reduces manual handling        10x Faster RCA turnaround
+  • Reduce sales and
+                                      3   Self-learning model refine accuracy based
+     operations overhead
+                                          on analyst feedback
+▪ Microsoft’s Intelligent Cloud is
+  growing at a rapid rate of          4   AI-driven document feedback provides
+  approx. 25% YoY                         real-time guidance
+                                                                                                                           43
+
+AI and Cloud powered transformation at Danske Bank
+
+Business context              AI First Solutions                                     Impact
+
+▪ Accelerate the bank’s       AI first strategy and governance co-led with Client    ~2M Lines of AI generated
+  "Forward '28"               Chief AI Officer and technology leadership to become   code (accepted)
+  strategy to modernize       AI First Bank setting up AI Innovation Lab and
+  technology estate,          multiple AI solution workstreams.
+  Improve operational
+                                                                                     <1 min (from 6 min)
+  efficiency, and become      Using agentic AI for software development and          Reduced Financial Advisors call
+  a leading digital bank in   reducing technical debt.                               time
+  the region
+                              Agentic / Generative AI solutions
+                                                                                     16K+
+                                1   97% GitHub copilot adoption
+                                                                                     Employees have adopted
+                                2 Enterprise compliant Chat GPT                      Enterprise compliant Chat GPT
+
+                                3 HR assist, Credit Risk, Advisor Assistant
+                                                                                     Ranked No.1
+                                4 Risk Assessment                                    AI Bank in Nordics in the
+                                                                                     2025 Evident AI Index
+                                                                                                                       44
+
+Thank You
+
+
+            45
+
+Infosys AI Playbook
+Vision
+
+                       Infosys aspires to be the leading partner to
+                   “unlock AI value” and deliver business outcomes on
+                    revenue growth, cost optimization, and innovation
+Pillars
+                      AI First Services                           AI Augmented Services
+
+                Capture new demand to                        Reinvent existing services to
+                     drive growth                              win higher wallet share
+
+
+Foundation                                   Platforms and IP
+                                          Partnership Ecosystem
+                                            Talent and Culture
+                                              Brand equity
+
+                                                                                             46
+
+Infosys Topaz Fabric - AI platform
+             suite
+          Mohammed Rafee Tarafdar
+              Chief Technology Officer
+
+
+
+
+                                         47
+
+Enterprise complexity & AI Scaling
+
+    AI runways required for enterprise adoption
+                    & scaling
+
+       Rapid experimentation & innovation infrastructure    Infosys IP & Platforms
+                                                           power the AI runways to
+       Value driven, end to end reimagined workflow &
+       ways of working
+                                                            scale and realize value
+                                                                     faster
+       Evolvable architecture with optionality
+       across AI stack
+
+
+       Enterprise Context, Twin with Hybrid intelligence
+
+
+       Governance, Guardrails & Explainability by Design
+
+
+
+
+                                                                                      48
+
+Infosys Topaz Fabric powering AI at scale
+                                                                       Agentic                                                               Services powered
+ AI Strategy &                                                                                                                               by agents and
+                         Data for AI              Process AI           Legacy                 Physical AI                AI Trust            automation
+ Engineering
+                                                                     Modernization                                                           workflows
+
+
+                                           Topaz Fabric (Core & AI Next)                                                                     Infosys Topaz
+                                                                                                                                             Fabric provides out
+   Data & AI                 Process                       Enterprise                  Agent Suite                RAI Services               of box agents,
+                                                                                                                                             models and tooling
+   Services                Reengineering                    Context
+
+
+
+                                                                                                                                             Integration with
+ AI Models &             AI Native               Cloud                  Business                                       Enterprise            Client’s Enterprise
+                                                                                            Data Platforms                                   Landscape & AI
+ Framework               Platforms           Infrastructure             Platforms                                      Platforms
+                                                                                                                                             Native Platforms
+
+
+
+       5 SLMs              600+ AGENTS                   20+ MCP                    25+ BLUEPRINT                 AI CLOUD                155 PATENT
+ (Enterprise, Banking,    (IT Services & Domain        (Connectors to            (Industry specific AI              (Hybrid AI         (Filed in FY’25 and till
+  ITOps, Cybersec &           Specific Agents)       Business, Enterprise,      blueprints and solution         infrastructure for         FY’26 Jan end)
+        Code)                                          Data Platforms)               accelerators)           training & inferencing)
+
+
+                                                                                                                                                                  49
+
+AI Innovation pillars
+
+    • Innovation Network               • Living Labs                • Research
+                                                                    partnerships
+
+                                    39 Client Living Labs
+  Industry Partnerships with LFN,                            Applied Research Centre on
+         CNCF, TMForum                                        Agentic AI, Cybersecurity &
+                                    14 Infosys Living Labs            Physical AI
+
+
+    200+ Startups with 100 AI
+           Innovators                                         University Collaborations
+
+
+
+         6 Global Experts
+    8 Indian Academia Experts
+
+
+
+
+                                                                                            50
+
+Platform deployment at a global shipping and logistics                                              Physical AI
+                                                                                                                  Unlock
+                                                                                                                  AI Value   Data for AI
+
+
+
+
+group
+
+
+ Business context              AI First Solutions                                    Impact
+
+ Complex customer care         Platform-led, AI-driven automation deployed across    24H → 30m SLA time reduction
+ workflows spanning multiple   Customer Care workflows (Booking, Bill of Lading,
+ teams and geographies led     Freight Auditing & Invoicing) across 3 GBS centers    0% → 70% STP automated
+ to high TAT and operational   operating in 119 countries.                           across16 languages
+ inefficiency, focus was
+                               AI solutions deployed:                                8,000 policies digitized
+   •   End-to-end                  Multilingual free-text AI processing for highly
+       automation across           contextual, domain-intensive scenarios            1.5 Mn transactions
+       Customer Care and                                                             orchestrated per month
+                                   Preference digitization by capturing business
+       Operations                  and customer rules from tribal/tacit knowledge
+                                                                                     116 countries transactions
+   •   TAT reduction to            Freight auditing & invoicing automation           processed
+       improve customer
+       satisfaction                                                                  1,400 GBS operators enabled
+
+
+                                                                                                                                           51
+
+Thank You
+
+
+            52
+
+       Unlocking AI Value -
+Communication, Media and Technology
+                   Anand Swaminathan
+        Segment Head - Communication, Media and Technology
+
+
+
+
+                                                             53
+
+State of AI in CMT - Opportunities & Challenges
+
+   Semiconductor                          OEMs                         CSPs                        Cloud & Software                    Media & Ent.
+
+  Memory & Non-Memory            Telcom, Storage & Compute   Wireless, Wireline, Satellite         Enterprise + Consumer          Studios, OTT, Broadcasters
+
+
+
+
+        COMMUNICATIONS                                                                       MEDIA & TECHNOLOGY
+
+  1. Growth Void:                                                                  4. Spending Surge:
+  Stagnation across B2C, B2B, Edge                                                 Massive spend in a fierce AI infrastructure race
+
+
+  2. Sovereignty:                                                                  5. Diffusion and ROI:
+  Managing "Data Debt" and national resilience                                     Limited gains net of reciprocity
+
+
+  3. Productivity Expectations:                                                    6. Innovation:
+  High expectations for AI to drive massive efficiency                             Aggressive need for reinvention to drive up user , partner adoption
+
+
+
+
+                                                                                                                                                               54
+
+Top 15 clients account for 60%+ of CMT segment
+revenues and we are integral to their AI Journey
+                                                                               Operations
+               Improved               Better                   Faster                  Lower                     Higher
+             Customer Exp.           Reliability             Resolution             Cost-to-Serve           Productivity Gains
+
+
+
+                                                                                 AI-Automated Service
+            Customer & Partner   Predictive Network        AI-Driven Case
+                                                                                     Workflows in             AI-Accelerated
+Use Cases     Self - Serve &     Ops & AI Network       Diagnosis, Routing &
+                                                                                      Operations               Engineering
+                Discovery              Triage                   RCA
+
+
+
+
+Outcomes         30%                  50%+                    ~25%                      30%                   20–30%
+            NPS improvement      reduction in outages   support-cost reduction   faster ticket resolution    productivity gains
+
+
+
+
+                                                                                                                                  55
+
+                                                                                        Physical AI              Data for AI
+                                                                                                      Unlock
+                                                                                                      AI Value
+
+
+
+
+AI Journey with Liberty Global
+
+Business Context      AI First Solutions                                  Impact *
+
+• 10 million +
+  subscribers
+                       1 Customer/Agent Assist: Open AI Based             60% Fewer Customers
+                         Personalized FAQ/chat for self-serve and
+                                                                          Impacted
+• AI is moving from      customer care
+  Experiment to
+                       2 Super Search: Uses Gemini to make content
+                                                                          50%+ Reduction in
+  Foundation                                                              Outages
+                         discovery conversational and intuitive
+
+                                                                          1000+ Annual Platform
+                      3 Network Reliability: Enabling faster fault        Deliveries
+                        isolation, automated RCA, across heterogenous
+                        networks                                          100M+ EUR Run Rate
+                                                                          Savings
+
+
+                      4 Employee Assist: Co-Pilot based HR &              Tangible Improvements in
+                                                                          Customer Satisfaction
+                        Employee Chat
+
+                                                                        * Calendar Year 2025
+                                                                                                                               56
+
+Thank You
+
+
+            57
+
+Unlocking AI Value -
+  Manufacturing
+         Jasmeet Singh
+     Segment Head – Manufacturing
+
+
+
+
+                                    58
+
+Manufacturing players are embracing AI
+
+
+ “AI is helping accelerate what we offer our customers,            1 Process & business model transformation
+ transforming Toyota into the mobility company we need           Applying AI for reimagined processes, as a service
+ to be to compete in this changing landscape.”                   business model, smart products, smart
+            - Ted Ogawa, President and CEO, Toyota Motors NA     manufacturing
+
+
+  “There was a world before AI, right now we are                   2 Digital core leveraging AI
+  transitioning to a world that makes full use of it –
+  including in factories, buildings, grids and                   Accelerating ERP consolidation, technical debt
+  transportation”                                                reduction, cloud adoption to enable AI driven
+                             - Roland Busch, CEO and President   transformation
+
+
+
+  “The next phase will focus on advancing new
+  technologies, including artificial intelligence and other
+                                                                   3 From dashboards to decision support
+  digital innovations.”                                          Getting massive data sets AI ready: structured,
+                                                                 unstructured, time series, streaming, spatial
+                  - John J. Engel, Chairman, President and CEO
+
+
+                                                                                                                      59
+
+ AI use cases across value chain
+                                      Design                      Source                   Make                      Sell                    Service
+
+ Vertical                      AI-driven product             Predictive              Smart factory            Precision                 Predictive &
+ use cases                     & portfolio                   demand, inventory       operations &             marketing, pricing        proactive service
+ High impact AI                optimization                  & S&OP                  scheduling               & lead scoring            operations
+ use cases across
+ the value chain
+                               Accelerated                   Supplier                Yield, quality &         Sales performance         Installed base &
+                               design, simulation            performance & risk      throughput               & revenue                 parts lifecycle
+                               & testing                     intelligence            optimization             optimization              optimization
+
+                               Lifecycle and                                                                                            Customer
+                                                             Intelligent             Predictive               Intelligent order
+                               innovation                                                                                               experience &
+                                                             procurement &           maintenance &            management &
+                               performance                                                                                              support
+                                                             cost optimization       asset performance        fulfilment
+                               analytics                                                                                                intelligence
+
+ Horizontal                                     AI enabled financial close and     Predictive demand and cash-flow      Intelligent cost and margin
+                               Finance
+ use cases                                      controls                           forecasting                          analytics
+ Enterprise-wide AI
+                                                                                                                        Automated regulatory and trade
+ deployment                    Legal            Patent Analysis and Monetization   Supplier Contract Risk Analysis
+                                                                                                                        compliance monitoring
+
+                                                                                   AI Driven Workforce Planning
+                               HR               AI Enabled Learning Platform                                            HR Agents for Employees
+                                                                                   and Scheduling
+
+                                     ~30% reduction in cycle time                      2-7% Margin uplift              10-20% lower maintenance costs
+                                                                                                                                                            60
+Source: Industry reports and Infosys research
+
+Process AI and Physical AI at Rolls-Royce                                                                                          Physical AI
+                                                                                                                                                 Unlock
+                                                                                                                                                 AI Value   Data for AI
+
+
+
+
+  Business context                                AI First Solutions                                               Impact
+   Speed-up Engine Turn Around                 Multi agent framework to augment engineering
+     Time by improving                          decision-making across the MRO lifecycle                             $ Multi Mn
+     engineering workloads and                 Initiate agent:                                                       Revenue uplift
+     compliance-drive workflows
+                                                       Technical variance matching
+   Improve first-time-right rates
+                                                       Feature identification
+   Unlock capacity                                                                                                  40%
+                                               Intel agent:
+                                                                                                                     Reduction in engineering
+                                                       Triage assistance                                             effort
+                                                       Cause identification
+                                                Author agent:                                                        75%
+                                                       Repair procedure assistance                                   First-time-right (from <40%)
+                                                       Investigation summary
+
+“ In partnership with Infosys, Rolls-Royce hasScale
+                                               successfully operationalized agentic AI within a business-critical MRO process. This has delivered measurable
+improvements in Engine turnaround time & engineering efficiency. As an EASA-approved capability, it establishes a trusted foundation for scaling AI adoption
+                                             To be confirmed
+across our Civil Aerospace engineering operations “ – Declan Mc Caffrey , Engineering Director , Rolls-Royce                                                 61
+
+AI Engineering, Process, and Trust at GE Vernova                                             Physical AI
+                                                                                                           Unlock
+                                                                                                           AI Value   Data for AI
+
+
+
+
+                                                               AI First Solutions
+
+                                                               Use of agentic AI for reimagination of priority value
+                Message from GE Vernova
+                                                               stream workflows, enabling repeatable scaling of AI
+
+                                                               Agentic AI solutions:
+
+                                                                     25+ multi-agent AI use cases
+                                                                     Enterprise-wide AI strategy
+
+                                                                     Enterprise wide scale up of AI use cases
+
+                                                                     Embedded AI in end to end value streams
+
+
+Scott Strazik                Justin John
+Chief Executive Officer      AI Strategy & Technology Leader
+GE Vernova                   GE Vernova
+                                                                                                                                    62
+
+Thank You
+
+
+            63
+
+Unlocking AI Value -
+ Financial Services
+               Dennis Gada
+   Segment Head - Banking & Financial Services
+
+
+
+
+                                                 64
+
+Financial Services is at the forefront of AI adoption
+
+  In the near term, generative A.I. will drastically improve
+  productivity. Over the long term, it has the potential to                      1. Increased enterprise spend
+  revolutionize all functions across our bank and the industry changing how
+  we write code, onboard clients, service customers, detect fraud, develop       AI outpaces all other tech in growth and
+  market research and strengthen compliance and controls.                        budget share, consistently for 2 years, with
+                                                             Jane Fraser, CEO
+                                                                                 several AI initiatives already delivering value
+  To me, the promise of AI is not just efficiency… it’s not just an
+  end in itself. What it does is it makes some of the more routine aspects
+  of people’s jobs easier to accomplish and frees them up to do much             2. Pivot towards growth
+  more in their internal time faster, better and in a more streamlined way.
+                                                     CS Venkatakrishnan, CEO     Shift from siloed focus on cost initiatives to
+                                                                                 strategic growth priorities, amplified by AI
+  We are investing in a portfolio of large-scale transformational AI
+  programs designed to increase our operational resilience, enhance the
+  client experience and unlock higher levels of efficiency and effectiveness     3. Trust, Governance as primary
+  across the organization
+                                                           Sergio Ermotti, CEO      AI Scaling Battleground
+                                                                                 AI adoption is not as constrained by
+  We’ll be applying more and more of automated                                   use-case discovery, as by the ability to
+  intelligence, or augmented intelligence, as we call it, with a person using    operationalize data privacy, regulatory
+  AI, using that to be more effective, and that’ll affect all the businesses     compliance, and governance
+                                                          Brian Moynihan, CEO
+                                                                                                                                  65
+Public Sources
+
+AI use cases across sub verticals
+
+                                                                                        Risk
+                     Consumer           Commercial               Cards &                                Asset & Wealth
+                                                                                    Management &
+                      Banking            Banking                Payments                                 Management
+                                                                                     Compliance
+Vertical
+use cases         Fraud Detection &    RM copilots to          AI hardens real-    Always-on KYC for    Advisor copilots
+                     Prevention       multiply coverage      time fraud defense       compliance       productize advice
+Function-
+specific AI
+deployment         AI Agents scale    AI enabled credit       Agent payments       Anomaly Detection     Portfolio Mgmt
+                   servicing, sales      decisioning          and commerce          for AML & fraud         Insights
+
+                                                              Industrial-scale
+                  Voice AI becomes        AI powered                               Firmwide AI& Data      Automating
+                                                                  dispute
+                  primary interface   treasury & liquidity                            governance       middle-office flows
+                                                                automation
+Horizontal
+use cases                                 AI-native SDLC with Topaz Fabric and Partners e.g. Devin
+Enterprise-wide
+AI deployment                               Agentic AI for multi-step business process execution
+common to all
+business                                  Unified data layers that power enterprise GenAI and SLMs
+functions
+                                                                                                                          66
+
+Re-imagining Citizens Bank                                                                                                              Physical. AI
+                                                                                                                                                       Unlock
+                                                                                                                                                       AI Value   Data for AI
+
+
+
+
+         Business context                                      AI First Solution                                                                                  Impact
+   Multi-year journey to                                   Accelerated platform modernization and AI adoption
+   “re-imagine the bank” and                               through full-stack transformation                                                           $450Mn
+   deliver modern, secure, and                             ▪ 700 applications migrated to cloud, exiting on-prem                                       Cost run-rate
+   personalized banking                                      data centers                                                                              savings projected
+   experiences                                             ▪ Established Industry leading cloud native platforms
+                                                             (Fraud1, Customer 3601 etc.)
+                                                                                                                                                       14 to 1 day
+                                                           ▪ Driving Gen AI and Agentic AI adoption across the
+                                                             Enterprise                                                                                SMB onboarding
+     Our AI-first Innovation Hub reflects Citizens’
+     long-term commitment to building modern,
+     secure, and intelligent banking capabilities.         ▪ Deploying Topaz Fabric to co-create Gen AI and
+     Partnering with leading technology firms like
+                                                             Agentic AI platform                                                                       5x
+     Infosys and leveraging Infosys Topaz Fabric is        ▪ Scaling Conversational AI adoption for contact center                                     Productivity gains
+     helping transform how we serve our customers
+     by integrating advanced AI at the core of our                                                                                                     expected
+     operations to deliver more modern, secure, and
+     personalized banking experiences
+                                                           AI Innovation Hub will drive many initiatives to “Re-
+                                                           imagine the bank” – across 5 themes
+                   Michael Ruttledge                                                                                                                   44%
+                   Chief Information Officer and Head of
+                   Enterprise Technology & Security at     Modernizing                                                   Business                      Reduction in mobile
+                                                                           E2E customer   Risk and     Client-facing
+                   Citizens Bank                           tech delivery                                                  model
+                                                             and stack
+                                                                           ops redesign   Analytics   enhancements
+                                                                                                                       simplification
+                                                                                                                                                       banking related calls
+
+                                                                                                                                                                                67
+1 Industry award in 2025
+
+AI First services at other leading Financial Services clients
+                                                                                      One of the largest global
+        A Top 5 US Bank                        A Top 3 Cards Provider
+                                                                                      Wealth Management Firms
+
+                                                                                  •   Productivity improvement by
+•   Enterprise AI Platform Buildout        •   Modernization of Cards Platform
+                                                                                      30-50% for Financial Advisors
+                                               using Domain-Driven, GenAI
+•   Enabled AI-driven development                                                     with AI assisted tools. Meeting
+                                               and Deterministic Automation
+    lifecycle (AI-DLC) with productivity                                              preparation and summarization
+    uplift, agentic execution, and         •   Platform with > 40 Mn lines of         time reduced by 60%.
+    end-to-end automated QA.                   COBOL and IMS code; evolved
+                                                                                  •   GPT-powered AI assistant for
+                                               over 40 years
+•   AI-First Business Process                                                         advisors, to query a secure
+    Reimagination: Redefine and            •   Accelerated the ‘time to market’       database of 100k+ research
+    implement end-to-end AI-led                by 50% and compressed the              documents.
+    processes, including KYC,                  effort by 40%
+                                                                                  •   Modernizing legacy code from
+    contract analysis, and similar
+                                           •   100% code coverage and                 languages like Cobol at scale
+    workflows
+                                               functional equivalence
+                                                                                  •   30-35% ROI from AI investments
+
+
+
+
+                  Infosys Financial Services: Strategic AI Partner for 15 of Top 25 Clients
+                                                                                                                        68
+
+Thank You
+
+
+            69
+
+Infosys Living Labs
+    Walkthrough
+
+
+
+                      70
+
+ Unlocking AI Value - Energy,
+Utilities, Resources & Services
+                   Ashiss Kumar Dash
+      Segment Head - Energy, Utilities, Resources & Services
+
+
+
+
+                                                               71
+
+                                                                                                                 #AIforEnergy
+                                                                                                                 #EnergyforAI
+Rapid adoption of AI across EURS Industries
+Energy, Utilities & Resources industries are the engines of AI and have a massive impact on this circular economy
+
+
+   Utilities power AI and determine where AI can                            1 Circularity in action
+   grow and how fast                                                        •   Energy decides AI’s physical scalability
+   • AI Data centers to consume 10-12% of global                            •   Utilities decide AI’s reliability and sustainability
+      electricity by 2030                                                   •   Resources decide AI’s material availability
+                                                                            •   Services continues to realize the benefits through inference
+   O&G underwrites global energy supply stability
+   • AI’s computational needs require Natural Gas
+     plants, LNG for grid reliability and load
+                                                                            2 Industry outlook
+     balancing                                                              •   Demand Up + Digital Intensity Up - These sectors will
+                                                                                grow, but only AI-enabled operators will expand margins
+   Resources provide the raw materials that AI
+   runs on                                                                  •   AI is becoming operating system of Industrial
+   • Copper, Lithium, Nickel and Cobalt, Rare                                   Infrastructure – Predictive Ops, autonomous assets, grid
+     Earths, Aluminum                                                           automation, sub surface modeling, remote mining,
+                                                                                industrial co-pilots etc.
+                                                                            •   AI is central to ERP-led business transformation programs.
+
+    We are helping EURS clients redeploy OPEX savings into AI transformations. Our leadership position is underpinned by our deep ,
+                                       differentiated domain capabilities, built over decades                                             72
+
+Infosys is the AI Partner of choice for 15 of our Top 25
+clients
+                                      Responsible AI, Security                                            Agentic AI Platform
+                                       Testing and validation                                             Build and Implement
+
+                                             15+ Clients                                                         15+ Clients
+
+  EURS clients see us
+     as their leading
+ partner to “unlock AI
+                                                                                                            Data for AI
+                             Digital Twins,                                                                                     AI Grade Data
+
+
+                                                           Physical AI
+   value” and deliver
+
+                                                                         INNOVATE
+                         Autonomous Systems                                                                                   Engineering, AI led
+                                                                                                INSIGHT
+business outcomes on                                                                Unlock AI
+                             and Edge AI                                                                                      business insights
+                                                                                                           Data for AI
+                                                                                     Value
+ revenue growth, cost         15+ Clients                                                                                       20+ Clients
+    optimization and
+       innovation
+
+
+                            Agentic led full stack
+                         modernization, Servitization of
+                                  Software                                                             Business process redesign,
+                                                                                                      Domain specific agent foundry
+                                  15+ Clients
+                                                                                                                          20+ Clients
+                                                                                                                                                73
+
+AI First Transformation at BP                                                                                   Physical AI              Data for AI
+                                                                                                                              Unlock
+                                                                                                                              AI Value
+
+
+
+
+Business context                  AI First Solutions                                             Impact
+
+Enhance enterprise-wide           Established AI leverage points across the energy                 18%
+operations by modernizing         value chain - refining optimization, dynamic pricing,            Y1 improvement in IT
+systems and optimizing            contract automation, IT operations, and corporate                Operations efficiency
+workflows across trading,         functions.
+supply chain, retail,             Leveraged Azure Foundry, OpenAI Stack and
+sustainability, and               GitHUb Copilot
+                                                                                                   50%
+operations.                                                                                        Faster contract validation
+                                  50+ AI and agentic AI initiatives, including GitHub
+                                  Copilot–enabled SDLC acceleration, RAG/LLM-
+                                  based knowledge automation, AI-led legacy                        95%
+                                  modernization, and digital decision advisors                     Payment accuracy
+                                  including Trading Finance AI Assistants.
+
+
+“…We've coupled together Palantir and Infosys to really     “We are delighted to further develop our relationship with Infosys to help
+start to help us drive AI and digitization across the       accelerate our digital transformation and scale growth through tech-enabled
+company. I think that's super cool…”                        operations. Together, we look forward to delivering innovative solutions that meet
+                                                            the evolving needs of our customers and drive growth for the future.“
+- Murray Auchincloss, CEO of bp at the 2025 Investor Call    - Leigh-Ann Russell, EVP, Innovation & Engineering, bp                        74
+
+AI Strategy and Engineering, Data for AI and Process                                                      Physical AI
+                                                                                                                        Unlock
+                                                                                                                        AI Value   Data for AI
+
+
+
+
+AI at Woodside Energy
+
+Business context                   AI First Solutions                                        Impact
+
+                                  Unified Enterprise AI Platform with GenAI workflows,
+Scale Enterprise-wide AI
+adoption across                   multi-agent orchestration, and enhanced UI capabilities.
+                                                                                              20-35%
+Production & Operations,          Delivered AI solutions across 4 major value vectors:        Efficiency gains in Upstream
+Contracting &
+                                  • Asset Operations Assistance Agents                        value chain use cases
+Procurement, Finance, HR,
+                                  • Employee Experience Agents
+and IT Ops
+                                  • Intelligence Agents for O&G Analytics                     15-20%
+                                  • Enterprise Grade Platform - Unified AI Platform
+                                                                                              Productivity gains in Employee
+16+ high-value AI use                Development & Configuration
+                                                                                              experience use-cases
+cases were identified for
+implementation                    Leveraged Amazon Bedrock Agentic AI for Upstream
+                                  functions, Azure OpenAI Foundry for corporate
+                                  functions
+
+
+ “The scale-up of our AI pods to 11 or 12 was done in conjunction and partnership with
+ Infosys. We could only hire about ten people locally, but we onboarded over a hundred
+ through our partnership with Infosys. The ability to leverage your brand, expertise and
+ capacity to scale was immensely helpful to us.”
+                                                                                                                                                 75
+ — Andrew Maloney, VP Digital, Woodside Energy
+
+Thank You
+
+
+            76
+
+  Unlocking AI Value -
+CPG, Logistics and Retail
+             Ambeshwar Nath
+     Industry Head – CPG, Logistics and Retail
+
+
+
+
+                                                 77
+
+AI is transforming CRL players
+
+
+ “We are embedding AI throughout our                                1 Consumer Goods
+ operations to better meet the increasing                           • Precision Revenue Growth Management
+ demands of our consumers and customers”                            • Hyper-personalized Marketing
+                          - Ramon Laguarta, Chairman and CEO        • AI-powered Planogram Compliance
+
+
+  “New technologies like GenAI, agentic AI, are                     2 Retail
+  redefining what beauty means to consumers and                     •   LLM-powered Loyalty
+  how they experience it…”
+                                                                    •   Physical-AI powered Perceptive Vision
+                                      - Nicolas Hieronimus, CEO     •   Agentic Commerce
+
+
+ “We see technology as the next frontier to make                    3 Logistics
+ existing processes better and more efficient,
+ and to do things that were simply impossible                       •   Real-Time Demand Forecasting
+ before.”                                                           •   Self-optimizing Supply Chains
+        - Willem Uijen, Chief Supply Chain and Operations Officer   •   Net-Zero and Sustainability
+                                                                                                                78
+
+Process AI and Data for AI at Ralph Lauren                                                              Physical AI
+                                                                                                                      Unlock
+                                                                                                                      AI Value   Data for AI
+
+
+
+
+ Business context                     AI First Solutions                                     Impact
+
+• Needed to reimagine how            Use of conversational and personalization AI to
+  consumer shops online              transform high-intent customer queries into curated,
+  creating experiences similar to    shoppable experiences powered by real-time inventory,
+                                                                                              12.2%
+  interactions with stylists in      leveraging Microsoft stack                               YoY revenue increase
+  physical stores
+• Styling and outfit curation rely         Conversational AI styling assistant (“Ask
+  on manual merchandising,                 Ralph”) enabling natural-language product
+  restricting personalization at           discovery
+  scale
+• Disconnected inventory data
+                                           Personalization at scale, generating curated       50%
+  limited the ability to convert           recommendations
+  real-time, shoppable                                                                        Increase in engagement
+  recommendations to sales                 Real-time inventory integration                    driven by styling and outfit
+                                                                                              discovery
+                                           Scaling ‘high-touch’ service in luxury physical
+                                           stores on mobile device
+
+
+
+
+                                                                                                                                               79
+
+Agentic Legacy Modernization and Process AI at                                                                      Physical AI
+                                                                                                                                  Unlock
+                                                                                                                                             Data for AI
+
+
+
+
+Posti
+                                                                                                                                  AI Value
+
+
+
+
+Business context                          AI First Solutions                                            Impact
+
+ Legacy IT estate driving
+ key business issues:                          AI-first operating model across Run and
+                                               Transform                                                 50+%
+ • High run-costs
+                                                                                                         Software code developed by
+ • Operational risk                            Run-to-Grow transformation, reallocating                  agents
+                                               spend from maintenance to growth
+ • Slow change cycles                          capabilities
+                                                                                                         35%
+ Critical need to execute a                    AI orchestrator layer leveraging best-of-
+                                                                                                         Improvement in productivity
+ strategic pivot toward                        breed AI solutions, including (GitHub, AWS
+ end-to-end logistics                          BedRock, LangChain, Copilot)
+ and e-commerce
+ services                                                                                                70%
+                                                                                                         Improvement in mean time to
+ As we navigate the next phase of our evolution with enterprise AI, with Infosys, Posti will not only
+ become a leader in the logistics and e-commerce sector, but a true digital frontrunner in the           recovery
+ Nordics”
+ - Petteri Naulapaa, SVP and CIO, ICT and Digitalisation Posti Group                                                                                       80
+
+Thank You
+
+
+            81
+
+Infosys AI Playbook
+Vision
+
+                       Infosys aspires to be the leading partner to
+                   “unlock AI value” and deliver business outcomes on
+                    revenue growth, cost optimization, and innovation
+Pillars
+                      AI First Services                        AI Augmented Services
+
+                Capture new demand to                      Reinvent existing services to
+                     drive growth                            win higher wallet share
+
+
+Foundation                                Platforms and IP
+                               Go To Market and Partnership Ecosystem
+                                          Talent and Culture
+                                            Brand Equity
+
+                                                                                           82
+
+Partnership Ecosystem for AI Value
+             delivery
+                   Anand Swaminathan
+        Segment Head - Communication, Media and Technology
+
+
+
+
+                                                             83
+
+AI Partnership Ecosystem
+INFRASTRUCTURE COMPUTE PLATFORM
+
+
+CLOUD
+
+
+MODEL LAYER
+
+
+
+DATA LAYER
+
+
+
+
+ENTERPRISE AI APPLICATIONS
+
+
+
+
+ENTERPRISE APPLICATIONS
+
+
+
+DOMAIN SPECIALISTS
+
+
+
+SECURITY AND GOVERNANCE
+
+
+PHYSICAL AI
+                                  84
+
+Examples of Joint GTM (1/3)                                                       Bringing AI to Life
+
+
+THEME              PARTNERS   LLM                                     AI ADOPTION
+
+                                                   Faster onboarding process with Infosys AI Next; reputation and
+                                             30%   financial Risk Reduction at a large Financial Services client
+
+                                             30%   Effort saved for a logistics major in order booking using Infosys
+                                                   AI Next. 5X improvement in Turnaround Time
+                                                   Scaled agentic AI at a major Telco major to power AI Chatbot
+                              Azure OpenAI   80%   across sales, service and operations – 80% faster response,
+   AI Strategy &
+                                                   reduction in operating costs through 4000+ Gen AI user
+   Engineering                               40%   actions/month at a major furniture retailer
+                                                   Improvement in NPS using Agentic AI Voice Entertainment Super
+                                             30%   Search at a telco major
+
+                                                   Shifting from linear productivity to exponential at Infosys, AI-powered
+                                                   delivery - unified 40,000+ repositories on GitHub & activated 25,000+
+                                                   engineers with Copilot
+
+                                                   AI-ready Fabric data core, cutting 50,000 reports to 1,200 insights
+                              Azure OpenAI   50K   driven by Copilot at a major rail road company
+
+                                                   Accuracy in processing Text, Tables and Images of
+                                             92%   20000+ HTML & PDF files through Multi modal RAG at a
+                                                   major Telco.
+     Data for AI                                   Enterprise Data Platform (EDP): Built on Databricks
+                                                   Delta Lake at a retailer
+
+                                                   Conversion efficiency driven by GenAI-driven Spark SQL
+                                             85%   conversion. Migration of complex ~2M-line Hadoop/Spark codebase
+                                                   to Snowflake at a regional bank.                                          85
+
+Examples of Joint GTM (2/3)                                                          Bringing AI to Life
+
+
+THEME              PARTNERS      LLM            AI ADOPTION
+                                                               Invoices automated per year; autonomous finance
+                                 Azure OpenAI   400K+          operations by AI Agents at a Restaurant chain
+
+                                                1st            Organization to deploy a live AI led Sales Development
+                                                               Representative (SDR) agent on Agentforce at a Nordics major
+   Process AI                                                  Annual reports and 1K+ product filings automated
+                                                350+           saving 30% compliance effort at an Insurance major
+                                                               GenAI-driven content curation using LLM to classify
+                                 OpenAI                        data for all published articles and stories. Unlocking
+                                                               productivity improvement for editorial team at a publisher
+
+
+                                                30-40%         1M
+                                 OpenAI         Reduced
+                                                               Mainframe lines of code modernized with iLead (leveraging
+                                                               AI models) at a car rental company
+                                                cycle time
+
+                   PA RTN ER S                  AI ADOPTIO N   AI-first Agri-Chem Industry Cloud:- 40–65% increase in
+                                                               forecast accuracy, 30% increase in planning efficiency,
+                                 Azure OpenAI                  30% energy reduction.
+  Agentic Legacy
+  Modernization                                                Reimagined enterprise software delivery leveraging
+                                                 1000+         agentic AI: Lower toil, faster remediation, policy compliant
+                                                 Developers    automation at scale at a regional bank
+
+
+                                                               Reimagined enterprise software delivery and transformed
+                                                 250+          engineering productivity leveraging agentic AI: Higher
+                                                 Developers    throughput, lower cycle time, governed autonomy at a leading
+                                                               manufacturer                                                   86
+
+Examples of Joint GTM (3/3)                                                              Bringing AI to Life
+
+THEME            PARTNERS   LLM            AI ADOPTION
+
+                                                         Reimagined retail experience and transformed in-store
+                                                         productivity leveraging AI technologies: Higher accuracy,
+                                                         lower labor needs
+   Physical AI
+                                                         Autonomous smart store solution through AI-powered
+                                                         computer vision & video analytics-based solutions
+                                                         Planogram compliance, store traffic analysis, inventory mgt.
+
+
+
+
+    AI Trust                                             Secure-by-design AI Trust foundation: Protected data
+                            Azure OpenAI
+                                                         and IP while scaling AI & embedded RAI controls at a
+                                                         leading beverage company
+
+
+
+
+                                                                                                                        87
+
+Thank You
+
+
+            88
+
+Infosys AI Playbook
+Vision
+
+
+                       Infosys aspires to be the leading partner to
+                   “unlock AI value” and deliver business outcomes on
+                    revenue growth, cost optimization, and innovation
+Pillars
+                      AI First Services                        AI Augmented Services
+
+                Capture new demand to                      Reinvent existing services to
+                     drive growth                            win higher wallet share
+
+
+Foundation                                Platforms and IP
+                               Go To Market and Partnership Ecosystem
+                                          Talent and Culture
+                                            Brand Equity
+
+                                                                                           89
+
+The Human-AI Workforce
+     Reimagination
+           Shaji Mathew
+      Chief Human Resources Officer
+
+
+
+
+                                      90
+
+AI Talent Transformation Strategy
+
+
+                     1                2               3
+
+
+
+               Talent Operating   Talent Career      Talent
+                    Model             Model       Development
+                                                     Model
+
+              Ambidextrous             Y           AI First
+              Organization
+
+                   Talent Transformation Strategy               91
+
+Talent Operating Model
+
+                               Building an Ambidextrous Organization
+
+               External Hiring                                  Internal Development
+
+
+
+
+     Specialist Programmers, Power Internships                         Bridge Programs
+
+
+
+              2X Full-Stack Engineers                    Assessment COE, Capability Quotient (CQ)
+
+
+
+       Enhanced focus on Domain Expertise                       Business Incubator Series
+
+
+
+                                                                                                    92
+
+Talent Career Model
+
+                           Integrated Future-Ready Dual Pathway Career Structure
+
+                                                                     Evolving Structure
+   Current Structure         Enhanced Role-Based Organization (Core)                  Expertise-Led Organization (Accelerator)
+
+
+
+
+            Management
+                                                                                                         Experts – Domain
+                                                                           Deep skills
+                                                                                                           / Technology
+                                                                         (Engineering / Domain
+
+
+
+
+                                                  AI led Execution
+                                                                             / Functional)
+
+
+            Execution
+                                                                                                   Flat Structure – Drive
+                                                                                                 expertise led innovation,
+                                                                                                      and client value
+
+   Smaller % constitutes                 Continues to drive
+     specialist roles                  stability, specialization
+                                                at scale
+
+
+                                                                                                                                 93
+
+Talent Development Model
+
+ Forward Deployed
+ Engineers
+ Embed AI in client
+ environment
+ Integrate, deploy, and scale   AI Master
+                                Drive AI adoption
+                                Set vision, governance, & culture
+ AI Builder
+ Build contextual AI
+ platforms & IP
+ Develop tools and interfaces   AI Enabled
+                                Leverage AI tools
+                                Boosts productivity and decisions
+
+                                                                    94
+
+In Summary
+
+
+
+
+        1              2               3        We are building deep engineering and
+                                                domain expertise
+
+
+                                                We are redesigning career architecture to
+                                                future proof the organization
+      Talent      Talent Career      Talent
+     Operating        Model       Development
+      Model                          Model
+   Ambidextrous        Y            AI First
+   Organization                                 We are developing a future ready
+    Talent Transformation Strategy              workforce leveraging our global best-in-
+                                                class learning infrastructure
+
+
+
+                                                                                            95
+
+Thank You
+
+
+            96
+
+Infosys AI Playbook
+Vision
+
+                       Infosys aspires to be the leading partner to
+                   “unlock AI value” and deliver business outcomes on
+                    revenue growth, cost optimization, and innovation
+Pillars
+                      AI First Services                        AI Augmented Services
+
+                Capture new demand to                      Reinvent existing services to
+                     drive growth                            win higher wallet share
+
+
+Foundation                                Platforms and IP
+                               Go To Market and Partnership Ecosystem
+                                          Talent and Culture
+                                            Brand Equity
+
+                                                                                           97
+
+   Mindshare Leads Market Share
+
+Brand as a Growth Catalyst
+            Sumit Virmani
+           Chief Marketing Officer
+
+
+
+
+                                     98
+
+The Mathematics of Strong Brands
+
+    Greater Growth & Higher                                                                                    And they Consistently Outperform
+    Shareholder Value                                                                                          the Market
+
+                +2pp                                  +4pp Total
+         Revenue Growth                          Shareholder Value
+
+                                                            +4pp
+
+
+                                                                                           Low budget
+                                                                                           share on brand
+                    +2pp
+
+                                                                                           High budget
+                                                                    3.4%                   share on brand
+
+
+                            1.4%
+
+            -0.4%                                    -0.5%
+
+
+
+
+Source: ‘Building Lasting Brand Equity in the Age of AI’ 2025 by Boston Consulting Group                    Source: Kantar BrandZ 2025 Most Valuable Global Brands
+
+                                                                                                                                                                     99
+
+When a Billion Hearts Beat With Infosys AI
+
+Infosys: Fastest Growing IT Services Brand Globally
+
+                                                    Infosys Brand Value ($Mn)
+
+                              Infosys brand value grew at 15% CAGR                                                16,413
+                              over 6 years
+                                                                                                         16,338
+
+
+                                                                                                14,213
+
+                                                                    12,777             13,010
+
+
+
+
+                                                      8,402
+                                       7,087
+
+
+
+
+                                        2020           2021           2022             2023     2024      2025     2026
+
+
+
+
+                             Source: Brand Finance: Infosys 2026 Brand Value Results
+                                                                                                                           101
+
+An Industry Leading Enterprise AI Brand
+                               AI Association (Top 10)                                                  AI Client Voice (Infosys)
+                                                                                     50                                                      45
+                     Global IT Peers                  Indian IT Peers     Infosys                                      36
+                                                                                     40
+                                                                                     30
+                                                                                             17
+        74%                                                                  73%     20
+                                                72%                                  10
+                                                                             73%
+                                                                                                 2023                  2024                 2025
+                                                72%
+        70%                                                                                                                          Number of Unique Clients
+
+
+
+        67%                                                                                  AI Thought Leadership (Infosys)
+                                                                             65%    2000                             1734
+                                                                                                 1549
+                                                65%                                 1500                                            1347
+                                                                                                                              928                    FY25
+                                                                                    1000
+                                                                                           890                 808
+                                                                                                                                                     FY26
+                                                                                     500
+              FY26 Q1                        FY26 Q2                    FY26 Q3        0
+                                                                                             Q1                   Q2            Q3
+ Source: Enterprise AI Top 10 Brand Study (Infosys)                                                                                 Total AI Global Volume (#)
+
+
+
+
+                                                                                                                                                                 102
+
+Industry Analysts Acknowledge That As Well
+
+        Digital (FY26 YTD)           Topaz (FY26 YTD)
+
+
+
+
+                                                        103
+
+Brand Mathematics is Showing up in Business Too
+
+          Revenue growth CAGR (FY20-25)                 Revenue share FY25           Incremental market share (FY20-25)
+
+
+       10
+         9
+                                                                    6.6%                               12.3%
+         8
+                                                 8.6
+         7
+         6
+         5
+         4
+                        4.6
+         3
+         2
+         1                                                       93.4%                            87.7%
+         0
+
+
+                                                        Others             Infosys
+
+
+Source: 20 IT Services Companies Business Performance
+
+                                                                                                                          104
+
+The Next Frontier
+
+
+
+
+                    Physical AI   INNOVATE                        Data for AI
+                                             UNLOCK
+               =                                        INSIGHT
+                                             AI VALUE
+
+Thank You
+
+
+            106
+
+                Summary and Q&A
+              Salil Parekh                      Jayesh Sanghrajka
+Chief Executive Officer and Managing Director    Chief Financial Officer
+
+
+
+
+                                                                           107
+
+Summary
+1   Comprehensive AI services offerings
+
+2   Large opportunity
+
+3   Large enterprise clients trust Infosys
+
+4   We are working with clients in each of the AI services areas
+
+5   We have a strong platform
+
+6   We have deep engineering talent and culture
+
+7   We have built strong partnerships
+
+8   Go to market plan for our large clients
+9   We are a leading brand
+
+
+                                                                   108
+
+AI First Value framework
+
+
+
+
+                 Physical AI   INNOVATE               INSIGHT   Data for AI
+                                          Unlock AI
+                                           Value
+
+
+
+
+                                                                              109
+
+Thank You
+
+
+            110
+

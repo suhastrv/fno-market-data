@@ -1,158 +1,1099 @@
 {
- "updatedAt": "2026-11-26T09:33:06.108Z",
+ "updatedAt": "2026-11-26T09:47:17.685Z",
  "symbols": [
-  "TCS"
+  "INFY",
+  "HDFCBANK",
+  "ASIANPAINT",
+  "RELIANCE",
+  "PERSISTENT",
+  "TITAN"
  ],
  "documents": [
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2026-10-08",
+   "date": "2026-10-23",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf",
-   "file": "2026-10-08_results.txt",
-   "chars": 97401,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+   "file": "2026-10-23_results.txt",
+   "chars": 1278408,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2026-07-09",
+   "date": "2026-07-23",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09072026155158_Post_BM_SE_Lettersigned.pdf",
-   "file": "2026-07-09_results.txt",
-   "chars": 64840,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_23072026161911_Outcome23072026V1_1.pdf",
+   "file": "2026-07-23_results.txt",
+   "chars": 1140294,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2026-04-09",
+   "date": "2026-04-23",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09042026155026_SE_Outcome_signed.pdf",
-   "file": "2026-04-09_results.txt",
-   "chars": 112545,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_23042026170027_outcome.pdf",
+   "file": "2026-04-23_results.txt",
+   "chars": 2662962,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2026-01-12",
+   "date": "2026-01-14",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_12012026154849_Post_BM_SE_Letter_final.pdf",
-   "file": "2026-01-12_results.txt",
-   "chars": 76186,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_14012026160405_BM_Outcome_January142026.pdf",
+   "file": "2026-01-14_results.txt",
+   "chars": 1149584,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2025-10-09",
+   "date": "2025-10-16",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09102025154951_PostBMSELetter.pdf",
-   "file": "2025-10-09_results.txt",
-   "chars": 91913,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_16102025160458_BM_Outcome_Oct162025.pdf",
+   "file": "2025-10-16_results.txt",
+   "chars": 1127488,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "results",
-   "date": "2025-07-10",
+   "date": "2025-07-23",
    "subject": "Outcome of Board Meeting",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_10072025155700_SEIntfinancials.pdf",
-   "file": "2025-07-10_results.txt",
-   "chars": 54783,
-   "status": "ok"
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_23072025153626_Outcome23072025.pdf",
+   "file": "2025-07-23_results.txt",
+   "chars": 1008609,
+   "status": "ok_truncated",
+   "detail": "cut at 600000 chars"
   },
   {
-   "symbol": "TCS",
+   "symbol": "INFY",
    "kind": "transcript",
-   "date": "2026-10-14",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_14102026155941_SEInt14102026_signed.pdf",
-   "file": "2026-10-14_transcript.txt",
-   "chars": 65484,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "transcript",
-   "date": "2026-07-15",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_15072026193646_SEInt15072026_Signed.pdf",
-   "file": "2026-07-15_transcript.txt",
-   "chars": 58537,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "transcript",
-   "date": "2026-04-14",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_14042026200132_SEInt14042026_signed.pdf",
-   "file": "2026-04-14_transcript.txt",
-   "chars": 68170,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "transcript",
-   "date": "2026-01-16",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_16012026163741_Signed_SEIntimation.pdf",
-   "file": "2026-01-16_transcript.txt",
-   "chars": 58832,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "transcript",
-   "date": "2025-12-23",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_23122025195649_Signed_SEInt_letter.pdf",
-   "file": "2025-12-23_transcript.txt",
-   "chars": 103205,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "transcript",
-   "date": "2025-11-04",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_04112025165310_SEInt04112025.pdf",
-   "file": "2025-11-04_transcript.txt",
-   "chars": 61504,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "presentation",
-   "date": "2025-12-17",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_17122025155131_Signed_SE_Int.pdf",
-   "file": "2025-12-17_presentation.txt",
-   "chars": 47371,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "presentation",
-   "date": "2024-08-10",
-   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCS_10082024170057_SEInt10082024_signed.pdf",
-   "file": "2024-08-10_presentation.txt",
-   "chars": 38060,
-   "status": "ok"
-  },
-  {
-   "symbol": "TCS",
-   "kind": "presentation",
-   "date": "2016-01-12",
+   "date": "2026-10-28",
    "subject": "Updates",
-   "link": "https://nsearchives.nseindia.in/corporate/TCSQ3FinancialResultspresentation_12012016201711_341.zip",
-   "file": "2016-01-12_presentation.txt",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_28102026173824_SE_filing_Earnings_call_transcript.pdf",
+   "file": "2026-10-28_transcript.txt",
+   "chars": 103021,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "transcript",
+   "date": "2026-07-28",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_28072026202438_SE_filing_Earnings_call_transcript.pdf",
+   "file": "2026-07-28_transcript.txt",
+   "chars": 100886,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "transcript",
+   "date": "2026-06-30",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_30062026163341_SE_Infosys_45th_AGM_transcript.pdf",
+   "file": "2026-06-30_transcript.txt",
+   "chars": 127529,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "transcript",
+   "date": "2026-04-27",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_27042026203405_Transcript_April232026_Q4.pdf",
+   "file": "2026-04-27_transcript.txt",
+   "chars": 99196,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "transcript",
+   "date": "2026-02-24",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_24022026183902_AIDayTranscript17022026.pdf",
+   "file": "2026-02-24_transcript.txt",
+   "chars": 162932,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "transcript",
+   "date": "2026-01-19",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_19012026222220_SEfiling_Earningscalltranscript_19012026.pdf",
+   "file": "2026-01-19_transcript.txt",
+   "chars": 80052,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2026-02-17",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Infosys_17022026111455_SEfiling_InvestorAIday.pdf",
+   "file": "2026-02-17_presentation.txt",
+   "chars": 120306,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2021-09-28",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/INFY_28092021152951_INFY.pdf",
+   "file": "2021-09-28_presentation.txt",
+   "chars": 8456,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2020-12-07",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/INFY_07122020122623_IC.pdf",
+   "file": "2020-12-07_presentation.txt",
+   "chars": 28856,
+   "status": "ok"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2018-06-25",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/Coverppts_25062018092521_099.zip",
+   "file": "2018-06-25_presentation.txt",
    "status": "not_a_pdf",
-   "detail": "application/zip PK\u0003\u0004\u0014\u0000\b\b\b\u0000%�,H\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%\u0000\u0000\u0000TCSQ3Finan"
+   "detail": "application/zip PK\u0003\u0004\u0014\u0000\b\b\b\u0000*K�L\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000Coverppts."
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2018-06-06",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/Investormeetingppt_06062018081709_065.zip",
+   "file": "2018-06-06_presentation.txt",
+   "status": "not_a_pdf",
+   "detail": "application/zip PK\u0003\u0004\u0014\u0000\b\b\b\u0000$B�L\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000\u0000\u0000Investorme"
+  },
+  {
+   "symbol": "INFY",
+   "kind": "presentation",
+   "date": "2018-04-23",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/Presentation_23042018161515_493.zip",
+   "file": "2018-04-23_presentation.txt",
+   "status": "not_a_pdf",
+   "detail": "application/zip PK\u0003\u0004\u0014\u0000\b\b\b\u0000灗L\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000Presentati"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2026-10-17",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+   "file": "2026-10-17_results.txt",
+   "status": "extract_failed",
+   "detail": "pdftotext failed"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2026-07-18",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18072026142204_SEIntimationResult30062026.pdf",
+   "file": "2026-07-18_results.txt",
+   "chars": 3039,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2026-04-18",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18042026144226_SEResultOutcome18042026.pdf",
+   "file": "2026-04-18_results.txt",
+   "chars": 7605,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2026-01-17",
+   "subject": "Press Release",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17012026150829_SEResultReg3017012026.pdf",
+   "file": "2026-01-17_results.txt",
+   "chars": 109245,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2026-01-17",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17012026143925_SEResultReg3017012026.pdf",
+   "file": "2026-01-17_results.txt",
+   "chars": 109245,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "results",
+   "date": "2025-10-18",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18102025140719_SEintimationBMFinancialResults18102025.pdf",
+   "file": "2025-10-18_results.txt",
+   "chars": 3010,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2026-10-23",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_23102026224657_SEintimationTranscriptofearningscall17oct2026.pdf",
+   "file": "2026-10-23_transcript.txt",
+   "chars": 71920,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2026-07-24",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_24072026154746_SEintimationTranscriptofearningscall18jul2026.pdf",
+   "file": "2026-07-24_transcript.txt",
+   "chars": 72173,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2026-04-24",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_24042026154113_SEintimationTranscriptofearningscall18April2026.pdf",
+   "file": "2026-04-24_transcript.txt",
+   "chars": 66484,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2026-03-19",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_19032026221513_SEintimationTranscriptofearningscall19Mar2026.pdf",
+   "file": "2026-03-19_transcript.txt",
+   "chars": 52342,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2026-01-23",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_23012026155630_SEintimationTranscriptofearningscall17_Jan_2026.pdf",
+   "file": "2026-01-23_transcript.txt",
+   "chars": 77276,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "transcript",
+   "date": "2025-10-27",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_27102025185000_Transcript.pdf",
+   "file": "2025-10-27_transcript.txt",
+   "chars": 59888,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2026-10-17",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17102026151509_SE_Intimation_earningcall_presentation17oct2026.pdf",
+   "file": "2026-10-17_presentation.txt",
+   "chars": 2264,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2026-07-18",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18072026151522_SE_Intimation_earningcall_presentation18jul2026.pdf",
+   "file": "2026-07-18_presentation.txt",
+   "chars": 2256,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2026-04-18",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18042026153755_SE_Intimation_earningcall_presentation.pdf",
+   "file": "2026-04-18_presentation.txt",
+   "chars": 2229,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2026-01-17",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_17012026173635_SE_Intimation_earningcall_presentation.pdf",
+   "file": "2026-01-17_presentation.txt",
+   "chars": 2247,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2025-10-18",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_18102025154503_SE_Intimation_earningcall_presentation.pdf",
+   "file": "2025-10-18_presentation.txt",
+   "chars": 2120,
+   "status": "ok"
+  },
+  {
+   "symbol": "HDFCBANK",
+   "kind": "presentation",
+   "date": "2025-07-19",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/HDFCBANK_19072025161614_SE_Intimation_earningcall_presentation.pdf",
+   "file": "2025-07-19_presentation.txt",
+   "chars": 1983,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-10-29",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
+   "file": "2026-10-29_results.txt",
+   "chars": 96216,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-10-29",
+   "subject": "Dividend",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140642_OutcomeofBM29102026signed.pdf",
+   "file": "2026-10-29_results.txt",
+   "chars": 96216,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-10-29",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026140213_OutcomeofBM29102026signed.pdf",
+   "file": "2026-10-29_results.txt",
+   "chars": 96216,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-07-29",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29072026140039_SEintimationJune26.pdf",
+   "file": "2026-07-29_results.txt",
+   "chars": 49480,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-05-29",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29052026140521_SEIntimationoutcomeFY26.pdf",
+   "file": "2026-05-29_results.txt",
+   "chars": 107832,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "results",
+   "date": "2026-01-27",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_27012026140057_SEINTIMATIONQ3FY26.pdf",
+   "file": "2026-01-27_results.txt",
+   "chars": 63051,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2026-11-03",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_03112026182217_Stock_exchange_intimation_Transcript_Q2FY26.pdf",
+   "file": "2026-11-03_transcript.txt",
+   "chars": 48225,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2026-08-03",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_03082026144133_Regulation_30_Intimation_-_Transcript_for_Investor_Conference_Signed.pdf",
+   "file": "2026-08-03_transcript.txt",
+   "chars": 49004,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2026-07-16",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_16072026204353_SEIntimation80thAGMTranscriptandVideosigned.pdf",
+   "file": "2026-07-16_transcript.txt",
+   "chars": 103222,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2026-06-03",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_03062026154629_Reg30_Transcript_Q4FY26.pdf",
+   "file": "2026-06-03_transcript.txt",
+   "chars": 51846,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2026-02-02",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_02022026131104_SE_intimation_Transcript_Q3FY26_Jan2026_signed.pdf",
+   "file": "2026-02-02_transcript.txt",
+   "chars": 54250,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "transcript",
+   "date": "2025-11-18",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_18112025120322_SEIntimationTranscriptQ2FY26Nov2025.pdf",
+   "file": "2025-11-18_transcript.txt",
+   "chars": 51326,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2026-10-29",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29102026164544_SEIntimation_Investor_Presentation_Q2FY26-27pdfsigned.pdf",
+   "file": "2026-10-29_presentation.txt",
+   "chars": 35028,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2026-07-29",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29072026165710_Intimation_Investor_Presentation_Q1FY26-27finsigned.pdf",
+   "file": "2026-07-29_presentation.txt",
+   "chars": 26864,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2026-05-29",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29052026165558_SEintimationInvestorPresentation_Q4FY26finalfinal.pdf",
+   "file": "2026-05-29_presentation.txt",
+   "chars": 40041,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2026-01-27",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_27012026172825_SEINTIMATIONIPQ3FY26.pdf",
+   "file": "2026-01-27_presentation.txt",
+   "chars": 36124,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2025-11-12",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_12112025172735_SEIntimation_Investor_Presentation_Q2FY26.pdf",
+   "file": "2025-11-12_presentation.txt",
+   "chars": 51021,
+   "status": "ok"
+  },
+  {
+   "symbol": "ASIANPAINT",
+   "kind": "presentation",
+   "date": "2025-07-29",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/ASIANPAINT_29072025172300_Stockexchangeinvestorpresentation.pdf",
+   "file": "2025-07-29_presentation.txt",
+   "chars": 20249,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-11-01",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_01112026230907_SE_01112026.pdf",
+   "file": "2026-11-01_results.txt",
+   "chars": 101382,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-10-31",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_31102026173331_SE_31102026_AR.pdf",
+   "file": "2026-10-31_results.txt",
+   "chars": 2078,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-10-30",
+   "subject": "Press Release",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
+   "file": "2026-10-30_results.txt",
+   "chars": 63608,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-10-30",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
+   "file": "2026-10-30_results.txt",
+   "chars": 126934,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-10-30",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026193952_SE_30102026_Results.pdf",
+   "file": "2026-10-30_results.txt",
+   "chars": 126934,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "results",
+   "date": "2026-10-27",
+   "subject": "General Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_27102026220855_RIL_SELETTER_271026.pdf",
+   "file": "2026-10-27_results.txt",
+   "chars": 4133,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2026-11-01",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_01112026230907_SE_01112026.pdf",
+   "file": "2026-11-01_transcript.txt",
+   "chars": 101382,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2026-07-19",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_19072026180618_SE_Transcript.pdf",
+   "file": "2026-07-19_transcript.txt",
+   "chars": 106155,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2026-04-26",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_26042026232750_SE_26042026.pdf",
+   "file": "2026-04-26_transcript.txt",
+   "chars": 103070,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2026-01-18",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_18012026235015_SE_Transcript.pdf",
+   "file": "2026-01-18_transcript.txt",
+   "chars": 116840,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2025-10-19",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_19102025225511_SE__Transcripts.pdf",
+   "file": "2025-10-19_transcript.txt",
+   "chars": 112462,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "transcript",
+   "date": "2025-07-20",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_20072025132946_SE_20072025.pdf",
+   "file": "2025-07-20_transcript.txt",
+   "chars": 137119,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-10-30",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_30102026194557_SE_30102026_IP.pdf",
+   "file": "2026-10-30_presentation.txt",
+   "chars": 83462,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-07-25",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_25072026143701_RIL_SELetter_250726.pdf",
+   "file": "2026-07-25_presentation.txt",
+   "chars": 1597,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-07-17",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_17072026192250_SE_Presentation_1.pdf",
+   "file": "2026-07-17_presentation.txt",
+   "chars": 81170,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-06-08",
+   "subject": "Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_08062026155811_RIL_SELetter_080626.pdf",
+   "file": "2026-06-08_presentation.txt",
+   "chars": 1583,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-04-24",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_24042026194417_SE_24042026_IP.pdf",
+   "file": "2026-04-24_presentation.txt",
+   "chars": 84467,
+   "status": "ok"
+  },
+  {
+   "symbol": "RELIANCE",
+   "kind": "presentation",
+   "date": "2026-01-16",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/kavinavora_16012026192610_SE_Presentation.pdf",
+   "file": "2026-01-16_presentation.txt",
+   "chars": 84175,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-10-15",
+   "subject": "Press Release",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_15102026161221_SEIntimationpressrelease15102026Sd.pdf",
+   "file": "2026-10-15_results.txt",
+   "chars": 10267,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-08-02",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_02082026144059_PSLBMOutcomeJune302026093signed.pdf",
+   "file": "2026-08-02_results.txt",
+   "chars": 76943,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-04-21",
+   "subject": "Press Release",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21042026154723_PSLPressReleaseQ4FY26008sdnew.pdf",
+   "file": "2026-04-21_results.txt",
+   "chars": 11637,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-04-21",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_21042026153058_PSLBMOutcomeQ4FY26April212026sd.pdf",
+   "file": "2026-04-21_results.txt",
+   "chars": 126079,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-01-20",
+   "subject": "Press Release",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_20012026155924_PSLPressReleaseQ3FY26.pdf",
+   "file": "2026-01-20_results.txt",
+   "chars": 10050,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "results",
+   "date": "2026-01-20",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_20012026154513_PSLQ3FY26FinancialResults.pdf",
+   "file": "2026-01-20_results.txt",
+   "chars": 92810,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2026-10-23",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_23102026204328_PSLTranscriptSubmissionOctober2026Sd.pdf",
+   "file": "2026-10-23_transcript.txt",
+   "chars": 71628,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2026-07-03",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_03072026121301_PSLInvestorCallTranscriptSubmissionSd.pdf",
+   "file": "2026-07-03_transcript.txt",
+   "chars": 81889,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2026-04-28",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_28042026165400_PSLTranscriptSubmissionApril282026Sd.pdf",
+   "file": "2026-04-28_transcript.txt",
+   "chars": 1992,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2026-01-27",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_27012026213814_PSLSubmissionoftheTranscriptforQ3FY26Sd.pdf",
+   "file": "2026-01-27_transcript.txt",
+   "chars": 71080,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2025-10-20",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_20102025194609_PSLEarningscallTranscriptQ2FY26.pdf",
+   "file": "2025-10-20_transcript.txt",
+   "chars": 65390,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "transcript",
+   "date": "2025-07-29",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_29072025232737_PSLTranscript_of_Investors_call_recordingsigned.pdf",
+   "file": "2025-07-29_transcript.txt",
+   "chars": 71562,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-10-15",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_15102026211842_PSLOutcomeofInvestorAnalystCallOctober152026Sd.pdf",
+   "file": "2026-10-15_presentation.txt",
+   "chars": 2284,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-10-15",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_15102026160546_PSLFactSheetQ2FY27160Sd.pdf",
+   "file": "2026-10-15_presentation.txt",
+   "chars": 81695,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-09-30",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_30092026191838_PSLOutcomeofInvestorSessionsSeptember302026sd.pdf",
+   "file": "2026-09-30_presentation.txt",
+   "chars": 70130,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-09-29",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_29092026185028_PSLOutcomeofInvestorSessionsSeptember292026sd.pdf",
+   "file": "2026-09-29_presentation.txt",
+   "chars": 69769,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-09-28",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_28092026194403_PSLOutcomeofInvestorSessionsSeptember282026Sd.pdf",
+   "file": "2026-09-28_presentation.txt",
+   "chars": 70377,
+   "status": "ok"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "kind": "presentation",
+   "date": "2026-09-25",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_25092026184013_PSLOutcomeofInvestorSessionsSeptember252026Sd.pdf",
+   "file": "2026-09-25_presentation.txt",
+   "chars": 69692,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-11-06",
+   "subject": "Copy of Newspaper Publication",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_06112026165556_SEnewspaperadresultQ2-combined.pdf",
+   "file": "2026-11-06_results.txt",
+   "chars": 27079,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-11-05",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf",
+   "file": "2026-11-05_results.txt",
+   "chars": 157847,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-08-08",
+   "subject": "Copy of Newspaper Publication",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_08082026131841_SEnewspaperadQ1result.pdf",
+   "file": "2026-08-08_results.txt",
+   "chars": 73380,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-08-07",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_07082026160159_SEresultQ127.pdf",
+   "file": "2026-08-07_results.txt",
+   "chars": 97099,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-05-09",
+   "subject": "Copy of Newspaper Publication",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_09052026215624_SEIntimationnewpaperadresult.pdf",
+   "file": "2026-05-09_results.txt",
+   "chars": 1990,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "results",
+   "date": "2026-05-08",
+   "subject": "Outcome of Board Meeting",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_08052026135234_SEoutcomeBMQ4202526.pdf",
+   "file": "2026-05-08_results.txt",
+   "chars": 153621,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2026-11-11",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_11112026143915_SEearningcalltranscriptsQ2.pdf",
+   "file": "2026-11-11_transcript.txt",
+   "chars": 72897,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2026-08-11",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_11082026225424_SEanalystcalltranscriptQ1.pdf",
+   "file": "2026-08-11_transcript.txt",
+   "chars": 61660,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2026-05-14",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_14052026233103_SEIntimationtranscriptq4.pdf",
+   "file": "2026-05-14_transcript.txt",
+   "chars": 62046,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2026-02-13",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_13022026214102_SEtranscriptQ3.pdf",
+   "file": "2026-02-13_transcript.txt",
+   "chars": 67128,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2025-11-08",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_08112025170040_SEearningcalltranscriptQ2.pdf",
+   "file": "2025-11-08_transcript.txt",
+   "chars": 69249,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "transcript",
+   "date": "2025-08-11",
+   "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_11082025103451_SEtranscriptQ1.pdf",
+   "file": "2025-08-11_transcript.txt",
+   "chars": 69584,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2026-11-05",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_05112026171559_SEinvestorpreQ227.pdf",
+   "file": "2026-11-05_presentation.txt",
+   "chars": 197654,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2026-08-07",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_07082026165728_SEearningpresentationQ127.pdf",
+   "file": "2026-08-07_presentation.txt",
+   "chars": 159498,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2026-06-04",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_04062026151537_SEinvestormeetpresentation.pdf",
+   "file": "2026-06-04_presentation.txt",
+   "chars": 116590,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2026-05-08",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_08052026141851_SEQ4FY26EarningsPresentation.pdf",
+   "file": "2026-05-08_presentation.txt",
+   "chars": 189725,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2026-02-10",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_10022026174016_SEinvestorpresentationQ32025-26.pdf",
+   "file": "2026-02-10_presentation.txt",
+   "chars": 177977,
+   "status": "ok"
+  },
+  {
+   "symbol": "TITAN",
+   "kind": "presentation",
+   "date": "2025-11-03",
+   "subject": "Investor Presentation",
+   "link": "https://nsearchives.nseindia.in/corporate/TITAN_03112025192536_SEinvestorpresentationQ2.pdf",
+   "file": "2025-11-03_presentation.txt",
+   "chars": 208762,
+   "status": "ok"
   }
  ]
 }
