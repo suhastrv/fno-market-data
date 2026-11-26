@@ -1,0 +1,1371 @@
+FC/SE/2026-27/66
+
+November 23, 2026
+
+National Stock Exchange of India Limited                      BSE Limited
+Exchange Plaza, C – 1, Block G,                               Phiroze Jeejeebhoy Towers,
+Bandra-Kurla Complex, Bandra (E),                             Dalal Street,
+Mumbai-400051                                                 Mumbai-400001
+Symbol: FIRSTCRY                                              Scrip Code: 544226
+
+Sub: Transcript of the Earnings Call on the Un-audited financial results for the quarter and
+     half-year ended September 30, 2026
+
+Ref: Intimation under Regulation 30 of the Securities and Exchange board of India (Listing
+     Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing
+     Regulations”) and our earlier intimation dated November 6, 2026 bearing reference no.
+     FC/SE/2026-27/55
+
+Dear Sir/Ma’am,
+
+In terms of Regulation 30 and Regulation 46 read with Part A of Schedule III of the Listing
+Regulations, please see enclosed herewith transcript of the Earnings Call with the
+Analysts/Investors held on November 16, 2026 post announcement of Un-audited Financial
+Results (Standalone and Consolidated) of the Company for the quarter and half-year ended
+September 30, 2026.
+
+The Transcript is also being made available on the website of the Company and the
+same can be accessed from the link provided below: https://www.firstcry.com/
+investor-relations/quarterly-results
+
+We request you to kindly take the aforesaid information on record.
+
+Thanking you,
+
+Yours sincerely,
+For Brainbees Solutions Limited
+                   Digitally signed by
+Mandar          Mandar Chintaman Joshi
+Chintaman Joshi Date: 2026.11.23
+                22:40:43 +05'30'
+Mandar Joshi
+Company Secretary & Compliance Officer
+
+Encl.: As above
+
+Brainbees Solutions Limited                                                CIN: L51100PN2010PLC136340
+Corporate/Registered Office:- Rajashree Business Park, Plot No. 114, Survey No. 338, Tadiwala Road,
+Nr. Sohrab Hall, Pune – 411001 Contact: +91-8482989157 Email Id:legal@firstcry.com Website: www.firstcry.com
+
+“Brainbees Solutions Limited
+(FirstCry) - Earnings Call
+
+
+Q2 and H1 FY27 Results”
+November 16, 2026, 4:00 p.m. (IST)
+
+
+
+Management:
+
+
+Mr. Supam Maheshwari
+Managing Director & CEO
+
+Mr. Gautam Sharma
+Group Chief Financial Officer
+
+Mr. Vivek Goel
+Chief Business Officer
+
+Mr. Abhinav Sharma
+Country Head, Middle East Business
+
+Mr. Anuj Jain
+CEO, Globalbees
+
+Mr. Harsh Kabra
+Investor Relations
+
+
+
+
+                                     1
+
+Note: There was a technical glitch at the begining of earnings call and discussions around
+      technical glitch has not been considered in the transcript.
+
+
+ Mr. Harsh Kabra             Good afternoon, everyone.
+
+                             Welcome to the Q2FY27 Earnings call of Brainbees Solutions
+                             Limited. This is Harsh Kabra, and I have with me
+                             Mr. Supam Maheshwari - Managing Director and CEO of the
+                             Company, Mr. Gautam Sharma - Group Chief Financial Officer,
+                             Mr. Vivek Goel - Chief Business Officer of the Company,
+                             Mr. Abhinav Sharma - Country head of Middle East
+                             Operations, and Mr. Anuj Jain - Chief Executive Officer of
+                             Globalbees.
+
+                             Kindly note that this call is intended for analysts and investors
+                             of the company. The call is being recorded, and by
+                             participating in this event you consent to such recording,
+                             distribution and publication.
+
+                             We will begin with the management presentation followed by
+                             Q&A session. All participants will remain on mute during the
+                             presentation and will be invited to unmute when it is their turn
+                             to ask a question. We would like to point out that some of the
+                             statement made on today's call may be forward-looking in
+                             nature, and the relevant disclaimer is included in the
+                             presentation shared with you.
+
+                             With that, I would like to hand over to Mr. Supam Maheshwari
+
+ Mr. Supam Maheshwari        Thank you Harsh, Good evening friends.
+                             We'll be making a presentation for our Quarter 2 FY27
+                             performance.
+                             Request Harsh to actually put up the presentation.
+
+ Mr. Harsh Kabra             Yes sir.
+
+ Mr. Supam Maheshwari        I hope some of you have read the letter that I had sent, we had
+                             filed along with the presentation of our performance for the
+                             Quarter 2. So, I think it certainly gives you a feeler of how the
+                             business we believe has been trending and will trend over
+                             years to come. So, we are on a very very positive note of where
+                             we have been trending despite all the challenges that we had
+                             faced and how we are overcoming them. So, we have been
+
+
+                                                                                             2
+
+                       very candid in sharing it through a letter as well this time, this
+                       is the first time we have shared that. We’ll walk you through
+                       the whole journey for quarter 2 what we have accomplished
+                       in a bit.
+
+Mr. Supam Maheshwari   Okay, alright. So, we’ll straight jump to our key highlights for
+                       the Quarter 2. We grew by around 14.1% year on year on a
+                       consol basis. It’s been the strongest growth in the last
+                       6 quarters and the losses after tax for Quarter 2 narrowed by
+                       close to 75% from Rs. 50.5 Crore to Rs. 12.6 Crore in
+                       Quarter 2 FY27.
+
+                       Segment-wise update on India Multichannel, we grew by
+                       18.6% in India Multichannel in Quarter 2, strongest revenue
+                       growth in last 8 quarters. Offline GMV grew by 13% and we
+                       expect the growth momentum should continue both in online
+                       and offline business in the subsequent quarters as well. India
+                       Multichannel continued to remain PAT positive even in
+                       Quarter 2 FY27.
+
+                       International business, we grew by 5.8% year-on-year and
+                       adjusted EBITDA losses came down 15.9% for the quarter.
+                       We will talk about in a little more detail summary in
+                       subsequent slides and Globalbees back to growth momentum
+                       of 7.7% revenue growth with an adjusted EBITDA grew close
+                       to 83% for the quarter.
+
+                       Some of the key consolidated matrices. Annual Unique
+                       Transacting Customers grew by 10% to 12.1 million, GMV grew
+                       by 9.2% year-on-year close to Rs. 3,077 crores. Revenue grew
+                       by 14.1% to Rs. 2,395 Crores. Gross margin at Rs. 842 crores,
+                       adjusted EBITDA to Rs. 117 Crores and Cash profit
+                       Rs. 66.7 Crores. This is for the entire consol business, for the
+                       Quarter 2 FY27.
+
+                       With this, I will request Vivek to talk about the India
+                       multi-channel.
+
+Mr. Vivek Goel         Thank you, Supam. Hope I am audible?
+
+
+
+                                                                                        3
+
+Mr. Supam Maheshwari   Yes.
+
+Mr. Vivek Goel         Yeah. So, in India Multichannel, we have delivered the
+                       strongest growth over last 6 quarters. So, there’s a very strong
+                       growth momentum across both orders and AUTC.
+                       We continued a sequential improvement year on year in
+                       revenue growth with the strongest in the last 8 quarters as
+                       I mentioned. The diapering competitive intensity during this
+                       quarter has started to soften. Our non-diapering portfolio
+                       which contributes to about 85% of our GMV remains robust
+                       and continues to perform well. Our orders year-on-year
+                       growth has been again the strongest over the last six quarters
+                       as you can see it has been growing from 6% to 8% and
+                       continued towards its growth journey of 13% in the Quarter 2
+                       of FY27 over Quarter 2 of FY26 .
+
+                       Can we move to the next slide.
+
+                       So, on our online and offline GMV trends, our online GMV has
+                       grown at around 8% in this quarter and offline GMV has grown
+                       at 12.9%. Our Q2 growth would have been stronger had
+                       festivals like Dussehra not fallen 3 weeks later this year.
+                       This has led to shifting of some of the festive sales from
+                       September’26 to October’26. I also want to highlight that our
+                       online revenue net of discounts, returns and taxes grew at
+                       over 10% year-on-year in Q2 FY27. This is again the strongest
+                       growth in last 6 quarters for our online business.
+
+                       For offline store formats, in spite of 10 lesser stores, we have
+                       managed a healthy 13% GMV growth which is largely coming
+                       from growth in existing stores. This is mainly attributed to the
+                       changes made in product assortment strategy and execution.
+                       We had paused company owned store openings last year to
+                       focus on capital efficiency.
+
+Mr. Supam Maheshwari   Our India Multichannel revenue grew by close to in Quarter 2,
+                       18.6%. As we said, strongest in 8 quarters now and adjusted
+                       EBITDA for the Quarter 2 came to around 6.9%, which is 120
+                       bps higher than the Quarter 1 and would like to say the gross
+                       margin for online and offline business put together in Q2 has
+
+                                                                                      4
+
+                       improved by 100 bps compared to the gross margin in
+                       Quarter 3, when we started to have the diaper competitive
+                       intensity issues despite that we have started to improve our
+                       gross margin by 100 bps.
+
+                       We are not close to where we were in the last year at 9.1%.
+                       Part of the reason is that the discounts are getting moderated
+                       from Quarter 2 of this year in the diapering intensity so that
+                       has helped us and the manufacturing margins remain under
+                       pressure because of the crude linked raw material prices.
+                       While Q4 impact has been passed to the customers but
+                       subsequent price increases have continued to have this
+                       extended lag which we expect to cover in Q3 and hopefully
+                       completely by Q4.
+
+                       So, this should help us to improve our adjusted EBITDA in the
+                       coming quarters. Any reduction in the crude price obviously
+                       will help us materially as we go along in recovering all the lost
+                       adjusted EBITDA margins which were flowing because of the
+                       gross margin compression.
+
+Mr. Gautam Sharma      So, just to add on the crude prices, the good news is starting
+                       first week of November, we have started seeing the crude
+                       prices falling down and in fact if you see the delta between the
+                       gross margins on a YoY basis and the EBITDA margins on a YoY
+                       basis, we have tried to optimize the cost below gross margin
+                       to make sure that the delta between the YoY gross margins
+                       and the YoY EBITDA margin reduces. So, we have saved around
+                       90 bps on the cost which are coming below the gross margins,
+                       for India multi-channel business.
+
+Mr. Supam Maheshwari   This time around we have given you additional data points
+                       around our cost structures as well, below the gross margin and
+                       that will give you improved quality of the business. Here, we
+                       would like to highlight that our direct cost despite adding two
+                       initiatives which is Rocketbees as well as Qwik, our direct cost
+                       has now in Quarter 2 has gone down materially. If you see
+                       from H1 FY27 to Quarter 2 FY 27, there is a drop of 50 basis
+                       from 9.2 to 8.7 but if you look at from Quarter 1 to
+                       Quarter 2, it will be almost like 100 bps improvement that we
+
+                                                                                       5
+
+                       have done for the direct cost.
+
+                       And so, this is a shared impact. We front loaded all our costs
+                       while starting Rocketbees initiative and Qwik as they have
+                       expanded, the network has got built up. Overall, there has
+                       been a very positive effect on the outcome of the initiatives
+                       that’s a separate sort of strategic reason that we started, but
+                       from a cost perspective they have significantly come down and
+                       hoping it’ll get further optimized while we optimize the other
+                       facets of the marketing and the indirect cost over time.
+
+Mr. Gautam Sharma      So, the key impact of the reduction is the direct costs, is largely
+                       coming from the reverse pickups that the Rocketbees has
+                       started. So, the cost that we incur on the reverse pickups for
+                       Rocketbees is almost one-third of the cost that we used to pay
+                       to the third-party logistic players for the reverse pickup, so,
+                       that's the key reason of the direct cost coming down in Q2 and
+                       this will further go down.
+
+Mr. Supam Maheshwari   So, just to update on the three key initiatives that we have
+                       been talking about for quite few quarters now, happy to share
+                       that our Rocketbees initiative has now reached 102 cities, 20%
+                       faster delivery and now we cover almost 60% of our online
+                       shipments. FirstCry Qwik and assortment we’ll talk about all of
+                       these three initiatives in a little more detail.
+
+                       This is a snapshot of Rocketbees when we started in Quarter 2
+                       of FY26. From 13 cities, now we are at 102, covering as I said
+                       60% of the total online shipment volume with 90% plus on
+                       time delivery performance, 20% faster delivery TATs and 50%
+                       lesser return to origin (RTO) shipments, and very important
+                       what we felt the pain same time last year when we talked
+                       about a lot, now we have 60% lesser delivery complaints and
+                       all of the effect, impact of this initiative has been mentioned
+                       in above on the slide itself that are online transaction
+                       frequency cohort in RocketBees service cities have improved
+                       by 10% year on year basis, resulting in overall improvement of
+                       frequency cohort by 5%.
+
+
+
+
+                                                                                         6
+
+                       So, we’re very happy, we believe it will further continue to
+                       improve and that’s a testimony of what we have been building
+                       and what we thought we’ll be able to build, although it took
+                       us almost a year as you can see on the graph to reach where
+                       we have reached. We will not stop here, we will continue to
+                       grow our journey with Rocketbees and able to improve
+                       performance and improve our frequency cohorts.
+
+                       Onto the Qwik, as we have shared with you on Quarter 1 this
+                       year, we started our pilot somewhere around close to
+                       December from 3 cities. We have now moved to 16 cities in
+                       end of Quarter 2. From a 3 hour delivery to many cities, now
+                       we’re doing 1 hour to 3 hours and literally doubled our
+                       shipment count from March to June, June to September. And
+                       this has been I would say very meaningful customer
+                       satisfaction index that we track internally. Now we can be very
+                       sharp in be able to meet the customer expectations of some
+                       of the customers who are looking to get goods in much faster
+                       delivery timeframe. So, in top 16 cities, I mean these are we
+                       are going by a certain method of selecting cities and the PIN
+                       codes around that and being able to deliver that. Obviously,
+                       we will continue to expand on our FC Qwik initiative in many
+                       more cities.
+
+                       As we have talked about earlier in any catchment that we open
+                       Qwik, our ambition is to take 20% of the total overall
+                       shipments on that particular catchment to FC Qwik and we
+                       want to reach FC Qwik as a service to almost 50% of the overall
+                       serviceability that we do an entire PAN India. With that we
+                       should be able to reach to around overall 10% of our overall
+                       online volume to FC Qwik over a period of time.
+
+Mr. Supam Maheshwari   Yeah, so, we will be able to reach to around 10% of our overall
+                       shipment volume under FC Qwik. So, we have a lot to
+                       improvise and improve upon both in terms of assortment as
+                       well as sharpen the assortment as well as expand our FC Qwik
+                       coverage across many more cities to come. So, we’ll keep you
+                       updated as we go along further next few quarters.
+
+
+
+                                                                                     7
+
+                     Moving further, the third initiative that we're talking about,
+                     we have been seeing the results from Quarter 4 of last year
+                     and Quarter 1 and Quarter 2 as well. Our strategy of
+                     sharpening the assortment at our stores really has worked
+                     very nicely despite having 10 less stores. We have been able
+                     to have in Quarter 2, 13% GMV growth which essentially
+                     means largely coming out from the same store growth.
+                     We believe stronger footfalls and conversions because of our
+                     assortment sharpening has led to this and we’ll continue
+                     building on it and now our engine of adding more stores have
+                     started from last quarter. You will be able to see the impact of
+                     numbers going up in terms of new store additions in
+                     Quarter 3 onwards and it’ll continue going forward.
+
+                     So, that was on the India Multichannel, I would request
+                     Abhinav to take over on giving update on the international.
+
+Mr. Abhinav Sharma   Thank you, Supam. Hello everyone, a quick update on the
+                     international business. Some of the highlights as we’ve spoken
+                     previously in many quarters, I think 4 or 5 quarters now, we’ve
+                     continued our focus on sustainable growth. In the quarter in
+                     discussion Q2 FY27, our GMV grew by 10% YoY while our
+                     adjusted EBITDA losses reduced by 15.9% in the same
+                     timeframe. Gross margins continue to improve which is a
+                     classic example of and shows our strength of the India
+                     playbook in execution here in the Middle East as well. One key
+                     point we all know we are all aware of the geopolitical
+                     disruptions that are ongoing since Q1 of this year and the
+                     domino or cascading effect we are seeing as we speak the
+                     Middle East business grew by 6% on the revenue terms with a
+                     much higher potential in a stable environment. So, 10% GMV
+                     growth and a 6% revenue growth with a 15.9% reduction in
+                     EBITDA losses.
+
+                     This slide showcases our revenue growth progression. As you
+                     can see a 6% growth in Q2 FY27 over the last year same
+                     quarter. More importantly, 220 bps improvement in gross
+                     margins going to 28.5% from 26.3%. Adjusted EBITDA in
+                     absolute terms we reduced losses from Rs. 18.9 crores to
+                     Rs. 15.9 crores which is a 6.4% in terms of revenue which was
+
+                                                                                    8
+
+8% last year in the same quarter, and as you can see, the
+progression is very clear in terms of our path to profitability
+and reducing losses while we continue to sustain a very sort of
+a stable growth and reducing losses.
+
+Next slide, please.
+
+This is a comparison of the first half of FY26-FY27 and the
+quarters in discussion, Q2 FY26 versus 27. As you can see, our
+revenue growth in the first half was close to about 9 or 10%,
+Rs. 443 crores going to Rs. 481 crores. Again here 240 bps
+improvement in gross margins in the first half of FY27 versus
+FY26. Adjusted EBITDA losses shrunk to 6.8% versus 9% in the
+same half of last year. Similar story for the quarter, our
+revenue grew from Rs. 235.7 Crores to Rs. 249.3 Crores. Again
+gross margin improvements of 220 bps, 26.3 going to 28.5 and
+adjusted EBITDA going to near mid single digit negative
+6.4% of revenue versus an 8% same quarter last year.
+
+Next slide.
+
+This is a progression of how we’ve performed so far from FY23
+to FY26 full year basis, 25% negative EBITDA clocking at 10%
+negative in FY26 and in the first half of the two years FY26
+versus FY27, we’ve reduced our losses from 9% now to 7%. 40
+Crores going to 32.6 Crores largely the levers are the higher
+home brand mix which is again a testimony to the acceptance
+of our home brand categories and product mix and assortment
+that we have for the parents of the region and again a classic
+page taken out of the India playbook. Apart from the
+homebrand mixes, a higher margin category and brand
+selection for the non-home brand part of the business, very
+high quality acquisition of customers and more importantly
+retention because that in the longer term will help us improve
+our unit economics and therefore we can press the pedal on
+more acquisitions as we move along and as we scale, there is
+operating leverage that we can see across in the previous slide
+that you showed with the direct and indirect costs having
+leverage because of the revenue growth quarter-on-quarter
+and first half of this year versus first half of last year.
+
+                                                              9
+
+                    I think that’s it from me. Anuj, over to you.
+
+Mr. Anuj Jain       Yeah, thanks Abhinav. Good afternoon, everyone.
+
+                    On the Globalbees front, Globalbees grew by 7.7% to
+                    Rs. 530.6 Crores after a largely flat Quarter 1 that we had, the
+                    adjusted EBITDA improved from Rs. 10.4 Crores to about Rs.
+                    19 Crores and the margins if you compare Quarter 2 of FY27
+                    stood at 3.6% versus the same quarter last year were at 2.1%.
+
+                    Two things that have affected the growth, one was a planned
+                    warehouse move in one core brand during the quarter and
+                    there was some shift in platform promotions and festive sales
+                    also which last year were in Quarter 2 and this year have fall
+                    in Quarter 3 with the portfolio rationalization largely
+                    complete. We are focused on scaling our core brands and
+                    improving the returns.
+
+                    Harsh, we can move to the next slide.
+
+                    If you see our adjusted EBITDA and margin movement over
+                    time, you will see that in FY26 we were at about 2.9% adjusted
+                    EBITDA and H1 FY27 we stand at 3.8%. Other brands, the
+                    non-core brands rationalization as I mentioned earlier is
+                    actually complete and the core brand warehouse and
+                    inventory transition that we had mentioned last time would
+                    be completed by Quarter 2 is done. We are now expecting
+                    growth recovery from Quarter 3. One of the factors that has
+                    impacted the gross margins has been the rupee depreciation
+                    and hopefully over the next couple of quarters, we’ll see a
+                    recovery in that as well. So, we should be able to move
+                    towards a stronger EBITDA.
+
+                    That’s about it from my side.
+
+Mr. Gautam Sharma   So, this is the last segment which we report as others, which
+                    basically includes the performance of our preschool business.
+                    So, the preschool network has crossed 500 in numbers. So, as
+                    at end of September’26, we are at 512 schools in 218 cities and
+
+                                                                                  10
+
+the number of student enrolment, it stands at 28,785.
+
+Revenue and adjusted EBITDA both continues to grow both in
+terms of absolute value as well as a percentage to net revenue.
+So, revenue in Q2 grew by 19.3% and H1 growth is roughly
+around 35%. If we talk about the adjusted EBITDA in absolute
+value it has increased from Rs. 2.9 Crore to Rs. 5.3 Crores
+which is 40.3% of the net revenue in Q2.
+
+Next Slide.
+
+So, we’ll move to the consol financial summary. So, this is the
+sum total of all the four business segments which we just
+talked about. On a revenue basis, we grew by 14.1% in Q2
+again this revenue growth is the strongest growth in last
+6 quarters while there remains a bit of pressure on the gross
+margin largely coming out of the pressure on gross margins in
+the India multi-channel business which Supam and Vivek
+talked about. However, the lost delta in the gross margin on a
+YoY basis in Q2 is partially covered by our efforts on optimizing
+the cost with the gross margin and hence you see 5.8% EBITDA
+in Q2 has come down to 4.9% which is roughly a 70 bps saving
+below the gross margin cost.
+
+Next slide.
+
+This is the cost breakup below the gross margins. We can see
+direct costs more or less remains same both in H1 as well as
+Q2 on a YoY basis. Marketing spends continue to go down, so,
+we have saved roughly 60 bps in the marketing costs in H1 and
+roughly 50 bps in the marketing costs in Q2. Similarly, there is
+a reduction in the indirect costs as well, 14.5% in H1 going
+down to 14.1% and similarly there is a 40 bps saving in Q2 on
+a YoY basis. So, this leads to a 1,175 million INR adjusted
+EBITDA in Q2 compared to a 1,208 million INR adjusted EBITDA
+in Q2 FY26.
+
+The next slide talks about our reported PAT journey as well as
+the adjusted PAT journey. Adjusted PAT is basically the PAT
+after adjustment of ESOP cost and the exceptional item.
+
+                                                               11
+
+                       So, you can see most of the quarters in last four quarters we
+                       have been positive in terms of adjusted PAT and the reported
+                       PAT also in terms of percentage you can see, it’s continuously
+                       going down from minus 2.4% in Q2 FY26, we have now
+                       reduced the losses to minus 0.5%. In absolute value, this is a
+                       reduction from Rs. 51 Crore of reported loss after tax to a Rs.
+                       12.6 Crore of reported loss in Q2 FY27. So, that’s a significant
+                       return, roughly around 75% of the reduction impact.
+
+                       Working capital trends, net working capital, it has gone down
+                       from 67 days to 61 days. However, the inventory has increased
+                       a bit from 99 days in end of September’25 to 105 days end of
+                       September’26. This is largely because of advancement of
+                       festival and sale by 3P platforms both in India multi-channel
+                       business as well as the Globalbees business.
+
+Mr. Supam Maheshwari   So, our priorities for FY27 is absolutely clear to us. We want to
+                       focus on service improvement and leading to growth, so, we
+                       will continue to expand our Rocketbees coverage, improve
+                       delivery experience to more cities than 102 and we will
+                       continue to expand our FC Qwik which I talked about, our
+                       goalpost is at least reaching to 10% of our total overall online
+                       orders and be able to now we have reached to a very nice store
+                       productivity so we’ll be able to continue to do our new store
+                       expansion which you should be able to see in Quarter 3 itself.
+                       So, all of these 3 buckets will lead to a very strong growth in
+                       Quarter 3 and quarters to come because of the transaction
+                       frequency, cohort improving as well as new store additions so
+                       that’s on the growth side and the second focus area and
+                       priority for us will be walking through a tightrope on
+                       profitability. In India multichannel, as we talked about our
+                       diapering discounts have continued to moderate from
+                       Quarter 2 itself of this fiscal year and we believe it will
+                       continue to moderate further as well, as we go along and so
+                       that’ll lead to an overall optimization and discounts and we
+                       will continue to improve our home brand mix leading to
+                       improvement in gross margin and obviously manufacturing
+                       related sort of crude link cost pressures as we know it’s a little
+                       external but it looks like it is stabilizing or going down which
+                       will give us ability to pass on to the customers once and any
+
+                                                                                       12
+
+                    reduction further will actually help us improve the gross
+                    margin. So, I think it’s recovery is in place, you will see it on
+                    quarter to quarter improvement in the India multi-channel
+                    gross margin both in Quarter 3 as well as in Quarter 4,
+                    significant change.
+
+                    On the international side as Abhinav talked about, we’ll
+                    continue to reduce our losses through product mix and
+                    operating efficiency. For the last 8 quarters, you have been
+                    able to see that we will continue to perform day in day out on
+                    accomplishing that objective to make sure our business
+                    becomes EBITDA neutral fairly sooner.
+
+                    And on Globalbees as Anuj talked about, we have come back
+                    on a growth trajectory. We should be able to see more
+                    improvement in growth as Quarter 3 had festive season as well
+                    so which was there in the Q2 last year, so you should be able
+                    to see both growth as well as improved profitability as all the
+                    rationalization of brands and warehouse transition is almost
+                    completed.
+
+                    So with that, we believe that, I think you should see both our
+                    priorities reflecting in material outcomes in form of numbers
+                    both in growth improvement as well as in profitability
+                    improvement. So, With that I think we can take your
+                    questions.
+
+Mr. Harsh Kabra     Thank you to the management team for the presentation.
+                    We will now open the floor for questions. I request
+                    participants who wish to ask a question to use the raise hand
+                    feature. We will invite you to unmute one by one. Please
+                    introduce yourself and mention the organization you
+                    represent. To give everyone an opportunity please limit
+                    yourself to two questions, for any follow-up question you may
+                    rejoin the queue. We’ll allow a moment for the queue to form.
+
+                    First question is from Mr. Mayur Gathani. Can you please
+                    unmute yourself?
+
+Mr. Mayur Gathani   I’ll just come back on the queue, please.
+
+                                                                                   13
+
+Mr. Harsh Kabra          Okay, so, next question is from Adithya Srinivasan, Aditya if
+                         you can unmute yourself.
+
+Mr. Adithya Srinivasan   Hello, I hope I’m audible?
+
+Mr. Harsh Kabra          Yes Adithya.
+
+Mr. Adithya Srinivasan   Yeah, so, thanks for the opportunity and congrats on a good
+                         set of numbers. So, I’m from IThought PMS, equity research
+                         analyst there. So, I just have a few questions on the India
+                         multi-channel side. So just looking at the conversion rate so
+                         that’s the revenue conversion from GMV, it’s at about 64%.
+                         I know we don’t look at this number too much but it’s quite
+                         the highest it’s been in over the last few quarters. So, I just
+                         want to understand how much of this has been contributed
+                         from the manufacturing business side and if you could put a
+                         number on what percentage of the revenue the
+                         manufacturing business also is doing, so that would be my first
+                         question.
+
+Mr. Gautam Sharma        So, Aditya in fact if you see our FAQs that we have filed with
+                         the stock exchange.
+
+Mr. Adithya Srinivasan   Right.
+
+Mr. Gautam Sharma        Given the marketing restrictions since Swara is in the process
+                         of filing its RHP, we really can’t talk about the manufacturing
+                         numbers separately for the FY27 because those are not
+                         published, so, we have restrictions on that. However, you have
+                         the Swara performance with the manufacturing performance
+                         for the last 3 years. That’s what we can share about the
+                         manufacturing business.
+
+Mr. Supam Maheshwari     It’s already a published data, Adithya.
+
+Mr. Gautam Sharma        Hopefully, this restriction will not be there in the next quarter
+                         when we expect that the manufacturing business will be a
+                         listed company.
+
+
+
+                                                                                        14
+
+Mr. Adithya Srinivasan   Understood. Okay, Okay fine, no worries. So, just one more on
+                         the online growth side, so, the India online GMV grew about
+                         8% in Q2. So, I just want to understand the reason is due to
+                         the Dussehra shift into October, so, if you can put a number
+                         on what the growth was in October and say halfway through
+                         November as well? has it like come back into maybe the low
+                         teens?
+
+Mr. Gautam Sharma        So, Aditya, what we should see in fact is basically the growth
+                         in the net revenue, the revenue post discounts, taxes and
+                         return. That’s what we have published also that the online
+                         revenue growth post-discounts, taxes, and return is 10% plus
+                         which is the strongest in last 6 quarters despite of a slower
+                         GMV growth and that slower GMV growth is largely coming
+                         because of slight reduction in the AOV and second one is the
+                         festival moves by almost three weeks so some of the high AOV
+                         items which people generally buy during the festival times
+                         have now pushed from September to October, that’s the key
+                         reason of a lower GMV growth. October is doing well, we
+                         believe Q3 growth should be better than the Q2 growth.
+
+Mr. Adithya Srinivasan   Understood, got it. Okay, thanks for that. I just have one more
+                         question on the logistics side, if time would allow so direct
+                         costs, I mean it’s about 8.5 to 8.7%. So, now Rocketbees is if
+                         I’m not wrong, handling about 60% of the online shipments.
+                         So, when would you expect the Rocketbees to start bringing
+                         the cost per shipment down like a lot more on that coming into
+                         play.
+
+Mr. Supam Maheshwari     I did talk about it Adithya, a couple of minutes back, I did
+                         mention that between Q1 to Q2 itself or you look at H1 data
+                         versus Q2 data there is a 50 basis point drop in our direct cost
+                         itself from H1 to Q2 which essentially means Q1 to Q2 there is
+                         a drop of almost 100 bps in India multi-channel direct cost.
+                         So, it’s already on the right sort of trending direction and as
+                         we had front loaded this cost to build up the network across
+                         102 cities, so, the cost had actually gone up and now it started
+                         to retrieve back and you’re already seeing the benefit and as
+                         Gautam mentioned, you would probably be able to see more
+                         rationalization of direct cost over time as we expand.
+
+                                                                                       15
+
+                         The expansion is on both accounts not just Rocketbees but
+                         also FC Qwik.
+
+Mr. Gautam Sharma        So, in fact, Adithya, you should look the logistic cost, so
+                         basically, it consists of the rocketbees cost as well as the
+                         FirstCry Qwik cost, right.
+
+Mr. Adithya Srinivasan   Got it.
+
+Mr. Gautam Sharma        FirstCry Qwik was not there in Q2 last year. So, despite of
+                         FirstCry Qwik coming in Q2 FY27 the direct cost is only higher
+                         by 20 bps on a YoY basis. So, this gap of 20 bps was roughly
+                         around 45 bps in Q1 so that suggests that the cost is
+                         continuously going down.
+
+Mr. Adithya Srinivasan   Got it, sir, that makes sense, makes sense. Just one more
+                         follow-up on the Qwik side. So, Qwik has doubled shipments
+                         to about 2,50,000 in September with only about 4 cities added
+                         whereas compared to like last quarter, you doubled the cities
+                         as well as doubled the shipments. So, what led to the doubling
+                         in shipments even though only 4 cities were added.
+
+Mr. Supam Maheshwari     So, Adithya you should not read actually the cities, it’s just one
+                         number but within cities we expand multiple PIN codes and
+                         multiple catchments as well. So, while the city is a static
+                         number like in within city there are multiple PIN codes that we
+                         activate as we align our infra over in the micro catchments, so,
+                         the real number to look is not number of cities but the number
+                         of shipments that we are able to execute. So, within 16 cities
+                         you will see a growth and when we add more cities you will
+                         see further growth, so that’s how you have to look at it.
+                         Like a city like Bangalore or NCR may have still more
+                         catchments to be covered in under FC Qwik which we haven’t
+                         done so far despite being almost 9 months at it. So, you will
+                         see expansion happening within Bangalore within let’s say
+                         NCR without adding the count of number of cities so that’s
+                         how you have to read it.
+
+Mr. Adithya Srinivasan   Understood, so more depth across micro-markets essentially.
+
+
+
+                                                                                         16
+
+Mr. Supam Maheshwari     That’s correct. Yes.
+
+Mr. Adithya Srinivasan   Okay thank you thank you so much for your time, good luck.
+
+Mr. Harsh Kabra          Thank you, Adithya. The next question is from Ranodeep S.
+                         Ranodeep, if you can unmute yourself.
+
+Mr. Ranodeep S           Thank you for the opportunity, so my question was with
+                         respect to the Swara IPO, I mean what is the intended
+                         objective of listing it as a separate entity? Is it primarily to
+                         unlock value and provide independent access or to provide
+                         independent access to capital for growth or create a more
+                         focused business with its own strategic direction and how
+                         should Brainbees shareholders think about the long-term
+                         value creation opportunities from this exercise?
+
+Mr. Supam Maheshwari     So, Ranodeep, you have touched upon both the relevant
+                         points. We have actually shared one note, a couple of weeks
+                         back to stock exchange on our strategic reasons of
+                         participating in the OFS. It is exactly touching upon both the
+                         points that you talked about and it is both the kind of capital
+                         requirement that the manufacturing business requires and a
+                         very focused strategic initiative on building hygiene category,
+                         which they are the largest OEM in the country and Swara will
+                         continue to expand domestically as well as an export so that
+                         unique opportunity that presents to itself will help us unlock a
+                         lot of value creation rather than being part of the India
+                         multi-channel. So, that’s the reason we enabled this direction
+                         for Swara. I think over time, we all as shareholders, should
+                         benefit out of this.
+
+Mr. Gautam Sharma        We will however continue to consolidate the Swara numbers
+                         in our financial statements. It will still be a holding company of
+                         Swara.
+
+Mr. Harsh Kabra          Okay, thanks. Thanks, Ranodeep. Our next question is from
+                         Shashank Pore, Shashank if you can unmute yourself.
+
+Mr. Gautam Sharma        Yeah, go ahead Shashank.
+
+
+
+                                                                                         17
+
+Mr. Harsh Kabra     Shashank, you’re not audible.
+
+                    Okay, so we’ll take next question. Next question is from Avnish
+                    Sharma. Avnish, if you can unmute yourself.
+
+Mr. Avnish Sharma   Hi team, thanks for the opportunity. I have three questions. So
+                    how much was the impact of certain rationalization exercises
+                    we had taken in Globalbees and how should we look at your
+                    performance in 3Q? Like, will there be the impact or is it still
+                    in the base?
+
+Mr. Gautam Sharma   Sorry, what was the first question, Avnish.
+
+Mr. Avnish Sharma   Your rationalization exercise in the Globalbees like we had
+                    taken some certain rationalization exercises.
+
+Mr. Anuj Jain       Yeah, so, the rationalization’s been happening over the past
+                    year and it’s already completed in Quarter1 and we’re now
+                    directing more management time and capital towards the
+                    stronger categories and focused businesses that we’ve
+                    identified.
+
+Mr. Avnish Sharma   Okay and how should we look at Q3 for this Globalbees?
+
+Mr. Anuj Jain       So, Q3 should deliver stronger growth as well as improved
+                    margins. In terms of the rationalization of brand’s impact if
+                    you’re specifically asking that I think the Quarter 2 is already
+                    an indicator in terms of the impact because Quarter 2 does not
+                    have an impact of the rationalization of brands.
+
+Mr. Gautam Sharma   So, how you should look at the Globalbees business, so we
+                    have Anuj talked about in one of his slides that the growth
+                    could have been better had the 3Ps have not shifted their sales
+                    from September to October as well as the festivals like
+                    Dussehra have not shifted by almost 3 weeks, so, last year
+                    Dussehra was on 2nd October this year its on 19th October, so,
+                    a good part of Dussehra sales have now shifted to Q3, so, how
+                    you should look at the business is basically Q2 and Q3
+                    combined. In term of margins on a YoY basis, every quarter we
+                    are doing better in Globalbees business and since there was
+                    some impact because of the currency fluctuation which Anuj
+
+                                                                                  18
+
+                       talked about, I think we believe that the Q3 margins should be
+                       better than compared to the Q2 margins.
+
+Mr. Avnish Sharma      Understood, and in India Multichannel so when can we expect
+                       the gross margins to come down to the normalized level of
+                       36-37% and what will the key drivers for the improvement?
+
+Mr. Gautam Sharma      So, we talked about softening of competitive intensity in the
+                       diapering category so that’s clearly visible. In fact Q2 if we talk
+                       about the online and offline gross margins only, right, it has
+                       improved by 100 bps compared to Q3 last year based on what
+                       we have seen in October. In fact, that’s even mentioned in our
+                       FAQs, we believe that Q3 margins should be significantly
+                       better than the Q2 margins and we’ll continue to improve the
+                       margins going forward and multiple factors like mix of home
+                       brands, continuous negotiation with third-party brands,
+                       benefits of scale and all these things will kick in and will
+                       continue to improve our margins going forward.
+
+Mr. Avnish Sharma      Understood and within this India multi-channel, so, the
+                       marketing cost has been flattish, so don’t you think that this
+                       will have an impact on the growth of the segment?
+
+Mr. Supam Maheshwari   Now look if you’ll see the absolute amount of marketing spend
+                       has been increasing. It’s not just the percentage, so the
+                       absolute amount has been increasing and the cohorts are also
+                       improving, so, I think you should read it from a window of how
+                       we are optimizing as still generating superior growth and
+                       investing in activities where we are able to generate new
+                       customer acquisition at a much sharper and much higher
+                       retention of new customers and so, I think our focus has been
+                       built around improving service quality, improving product
+                       assortment to be able to get a better bang for our buck, and
+                       that is what is reflecting in the numbers that you have been
+                       seeing it.
+
+                       And the whole idea of omnichannel or offline, online, and now
+                       FC Qwik, it’ll help us from a parenting journey, if you look at
+                       from a young parent, we are there and across all three
+                       platforms. The customer wants to buy offline obviously out of
+
+                                                                                        19
+
+                    our almost 1200 stores they can buy. Customers want to buy
+                    in 60 minutes to 90 minutes or 180 minutes, they have FC Qwik
+                    and then long tail available through our regular e-commerce
+                    platform. So, I think with that we are very uniquely placed to
+                    be able to have the largest wallet share of the customers is
+                    how we have positioned ourselves and we’ll continue to
+                    expand both in terms of our store coverage, physical store
+                    coverage from Q3 onwards substantially and our FC Qwik and
+                    our online delivery question in terms of serviceability through
+                    our Rocketbees expansion.
+
+                    So with that, we believe, the marketing spend will continue to
+                    get better at acquiring more and more customers is how we
+                    believe will turn out to be leading to an improvement in
+                    EBITDA.
+
+Mr. Avnish Sharma   Okay, just one last question. So, as we expand this offline
+                    stores what sort of impact do we see on the working capital
+                    and what kind of Capex are we expecting?
+
+Mr. Gautam Sharma   So, Capex any which ways is roughly close to 2,000 to 2,200
+                    per square feet and these are the stores that we are talking
+                    about each having a size of 3,000 to 4,000 square feet.
+                    So, that’s the Capex requirement and we don’t see any
+                    material change in the working capital because on the base of,
+                    so first of all offline business itself is 22% on the GMV and if
+                    you further break it down between FOFO and COCO that’s
+                    again 50-50%. So, opening and on a base of say 50-60 stores
+                    or even further in the next year on a base of 1,200 stores, it’s
+                    I don’t think that there will be a material change in the working
+                    capital requirement.
+
+Mr Avnish Sharma    Understood. Thank you. Those were the questions that I had,
+                    All the best.
+
+Mr. Gautam Sharma   Thank you.
+
+Mr. Harsh Kabra     Thanks Avnish. Our next question is from Shushank Pore,
+                    Shashank if you can unmute yourself.
+
+
+
+                                                                                   20
+
+Mr. Shashank Pore      Can you hear me properly now?
+
+Mr. Supam Maheshwari   Yes.
+
+Mr. Shashank Pore      My question was on could you clarify what is the original
+                       commercial dispute with Kuber Mart shareholders? And is
+                       there any underlying payment obligation or litigation still
+                       there?
+
+Mr. Gautam Sharma      So, there are two things. So, because of some interpretation
+                       issues on some of the liability they have filed under IBC as a
+                       financial creditor, it was more than a year back and very
+                       recently their appeal or their application for the bankruptcy of
+                       Globalbees has been rejected by NCLT. We have made this
+                       disclosure to the stock exchange.
+
+Mr. Shashank Pore      No, I’ve seen that particular thing. I just wanted to know is
+                       there an end of the story or there’s some more litigation or
+                       something else which is pending?
+
+Mr. Gautam Sharma      No, so that discussions and those litigations are anyways going
+                       on and the law will take its own course but there is no
+                       additional liability that we expect in the books of Globalbees.
+
+Mr. Supam Maheshwari   And nothing to worry, business is back on track, so nothing to
+                       worry on around that a liability is capped anyway.
+
+Mr. Shashank Pore      The second question was on the preschool, seeing the
+                       importance is only one slide dedicated. Is it a strategic SBU for
+                       us or it is maybe someday you will spun it off or what is the
+                       way forward for the preschools because it doesn’t get that
+                       seems at a desired attention which the other businesses do.
+
+Mr. Supam Maheshwari   Shashank, it is more of a strategic initiative. If you look at it,
+                       the objective here is to be able to be part of our mission to
+                       solve for important needs of young parents and one of the
+                       important needs when you have a young child at home is also
+                       education, while it is a completely asset-light business and we
+                       provide the tech platform, the curriculum and through our
+                       business partners that we have across, a few hundred cities
+
+                                                                                       21
+
+                       512 some centers that we have opened and we continue to
+                       open more.
+
+                       The objective here is that in any catchment you will find young
+                       parents can shop on our platform online, offline, FC Qwik and
+                       also enroll their kids into a good quality branded preschool to
+                       be and therefore have peace of mind. That’s objective and that
+                       ensures FirstCry as a platform remains top of the recall in their
+                       minds for solving all their key pain points. I think that’s the
+                       objective that we are solving with and anyway these Intellitots
+                       schools, students and young parents become our power users
+                       for FirstCry both from an online and offline perspective. So,
+                       that’s the objective since it is asset-light we’ll continue to
+                       expand it. It fills our strategic purpose over a period of time
+                       our marketing cost, word of mouth, all of this will help us to
+                       reduce our marketing costs. So, that’s the objective that we
+                       are going ahead with and we’ll continue to expand.
+
+Mr. Gautam Sharma      And we are very much focused on this business, so in the last
+                       12 months we have added almost 80 preschool and even the
+                       number of enrollments have also significantly increased. So
+                       focus is not lost.
+
+Mr. Shashank Pore      Thanks, thanks, thank you.
+
+Mr. Harsh Kabra        Thank you Shashank. Next question is from Garima Mishra,
+                       Garima please unmute yourself and go ahead.
+
+Ms. Garima Mishra      Hi, thanks so much for the opportunity. This is Garima from
+                       Kotak Securities. Our first question was on the India
+                       Multichannel business, you mentioned that you want to start
+                       adding stores again. What is the store count addition expected
+                       in the second half and where do you see the store count going
+                       in, let’s say the next two, three years? And I’m asking this
+                       because your current store count itself is fairly decent in the
+                       overall scheme of things, so just some comments there would
+                       be helpful.
+
+Mr. Supam Maheshwari   Sure, Garima. Garima, actually, as you would know, and we
+                       have talked about in our previous calls, that we had paused
+
+                                                                                      22
+
+                       our store expansion especially in COCO reason being we were
+                       going through a product assortment strategy change having
+                       said this for the last 3 quarters from Quarter 4 of last year,
+                       Quarter 1, Quarter 2, we’ve seen significant improvement
+                       both in terms of our GMV expansion, GMV growth led by
+                       footfall as well as conversions improvement, so, we are back
+                       on our store expansion engine. It takes time to actually
+                       kickstart that we have signed many new properties but the
+                       store expansion roughly around close to you should be able to
+                       see around 50 to 60 stores coming up in for the remainder of
+                       the FY27.
+
+Mr. Gautam Sharma      Including franchisee and company owned, a healthy mix of
+                       both the formats.
+
+Ms. Garima Mishra      Alright, okay, understood.
+
+Mr. Gautam Sharma      And going forward next subsequent few years, I think roughly
+                       90 to 100 stores is what we can target for at least next two to
+                       three years.
+
+Mr. Supam Maheshwari   Each year.
+
+Ms. Garima Mishra      Understood. You also mentioned in your comments that
+                       competitive intensity has come off to an extent, is this
+                       comment specific to the pricing competition in the diaper
+                       category? and also could you comment a little bit about new
+                       competitors such as OZi which have also raised PEVC money.
+                       What are they trying to do and are they doing anything
+                       significantly different?
+
+Mr. Supam Maheshwari   Sure. So, diapering intensity has moderated from Quarter 2
+                       and we talked about in the last earnings call as well and the
+                       reason being is, there has been a lot of rationalization that has
+                       happened in the quick commerce space overall and that has
+                       led to focus back on the profitability of unit economics of the
+                       larger players in the horizontal quick commerce and that
+                       impact is visible to us which has led to reduction of discounts
+                       and we have already reported almost 100 bps improvement in
+                       Quarter 2 from our India offline online business compared to
+
+                                                                                      23
+
+                    Quarter 3 of last year FY26 when this pain had started.
+                    So, we’ve already seen that 100 bps improvement obviously a
+                    mix of host of factors and one of the factors is discount
+                    moderation as well.
+
+                    So, that’s on the first question and second question around
+                    OZi and other players like Peeko and all of that. Look, they are
+                    only operating in right now on single city format which is an
+                    NCR and Peeko in Bangalore, OZi in NCR, it will be a very
+                    I would say to find large, a dense populated areas to be able
+                    to build a model and scale that across hundreds of cities is
+                    going to be very difficult and our assortment led by almost
+                    close to 58% home brand share with Rocketbees network and
+                    a PAN India network and a store network which makes it
+                    asset-light for us from a FC Qwik perspective leads to a very
+                    high and I would say evolved unit economics so it will be very
+                    hard. I mean I cannot describe it unless it’ll be unfair on my
+                    part but it’ll take for them to raise a few hundred million
+                    dollars to be able to sort of compete on that direction. We are
+                    talking about 2 million SKUs that we are operating under have
+                    with a large part coming across categories into home brands
+                    and a PAN India network with fashion alone which is more
+                    than 50% of our business is very hard to do in a quick model.
+                    However, our FC Qwik actually pans across not just
+                    consumables like diapers and so on and so forth, but around
+                    along with baby gear nursery which are very high ASP and a
+                    large voluminous products and also, the entire fashion
+                    category and footwear category, which again led by our home
+                    brand so, with that we feel very comfortable. It will take years
+                    and a lot of burn for them to be able to compete and build
+                    what we have built. So, I wish them good luck.
+
+Mr. Gautam Sharma   I think we are focused on improving our unit economics and
+                    delivery performance, the testimony is doubling the
+                    shipments in 3 months, 125 to 250 thousand shipments, that’s
+                    what we are focused on.
+
+Ms. Garima Mishra   Got it. Thank you so much for taking my questions.
+
+Mr. Gautam Sharma   Thanks Garima.
+
+                                                                                  24
+
+Mr. Supam Maheshwari   Thanks, Garima.
+
+Mr. Harsh Kabra        Thank you Garima, as we lost some time due to technical
+                       disruption on Zoom, we are happy to extend the Q&A session.
+                       So, our next question is from Surender Singh, Surender if you
+                       can unmute yourself.
+
+Mr. Surender Singh     Hi, thanks for the opportunity. I hope I’m audible?
+
+Mr. Supam Maheshwari   Yes.
+
+Mr. Surender Singh     Yeah, so I recall reading the past conference calls where
+                       management admired the way page industries does its
+                       business and the kind of operating margins they command in
+                       the market, right. So, I was just wondering what kind of top
+                       line we should have in our India multi-channel business before
+                       we can start reaching to the benchmark we look forward to.
+
+Mr. Supam Maheshwari   Yeah, so Surender, I think we continue to admire what Page
+                       has built in terms of especially around the bottom line EBITDA
+                       and PBT margins. Our model fundamentally has been built
+                       around on the front end side of it as a retail platform and a
+                       multi-brand retail platform both online, offline very unique
+                       with 78% online, 22% offline and on the back end side almost
+                       close to 7,500 plus brand partnerships and a majority of that
+                       business being led through our home brands which is the
+                       power that we always relate it to like a Page Industries model,
+                       so, our model is far more durable in terms of the growth. We
+                       believe that our India multichannel growth should continue to
+                       be in mid to late teens for a longer duration a longer number
+                       of years to come and yes we had certain challenges in the past
+                       which we believe we have overcome and you should continue
+                       to see Q3 better growth and so on and so forth and long term
+                       growth we believe will be mid to late teens.
+
+                       With that we will bring back our focus also on our margin
+                       expansion which is what who we admire as well and you
+                       should be able to see our margins both gross margin and
+                       EBITDA margins increasing quarter on quarter we should be
+
+                                                                                    25
+
+                       back on track. No questions and we’ll let the numbers speak
+                       for itself in Quarter 3 and in Quarter 4 and thereby onwards.
+                       So, we are very very confident on that.
+
+Mr. Surender Singh     Okay, second question on Globalbees, my sense after reading
+                       your communications in annual report is that one fine day in
+                       future it will become an independent listed business, I’m just
+                       wondering like what kind of internal targets we have before
+                       we reach to that stage and like, what all we are doing around
+                       it.
+
+Mr. Supam Maheshwari   So, Surender, I think as some of our brands mature over time.
+                       we will continue to look for strategic financial opportunities to
+                       monetize some of these brands, some of the assets and to
+                       maximise both Globalbees shareholders’ and as well as
+                       Brainbees shareholders’ value so that is what we will be, it
+                       could be strategic, financial or it could be even capital markets
+                       over a period of time. So, that’s how you should see it and we
+                       will not be able to give you any time commitments but as the
+                       business has been doing well, both in terms of top line growth
+                       as well as bottom line expansion, you should be able to see
+                       some of these monetization efforts also fruitify over next
+                       couple of quarters and leading to some monetization outcome
+                       for both shareholders of Globalbees and Brainbees.
+
+Mr. Surender Singh     Understood. I have another bookkeeping question, should
+                       I ask right away, or should I wait in queue?
+
+Mr. Gautam Sharma      Go ahead, Surender.
+
+Mr. Supam Maheshwari   Yeah, go ahead, please.
+
+
+Mr. Surender Singh     Yeah, so when I was having a look on the recent cash flow
+                       statement, one thing which caught my attention was there is
+                       an increase in the other current assets and compared to FY25,
+                       FY26 had a big jump because of GST receivables which went
+                       up to almost 500 Crores from below 200 Crores. So I was just
+                       wondering what led to this additional 235 Crores which you
+                       have disclosed in the current results?
+
+
+                                                                                      26
+
+Mr. Gautam Sharma      Can you give us some time, please? By the time the other
+                       person ask the question, we’ll be having this answer.
+
+Mr. Surender Singh     No, no issues. Thanks a lot, thank you for answering and giving
+                       me the opportunity.
+
+Mr. Gautam Sharma      This largely seems to be accumulation of GST credit, while, we
+                       will confirm this in a while.
+
+Mr. Surender Singh     Sure and it’ll be good if you can just let us know that why it is
+                       being accumulated so heavily off-late, right.
+
+Mr. Gautam Sharma      Sure.
+
+Mr. Surender Singh     Thank you.
+
+Mr. Harsh Kabra        Thank you Surender. Ranodeep please unmute yourself and
+                       proceed with your additional questions.
+
+Mr. Ranodeep S         Yeah, thank you, for the opportunity once again.
+
+                       So, Supam, I mean we’ve all gone through the bigger
+                       macroscope that you shared during the IPO and the TAM you
+                       spoke about and the bigger opportunity somehow when it
+                       comes to, if I think through from the shareholders’ return
+                       point of view, we’ve seen the highs of 700 plus and now it’s
+                       kind of at around 150 levels while we understand the market
+                       valuations are not entirely management’s control but how
+                       does the leadership team view this significant erosion in
+                       shareholder wealth and what are the maybe key business
+                       milestones over the next two to three years that you believe
+                       could fundamentally change the market’s perception of
+                       Brainbees and lead to meaningful re-rating?
+
+Mr. Supam Maheshwari   It’s a fair question, Ranodeep. Look, as you know, how we
+                       internally view this as one obviously we can’t control the share
+                       price and movements around that. We did go through a
+                       certain challenging period which I’ve kind of highlighted in my
+                       note as well and it just coincided with multiple factors like in
+
+                                                                                      27
+
+Quarter 3 of last year we had this Quick-comm, horizontal
+frenzy, everyone was trying to sort of be in a land grab mode
+led to impact both on the growth as well as significant impact
+on the margin erosion of 140 bps in Q3 and unfortunately
+backed by the next quarter in Q4 of last year, the crude impact
+due to geopolitical issues leading to another 140 bps of
+back-to-back gross margin reduction. These are events that we
+had not factored in but in the long journey of any organization
+these things happen. We have been at our game for last more
+than 15 years. We believe an institution is built for it’s
+fundamental value, how best you can solve customer issues
+and build joy to parenting and our customers and third
+obviously was the impact of the customer deliveries for which
+we had a solve for building Rocketbees. So, we solved all of
+these issues along with our macros which were slightly in a
+deteriorated state from an offline perspective. So, we are
+solving each of them one by one and sharing in our quarterly
+presentation.
+
+What steps that we can take as management to control the
+outcome or control the experience that our customers are
+looking from us as management, so, we did overcome the
+delivery experience as I in my presentation earlier talked
+about our delivery issues are 60% lesser in quantity because of
+the efforts that we have taken compared to the previous
+period. FC Qwik again has been doubling every quarter which
+is again leading to a very superior outcome of Gen Z’s and
+millennials who are looking to solve for very quick deliveries
+and our store footfalls and conversion improving all the GMV
+growth that we are talking about is largely coming out of same
+store growth. With that, the unit economics will continue to
+improve as we add more stores the growth will come in offline
+and our online frequency cohorts are starting to improve with
+all the efforts that we took to improve customer satisfaction.
+So I think this is a phase that we went through a consolidation
+phase is how you should look once every quarter from here
+on, I don’t think we are not able to visualize what could have
+gone wrong. It’s like you hit by something and you hit by
+another is what happened in Q3 and Q4 last year.
+
+
+
+                                                             28
+
+                       We are now back in shape. We are going to demonstrate both
+                       top line growth, bottom line growth, improvement in gross
+                       margin and with that not only we will earn back I would say
+                       the confidence and the trust of our customers but also our
+                       shareholders. It’s just a matter of time.
+
+Mr. Ranodeep S         Sure. Appreciate Supam for that long and elaborate answers,
+                       does give confidence. One last question, I mean is there a
+                       school of thought from a management from looking at FY30
+                       numbers and if we are able to maintain the mid-teens growth,
+                       do you see the revenue doubling up from these levels by FY30?
+
+Mr. Supam Maheshwari   Look, we can do the math, I mean we have talked about our
+                       India multi-channel number should be in mid to late teens for
+                       a good period of time.
+
+Mr. Gautam Sharma      Our mid teen growth would lead to doubling the number in
+                       5 years, Ranodeep. So, certainly not in 2030, we will be
+                       doubling the revenue from today where we are.
+
+Mr. Ranodeep S         Sure, sure, sure, appreciated. Thank you.
+
+Mr. Gautam Sharma      Surender ji, just to answer your question, two broad reasons
+                       for increase in the value of the other current assets, one is the
+                       GST as I mentioned earlier, the second one is a bit increase in
+                       the advances as well to suppliers both in India as well as
+                       overseas.
+
+Mr. Surender Singh     Yeah, yeah, that helps. Could you also mention that why GST
+                       is being accommodated so heavily now? Like compared to
+                       FY25 right FY26 had a huge jump and then.
+
+Mr. Gautam Sharma      You should see pressure easing on GST accumulation because
+                       of the new guidelines. One of our subsidiaries has gone into
+                       major expansion roughly 250 Crore rupees of capex done in
+                       last two years and another 500 Crore rupees of project that is
+                       basically being undertaking right now, that’s a company called
+                       Swara which is due for its listing now.
+
+
+
+
+                                                                                      29
+
+                         So, a good part of the reason is the Capex both in
+                         manufacturing company as well as for the stores expansion.
+                         However, for the manufacturing company you should see the
+                         GST accumulation easing very soon because of the new
+                         regulations on seeking refund both on services as well as the
+                         capex starting 1st of April 2027.
+
+Mr. Surender Singh       Perfect, Thank you, thanks a lot.
+
+Mr. Harsh Kabra          Thank you, Surender. In the interest of time we’ll take one final
+                         question. So Aditya, if you can unmute yourself.
+
+Mr. Adithya Srinivasan   Yeah, I hope I’m audible, thanks for taking my question again.
+                         So, just had a couple of questions, one on a little long-term
+                         basis, so, I just want to understand what ROCE you target for
+                         like India multi-channel business at a steady state and also if
+                         you could put a number on the EBITDA margin. What do you
+                         see as a steady state adjusted EBITDA margin? Do you think
+                         like mid-teens is achievable? And if so, maybe by when?
+
+Mr. Gautam Sharma        So, we really can’t talk about a 3 or 5 year numbers, but yes,
+                         we believe in continuous improvement of gross margins and
+                         the items below the gross margin level to reach to a very
+                         decent margin in 5 to 6 years, that’s what I can say. We’re
+                         quite impressed and inspired by the story of Page Industries.
+
+Mr. Adithya Srinivasan   Got it. Just one more question, I just want to understand if you
+                         could, I wanted to understand the numbers the split between
+                         FOFO and COCO on a revenue basis. So, would you be able to
+                         put a number on there? Maybe a revenue share.
+
+Mr. Gautam Sharma        So, in terms of number Adithya, it’s 55% FOFO and and
+                         45% COCO. Total number of stores I’m talking about. The
+                         revenue numbers will not be materially different.
+
+Mr. Adithya Srinivasan   Understood, understood and growth-wise as well it’ll be
+                         proportional to that?
+
+Mr. Gautam Sharma        See, the whole reason of expanding into COCO is we believe
+                         that we can run a store better and generate a good ROCE.
+
+                                                                                        30
+
+                              So, certainly, the growth of COCO should be better than
+                              compared to the franchisee stores.
+
+ Mr. Adithya Srinivasan       Understood. Okay, thank you sir. That’s it from my side. Thank
+                              you.
+
+ Mr. Gautam Sharma            Thank you Adithya.
+
+ Mr. Supam Maheshwari         Thank you.
+
+ Mr. Harsh Kabra              Thank you everyone for joining us today and for your
+                              continued interest in Brainbees Solutions Limited.
+                              This concludes today’s earnings call. Have a pleasant evening.
+
+ Mr. Gautam Sharma            Thank you so much.
+
+ Mr. Supam Maheshwari         Thank you.
+
+
+
+E&OE - This transcript has been corrected for readability, clarity and accuracy at some
+instances. In case of discrepancy, the audio video recordings uploaded on the stock exchanges
+on 16th November 2026 will prevail.
+
+
+
+
+                                                                                          31
+

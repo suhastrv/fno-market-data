@@ -1,0 +1,1126 @@
+        Date: October 26, 2026
+
+        To
+        BSE Limited                                             The National Stock Exchange of India Limited
+        P J Towers,                                             “Exchange Plaza”,
+        Dalal Street,                                           Bandra – Kurla Complex,
+        Mumbai – 400 001                                        Bandra (E), Mumbai – 400 051
+
+        Scrip Code: 541450                                      Scrip Code: ADANIGREEN
+
+        Dear Sir,
+
+        Sub: Transcript of Earnings Call pertaining to the Unaudited Financial Results
+             for the quarter and half year ended September 30, 2026
+
+        With reference to above, we hereby inform below link of transcript of the
+        Earnings Call with Equity Investors on Unaudited Financial Results (Standalone
+        and Consolidated) of the Company for the quarter and half year ended
+        September 30, 2026 held on October 22, 2026.
+
+        Web link to access above transcript is: https://www.adanigreenenergy.com/-
+        /media/project/greenenergy/investor-downloads/results-conference-call-
+        transcript/agelq2fy27earnings-call-transcriptoct-22-2026v1.pdf
+
+        Kindly take the above on your records.
+
+        Thanking You
+
+        Yours Faithfully,
+        For, Adani Green Energy Limited
+        DARJI      Digitally signed by
+                   DARJI PRAGNESH
+        PRAGNESH SHASHIKANT
+                   Date: 2026.10.26
+        SHASHIKANT 12:39:17 +05'30'
+
+
+        Pragnesh Darji
+        Company Secretary
+
+
+
+
+Adani Green Energy Limited                            Tel +91 79 2555 5555
+Adani Corporate House, Shantigram,                    Fax +91 79 2555 5500
+Nr Vaishno Devi Circle, S G Highway                   investor.agel@adani.com
+Khodiyar, Ahmedabad 382 421                           www.adanigreenenergy.com
+Gujarat, India
+CIN: L40106GJ2015PLC082007
+
+                                 Registered Office: Adani Corporate House, Shantigram, Nr. Vaishno Devi Circle,
+                                          S G Highway, Khodiyar, Ahmedabad – 382 421, Gujarat, India
+
+           “Adani Green Energy Limited
+    Q2 FY '27 Earnings Conference Call”
+                     October 22, 2026
+
+
+
+
+Management:
+
+Mr. Ashish Khanna – Chief Executive Officer – Adani Green Energy Limited
+Mr. Rajat Seksaria – Chief Executive Officer – Battery Storage
+Mr. Saurabh Shah – Chief Financial Officer – Adani Green Energy Limited
+Mr. Vijil Jain – Head, Investor Relations – Adani Green Energy Limited
+
+
+Moderator:
+
+Mr. Sabri Hazarika – Senior Research Analyst – Emkay Global
+
+
+
+
+                              Page 1 of 18
+
+                                                                                               Adani Green Energy Limited
+                                                                                                         October 22, 2026
+
+Disclaimer: This transcript is provided without express or implied warranties of any kind and should be read in conjunction with
+the accompanying materials published by the company. The information contained in the transcript is a textual representation of
+the company's event and while efforts are made to provide accurate transcription, there may be material errors, omissions, or
+inaccuracies in the reporting of the substance of the event. The transcript has been edited wherever required for clarity,
+correctness of data or transcription error. This document may contain “forward-looking statements” - that is, statements related
+to future, not past, events. In this context, forward-looking statements often address our expected future business and financial
+performance, and often contain words such as “expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “should” or “will.”
+Forward-looking statements by their nature address matters that are, to different degrees, uncertain. These uncertainties may
+cause our actual future results to be materially different that those expressed in our forward-looking statements. We do not
+undertake to update our forward-looking statements.
+
+
+
+
+Sabri Hazarika:                Good morning, everyone. And on behalf of Emkay Global, I welcome you all to the Q2
+                               FY '27 Post Earnings Conference Call of Adani Green Energy Limited. We have with
+                               us the top management from the company led by Mr. Ashish Khanna, CEO, Adani
+                               Green; Mr. Rajat Seksaria:, CEO, BESS; Saurabh Shah:, CFO; and Vijil Jain, Head,
+                               Investor Relations. So today's session would be opening remarks and update on the
+                               performance by the management, followed by the question-and-answer round.
+
+
+                               Now without any further delay, I would request Mr. Khanna for the opening remarks.
+                               Over to you, sir.
+
+
+Ashish Khanna:                 Thank you, Sabri. Good morning, everyone, and thanks for joining this call on our Q2
+                               FY '27 results. As we know, India's energy transition is gaining unprecedented
+                               momentum as the country rapidly scales renewable energy and electrification to
+                               strengthen energy security and advance its decarbonization and sustainability goals.
+                               With about 308 gigawatts of installed non-fossil fuel capacity, representing more than
+                               54% of total installed power capacity, the country is progressing rapidly towards the 500
+                               gigawatt target by 2030.
+
+
+                               India's peak electricity demand continues to reach new highs, reflecting rising
+                               consumption driven by industrial growth, electric mobility, data centers and the broader
+                               electrification of the economy. Against this backdrop, Adani Green Energy delivered
+                               another strong performance in H1 FY '27, crossing the significant milestone of 20
+                               gigawatts of operational capacity. Our 20.8 gigawatt portfolio supplied clean power
+                               equivalent to the needs of more than 4.4 million homes, while helping avoid 17.5 million
+                               tons of CO2 emissions during the period.
+
+
+                               Our operating and financial performance remained robust. Energy sales increased 32%
+                               year-on-year to 25.7 billion units in H1, supported by a 24% increase in greenfield
+                               capacity additions on Y-o-Y basis. Revenue from power supply in H1 FY '27 increased
+                               36% year-on-year to INR8,299 crores, while EBITDA grew 41% Y-o-Y to INR7,957
+                               crores, enabling us to deliver industry-leading EBITDA margin of 93%. The total
+                               EBITDA during H1 FY '27 was INR8,276 crores. If curtailment would not have been
+                               there, this EBITDA would have been close to INR9,000 crores.
+
+
+
+
+                                                         Page 2 of 18
+
+                                                        Adani Green Energy Limited
+                                                                  October 22, 2026
+
+The performance during quarter 2 was equally strong, with revenue from power supply
+increasing 45% year-on-year to INR4,019 crores, while EBITDA from power supply
+ending 51% higher Y-o-Y to INR3,835 crores, resulting in a strong EBITDA margin of
+92% during the quarter.
+
+
+Energy storage is becoming the next major pillar of our growth. During the quarter, we
+commissioned 3 gigawatt hour of battery energy storage at Khavda, taking our total
+installed storage capacity to 6.6 gigawatt hour. This capacity accounts for more than
+50% of India's operational BESS. We remain firmly on track to exceed 10 gigawatt hour
+during the year. While our maiden 500-megawatt pump storage project at Chitravathi is
+also progressing towards completion by year-end. At Khavda, the world's largest
+renewable energy plant, we have commissioned 10.8 gigawatt hour of solar, wind and
+hybrid capacity.
+
+
+Our focus on technology, digitization and advanced analytics continues to support high
+asset availability and strong operating performance across the portfolio. Looking ahead,
+we see significant opportunities emerging from growing needs for firm and dispatchable
+renewable energy, rising power demand from AI, data centers and hyperscalers
+alongside growing demand for integrated renewables plus storage solutions from
+commercial as well as industrial customers.
+
+
+Our investment in BESS is also helping mitigate curtailment challenges at Khavda by
+providing greater flexibility in managing renewable energy generation and enabling the
+utilization of power that would have been otherwise wasted.
+
+
+We will continue to closely monitor the developments on transmission infrastructure
+availability at Khavda. And at the same time, we have significantly accelerated the
+development of BESS to insulate ourselves from delays, if any, on transmission
+network. We remain focused on disciplined execution of our INR2.4 lakh crores capex
+program through FY '30, backed by securing new capacities under long-term contracts
+and prudent capital allocation.
+
+
+We remain committed to maintaining 13% to 14% ROE threshold by tying up capacities
+with AA+ counterparties. At AGEL, we remain neutral from a counterparty standpoint
+and will pursue opportunities that deliver high returns while offering long-term
+contractual visibility and desired credit quality. On sustainability, AGEL retained its
+number 1 global ranking in alternative electricity subsector by FTSE Russell for the
+second consecutive year.
+
+
+Our Khavda BESS project was also recognized as the largest project of the year at
+India Energy Storage Week 2026. Additionally, our Chitravathi, Gandikota and Tarali
+pump storage projects received the Best Construction Safety Excellence Award at the
+IBC Safe India Conclave and Awards.
+
+
+
+
+                       Page 3 of 18
+
+                                                                            Adani Green Energy Limited
+                                                                                      October 22, 2026
+
+                 As India's power requirements grow, our strategy is clear. Combine renewable energy
+                 at scale with storage, technology and disciplined execution to deliver most reliable clean
+                 power. Thank you.
+
+
+Moderator:       Shall we open the floor for QA now?
+
+
+Ashish Khanna:   Please do.
+
+
+Moderator:       Thank you very much. The first question is from the line of Mohit Kumar from ICICI
+                 Securities. Please go ahead.
+
+
+Mohit Kumar:     Congratulations on a very good set of results. My first question is, sir, can you just talk
+                 about the transmission asset commissioning, especially in Khavda region. Have you
+                 seen any acceleration from the Power Grid side or the other players to accelerate this
+                 commissioning so that they will be lesser and lesser curtailment as we go forward?
+
+
+Ashish Khanna:   I think -- so thanks, Mohit, for your question. I think we don't have any doubt about the
+                 credibilities and the capabilities of whether it is AESL or Power Grid on execution of
+                 these transmission lines. And we are monitoring it very closely, too. I think there are
+                 certain things which are not helping them with respect to ROW issues on which they
+                 are working very closely and both the state and central government has a lot of focus
+                 towards it. From our side, while it is out of our control, but we closely monitor it, and are
+                 aware of all the efforts which they are taking.
+
+
+Mohit Kumar:     So understood. I'll take it offline, maybe. The second question is what is the target for
+                 commissioning in this fiscal? And how much of this capacity will be tied up under C&I?
+
+
+Ashish Khanna:   See, we originally have at the beginning of the year a target of 4.5 to 5 gigawatts, which
+                 we shared with you. And from our side, you first asked the question on the point of a
+                 transmission line. So let me say that we were earlier expecting these lines to come by
+                 the end of this year. Now we are expecting this transmission line of Phase 3, the
+                 evacuations to come by the next quarter. That's where we currently look at it.
+
+
+                 Now we are fully capable of commissioning the projects as and when this transmission
+                 lines comes. I'll share with you that in the learnings of the past, which we have is that
+                 we have invested fully and are now working on completing all the infrastructure and
+                 what we call the balance of system from our end, so that whenever there is a certainty
+                 of this transmission corridors being available, we would be able to very quickly deploy
+                 our modules and commission our project. So, we still believe that if this corridor comes
+                 by the end of this next quarter, I mean quarter 4, we will be in a position to commission
+                 4.5 to 5 gigawatt.
+
+
+Mohit Kumar:     Understood, sir. And sir, is it possible to share out of 4.5 gigawatts, which you
+                 commissioned, how much of this capacity will be tied up at C&I? And do we still maintain
+                 the target of installing 10 gigawatt hours of battery, by the end of this fiscal?
+
+
+
+
+                                         Page 4 of 18
+
+                                                                             Adani Green Energy Limited
+                                                                                       October 22, 2026
+
+Ashish Khanna:   So we are very committed to not only commission the 10 gigawatt by the end of the
+                 year, but would be definitely able to surpass it too. But yes, we are very confident of
+                 achieving it and also surpassing it. Regarding the C&I tie-ups, I think we in the last
+                 quarter have clearly said that the way we are working is and what is required for this
+                 company for our capital expenditure and for our growth is to have a sustainable partner
+                 who are there with us for the next 25 years.
+
+
+                 Our return on our investment comes on 13% to 14% of ROA, and that is where we
+                 stand. On this long term and this AA+ partners which we look at, AESL is definitely one
+                 of the companies, which is there, and that's what our strategy is. But we keep on looking
+                 for organizations which give us a desired return. In the past, it has been AESL. In the
+                 future, it could be any other company for that matter. But we are very clear from our
+                 side, like I told you, we are firm on our return on our assets in 13% to 14% and looking
+                 for a long-term tie-ups of 25 years, with all our assets.
+
+
+Mohit Kumar:     Understood. Last question, sir. What happens to the payment and the curtailment for
+                 your PPA with private players?
+
+
+Ashish Khanna:   See, all our PPAs are on a take-or-pay basis on the supply, which we give it to them.
+
+
+Mohit Kumar:     Understood.
+
+
+Ashish Khanna:   And curtailment, whenever there is a curtailment from the grid to us, specifically being
+                 asked to backdown, we are paid for it as the deemed generation.
+
+
+Mohit Kumar:     For all the PPAs, right?
+
+
+Ashish Khanna:   For the PPAs which we have signed, yes.
+
+
+Moderator:       Next question is from the line of Nirav Shah from Geecee Holdings.
+
+
+Nirav Shah:      Congratulations on a decent operating performance. Sir, one broader-level question is
+                 on the interest rates. I mean we are seeing a surge in yields across India and globally.
+                 So, on this related issue, I mean, what steps are we taking to minimize the overall
+                 impact of this surge in yields as well as how do we see our interest rates moving from
+                 the current 8.9%, whenever the next reset happens? And also, I mean, on the rating
+                 portfolio, what efforts are we further taking to ensure the minimal impact?
+
+
+Ashish Khanna:   Thanks, Nirav, for the question. See, from Adani Green perspective, 72% of our project
+                 loans are all fixed rate for a medium term to long term. So like between 3 to 5 years,
+                 we are fully fixed. So, the impact from rate cycle is not there for a very substantial portion
+                 of our loans.
+
+
+                 Also, other than that, what happens is that because we are into a 25-year fixed tariff
+                 PPA scenario, a small cycle change does not affect the overall returns on the projects.
+                 Thirdly, from the credit perspective, our credit rating works in a way that during under
+                 construction, we are given a rating which is in generally between BBB- to A category.
+
+
+                                         Page 5 of 18
+
+                                                                           Adani Green Energy Limited
+                                                                                     October 22, 2026
+
+                 When we get operationalized, that rating generally moves to an AA category. And once
+                 that rating moves to a AA category, you easily get a 50 basis points deduction. So very
+                 recently, one of our SPV AGE23L, which is nearly 15% of Adani Green's overall EBITDA
+                 has now become a AAA asset. Now when something like that happens, which is like 7
+                 notches increase in the last 5 years in that entity, what happens is that the rate of
+                 interest, which was earlier near 10% to 11% has gone down to today at 8.4%. So
+                 similarly, every notch increase gives us a rating increase and reduction in our interest
+                 cost.
+
+
+                 At Adani Green level also, in the past 7 years, if you will see, we have been at 11.1%
+                 in 2019 and today, we are at 8.9%. Now this reduction of nearly 220 basis points which
+                 has happened is with whatever rate cycle changes have happened in the last 7 years.
+                 In the last 7 years, the rate cycle has gone up and down both.
+
+
+                 So it has not changed for us. See when we are today at 20.8 gigawatts of operating
+                 capacity, doing 5-7 gigawatt of construction. And with battery also, we are doing more
+                 construction today. Our under construction portfolio still is about 30% of our overall
+                 portfolio.
+
+
+                 Once we reach 30 gigawatts of operating capacity, us under construction portfolio will
+                 be 20% or 10% of operating portfolio that time. So, what happens is that during under
+                 construction phase, the interest rate has a very larger impact. Otherwise, it starts to
+                 taper off. So from our perspective, as we transition to more and more operating capacity
+                 with a 25-year PPA, there should not be any major impact on our interest rate profile.
+
+
+                 Even with the interest rate cycle going up, our interest rate should not be affected much.
+                 And just to repeat, with a 72% to 73% of our portfolio being a fixed rate portfolio in a
+                 medium-term range of 5 years, it doesn't impact much. I hope I have answered.
+
+
+Nirav Shah:      No, absolutely. That's very heartening to hear. Especially, it alleviates a lot of investor
+                 concerns regarding the interest rate impact on our operations. And sir, my second
+                 question is on the evacuation. So, you just mentioned in the earlier question that 7
+                 gigawatt line is commissioned now in the fourth quarter of financial year compared to
+                 third quarter. There was another 7 gigawatt line. So is that on track or it's pushed back
+                 by 1 quarter?
+
+
+Ashish Khanna:   That is also, as we speak, looks to be delayed on that particular part. But currently, we
+                 are more focused on this first one because most of our evacuation and our investments
+                 at Khavda is going through this particular corridor. So that is where we are now more
+                 focused on. See, there are 2 things which we have done, Nirav. One is that we are
+                 focused not only on the getting these lines through.
+
+
+                 This 7 gigawatt gives us the full GNA capacity. So this entire 7 gigawatt is coming to us
+                 in that sense. And out of that, the existing whatever the curtailments are will be removed
+                 and plus, we will be able to execute more on that capacity. Secondly, we have
+
+
+
+
+                                        Page 6 of 18
+
+                                                                           Adani Green Energy Limited
+                                                                                     October 22, 2026
+
+                 accelerated our BESS development in a very big way to ensure that we don't fall -- the
+                 curtailment impact are lesser on the company.
+
+
+                 So you will see that in the second half of the year, the curtailment impact should not be
+                 as high as the earlier half because of the accelerated development on the batteries that
+                 we are doing. So, if I can just add on this. if you look at it with respect to this, like we
+                 said, we had challenges on it. First is we are closely monitoring it. But yes, more
+                 importantly, our accelerated efforts on the battery storage are also helping us to mitigate
+                 to a large extent, that curtailed power from Khavda in particular, and that's what we
+                 have been doing.
+
+
+Moderator:       Next question is from the line of Aniket Mittal from SBI Mutual Fund.
+
+
+Aniket Mittal:   Actually, I had a question on batteries. And given our strategy of derisking battery
+                 through long-term contracts, I wanted to understand what is the current tie-up that we
+                 have on the C&I side with respect to solar, wind and batteries. And just from a 3-year
+                 perspective, we look to install, I think, about 10 gigawatt hour every year. What's the
+                 amount of battery that you think we'll install? And correspondingly, how much solar and
+                 wind will be needed for the overall C&I demand?
+
+
+Ashish Khanna:   Please understand, Aniket, we don't differentiate between a C&I demand or any other
+                 demand. We are a developer who has a long-term tie-ups, whether it is B2B or B2G per
+                 se. As a developer, there is a business opportunity to have battery in place and then
+                 have a long-term tie-up from whether it is further used on a C&I basis or anywhere else,
+                 we are very clear on -- why are we putting and what we are putting.
+
+
+                 We are installing batteries because, of course, there is a demand for a peak power as
+                 well as for RTC, but more importantly, we are looking at it as a long-term asset to us,
+                 which gives us 13% to 14% return on a long-term basis.
+
+
+                 I think this we have emphasized quite a lot, and with organizations, whether it is
+                 government organizations or it is a business house, which can meet our requirements
+                 of being at least a AA+ and have a solid PPA on the terms of what is there like SECI on
+                 those terms and conditions. These are the parameters on which we work.
+
+
+                 Now with these parameters in place, whether it's government DISCOM or it is
+                 organization like AESL, we go ahead on this basis. I hope I have been able to clarify to
+                 your question.
+
+
+                 And on capacity addition, we are definitely looking for this year, like we said, we already
+                 mentioned we have committed 10 gigawatt hour. We have already reiterated that
+                 because there could have been a delay in transmission corridors, which are taking
+                 some time, our efforts towards battery and the capex have been now more focused
+                 there too. With the result, we are very confident of surpassing that particular target,
+                 which we have already shared with you.
+
+
+
+
+                                        Page 7 of 18
+
+                                                                           Adani Green Energy Limited
+                                                                                     October 22, 2026
+
+Aniket Mittal:   Got it. Just a clarification of the 10 gigawatt hour that is coming up, how much of that is
+                 tied up in long-term contracts?
+
+
+Ashish Khanna:   Currently, we have 3.5 gigawatts.
+
+
+Ashish Khanna:   3.5 gigawatt hour, which is already tied up. The rest, since it has just come at the end
+                 of this last quarter, we are in the process of doing it. I think I missed your earlier
+                 question, just been reminded of that how much solar or wind or other input power is
+                 required for it. It is already available with us. We have no challenge as well as the solar
+                 and if required wind for an input power for that battery storage.
+
+
+Aniket Mittal:   Got it. The other question was also on the solar CUFs that you've reported. So if you
+                 look at 1H to 1H, we've seen a dip to about 23% versus 24.8%. I'm assuming a decent
+                 part of that would be curtailment related. If you could just provide some color on that,
+                 what's the amount of curtailment on a like-to-like basis, what this number would have
+                 looked like, that would be helpful.
+
+
+Ashish Khanna:   Yes, you have guessed it very right. It is primarily on account of a curtailment. Well,
+                 there are always a seasonal change for that matter, which is there. But when you look
+                 at a 6-month horizon, yes, it is predominantly on behalf of the curtailment. Otherwise,
+                 our plants are operating very well. There have been no challenge or, in fact, we have
+                 been working better if you look at it from the operational efficiency standpoint.
+
+
+                 So let me put it in a more elaborate manner. The CUF depends on my plant capacity
+                 utilization factor, which will depend on the resource on which it is coming, also how
+                 much I've been able to evacuate. The resource part of it is more or less same, if I say
+                 that. It has been slightly better this year, which is also reflected on our revenues as well
+                 as profits.
+
+
+                 And of course, we have grown from last year to this year, half yearly. But in the same
+                 manner, because they have grown and there has been a curtailment, which is more
+                 than the last 6 months, the CUF has been dipped. Once this evacuation corridor is
+                 available to us, we would be having this CUF, which is worthy of what we should be
+                 with the resource in place.
+
+
+                 See, Aniket, in our 25-year profit through business or a project business, 3 to 6 months
+                 here and there on curtailment will not have a very major impact on the return on asset
+                 on an asset. So from our perspective, yes, there has been, on a quarterly basis, a small
+                 blip again from the perspective. But what happens is that these blips, we were -- in
+                 some extent, we were aware, there was a certain amount of additional change which
+                 has happened in terms of when we are expected to get the curtailment, another 3
+                 months here and there.
+
+
+                 But it will not have a very larger impact on what we assume as our return on asset on
+                 the asset because what happens is that this is a 25-year period and a 3-month, 6-month
+                 change will not have that big an impact on us. Plus many of our assets have also been
+                 commissioned before time. So our returns on that 25-year period remains with us. This
+
+                                        Page 8 of 18
+
+                                                                            Adani Green Energy Limited
+                                                                                      October 22, 2026
+
+                  is just the extra one which we were looking forward for bringing some assets before
+                  time.
+
+
+Moderator:        Next question is from the line of Amit Bhinde from Axis Capital.
+
+
+Amit Bhinde:      Congratulations on a great set of numbers. I just wanted to get a sense on the Phase 6
+                  and Phase 7 ordering of the transmission connectivity for Khavda because if there's an
+                  HVDC component in that, then that would impact your FY '30 target, one?
+
+
+                  Second, if there's a delay on that side, do we have alternate resources in terms of land,
+                  new sites that you have identified to meet your FY '30 target in case the Khavda
+                  connectivity doesn't get resolved? So that's all the first question that I have.
+
+
+Ashish Khanna:    So Amit, a good question. Would have been better off to check this with those PGCILs
+                  and CTUILs too, frankly. But because we closely monitor it, and we also put efforts on
+                  it. So yes, there are developments on the scheme level, which is happening on Phase
+                  6 and Phase 7 as we are aware of it. Having said that, we are committed for our targets
+                  towards 2030. In that process, if you see the battery storage is going to play a very
+                  important role as a mitigation measure too.
+
+
+                  In case there are any changes or delays on Phase 6. Plus, I think we are also looking
+                  at various other states too, including Rajasthan, where a decent amount of capacities
+                  can also come. So I think from our standpoint, we are committed to surpass what has
+                  been already stated as well as our targets for FY '30 is concerned.
+
+
+Rajat Seksaria:   Rajat Seksaria here. I just want to give one piece of perspective on BESS, which gives
+                  us a bit more confidence. So, while the media releases have been about the capacity
+                  we have either put up or about to put, what is also worth noting the timing which we
+                  have put up. So it's a relatively short period of time. We're talking about a month, 8 to
+                  10 months for the largest plants in the world.
+
+
+                  So that leaves us an adequate amount of flexibility should the situation demand so, we
+                  now have an added tool in our arsenal to respond to that, so that executing more solar
+                  and possibly wind is kind of deconstrained by any delays that may happen on
+                  transmission.
+
+
+                  So, versus last year, if you compare this year, we certainly have a very, very strong
+                  arsenal in our hand as a group, as Adani Green to take care of that. So that is why,
+                  things have improved by having this virtual transmission effectively through a battery
+                  system that we have. And this can be deployed very fast and does not require too much
+                  of land, already the substations are there. So, that is why you see of all the deployments
+                  that has happened in India, roughly, we are striking 50% of that. So that, I think, is
+                  something which you should bear in mind.
+
+
+Amit Bhinde:      Right. On the near term, let's assume that if your Phase 3 gets delayed instead of Q4
+                  to Q1, what would be your strategy? A, would you want to delay your capacity
+
+
+
+                                         Page 9 of 18
+
+                                                                           Adani Green Energy Limited
+                                                                                     October 22, 2026
+
+                 installation and miss the guidance? Or B, you would install more BESS to meet the
+                 guidance? What strategy would you apply, if the Phase 3 gets to Q1 next year?
+
+
+Ashish Khanna:   Amit, good question. We have lessons in the past, and our lessons in the past and being
+                 an organization, which is always improving. And even while we are the biggest, the
+                 largest and the best in the country as far as renewable is concerned, we keep on
+                 learning a lot in this process. Our lessons of the past is to commission projects when
+                 the corridors are there, when the transmission corridors are there. So accordingly, what
+                 we have done now is that all the balance of the system, which is required for our assets,
+                 which are to come on Phase 3, we are working on it.
+
+
+                 We are all working towards making sure that all the balance of the system and the
+                 infrastructure is ready so that whenever we have a certainty of our evacuation in our
+                 system as well as solar is concerned, we will just put on the modules, so that we are
+                 ready for with our commissioning as and when the evacuation comes. And you will
+                 appreciate the fact that in our business, just putting on the modules is possible a 20-,
+                 30-plus megawatt, we have done it on each day basis.
+
+
+                 So we have timed it up in a manner or we will time it up in a manner so that we can very
+                 quickly install the modules because all our balance of system and other infrastructure
+                 is ready. So that's how we are working on it, and that would be our way of working right
+                 now.
+
+
+Ashish Khanna:   Plus, if you also see that this whole enhancement and accelerated battery storage,
+                 which is coming up, is also going to help us to mitigate that issue. Of the existing assets
+                 which we have will be mitigated with this accelerated battery deployment. And the
+                 future, as you said -- as we said is the way we are working. That's our strategy and
+                 that's our way of working.
+
+
+Amit Bhinde:     Right. Got it. So, one more question just I wanted to clarify on one of the answers that
+                 you gave to Mohit that in the tie-up with AESL as you call that, with the private player,
+                 in that, if there's a curtailment and take or pay is to the extent of the unit that you are
+                 supplying. But if there's a curtailment unlike a PPA, AESL would not pay you for that,
+                 right? The curtailment impact would come to your numbers, right?
+
+
+Ashish Khanna:   No. I think let me clarify. It's a good thing you ask me because I was getting a sense
+                 that it might be misunderstood or misconstrued in a manner. What happens, right?
+                 When I schedule a power and it is not taken, then I'm paid for it. This is the way the
+                 SECI pays me, the same terms and condition. I'm paid for that generation. There is also
+                 an element when I have scheduled the power and the grid fails and asks you back
+                 down. Then also, I get my payment for that, what the grid has not taken because I have
+                 scheduled the power. However, if I have not scheduled the power, then I will not be
+                 paid.
+
+
+                 Let's make like very clear on this matter. Just I have been able to clarify to you as well
+                 as to Mohit in the past that everything which I have scheduled, whether it is in AESL or
+
+
+
+                                       Page 10 of 18
+
+                                                                             Adani Green Energy Limited
+                                                                                       October 22, 2026
+
+                 with anyone else, and if they say that they are not ready to take, I will be paid for it. I'm
+                 again repeating, anything I have scheduled and the grid because of their frequency
+                 changes. Ask me to curtail, that also I'm paid for. But if I have not scheduled anything,
+                 of course, I will not be paid for.
+
+
+Amit Bhinde:     So grid-related issue led curtailment is also impact to AESL and not to you?
+
+
+Ashish Khanna:   No, no. For e.g. Khavda suppose has X capacity of evacuation in totality. That X
+                 capacity of evacuation, which is available right now, which I will schedule to AESL,
+                 AESL will pay to us if they are not for any reason whatsoever, AESL or any other party
+                 for that matter.
+
+
+                 I'm not differentiated between AESL or any other party. Any party I schedule for
+                 whatever I am allowed to evacuate from Khavda, which I have scheduled considering
+                 what is the generation possible on that 15-minute block. You see, we schedule power
+                 on a 15-minute block.
+
+
+                 Those 15 minutes block, whatever I have scheduled, if for any reason, one of the
+                 procurer is not ready to take, I will be paid for. If for any reason, the grid asked me not
+                 to inject electrons in the grid, I will be paid for. But what is not possible to be scheduled,
+                 the procurer will not pay for it.
+
+
+Amit Bhinde:     So that's what I mean to summarize, if the grid is not able to take the electrons that you
+                 are ready to supply, AESL takes the hit and not you.
+
+
+Ashish Khanna:   For power, which I have scheduled for AESL.
+
+
+Amit Bhinde:     Scheduled but grid is not able to take it, still AESL takes the hit.
+
+
+Ashish Khanna:   No. Please understand. I will give you an example here. Suppose I have 1 gigawatt of
+                 power, which is available with me, right? I may have 2 gigawatts with me. But I am -- it
+                 is only possible to evacuate 1 gigawatt of power. If I schedule that 1 gigawatt of power
+                 to any procurer, it has been scheduled. Then if the procurer says no, I will be paid for
+                 it. If the procurer -- otherwise, if it is not possible to schedule. Now your question is
+                 within that 1 gigawatt, which I have scheduled, procurer will pay.
+
+
+Amit Bhinde:     Got it.
+
+
+Ashish Khanna:   It's a bit technical, but I hope I have been able to clarify.
+
+
+Amit Bhinde:     Yes. I'll just touch base with you later if required, any other clarifications on that.
+
+
+Moderator:       Next question is from the line of Dhruv Muchhal from HDFC AMC.
+
+
+Dhruv Muchhal:   Sir, just to understand how much of this 10-gigawatt, assuming the 10-gigawatt is the
+                 closing capacity, 10 gigawatt hour is the closing capacity by the end of the year for
+                 batteries. How much of solar can it absorb? I'm just trying to understand just coming
+                 from that curtailment point, how much proportion of capacity that it can absorb?
+
+                                         Page 11 of 18
+
+                                                                            Adani Green Energy Limited
+                                                                                      October 22, 2026
+
+                  Because the curtailment, I believe, for you gets impacted only during those few hours
+                  of the peak generation of solar. Say, for example, 10:00, 11:00, there will not be as
+                  much curtailment. Again, 04:00, 05:00, not as much. So in the few hours. So I'm
+                  probably not able to get the numbers. So my math is 2 to 2.5 gigawatts of solar, but is
+                  that the right sense?
+
+
+Rajat Seksaria:   No, no, you're probably right. See, the simplistic answer is you generally try and divide
+                  it by around 4.5 to 5.
+
+
+Dhruv Muchhal:    4.5, okay.
+
+
+Rajat Seksaria:   Right? Which is where 2 to 2.5 comes. But reality, the question is a bit more nuanced
+                  and complicated because it depends on the curve of solar, the season, right? And
+                  whether you have installed a tracker-based plant, or you have installed a fixed plant,
+                  but that is a bit too complex. But as a rule of thumb, you can divide it by roughly 5.
+
+
+Dhruv Muchhal:    Okay. By 5. Okay. So that comes about 2 gigawatts of solar.
+
+
+Dhruv Muchhal:    So irrespective of the transmission availability, this much you can at least absorb and
+                  then sell it in whatever.
+
+
+Rajat Seksaria:   This is the kind of virtual transmission available through that.
+
+
+Dhruv Muchhal:    Yes, yes. Got it. Perfect. And sir, the second question is your generation on a Y-o-Y
+                  basis is up about 33%, but your EBITDA is up about 51%. So I'm just wondering how is
+                  this happening? Is it because of the infirm power sales, which is coming at a better
+                  price?
+
+
+Ashish Khanna:    Yes. First of all, Dhruv, let me thank you that in this whole call, someone is also
+                  appreciating that there are good things that have happened in the Q2 and H1. Yes, it
+                  is. is because of the better realisations, which we have got, right? Would you like to add
+                  more on this, Saurabh?
+
+
+Saurabh Shah:     So one is, Dhruv, that see battery numbers are also now getting added. So, whatever
+                  the battery numbers that get added to it. Secondly, what happens is that because of
+                  solar and wind combination, wherever we have not yet done any kind of tie-ups are still
+                  going into merchants and wind speed was also better this year because of rains being
+                  lower. So, all this has positively impacted the EBITDA.
+
+
+                  So that's how it has been better even with whatever the capacities growth has been.
+                  And plus, we have brought in a lot of operational efficiencies also in our books because
+                  if you will see our operating cost has not gone up relatively. So, from an operational
+                  perspective, also, we have taken a lot of pain in terms of manpower or other costs that,
+                  we are reducing that impact by our O&M and employee cost and other things, being
+                  more rationalized in that manner.
+
+
+
+
+                                           Page 12 of 18
+
+                                                                             Adani Green Energy Limited
+                                                                                       October 22, 2026
+
+Ashish Khanna:   I'd just like to add from the last few quarters, we have been sharing with you all our
+                 investments on digitization, our investments on technology, our investments on how to
+                 do operations better. Now, all of this now you can see is being reflected on a better
+                 profit from the same operations, which we have in the past, too. So, while the revenue
+                 has increased because of various reasons, which Saurabh clearly articulate well, these
+                 efforts, which are ongoing efforts to reduce our operating costs to maximize all the
+                 returns possible has now been also reflected in this EBITDA.
+
+
+Dhruv Muchhal:   Got it. That is helpful, sir. Sir, is it possible to share what is the price at which you -- on
+                 average price at which you sold the infirm power this quarter and previous year same
+                 quarter?
+
+
+Ashish Khanna:   Give me a minute. Do we have it right now?
+
+
+Saurabh Shah:    On infirm power basis, the last quarter to this quarter, basically because infirm sells in
+                 merchant, the merchant prices have been better this year. So against a merchant rate
+                 which was there on the -- just give me a second, I'm giving you the exact numbers. Do
+                 you have any other question right now?
+
+
+Dhruv Muchhal:   No, sir. That's the only question. You can mention this later in the call.
+
+
+Saurabh Shah:    So, from our perspective, on a merchant basis, last year, our number was nearer to
+                 about INR 2.1, and this year, because of the better listing, our merchant rates have
+                 come to INR 2.4.
+
+
+Moderator:       Next question is from the line of Puneet from HSBC.
+
+
+Puneet:          And just one additional clarification. Here, you also have this 25-year PPA with private
+                 players, which still last year was sold as merchant. If you can also give some color on
+                 what is the realization now versus what it was last year?
+
+
+Saurabh Shah:    See, as I said just now, on a solar, we were still earning -- even with the merchant
+                 capacities, which are infirm power, which is being sold as merchant right now, we are
+                 running about INR 2.4 that I said. In a solar capacity for that, for the PPA with AESL for
+                 25 years, it's INR 2.7.
+
+
+                 So that way, we are still better off on solar in that sense from the perspective of what
+                 we get as a realization. But the larger thing which we should understand is that now for
+                 25 years, it's fixed. We don't have to worry that this year, again, we are 2.4. Next year,
+                 again, we might be 2.1, whatever that number, we are not trying to debate on that
+                 number.
+
+
+                 For us, we are removing that kind of risk that we were carrying on merchant. We want
+                 to carry only one major risk, which is execution. So we are good at that. We want to
+                 execute better. We can do more efficient execution. We can do better operations. We
+                 can reduce our operating costs better. So that is where we want to focus on.
+
+
+
+
+                                           Page 13 of 18
+
+                                                                           Adani Green Energy Limited
+                                                                                     October 22, 2026
+
+                And for us, the capex that we have to do over the next 5, 7 years, which is where we
+                are more focused on, where we want to remove any risk that the lender carries. So,
+                from that perspective, just look at it that this is a 25 year PPA for which we are not taking
+                any merchant risk on our books.
+
+
+Puneet:         And similarly, for the wind, what were the tariffs in merchant different last year versus
+                what is now contracted with Adani AESL now?
+
+
+Saurabh Shah:   See, from a wind perspective, what happens is there are high wind seasons and low
+                wind seasons. The overall annual rate of what wind generates, we have tied up all our
+                PPAs based on that only. So, if you will look at our business update, which we had
+                given after the Q1 call also, we have tied up wind at INR 3.93 for the 25-year period.
+                Now on a merchant basis, what happens is wind can be erratic, there can be any
+                change which can happen on the prices because of that, that we are removing again.
+
+
+                So, let's say, on an average, we got a INR 4 something last year on a wind. So, we
+                have tied it up nearer to that and we have to also look at the benchmark PPAs that we
+                have signed up on wind. So, from that perspective, we are ensuring our rate of return
+                is what we get on wind also as well as solar also, which is 13%, 14% ROI. And we are
+                tying it up for 25 years, so we don't have to worry whether wind prices fall or go up in -
+                - during the seasonal nature of wind.
+
+
+                So from that perspective, that's how we look at our business now, and that's how we
+                want to do our business.
+
+
+Puneet:         Okay. So great. No, that's very, very clear, and I think it's a good strategy as well. But
+                my question is, you've talked about 13% to 14%. This is ROA or ROE?
+
+
+Saurabh Shah:   ROA.
+
+
+Puneet:         ROA? Sorry?
+
+
+Saurabh Shah:   Yes. It transforms into an ROE which is higher, because we run on a 75%-25% leverage
+                basis, yes.
+
+
+Puneet:         Yes. And in this ROA, you are essentially saying EBITDA divided by the asset or EBIT?
+
+
+Saurabh Shah:   EBITDA.
+
+
+Puneet:         EBITDA. Okay. So, 13% EBITDA divided by cost of the project.
+
+
+Saurabh Shah:   Depreciation is only 4% because it's a 25-30 year project life, so it doesn't make much
+                of a difference, yes.
+
+
+Puneet:         Correct, correct. Understood. And secondly, on the cost of borrowing, can you also talk
+                about how much has your cost of borrowing changed in the last 6 months? And also
+                what is the impact that you see with now AGE23L getting converted into AAA?
+
+
+
+                                        Page 14 of 18
+
+                                                                              Adani Green Energy Limited
+                                                                                        October 22, 2026
+
+Saurabh Shah:    So AGE23L getting converted into AAA easily gives us a 20 to 25 basis points of
+                 reduction that will come in, in that asset further. So, it was an AA+ entity, now it's a AAA.
+                 So, with every notch of increase between 20 to 25 basis points are always on cards
+                 whenever we do this.
+
+
+Puneet:          And this is just for this 15% EBITDA entire portfolio?
+
+
+Saurabh Shah:    Sorry?
+
+
+Puneet:          This is only for 25 bps reduction is on the portfolio or just this.
+
+
+Saurabh Shah:    No, no. This is on that asset. See, we cannot -- same asset being applied to entire
+                 portfolio. But what it does is that this is 15% of my overall EBITDA, so it also increases
+                 my profile with the rating agencies for the overall Adani Green perspective also. So as
+                 more and more of such operating assets, now this is a 7-8 of years of operation for this
+                 kind of asset.
+
+
+                 Similar such assets are now approaching a maturity because of the amortization
+                 structure that we have, we have a 20-year loan on this asset. So based on the
+                 amortization structure, the profitability at PAT level for this asset is constantly going up,
+                 because the loans are getting repaid, the asset is performing better than expected. So,
+                 all of this, what it does is that it improves our profile.
+
+
+                 Now that profile will be applied to all our other assets, which are operating for more than
+                 4 years, 5 years now. So, what it does is that it increases the overall AGEL profile. See
+                 in 2019 to 2026 today, in the last 6 years, on an AGEL level also, our rating has gone
+                 up by 5 notches. So, that has positively impacted our interest costs where against the
+                 11% average interest cost, we are at 8.9%. And in the last 6 months also, we have
+                 remained between 8.95% to 8.9%. That is the difference that is there. We reported in
+                 March about 8.9%, we are saying we are at that same level. Along with under
+                 construction of nearly 10 gigawatts hour of battery that has added to the interest rate
+                 profile.
+
+
+                 See, if we are on a constant basis, then I can understand there is a question on interest
+                 but with the under construction of nearly 10 gigawatt hours of battery, 5 gigawatts of
+                 solar wind that we are on the horizon, with that also, our interest rates have remained
+                 at a level of 8.9%.
+
+
+Puneet:          Understood. And clearly, just last one from my side.
+
+
+Moderator:       Please rejoin the queue for follow up questions. We will take our next question from the
+                 line of Vishal Biraia from Bandhan AMC. Please go ahead.
+
+
+Vishal Biraia:   The batteries that we will commission, what portion of this 10 gigawatt hour will be tied
+                 up with AESL? And what portion will be tied up for the other hybrid and FDI that we
+                 have?
+
+
+
+
+                                         Page 15 of 18
+
+                                                                               Adani Green Energy Limited
+                                                                                         October 22, 2026
+
+Ashish Khanna:     I think we Vishal, we answered this earlier too. Let me reiterate if I was not clear on that
+                   part. From our standpoint, it is very clear on the parameters on which we are going to
+                   tie up, whether it's AESL or any other player.
+
+
+Vishal Biraia:     You will tie up 100%, I agree. I got that. My question was more on how much of this 10
+                   GWh will go to AESL, how much to others is what I was trying to understand.
+
+
+Ashish Khanna:     Like I said, our parameters are clear. I think there, we were very clear with you that on
+                   these parameters, if AESL comes, then it is AESL. If there's anyone else, then it is
+                   anyone else. For the time being, it is AESL and that is where we have tied up. Once we
+                   tie up on the balance capacity, like we said that it is 3.5 GWh, which is already tied up.
+                   The rest 3.1 GWh, in our total of 6.6GWh as on September 30 is in the process of tying
+                   up.
+
+
+                   We will share it when we are tying up. But important factor, again, let me reiterate, is
+                   the parameters on which fundamentally, we are doing business. With respect to the
+                   organization rating, with respect to our return expectations, those 2 are the critical
+                   parameters on which the company has to come forward with. And that's where we are.
+
+
+Vishal Biraia:     All right. And just one more question on the loans that we have, so the foreign borrowing
+                   that we have, the USD is hedged, but the interest rate is not hedged over there, right?
+                   When you say that the 3 years, there is sort of a stable rate, that is more for the domestic
+                   borrowing from the banks?
+
+
+Saurabh Shah:      So, this question was stemming from the fact that there is a rate hike in India that has
+                   happened. See today, anyway, about 70% of our loan book is rupee denominated, right.
+                   About 30% is in dollar denominated. Within that 30% dollar denominated, we fully hedge
+                   our principal plus interest. There is no change in that policy because that's governed by
+                   the lender documents.
+
+
+Vishal Biraia:     But this hedging for the -- sorry, this is hedging...
+
+
+Saurabh Shah:      I'm just finishing. So, the hedging for, let's say, for one of our RG2 assets has been
+                   done till FY '30. It is fully hedged for till FY '30. For RG1, the hedging is done till '28. It
+                   will be now rolled over during a good window that we will get for another period of say
+                   3 to 5 years, see in India, we get a hedging at a liquidity level of between 3 to 5 years,
+                   which is a good liquidity at which you get a good hedging rate also and the hedging cost
+                   is not going beyond. So, we will continue to maintain as our hedging policy, whether it
+                   is principal or interest, it will not change for that.
+
+
+Moderator:         Next question is from the line of Swetha Rakhecha from Cantor Fitzgerald.
+
+
+Swetha Rakhecha:   Swetha, here from Cantor on the line for Manish. I hope I'm audible.
+
+
+Ashish Khanna:     Can you be a bit louder Swetha, if you don't mind.
+
+
+
+
+                                           Page 16 of 18
+
+                                                                             Adani Green Energy Limited
+                                                                                       October 22, 2026
+
+Swetha Rakhecha:   Yes, of course. I'll be really quick. Given the acceleration in the BESS deployment that
+                   you have seen in the first half, is there any change in the allocation or timing of the
+                   capex program that we have, the INR 2.4 lakh crores capex program? And specifically,
+                   would you direct it towards storage because we are accelerating the program, as you
+                   mentioned on the call or in clean energy, which is -- I know we also have a target over
+                   there.
+
+
+Ashish Khanna:     Yes. I think, Swetha, it's a good question. You will appreciate the fact that we have
+                   demonstrated so far our capabilities to very prudently deploy our capex at a scale, which
+                   is also unprecedented. So we are very, very firm on that path. Under any circumstances,
+                   we don't foresee any challenge of not achieving it.
+
+
+                   I think the point here is that what more we were going to do on that particular path. Of
+                   course, battery storage has come in this year, too, there has been an accelerated
+                   growth on that matter, and there is an opportunity to do that for the next few years, too.
+                   It is only going to add on to what we have been doing otherwise or what we have
+                   planned otherwise. So, in our overall strategy for next 3 to 5 years, both solar, wind,
+                   battery storage and pump storage has their own roles to play, and we are firm on the
+                   debt as well as the equity part. And more importantly, deploying that capex in a very
+                   prudent and cost optimum manner.
+
+
+Swetha Rakhecha:   Thank you for sharing that. Just another quick one on the leverage profile that we have
+                   currently are at 5.6. How should we think about peak leverage and free cash flow
+                   generation, especially through FY '28? I'm asking this question because we're seeing
+                   evacuation being an issue, and you mentioned the EBITDA contribution. And Vijil
+                   constantly tell us that BESS is going to help us in making sure that we are on track with
+                   the run rate EBITDA that we guide towards. But how do you see the leverage profile?
+
+
+Saurabh Shah:      So see, on a long-term basis, that leverage profile does not change as such because
+                   see, the curtailment is an issue which is there for not more than 3, 6 months here and
+                   there. The commissioning timeline has not changed by a year. Whatever we said will
+                   come by December is now slated to come nearer to March. So, that does not change
+                   the leverage profile of our assets, which is like 25 years.
+
+
+                   So, see what happens is our leverage, it will be in this range till FY '28, '29. After '29,
+                   '30, as the more and more operating assets starts to increase as a percentage of under-
+                   construction assets, as we move towards that, the leverage profile will start to be in the
+                   range between 4.5 to 5x, and then moving towards 4x and below 4x also as we move
+                   further into the number of years because see, it's an amortization structure, it
+                   automatically pays for itself.
+
+
+                   We have taken all loans on a project finance basis. The projects are doing better. All
+                   the projects which have been financed have been able to service their interest and
+                   repayment. So from that perspective, as we move towards the larger capex being
+                   completed between '29, '30, and we will have about 45 gigawatt of RE capacities, 5
+                   gigawatt of pump storage capacity and nearer to 40, 50 gigawatt hour of batteries that
+
+
+                                          Page 17 of 18
+
+                                                                          Adani Green Energy Limited
+                                                                                    October 22, 2026
+
+                   number on the overall EBITDA business against which the debt that we want to deploy
+                   will be towards a number where it will reach a 4.5x number, and then it moves further
+                   down because as you are paying off your debt, that number starts to taper off.
+
+
+                   It does not have a larger impact due to curtailment, which will change the leverage
+                   profile in that big way, because our leverage is based on project assets and not based
+                   on a change of 3 to 6 months here and there on any EBITDA profile.
+
+
+Swetha Rakhecha:   Right, I'll reach out offline for further question.
+
+
+Moderator:         Ladies and gentlemen, we will take this as the last question for today. For any follow-
+                   up questions, you can directly reach out to the management team. I would now like to
+                   hand it back to the management for closing comments.
+
+
+Ashish Khanna:     Thank you. Thank you. Let me thank each one of you for your continuous support to
+                   us. And on behalf of AGEL, I think we have been delivering a good performance, and
+                   we'll keep on delivering the same. But once again, thank you for your perseverance, for
+                   your interest.
+
+
+Saurabh Shah:      And thank you, Emkay, for organizing this, and we look forward to work further in the
+                   future. Thank you.
+
+
+Ashish Khanna:     Thank you, everyone. Thank you.
+
+
+Moderator:         Thank you very much. On behalf of Emkay Global Financial Services Limited, that
+                   concludes this conference. Thank you all for joining us today, and you may now
+                   disconnect your lines.
+
+
+
+
+                                            Page 18 of 18
+

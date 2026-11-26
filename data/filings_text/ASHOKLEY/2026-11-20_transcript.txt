@@ -1,0 +1,1129 @@
+                                                                         November 20, 2026
+
+
+
+National Stock Exchange of India Limited                    BSE Limited
+Exchange Plaza,                                             Phiroze Jeejeebhoy Towers
+C-1, Block G                                                Dalal Street
+Bandra Kurla Complex                                        Mumbai - 400 001
+Bandra (E), Mumbai - 400 051
+                                                            SCRIP CODE: 500477
+SCRIP CODE: ASHOKLEY
+
+
+Dear Sir/Madam,
+
+Sub: Concall Transcription
+
+Pursuant to Regulations 30 and 46(2) (oa) (ii) of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we attach herewith the transcript of the Company’s
+Analyst Call/ Earning’s call held on November 16, 2026 to discuss the unaudited financial
+results for the quarter and half year ended September 30, 2026.
+
+Meeting start time – 11.00 A.M. IST
+End time – 12.00 Noon IST
+
+We request you to take the above on record.
+
+Thanking you,
+
+Yours faithfully,
+for ASHOK LEYLAND LIMITED
+                         Digitally signed by
+NATARAJAN                NATARAJAN RAMANATHAN
+
+RAMANATHAN               Date: 2026.11.20 14:20:50
+                         +05'30'
+N Ramanathan
+Company Secretary
+
+Encl.: a/a
+
+               “Ashok Leyland Limited
+         Q2 FY27 Earnings Conference Call”
+                  November 16, 2026
+
+
+
+
+MANAGEMENT: MR. SHENU AGARWAL – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – ASHOK LEYLAND
+            LIMITED
+            MR. K.M. BALAJI – WHOLE-TIME DIRECTOR AND
+            CHIEF FINANCIAL OFFICER – ASHOK LEYLAND
+            LIMITED
+
+MODERATOR:   MR. RISHI VORA – KOTAK SECURITIES LIMITED
+
+
+
+
+                        Page 1 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+Moderator:                   Ladies and gentlemen, good day, and welcome to Ashok Leyland Limited Q2 FY27 Earnings
+                             Conference Call, hosted by Kotak Securities Limited. As a reminder, all participants' line will
+                             be in the listen-only mode and there will be an opportunity for you to ask questions after the
+                             presentation concludes. Should you need assistance during this conference call, please signal
+                             an operator by pressing star, then zero on your touch-tone phone. Please note that this
+                             conference is being recorded.
+
+
+                             I now hand the conference over to Mr. Rishi Vora from Kotak Securities. Thank you, and over
+                             to you, sir.
+
+
+Rishi Vora:                  Thank you, Iqra. Good morning, everyone. On behalf of Kotak Securities, I welcome you all to
+                             Q2 FY27 results conference call of Ashok Leyland. I also welcome the senior management of
+                             Ashok Leyland, Mr. Shenu Agarwal, Managing Director and CEO; Mr. K.M. Balaji, Whole-
+                             Time Director and CFO, and the Investor Relations team.
+
+
+                             With this, I will hand it over to Mr. Shenu Agarwal for the opening remarks. Over to you, sir.
+
+
+Shenu Agarwal:               Thank you, Rishi. Good morning, ladies and gentlemen. Thank you for joining us and for your
+                             continued trust in Ashok Leyland, as always. The second quarter of FY27 witnessed strong
+                             growth in the Indian commercial vehicle industry, supported by resilient economic activity,
+                             sustained freight movement, and healthy demand across key customer segments. Despite an
+                             environment marked by elevated commodity prices and continuing geopolitical uncertainty in
+                             West Asia, Ashok Leyland delivered a strong operating performance and made further
+                             progress on its strategic priorities.
+
+
+                             The domestic M&HCV industry recorded volume growth of 39% year-on-year during the
+                             quarter, while the domestic LCV industry grew by 24%. The growth reflects the continued
+                             strength of the underlying demand environment, supported by replacement demand,
+                             infrastructure activity, improving fleet utilization, and the growing requirements of the
+                             consumption-led economy. Against this backdrop, Ashok Leyland's domestic M&HCV
+                             volumes grew by 44% year-on-year, outperforming the industry.
+
+
+                             Our domestic M&HCV market share for the quarter stood at 32.1%, representing an
+                             improvement of 120 basis points year-on-year. Our performance was particularly encouraging
+                             in domestic M&HCV trucks, where the traction for our differentiated products and our sharper
+                             focus on customer service helped us grow much higher than the industry, gaining market share
+                             of 150 basis points during the quarter on year-on-year basis.
+
+
+                             In the domestic LCV business, volumes were 21,371 units, representing growth of 21% year-
+                             on-year. Our LCV VAHAN market share improved to 13.6%, a gain of 30 basis points year-
+                             on-year. The performance of the LCV business corroborates our strategy of expanding
+                             participation across the addressable market through differentiated products offering best-in-
+                             class TCO, wider applications, and continued strengthening of our sales and service reach.
+
+
+                             Overall, Ashok Leyland’s domestic CV volumes, excluding Defence vehicles, for the quarter
+                             stood at 59,575 units, higher by 34% year-on-year. This represents highest ever Q2 domestic
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                       Page 2 of 18
+
+                                                                                              Ashok Leyland Limited
+                                                                                                 November 16, 2026
+
+                       CV volumes. For H1, domestic CV volumes stood at 105,877 units, higher by 24% year-on-
+                       year, and again, highest ever H1 volumes.
+
+
+                       Our international operations recorded volumes of 5,102 units during the quarter, representing
+                       7% growth year-on-year. Demand across key international markets remains strong. However,
+                       the continuing crisis in West Asia continued to create significant logistics and operating
+                       challenges, particularly in relation to shipping availability, freight costs, transit times, and
+                       operations connected with our Ras Al Khaimah facility.
+
+
+                       While underlying customer demand in GCC remains strong, these disruptions affected
+                       production and dispatches. We are closely monitoring the situation and taking appropriate
+                       steps to protect supplies and navigate logistical challenges. Our non-CV businesses continue to
+                       broaden the quality and resilience of our revenue base.
+
+
+                       Domestic aftermarket revenue grew by 20% year-on-year. Revenue from the Power Solutions
+                       business increased by 33%, while Defence revenue, including that from our Defence
+                       subsidiary, grew by 66%, achieving quarterly revenue of about INR400 crores.
+
+
+                       The Defence order book and the tender pipeline remain strong, providing healthy visibility for
+                       the future. Our emphasis on aftermarket, Power Solutions, Defence, and international
+                       operations continues to support a more balanced business and profitability profile.
+
+
+                       Coming to our financial performance, revenue for Q2 FY27 was INR13,364 crores, higher by
+                       39% year-on-year. EBITDA for the quarter was INR1,350 crores, compared with INR1,162
+                       crores in Q2 of the previous year.
+
+
+                       EBITDA margin stood at 10.1%, at the same level as Q1 FY27, and lower compared with
+                       12.1% in Q2 of FY26. Profit before tax was at INR1,187 crores, while profit after tax stood at
+                       INR869 crores, registering year-on-year growth of 14% and 13% respectively.
+
+
+                       The strong growth in industry and company volumes resulted in meaningful operating
+                       leverage. However, profitability during the quarter was impacted by a sharp increase in
+                       commodity prices, particularly steel, natural rubber, forex, fuel, and conversion costs.
+
+
+                       Material cost as a percentage of revenue increased to 74.9% compared with 71.5% in Q1 of
+                       this year, an increase of 340 basis points quarter-on-quarter. Despite this significant increase,
+                       the EBITDA in Q2 remained same at 10.1% as in quarter one of this year. Higher price
+                       recovery, better product and business mix, continued cost control measures, and operating
+                       leverage helped reduce the impact of commodity inflation.
+
+
+                       Capex for the quarter was INR240 crores, taking cumulative capex for the first half to INR393
+                       crores. Investment in subsidiaries was INR472 crores, taking first half total to INR483 crores.
+                       During the quarter, INR324 crores of investments were made for repayment of Switch UK
+                       loan and INR150 crores in OHM, our e-mobility subsidiary.
+
+
+
+
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                               Page 3 of 18
+
+                                                                                             Ashok Leyland Limited
+                                                                                                November 16, 2026
+
+                       Our cash position, net of debt, stood at a surplus of INR3,546 crores at the end of September
+                       2026, a positive swing of INR2,556 crores year-on-year. Our strong operating performance
+                       and cash generation have further strengthened our balance sheet.
+
+
+                       Against this backdrop, the board has recommended an interim dividend of INR1 per share on
+                       face value of INR1 per share, reflecting confidence in the business and our commitment to
+                       consistently returning value to shareholders while continuing to invest for long-term growth.
+
+
+                       Product innovation and premiumization remain central to our profitable growth strategy.
+                       During the quarter, we launched India's first air suspension multi-axle trucks, offering payload
+                       advantage of up to 4 tons, superior vehicle stability, ride comfort, and tire life, resulting in
+                       best-in-class total cost of ownership for the customer.
+
+
+                       These launches strengthen our participation in the premiumization journey, wherein we
+                       improve market position by offering better TCO. We continue to witness encouraging
+                       customer traction for our recently introduced HIPPO tractors and TAURUS tippers.
+
+
+                       We further strengthened these new product lines with launch of our 360 horsepower tippers
+                       and tractors. These products offer superior power, torque, payload, turnaround time, and total
+                       cost of ownership, strengthening our competitive position in the higher horsepower and heavy-
+                       duty segments.
+
+
+                       In M&HCV Bus segment, we launched GARUD 15-meter front-engine multi-axle coach,
+                       offering superior passenger experience and best-in-class fuel economy and passenger capacity.
+                       Our product development pipeline remains robust, with further launches planned across
+                       M&HCV, LCV, buses, alternative fuels, and electric mobility.
+
+
+                       We remain focused not merely on increasing product coverage, but on bringing differentiated
+                       products that create demonstrable value for our customers and support both market share and
+                       margin improvement.
+
+
+                       In our premiumization journey, in addition to innovative products, we continue to strengthen
+                       our service delivery. Our service transformation project called Project Dhruv continues to
+                       make progress as we deploy more digital tools, additional analytics, and artificial intelligence
+                       to enhance workshop productivity and customer experience.
+
+
+                       We added more touchpoints during the quarter. The new addition was 43 touchpoints in
+                       M&HCV and LCV businesses. The focus of new additions continues in north and east regions,
+                       where we have higher headroom. At the end of the quarter, Ashok Leyland network has a total
+                       of 2,175 touchpoints, 1,205 for M&HCV and 970 for LCV.
+
+
+                       The strength of demand was also visible in the utilization of our manufacturing assets. During
+                       the quarter, we operated at close to 90% capacity utilization. We have been taking proactive
+                       steps to ensure that capacity does not become a constraint to our growth.
+
+
+
+
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                               Page 4 of 18
+
+                                                                                              Ashok Leyland Limited
+                                                                                                 November 16, 2026
+
+                       In the near term, we are pursuing focused debottlenecking initiatives across our existing
+                       facilities to unlock additional capacity with limited capex. In parallel, we are also progressing
+                       our plans for a greenfield manufacturing facility to support the next phase of growth.
+
+
+                       We are working closely with our key suppliers to augment capacities for critical components
+                       in line with our future volume requirements. We are identifying potential bottlenecks in supply
+                       chain as well, securing capacity commitments and alternate sources, and aligning supplier
+                       investments with our growth plans.
+
+
+                       I am also happy to report that all approvals are now in place for our new battery pack facility at
+                       Pillaipakkam near Chennai. The construction work has started, and start of production is
+                       expected to start in Q3 of next year.
+
+
+                       Our sustainability commitments remain integral to the way we operate. Renewable energy
+                       accounted for 79% of our energy requirements, while our Road to School and Road to
+                       Livelihood programs reached approximately 7 lakh students now.
+
+
+                       Coming to our subsidiaries, Switch Mobility India delivered 439 electric buses and 732
+                       electric LCVs during the first half of the year. Now, its order book stood at approximately
+                       2,800 e-buses at the end of September 2026. OHM Mobility increased its operating fleet to
+                       around 2,100 electric buses and continues to progress towards its profitability objectives.
+
+
+                       OHM has also received an order of deploying over 200 trucks for cement distribution on fixed
+                       routes under e-MaaS model. The NCLT order related to merger of Hinduja Leyland Finance
+                       with NDL Ventures was received on 6th of November 2026.
+
+
+                       As per this order, NDL will be the legal and accounting acquirer of HLF, and 1st April 2026 is
+                       the appointed date of the merger. NDL, in its board meeting held on last Friday, adopted its Q2
+                       results basis acquisition accounting, fair valuing all assets and liabilities of HLF, and treating
+                       NCLT order as an adjusting event.
+
+
+                       Ashok Leyland and its statutory auditors, PwC, after due consultations, have decided to
+                       consolidate the financials of NDL or HLF in Ashok Leyland on cost accounting basis, thus
+                       ignoring all fair value or purchase price adjustments.
+
+
+                       Consolidated book value of Hinduja Leyland Finance and Hinduja Housing Finance, as
+                       reflected in Ashok Leyland consolidated results, stood at INR8,313 crores with a PAT of
+                       INR174 crores for quarter two of this fiscal year. NDL shall, in due course, apply for the
+                       NBFC license and complete other actions to make the merger scheme effective, paving way
+                       for the merged NBFC entity to get listed.
+
+
+                       We expect that within Q4 of this fiscal, this process should be completed. Once the scheme is
+                       effective, HLF will dissolve and cease its business operations. However, the current auditors of
+                       HLF have pointed out certain discrepancies in transactions and loan balances between the
+                       various underlying systems of the company.
+
+
+
+
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                Page 5 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                            The impact of these on financial statements is currently not ascertainable. The company is in
+                            the process of appointing an independent agency to conduct a comprehensive review of the
+                            related systems and processes.
+
+
+                            Upon completion of this review, the company and its Board shall evaluate and take appropriate
+                            actions as may be necessary. In summary, Q2 FY27 was a quarter of strong growth, launch of
+                            market-defining products, and reasonable market share gains.
+
+
+                            Although at the same time, the quarter was also marked by significant external cost pressures.
+                            The underlying demand environment Commercial Vehicles remain quite positive. Our recent
+                            launches and forthcoming product pipeline positions Ashok Leyland well to participate in this
+                            growing market.
+
+
+                            At the same time, we remain mindful of elevated commodity prices and ever-evolving
+                            geopolitical situation. We will continue to address these challenges through higher price
+                            realization, better business and product mix, accelerated cost savings, capacity interventions,
+                            and a disciplined focus on profitable growth.
+
+
+                            Our foundations remain strong. We have a differentiated product portfolio, expanding market
+                            presence, increasingly diversified businesses, a wide service network, and a strong balance
+                            sheet. Basis this, we remain confident in our ability to create sustainable long-term value for
+                            all our shareholders. Thank you once again for your continued trust in Ashok Leyland.
+
+
+                            I now hand the call back to the moderator.
+
+
+Moderator:                  Thank you very much. We will now begin with the question-and-answer session. The first
+                            question is from the line of Chandramouli from Goldman Sachs. Please go ahead.
+
+
+Chandramouli:               Hi, good morning, and thank you for taking my questions. The first question is just around the
+                            festive period. I think we have seen CV demand, if you look at the VAHAN portal, grow
+                            pretty well. We are, of course, back half the entire auto industry is up against a slightly higher
+                            base. Just want to understand the demand momentum. You mentioned you see healthy demand
+                            in the back half remainder of the year as well. Just want to understand what your range of
+                            growth expectation is for the CV industry and where you think Ashok Leyland could move.
+
+
+                            If you could also give us a little bit of clarity on the export environment. You mentioned
+                            freight and shipping challenges. Middle East is an important market for you. So just some
+                            color on how underlying demand is there, and if and when there is an improvement in the
+                            shipping situation, what sort of pent-up opportunity you might have.
+
+
+Shenu Agarwal:              Yes, thank you for the question, Chandramouli. Last time when we spoke, we all were thinking
+                            that how October will go, because October was the first month where we would encounter a
+                            higher base for the industry. Now, we all know the October numbers for the industry, and we
+                            are very positive to see October numbers, because even on a higher base, October numbers
+                            stand very good, both on the M&HCV side and the LCV side. So, that is giving us a lot of
+                            strength in our outlook for the rest of the year.
+
+
+     This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 6 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                            Basically, we think that there is a fundamental growth momentum that has set up in the
+                            industry. We have been talking about the aging of the fleets in the past. We have been talking
+                            about the trigger that was created in the last year, September, October timeframe, because of
+                            GST rationalization.
+
+
+                            So right now, we are of the view that this momentum shall continue and will continue strongly.
+                            We think that already November, we are seeing that the sentiment is very positive in our
+                            customers in various segments, and we think this will carry forward to the whole year.
+
+
+                            As far as the numbers are concerned, for the year, we do think that it will be double digit. We
+                            also think that it could go to mid-teen kind of a growth for the whole year for the CV industry,
+                            especially M&HCV I am talking about. LCV also is going very strong, so LCV should also
+                            register a similar growth.
+
+
+                            Coming to export environment, I should tell you that even in quarter two, we had a degrowth
+                            in our GCC volumes to the extent of about 20%. The good news is that during the quarter, we
+                            have come around quite a bit in our Ras Al Khaimah facility. So, the supply chain is back to
+                            almost normal, I would say. The plant is again running to almost full capacity.
+
+
+                            And therefore, we think that GCC should see a turnaround in quarter three and quarter four
+                            going forward. However, in quarter two, the other markets did very well. For example,
+                            SAARC and Africa did very well for us, registering very good growth in both the markets.
+                            And therefore, our total numbers, which were a slight negative or de-growth in Q1, has come
+                            out to be positive for the current quarter.
+
+
+                            Although the number is 7% only, growth in exports volume for second quarter, but we do hope
+                            with the strengthening of our supply chain conditions and rest of the production environment
+                            in Ras Al Khaimah, I think we should post very good growth numbers in Q3 and then better in
+                            Q4, actually.
+
+
+Chandramouli:               Got it. That is helpful. Just as a follow-up to that, just trying to understand, when we look at
+                            freight rates and compare them with what has happened to diesel prices, ever since the West
+                            Asia conflict broke out, it looks like freight rates have not adjusted upwards to the same extent
+                            as what diesel prices have been increased.
+
+
+                            And also, I think into the back half, there is an expectation that interest rates might move
+                            higher. So, just want to understand your thoughts on what these two factors could imply for the
+                            demand environment over the next 12 months?
+
+
+Shenu Agarwal:              Yes. So, as far as freight rates are concerned, I think there is an upward movement in freight
+                            rates, so that is really helping. There is a lot of upward movement in freight demand also. So
+                            both those things are kind of positive. But we do expect freight rates to continue to go up in the
+                            future as well. The overall economic activity is very good, which is creating demand.
+
+
+                            But also the fact that people have now realized that they can't afford to keep their older trucks
+                            on the road anymore, because they have clearly determined or understood that the TCO for a
+                            newer BS6 truck is far better than a TCO of a BS2, BS3, or BS4 truck. So, I think that mental
+     This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 7 of 18
+
+                                                                                                        Ashok Leyland Limited
+                                                                                                           November 16, 2026
+
+                             shift has happened, and that is driving both the replacement demand and also the new fleet
+                             requirement because of the economic activity.
+
+
+                             So when we speak to our customers, the sentiment remains very positive, and that we have
+                             seen in the October numbers also. Q2 itself was very, very strong, beyond even our
+                             expectations, because the M&HCV industry grew by 38%, 39%, and we all were hoping
+                             possibly that it will grow 20% to 25% in that region.
+
+
+                             So, I think the momentum is quite strong. Interest rates also have a bearing, definitely, and we
+                             think there might be one more round of interest rate hikes. But right now, given the positive
+                             sentiment and the underlying activity of the freight and the rates, etcetera, we think that this
+                             will not have a major impact on the overall CV demand in the next two quarters.
+
+
+Chandramouli:                Got it. That's helpful. Just last…
+
+
+K.M. Balaji:                 On the other side…
+
+
+Chandramouli:                Okay, good. Go ahead, Balaji.
+
+
+K.M. Balaji:                 Question on this freight thing. We had to concede the freight increases with reference to the
+                             freight rates which we pay to our transporters for transporting the vehicles across the country.
+                             That is part of the other expenditure where you would see. We will have to concede a bit on
+                             the freight rate movement, freight rate increases because of this diesel price movements and
+                             the demand from the transport operators.
+
+
+Shenu Agarwal:               Yes, I can tell you that if you compare like a percentage of our freight cost that the trucks and
+                             buses we move from our factories to the dealers, that has gone up by more than 50% per
+                             vehicle over last one year or so. So definitely, still, that affects our P&L, but we are happy that
+                             the freight rates in the market are moving up, which will support the industry.
+
+
+Chandramouli:                Makes sense. Makes sense. This last question is on profitability. I think the first half, because
+                             of the higher steel prices, which may not be fully passed on to customers, there has been about
+                             150 basis points of margin dilution year-over-year and then next six to nine month period, at
+                             this stage, it appears that the non-steel metals are the ones that are correcting.
+
+
+                             The steel prices have not yet come off. So just trying to understand over the next six to nine
+                             months how you are thinking about profitability in that context if, I think, one of your primary
+                             raw materials, which is steel, is refusing to come off in the near term.
+
+
+K.M. Balaji:                 Thanks for this question, Chandra. Actually, we should temporarily stop looking at the
+                             margins in terms of percentage of revenue. I would say that why I am saying that is we are in a
+                             situation where we are looking at a good increase in the volumes, whereas on the margin side,
+                             it is significantly pressurized because of this higher commodity cost movements.
+
+
+                             While you will certainly see in absolute terms the profits as well as the revenue and all these
+                             metrics going up, profits and margins in terms of percentage of revenue, I think temporarily we
+                             will have to suspend looking at that. We should look at it relatively in absolute terms with
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                      Page 8 of 18
+
+                                                                                                    Ashok Leyland Limited
+                                                                                                       November 16, 2026
+
+                            reference to the previous year till this commodity cost escalation recedes a bit. That will be my
+                            suggestion to everybody in the market.
+
+
+Shenu Agarwal:              But specifically to your question about the timing gap between the inflation and the pass-on of
+                            the inflation to the market, of course, that is always the case in the last few quarters because
+                            the prices, inflation is happening at a rapid pace, and we just cannot pass on the entire increase
+                            to the market in one go. So therefore, when this thing halts or stops or moderates the inflation
+                            phenomena, we will have a large amount in unrealized price pass-on, which should benefit us.
+                            Now, the question is whether the inflation would moderate in quarter three or quarter four.
+
+
+                            Right now, it seems that quarter three would also be a bad quarter in terms of inflation. We are
+                            already seeing some signs of that, especially on the steel side and natural rubber side. But at
+                            any given point of time, let us say in quarter four, the material cost pressures recede, we would
+                            have in our hands a lot of price increase, which is not getting reflected in the P&L because of
+                            the timing issues.
+
+
+Chandramouli:               Got it. Got it. That's helpful. Thank you very much and all the best.
+
+
+Moderator:                  Thank you. The next question is from the line of Raghunandhan NL from Nuvama Research.
+                            Please go ahead.
+
+
+Raghunandhan NL:            Thank you, sir, for the opportunity, and congratulations on market share gains. My first
+                            question was on the demand side. In domestic market, within the various categories, how do
+                            you see the performance in ICV, HCV, and buses side?
+
+
+                            And also, if you can talk about the initial acceptance of your higher payload truck, and in this
+                            category or in this form factor of providing a higher payload and better TCO for transporters,
+                            can we expect more launches to happen going forward?
+
+
+Shenu Agarwal:              Yes. Thank you, Raghu, for that question. Now as far as the demand is concerned, we are
+                            seeing a huge surge in demand in basically all the categories, as far as Q2 is concerned. I think
+                            the lowest was buses, which also grew by 22%, right? So I mean, the demand is very
+                            comprehensive. It is spread out.
+
+
+                            ICV truck actually is on the top of the table, as it has been for last few quarters since GST
+                            rationalization, because we know that that is the most price-sensitive market, and therefore,
+                            any reduction in the price there because of the tax cut helps that market more than the other
+                            segments. But other segments like heavy-duty trailer, truck trailers, tippers, the multi-axle
+                            vehicles, they're all showing very, very strong growth. So, we are happy that the growth is very
+                            comprehensive.
+
+
+                            Actually, the growth in the tipper among the heavy-duty trucks is the lowest right now, but we
+                            do think coming November, December, etcetera, and Q4 as well, that demand will grow
+                            because of the heightened activity in the infrastructure and construction segments. So, coming
+                            to the products that we have launched, like we told you earlier, that our theory or our mindset
+                            now behind every product launch is that of a premiumization.
+
+
+     This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                    Page 9 of 18
+
+                                                                                                    Ashok Leyland Limited
+                                                                                                       November 16, 2026
+
+                             And by premiumization, basically, we do not necessarily mean just hiking the price of the
+                             truck, but justify manyfold the hike in the price through the value that we provide to the
+                             customer in terms of improvement of TCO. So the HIPPO tractor, right now, we are getting
+                             huge traction in the market, and that is the reason -- that is one of the reasons we are getting a
+                             better market share overall in M&HCV, but specifically in M&HCV trucks, we have had good
+                             market share gains in Q2.
+
+
+                             Also, the TAURUS tipper that we have launched also is very unique and we are seeing great
+                             acceptance of that as well. So we do think that because of these two products, we will continue
+                             to gain market share for many quarters, as these products are very unique in nature when it
+                             comes to fuel economy or reliability or the kind of aggregates we have used, or the kind of
+                             industry-leading torque it provides for tough applications.
+
+
+                             Also, we launched this air suspension truck in the MAV category, and we have launched only
+                             three models. So I think there are a lot of -- this whole concept needs to be translated into
+                             many more models and variants. We have launched only a few of those right now. So even in
+                             Q3, we are planning to scale up the new 360 horsepower, which is part of the same series or
+                             the same family, HIPPO TAURUS family.
+
+
+                             So I think Q3 and Q4 will be very, very busy in extending this whole concept that we have
+                             created around premiumization to many more models and many more segments. So that should
+                             also help us kind of to continue to make more inroads into the market and hopefully get some
+                             market share gains as well.
+
+
+K.M. Balaji:                 We are seeing a strong increase here on the multi-axle vehicle side. Multi-axle vehicle
+                             volumes have gone up. The share of the multi-axle vehicles with reference to the overall
+                             volume, truck volume, has gone up by about 5% in Q2. It was 20% in Q1, it has gone up to
+                             25%. This augurs well for us, and this is also a reflection of the good performance of the new
+                             products that have been launched in the market.
+
+
+Raghunandhan NL:             Thank you, sir. That is very helpful and best wishes for future. On the EBITDA, even if I take
+                             absolute EBITDA, there has been a good number, and even EBITDA per unit has seen an
+                             increase for Q-o-Q. So, great performance in terms of challenging times. Can you indicate
+                             what are the pricing actions you are taking in Q2? How much was implemented and retained?
+                             And in Q3, what is the plans of the price hikes?
+
+
+K.M. Balaji:                 See, every quarter we have been trying to improve on the net sale realization. Although
+                             sometimes we may not come out with a price increase by way of increase in the price circulars,
+                             we have been consistent enough in raising the net sale realization anywhere between 1%-
+                             1.25% every quarter, so that way, you can clearly see that the prices have gone up. From the
+                             year beginning, it has gone up by about 2%-2.5%. And in the Q3 also, we will strive and
+                             continue to do the same kind of the price increases. We will try and build the same kind of
+                             momentum on the price recovery.
+
+
+Shenu Agarwal:               Yes, I just want to add, Raghu, that, I mean, we do a lot of analysis around how much the
+                             market can take in terms of price increase. And based on that, we do believe that there is more
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 10 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                             potential for us to increase the prices for our products and at the industry level as well.
+                             However, we have to do it in chunks, in tranches. We can't just increase the price, because at
+                             the same time, we don't want to dent the market momentum as well, right? So we are taking
+                             very calibrated approach, but we do think there is more capacity to increase the prices in
+                             future. In Q3, we have already taken a price increase, so that should get reflected when we see
+                             Q3 financials.
+
+
+K.M. Balaji:                 Your observation is also right, Raghu, on the quarter-on-quarter growth momentum. Revenue
+                             has gone up by about 39%, and our EBITDA has also gone up by 39%. So, I mean, quarter-on-
+                             quarter, it has been good for us.
+
+
+Moderator:                   Thank you. The next question is from the line of Vedant from UBS Securities. Please go
+                             ahead. Vedant, you may please proceed with your question. Since there is no response from
+                             the participants, we will move to the next participant. The next question is from the line of
+                             Amyn Pirani from JPMorgan. Please go ahead.
+
+
+Amyn Pirani:                 Hi, good morning to the team, and thanks for the opportunity. Sir, actually, my first question is
+                             on this Hinduja Leyland Finance. So this observation, which you as well as NDL Ventures has
+                             made on the differences in balances, can you give us some more context as to what is this
+                             regarding and I know that you have not ascertained any impact, but just for our understanding,
+                             what is the discrepancy which is there?
+
+
+Shenu Agarwal:               Yes. So, see, basically the discrepancies are in the underlying transactions related to the loan
+                             balances between the various underlying systems of the company. So, like you said, the impact
+                             is difficult to ascertainable in a short time. I think we will need about four to six weeks. The
+                             Board has decided to initiate a system audit, which is in place.
+
+
+                             The Board is also in the process of appointing an independent agency, because the idea is to
+                             understand completely what kind of processes need to get changed. So I think just be little
+                             patient, give us some time, we will come up as soon as this comprehensive review is over, and
+                             we will let you know as to what needs to be done as far as HLF financial statements are
+                             concerned.
+
+
+Amyn Pirani:                 Okay. We look forward to that. And with regard to the transaction itself, so now HLFL has
+                             already been transferred to NDL, or that because NCLT approval has come, but has the share
+                             swap already happened, or that is yet to happen?
+
+
+Shenu Agarwal:               No. So let me just clarify this. So as per the NCLT order that was received, I think on 5th of
+                             November, it was specifically mentioned that the NDL will be the legal and the accounting
+                             acquirer of HLF. And now as you also know that there are two different streams here. One is a
+                             legal stream and one is the accounting stream.
+
+
+                             So for the accounting stream, NDL regarded the NCLT order as an adjusting event, and they
+                             went ahead in Q2 and did, as far as accounting is concerned, they did the merger accounting as
+                             per the Indian Accounting Standards by fair valuing all the assets and liabilities of HLF. So, if
+                             you have access to NDL financials, you will see that they have taken some amount of
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 11 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                            adjustments on loans, on investments, etcetera. Now that is as far as the accounting treatment
+                            is concerned.
+
+
+                            As far as the legal treatment of this order is concerned, there is a process to be followed before
+                            the share swap or the listing can happen. Now that involves NDL to apply for a NBFC
+                            registration from RBI, so that process will be undergoing very shortly. And then they need to
+                            get a certified copy of the NCLT order, which is just an administrative matter and then they
+                            will have to apply to ROC. So I think that will take another four to six weeks, hopefully,
+                            maybe a little bit longer, but by end of December, we hope that this legal part of the
+                            acquisition should also be through.
+
+
+K.M. Balaji:                Just to touch on this…
+
+
+Amyn Pirani:                Sorry. Yes, sir.
+
+
+K.M. Balaji:                Yes, Amyn.
+
+
+Amyn Pirani:                No, please go ahead.
+
+
+K.M. Balaji:                Even though the order has come in the first week of November, Amyn, the condition of this
+                            merger was existing during the first two quarters. Under the accounting standards this as an
+                            adjusting event and till the 30th September accounts can consider the merger. So, taking that
+                            accounting standard requirement, NDL has then considered this as an adjusting event, and they
+                            have merged it. The effective date of merger as given by the NCLT is 1st April, 2026.
+
+
+Amyn Pirani:                Okay. And sir, just one last thing on this one. Once the legal process, everything, share swap is
+                            over, you will then own a stake in NDL, but you have also invested separately in Hinduja
+                            Housing, right? So, that you will continue to own as an 8% separately from your ownership of
+                            NDL, right?
+
+
+K.M. Balaji:                Yes. The investment is set to happen, Amyn. Although we have got the approval from the
+                            board, I think last quarter we got the approval from the Board, and we will invest this INR500
+                            crores at an appropriate time.
+
+
+Amyn Pirani:                Okay. Whenever you do that, you will continue to have two streams of ownership. You will
+                            own NDL and you will also own Hinduja Housing separately.
+
+
+Shenu Agarwal:              Yes, separately.
+
+
+K.M. Balaji:                Yes, that is correct.
+
+
+Amyn Pirani:                Sorry. One last question on the operations, now that this is clear. Some NBFCs, especially in
+                            the truck segment, had highlighted some small challenges as far as asset quality is concerned.
+                            Are you getting any sense of that when you are speaking to your customers, or are the financial
+                            positions of your customers generally healthy, or are you seeing any stress?
+
+
+Shenu Agarwal:              No. In fact, on the contrary, we see there is lot of NBFCs and even banks who are trying to get
+                             higher share of the CV market. So I think -- and the market is growing at such a rapid pace, it
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 12 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                             also indicates that there is an underlying strength in the credit supply to the market also. So I
+                             do not know if one or two NBFCs have any issues, but largely we do not think there is a
+                             problem.
+
+
+Amyn Pirani:                 Okay. That's great to know, sir. Thank you. I'll come back in the queue.
+
+
+Moderator:                   Thank you. The next question is from the line of Vedant from UBS Securities. Please go
+                             ahead.
+
+
+Vedant:                      Hi, sir. Thanks for the opportunity. Can you hear me?
+
+
+Shenu Agarwal:               Yes, Vedant. Please go ahead.
+
+
+Vedant:                      Yes. So just wanted to understand on these disclaimer of opinion that the auditors have raised
+                             in regards to the loan balances. So if you could just help us understand, is there any sort of
+                             major risk over here? Just wanted to get an idea from you.
+
+
+Shenu Agarwal:               Yes, so as I just explained on the previous question, the auditors of HLF had pointed out some
+                             differences in the transactions and the loan balances between the various underlying systems,
+                             especially related to the loan balances. Now, for us to determine the exact issue, we have to
+                             have a comprehensive review.
+
+
+                             The Board has already started a system audit so as to know whether systems and processes are
+                             working fine and why these differences have emerged, and also to understand the quantum of
+                             this. So like I requested, please give us a time because there are lakhs and lakhs of loan
+                             accounts, this company has. It's a very old NBFC. For many, many years, it has been in
+                             existence.
+
+
+                             So just give us some more time, and as soon as we have the review completed, we'll get back
+                             to you on both the nature of the differences and also the amounts, if there are any involved. I
+                             mean, in absence of such a review, it would not be possible for us to say what is the amount
+                             involved here. It will be very difficult to say.
+
+
+                             And the same reason, when there was a discussion with HLF auditors, they were of the same
+                             view that unless this review is completed, it will be very difficult for even them to say what is
+                             the nature of the difference and the amounts and therefore, this disclaimer has been given.
+
+
+Vedant:                      Okay. Thank you, sir, and all the best.
+
+
+Moderator:                   Thank you. The next question is from the line of Kapil Singh from Nomura. Please go ahead.
+
+
+Kapil Singh:                 Yes. Hi, sir. Just a quick follow-up on this issue of HLFL. Just wanted to know how these
+                             discrepancies were identified. Was it part of a regular audit or merger-related or something
+                             else?
+
+
+Shenu Agarwal:               Yes, so, I mean, what we know as a parent is that since there was this merger that had to be
+                             taken place, and it was because the order had come on 5th or 6th of November itself, and there
+
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                      Page 13 of 18
+
+                                                                                                      Ashok Leyland Limited
+                                                                                                         November 16, 2026
+
+                             was a short time, so there was some extra scrutiny that was happening into the loan books just
+                             to make sure that the merger happens rightfully.
+
+
+                             And in that scrutiny, there were some differences that came up. So, like I said, the board of the
+                             company has decided to do a very comprehensive review so that when the merger accounting
+                             happens in future also, we do have full clarity on that.
+
+
+Kapil Singh:                 Sure, sir. And sir, the second question was on electrification. If you could just talk about how
+                             you are thinking about electrification both for M&HCVs and LCVs. And in terms of battery
+                             pack capacity, what are the kind of plans you have, and by when will it be on stream?
+
+
+Shenu Agarwal:               Yes, so I think -- I think it is very clear to everyone. I think that electric mobility will continue
+                             to gain a lot of momentum in our country. I mean, especially in three-wheelers and two-
+                             wheelers, we have seen what kind of numbers they are showing. Also in passenger cars, it's
+                             constantly growing now. As far as CV is concerned, on the LCV side, it will happen faster.
+                             M&HCV will take some more time. On the side of the public transport buses, of course, it's
+                             happening at a very rapid pace.
+
+
+                             Now, we understand this whole shift that is happening and will continue to happen in the
+                             future, and therefore, we want to be prepared not just with the technology that is related to
+                             electric trucks, but also the supply chain that needs to be looked at. And therefore, like we
+                             have told you earlier, we are looking at battery as a strategic investment, and phase one of that
+                             was to invest in a battery pack manufacturing facility. The initial capacity that we are looking
+                             at is about 4 gigawatts, which will be sufficient for our own captive demand from both Ashok
+                             Leyland and Switch.
+
+
+                             And in future, of course, we are preparing the factory, we're building the factory in a way that
+                             we can expand it to go to even 8 gigawatts or 12 gigawatts. So, that start of production should
+                             happen sometime in Q3 of next year and of course, that will also give us a lot of benefit
+                             commercially because of the duty structure and other things.
+
+
+Kapil Singh:                 And sir, on the cells, have we given a thought, or it's too early for us to decide right now on the
+                             cell manufacturing investments?
+
+
+Shenu Agarwal:               Yes, that would be phase two of our whole plan, of our whole strategy around the battery. But
+                             that needs a lot of more working and a lot of more thinking around the technology, etcetera.
+                             So, that will take more time. I would say, we might take a decision sometime in the next
+                             financial year as far as cells are concerned. Our first priority is to make sure that we have this
+                             factory for the packs up and running, and we are delivering good quality and good efficiency
+                             in the production system at the right cost.
+
+
+Kapil Singh:                 Okay. Thank you, sir, and best wishes.
+
+
+Shenu Agarwal:               Thank you.
+
+
+Moderator:                   Thank you. The next question is from the line of Amit Hiranandani from PhillipCapital. Please
+                             go ahead.
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 14 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+Amit Hiranandani:            Sir, thanks for the opportunity. Most of the questions have been answered, just a few
+                             bookkeeping one. Sir, just wanted to understand, it has been observed that generally the other
+                             income is higher in the second quarter as compared to the first quarter, but this time it is
+                             reversed, and we have seen a Q1 to Q2 drop in other income. So, wanted to understand any
+                             one-offs here?
+
+
+K.M. Balaji:                 So actually, last year we had some one-off, Amit. Last year we had this fair valuation of some
+                             of the investments in the subsidiaries has been made, and we got a gain of about INR50 crores
+                             in that in the Q2 of last financial year. That is why you see the sundry income of last financial
+                             year slightly better off. Otherwise, no, in the trending also, if you see, Q2 could be slightly
+                             higher because we get the dividend from some of the subsidiaries in Q2. That could also be
+                             one of the reason.
+
+
+                             But last year we got this, and we also got some refund from the income tax last year and some
+                             of the tax-related thing, right? I remember we got some about INR10 crores of refund on that
+                             also. So all this have added to the higher sundry income in Q2 of last financial year, Amit.
+
+
+Amit Hiranandani:            Okay, noted, sir. Secondly, just on the capex outlook for this and coming years, and where are
+                             we going to deploy the same? Also, if you can highlight on the discounting situation in the
+                             second quarter, how has been it on a Q1, Q basis?
+
+
+Shenu Agarwal:               I think the capex so far for H1 is close to INR400 crores on a cumulative basis, and we do
+                             hope that it will go to INR1,000 crores to INR1,200 crores for the whole year. So, that is that.
+                             And on the discounting part, we have already declared that there is no, I mean, discounting,
+                             there is no provision to discount the prices right now.
+
+
+                             Rather, the challenge is that how we can accelerate our realization per vehicle going forward,
+                             which we have been able to do it successfully, but we still have a gap as far as inflation is
+                             concerned. So in Q3 also, we are trying to take about 100 to 150 basis points of price increase.
+                             Q4, we will go ahead with one more, most likely, and then we will see how the situation is at
+                             end of this fiscal.
+
+
+K.M. Balaji:                 We track only the net sale realization, Amit, which is both the discounts, and discounts beyond
+                             a point, no, we do not track at all. I mean, because it does not have any relevance as long as
+                             your net sale realization goes up. We consistently monitor that, and we do that.
+
+
+Amit Hiranandani:            Right, sir. Just last one question. I know the situation is tough. Just wanted to understand
+                             whether are we maintaining the mid-teens margin target for the next one to two years, or is
+                             there any revision to the same looking at the input cost pressures?
+
+
+Shenu Agarwal:               No, no, definitely that's our medium-term goal. We don't want to sacrifice that. We think that
+                             this inflation phenomena is only temporary.
+
+
+Amit Hiranandani:            Yes.
+
+
+
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                     Page 15 of 18
+
+                                                                                                      Ashok Leyland Limited
+                                                                                                         November 16, 2026
+
+Shenu Agarwal:               It will come back. Timing is hard to say, but it will come back to normal. In any case, like I
+                             said, we always have this balance price realization, which is not reflected in the P&L because
+                             of the timing gap with inflation.
+
+
+                             But structurally, I don't think there is any change in our business. The demand is very robust.
+                             India will need many more trucks and buses in future. If India were to achieve its dreams of
+                             Viksit Bharat, and the kind of economic activity we are seeing, India will definitely need lots
+                             of trucks and buses.
+
+
+                             So I think the kind of value also that we are providing in trucks and buses in terms of the
+                             customer TCO, which has really improved quite a lot since BS4 time, right? So there is enough
+                             capacity in that way in the system to have better trucks and buses and to pay extra for those. I
+                             think that mind shift has already happened in India.
+
+
+                             The way we see our 320 and 360 horsepower tippers and trucks going, and the demand being
+                             so robust while they are so much more expensive than the originally or the earlier 250
+                             horsepower tells us a lot of things as to how this Indian CV industry is going to be in the
+                             future.
+
+
+K.M. Balaji:                 See, on the business model also, we have been consistently working. Our non-truck revenues
+                             have been consistently been at a good shape, and our contribution from the non-truck business
+                             is also quite good, which brings stability to our margin, which you are witnessing it. I mean,
+                             despite this truck volumes going up by 40%, the M&HCV volumes going up by 40%, where
+                             its share in the revenue is significantly, it has gone up.
+
+
+                             And we all know that amongst the businesses, truck is the least profitable or the lower margin
+                             business, still you are seeing the stability in the margin. So all this are actually acting as a very
+                             good test to our business model, which you are witnessing every quarter.
+
+
+Amit Hiranandani:            Great, sir. Fantastic. All the best. Thank you so much.
+
+
+Shenu Agarwal:               Thank you.
+
+
+Moderator:                   Thank you. The next question is from the line of Yash Agarwal from Nirmal Bang Securities.
+                             Please go ahead.
+
+
+Yash Agarwal:                Hi, sir. Thank you for the opportunity. My first question is on LCV. As we continue to gain
+                             market share, and our market share gain has been around 100 basis points in last two quarters.
+                             So what is driving this gain?
+
+
+Shenu Agarwal:               Yes. Yash, thank you for this question, but I personally believe and the management believes
+                             that the kind of headroom we have on LCV is humongous for us, right? You know that we
+                             historically, we have been participating only in 50% of the market. And practically speaking,
+                             we are a newcomer in the LCV market, so our first attention was in our stronger markets,
+                             which was South and West, and therefore, there's a huge amount of headroom still that needs
+                             to be explored in the Northeastern and Central regions, right?
+
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                      Page 16 of 18
+
+                                                                                                   Ashok Leyland Limited
+                                                                                                      November 16, 2026
+
+                             On LCV, in a long-term basis, we are very, very optimistic about our position in the LCV
+                             segment. Having said that, we have done few things over last two, three years. For example,
+                             we created a, not an exact sub-2-ton platform, but we created a model called Saathi, which was
+                             catering to the premium end of the sub-2-ton customers, which means the sub-2-ton customers
+                             who want to advance into higher payload vehicles, Saathi was providing them a very good
+                             option. At the same time, we have also done a lot of improvements on our existing Dost and
+                             Bada Dost platforms, right?
+
+
+                             That is giving us market share push along with the reason that we are expanding our network
+                             in Northeastern and Central parts. The major jump on this would happen when we create some
+                             new platforms in future, which we are thinking about, and we'll come back to you, right, as to
+                             how we can take our market participation to about 80%, 85% levels from currently 55%, 60%.
+                             Despite that, we have a huge headroom to grow, and we'll continuously focus on both network
+                             expansion and product expansion.
+
+
+Yash Agarwal:                Thank you, sir. And my second question is, as we are setting up battery pack plant, where do
+                             other technologies like hydrogen, LNG, CNG fit in for long-haul trucks, and which of these do
+                             you expect to scale first in India?
+
+
+Shenu Agarwal:               Yes, very excellent question, Yash. So this is a debate that is going on in the entire country,
+                             especially for the heavy-duty trucks, as to which technology or which alternative fuel will take
+                             precedence. So I think more or less the opinion is that electric mobility is something that will
+                             happen first. For long haul, LNG definitely is a viable option. Hydrogen will take some time,
+                             but hydrogen is an excellent option for future also.
+
+
+                             Now as a company or as an industry, we have no choice but to follow all the three streams,
+                             definitely with different priorities or different timing of priorities. So right now, we are very
+                             focused on electric mobility. We are also preparing our products, and you will hear that from
+                             us in the next meeting, what we are doing on the LNG side, we are going to launch some new
+                             products there as well.
+
+
+                             And hydrogen, we are working slowly and steadily. You know that we have the largest fleet of
+                             hydrogen trucks in the country. We also have some buses that we have put in on the road in
+                             partnership with NTPC. So we are following up all the streams, but Yes, specifically to your
+                             question, electric mobility will happen first definitely on the LCV and the buses and even on
+                             the heavy-duty truck side, LCV volumes for the next two, three years should go substantially
+                             up.
+
+
+Yash Agarwal:                Okay, sir. Sir, one last question on other expenses have gone up 20% Q1, Q2. Any particular
+                             reason for that?
+
+
+K.M. Balaji:                 That other expenditure actually, it comprises of both variable and fixed. The variable
+                             expenditure would be in the form of the factory-related expenditure, the production overheads
+                             comprising of the power, the in-plant logistic expenses, the tools, consumables, etcetera. All
+                             this, they move in tandem with the volumes.
+
+
+
+      This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                       Page 17 of 18
+
+                                                                                                    Ashok Leyland Limited
+                                                                                                       November 16, 2026
+
+                            Similarly, it also has the sales overheads comprising of warranty, free service, packing and
+                            forwarding expenses, etcetera. All these also, especially on the warranty side, we will have to
+                            make a provision for the six years. We will have to make an estimate of this warranty and
+                            make a provision on day one, on the month in which the vehicle gets sold for the six years. We
+                            have a six-year warranty period.
+
+
+                            So all this, it gets accounted. You are seeing a volume increase also. Correspondingly, it has
+                            both fixed and variable. While fixed will remain fixed, variable will track the volume growth.
+                            So accordingly, you see that the growth has been only partial. It is not in line with the growth
+                            of the volume. If it is in line with the volume, then it is a point of concern because we are not
+                            able to get the leverage of this fixed cost. So as long as it is much lower, we will be able to get
+                            the leverage from the fixed cost. I hope I have answered your query on this.
+
+
+Yash Agarwal:               Yes, sir. Thank you so much. That is it from my side.
+
+
+Moderator:                  Thank you. Ladies and gentlemen, that was the last question. I would now like to hand the
+                            conference over to the management for closing comments. Over to you, sir.
+
+
+Shenu Agarwal:              Thank you very much again for the trust that you have always shown in Ashok Leyland. Q2 of
+                            2027 was a record quarter for us with very strong growth, launch of some market-defining
+                            products, and excellent gain in our market shares backed from our products and services. The
+                            underlying demand environment, like I said, for Commercial Vehicles is continuing to be very
+                            strong.
+
+
+                            We were hoping that October will give us a good indication as to how the full year has gone,
+                            and October itself has been very, very strong. The environment on inflation is very
+                            challenging, but as I said, we will continue to address these challenges through better price
+                            realization, better mix, accelerated cost savings, and capacity interventions and also, our focus
+                            on disciplined, profitable growth will continue.
+
+
+                            We are happy that we are in a very, very strong cash position, having increased our cash by
+                            more than INR2,500 crores in the year so far. So, our foundations do remain strong. We have a
+                            differentiated product portfolio, expanding market presence, increasingly diversified
+                            businesses, and a much better service network and we believe that we have a lot of headroom
+                            to grow and with a strong balance sheet. So I just want to thank you once again for your
+                            participation in this call and your continued trust in Ashok Leyland.
+
+
+Moderator:                  Thank you. On behalf of Kotak Securities Limited, that concludes this conference. Thank you
+                            for joining us, and you may now disconnect your lines.
+
+
+
+
+     This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+                                                    Page 18 of 18
+

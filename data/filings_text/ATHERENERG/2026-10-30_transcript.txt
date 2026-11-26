@@ -1,0 +1,921 @@
+                                                                                                October 30, 2026
+
+ To                                                      To
+ National Stock Exchange of India Ltd                    BSE Limited
+ Exchange Plaza, 5th Floor, C-1, Block G,                1st Floor, Phiroze Jeejeebhoy Towers
+ Bandra Kurla Complex, Bandra (E), Mumbai 400051         Dalal Street Mumbai – 400001
+ NSE Symbol: ATHERENERG                                  Scrip Code: 544397
+
+
+
+Dear Sir/ Madam,
+
+Sub: Transcript of earnings call held on October 26, 2026.
+
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 and in furtherance to our earlier letter dated October 26, 2026 on the audio
+recording of earnings call held on October 26, 2026, please find enclosed herewith the transcript of the said
+earnings call.
+
+Kindly take the above information on record.
+
+Thank you
+
+For Ather Energy Limited
+PUJA    Digitally signed by
+
+AGGARWA PUJA  AGGARWAL
+        Date: 2026.10.30
+L       15:03:31 +05'30'
+
+Puja Aggarwal
+Company Secretary and Compliance Officer
+Membership No: A49310
+
+                      “Ather Energy Limited
+             Q2 FY27 Results Conference Call”
+                           October 26, 2026
+
+
+
+
+MANAGEMENT: MR. TARUN MEHTA – EXECUTIVE DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER, ATHER ENERGY LIMITED
+            MR. SOHIL PAREKH – CHIEF FINANCIAL OFFICER,
+            ATHER ENERGY LIMITED
+            MR. MURALI SASHIDHARAN – HEAD OF
+            COMMUNICATIONS, ATHER ENERGY LIMITED
+Moderator:     Ladies and gentlemen, good day, and welcome to the Ather Energy Limited Q2 FY27 Results
+               Conference Call. As a reminder, all participant lines will be in the listen-only mode. And there
+               will be an opportunity for you to ask questions after the presentation concludes. Should you need
+
+
+                                        Page 1 of 15
+
+                                                                                                Ather Energy Limited
+                                                                                                    October 26, 2026
+
+                      assistance during the conference call, please signal an operator by pressing star, then zero on
+                      your touchtone telephones. Please note that this conference is being recorded.
+
+
+                      I now hand the conference over to Mr. Murali Sashidharan, Head of Communications at Ather
+                      Energy. Thank you, and over to you, sir.
+
+
+Murali Sashidharan:   Thank you. Good evening, everyone, and welcome to Ather Energy Limited's Q2 FY27 Earnings
+                      Conference Call. From the management, we have with us today Mr. Tarun Mehta, Executive
+                      Director and Chief Executive Officer; and Mr. Sohil Parekh, Chief Financial Officer.
+
+
+                      Before we begin, let me draw your attention to the fact that the discussion today may include
+                      certain forward-looking statements, which are predictions, projections or other estimates about
+                      future events. These statements reflect management's current expectations about the future
+                      performance of the company and are subject to various risks and uncertainties that may cause
+                      actual results to differ materially.
+
+
+                      Please note that this conference is being recorded. As a reminder, all participants will be in a
+                      listen-only mode, and there will be an opportunity to ask questions after a brief overview from
+                      our management team.
+
+
+                      With that, I now request Mr. Tarun Mehta, Executive Director and CEO, Ather Energy, to share
+                      his opening remarks. Over to you, Tarun.
+
+
+Tarun Mehta:          Thanks, Murali. Welcome, everybody. Welcome to our earnings call for Q2 FY27. This has
+                      been a pretty stellar quarter for us, and I would say actually the entire industry with industry
+                      registrations hitting a growth of 82% year-on-year, netting out at about 6 lakh sales for the entire
+                      quarter. Phenomenal growth across all the 3 zones that we track, Middle India, South India and
+                      Rest of India.
+
+
+                      What's really heartening is I want to bring attention to 2 important points. First, the growth is
+                      becoming more broad-based. And that's very important and very, very healthy to see. For
+                      example, if you see last quarter, the growth across 3 zones was a bit different with South India
+                      leading at 82% and Rest of India at about 54% and Middle India in the middle at 66%.
+
+
+                      But in Q2, we are starting to see signs of growths pretty much coming in at the same level across
+                      the zones at 82% in South, 85% in Middle India and 79% in Rest of India. So quite a broad-
+                      based growth overall.
+
+
+                      The second important trend is that South still continues to be an absolute monster of a zone,
+                      growing at 82% despite a fairly healthy base already, which is what you want to see, obviously,
+                      because electrification is still in early stages.
+
+
+                      Q2 was the first quarter when pan-India E2W penetration crossed 10%, netting out at about
+                      11.2% for the full quarter. And very -- we do believe that this is still supply constrained at an
+                      industry level, and the coming quarters should continue to remain fairly healthy for the entire
+                      industry.
+
+
+
+
+                                                 Page 2 of 15
+
+                                                                          Ather Energy Limited
+                                                                              October 26, 2026
+
+For us, Q2 was particularly important because this was the quarter when we had our annual
+Ather Community Day 2026 and where we launched a whole bunch of things from our
+ecosystem to software to obviously, the new product, Konarc. Let's start with some of the
+launches we did in this ACD. ACD overall has become a pretty landmark event for us.
+
+
+It's grown from its humble origins of about 600, 700 owners who came in, in 2023 to almost
+6,000 people who got together in Bangalore this year. Fantastic coverage, many, many, many
+viral moments, and a lot of attention that it's helped bring to the brand and established its equity
+across the country.
+
+
+Some of the important things that launched in this ACD were starting with Ather TrueHealth.
+This is a comprehensive health report of a scooter, where we basically started showing the health
+of different components like the battery, brakes, belts, dashboard, motor, etcetera, on your
+mobile app.
+
+
+So you can just go to your mobile app, click a button and see the health of different components,
+which is quite pioneering in our industry. And we convert all of that into a simple health score.
+Essentially, we want to -- the idea here is we want to give EV owners a lot of confidence and
+comfort that how their EV is performing even after years of usage.
+
+
+And we took it one step forward by starting -- we have started to show with estimated resale
+value for scooters that have crossed 3 years of ownership. The intention, again, is not at this
+point to establish a business channel, but to again give EV owners a lot of conviction that they've
+made the right choice by going to electric, and their vehicles continue to retain a lot of value.
+
+
+The second thing that we announced was Ather Node, which is a infrastructure product that
+enables EV charging in apartments. It's a really smart system that comes with automatic queuing,
+smart load management.
+
+
+It draws power from common loads instead of individual houses, freeing up a lot of complicated
+infrastructure that the homeowners otherwise would need to do, comes with customized billing
+and is very cost effective. Ather Node is getting industrialized right now and will commence
+operations -- commence deployment in the next few months as we are onboarding our first few
+set of partners.
+
+
+Third big thing was Ather Bedrock, which is our fifth-generation battery packs with enhanced
+safety and much longer warranty periods. These are fairly well-developed battery packs, which
+come with real-time micro leak detection. They come with cell balancing that is almost 5x faster
+than previous generation and are the first battery packs from Ather that come with 10 years or 1
+lakh kilometer warranties with a 70% performance guarantee. These batteries have already gone
+live across the entire portfolio from 450, Rizta and Konarc.
+
+
+And obviously, the big launch for ACD underpinning all of it this year was Konarc, our
+mainstream product going live this year. Konarc, we decided to focus a lot of -- a lot in this
+product on the fundamentals of scooters in India. So this is our first scooter that's come with 14-
+inch front wheels. It's come with one of the longest rear suspensions in the country for scooters.
+
+
+
+                          Page 3 of 15
+
+                                                                           Ather Energy Limited
+                                                                               October 26, 2026
+
+It comes with a beautiful padded grab handle, adjustable backrest, onboard charging, combined
+charging so that customers are not even locked into one charger spec over the ownership period.
+
+
+Our first scooter with the center stand, metal body, a remarkably improved service layout so that
+you only have to service your scooter once in a year. And obviously, it comes with the Bedrock
+battery with 10-year warranty periods.
+
+
+So overall, Konarc focused a lot on the fundamentals with the target being how do we get more
+petrol scooter buyers to buy electric. It's launched to great reception already, but this was an
+Ather product. So obviously, it did not just do this. It also brought to fore some of the really new
+magical things that our teams have spent a couple of years now really crafting and perfecting.
+Features like AirWalk, where the motor detects that you're trying to move the vehicle and gently
+assists you. The end effect being the vehicle seems remarkably lighter than it actually is.
+
+
+Or a new feature called MagicKey, which is essentially keyless, but built in a very intelligent
+way so that it gives people who may not be very savvy with tech, a lot of confidence in owning
+a keyless product, lost key detection, an authenticator that works offline, a smart key that works
+even if it's run out of battery, one that locks the handle bar automatically, a lot of features there.
+
+
+One of the more viral features from these launches was AutoPop, where you could just come tap
+the rear of the scooter, and the seat pops up, one that consumers are absolutely very excited for
+and it's going to get into production in the coming few months. And finally, AeBS, Ather's
+proprietary advanced electronic braking system, which helps -- which is a remarkable
+improvement over CBS and reduces the stopping distance substantially even on slippery roads.
+
+
+So with Konarc now live, we believe we've built a very healthy portfolio in the scooter segment,
+between 450, Rizta and Konarc, we believe we have covered the market quite well. Obviously,
+there are still many small segments that remain, and we will focus on them also.
+
+
+But I think for the mainstream market, between what Konarc's brought to the fore, we've
+probably covered the bulk of the territory already. And over the next 12 to 18 months, as different
+variants -- over the next -- sorry, a couple of quarters, as the different versions of Konarc keep
+hitting the market, we believe our TAM will continue to expand.
+
+
+We've seen a remarkably strong surge in demand metrics across the board. Overall, for the EV
+industry as a whole, the EV searches, online searches on Google and AI, they were up roughly
+about 34% year-on-year. So very healthy growth, obviously.
+
+
+Ather searches on the other hand, were up almost 94%. So obviously, a much, much, much
+stronger growth. Ather inquiries were up even more at about 109%, crossing 10 lakh inquiries
+for Q2 FY27. And preorders were up at about 108% year-on-year, hitting about 1.8 lakh
+preorders in Q2 FY27.
+
+
+All of these top-of-the-funnel metrics have translated into very strong wholesale volume growth.
+Wholesale volume grew from 65,000 units same time last year to 93,000 units in Q2, 42%
+growth year-on-year. This has been enabled by a very healthy ramp-up of our capacity,
+
+
+
+                          Page 4 of 15
+
+                                                                          Ather Energy Limited
+                                                                              October 26, 2026
+
+manufacturing capacity, which has gone up from 28,000 units average per month last quarter to
+33,000 units average per month in Q2 FY27.
+
+
+And obviously, all of that's also translated into even stronger growth in year-on-year
+registrations, up from 57,000 units last -- same time last year to 92,500 units, almost 60% growth
+year-on-year. Increasingly and particularly with Konarc launching in a phased manner from last
+quarter, we've seen an even sharper growth in Rest of India than, let's say, South or Middle India.
+Obviously, this is also because we have started to prioritize a little bit more of sales in the Rest
+of India, particularly in northern markets.
+
+
+Konarc itself is being released in a staggered manner with early releases focusing on Uttar
+Pradesh and Rajasthan, now expanding into Madhya Pradesh, Bihar, Maharashtra, Gujarat,
+Punjab and many other states. And over the coming months -- coming few months, with AURIC
+going live, we're also looking at bringing Konarc to the southern markets.
+
+
+Overall, all this rising demand obviously necessitates a fresh look at capacity. Inquiries have
+honestly gone parabolic, as you can see in our presentation that we have shared online. Preorders
+have also risen up quite a lot. And though we have produced 33,000 units average last quarter,
+on current demand trajectory from the current stores, our team's internal estimate is that we have
+roughly about 20,000 units per month of unrealized retail that we are not tapping into yet.
+
+
+Now to solve this, Hosur, which is already at its tether's end, it's at 35,000 per month capacity.
+And AURIC Phase 1, which is going live and will finish complete installation of its capex by
+Q4 FY27, adds an incremental 42,000 units, which means a net capacity of 77,000 units per
+month. But if current demand is already in 50,000 to 60,000 units zip code, 77,000 units
+obviously does not leave a lot of headroom to grow. So this is a question that we've been
+pondering for the last few months.
+
+
+What we've decided to do, and we have just taken Board approval a few hours ago, is we decided
+to enhance capacity in both Hosur and AURIC Phase 1 in the coming months itself with Hosur
+capacity expansion happening right away, an incremental 6,000 units per month capacity that
+will go live this quarter -- later this quarter.
+
+
+And AURIC Phase 1, an incremental 12,000 units per month incremental capacity that will go -
+- that will finish -- that will go live by Q2 FY28, taking our total installed capacity up from 9.2
+lakh units, which is where we were -- we would have been by, let's say, middle of next year to
+11.4 lakh units by Q2 FY28.
+
+
+So this is an important jump and an important near-term jump, I would say, that our teams have
+decided to focus on, giving us hopefully enough headroom to grow for the next couple of years
+as Konarc hopefully drives a lot more growth across the country for us. I know the last few
+months have been quite tight for us with demand far outstripping supply. But with all this
+capacity expansion finally is starting to yield through, I'm very excited about the next few
+months as we start seeing results of all of this in the top line.
+
+
+Coming to unit economics, bad news, good news. First, bad news. Commodities have been
+worse than we estimated a couple -- like just a quarter ago. 3, 4 months ago, we were hoping for
+
+                           Page 5 of 15
+
+                                                                         Ather Energy Limited
+                                                                             October 26, 2026
+
+aluminum to be cooling down because there were a lot of murmurs of the Hormuz crisis would
+be resolved soon. Copper was estimated to have flatlined. Plastics was going to get better
+because, again, Hormuz was going to be resolved. And memory was estimated is probably
+already at its peak.
+
+
+Unfortunately, all these 4 have proven out to be incorrect, at least in the short term. Aluminum's
+run much higher, at least in Q2, though in the last few days, it's showed some signs of cooling
+down, so fingers crossed. Copper has run really far ahead, particularly because of prebuying by
+U.S. and much higher AI demand.
+
+
+Plastics also remained disrupted for much longer because of the Hormuz crisis. I'm again hoping
+that, that peak is hopefully not like -- hopefully behind us now. Unfortunately, memories
+continue to be really, really complicated and expensive, and we don't see any near-term solution
+to that.
+
+
+Overall, commodities have been worse than we hoped. I do continue to believe that this is a
+temporary hit. But yes, it's definitely lasted a few quarters longer than I would have thought. But
+against that, teams have put in a remarkable amount of discipline and focus to bring in forth a
+lot of very, very good solutions, starting with price hikes and SKU management.
+
+
+To give a frame of reference, our average ex-showroom price across the country -- weighted
+average ex-showroom price average was roughly about INR150,000 in Q4 FY26, including Pro
+Pack sales that we do, Ather Pro Pack sales that we do. That number for Q2 FY27 came in at
+INR164,000, so INR14,000 increase in average ex-showroom price. So a phenomenal
+improvement and honestly, one that even I was surprised that the teams pulled off. So very good
+performance for the teams there.
+
+
+Some of it is structural with price hikes, the teams have been able to land successfully in the
+market. Some of it is also a little bit more temporary with very, very smart SKU management
+across the board and incentive management. What's also been very successful is AtherStack Pro
+attach rate, which came in at 94% for Q2 FY27 and non-vehicle revenue, which came in at 15%
+overall.
+
+
+Overall, if you were to see the AGM, and if I were to compare this to Q4 FY26, Q4 FY26, 2
+quarters ago was 25.4%. Structurally, we have seen some gains, which is sustainable price hikes,
+VAVE work the teams have taken, cost reduction the teams have driven across the board. All of
+that put together has given us a 5.3% improvement in gross margin.
+
+
+Commodity inflation has come much worse than we would have liked, at a 9.4% hit to gross
+margins overall. But very smart SKU management by the teams have yielded and has created -
+- essentially opened up a new lever for us in the business, and it's improved margins by 2.7% in
+Q2. Netting out Q2 FY27 AGM at 24%, which is a 1.6% improvement over Q1 FY27, I think
+roughly, yes.
+
+
+Overall, H1 FY27 AGM is at 23%. And all of this has given us a phenomenal operating leverage
+with EBITDA showing a 1,450 bps improvement year-on-year, from minus 9.6% in Q2 FY26
+to positive 4.9% in Q2 FY27. Even without other income, this was the first time our business
+
+                         Page 6 of 15
+
+                                                                                          Ather Energy Limited
+                                                                                              October 26, 2026
+
+               registered positive EBITDA at I think roughly about 1% to 0.8% EBITDA. And I would be
+               remiss in not acknowledging the first time our business hit positive PAT, something definitely
+               worth celebrating for us.
+
+
+               I do want to call out, however, that we're not out of the woods. There's a lot of ops for us to
+               deliver on. And PAT is not the first thing to focus on. The real thing to focus on is top of top
+               line and improving volume will itself take care of a lot of things and is the right operating
+               leverage to focus on.
+
+
+               If that -- if all the capacity work that we're putting in bears fruit well over the next few months,
+               then I believe that PAT will take care of itself. In the near term, PAT can go up and down, but
+               definitely worth celebrating this milestone for the business this quarter.
+
+
+               Okay. Coming to -- obviously, the key thing that all of us are super excited and focused on is
+               the new capacity coming live in Chhatrapati Sambhaji Nagar. So AURIC Phase 1 is shaping up
+               incredibly well. We have shared some pictures in the deck for your reference.
+
+
+               The battery line, the vehicle line, the paint shop, all of that's coming together really well. Trial
+               production is expected to start in the next few weeks. So very much on track for Q3 FY27. And
+               we expect to finish our capex installation and hence, capacity installation by Q4 FY27.
+
+
+               It will take a couple of quarters for the installed capacity to be fully realized, but all of that is
+               right now tracking very well and it's very much on track. I was there just a few weeks ago, and
+               the progress is honestly quite phenomenal. So all of us are super excited for this.
+
+
+               Coming to finally, a summary. Demand is up quite beautifully. Preorders are up 108%.
+               Registrations are up 60%. Production is up 45% all year-on-year. Important quarter for the
+               industry with 11.6% E2W penetration, highest ever and the first time it's crossed into double
+               digits at a quarterly level.
+
+
+               Very strong growth in revenue from operations for the business, very strong growth in gross
+               margins despite almost, frankly, an unprecedented amount of commodity hits. And what we're
+               excited about and looking forward to is the 11.4 lakh annual capacity -- installed capacity over
+               the next few quarters that the team is working on right now.
+
+
+               With that, let me just pause and open the floor for questions.
+
+
+Moderator:     Thank you sir. We will now begin the question-and-answer session. The first question comes
+               from the line of Amyn Pirani with JPMorgan.
+
+
+Amyn Pirani:   Congratulations on a good performance in a relatively tough time period. My first question is
+               just some clarification on the capacity. Because you are adding AURIC in Q4 and within AURIC
+               Phase 1 itself, you are now adding more. By when should we expect that you will be able to
+               realize this capacity?
+
+
+
+
+                                           Page 7 of 15
+
+                                                                                            Ather Energy Limited
+                                                                                                October 26, 2026
+
+               Because I understand that while Hosur is already an existing plant and adding this 6,000, you
+               can realize it immediately. When you add such a new greenfield, by when will you be able to
+               ramp it up to this 6.5 lakhs? Will it be by 2Q itself? Or will it be more by like 4Q of next year?
+
+
+Tarun Mehta:   I will have to get back on specifically for the 10,000 units that we are increasing in AURIC
+               Phase 1, but my estimate would be that even that will take a few months. Phase 1, the base
+               capacity of 42,000 units will certainly take 2 quarters to ramp up. The additional 12,000 units
+               that goes live in Q2 might ramp up a little faster. So I'm reasonably sure it will ramp up within
+               FY28, but I can't give you the exact month right now.
+
+
+               But you're right, Hosur ramp-up should be pretty rapid. So we are expecting that to happen over
+               the next, let's say, roughly -- later this quarter, and you will start seeing the results of that almost
+               immediately on a daily basis from the end of the quarter itself.
+
+
+Amyn Pirani:   Sure. That's helpful. Secondly, just on the commodity bit, like you rightly said and a lot of other
+               OEMs when we speak to them, all of them echo the sentiment that the extent and the amount of
+               time that these commodities have remained high is higher than what most of you in the industry
+               were expecting. And obviously, it's been a surprise.
+
+
+               So given where we are today, and let's assume there is no letup and no trend down even, say,
+               next calendar year, how much more pricing levers are available in the system according to you?
+               Because at some point of time, the affordability starts to become a challenge for customers.
+               Some companies like you have done a better job than some other companies. How should we
+               think about the pricing levers available going forward?
+
+
+Tarun Mehta:   Yes. So honestly, on the current portfolio, I would not want to push pricing up at least over the
+               next few quarters. I want to preserve the flexibility for our business to be able to grow sustainably
+               without offering discounts as we -- as all this additional capacity goes live over the next few
+               months. Having said that, what will happen almost organically is that Konarc has a more
+               aggressive entry portfolio, right? And it offers us better unit economics current compared to,
+               let's say, something like Rizta.
+
+
+               So it opens up the door for us to offer more affordable products without necessarily sacrificing
+               absolute gross margins or maybe even improving them. So we could essentially, in effect, reduce
+               the average ex-showroom price that the customer is experiencing without any impact on gross
+               margin. Again, at a high level, it's not an exact guidance, but you get the picture.
+
+
+               I think Konarc is this very beautiful lever that opens up this opportunity for us to effectively
+               improve our margins without improving -- without pushing prices up any further or maybe even
+               reducing the average ex-showroom price a little bit and still maintaining these margins. And
+               that's assuming that commodities do not let up at all.
+
+
+               I have been proven wrong once in some ways, but I would really like to hope that over next
+               calendar, some of these commodities will certainly cool down. Otherwise, I think it will be quite
+               a monumental thing for the automotive industry to have seen such elevated commodities for
+               such a long time.
+
+
+
+                                          Page 8 of 15
+
+                                                                                         Ather Energy Limited
+                                                                                             October 26, 2026
+
+Amyn Pirani:   Yes. No, that's true. But yes, we are all hoping for it to come down. But I think it's -- Yes.
+               Anyways, I'll come back in the queue. But thanks for this.
+
+
+Moderator:     The next question comes from the line of Kapil Singh with Nomura.
+
+
+Kapil Singh:   Congratulations for a wonderful performance. Firstly, on Konarc, Tarun, you talked about quite
+               a bit and very interesting product. Just any sense we have in regions where you have launched,
+               how many incremental bookings are coming in dealerships where Konarc is launched? Like
+               there will be some cannibalization as well, but net-net, what are you observing over there? And
+               how is the customer response so far?
+
+
+Tarun Mehta:   Yes. So I think we did not share the exact data because Konarc is, honestly, Kapil, very new in
+               our sales channel. It literally only saw 1 month of sales in Q2, month of September. And it's still
+               at an early stage. only, I believe, like not even 10,000 units have been sold by the end of Q2.
+
+
+               Having said that, the response has been very positive. There has been like in the few limited
+               markets of Rajasthan, Uttar Pradesh, where we launched it, inquiries, preorders, walk-ins,
+               everything was up several times, pointing to an incredibly strong potential. In fact, it's lifted up
+               our inquiries.
+
+
+               If you see our top-of-the-funnel metrics that we have shared, it's lifted up our inquiries by a huge
+               margin because customers across the country are quite excited. In fact, I think one thing that we
+               probably underestimated was the demand for Konarc Z, the line that we haven't -- that we have
+               showcased, but we haven't started production and sales of yet.
+
+
+               Given the solid set of features like AutoPop, MagicKey, etcetera, there is a phenomenal demand
+               for Konarc Z also. So I do believe that Rizta will have to make some more space for Konarc to
+               continue growing because its demand is very strong, definitely in the North, but I would not be
+               surprised to see very strong traction in South also.
+
+
+               One thing that initially I was maybe a little nervous is that how would a shape like this land in
+               the market? Our thesis was that Konarc -- like we built Konarc to essentially be more relatable,
+               right, like more familiar for customers. Our early concern was that what if it lands as a simple
+               design.
+
+
+               But it seems to have landed really well at least in the northern markets where people are -- many
+               customers are seeing this as a finally a proper scooter and not just an electric one, which is a
+               very complicated thing I know to articulate, but it's something consumers seem to be seeing
+               across the board. So early days, I do want to emphasize that, but very positive and strong signs
+               across the board, which is why so much capacity expansion we are doing on the back of Konarc.
+
+
+Kapil Singh:   And Tarun, secondly, just on your ASPs, we are at INR160,000 plus. Are these all scooter
+               customers because a typical scooter would cost like roughly around INR100,000, right? So -- or
+               are there motorcycle customers who are also now looking at scooters as a viable option? Just
+               your thoughts on that.
+
+
+
+
+                                         Page 9 of 15
+
+                                                                                               Ather Energy Limited
+                                                                                                   October 26, 2026
+
+Tarun Mehta:        Honestly, Kapil, I don't think it's the motorcycle customer that we are pulling in yet. I think what
+                    we continue to tap into, to a lot of people's surprise, is willingness of the same scooter buyer to
+                    pay up for better experiences, better quality and better features as demonstrated by also a much
+                    higher success of AtherStack Pro than honestly any of us has anticipated.
+
+
+                    We ask this question to each other every quarter. And consistently, the feedback from the team
+                    says that this is the scooter buyer. This is not a niche premium buyer only. This is your average
+                    scooter buyer who's seeing a lot of value into this.
+
+
+                    Just see Konarc, for example. We haven't shared exact data, but early signs of AtherStack Pro
+                    attach rates of Konarc are as strong as Rizta. There's almost no change. So I think -- I don't think
+                    these are the motorcycle buyers. I think these are still very much scooter buyers. People see the
+                    value in a quality electric product quite clearly.
+
+
+Kapil Singh:        Okay. And just lastly, any thoughts on like how is the pricing and costs shaping up for Q3? Any
+                    color over there?
+
+
+Tarun Mehta:        Sorry, raising pricing or commodities?
+
+
+Kapil Singh:        Both, actually. I mean, have you taken any pricing in Q3 so far? And is there more commodity
+                    pressure ahead in Q3?
+
+
+Tarun Mehta:        No, we are not taking any more price hikes in Q3. As I guided the quarter before, we will stay
+                    put with these prices for a while. Let Konarc also stabilize for the first next few quarters. At this
+                    point, commodities seem to be on balance flat. They don't seem to be going up. We didn't see a
+                    rising trend in the last few weeks. That would tell us that Q3 would be worse than Q2. But
+                    honestly, this world has been very volatile. So we can only play it by the ear. Let's see.
+
+
+Moderator:          The next question comes from the line of Gunjan Prithyani with Bank of America.
+
+
+Gunjan Prithyani:   Just a couple of follow-ups. Firstly, on the margin front, when I looked at the cost numbers that
+                    you've shared, it seems like there's almost like 400 basis points of commodity pressure in this
+                    quarter, but we were still able to expand the margins. I mean, almost 5 percentage point plus sort
+                    of value engineering mix or just the SKU that we've been able to manage in this quarter.
+
+
+                    I'm just trying to understand, is there any element of this 5%, 5.5% of benefit that we saw in this
+                    quarter, which sort of reverses when the supply situation normalizes or Konarc ramps up. Any
+                    thoughts there? And also, was there any element of subsidy in this quarter because that was also
+                    sort of tailing off, right?
+
+
+Tarun Mehta:        So first, subsidy continues to stay. That's pretty much same as Q2. There could be a few hundred
+                    rupees of difference here and there between variants, but broadly the same. You will see in the
+                    slide that we have shared, and I know it's very last minute. So -- but you will see in the slides
+                    that we have shared, we exactly called this out because we did not want people to believe that
+                    all of the gains that we have delivered in this quarter are necessarily structural. So a little bit of
+                    nuance we brought in the reporting this quarter.
+
+
+
+
+                                                  Page 10 of 15
+
+                                                                                               Ather Energy Limited
+                                                                                                   October 26, 2026
+
+                    We believe roughly about 5.3% margin improvement that we have driven over the last 2 quarters
+                    is broadly structural in nature. What I mean by that is this is largely price hikes that seem to have
+                    landed well in the market or cost reductions, which are obviously permanent, VAVE, so on and
+                    forth. What's a little bit more lever kind or more temporary in nature are things like SKU
+                    management and pullback of incentives or other support mechanisms. In Q2 compared to Q4,
+                    that amounted to roughly about 2.7%.
+
+
+                    So this is a lever that I would say, think of 2.7% here as a lever that we will exercise in a more
+                    finite time window if we are supply constrained or if commodities are this elevated. If either of
+                    this cools down, then we will probably open up this lever again. So TLDR, 2.7% is a bit more
+                    temporary in nature.
+
+
+Gunjan Prithyani:   Okay. So just to put it other way, 5.3% is the price and cost improvements that you all have
+                    made, 2.7% is the mix or other supply stuff that gave you a tailwind. But it's not necessary that
+                    this entirely reverses in a normalized supply environment because some of these mix benefits
+                    will still prevail, right? Like this 2.7% is also not one-off. I'm just to be amply clear on that.
+
+
+Tarun Mehta:        It's not one-off. It's not one-off. That's why I'm using the word lever. So if, for example, we
+                    continue to remain, let's say, we supply another 20% next quarter. But if demand goes up even
+                    more, then essentially this lever will pretty much apply in the same way or a large part of this
+                    lever will still continue to be very valid because we'll obviously push the SKU in a more healthy
+                    trend in our favor.
+
+
+                    So overall a 5.3% improvement from -- compared to Q4 FY26, out of which 2.7% is a more
+                    temporary lever that we will -- that we can choose to activate if we enjoy this supply-demand
+                    mismatch or if the commodities are this outlandishly elevated.
+
+
+Gunjan Prithyani:   Got it. And the second question I had was on the EL platform. Any thoughts that you can give
+                    on what is the sort of cost improvement we get on this platform? And this is irrespective of the
+                    mix because eventually, at some point of time, Rizta will also move to EL platform. So what's
+                    the structural benefit we get in terms of cost improvement on EL?
+
+
+Tarun Mehta:        So we'll have to give it some quarters to see where it lands up. But even within the first literally
+                    1 or 2 months of production, when typically new products have a very elevated cost structure,
+                    Konarc like-to-like is a few thousand rupees cheaper compared to Rizta already right off the bat.
+                    And we believe that with stabilizing production, this difference will expand quite materially.
+
+
+                    Again, it's -- sorry, Gunjan, it's very, very variant dependent, but I would not be surprised if a
+                    like-to-like version of Konarc is 6%, 7% better in gross margins to Rizta in the long-term. That
+                    would be quite a believable long-term estimate.
+
+
+Gunjan Prithyani:   Okay. Got it. And lastly, on the rollout of Konarc, you did share a little bit in the earlier parts,
+                    but I'm just trying to understand a little bit more on how we've thought about rolling this out
+                    because it's still -- it will take us about 2 quarters to ramp up the capacity. And we're going very
+                    phased-wise, essentially targeting newer markets in North, whereas I'm sure there is already a
+                    lot of inquiries and demand you must be seeing in your home market like South and middle of
+                    India.
+
+                                             Page 11 of 15
+
+                                                                                             Ather Energy Limited
+                                                                                                 October 26, 2026
+
+                   So I mean, some philosophy on why did we follow this geo rollout as well as the INR99,000
+                   variant, which is where I think a lot of excitement lies, which will expand the TAM. That comes
+                   only in quarter 1 or quarter 2 basis the time line that I recall from the Community Day. If you
+                   can just share your thoughts on how did we think about this rollout?
+
+
+Tarun Mehta:       Yes. So when we were planning Konarc's variant rollout many quarters ago, at that point, we
+                   had estimated that Konarc will provide us the much-needed volume growth and hence, market
+                   share growth in what would have been otherwise a normal market, right? So at that point, we
+                   had prioritized the entry versions of Konarc first and then the more higher-end variants, the one
+                   with the more magical features.
+
+
+                   What happened as we got very close to Konarc's launch in ACD 2026, which is 29th August this
+                   year, the situation had changed quite a lot with us no longer having the capacity even to meet
+                   450 and Rizta demand, which basically then presented us with a very complicated situation that
+                   why would you want to go live with our entry variants of Konarc and cannibalize very, very
+                   high margin generating variants today.
+
+
+                   So we changed the sequence a little bit, which is why Konarc's mid variants, SR2 and SR3 have
+                   gone live today. SR1 will go live a few months later. It will go live by Q4. And SR1 going live
+                   is the one that we obviously believe can drive a much larger volume. So we only want to bring
+                   SR1 to the market when we have Aurangabad capacity available to us. Otherwise, it's honestly
+                   a margin loss for us, which is not very healthy.
+
+
+                   I would have loved to -- in current situation, I would have actually loved to launch Z first because
+                   of the demand that it has, but we can't change so much now. So mid variants are launching first,
+                   then we will see entry variants and then we will see the high-end variants. Even within this, we
+                   have started with northern markets first, then Rest of India, then Middle India and then Western
+                   India and then Southern India.
+
+
+                   So you will see these growth levers stacked up one on top of other consistently every other
+                   month. This gives us better control and also allows us to ensure that we are not essentially just
+                   dispersing our product across the country with no real depth anywhere. So that's why phase-
+                   wise, geography-wise launch.
+
+
+Moderator:         The next question comes from the line of Krupashankar NJ with Avendus.
+
+
+Krupashankar NJ:   Congrats on great set of numbers. Just wanted to get a sense around the inquiries piece. Can you
+                   just give some color around demand across rural and urban clusters? How is it shaping up? We
+                   are hearing that rural is facing a lot of issues. So just wanted to get some sense around that.
+
+
+Tarun Mehta:       So we are not honestly present in rural markets yet. So it would be incorrect for me to really
+                   comment on that. What I can comment at a high level is that we are seeing Tier 2 city penetration
+                   rising faster than any other segment, Tier 1 or Tier 3.
+
+
+                   Particularly in the western part of the country, in places like Maharashtra, Madhya Pradesh --
+                   sorry, particularly in Middle India by our definitions, we are seeing phenomenal Tier 2
+                   penetrations. I think Tier 2 penetrations in Maharashtra at about 18%, 19% -- sorry, yes, 18%,
+
+
+                                            Page 12 of 15
+
+                                                                                              Ather Energy Limited
+                                                                                                  October 26, 2026
+
+                   19%. So very healthy overall. I will not be able to comment on rural markets, particularly, but
+                   yes.
+
+
+Krupashankar NJ:   Tier 2 plus gives us a good picture of our test. Thanks for that. The second one is on dealer
+                   network. While you did mention that capacity ramp-up is quite important for further scaling up
+                   our dealer network. Now that you have charted out how the capacity is going to come up over
+                   the next 1 year, how are you expecting to scale up your dealer network across geographies?
+
+
+Tarun Mehta:       Yes. So we're definitely looking at starting the dealer -- the network expansion -- looking at
+                   restarting network expansion in a big way very soon now. Teams have picked up the threads
+                   across the country. There are hundreds of LOIs that we have held up for the last few months
+                   because as I said in the previous earnings call, it is very important for us that we set expectations
+                   correctly for our dealer partners, and we don't let them open up and do the capex if we can't
+                   supply healthily to them.
+
+
+                   But with now increasing -- higher capacity being cited for Hosur and AURIC Phase 1 going live
+                   very soon, expect us to start focusing on network expansion in a big way from the coming --
+                   actually from pretty much end of this quarter itself. So you will start seeing noticeable numbers
+                   from Q4 there.
+
+
+Krupashankar NJ:   Got it. And last question from my side. Just wanted to get a sense around the attach rates for
+                   AtherStack. Now you did mention in the previous call that in Konarc, you're expecting that it
+                   should be close to about 70%-odd, but the recent launch, you did mention earlier in the call that
+                   it's as strong as Rizta. So are you probably seeing a revised attach rate expectation going ahead
+                   while maintaining at close to about 90%-odd even as Konarc scales up. Is that the right
+                   assumption to make?
+
+
+Tarun Mehta:       I would say it's too early to make that assumption. We have only launched Konarc meaningfully
+                   in just a few handful of markets yet. So I would urge some more patience. While early signs are
+                   strong and heartening, it is also very likely that Konarc will be a bit more non-South heavy for
+                   us. So we'll have to see how the final attach rates play out. I would say we'll have to wait for at
+                   least 2 quarters to get a better sense here.
+
+
+Moderator:         The next question comes from the line of Yash Agrawal with Nirmal Bang.
+
+
+Yash Agrawal:      Just wanted to know what is the current experience center breakup like in FY26 and it was
+                   around 700 stores we have added in the first half? And what is the expansion plan for rest of the
+                   year?
+
+
+Tarun Mehta:       So I think we've added roughly -- I think, less than 50 more experience centers in the last 2
+                   quarters. As I said in the previous question also, we took a conscious call to slow down network
+                   expansion because we do not want dealers to sit on without inventory. We will restart network
+                   expansion in the coming -- in the next couple of months.
+
+
+Yash Agrawal:      And also like our non-vehicle sales revenue is around 15%. That was used to be around 11%,
+                   12% last year. So could you please provide breakup of that non-vehicle revenue? How much is
+                   coming from software, how much from the other revenue stream?
+
+
+                                            Page 13 of 15
+
+                                                                                          Ather Energy Limited
+                                                                                              October 26, 2026
+
+Tarun Mehta:    I'm sorry, I don't think we are providing that breakup right now. The bulk of this continues to be
+                adding more than 50% continues to be AtherStack Pro with probably a reasonably equal split
+                between accessories and servicing.
+
+
+Yash Agrawal:   And what is the typical margin profile for non-vehicle revenue versus the vehicle sales? If you
+                have some tentative idea, like how much is it?
+
+
+Tarun Mehta:    Yes, very different margin structures fundamentally. So something like accessories will be
+                probably in the 30% to 40% kind of gross margin structure. Something like spares will be 40%,
+                45% maybe. Again, it's a range will change once in a while. And something like AtherStack Pro
+                is almost 80%, 90% gross margin for us.
+
+
+Yash Agrawal:   Okay. And just one last question on electric motorcycle launch time plan. So are we planning to
+                like launch it initially like from FY29 to FY28 or our plans remain the same, like it will take at
+                least 2 years?
+
+
+Tarun Mehta:    I have no guidance right now for electric motorcycles. We continue to work. We continue to
+                develop the tech, but we will refrain from sharing any time lines for motorcycles today.
+
+
+Moderator:      The next question comes from the line of Nikhil Kale with Invesco.
+
+
+Nikhil Kale:    Congrats on the really good set of numbers. So just one question. You spoke about the
+                prioritization of the variants and geographies. So I just wanted to understand, sir, typically, what
+                we've seen is OEMs, when you kind of operate in a situation where demand kind of outstrips
+                supply, tend to prioritize the top variant, right?
+
+
+                So -- and I think we had gone with this particular thought process. But now how much freedom
+                do we have to maybe accelerate the high-end variant launch and maybe just change that
+                sequence? Is that the flexibility there?
+
+
+Tarun Mehta:    Nikhil, in theory, there is flexibility, but not one that we would likely exercise because such a
+                last-minute change to industrialization plans tends to cause more chaos and probably
+                inefficiencies in spends. So we will stay with the plan. We've already tweaked it enough with
+                the mid variants being prioritized over the entry variant. But beyond this, the entry variant will
+                come first and then the top-end variants.
+
+
+                Lastly, we should be okay because Rizta top-end variant demand has been also, frankly, quite
+                fantastic. So if anything, I think Konarc will present us with a great opportunity to expand
+                margins a bit more. But I think it's okay for the market to wait for a few months while we
+                continue executing on our current plans.
+
+
+Nikhil Kale:    And any quantitative data around the kind of interest you would have seen for the entry versus
+                mid versus premium variants for Konarc?
+
+
+Tarun Mehta:    Unfortunately, I would not call it quantitative. Those are just qualitative feedbacks from sales
+                channels and sales channels are right now super excited. Qualitatively, I can tell you, I've heard
+                things like people walking into showrooms in Northern markets and asking for the scooter which
+
+
+                                         Page 14 of 15
+
+                                                                                                    Ather Energy Limited
+                                                                                                        October 26, 2026
+
+                             opens by kneeling. But honestly, I would not read anything into it. That's just early good viral
+                             marketing. We'll have to see once we put the product out, how people take to it. But we are --
+                             obviously, we are very happy with the early response. So we are excited.
+
+
+Moderator:                   Thank you. Ladies and gentlemen, that was the last question for today. I now hand the conference
+                             over to Mr. Murali for closing comments.
+
+
+Murali Sashidharan:          Yes. Thank you. Thank you, everyone. We really appreciate all of you joining us today and
+                             taking the time. We look forward to updating you on our developments in the next few quarters
+                             and wishing you all a great week ahead. Thank you.
+
+
+Moderator:                   Thank you, sir. On behalf of Ather Energy Limited, that concludes this conference. Thank you
+                             for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+(This document has been edited for readability purpose)
+
+
+
+
+Contact Information:
+
+
+E-mail: ir@atherenergy.com
+
+
+
+Registered Office:
+Ather Energy Limited (formerly known as Ather Energy Private Limited)
+3rd Floor, Tower D, IBC Knowledge Park,
+#4/1, Bannerghatta Main Road, Bangalore, 560029, Karnataka
+
+
+
+
+Website: www.atherenergy.com
+
+
+
+
+                                                     Page 15 of 15
+

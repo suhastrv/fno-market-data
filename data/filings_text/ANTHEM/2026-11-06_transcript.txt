@@ -1,0 +1,1163 @@
+                                                                     Date: November 06, 2026
+
+ To,
+ BSE Limited,                                       National Stock Exchange of India Limited
+ 20th Floor, P.J. Towers,                           Exchange Plaza, C-1, Block G,
+ Dalal Street,                                      Bandra Kurla Complex, Bandra (E),
+ Mumbai - 400001.                                   Mumbai – 400 051
+ BSE Scrip Code: 544449                             NSE Scrip Symbol: ANTHEM
+
+
+Subject: Transcript of Earnings Conference Call.
+
+Dear Sir/Ma’am
+
+Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, please find enclosed the transcript of the earnings conference call
+held on November 04, 2026, at 12:30 PM, post announcement of Unaudited Standalone and
+Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026.
+
+The said transcript is also available on website of the Company at https://anthembio.com/.
+
+We request you to kindly take the same on record.
+
+Thanking you,
+
+Yours truly,
+For Anthem Biosciences Limited
+(Formerly known as Anthem Biosciences Private Limited)
+ DIVYA         Digitally signed by
+               DIVYA PRASAD
+
+ PRASAD Date:        2026.11.06
+               15:54:12 +05'30'
+_____________________
+Divya Prasad
+Company Secretary & Compliance Officer
+Membership No: A41438
+
+             “Anthem Biosciences Limited
+     Q2 and H1 FY27 Earnings Conference Call”
+                  November 04, 2026
+
+
+
+
+MANAGEMENT: MR. AJAY BHARDWAJ – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – ANTHEM BIOSCIENCES
+            LIMITED
+            MR. GAWIR BAIG – CHIEF FINANCIAL OFFICER –
+            ANTHEM BIOSCIENCES LIMITED
+            MS. RADHIKA KEDIA – INVESTOR RELATIONS –
+            ANTHEM BIOSCIENCES
+
+
+
+
+                        Page 1 of 18
+
+                                                                                   Anthem Biosciences Limited
+                                                                                          November 04, 2026
+
+Moderator:       Ladies and gentlemen, good day and welcome to the Q2 and H1 Earnings Conference Call of
+                 Anthem Biosciences. As a reminder, all participant lines will be in the listen-only mode, and
+                 there will be an opportunity for you to ask questions after the presentation concludes. Should
+                 you need assistance during the conference call, please signal an operator by pressing star then
+                 zero on your touch-tone phone. Please note that this conference is being recorded.
+
+
+                 I now hand the conference over to Ms. Radhika Kedia from Anthem Biosciences. Thank you,
+                 and over to you, ma'am.
+
+
+Radhika Kedia:   Thank you, Syesha. I am Radhika Kedia from Investor Relations at Anthem Biosciences, and I
+                 welcome you all to our earnings conference call to discuss our Q2 and H1 FY27 results. Our
+                 results are uploaded under the Investor tab of the website that shows financial information in
+                 case you would like to download and reference them during this discussion.
+
+
+                 On call today, we have with us Mr. Ajay Bhardwaj, Managing Director and Chief Executive
+                 Officer, and Mr. Gawir Baig, Chief Financial Officer of Anthem Biosciences. We will begin the
+                 call with brief opening remarks from the management, followed by a Q&A session. Please note
+                 that certain statements made during the call may be forward-looking in nature. Such forward-
+                 looking statements are subject to certain risks and uncertainties that could cause the actual results
+                 or projections to differ materially from those statements.
+
+
+                 Anthem Biosciences Limited will not be in any way responsible for such actions taken based on
+                 such statements and undertakes no obligations to publicly update those forward-looking
+                 statements.
+
+
+                 I would now like to hand over the call to Mr. Ajay Bhardwaj for his opening remarks. Thank
+                 you, and over to you, sir.
+
+
+Ajay Bhardwaj:   Thanks, Radhika. Good afternoon, everyone. This is Ajay, and I thank you for joining us as we
+                 share our key financial highlights for Q2 and H1 FY27. First of all, we are pleased to report a
+                 robust performance for Q2 FY27, with consolidated revenue from operations going up to
+                 INR594 crores for the quarter. The CRDMO business delivered INR509 crores of revenue,
+                 supported by the Specialty Ingredients, which delivered INR85 crores revenue.
+
+
+                 The EBITDA was INR330 crores, with EBITDA margins at 50.6%. EBITDA for Q2 FY27
+                 includes other income of INR59 crores, whereas the corresponding figure for Q2 FY26 was
+                 INR48 crores.
+
+
+                 PBT was INR296 crores, while PAT, that is profit after tax, was INR211 crores, with PAT
+                 margins at 32.04%. Moving on for the half-year results, the consolidated revenue from
+                 operations was INR1,012 crores. The CRDMO business delivered INR850 crores, and Specialty
+                 Ingredients was INR162 crores of revenue.
+
+
+                 EBITDA was INR506 crores, with EBITDA margins for the half year being 46.2%. EBITDA
+                 for the corresponding H1 FY27 includes other income of INR84 crores, and the corresponding
+                 figure of H1 FY26 was INR70 crores. Profit after tax, PAT, was INR331 crores, with PAT
+                 margins at 30.2% for the half year.
+
+
+                                           Page 2 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+                 The net cash position of the company as of September 30th, 2026, is INR1,534 crores. I would
+                 like to state that we expanded our EBITDA and PAT margins year-on-year by maintaining strict
+                 discipline around cost efficiencies, yield optimization, and workforce productivity.
+
+
+                 We have further solidified our industry-leading margins and are well-positioned to sustain this
+                 performance for the whole year. Underlying demand continues to remain strong, and we are
+                 confident of our ability to sustain growth and create long-term value for all stakeholders.
+
+
+                 I now hand you back to the moderator, and thank you very much for listening.
+
+
+Moderator:       Thank you very much. We will now begin the question-and-answer session. The first question
+                 is from the line of Akash, an Individual Investor. Please go ahead.
+
+
+Akash:           YES. Hi, sir. I have two questions. First one is, since our inception, how have customer
+                 expectations evolved from the client or customer's perspective when the client faces a complex
+                 molecule or an unexpected technical problem? Is Anthem increasingly becoming their first
+                 choice or partner? They intensively turn for the solution. And what do you believe makes
+                 Anthem stand out in the mind of our clients or our partners' perspective?
+
+
+Ajay Bhardwaj:   Akash, thank you very much for asking a question. A very different question from usually what
+                 we get in investor calls. But you are absolutely right. We have always played on the thesis that
+                 Anthem is the go-to partner for more complex molecules, where the customer is looking for not
+                 just a pair of hands to get the job done, but for looking at intellectual contribution and creating
+                 options where we can generate IP for the client, as well as give them multiple options at solving
+                 that problem.
+
+
+                 The way our customer expectations are right now stationed is that increasingly, they look at
+                 Anthem as a solution provider, not just as a contract researcher or a contract manufacturer. You
+                 have hit the nail on the head. The customer expectations have moved quite a lot in the last few
+                 years, and that is where I think Anthem distinguishes itself from its peers.
+
+
+                 We tend to position ourselves, and with the track record to show it, that we provide unique,
+                 technology-driven, and novel solutions for our customers. The customer expectation certainly
+                 has moved up.
+
+
+Akash:           Okay. The second one on, given current geopolitical environment and dependence on the
+                 specialized enzymes, biocatalysts, and other critical process inputs, are we largely self-sufficient
+                 or backward integrated, or do certain supply dependencies exist?
+
+
+Ajay Bhardwaj:   You are breaking up a bit, but if I understand the question correctly, you have asked whether we
+                 are self-sufficient in providing enzyme-based or biotransformation-based solutions to our
+                 customer. Is that correct?
+
+
+Akash:           Yes.
+
+
+Ajay Bhardwaj:   Sorry? Yes?
+
+
+Akash:           Yes.
+
+                                          Page 3 of 18
+
+                                                                                 Anthem Biosciences Limited
+                                                                                        November 04, 2026
+
+Ajay Bhardwaj:   Okay. Okay. We are, I would say, largely. When any project that moves forward a bit, while in
+                 the initial phases, we may try out from different sources because you obviously can't put your
+                 resources on early development. But when the project starts to move from early development
+                 into more mature programs, in those cases, we are almost always self-sufficient in having the
+                 enzymes backward integrated or doing all our own fermentation-based solutions.
+
+
+                 Yes, the endeavor and the effort always is that we do not depend on supply chains outside of the
+                 country for two reasons. One is that they have been very whimsical, the supply chains. Secondly,
+                 the cost of goods. Our customers do depend on us to provide a very competitive cost of goods.
+                 That's only possible if we are backward integrated. Yes, we are quite self-sufficient.
+
+
+Akash:           Okay. Thanks. No further questions.
+
+
+Ajay Bhardwaj:   Thank you.
+
+
+Moderator:       Thank you very much. The next question is from the line of Gourav Bhama from JM Financial.
+                 Please go ahead.
+
+
+Gourav Bhama:    YES. Hi. Thank you for the opportunity, sir. I had a small question that I saw in our portfolio,
+                 whereas last quarter we had 14 commercial and 10 late-stage molecules. It has now evolved to
+                 15 commercial and nine late-stage molecules. Is that reduction of one in late stage and increase
+                 in one commercial, has one molecule moved towards commercial stage A?
+
+
+                 And B, if so, can you throw some sort of shade on or some sort of light on what are the prospects
+                 of that particular molecule? When can we expect that to ramp up or something along those lines?
+                 At least, what sort of peak estimates are there being expected from the molecule? Any molecule.
+
+
+Gawir Baig:      Thanks, Gourav. Yes, there has been a movement from a late-stage program to a commercial-
+                 stage program. The program was approved in this current quarter, Q2 FY27, because of which
+                 the number of commercial molecules have been now 15, and late-stage molecules 9.
+
+
+                 Regarding your other question on giving more color on the commercial molecule, I would refrain
+                 from giving any comments on the color of the molecule in terms of what sort of indication, what
+                 sort of peak sales estimates. It has come from an emerging biotech portfolio. That is all I could
+                 say. And the prospects are good because the indications are on a chronic care category.
+
+
+Ajay Bhardwaj:   Gourav, we are not at liberty to disclose more details because this is the nature of the contracts
+                 that we sign with our customers. Much as we would like to talk about it, we can't.
+
+
+Gourav Bhama:    Understood, sir. That is all from my end, and thank you for the opportunity.
+
+
+Ajay Bhardwaj:   YES, thank you.
+
+
+Gourav Bhama:    Sir, another call to interrupt you. Sorry, small follow-up I keep in my mind. So, there recently
+                 has been a revival of biotech funding. Are we seeing some sort of increase in the RFP inflows
+                 or at least on the development pipeline? Are we seeing some sort of benefit on that side? Biotech
+                 funding revival?
+
+
+
+                                         Page 4 of 18
+
+                                                                                      Anthem Biosciences Limited
+                                                                                             November 04, 2026
+
+Ajay Bhardwaj:       YES, certainly we are seeing a better inflow of queries, but this revival in biotech funding has
+                     been a mixed bag. I think, at the same time, there's been a lot of geopolitical uncertainty, which
+                     also puts people at. They're not at ease in the mind. Your mind is at unease. But at the same time,
+                     yes, we are certainly seeing better, more RFPs, RFQs in the last quarter or so. Yes, you're right.
+
+
+Gourav Bhama:        Understood, sir. Thank you. Thank you for the opportunity.
+
+
+Moderator:           Thank you very much. The next question is from the line of Sidharth Negandhi from CWC.
+                     Please go ahead.
+
+
+Sidharth Negandhi:   Hi, thank you for the opportunity. Three questions. One, could you help us understand the
+                     revenue salience from U.S., Americas, and rest of the world? The second was also similarly the
+                     split between early-stage research revenue and development and manufacturing or commercial
+                     revenue.
+
+
+                     You had highlighted at some point in the DRHP about the reliance on China for certain supplies,
+                     given certain challenges in the alternate supply chain. Any updates on that in terms of developing
+                     alternate vendors? Sorry, one more question. If you could share the concentration of revenue in
+                     terms of revenue from top customers, top five customers, and top 10 customers.
+
+
+Gawir Baig:          Thanks, Sidharth. A lot of data has been asked in this question.
+
+
+Ajay Bhardwaj:       Lot of questions. Very good questions. Okay, sure.
+
+
+Gawir Baig:          We will go one by one. In terms of revenue contribution across geographies, roughly 84% is
+                     international for us. About 16% will be India, domestic, and largely resembles our CDMO and
+                     our Specialty Ingredients split. Within that 84% of internationals, of exports, U.S. will be about
+                     22%-24%. Europe will be about 60%-odd. ROW will be hardly about 1% or 2%.
+
+
+                     While Europe is a destination, the customer origin is all big pharma customers, so across the
+                     globe, not just specific focused around a particular geography in Europe. So that is going to be
+                     the split on the revenue contribution side. In terms of the question that you had asked on the
+                     reliance on China, yes, we had mentioned in the DRHP on account of one particular product
+                     where we had to outsource. There was a reliance on a Chinese vendor.
+
+
+                     But over the course of this last, I think, 18 months, we have moved away from that reliance. If
+                     on current numbers on H1 basis, we would say that almost 75% or 75%-78% of our procurement
+                     is domestic procurement. China would be about 20%-21% of our procurement. So reliance has
+                     definitely come down.
+
+
+                     We have been looking at developing a lot of captive vendors domestically who could help us in
+                     terms of supplying some of the starting materials as well. So that's the work which we are trying
+                     to do to build the ecosystem on the domestic supplies as well. Sorry, that was the third question.
+                     I missed out on the second.
+
+
+Sidharth Negandhi:   The second one was CRO and CDMO split and the customer concentration piece?
+
+
+
+
+                                              Page 5 of 18
+
+                                                                                     Anthem Biosciences Limited
+                                                                                            November 04, 2026
+
+Gawir Baig:          Okay, YES. CRO, CDMO split. So roughly about 84% of our business is CDMO -- sorry, 86%
+                     is CDMO, or broadly 85% CDMO and 15% Specialty Ingredients. From that 85%, we would
+                     have given out that 65% of our business comes from commercial manufacturing of molecules
+                     which have been approved. The balance 20% will be equally split between the R&D and the
+                     development supplies. Now, on the question on…
+
+
+Sidharth Negandhi:   Customer concentration…
+
+
+Gawir Baig:          Okay. In terms of top five, top five will be about 50-odd percentage of our business. Top 10 will
+                     be about 80-odd percentage of our business.
+
+
+Sidharth Negandhi:   Got it. Just to follow up to the first one, in terms of growth in the U.S. -- in the international
+                     piece, given the strong growth in CDMO in H1, which one of these two has grown faster, and
+                     what would you attribute that to?
+
+
+Gawir Baig:          You are talking about the geography growth?
+
+
+Sidharth Negandhi:   YES. You mentioned 22%-24% from the U.S. and E.U. being 64% of the CDMO growth in H1
+                     that you have seen, which is very, very strong growth of part, sorry, or rather, of the CRDMO
+                     growth that you have seen, right? What is the kind of split that you have seen?
+
+
+Ajay Bhardwaj:       Listen, the geography, as Gawir explained, is not important. We may sell to Europe, but the
+                     company is a global company. It may be an American company, we sell it to their facilities in
+                     Europe. From there, it is distributed globally. Sometimes we will sell to a U.S. geography, but
+                     it could be a European company.
+
+
+                     Even though, a lot of the finished dosage and the drug product is very often made either in
+                     Europe, more in Europe than in America. Therefore, a lot of the product is going to Europe. We
+                     do not really track why this is. It is a global company.
+
+
+Sidharth Negandhi:   Got it. Very useful. I have a few more questions. I will get back in queue. Thank you.
+
+
+Ajay Bhardwaj:       Thank you.
+
+
+Moderator:           Thank you very much. The next question is from the line of Vijay Shah from Prudential Global
+                     Investment Management. Please go ahead.
+
+
+Vijay Shah:          One question on the revenue from operation growth of 8% for the quarter. Can you break it down
+                     how much would be the currency benefit out of it?
+
+
+Gawir Baig:          With respect to the currency benefit, in terms of this quarter, it has been more or less. The
+                     currency has been very range-bound within the INR94.5, INR96.5 range. We don't track on the
+                     constant currency, etcetera, sort of a growth. What we provide over here is overall numbers on
+                     a rupee terms. But currency has been quite range-bound for this quarter.
+
+
+Ajay Bhardwaj:       YES, this quarter has been quite range-bound. He's right.
+
+
+
+
+                                              Page 6 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+Vijay Shah:      Fair to assume for the full year on the Y-o-Y basis growth, majority would be the ex-of currency
+                 business growth?
+
+
+Gawir Baig:      Yes. I mean, if I look at our projections right now, we are assuming that the currency will be
+                 more or less range-bound itself. We will not be having a significant sort of a benefit from the
+                 currency growth. In any case, if there is a benefit that gets, that flows into our FX income, FX
+                 gains, which is reflected in the other income part.
+
+
+Vijay Shah:      Understood. One more question. Your capex guidance for the year, are there any alteration or is
+                 it intact?
+
+
+Gawir Baig:      It is intact. Our capex guidance for the next two years, largely on account of Unit four, which is
+                 a large-scale facility which we are building across 30 acres, is close to about INR1,200 crores,
+                 and we continue to have that guidance. It's a setup that we are building, which is equivalent to
+                 our Unit 1, 2, and three put together in phase one itself. Phase two will be, again, equal setup as
+                 Unit 1, 2, and 3, but that's going to be after Phase 1. For the Phase 1 guidance, the INR1,200
+                 crores remains intact.
+
+
+Vijay Shah:      Okay. Thank you so much.
+
+
+Ajay Bhardwaj:   Thank you, Vijay.
+
+
+Moderator:       Thank you very much. The next question is from the line of Mr. Roni Naik from Arete Group
+                 Family Office. Please go ahead.
+
+
+Roni Naik:       Hi. Congratulations on your good set of numbers. First of all, I would like to ask about your
+                 capex guidance post FY28, like the Phase 2 for your Unit 4. And my other question is, like, in
+                 this quarter, we are able to witness 3% increase in your gross margin. Is that on account of less
+                 reliance on the procurement of Chinese companies?
+
+
+Gawir Baig:      So, see, capex guidance beyond FY28, I mentioned that Phase 2 will be equivalent to our Phase
+                 1. Once our capex is approved by the board, then we will come back to the investor community
+                 and give the guidance. I do not want to give any guidance right now. But fair to assume that our
+                 numbers will, because the size is equivalent to our Phase 1, it will be in the similar range.
+
+
+                 In terms of the gross margin improvement, I would say that it is a mix of everything because,
+                 yes, the reliance on the Chinese sourcing has reduced. We have completely gone in-house from
+                 a manufacturing point of view. So obviously, there is an increase in margins on account of that.
+                 The other reason for increase in margins is the shipments, what we do to customers.
+
+
+                 Multiple customers, depending upon the kind of product, etcetera, have a different margin
+                 profile. So the product mix also does play a role when it comes to the gross margin profile for
+                 the business.
+
+
+Roni Naik:       Okay. My other question is -- like, we are going forward from longer perspective, we are
+                 focusing more on five key segments: oligonucleotides, lipids, ADCs, peptides, and RNAi. Can
+
+
+
+
+                                          Page 7 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+                 you provide us a brief on, like, out of these 15 commercialized molecules and nine late Phase 3
+                 molecules, how many projects do we have between these categories? Just a broader guidance.
+
+
+Gawir Baig:      On the commercial molecules, we do have a decent, have a few…
+
+
+Ajay Bhardwaj:   RNAi…
+
+
+Gawir Baig:      Molecules which is on the RNAi space, which we supply. On the late stage, as well as the
+                 recently commercial molecules, there would be some on the peptides and on the oligonucleotides
+                 side, and on the high potent ADCs side will be there.
+
+
+Roni Naik:       Okay.
+
+
+Ajay Bhardwaj:   High potent is -- but there is a lot of early stage work being done in this area. So, among these
+                 reported molecules, this takes about six or seven years to get to a stage, even eight years to get
+                 to a Phase 3. But the newer projects that we are doing are in these new spaces. So, that is early
+                 stage. There is a lot of work happening there.
+
+
+Roni Naik:       Okay. One last question. As previously you have mentioned about this backwardly. Sorry to
+                 interrupt. Just on this peptide side, we are developing molecules just on the basis of this GLP-1
+                 or it is outside of the GLP-1 as well?
+
+
+Ajay Bhardwaj:   Outside GLP-1 as well.
+
+
+Roni Naik:       Okay.
+
+
+Ajay Bhardwaj:   GLP, of course, we are doing. There is a lot of work happening in all kinds of areas. It is not just
+                 going to be metabolism-based disease, metabolic-based therapies. Peptides are being looked at
+                 for oncology, for immunology. So there is a lot of work happening in peptides, which is outside
+                 just the GLP-1 space.
+
+
+Roni Naik:       Okay. As one last question, that post FY28, I asked on the guidance of capex. Just a broader
+                 perspective, we assume that INR1,200 crores of capex would go ahead. So just can you guide
+                 how much you would allocate it from NCE perspective and how much on the NBE perspective
+                 side?
+
+
+Ajay Bhardwaj:   Again, hard to say. This for us, we are actually in fermentation, we are making a significant
+                 investment as well. I would think that at least 30%-35% will go in biology, the rest in chemistry.
+                 But if you ask me a specific breakdown further than that is very often it is a little fungible. We
+                 have to be very driven by our customer demand. But YES, you are right, 30%-35% will be
+                 biology for sure.
+
+
+Roni Naik:       Okay. Thank you so much for your update. Best of luck for the next quarter.
+
+
+Moderator:       Thank you very much. The next question is from the line of Anish from ICICI Life. Please go
+                 ahead.
+
+
+
+
+                                          Page 8 of 18
+
+                                                                                 Anthem Biosciences Limited
+                                                                                        November 04, 2026
+
+Anish:           YES, hi. Thanks for the opportunity. I just wanted to understand on the margins, we have seen
+                 an uptick in this quarter. Going forward, this uptick has been realized because of what, firstly,
+                 that, and going forward, should we assume these levels of margins to sustain, or do we see any
+                 different number that we should be working with for the quarters ahead? That is the first
+                 question?
+
+
+Gawir Baig:      Okay. Thank you. The uptick in margins is on account of the operating leverage. Last quarter,
+                 Q1, our numbers and hence the margins was on the lower side. This quarter, there has been a
+                 sizable ramp up on revenues. If you look at the cost profile, the cost profile has remained more
+                 or less the same, and hence the margins have moved up. But I would say that we have delivered
+                 about 50% sort of EBITDA margin. Last year, in full year, we had delivered about 43%. I mean,
+                 I am talking about including other income.
+
+
+Anish:           YES.
+
+
+Gawir Baig:      I think from a sustainability point of view, we will deliver what we have delivered in FY26. So,
+                 that number is definitely sustainable. But I mean, we are already at a significantly high margins.
+                 So, I do not want to say that about a 50% number, but what we have delivered in the past is
+                 definitely possible.
+
+
+Ajay Bhardwaj:   I mean, those are sufficiently high margins, and I think we are confident that we can sustain
+                 those. And that is what we will be more comfortable talking about.
+
+
+Anish:           Sure, thanks. My second question being, I just want to understand the growth construct for this
+                 year in terms of the revenue growth. If I look at the H1 FY27 number, there has been about like
+                 a de-growth of 7% in the first half. While we do understand that CDMO revenues are lumpy and
+                 one should look at a full year as compared to individual quarters. Just want to understand for the
+                 full year of FY27, what are the kind of growth that we foresee for the business and the number
+                 that we should be working with? Thanks.
+
+
+Gawir Baig:      See, Anish, we refrain from giving any guidance on what the full year number is. Definitely,
+                 what we have done in the past historically, we will definitely look at try to deliver that. Double-
+                 digit growth definitely we will try to deliver. Along with that, from a margin profile point of
+                 view, because of a superior margin profile, we are very confident on the EBITDA and PAT
+                 growth.
+
+
+                 We have a lot of catch-up to do from our quarter one being low. So, quarter two, there has been
+                 some catch-up. Quarter three, there will be catch-up. Quarter four also, there will be catch-up.
+                 So, historically, what we have delivered in the past, we will be able to deliver on those numbers.
+
+
+Anish:           Sure. Okay. Thank you.
+
+
+Ajay Bhardwaj:   Thank you.
+
+
+Moderator:       Thank you very much. The next question is from the line of Bansi Desai from JP Morgan. Please
+                 go ahead.
+
+
+
+
+                                          Page 9 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+Bansi Desai:     YES, hi. Thanks for taking my question. Firstly, just on the newly commercialized molecules
+                 that we have launched over the last 12-24 months, and the recent ones including as well, how
+                 should we think about the collective contribution, say, over a medium term, over a three to four
+                 year period?
+
+
+                 Can this become meaningful in terms of addition? The reason why I'm asking is that maybe in
+                 three to four years' time, we could also see patent expiries impacting some of our key molecules
+                 that we have today. Does these launches that we've had take care of the impact that we could see
+                 of patent expiries in some of our key molecules?
+
+
+Ajay Bhardwaj:   YES. Hi, Bansi. Our patent expiry molecules are still, I think the first one is in 2032, so it's not
+                 over the immediate medium term as well. But YES, you're right. These new launches that we've
+                 seen in the last quarter and then the most recent quarters, there have been new launches as in
+                 products going commercial, moving to be as getting approved.
+
+
+                 There have also been acquisitions around that. So, they have been bought by big pharma who
+                 have paid significant, serious sums of money to buy these assets. So, they have big plans for
+                 them. So, in the medium term, obviously to execute their plans, they will need material, which
+                 Anthem will provide. So, I think these will make meaningful contributions in the next three to
+                 four years.
+
+
+                 The market potential for these is about $10 billion, in excess of what the estimates are, that their
+                 total sales would be in excess of $10 billion. So, we are very bullish about the prospects of these
+                 new molecules, because there's been a lot of action in the last two quarters in these assets getting
+                 acquired as well for very, very large sums of money.
+
+
+Bansi Desai:     If you can also help us understand how many of these are APIs and/or intermediates among these
+                 five molecules, and do we have or do we enjoy preferred supplier status in each of these
+                 products?
+
+
+Gawir Baig:      Bansi, it's an equal mix of API as well as advanced intermediates across the five molecules
+                 which have gone commercial over the last 18 months.
+
+
+Bansi Desai:     Okay.
+
+
+Gawir Baig:      Sorry, Bansi, I just thought there was another question she had asked.
+
+
+Ajay Bhardwaj:   What was the follow-on question?
+
+
+Bansi Desai:     No, and do we enjoy preferred supplier status?
+
+
+Gawir Baig:      Yes. See, preferred…
+
+
+Ajay Bhardwaj:   At the moment, we enjoy the only supplier status.
+
+
+Bansi Desai:     Okay.
+
+
+
+
+                                         Page 10 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+Ajay Bhardwaj:   Once they get acquired, then of course, big pharma always will get a second supplier, and they
+                 start looking around.
+
+
+Bansi Desai:     Okay.
+
+
+Ajay Bhardwaj:   We haven't done any tech transfer to anybody, so we know that we're the only supplier at the
+                 moment, but this will change.
+
+
+Bansi Desai:     Understood. Of the nine late-phase projects that we have, how many do we expect to
+                 commercialize over the next one, two years?
+
+
+Gawir Baig:      They're still in trials. I mean, the outcome of this will be known over the course of the next 18-
+                 24 months. How many we expect to supply? I would say that our expectation is we want
+                 everything to be commercial, but doesn't happen, because some of these programs may fail in
+                 phase III. That's dependent upon the outcome of the trials. But 18-24 months is where we feel
+                 some of these will move from the late stage to commercial. Some could be earlier as well, but
+                 very difficult to put down a number in terms of our expectations.
+
+
+Bansi Desai:     Understood. I have questions…
+
+
+Gawir Baig:      Everything to be commercial, so it helps us, but that doesn't happen that way.
+
+
+Bansi Desai:     YES, no, I mean, I was trying to understand that probably which of them are closer to getting
+                 approved in your understanding.
+
+
+Gawir Baig:      A few of them could be in this financial year itself, but we'll need to wait and watch how the
+                 outcome of the results are.
+
+
+Ajay Bhardwaj:   See, Bansi, what happens is these are clinical trials. Sometimes they have to go back and repeat
+                 something, or the results are. By the time they announce the clinical trial, they close it, and then
+                 they get the data out there. It's not something that we control or have any say in. It can be very
+                 variable. So, it'd be hard to say that these will go next quarter, and these many will go the
+                 subsequent quarter. But YES, as Gawir Baig said, maybe in this financial year, we expect at
+                 least few of them to go commercial.
+
+
+Bansi Desai:     Understood. Thank you.
+
+
+Moderator:       Thank you very much. The next question is from the line of Isha from Invest Yadnya. Please go
+                 ahead.
+
+
+Isha:            Yes. Thank you for the opportunity. I wanted to know a few of your thoughts on the Specialty
+                 Ingredients segment, what the guidance outlook looks like, and what the margin profile is. Like
+                 recently, we've seen that the mix has shrunk a bit, so I wanted to know what the structural mix
+                 guidance the company wants to keep. Thank you.
+
+
+Ajay Bhardwaj:   See, again, we'd like to have our business Specialty Ingredients over 20% of our sales at least.
+                 It acts as a very good backstop against the lumpiness of our project business, which is the
+                 CRDMO. At the same time, again, historically, when we look at the data, when we have good
+
+                                         Page 11 of 18
+
+                                                                                        Anthem Biosciences Limited
+                                                                                               November 04, 2026
+
+                     sales in the CRDMO, then the Specialty Ingredients usually get muted. We've had a very nice
+                     quarter, so no, unsurprisingly, our Specialty Ingredients seem to be flat.
+
+
+                     Again, end of the year, we expect at least 20%, around that, should be our Specialty Ingredients.
+                     Margins are very much in line, and you can see it overall, right? We don't give the split of
+                     margins, but they're as profitable. As you can see, our margins have improved. They're
+                     sufficiently high. I think we will continue to do that both with Specialty Ingredients as well as
+                     our CRDMO business.
+
+
+Isha:                Okay. Thank you. That was it.
+
+
+Ajay Bhardwaj:       YES. Thanks.
+
+
+Moderator:           Thank you very much. Sidharth Negandhi from CWC. Please go ahead.
+
+
+Sidharth Negandhi:   Hi. Thanks for the follow-up and the very insightful answers. On the GTM in the U.S., right,
+                     you have a fairly unique GTM in terms of a partnership. Can you help us understand what
+                     advantages that offers, and accordingly, does that give you an edge on sales in any way? That
+                     was one. You spoke of the biotech funding environment being sort of mixed currently.
+
+
+                     Could you help us understand your biotech versus big pharma reliance in terms of revenue share?
+                     And broadly, one is funding and the other is M&A trends in biotech, right? Between both of
+                     these, how are you seeing trends play out on biotech funding as well as M&A? Do you perceive
+                     this whole AI crowding out every other sector in terms of investment as a risk or not?
+
+
+                     The third one was on new technology that you spoke of where a lot of early-stage work is going
+                     on. Based on your assessment of the pipeline and that early-stage work that's going on, how
+                     much of FY31 revenue do you think can new tech contribute? And then, on the capex that you've
+                     spoken of, what kind of asset turns do we look at and what time to get there?
+
+
+Ajay Bhardwaj:       Okay, Sidharth. I may have to ask you to remind me of the last few questions.
+
+
+Sidharth Negandhi:   Sure.
+
+
+Ajay Bhardwaj:       I'm just trying to wrap my head around your first two ones. But YES, you asked about the first…
+
+
+Sidharth Negandhi:   The GTM in the U.S.
+
+
+Ajay Bhardwaj:       YES, YES.
+
+
+Sidharth Negandhi:   Just tell me what you wanted to start...
+
+
+Ajay Bhardwaj:       Got it. Got it. Yes. I think it is a differentiated marketing strategy. It served us really well. It is
+                     still serving us very well. When we started the company, you have to do so many things at the
+                     same time. You got to set up your labs, hire the people, set up all the compliances, the regulatory,
+                     the finance. At the same time, you got to set up marketing, which will deliver.
+
+
+
+
+                                              Page 12 of 18
+
+                                                                                       Anthem Biosciences Limited
+                                                                                              November 04, 2026
+
+                     For us, working with our partners in the U.S., Davos, we were able to get feet on the ground in
+                     sales, experienced people, because they are a 50-year-old company, experienced people who had
+                     access to customers almost on day one. Yes, it was a very good way to access the market without
+                     having to put in the time and resources to develop the sales force. That still continues to be.
+
+
+                     The thing is, this relationship is very transparent and open. We know who they sell to. We know
+                     also the prices they sell to. It is not like they are an agent who we and it is totally opaque that
+                     they stand as a wall between us and the customer.
+
+
+                     Our day-to-day contact with the customer is actually from Anthem in Bangalore, and they only
+                     take care of the commercials. The other part is that they are available in their time zone. They
+                     are local, they are American locals.
+
+
+                     They also have They take care in small biotechs in particular, they have usually a very small
+                     team. They are unable to handle the logistics, the customs requirement, the documentation. So
+                     Davos provides all that. So the biotechs that we work with feel very comfortable that they don't
+                     have to put that additional resource.
+
+
+                     There are a lot of advantages that I can go on, and I think it is a differentiated strategy. It worked
+                     well for us. You have to have a very good relationship with people whom you know, and we
+                     knew these people. So, yes, it works very well. So that is the part on GTM. On the other side,
+                     Gawir will answer the other.
+
+
+Sidharth Negandhi:   If you could help us understand your reliance on biotech versus big pharma in terms of split of
+                     revenue, and how are you thinking of biotech funding and M&A trends in biotech?
+
+
+Ajay Bhardwaj:       Okay. A large part of revenue now comes from commercialized molecules, but at one time, these
+                     were biotech companies who were early discovery companies which got acquired and they
+                     became commercial. This is very often the trend. A large part of our revenue does come from
+                     manufacturing, but these are molecules or products that we helped discover.
+
+
+                     We have been there with them from the first day, when we made the first milligram ever, and
+                     now we may be making several multiple tons of it. That is the part of manufacturing. The M&A
+                     trend in biotechs will continue, but usually when a company starts, has secured the funding, and
+                     has taken the molecule to the phases, because there are various gates. There is the preclinical,
+                     the clinical, the preclinical, phase I, phase II, phase III.
+
+
+                     Typically, a company gets acquired or becomes interesting for acquisition only when it is either
+                     in phase III or they have very good data, or they even have approval. These M&A at that time
+                     almost becomes a given. If it is an approved product, it will get acquired. This will continue.
+
+
+                     This is the way the market is shaping up, and we are very much hopeful that of over 100 projects
+                     that we have with biotechs, many of these will succeed, and then companies may get acquired.
+                     Sometimes they may go alone, but that has been rare. They usually do get acquired.
+
+
+
+
+                                              Page 13 of 18
+
+                                                                                       Anthem Biosciences Limited
+                                                                                              November 04, 2026
+
+Sidharth Negandhi:   Got it. In terms of an FY31 outlook on new tech, on peptides, ADCs, nucleic, oligos, what
+                     percentage of revenue do you think you could target from new tech in FY31 based on your
+                     pipeline and your assessment of the expected progress?
+
+
+Ajay Bhardwaj:       This is a hard one. FY31, we have not even done this calculation. New tech, again, you said the
+                     introduction of AI, which is something which is unsettling. Not unsettling, it is something which
+                     is the unknown, the great unknown, and nobody really knows how this will sit, right?
+
+
+                     It has been predicted to be it could kill all of humanity, the people who are in AI. If that happens,
+                     then all that we are doing right now becomes meaningless. The point is that it is very hard to say
+                     how AI will develop new molecules. Again, historically, every now and then, every few years,
+                     there is always the new whiz technology that will change the world or the way drugs have been
+                     discovered. So far that has not really panned out the way it is. But YES, AI is the real deal.
+
+
+                     We expect that there will be more molecules that will come out of the AI pipeline, but at the
+                     same time, which will mean there will be more work for us, because somebody has to productize
+                     these, somebody has to make the chemistry and make those powders that the scientists can work
+                     with, and that is where Anthem comes in. If there are more molecules being discovered, that
+                     means there are more likely drug candidates, I think there will be more work for companies like
+                     ours.
+
+
+Gawir Baig:          Sidharth, I just want to add over here. On the new tech which you did talk about, like
+                     oligonucleotides, peptides, RNAi, ADCs, Anthem has been working on this new tech since 2014,
+                     2015 onwards. It has been almost like a 10 plus year journey for us on this new tech. We have
+                     moved up from doing this new tech work on a lab scale level now to commercial scale level.
+
+
+                     We have set up capacities in the so-called new tech on peptides or on the oligonucleotides or on
+                     the high potent as well on the ADC side. We have been working on this for more than a decade
+                     now. Some of the development programs, early-stage development programs are in this space.
+
+
+                     Now, over a period of the next four years, from 2027 here right now to 2031, how these programs
+                     will move from an early stage or a late-stage development towards commercialization, that time
+                     will only tell. We cannot be making a prediction on what percentage of our revenues comes from
+                     this new-age technology. But from our point of view, what we have done is we are investing in
+                     this new tech so that commercial programs, whenever it happens, whenever the product goes
+                     commercial, we have the wherewithal to be able to service our customers.
+
+
+Sidharth Negandhi:   Got it. The last one was on the capex in terms of expected asset turns and what timelines do we
+                     expect to see that capex get to those asset turns?
+
+
+Gawir Baig:          Asset turns right now will be about 1.2x, 1.3x. We aspire to, we will try to be in that 1.5x level,
+                     which is what we have been in the past. We are at a utilization level which is still not up to the
+                     optimum. But over the course of this next one year, we will be moving up on the asset turns. But
+                     please also note that next year we will also start our Unit four as well, March 2028 or so. Once
+                     Unit four comes in, that will also take some more time to ramp up. But aspirationally, we will
+                     be trying to get into the 1.5x sort of an asset turns level.
+
+
+
+                                              Page 14 of 18
+
+                                                                                      Anthem Biosciences Limited
+                                                                                             November 04, 2026
+
+Sidharth Negandhi:   Sure. Actually, it was on Unit four itself. On that INR1,200 crores of capex, would it be fair to
+                     say that it will be over a period of time at 1.5 asset turns? And what kind of period do we see to
+                     get to that 1.5 asset turns?
+
+
+Gawir Baig:          See, it will take time because we will commission it. It will take time to get the approvals also
+                     in place. So, it is going to be a longer-term horizon to get to that level. At this point of time,
+                     what we are looking at is to get this facility up and running, getting it commissioned. We will
+                     talk about asset turns about Unit four once we start commissioning the facility.
+
+
+Sidharth Negandhi:   Got it. Very useful and really helpful answer. Thank you very much. Appreciate the…
+
+
+Ajay Bhardwaj:       Thank you. Thank you. You have a good day.
+
+
+Sidharth Negandhi:   Have a good day.
+
+
+Moderator:           Thank you. The next question is from the line of Saion Mukherjee from Nomura. Please go
+                     ahead.
+
+
+Saion Mukherjee:     YES. Hi. Thank you for taking my question. I guess, if you look at the older molecules, like 10
+                     molecules which were there, are those molecules still growing, and what's the headroom for
+                     growth in those molecules? And should we expect the growth for Anthem from those products
+                     to mimic the market growth for those molecules, or it would be faster than that or slower than
+                     that?
+
+
+Ajay Bhardwaj:       Okay, Saion. Those are all growth molecules. They are still growing. Maybe one or two are
+                     stabilized, but they are all growth molecules, and we have not hit potential peak sales for most
+                     of them. So, our growth should mirror the growth of those molecules. Will it be faster than those
+                     molecules, in particular in those? How can I say that?
+
+
+                     In case, we are always trying to get a larger share of the wallet for those molecules from our
+                     customers, and sometimes that does happen. In case, one of their other vendors falters, then we
+                     get a larger share. So, that can help us grow faster than the molecule itself.
+
+
+                     Traditionally, I mean, definitely there is a lot of headroom for growth in the commercialized
+                     molecules, because the patent expiry of the first one is in 2032. Some are even going as far as
+                     2037, almost 2040. So, there is a lot of headroom to grow.
+
+
+Saion Mukherjee:     Understood. If you sort of look at the new bunch of products which have got approved, now five
+                     of them, there are nine more in late stage, and let us assume, six, seven of them really get
+                     commercialized. So, when you compare this new pipeline or the new products versus your older
+                     products, my rough assessment is that maybe we are doing around, say, $12 million of product
+                     on an average.
+
+
+                     Of course, the range could be very different across products. Just from the kind of modalities
+                     you are working on, the kind of contracts that you are talking, the commercial contracts, on
+                     average, do you see per molecule your revenue stream would be materially higher or in line with
+                     what you have been doing in the past?
+
+
+                                              Page 15 of 18
+
+                                                                                      Anthem Biosciences Limited
+                                                                                             November 04, 2026
+
+Gawir Baig:        Saion, difficult to answer this question because every molecule, new ones, different molecules
+                   have a different peak sales estimates, ranging from $1 billion- $4 billion, $5 billion, on an
+                   aggregate about $10 billion. So, in different molecules, we supply the. Some molecules we
+                   supply the API, some molecules we supply the advanced intermediates, so the share on the API
+                   is higher versus the advanced intermediate could be lower. So, individually, every molecule will
+                   have a different revenue profile. I think on an averaging out basis, it will be similar to what we
+                   have for our existing revenue base, existing old molecules as well.
+
+
+Ajay Bhardwaj:     So, if I may answer your question, Saion, another way is that, are these molecules, some of them
+                   are very big indications? Yes. So some have, the dosages are high. So one or two molecules we
+                   expect much bigger sales because it's, A, a very big disease, B, the dosages are high. The
+                   indication could actually give us much more than the $12 million that you talked about.
+
+
+                   At the same time, there is some drugs have been approved, but their indication at this moment
+                   is, obviously when a biotech or any company goes for it, they go for a smaller indication, which
+                   is an orphan indication. But there are, in addition to that, two, three more indications that the
+                   clinical trials are going on, and those approvals could happen in the next two quarters as well.
+
+
+                   Then it becomes now the same molecule that was approved for one indication is approved for
+                   three. That can change the economics of that for us quite rapidly. This is happening in the
+                   background. Hard for me to say when it will bear fruit, but it will bear fruit.
+
+
+Saion Mukherjee:   Understood. Just one last question, if I can ask. This is about lateral contracts, like contracts for
+                   assets which are already commercial as a second source, an alternate source. It seems that we
+                   haven't seen much traction there. Is there a capacity issue here, or is it just a matter of time, or if
+                   some color you can give as to what prevents us from getting more such lateral contracts?
+
+
+Ajay Bhardwaj:     Again, we have a lot of traction with the customer there, but has there been a big mass switch?
+                   So far, no, but it will happen. See, again, remember these companies have no dearth of qualified
+                   suppliers, and many are also, like we are entrenched in our product, they're entrenched in what
+                   they supply.
+
+
+                   So very often it's not so easy for them to switch, but usually if they're discussing this with you,
+                   A, you would be given a second supplier status, which could only be ramped up slowly. It takes
+                   time. The other part is that's what I'm saying. When you are the first and primary supplier, that's
+                   good news for you. But to be a lateral second entry and become a new supplier, it usually is a
+                   slow process.
+
+
+                   But the fact that this is being discussed, that we are being supplied samples, and that we are
+                   being qualified to do other products, I think that is a big win for us. Because you never know
+                   which way the camel will sit, right? When it actually starts to settle down and somebody falters
+                   or there is some other compelling reason for them not to work with that, then you can see a very
+                   quick ramp-up because you are an approved second supplier now.
+
+
+Saion Mukherjee:   Right. Okay. Thank you.
+
+
+Ajay Bhardwaj:     Thanks.
+
+
+                                            Page 16 of 18
+
+                                                                                 Anthem Biosciences Limited
+                                                                                        November 04, 2026
+
+Moderator:       Thank you very much. The last question is from the line of Amey Chalke from JM Financial.
+                 Please go ahead.
+
+
+Amey Chalke:     Hi. Thanks for giving an opportunity, and congrats on good numbers. First question I have is
+                 basically, like Saion mentioned, that our revenue for product has been pretty good compared to
+                 a lot of our Indian peers. Also, we are working on a lot of blockbuster molecules in our
+                 commercial pipeline.
+
+
+                 However, what I understood is traditionally we have been a small biotech company, especially
+                 in the early development stages, what projects we have. For us to become a big pharma preferred
+                 supplier, what are things we need to do going ahead? Or if we are already working on it, what
+                 are those things which help us to become a preferred big pharma CDMO player?
+
+
+Gawir Baig:      Thanks, Amey . With the question on the big pharma side, we are currently also working with
+                 eight to nine big pharma companies right now itself. Yes, a lot of it has come through
+                 acquisitions. I think over the course of the last five, six years, we would have eight to nine of
+                 our emerging biotech customers being acquired by big pharma.
+
+
+                 We were the sole supplier, or we were the development partners for all of these emerging biotech
+                 customers. And in none of those programs, we have been in a situation where we do not work
+                 with that big pharma. We still work with the big pharma, continue to have a larger share of the
+                 wallet with respect to these molecules, where we were early-stage development partners.
+
+
+                 We are also looking at making inroads on big pharma on their lateral programs as well, as well
+                 as other big pharmas. We are working directly without having the M&A angle over here. So, I
+                 think we have mentioned in the last few conference calls that two of the big pharma customers
+                 came in directly, not through the acquisition route.
+
+
+                 We are working with them. So, emerging biotech had been our forte till now, but emerging
+                 biotech had transitioned towards big pharma on the commercial scale level, while emerging
+                 biotech still continues to be a larger share on the R&D and on the development program side.
+                 But we have been making significant inroads on the big pharma side as well, as a development
+                 as well as a commercial partner for them on the CMO programs.
+
+
+Amey Chalke:     Sure. And the second question I have is on the capability point. Like, if we compare ourselves
+                 with the global CDMO players like Lonza or WuXi AppTec, etcetera, I understand that on scale
+                 we might be lower, we might be smaller, but in terms of capabilities, what are the white spaces
+                 which are there, which we will enter into in next four to five years?
+
+
+Ajay Bhardwaj:   It is hard for me to see. One is that we will definitely ramp up our biologics manufacturing
+                 capability and also the drug product capability, which we are now adding. So, we have confined
+                 ourselves to drug substance till now, but if you are going to do more and more biologics, it is
+                 prudent to have your biologics fill-finish, which is a drug product facility. So, those investments
+                 we have lined up. Again, we will need to put larger investments, which we are doing now.
+
+
+                 This will be there in unit four for sure, is for oligonucleotides, because those are becoming very
+                 important and quite widespread in terms of the companies working on new projects with them.
+
+
+                                         Page 17 of 18
+
+                                                                                  Anthem Biosciences Limited
+                                                                                         November 04, 2026
+
+                 So, that investment certainly is happening. So, we are investing in new areas. Our onco facility
+                 may need some more expansion as the projects become bigger. So, these are the very busy new
+                 modalities.
+
+
+                 There is, on the manufacturing side, and actually another area where Anthem is working very
+                 closely is cybersecurity. That is a big investment we are doing because that is another area which
+                 is becoming more and more into focus. YES, at the same time, parallelly, we have to do so many
+                 things that we position ourselves for the future.
+
+
+                 There are a lot of new things which are happening, but to predict that five years from now,
+                 mostly it comes from our customer, that we should invest in a facility now, that this may become
+                 big in five years from now, that would be a very hard call. We usually take guidance from what
+                 our customers are working on and use that as a guide to make our investments.
+
+
+Amey Chalke:     Sure. Just to conclude, we will look to penetrate into biologics, oncology, and the peptide, what
+                 you mentioned basically.
+
+
+Ajay Bhardwaj:   Oligonucleotides. Peptides, of course, YES.
+
+
+Amey Chalke:     YES. Oh, sure. Thank you. I will join back.
+
+
+Ajay Bhardwaj:   Thank you.
+
+
+Moderator:       Thank you very much. I would now like to hand the conference over to management for closing
+                 comments.
+
+
+Ajay Bhardwaj:   Thank you very much. Thank you all for attending this call. As always, we will endeavor to do
+                 our best to deliver the promise that we have made. You will see that Anthem is we have had a
+                 very good quarter this time. We have a lot of catching up to do for the slow quarter, the first one.
+
+
+                 As we have said, we promise we will be delivering good results by the end of the year, and we
+                 are on track to do that. Also, at the same time, our investments and the new expansions that we
+                 are doing and the regulatory approvals that we need for them are all on track. Thank you very
+                 much, and next time when we meet at the end of next quarter, I am sure we will have happy
+                 news to report. Thank you.
+
+
+Moderator:       Thank you very much. On behalf of Anthem Biosciences Limited, that concludes this
+                 conference. Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                         Page 18 of 18
+

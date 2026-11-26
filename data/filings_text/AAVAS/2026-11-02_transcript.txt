@@ -1,0 +1,793 @@
+    Ref. No. AAVAS/SEC/2026-27/3403
+
+    Date: November 02, 2026
+
+     To,                                                 To,
+     The National Stock Exchange of India Limited        BSE Limited
+     Exchange Plaza, C-1, Block G,                       Phiroze Jeejeebhoy Towers,
+     Bandra Kurla Complex,                               Dalal Street,
+     Mumbai – 400051                                     Mumbai – 400001
+
+     Scrip Symbol: AAVAS                                 Scrip Code: 541988
+
+    Dear Sir/Madam,
+
+    Subject: Transcript of the Earnings Call for the quarter and half year ended
+    September 30, 2026
+
+    Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure
+    Requirements) Regulations, 2015 and with respect to our intimation dated October 13, 2026
+    bearing ref. no. AAVAS/SEC/2026-27/3317, please find enclosed the transcript of the Earnings
+    Call on the Financial and Operational performance of the Company for the quarter and half year
+    ended September 30, 2026 held on Monday, October 26, 2026.
+
+    The above information is also available on the website of the Company and can be accessed at
+    https://www.aavas.in/investor-relations/investor-intimation.
+
+    We request you to take the same on your record.
+
+    Date and time of occurrence of event/information: October 26, 2026 and Earnings Call
+    commenced at 06:30 P.M. (IST).
+
+    Thanking You,
+
+    For AAVAS FINANCIERS LIMITED
+
+    SAURABH Digitally signed by
+            SAURABH SHARMA
+
+    SHARMA Date:  2026.11.02
+            11:28:39 +05'30'
+
+    SAURABH SHARMA
+    COMPANY SECRETARY & COMPLIANCE OFFICER
+    (ACS-60350)
+
+
+
+
+INTERNAL
+
+                           “Aavas Financiers Limited
+                        Q2FY27 Earnings Conference Call”
+                                 Oct 26, 2026
+
+
+
+Management:      Mr. Manu Singh – Managing Director and Chief Executive Officer
+                 Mr. Ghanshyam Gupta – Interim, Chief Financial Officer
+                 Mr. Rakesh Shinde – Head of Investor Relations
+
+
+                 This document is a transcription of the conference call conducted on 26-Oct-2026.
+                 Click here to listen to the original audio
+
+                 Disclaimer: This transcript is edited for factual errors and does not for imply to be
+                 verbatim recordings of the proceedings. The reader is also requested to refer to audio
+                 recordings of the call uploaded on the company website. In case of discrepancy, the
+                 audio recordings will prevail. No part of this publication may be reproduced or
+                 transmitted in any form or by any means without prior written consent of Aavas
+                 Financiers Limited.
+
+
+
+Moderator:       Ladies and gentlemen, good evening, and welcome to the Aavas Financiers Ltd Q2FY27
+                 and H1FY27 Earnings Conference Call. This conference call may contain forward-
+                 looking statements about the company, which are based on the beliefs, opinions, and
+                 expectations of the company as on the date of this call.
+
+                 These statements are not guarantees of future performance and involve risks and
+                 uncertainties that are difficult to predict. As a reminder, all participant connections will
+                 be in a listen-only mode. There will be an opportunity for you to ask questions after the
+                 presentation concludes. Should you need assistance during the conference, you may
+                 message the operator.
+
+                 I now hand the conference over to Mr. Rakesh Shinde, Head Investor Relations of Aavas
+                 Financiers Limited. Thank you, and over to you, sir.
+
+Rakesh Shinde:   Good evening, everyone, and a very warm welcome to all participants joining us today
+                 to discuss the financial and operating performance of Aavas Financiers Limited for
+                 Q2FY27 and H1FY27, along with our outlook for the business.
+
+                 The results and the investor presentation have been uploaded to the stock exchanges
+                 and are also available on our company website. I hope you’ve had a chance to review
+                 them. We have also uploaded an Excel fact sheet containing historical data on our
+                 website for your easy reference.
+
+              Joining me today is the entire management team of Aavas. We will begin this call with
+              opening remarks from our MD & CEO Manu Singh. This will be followed by a Q&A
+              session. With that, let me now hand over the call to Manu. Over to you, Manu.
+
+Manu Singh:   Thank you, Rakesh. And a very good evening to everyone joining us today. It is a delight
+              to connect with you during this festive season. On behalf of the entire Aavas family, I
+              extend our warmest wishes to you and your loved ones for a joyful, prosperous and
+              fulfilling festive period.
+
+              Firstly, it gives me immense pleasure and pride to share that Aavas is on track to cross
+              the significant milestone of ₹250 billion in AUM during October 2026, having served
+              nearly 4.5 lakh customers. This achievement reflects the trust reposed in us by our
+              customers and stands as a testament to the collective hard work, dedication and
+              commitment of the entire Aavas team over the years.
+
+              Aavas is embarked on its next phase of growth. The structural demand for affordable
+              housing, the depth of the underserved customer segment and our expanding
+              distribution, gives us confidence in the long-term potential of the franchise. With an
+              established presence across our core markets and considerable headroom to improve
+              productivity and deepen penetration, we see a credible path toward achieving Rs. 500
+              bn in AUM.
+
+              As we pursue this ambition, the quality of growth will be as pertinent as its pace. Our
+              objective is to build a business that delivers sustainable profitable growth through a
+              customer first approach, higher productivity, improved operating leverage, prudent
+              credit underwriting and disciplined liability management. We will continue to scale
+              responsibly, without compromising the asset quality, margins or governance standards
+              that underpin the strength of the Aavas franchise.
+
+              Technology will serve as a critical force multiplier across this journey. It will allow us to
+              combine the reach and relationships of our physical distribution network with faster
+              digital processes, stronger data-led decision-making and robust system-driven
+              controls. This should help us improve conversion, reduce turnaround time, enhance
+              productivity and deliver a more seamless customer experience.
+
+              Having completed six months at the helm of Aavas, my priorities are clear: to deliver
+              sustainable profitable growth through consistent improvements in productivity,
+              efficiency and governance.
+
+              During Q2FY27, Productivity per RO improved to 1.2 files / month, compared with 1.1
+              files / month in Q1FY27. The momentum strengthened further in September, when
+              productivity reached 1.3 files / month. The improvement reinforces our confidence in
+              the focused execution strategy, stronger field-level accountability and continued
+              emphasis on customer acquisition and continue to lift productivity per resource higher.
+              We aim to improve productivity to approximately 1.5 files / month by the end of FY27
+              and progressively scale it to 2 files / month.
+
+              The improvement in productivity during H1FY27 was accompanied by a sharp
+              improvement of 29% in revenue per RO. This demonstrates that our execution rigour.
+              Which is translating into improved resource economics and supporting our objective of
+              delivering sustainable profitable growth. Consequently, our Opex Ratio improved by 18
+              bps YoY to 3.33% in H1FY27. With further gains in productivity, efficiency and scale, we
+              expect to generate stronger operating leverage and progressively improve the Opex
+              Ratio to below 3%.
+
+We have undertaken a comprehensive review and revamp of our operating processes to
+establish greater accountability and strengthen checks and balances across the
+organisation. We have introduced system-driven controls, reinforced maker-checker
+mechanisms across key processes and implemented rigorous training programmes to
+embed a strong and consistent governance culture throughout Aavas. These initiatives
+provide us with a stronger operating platform to scale the business responsibly.
+
+At Aavas, People drive Performance. During the quarter we continued our endeavour to
+build a team of people that enables and enhances performance. During the quarter, we
+continued to strengthen our team with the objective of enhancing organisational
+capabilities and execution. Several experienced professionals have already joined us
+across various levels, and we expect to further strengthen the team in the coming
+months. This has given us the platform to drive strategy and execution as we build
+towards the business end of the year.
+
+These overarching principles are bringing the organisation together around a common
+definition of success. With disciplined execution, continuous measuring and
+monitoring of key levers, plugging leakages, and a strong pipeline of experts leading at
+N-1 level, Aavas is unified in its objective of delivering consistent results.
+
+Coming to our financial and operating performance, H1FY27 has laid a strong
+foundation for Aavas and highlights the results of our growth initiative. The healthy
+performance during H1 reflects the business is becoming faster, fitter, and more
+productive, with a sharper execution across the organization.
+
+For H1FY27, we disbursed loans worth ₹35.1 billion, delivering a robust growth of 30%
+YoY, driven by volumes growth. This performance was broad-based and driven by a
+strong pickup in volumes, meaningful improvement in resource productivity. The pickup
+in volumes is derived from gains in productivity and underlying strength of demand from
+affordable housing markets in which we operate.
+
+Our AUM grew by 16.1% YoY to ₹248.0 billion as of Sep-26. This directly reflects the
+positive impact of our efforts around customer acquisition, productivity, and execution.
+During Q2, our repayment rate normalized to ~17% and will remain in similar range.
+While we still have a long journey ahead, these improvements give us confidence that
+Aavas is well positioned to accelerate growth and deliver more than 20% growth over
+the long term.
+
+We delivered 16.4% YoY growth in Net profit for H1FY27, driven by a healthy 17% YoY
+growth in Net Interest Income and 18% YoY growth in Operating Profit, supported by
+robust business growth. In addition, improved operating efficiencies, reflected in a 195-
+bps YoY improvement during H1FY27 in our cost-to-income ratio, further strengthened
+profitability.
+
+This quarter was a testament to Aavas’ diverse and strong liability management. Despite
+the volatile interest rate environment, we have kept Cost of Borrowing (CoB) stable at
+7.64%. Following the 25-bps repo rate increase announced by the RBI earlier this month,
+we expect our cost of borrowing to increase. However, we are confident of maintaining
+spreads above 5%. Additionally, we believe the increase in lending rates is expected to
+support yields on incremental disbursements and progressively benefit the overall AUM
+yield. Consequently, we expect our spreads and NIM to improve over the coming
+quarters.
+
+                   During the quarter, we expanded our branch network to 443 across 15 states. In
+                   H1FY27, we added 21,500+ new customers to the Aavas Franchise. We will continue to
+                   invest in branch expansion to further deepen and diversify our presence. At the same
+                   time, our focus remains on ensuring faster branch-level breakeven and closely
+                   monitoring the performance of newly opened branches to drive better productivity and
+                   profitability.
+
+                   With that preamble, I will now take you through our financial performance. In H1FY27,
+                   Our Net profit grew by 16.4% YoY to Rs 3.5 bn led by robust 17% YoY growth in NII on
+                   account of healthy improvement in NIMs. Our Net Worth continues to compound
+                   steadily, growing at 15.4% YoY, with the strength of our capital position driven by
+                   consistent compounding internal accruals. Our NIMs remained broadly stable at 7.76%,
+                   moderated marginally by 5 bps YoY on account of PLR cut, however supported by 21 bps
+                   YoY improvement in cost of borrowings. Our cost-to-income ratio improved by 195-bps
+                   YoY to 42.9% in H1FY27, driven by cost efficiency.
+
+                   We continue to deliver industry-leading asset quality, with all key indicators trending
+                   positively and remaining well within our guided range. Our 1+ DPD improved by 18 bps
+                   YoY to 3.81% in Q2 FY27, remaining comfortably below 5%. Gross Stage 3 improved by
+                   13 bps YoY to 1.11%, while Net Stage 3 improved by 16 bps YoY to 0.70%, underscoring
+                   the resilience of our portfolio and the effectiveness of our credit-first approach. Credit
+                   costs for H1FY27 stood at 24 bps, remaining within our guided range.
+
+                   Our RoA expanded of 9 bps QoQ to 3.28% and RoE improved of 28 bps QoQ to 13.63%
+                   in Q2FY27. We remain focused on delivering quality, profitable growth with strong risk
+                   discipline and tech-led efficiency, while consistently creating long-term value for all
+                   stakeholders.
+
+                   As I see it, we are at the ground floor of our building, and with a strong foundation and
+                   an expert team we are confident on the way to building our powerhouse akin to Burj
+                   Khalifa. With that, Ladies and Gentlemen, I would now hand over to, Ghanshyam Gupta,
+                   to discuss the financials in detail.
+
+
+
+Ghanshyam Gupta:   Thank you, Manu. Good evening, everyone, and a warm welcome to our earnings call.
+                   To provide update on borrowings. The quarter closed on a constructive note, with Aavas
+                   maintaining a stable cost of borrowing despite a volatile interest rate environment and
+                   uncertain geo-political backdrop. This underscores the strength of our diversified
+                   liability franchise and strong lender relationships. We continue to enjoy broad-based
+                   lender support, providing us with access to diversified, long-term, and cost-effective
+                   funding to support future growth.
+
+                   We continued to borrow judiciously, raising around Rs. 16.79 bn at competitive rate at
+                   7.66% for Q2FY27. As of 30th Sep 2026, total outstanding borrowings stood at Rs. 216
+                   billion. A well-diversified liability franchise linked with various benchmarks and
+                   competitively priced, we were able to deliver a 21-bps YoY improvement in our cost of
+                   funds for Q2FY27. Our average tenure of borrowings continues to be longer than that of
+                   our assets, ensuring a positive ALM across all-time buckets.
+
+                   We have optimum mix of various benchmarks of interest rates such as around 30% of
+                   borrowings linked to Repo and balance borrowings are linked to other benchmarks like
+                   MCLR and Fixed Rated Instruments.
+
+                    As of 30th Sep 2026, we maintained ample liquidity, including cash and cash
+                    equivalents and un-availed CC limits of Rs. 19.6 billion and documented un-availed
+                    sanctions of Rs. 3 billion.
+
+                    Profitability and Capital Position. Our Net Interest Income (NII) for the quarter grew by
+                    15% YoY in Q2FY27. Our Net Total Income (NIM) in absolute terms grew by 11% YoY in
+                    Q2FY27 and Net Interest Margin (NIM) as a percentage of total assets expanded by 11
+                    bps QoQ to 7.81% in Q2FY27. Our disciplined cost management approach, coupled
+                    with a continued focus on profitable growth, has started yielding encouraging results,
+                    reflected in a 153-bps QoQ improvement in our cost-to-income ratio to 42.9% in
+                    Q2FY27. Our Pre Provisioning operating profit grew by 14% YoY to Rs 2.49 bn in Q2FY27.
+                    Our PAT growth was 10.7% YoY for Q2FY27.
+
+                    Our ROA improved by 4 bps YoY to 3.23% and ROE improving by 5 bps YoY to 13.48% in
+                    H1FY27. We remain well capitalized, with a net worth of Rs 54.0 billion and a Capital-to-
+                    Risk-Weighted Assets Ratio (CRAR) of 43.77%, significantly above regulatory
+                    requirements.
+
+                    With this, I open the floor for Q&A.
+
+Moderator:          Thank you so much, sir. Ladies and gentlemen, we will now begin with the question-and-
+                    answer session. Anyone who wishes to ask a question may click on the raise hand icon
+                    from the Participants tab on your screen. We request participants to restrict to two
+                    questions each and then return to the queue for more questions. To rejoin the queue,
+                    you may click on the raise hand icon again. We will wait for a few minutes until the
+                    question queue assembles. We will take our first question. We have Abhijit Tibrewal of
+                    Motilal Oswal.
+
+Abhijit Tibrewal:   Good evening, sir. Thank you for taking my question. Just two-three things. I think during
+                    your opening remarks, you spoke about improvement in RO level productivity. I think the
+                    line was a little bad, if you could just repeat that. That was my first question.
+
+                    The other thing I wanted to understand from you is, given that this year we have had a
+                    few states who have seen deficient rainfall. If my memory serves me right, even
+                    Rajasthan has seen weak rainfall this year. All I am trying to understand is, while we can
+                    already see the reported numbers, from your experience in the past, how has mortgages
+                    as a segment behaved during periods of weak monsoon or during droughts?
+
+                    The only thing I am trying to understand here is, at least the way I look at it, like in COVID,
+                    I strongly feel that mortgages will remain that one segment where people will still
+                    prioritize repaying their EMIs vis-a-vis their other loans and obligations.
+
+Manu Singh:         Thank you, Abhijit. Yes, I completely concur with the view on a broad-based level that
+                    mortgages largely remains untouched, even from the present perspective of your
+                    mentioning about the drought, and shortfall in rainfall. From what we see on our
+                    exposures, and we have a very keen eye and ear to the ground on these, all my lead
+                    indicators are actually getting better, as the months are progressing. We do not see,
+                    currently or in the near future, any stress on this. Parallelly, as a conscious effort over
+                    time, our exposures to what we call as pure Agri-based income segments has been very,
+                    very limited.
+
+                    Coming to your first question on RO productivity, what I mentioned was while in Q1, we
+                    had 1.1 files per month as productivity, and for Q2, that has moved to 1.2 files. We ended
+                    September at 1.3 files, and our go-to aim, this year, is 1.5 files.
+
+Abhijit Tibrewal:   Is it the way we define this productivity is number of cases disbursed per employee?
+
+Manu Singh:         Yes. When you say employee, this is the front end level RO, relationship officer, who is
+                    the actual producer of the file.
+
+Abhijit Tibrewal:   Sure, sir. The other thing I wanted to understand is have we made any PLR changes after
+                    the repo rate hike?
+
+Manu Singh:         No, not currently. We are examining it, and as and when we feel the need of a PLR
+                    change, we will make it happen. Our ALCO meets every month, and it has a formula-
+                    driven approach towards calculation of PLR. The answer to your question, not currently.
+
+Abhijit Tibrewal:   Got it. And sir, lastly, at least what we have been hearing is that on the incremental
+                    lending that happens, rate will be dictated by how the competitive landscape shapes
+                    up. We are, of late, last 6-9 months, been hearing even larger HFCs trying to enter into
+                    near prime and affordable segments. For them, while it is more what banks do and they
+                    decide to follow, for us, some of it could also be dictated by what the large HFCs who at
+                    least have a presence in this segment do. Is there anything happening, at least on the
+                    newer originations? Are they still tracking significantly lower than the back book?
+
+Manu Singh:         First point, Abhijit, the way I look at the customer segment that we operate in, is primarily
+                    very different in ATS from what the larger NBFCs or HFCs look at. Hence, that clear
+                    segmental difference, fundamentally for me, as we progress ahead, does not put
+                    competitive pressure from these entities to my target audience.
+
+                    Second part of your question, whether incremental disbursements are a tad bit lower to
+                    the book, it is a business cycle. We are confident of maintaining spreads above 5% on
+                    our placement disbursements, and that is what we are keenly focused on at every
+                    transaction, which is today on a technology platform called SFDC with BREs as well as
+                    risk-adjusted returns showing ranges which are very acutely monitored by rank and file
+                    on which case, based on deviations, needs what kind of rate reduction or rate bump up.
+                    We are fairly confident of maintaining 5%.
+
+Abhijit Tibrewal:   Got it, sir. That is all from my side. Thank you so much, and I wish you and your team the
+                    very best.
+
+Moderator:          Thank you, Abhijit. We will take our next question. We have Chintan Shah from Citi
+                    group.
+
+Chintan Shah:       Firstly, on this transition to 500 billion AUM, under the new leadership team. What would
+                    be the primary blocks to accelerate the growth from the current 16% levels to 20% level?
+                    Specifically, how much of this is expected to come from the existing branch vintage,
+                    versus expansion to newer geographies? What is the expected trajectory of RO
+                    productivity? I think that is already mentioned at two files. Will it stick to that, or will it
+                    be higher? That is the first question.
+
+Manu Singh:         Thanks, Chintan. Yes, productivity increase per RO and per resource deployed, along
+                    with expansion, especially deepening into markets that we are currently present in, is
+                    our medium-term focus. As I mentioned on the branch network, we continue to invest
+                    in our branch network, to go deeper. Deeper, where there is also flexibility in pricing as
+                    we go towards the hinterland. Both X-axis and Y-axis, which is where we source, as well
+                    as per resource deployed and how do we move this up. If a broad math has to be put
+                    around, this is roughly at about 20%+ CAGR growth on volumes, 8% driven by branches,
+                    10% by productivity, and about 5%-7% by ATS.
+
+Chintan Shah:     Okay, understand. Got it. Secondly, if I look at our AUM mix and disbursement mix, for
+                  H1, now we have around 21% of the disbursements towards the LAP portfolio, while the
+                  share in the AUM mix for LAP is around 14%. Just trying to understand, what is our
+                  targeted steady state asset-wise mix for HL and LAP? Is that given the higher ticket size
+                  and yield differential in LAP and also to an extent in MSME versus home loans, how are
+                  we looking at the risk-adjusted returns, across these segments?
+
+Manu Singh:       Steady state on an AUM level, we will continue to look at tending towards, 65-35, HL
+                  versus NHL. What you see currently is also an outcome of conscious efforts, which the
+                  teams are moving in. Let me give you a quick heads-up on that. We are very aggressively
+                  protecting our book. With data and technology, looking at pre-approved offers, we have
+                  dramatically accelerated offering top-up loans to our existing good customers based on
+                  the relationship value at near zero cost of acquisition. When we book that, especially in
+                  Q2 when we accelerated, that goes and sits as LAP. That is one conscious effort which
+                  helps us both on retention as well as NIM improvement, as well as reduced cost of
+                  acquisition.
+
+                  Second, there have been some clearing of the air on what can be classified as HL, what
+                  can be classified as NHL based on stage of constructions in business as we onboard
+                  that today. When we look alike between last quarter or last year same quarter, while top
+                  of the funnel sourcing remains almost identical, booking of anything which would be
+                  above 60% would fall under the LAP purview. Those are two large shifts which are
+                  conscious, which show here. Again, repeating, on a steady state basis on AUM, 65-35 is
+                  where we are comfortable with.
+
+Chintan Shah:     Sure. And Sir, one last question, if I may, on the Opex front. Now, given the kind of
+                  improvements we have seen in the underwriting TATs, digital collections, and agentic AI
+                  and automation, etc. What is the sustainable Opex trajectory over the next 2-3 years?
+                  How much further operating leverage can we see from these platforms along with the
+                  improvement in the RO productivity?
+
+Manu Singh:       Our medium-term aim is to get Opex to assets below 3%. The tools that you mentioned
+                  are not individual, but collective tools, which are running concurrently throughout the
+                  rank and file.
+
+Moderator:        We will move to our next participant. We have Shreepal Doshi of Equirus. Shreepal,
+                  please go ahead.
+
+Shreepal Doshi:   Thank you for giving me the opportunity. My question was, again, on the drought
+                  situation in some of our key geographies. We have almost 19% exposure in
+                  Maharashtra, and given our model wherein we are more of a semi-urban and rural
+                  financier. While numbers are holding up well, are you seeing any incremental pressure
+                  in October or delays from customers? What would our exposure be to the districts
+                  where the impact is relatively higher? Sir, if you could give some more color, on how do
+                  you see things shaping up from here on, with respect to, if it could derail our growth
+                  momentum also? Thank you for that.
+
+Manu Singh:       To answer the second question first. No, I do not see Aavas having any hiccups on asset
+                  quality at all. On the drought situation, especially the point that you mentioned on
+                  Maharashtra, we are largely centric around Pune and some of the Marathwada districts
+                  like Latur, etc. Our concentration is very minimal. Parallelly, I mentioned earlier in the
+                  conversation that we have been very conscious of steering clear from only agri-based
+                  income being the basis of our credit assessment. We have always been very cautious of
+
+                  this approach and hence from the perspective of looking ahead from this one deficit
+                  rainfall cycle, I do not see any impact on Aavas’ book or Aavas’ future growth.
+
+Shreepal Doshi:   Got it. The second question is pertaining to your last quarter’s commentary wherein; the
+                  thought process was to also have maybe a quarter wherein we could see decline in
+                  spreads so that we could get back to the growth momentum. Are we still open to that as
+                  a thought process? Or, as you have been highlighting in the call today, that we are
+                  holding up and focusing more on managing spreads?
+
+Manu Singh:       You are alluding to the last conversation that we had in Q1. We have worked very hard
+                  to make sure that our spread remains above 5%, and as I mentioned earlier, that is
+                  something that we will continuously maintain ahead.
+
+                  Secondly, both levers on cost of borrowing as well as ability to pass on the rate hikes to
+                  our target audience are both levers that we are actively pursuing as we place
+                  disbursements today, tomorrow, and the day after.
+
+Moderator:        We have Renish Bhuva of ICICI Securities. Renish, please unmute your microphone and
+                  go ahead.
+
+Renish Bhuva:     Sir, just two things. One on this spread trajectory. I understand that we want to maintain
+                  a 5% spread, going ahead. But when we look at the last three, four quarters trajectory,
+                  and also when we look at the AUM mix shift, over the last six, seven quarters, it is
+                  actually tilting towards a non-HL book, which I am assuming will be coming at a higher
+                  yield. Despite that, obviously spread is coming down naturally, because of the PLR cuts
+                  we have done in past.
+
+                  Now, entering a rising rate cycle, how should one think about the rate cycle? I mean, the
+                  rising rate cycle should give us a tailwind, or maybe for next couple of quarters, your
+                  spread would actually first compress and then we will see expansion. How do you
+                  internally look at the rate cycle which is there currently?
+
+Manu Singh:       Renish, I do think that we are now in an interest rate cycle which will rise. While we saw
+                  25 bps currently, if you look at all the other indicators on tightening at monetary policy
+                  level, we are in a rising interest rate cycle. What I want us to be very clear about is Aavas
+                  will always be customer centric, and we will do what is right. Having said that, my
+                  commentary on spread remains because a larger part of my unit also is here and
+                  listening. We will maintain above 5% spreads. Tools in our hand are working on cost of
+                  borrowing. Aavas is a great franchise on the liability side. We continue to leverage that
+                  proactively.
+
+                  Parallelly, yes, a rising interest rate cycle allows right amount of pass on risk-adjusted
+                  returns to the customer. When I say risk-adjusted returns, it is on product level. Risk-
+                  adjusted return is on credit quality level. Risk-adjusted return is on property type level.
+                  All of these are available on a transaction basis, governed by technology, and a risk chart
+                  on which today the team runs on every transaction. So, a diversified retail book on
+                  placement at risk-adjusted pricing in a rising interest rate cycle, I do believe this 5% is
+                  sustainable.
+
+Renish Bhuva:     Okay. Just to follow up on that, let us say, is it fair to assume that the incremental
+                  spreads are better than the book spread?
+
+Manu Singh:       Almost same today. But as I mentioned, an increasing rate cycle always allows you the
+                  opportunity on a transaction level to start reversing this trend.
+
+Renish Bhuva:    Got it. But, Sir, because now let us say the large part of our borrowing is floating rate,
+                 right? So at least whatever part, which is linked to the repo rate, which will get repriced
+                 in Q3, and since we have not considered any PLR hike, at least in Q3, are we run a risk
+                 of spread going below 5% is what my worry is.
+
+Manu Singh:      Let me answer the second question first. No. Secondly, ALCO internally meets every
+                 month. We have a very keen eye towards the indicators, and as and when warranted,
+                 ALCO internally will look at PLR hike. But as I mentioned, the pivot will always be on what
+                 is right.
+
+Renish Bhuva:    Got it. This is very helpful, sir. Just last thing, sort of verification. Obviously, you did
+                 mention that first half disbursement pickup has been up to the mark, and maybe it is
+                 slightly better than what we might have earlier thought for. But now, given the
+                 microenvironment is, do you foresee any risk at all to our disbursement growth targets
+                 internally?
+
+Manu Singh:      No. We are clearly positioned and we are unified in the goal that we want to deliver. The
+                 trajectory at Q1-Q2, and as we look at October today, is in the right direction. Hence,
+                 our commitment of growing disbursements upwards of 20% stands. As you know, Q3 is
+                 a festive season, Q4 is the biggest season, so we will only get bigger and better.
+
+Renish Bhuva:    Got it. Sir, so we have guided for what, 16%-17% AUM growth in 2027, right?
+
+Manu Singh:      Yes.
+
+Moderator:       We will take our next question. We have Kishan Rungta of Emkay Global. Kishan, please
+                 unmute and go ahead.
+
+Kishan Rungta:   Thank you for the opportunity, and congratulations on a good set of results. Sir, my two
+                 questions are basically, one is on the disbursement breakup, what you have given. If we
+                 see, there has been some moderation in MSME disbursement, whereas in other
+                 mortgage loans, we have seen increased disbursement. So how should we look into it?
+
+                 Secondly, sir, if you can just throw some more light on the increase in 1+ DPD in this
+                 quarter. So those are two questions from my side. Thank you.
+
+Manu Singh:      On the first one, as I mentioned, our ethos on the book level is a 65-35 split between HL
+                 and non-HL. Parallelly, what you see in Q2, as I mentioned, has two strong levers which
+                 are done with strategic direction. First, to ensure that existing customers are offered
+                 data-backed, technology-driven top-up loans for them to continue with Aavas and
+                 prevent my leaking bucket. That gets booked as LAP, and hence you see that increase.
+                 It is a conscious effort, which is right for the customer, right for the firm. Second is
+                 clarification on what stage of construction can you categorize lending at HL versus NHL.
+                 So that is the second piece.
+
+                 Third, on your question on 1+ DPD, Y-o-Y, we are 18 bps down. 4-bps, which you see is
+                 largely impact of seasonality. I do not look at that 4-bps, it is like my heartbeat. It
+                 sometimes goes up, sometimes goes down. As I mentioned earlier, we are seeing all
+                 lead indicators getting better month-on-month, and we are confident of our guidance of
+                 credit cost within 25 bps.
+
+Kishan Rungta:   Sir, got it. Just a bit more clarification on the MSME side, because if we see, the
+                 disbursement earlier used to grow at 32% Y-o-Y, whereas in this quarter it is just 18%. If
+                 you can just clarify that. Are we taking any cautious steps in that segment specifically?
+
+Manu Singh:    I would not call it cautious. It is just about making sure that what we are placing every
+               month is attuned to our risk as well as pricing, to make sure that spreads stay above 5%
+               and HL, non-HL mix stays at 65%-35% on the book level. I would not read too much into
+               a quarterly change between largely HL and non-HL mix.
+
+Moderator:     Moving to our next participant, we have Rajiv Mehta of YES Securities. Rajiv, please go
+               ahead. Sorry, Rajiv. We are unable to hear you.
+
+Rajiv Mehta:   Just one thing on this whole productivity, scale-up from 1.1 files per month per RO to
+               maybe moving up to 2 files. This can happen when you obviously, significantly source a
+               much higher volume of leads. Second is maybe if at all, if you think about relaxing some
+               underwriting filter changes. I believe that the second thing will not happen, but what
+               about the sourcing of so many leads and so many files for us to improve or take our
+               productivity so much higher?
+
+Manu Singh:    Thank you so much for that reinforcement. I was going to categorically say that point two
+               is not going to happen. On point one, we are making efforts structurally; to increase top
+               of funnel, this goes to three aspects. One, are we placed on manpower right? Based on
+               data and growth over the last 4 quarters, in the target audience, which is our customer
+               segment, we have remapped requirements of people at growth spots. That is number
+               one.
+
+               The second is we are investing in alternate channels, including digital channels, and
+               building a vertical around that to supplement and augment top of the funnel. The third,
+               our internal mechanism of ensuring that the direct team, which is a strength at Aavas,
+               scouts for the market daily at the right hotspots, which is again driven by technology and
+               data. Something like an FMCG beat plan is being followed very rigorously.
+
+               All these three aspects, running over a period of time, are allowing us to see significant
+               movement in top of funnel. As I mentioned, this is just the beginning. We are at the
+               ground floor of what we want to create as a superstructure. These efforts in unified goals
+               of what success means are where we are focused daily. Parallelly, we are also looking
+               at not only RO, but supervisor productivity, because the supervisor is not only an
+               aggregator of ROs, but also a significant population which can go out into the market to
+               open up new lead channels.
+
+               This, coupled with every Saturday, I, myself meet 50 non-productive ROs to understand
+               what their ground level problem statements are giving us very clear and crisp insights
+               which are individually market-driven for solutions. No solution is a national solution at
+               Aavas. All solutions are state or district-oriented solutions because, as you know, in
+               India, every 50 kilometers, not only language, cuisine, but customer behavior also
+               changes.
+
+Rajiv Mehta:   Okay. In terms of your deciding on incremental originations pricing, PLR is something
+               that ALCO decides every month or reviews every month, but as far as the new
+               disbursements are concerned, has there been any tweak in pricing on the offer side, as
+               a part of a mitigation for the potential increase in cost of funds?
+
+Manu Singh:    Yes. As I mentioned earlier in the call, including in my opening remarks, increasing
+               lending rates always support yield increment on fresh disbursements. Today, we are
+               running business rule engines which give out ranges for a transaction based on three or
+               four facets. It is not a singular combination. It is based on geography. It is based on how
+               the branch performs. It is based on whether product is HL, non-HL, MSME.
+
+                      It also takes into consideration cost of acquisition based on sourcing point, because A-
+                      point can be a little more costlier for me in terms of acquisition versus a B-point. It is a
+                      potent tool in the hands of our direct teams, which can offer possibly a discount and get
+                      a customer which has higher actuarial tenure with me. What I am trying to summarize is
+                      that it is a very scientifically evolved rule engine which runs granularly at every
+                      transaction. Parallelly, this is viewed twice a month to make sure that we are in tune
+                      with our cost of borrowing.
+
+Rajiv Mehta:          Okay. Can you give us some data about then on a like-to-like basis, say, for home loan,
+                      since this rule engine is constantly evolving pricing and reviewing pricing at high
+                      frequency, what has been the movement in incremental home loan yields, maybe on a
+                      month-on-month basis or maybe on quarter-on-quarter basis for the recent time, so
+                      that we come to know what has been the kind of refinement which has come in?
+
+Manu Singh:           Roughly about 8 to 10 bps. Home loans are quite a competitive segment. With the credit
+                      quality that we underwrite, we are conscious of the fact that lever number two, which is
+                      opening up of credit rates, should not be pressurized.
+
+Moderator:            We will take our next question from our participant, Nischint Chawathe of Kotak.
+                      Nischint, please go ahead with your question now.
+
+Nischint Chawathe: The first one is on fee income, and I believe insurance distribution is somewhere closer
+                   to around 15-20 basis of your AUMs. Now, given the fact that this is something which is
+                   coming now under the scanner, in case this avenue sort of shuts down or reduces, do
+                   you think you have the leeway to pass it on to the asset side in terms of home loan rates?
+                   And is there any net loss that you could probably encounter on this?
+
+                      And the second question is on operating expenses. You have held on incredibly well. Till
+                      when do you think you can hold on, and when do you start seeing the operating expenses
+                      rise?
+
+Manu Singh:           Thanks, Nischint. Let me take the first question first on insurance. First of all, I
+                      fundamentally believe that insurance is the right product along with mortgages, more
+                      so in affordable housing space, because mortality is 4x to 5x of prime lending, and we
+                      see that in our portfolio as well. So as far as making sure that the right product is sold to
+                      the customer at the point of origination, we will continue pressing this pedal, not by
+                      force, but by education. We are very cognizant of the fact that insurance is sold by
+                      solicitation. Second, at Aavas, currently we are at a curve which is lesser in attachment
+                      percentage from my competition. And hence, there is enough and more leeway for
+                      attachment percentages to go up because it is right for the customer.
+
+                      Secondly, to give you an estimate, roughly about 50% of what one stands to lose
+                      mathematically because of the regulation coming in from 1st of April next year, we are
+                      very confident of pulling that through by making sure that our attachment percentages
+                      come in line with what competition is, because we fundamentally believe the product is
+                      a right match for this customer segment. Second, yes, it does allow some space to look
+                      at the right fee mix and yield transmission. However, I want to categorically tell myself,
+                      as well as my larger team on the call, that this is not a fill in the blank exercise. This is an
+                      exercise to do what is right. Attachment is right. We will press the pedal there to ensure
+                      that roughly 4% of our PBT today is coming from insurance income. Second, move the
+                      right levers on risk-adjusted fees as well as yield on a transaction level to make sure that
+                      we cover this up.
+
+                 On your second question of Opex, I think the cost-to-income ratio is a very important
+                 lever. When we look and benchmark ourselves, we start at a higher pedestal of upwards
+                 of 40%. We have room, and our immediate objective is to try and start pushing this
+                 downwards to less than 40% in the medium term. All levers that we can pull through on
+                 both P&L as well as the business side of cost, we are acutely monitoring. I do think there
+                 is space. I am not shying away from making sure that we continuously keep investing in
+                 branch expansion, geography expansion, people being put at the right place.
+
+                 But parallelly, data technology usage, as we have seen in top-up loans growing 5x, Y-o-
+                 Y productivity increase on an RO level, supervisory level. These have long runways to
+                 continuously play against. Branch profitability and revenue per resource deployed are
+                 two task forces which are running parallelly across the length and breadth of Aavas. So
+                 yes, to answer your question, there is no sweet pill on this, but we believe we are
+                 aggressively pursuing wanting to get CTI below 40%.
+
+Moderator:       Moving to our next participant, we have Meghna Luthra of InCred Equities. Meghna,
+                 please go ahead.
+
+Meghna Luthra:   Thank you for the opportunity. I had a few questions. One was, I guess the headcount is
+                 down by around 150 people. Do you plan to cut down more of your employee costs or
+                 number of employees actually, going forward?
+
+Manu Singh:      Meghna, we are not cutting down on people. We are making sure that every resource
+                 deployed is rightfully produced for the organization. As I mentioned earlier, we are right
+                 sizing at opportunity, which is available on growth, which is based on data. We are also
+                 expanding our footprint. So, this is us getting fitter and better. There is no agenda for
+                 cutting people. In fact, we are investing.
+
+Meghna Luthra:   Okay, so the reduction in headcount would be attributable to repurposing those people,
+                 right?
+
+Manu Singh:      Repurposing and making sure that the productivity levers are tightly measured,
+                 monitored, managed, and if there is deadwood in the system, it is churned out after
+                 giving the right opportunity.
+
+Meghna Luthra:   Okay, got it. And sir, I just was curious on what would be the proportion of top-ups in
+                 disbursements? They will be a part of the home loan disbursements, right?
+
+Manu Singh:      No, they would be tagged as LAP.
+
+Meghna Luthra:   Okay.
+
+Manu Singh:      Roughly about 5% today.
+
+Meghna Luthra:   5% of the total disbursements is top-ups?
+
+Manu Singh:      Yes.
+
+Meghna Luthra:   Got it. Lastly, some of the lenders have flagged off some stress in lower ticket loans. Do
+                 you see a similar sort of stress in lower tickets, despite being secured, loans?
+
+Manu Singh:      No, we do not, and we are not very aggressive on the lower ticket size customer
+                 segment.
+
+Meghna Luthra:    Got it. Just one more question is on the demand or competition front, are you seeing any
+                  changes between, say, a salaried customer and a self-employed customer, in any
+                  geography specific?
+
+Manu Singh:       Not really. We have not seen any pressure on demand. Yes, cyclically, based on Q2, Q3,
+                  and Q4, we do see that a lot of customers, especially on the self-employed side, began
+                  taking loans in anticipation of the coming season. While salaried customers typically
+                  intend to take this in season or in Q4 because they manage their cash flow accordingly.
+                  On top of funnel demand, I do not see any exuberance going down.
+
+Moderator:        We have Gaurav Purohit of Systematix group. Gaurav, please go ahead with your
+                  question.
+
+Gaurav Purohit:   Good evening, sir. So, two questions from my side. Sir, while you are taking all the
+                  measures to improve productivity, from the front-end employee, what are the tweaks
+                  that you have made in the incentive policy for them? This question is coming because,
+                  see, in the last few years, the attrition in the frontline team has been quite high, right?
+                  While obviously, some of them would be underperforming, but how do you plan to
+                  incentivize better performers?
+
+                  Secondly, is there any ESOP plan has been put in place by the CVC team? These are the
+                  two questions.
+
+Manu Singh:       First question, yes, we have revamped our incentive policies, and the incentive policies’
+                  primary ethos are twofold. One, to encourage people who have been generally fence
+                  sitters to try and push towards higher buckets. See, a larger part, when the RO
+                  productivity is 1, 1.1, 1.2, progressively moving to 1.5 files, we are talking about a large
+                  majority of the ROs doing one file. But then there are ROs who move to two files and
+                  three files. So, the incentive structure is getting better and pushing people to get to
+                  higher slabs, and the delta between them is quite lucrative. Second, it is also attuned to
+                  making people do this business directly in their catchment area of 40-50 kilometers,
+                  circumference of the branch, because direct business helps us in many facets. It stays
+                  with us longer. It largely is seen as lesser in trouble for us.
+
+                  Third, we do have a relook window established for cases to be relooked by credit to
+                  make sure that ROs have a second chance of getting more documentation, one more
+                  personal discussion done to move the lever on credit assessment without, in any
+                  manner, diluting credit standards. So, between all of these three levers you see today,
+                  that productivity is showing the rightful trend upwards. So, if I can use the word carrot
+                  and stick, we are today balanced on the side of carrots being right, for the right behavior
+                  to be shown and enough and more time along with help being given to the front end to
+                  make them productive.
+
+Gaurav Purohit:   Sir, just sorry to interrupt you, but at what level does the employee actually start with an
+                  incentive? For instance, if they are achieving, say, 75% of their monthly target, are they
+                  becoming eligible for incentive or they have to cross 100?
+
+Manu Singh:       On first disbursement. So in order to encourage them to make sure that they have their
+                  line of sight clearly on doing one file at least a month, the incentive structure starts from
+                  the first disbursement. Obviously, it has gradations and slabs as we move upwards.
+
+                  On your second question, yes, there is a long-term incentive plan already rolled out in
+                  mid quarter of Q2, and there is an ESOP running currently as we speak to about 200
+                  employees across Aavas. We are well-poised on reward and recognition mechanisms,
+
+                  depending on which level the person is with us, both immediate term, medium term, as
+                  well as long term.
+
+Gaurav Purohit:   Sir, one more question, if I can squeeze it in. Is the incentive driven by number of files or
+                  by the disbursement value? Because a sales executive could get a higher ticket file. So,
+                  while the number of files would be one, the disbursement could be of higher value.
+
+Manu Singh:       The structure starts from number of files. Value is, for us, controlled from a perspective
+                  of credit assessment. So, when you mention someone can start pushing in files worth
+                  Rs.50 lakhs, we have gates to curtail that on an incentive platform to a limited value. But
+                  it is a healthy mix of both. Weightages are given to both.
+
+Gaurav Purohit:   Okay. Fair enough, Sir. And these weekend workshops that you are doing with the
+                  frontline team, are you seeing any improvement with the sample that you were talking
+                  to? Are they showing any improvement in the month-on-month output?
+
+Manu Singh:       Yes. Both the number of active ROs as well as active supervisors is on an increasing
+                  trend month-on-month.
+
+Moderator:        Thank you, Gaurav. Due to paucity of time, we will take this as the last question for
+                  today. I will now hand it over back to the management team for closing remarks. Over to
+                  you, Sir.
+
+Manu Singh:       Thank you. Ladies and gentlemen, as we conclude today’s earnings call, I would like to
+                  sincerely thank all of you for your time, continued engagement and support. The
+                  progress we have made reflects the dedication of our team, the trust of our customers,
+                  and the confidence of our shareholders and lending partners.
+
+                  I want to express our heartfelt gratitude to NHB, our board, and all our stakeholders for
+                  their continued support and guidance, which has helped us shape a stronger, better,
+                  and more transparent Aavas. As we move ahead on our growth path, we will ensure
+                  Aavas emerges as the gold standard in governance and customer-first approach.
+                  Should you have any further questions or require additional information, please feel free
+                  to reach out to Rakesh Shinde, our Head of Investor Relations. Thank you once again for
+                  your continued trust and partnership.
+
+                  We remain committed to executing with discipline and delivering consistent long-term
+                  value, and we look forward to sharing our progress with you in the quarters ahead. We
+                  wish you a joyous Diwali and a prosperous Samvat 2083 in advance. Thank you and have
+                  a pleasant evening.
+
+Moderator:        Thank you. Ladies and gentlemen, on behalf of Aavas Financiers Limited, that
+                  concludes today’s conference call. Thank you all for joining us, and you can now click
+                  on the leave icon to exit the meeting. Thank you all for your participation.
+

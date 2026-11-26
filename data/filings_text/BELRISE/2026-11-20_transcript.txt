@@ -1,0 +1,834 @@
+Dated: November 20, 2026
+
+The Secretary, Listing Department                   The Secretary, Listing Department
+BSE Limited                                         National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                          Exchange Plaza, C-1, Block G, Bandra Kurla
+Dalal Street, Mumbai – 400 001                      Complex, Bandra Kurla (E), Mumbai – 400 051
+
+Scrip Code: 544405                                  Symbol: BELRISE
+ISIN: INE894V01022                                  ISIN: INE894V01022
+
+Sub: Transcript of Earnings Call pertaining to the Unaudited Financial Results of the Company
+for the quarter and Half Year ended on September 30, 2026.
+
+Ref: Regulation 30 & 46 read with Clause 15 of Para A of Part A of Schedule III of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015
+
+Dear Sir/ Madam,
+
+This is continuation to our intimation dated November 07, 2026 and November 16, 2026 regarding
+intimation of earnings call and audio recording of earnings call respectively to discuss the unaudited
+financial results of the Company for the quarter and half year ended on September 30,2026 and
+pursuant to the abovementioned regulations, please find enclosed herewith the transcript of the said
+earnings call.
+
+The said transcript is also available on the Company’s website under the tab ‘Investor Relations’ at
+https://belriseindustries.com.
+
+You are requested to take the above on record.
+
+Thanking you,
+
+Yours faithfully,
+For Belrise Industries Limited
+SIDDHESH   Digitally signed by
+           SIDDHESH SUDHIR
+SUDHIR     MANDKE
+           Date: 2026.11.20
+MANDKE     11:17:16 +05'30'
+
+Siddhesh Mandke
+Company Secretary and Compliance Officer
+Membership No. A20101
+
+Encl: As above
+
+                          “Belrise Industries Limited
+           Q2 & H1 FY27 Earnings Conference Call”
+                                 November 16, 2026
+
+
+
+
+E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings uploaded
+                     on the stock exchange on 16th November 2026 will prevail
+
+
+
+
+MANAGEMENT:
+   •   Mr. Shrikant Badve – Managing Director – Belrise Industries Limited
+   •   Mr. Swastid Badve – General Manager (Finance & EV) – Belrise Industries Limited
+   •   Mr. Sumedh Badve – President (Strategy) – Belrise Industries Limited
+   •   Mr. Rahul Ganu – Chief Financial Officer – Belrise Industries Limited
+   •   Mr. Sunil Kulkarni – Chief Marketing Officer – Belrise Industries Limited
+
+
+
+
+                                             Page 1 of 14
+
+                                                                                        Belrise Industries Limited
+                                                                                              November 16, 2026
+
+Moderator:        Ladies and gentlemen, good day and welcome to the Belrise Industries Limited Q2 and H1 FY27
+                  Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode
+                  and there will be an opportunity for you to ask questions after the presentation concludes. Should
+                  you need assistance during this conference call, please signal an operator by pressing star then
+                  zero on your touchtone phone. Please note that this conference is being recorded.
+
+
+                  This conference call may contain forward-looking statements about the company, which are
+                  based on the beliefs, opinions, and expectations of the company as on the date of this call. These
+                  statements do not guarantee the future performance of the company and may involve risks and
+                  uncertainties that are difficult to predict.
+
+
+                  I now hand the conference over to Mr. Shrikant Badve, Managing Director of Belrise Industries
+                  Limited. Thank you, and over to you, sir.
+
+
+Shrikant Badve:   Thank you for joining us for Belrise Industries Q2 and H1 FY27 earnings call. On the call today,
+                  I have with me my sons, Sumedh and Swastid, along with our CFO, Mr. Rahul Ganu, our CMO,
+                  Mr. Sunil Kulkarni, and SGA, our Investor Relations Advisors.
+
+
+                  Coming to the results, against a backdrop of continued uncertainty, we delivered our strongest
+                  quarter ever, with PAT reaching INR1,663 million. Total revenue from operations for the Q2
+                  FY27 stood at INR27,464 million, up 17% year-on-year, including manufacturing revenue of
+                  INR23,441 million, which grew 26% year-on-year.
+
+
+                  Our EBITDA stood at INR3,306 million, with margin at 12.0%. Last quarter, we had indicated
+                  that the worst of the cost pressures were behind us, and we are pleased to report a return to stable
+                  margins this quarter.
+
+
+                  Perhaps the most exciting development this quarter has been our entry into the ecosystem of one
+                  of the largest American smartphone manufacturers with our maiden order for precision tooling
+                  and fixtures. This order has been 18 months in the making, during which we have been actively
+                  engaging with the OEM’s ecosystem to explore how we can contribute to their rapidly expanding
+                  operations in India.
+
+
+                  We believe that this single OEM represents an opportunity as large as some of the biggest
+                  industries in India today. And while this is just our first step into this ecosystem, it opens up the
+                  possibility of building a much larger relationship.
+
+
+                  More importantly, we believe this order is a strong validation of our precision manufacturing
+                  capabilities across a wide range of metallurgies, including titanium, aluminum, high-tensile
+                  steel, and other exotic materials.
+
+
+                  Our capabilities in titanium machining have also translated into an incremental order win at
+                  Chester Hall, our recently acquired aerospace business in the UK. This marks our first order win
+                  since acquisition, for the manufacture of track beams of the engine nacelles, for one of the largest
+                  aircraft programs of a leading global aircraft OEM.
+
+
+
+
+                                            Page 2 of 14
+
+                                                                                      Belrise Industries Limited
+                                                                                            November 16, 2026
+
+                 This order further strengthens our position in the OEM supply chain. Further, over the last few
+                 quarters, we have spoken to you about the ambition to become a Tier-0.5 supplier or system
+                 integrator, which for us means we can be an end-to-end system partner for global OEMs. This
+                 quarter, we have won two programs in which we will supply complete assemblies rather than
+                 individual parts.
+
+
+                 With that, I'll now hand over the call to Swastid, who will take you through the key order wins
+                 and operational highlights for this quarter. Thank you very much.
+
+
+Swastid Badve:   Thank you. Let me take you through the key automotive wins for this quarter.
+
+
+                 1.   Firstly, we are pleased to announce a new manufacturing facility in Dharwad for one of
+                      India's leading commercial vehicle OEMs, with ramp-up slated for Q1 FY28. Until now,
+                      our presence in commercial vehicle chassis has been primarily in long members.
+
+
+                      While under this program, we will not only manufacture long members, but also supply the
+                      complete chassis assemblies across the OEM's heavy commercial vehicle platforms. This
+                      is a significant step up in content per vehicle. The value of a complete frame assembly
+                      ranges from approximately INR60,000 to INR1 lakh per vehicle and at peak capacity, we
+                      expect this facility to generate annual revenues of INR 1,500-2,000 million. Today, we can
+                      manufacture parts as light as 400 milligrams and as heavy as 400 kilograms. Getting here
+                      has taken considerable effort.
+
+
+                      Over the past year, our teams have worked closely with the customer to develop and
+                      validate these capabilities, and we see the award of this program as a strong endorsement
+                      of our ability to deliver complex, higher-value assemblies. We also see this as a beginning
+                      of a larger opportunity.
+
+
+                      Once we have established and demonstrated these capabilities at Dharwad, we believe there
+                      is significant potential to replicate this business at the OEM's other locations, and over time,
+                      to offer complete chassis assemblies to other leading commercial vehicle manufacturers.
+
+
+                      This program also fits closely with our acquisition of Hyva India's Tipper Body Business.
+                      With Hyva, we are expanding into the complete tipping systems, and with Dharwad, we
+                      are establishing our capability in complete chassis assemblies.
+
+
+                      Together, both of these components allow us to address a substantial share of the heavy
+                      fabrication content in a commercial vehicle and to become a more deeply integrated
+                      manufacturing partner to all of our OEM customers.
+
+
+                 2.   Secondly, we are also pleased to announce another significant order win in our three-
+                      wheeler portfolio, where we have secured a program to manufacture complete body and
+                      chassis assemblies for one of the highest-selling models for one of India's largest three-
+                      wheeler OEMs.
+
+
+
+
+                                          Page 3 of 14
+
+                                                                  Belrise Industries Limited
+                                                                        November 16, 2026
+
+     Historically, this program was serviced by a single supplier, and we have now been selected
+     as the second source. Given the scale of this model, this is particularly encouraging. For
+     this program, we are establishing a new manufacturing facility in Chhatrapati
+     Sambhajinagar. Our teams have developed and set up the complete production line in
+     record time, and we expect production to ramp up from Q1 FY28.
+
+
+     At peak capacity, we expect this facility to contribute approximately INR1,000-1,200
+     million in annual revenue. Strategically, this marks our entry into the complete three-
+     wheeler body manufacturing, a product category we were not present in earlier, and it
+     increased our incremental content per vehicle by approximately INR9,000.
+
+
+3.   Thirdly, during the quarter, we also secured two important wins in the passenger vehicle
+     metal components business, further strengthening our presence with leading global OEMs.
+     The first is a maiden sheet metal order win from a leading Japanese passenger vehicle OEM.
+
+
+     We have been supplying plastic components and filters to this customer for the past couple
+     of years, and this order win marks our entry into their sheet metal portfolio. The program
+     will be serviced from our Greater Noida facility.
+
+
+     The second is a new sheet metal order from one of the largest European passenger vehicle
+     OEMs for its India operations. This program will be serviced from our Pune facility. Both
+     wins are strategically important because they bring leading Japanese and European
+     manufacturers into our metal components customer base. They also provide us with a
+     platform to pursue additional programs and scale our business with these customers.
+
+
+4.   Fourthly and lastly, building on the wins announced in the last quarter, our proprietary
+     suspension business continued to gain traction in Q2 FY27.
+
+
+     First, we've onboarded our sixth OEM customer in this segment, one of the largest premium
+     two-wheeler manufacturers based in South India, and supplies to them have already
+     commenced as of Q3 FY27.
+
+
+     Second, we've secured additional orders from a fast-growing two and three-wheeler OEM
+     in South India, covering two of their models. We've scaled up our capabilities to support
+     these programs, and production is expected to commence in Q4 FY27.
+
+
+     With six OEMs now onboard in our suspension category, we see growing acceptance across
+     the industry, and we remain confident of deepening these relationships while adding new
+     platforms as well as new customers.
+
+
+Lastly, during the quarter, we were also able to improve our ROCE by 60 basis points from
+14.7% last year to 15.3%, excluding the unutilized portion of our QIP proceeds, which we expect
+to deploy over the coming few quarters. I think this improvement in ROCE, reflects our
+continued focus on disciplined capital allocation, even as we continue to grow faster than the
+industry.
+
+                        Page 4 of 14
+
+                                                                                    Belrise Industries Limited
+                                                                                          November 16, 2026
+
+                Looking ahead, we remain focused on further improving our ROCE with an ambition to reach
+                high teens over the next couple of years. We expect this improvement to be driven by three key
+                factors:
+
+                     •     First, a continued reduction in capital expenditure as a percentage of revenue.
+                     •     Second, better capacity utilization across our existing manufacturing footprint.
+                     •     And third, our increasing presence in proprietary product segments across automotive,
+                           electronics, and aerospace, which we believe can deliver structurally higher returns on
+                           capital.
+
+
+                With that, I now hand over the call to Sumedh to take you through the non-automotive business
+                wins and key partnerships secured during the quarter. Thank you, everyone.
+
+
+Sumedh Badve:   Good morning, everyone. While Swastid covered our automotive business, I will talk about two
+                developments outside automotive and a new technology partnership that strengthens our product
+                portfolio in auto.
+
+
+                1.   First, coming to our entry into consumer electronics. I would like to give some more color
+                     on the opportunity and how we see this business developing. Our first order comes from
+                     the ecosystem of one of the largest American smartphone manufacturers for the supply of
+                     CNC fixtures used in their manufacturing operations.
+
+
+                     These fixtures need to be replaced very frequently, particularly as smartphone
+                     manufacturing introduce new models and make changes to their manufacturing processes.
+                     This gives us an opportunity to build a high-margin recurring business. With most of these
+                     fixtures currently being imported from other Asian countries, we see a significant
+                     opportunity to localize the manufacturing in India.
+
+
+                     While our first order is relatively small, we are already in discussion for additional
+                     categories, including MLB, which is main logic board fixtures, and FATP, which is Final
+                     Assembly, Testing, and Packaging fixtures. We believe there is significant scope to
+                     increase our share of business within this ecosystem over a period of time.
+
+
+                     It has taken us nearly 18 months to secure this first order, during which we have worked
+                     very closely with the customer to understand the requirements and demonstrate our
+                     manufacturing capabilities in precision engineering across multiple commodities like
+                     titanium, aluminum, and other exotic materials.
+
+
+                     In fact, our high-tensile steel capabilities at H-One and our titanium and aluminum
+                     machining expertise at Chester Hall, played an important role in accelerating the
+                     development of the process know-how and manufacturing capabilities required for these
+                     fixtures. We spent the last three decades building our capabilities in precision
+                     manufacturing across different materials and processes.
+
+
+                     What this order essentially demonstrates is that these capabilities are not limited to the
+                     automotive industry, which is what we have iterated over the past multiple quarters as well.
+
+
+                                         Page 5 of 14
+
+                                                                                   Belrise Industries Limited
+                                                                                         November 16, 2026
+
+              2.   Second, we secured our first order at Chester Hall Precision Engineering, our aerospace
+                   business in the UK, since the acquisition.
+
+
+                   During the quarter, Chester Hall secured an extension order booking for track beams on a
+                   legacy program for one of the largest aircraft platforms of the world's largest aircraft OEM.
+                   To give some context, track beams are safety-critical structural components of the engine
+                   nacelle, which is the structure surrounding an aircraft's jet engine.
+
+
+                   The nacelle helps channel airflow generated by the engine's fan blades, which accounts for
+                   the significant majority of the engine's thrust. More importantly, track beams form an
+                   integral part of the thrust reverser system, which helps slow down the aircraft after landing
+                   by redirecting airflow forward.
+
+
+                   These beams guide the movement of the thrust reverser panels as they open and close, while
+                   also providing structural support to the engine enclosure. Their design and manufacturing
+                   requires deep material expertise, precision engineering, and extensive load analysis.
+                   Importantly, the contract also comes with improved commercial terms, including price
+                   increases, which further strengthens the economics of the program.
+
+
+              3.   Lastly, subsequent to the quarter, we also entered into a license and technical assistance
+                   agreement with a Japanese player called Yamato Co, Ltd. Yamato has established expertise
+                   in filtration products and in converting intake manifolds from metal to resin. Under the
+                   agreement, Yamato has granted exclusive rights to manufacture and sell three product lines
+                   in India, including air filters, oil filters, and resin air intake manifolds for both automotive
+                   and industrial equipment OEMs.
+
+
+                   Resin intake manifolds are part of the industry's wider move towards lighter components,
+                   and we see demand for them across two-wheelers, passenger cars, as well as industrial
+                   applications. Yamato will support us across the full product cycle, covering design,
+                   development, testing, and manufacturing.
+
+
+                   This gives us access to proven technology and manufacturing know-how, and allows us to
+                   offer our customers, a locally developed and manufactured product backed by an
+                   established Japanese technology partner. Strategically, this is a natural extension of what
+                   we already do.
+
+
+                   We have been supplying filters and plastic components to two leading Japanese OEMs for
+                   the past couple of years, and this partnership also enables us to expand in the aftermarket
+                   for filters, which is a very high wear-and-tear product.
+
+
+              With that, let me now hand over to Mr. Rahul Ganu, our CFO, to take you through the financial
+              performance of the company. Thank you.
+
+
+Rahul Ganu:   Thank you, Sumedh-ji. Good morning, everyone. Let me take you all through the financial
+              highlights.
+
+
+                                       Page 6 of 14
+
+                                                                                                       Belrise Industries Limited
+                                                                                                             November 16, 2026
+
+                                   Coming to Q2 FY27 consolidated financial highlights first.
+
+                                   •     Total revenue stood at INR 27,464 million, up by 17% year-on-year from INR 23,535
+                                         million.
+                                   •     Manufacturing revenue stood at INR 23,441 million, up 26% year-on-year from INR
+                                         18,601 million.
+                                   •     EBITDA stood at INR 3,306 million, up 12% year-on-year from INR 2,962 million.
+                                         EBITDA margins stood at 12.0%.
+                                   •     Manufacturing EBITDA stood at INR 3,170 million, up 19% year-on-year from INR 2,663
+                                         million. Manufacturing EBITDA margins stood at 13.5%.
+                                   •     Adjusted PAT stood at INR 1,663 million, up 25% year-on-year from INR 1,330 million.
+                                         Adjusted PAT margins stood at 6.1%.
+                                   •     Exports contributed 4.8% of our manufacturing revenue in Q2 FY27, that is INR 1,117
+                                         million.
+                                   •     Coming to the segmental performance of the manufacturing front, two-wheeler and three-
+                                         wheeler contributed 79.7%, PVs contributed 5.4%1, CVs contributed 9.6%, and others
+                                         would be 5.3% for Q2 FY27.
+
+                                   Coming to H1 FY27 consolidated financial highlights.
+
+                                   •     Total revenue stood at INR 52,929 million, up 15% year-on-year from INR 46,157 million.
+                                   •     Manufacturing revenue stood at INR 45,420 million, up 23% year-on-year from INR
+                                         36,923 million.
+                                   •     EBITDA stood at INR 6,239 million, up 8% year-on-year from INR 5,767 million.
+                                         EBITDA margins stood at 11.8%.
+                                   •     Manufacturing EBITDA stood at INR 5,963 million, up 15% year-on-year from INR 5,199
+                                         million. Manufacturing EBITDA margins stood at 13.1%.
+                                   •     Adjusted PAT stood at INR 2,879 million, up 18% year-on-year from INR 2,447 million.
+                                         Adjusted PAT margins stood at 5.4%.
+                                   •     Exports contributed 4.6% to our manufacturing revenue in H1 FY27, that is INR 2,112
+                                         million.
+                                   •     Coming to the segmental performance on the manufacturing front, two-wheeler and three-
+                                         wheeler contributed 80.5%, passenger vehicle contributed 5.0%2, commercial vehicles
+                                         contributed 9.1%, and others would be 5.4% for H1 FY27.
+                                   •     ROACE stood at 15.3% as of 30th September 2026. This is calculated excluding the
+                                         unutilized cash of approximately INR12,000 million from the total QIP proceeds of
+                                         INR17,000 million.
+
+
+                                   With this, we open the floor for questions. Thank you. Thank you very much.
+
+
+Moderator:                         Thank you. We will now begin the question-and-answer session. The first question comes from
+                                   the line of Jyoti Singh with Haitong Securities. Please go ahead.
+
+
+
+
+1
+    Mentioned as 5.5% on the call, however, the correct figure is 5.4%
+2
+    Mentioned as 5.5% on the call, however, the correct figure is 5.0%
+
+                                                              Page 7 of 14
+
+                                                                                     Belrise Industries Limited
+                                                                                           November 16, 2026
+
+Jyoti Singh:     Thank you for the opportunity and congratulations on the good set of numbers. Largely, sir, I
+                 wanted to understand on the aerospace and defense side. What is the medium-term revenue target
+                 from aerospace and defense? When can this segment become a meaningful contributor, at an
+                 EBITDA level?
+
+
+Sumedh Badve:    Yes, thank you for the question. Fundamentally, we believe aerospace and defense can become
+                 a meaningful contributor to our revenues in the short- to medium- term. In the medium- term,
+                 we are looking at upwards of 10% of revenues contributing from aerospace and defense, and
+                 that is the target that we are aiming for.
+
+
+Jyoti Singh:     Yes. Also, when are we expecting a meaningful contributor to the consolidated EBITDA?
+
+
+Swastid Badve:   In general, we see the aerospace segments being accretive to our overall EBITDA margins. We
+                 feel that last quarter we had guided that over the next 12-18 months, more than 10% of our
+                 manufacturing revenues will come from aerospace and defense. We expect once this revenue
+                 actually comes in, it will largely be accretive to what we are doing today.
+
+
+                 We also feel that this segment will be ROCE accretive for us. Of course, as we have defined
+                 earlier, the growth that will come from this sector will be a mix of organic as well as inorganic.
+                 Organically, of course, this quarter we announced the order extension for track beams from one
+                 of the largest aircraft OEMs globally. We expect to continue winning orders like this, and more
+                 importantly, to leverage the best cost in their manufacturing base to enable this.
+
+
+                 We intend to use a hub-and-spoke model, with the hub, of course, being the UK and Europe,
+                 where we have the complete R&D and marketing, and then India being the best cost base for us,
+                 where we can utilize India's superior and strong engineering base, our very frugal labor costs, as
+                 well as the overall ecosystem that we have when it comes to metal forming. It will be a mix and
+                 match between our growth in Europe as well as our growth in India. And of course, we are
+                 thinking about a few inorganic steps to also achieve this number.
+
+
+Moderator:       The next question comes from the line of Nitij Mangal with Jefferies. Please go ahead.
+
+
+Nitij Mangal:    Firstly, on the electronics, can you talk a bit more about how you see this opportunity scaling
+                 up? Firstly, maybe some sense of what is the size of the business right now, then how does it
+                 scale up, both in terms of maybe components for machinery, but then maybe even components
+                 for the end products as well?
+
+
+Swastid Badve:   Nitij, thank you for the question. Maybe before I talk about the opportunity and what it translates
+                 into, I would like to give some context about how we have reached where we have reached. I
+                 think this whole perspective about moving to the consumer electronics segment for us started
+                 around 18 months back, when we hired two senior executives to lead this domain from global
+                 electronic majors.
+
+
+                 The perspective really was that we have to not only establish the capability to enter the sector,
+                 but also get a strong anchor customer. Oftentimes, getting an anchor customer is more important
+                 because that one anchor customer allows you to expand into the overall ecosystem. The past 18
+                 months, we have been in discussion with this OEM, which has been growing quite fast in India.
+
+
+                                          Page 8 of 14
+
+                                                                                       Belrise Industries Limited
+                                                                                             November 16, 2026
+
+                 As you would imagine, this OEM is very, very quality conscious and takes a large amount of
+                 time to approve a new supplier. We were, over a period of time, able to give them confidence of
+                 our capabilities, given our expertise in metallurgy. The experience that we have in metallurgy
+                 has been established, of course, through H-One.
+
+
+                 We are working with high-tensile materials right up to 1,400 megapascals, and also with our
+                 acquisition of SDM and Chester Hall, we are working with titanium, aluminum, and exotic
+                 materials. When they saw these facilities or experienced these facilities virtually, they were able
+                 to understand the type of capability we have built over the past few decades, which is why we
+                 got the entry into the CNC fixtures domain.
+
+
+                 Just to give a brief, the CNC fixtures are the fixtures that are used on the VMCs and HMCs and
+                 other machining components on the assembly line. There are three types of different types of
+                 fixtures, CNC, FATP, MLB, which my brother focused on.
+
+
+                 The market itself for only, this particular OEM, we feel a multi-hundred million dollar market
+                 only for this particular OEM and their ecosystem globally. A lot of these components and
+                 fixtures today are being imported, a large majority of them from Southeast Asia.
+
+
+                 We feel that the OEM has a large focus towards localizing these components and fixtures within
+                 the country, which is why we have been selected. The initial order is modest, but we see a sharp
+                 ramp-up happening in this product cycle.
+
+
+                 The product cycle, we will say, will begin in a couple of months, then will go on for the next
+                 eight to nine months. Once we have been able to establish and go through one product cycle, we
+                 really see this business compounding quite quickly. In terms of what this means, I think the
+                 initial entry point is fixtures, and that is where we have established capability.
+
+
+                 The conversation with the OEM is across multiple different components as we speak. While
+                 there is no potential timeline that we can commit to as to when we can get into these additional
+                 components, what we can commit to is a lot of these capabilities required to manufacture these
+                 components is something we already have.
+
+
+                 The perspective is that fixtures over, say, a 5-10-year period will be a small part of consumer
+                 electronics business, with larger components and other key OEMs, becoming a much larger part
+                 of our business going forward.
+
+
+Nitij Mangal:    Thanks, Swastid. What is the life cycle of the fixture? Do these change with the smartphone life
+                 cycle, or do these continue for much longer?
+
+
+Swastid Badve:   No, these are highly recurring, so they change with every model and every variant of every
+                 model as well. In fact, there is a change that happens every few months, not even every year. In
+                 that sense, while it may seem like a fixture business that is a one-off, in that sense, it is quite a
+                 highly recurring business.
+
+
+                 That is what allows us to have a continuity of business over here, because the OEM is not only
+                 launching multiple models, but also multiple variants of multiple different models. Also, their
+
+
+                                          Page 9 of 14
+
+                                                                                       Belrise Industries Limited
+                                                                                             November 16, 2026
+
+                 India business is growing quite fast, which is what gives us immense confidence in terms of our
+                 growth with them.
+
+
+Moderator:       The next question comes from the line of Nitin Agrawal with JM Financial. Please go ahead.
+
+
+Nitin Agrawal:   I have two questions. One relates to the consumer electronic business. You were able to explain
+                 it in detail. Just wanted to understand what is our aspiration in that business as we've indicated,
+                 like in aerospace business, that we would like to be like 10% of our business, manufacturing
+                 business out there. So, what is the aspiration given we are starting with CNC fixture with a
+                 modest order value, but going forward, we may have some different components, some long-
+                 term views?
+
+
+Swastid Badve:   Thank you, Nitin, for that question. I think we've just entered this segment. Literally, it's a few
+                 weeks old. It's largely been an organic entry, which we have worked quite hard for. We do see
+                 the opportunity being massive in India, but also for potentially exports globally. We will explore
+                 how we can segment again this business going forward.
+
+
+                 I think it's too early for a long-term aspiration for this business. If you see, even on the aerospace
+                 and defense business, we only announced an aspiration after we had been building the business
+                 for more than two and a half, three years, and after having done a couple of acquisitions.
+
+
+                 So, we feel we need to learn how to crawl first, and then walk, and then run. I think giving an
+                 aspiration early would be a little difficult as of now. We do feel this is a segment that we want
+                 to focus on, and we do see the opportunity being quite large.
+
+
+Nitin Agrawal:   Okay. Second question relates to the new order, aerospace business order that we get for
+                 additional track beams. Would it be possible for you to quantify that order and the timelines?
+
+
+Sumedh Badve:    Unfortunately, we are not able to quantify those aspects.
+
+
+Swastid Badve:   The timeline we can comment on a little bit because this is a program and a product that we have
+                 been doing for a while. This is an order extension, volume increase, as well as price increase
+                 that has been awarded to us. This is a program that we expect to run over close to, next half a
+                 decade at least.
+
+
+                 In that sense, the program life cycle is long, and it is for, I would say, if not the most successful,
+                 one of the most successful aviation programs globally. So, it gives us a lot of confidence that
+                 this program will continue to do well for a longer period of time, and we will be key beneficiary
+                 of that.
+
+
+Nitin Agrawal:   Okay. One last question related to this. Will we start the order backfilling from India, or the
+                 manufacturing will happen there itself?
+
+
+Swastid Badve:   Right now, the complete manufacturing will happen in the UK. The production in India is a work
+                 in progress. I am also happy to announce that for one of our facilities, we have already got the
+                 AS9100 certification, which is a very important certification when it comes to manufacturing of
+
+
+
+
+                                          Page 10 of 14
+
+                                                                                              Belrise Industries Limited
+                                                                                                    November 16, 2026
+
+                      aerospace components. We feel after this certification, it is only a matter of time before our India
+                      manufacturing for this particular OEM also ramps up over the next few quarters.
+
+
+Moderator:            The next question comes from the line of Ayush Jhunjhunwala with HSBC. Please go ahead.
+
+
+Ayush Jhunjhunwala:   I have two questions. One was regarding the merger with Badve auto component business. So
+                      what is the timeline on that right now?
+
+
+Swastid Badve:        Thank you for the question. We have applied to the NCLT for that. I think based on our
+                      experience and based on precedences we've seen with other listed companies, we see a timeline
+                      of anywhere between six to eight months for this merger to be consummated, and we expect it
+                      to happen maybe at the fag end of Q4 FY27 or at Q1 FY28.
+
+
+Ayush Jhunjhunwala:   Okay, sir. Thank you so much. The other question is on the trading business. Sir, our
+                      manufacturing EBITDA margins have improved quarter-on-quarter, but our trading margins are
+                      still seeing some pressure. Any light on that?
+
+
+Swastid Badve:        Trading business margins are seeing a bit of pressure. We do feel that the cost pressures seem to
+                      be largely behind us, and we expect some return to normalcy over the next few quarters.
+
+
+Ayush Jhunjhunwala:   All right, sir. About hiving it off in a separate entity, any update?
+
+
+Swastid Badve:        We have no comment on that.
+
+
+Ayush Jhunjhunwala:   All right. Thank you, sir.
+
+
+Moderator:            The next question comes from the line of Shubham Jain with Investec. Please go ahead.
+
+
+Shubham Jain:         Congrats on strong order wins this quarter. My first question was on, can you please talk about
+                      the growth outlook going ahead for your automotive business? OEM commentaries have been
+                      pretty strong, and also you seem to have gained market share for multiple new products.
+
+
+                      If you can also talk about your trading business, has that business now recovered? How are your
+                      medium-term plans for trading business? Do you see a need to revise your revenue growth
+                      guidance of about mid-teens growth?
+
+
+Swastid Badve:        Shubham, thanks for the question. As of now, no revision in guidance. We continue to maintain
+                      our guidance of mid-teens revenue growth with stable EBITDA margins. Of course, OEM
+                      growth has been quite strong, which has been definitely a benefit to all, especially automotive
+                      Tier-1s, where there is exposure to multiple different OEMs, which is an area that currently we
+                      are excelling at.
+
+
+                      For example, in the two-wheeler OEM space, we're working with all of the top 10 two-wheeler
+                      OEMs, and in the passenger vehicle and commercial vehicle OEM space, we're working with, I
+                      think, 12 out of the top 15 passenger and commercial vehicle OEMs. So in that sense, we're quite
+                      broad-based in terms of our growth, so we expect the gains in the industry to continue benefiting
+                      us.
+
+
+
+                                              Page 11 of 14
+
+                                                                                      Belrise Industries Limited
+                                                                                            November 16, 2026
+
+                 No guidance revision as of now, but we do feel that if the industry keeps performing as well as
+                 it has over the past, as we've seen in the last two quarters, we'll continue outperforming the
+                 industry, as we have done, I think, for the better part of two decades. That is what we can
+                 comment on right now.
+
+
+                 Of course, the growth that we'll envisage and see in aerospace and electronics, as well as
+                 renewables, which I think is a topic we spoke about over the last earnings call, but is also
+                 somewhere where we're seeing quite a bit of traction.
+
+
+                 Aerospace, renewables, and electronics will, of course, be our growth drivers over and above
+                 the automotive space. In the trading business, I think, also answer the last question that we have
+                 no comments on it as of now. We expect the business to come back to normalcy over the next
+                 few quarters.
+
+
+Shubham Jain:    Okay, thanks. Can you please quantify, what was the revenue contribution from aerospace this
+                 quarter?
+
+
+Swastid Badve:   Unable to quantify exactly, but I think a good order of estimate would be that it would be
+                 anywhere between, say, 2.5%-3.5% of our manufacturing revenue.
+
+
+Moderator:       The next question comes from the line of Nitij Mangal with Jefferies. Please go ahead.
+
+
+Nitij Mangal:    Hi, thanks for taking my questions again. So on the auto business, there's a pretty good
+                 manufacturing growth this quarter. Is it possible to segregate that into what is commodity price
+                 benefit versus, let's say, underlying business growth?
+
+
+Swastid Badve:   Right. Nitij, I think our commodity price swings have been less volatile than of those auto
+                 component Tier-1s who deal with aluminum or a lot of plastics. While we do have a plastic
+                 business, it's quite small as a percentage of our total revenue. If you largely look at mild steel
+                 and stainless steel prices, there's been not as high a volatility in those domains as you've seen as
+                 compared to other commodities like copper, aluminum, and so on, so forth.
+
+
+                 I think it's a fair assumption to say that a large majority of the revenues have come from the
+                 increases in volume and the fact that we're working in more premium segments. I would say it's
+                 a very small portion that has to do with the overall commodity prices going up or down.
+
+
+Nitij Mangal:    Thanks. Secondly, on the trading business, you're seeing the share of trading businesses
+                 gradually coming down. Is that more intentional or is that more external market environment?
+                 Can you talk about that?
+
+
+Swastid Badve:   That is definitely intentional. I think our focus definitely remains on the manufacturing business.
+                 I think the trading business is playing quite well into our manufacturing business with the
+                 insights we're getting into commodity prices. But I think it's fair to say that the manufacturing
+                 business's share will continue to grow going forward. But the trading business will continue to
+                 do well for itself in terms of being profitable and with decent ROCEs.
+
+
+Moderator:       The next question comes from the line of Viraj Sanghvi with Ambit Capital. Please go ahead.
+
+
+                                         Page 12 of 14
+
+                                                                                       Belrise Industries Limited
+                                                                                             November 16, 2026
+
+Viraj Sanghvi:   You have mentioned a sheet metal order win from a Japanese passenger vehicle OEM. I just
+                 wanted to know whether this is the first order that we are getting from this Japanese OEM, and
+                 how much percentage of the opportunity over there would this particular order represent? That
+                 would be my first question.
+
+
+Swastid Badve:   Thank you, Viraj, for the question. Yes, this is the first order in sheet metal that we are receiving
+                 from this particular leading Japanese passenger vehicle OEM. We have been supplying plastics
+                 and filters to them for a couple of years now. I think the initial order is small, but as you would
+                 know, when it comes to Japanese OEMs, they have a different entry point for different
+                 commodities.
+
+
+                 While we had been with them for filtration products and plastic products for a while, the whole
+                 audit and entry cycle for sheet metal has taken us quite a bit of time. We have been engaging
+                 with this OEM quite closely, and some of the parts that we are scheduled to manufacture for
+                 them have to do with high-tonnage parts, which in itself are high-margin parts and parts where
+                 there is high value addition.
+
+
+                 While we can't guide further on how big this business can be, I think, as all of us know on this
+                 call, the entry into these commodities is the most important step. Once the entry is there and
+                 you're situated, growing on top of that is an easier aspect.
+
+
+Viraj Sanghvi:   Got it. Secondly, on the commercial vehicle order win as well, you're now going to supply an
+                 entire chassis. Over there, you've mentioned that there's potential for other locations of that OEM
+                 as well. Would that extend to the overseas operations of that particular OEM in terms of an
+                 export opportunity as well?
+
+
+Swastid Badve:   That's an interesting question. I think right now for this particular OEM, we're working with
+                 them in Pune and Dharwad. What's exciting is that even though we're supplying to them in Pune,
+                 and now we'll start supplies to them in Dharwad, we're actually also supplying to their other two
+                 locations, which are in the north of India.
+
+
+                 The good thing is that there already seems to be interest in terms of our supplies to them across
+                 all four of their India facilities. I think there's also an opportunity eventually for exports. For
+                 that, we'll have to wait to understand the OEM strategy to have the insourcing and outsourcing
+                 strategy, the hub-and-spoke model that they intend to follow. Based on that, we'll be able to
+                 make a decision of whether we'll also be exporting these chassis.
+
+
+Moderator:       Ladies and gentlemen, as there are no further questions from the participant, I would now like
+                 to hand the conference over to the management for the closing remarks.
+
+
+Sumedh Badve:    Thank you, everyone, for joining us today on this earnings call. We remain focused on scaling
+                 our emerging opportunities, progressing towards providing Tier-0.5 system solutions, and
+                 deepening our proprietary business as time progresses. We appreciate your interest and
+                 continued participation with us. If you have any further queries, please feel free to contact us or
+                 SGA, our Investor Relation Advisors. Thank you so much for your time today.
+
+
+
+
+                                         Page 13 of 14
+
+                                                                              Belrise Industries Limited
+                                                                                    November 16, 2026
+
+Moderator:   Thank you, sir. Ladies and gentlemen, on behalf of Belrise Industries Limited, that concludes
+             this conference call. Thank you for joining us, and you may now disconnect your lines.
+
+
+
+
+                                    Page 14 of 14
+

@@ -1,0 +1,1206 @@
+REF:INABB:STATUT:LODR:ANALST_TRNSPT:2026                                                                                     November 20, 2026
+
+BSE Limited
+P.J. Towers
+Dalal Street
+Mumbai 400 001
+(Attn : DCS CRD)
+
+National Stock Exchange of India Ltd
+Exchange Plaza, 5th Floor
+Plot No. C/1, G Block
+Bandra-Kurla Complex, Bandra (E).
+Mumbai 400 051
+
+                                                                           Attn: Listing Dept.
+Dear Sirs,
+                                                               Sub: Transcript of Analyst concall
+
+In continuation to our letters dated October 29, 2026 and November 14, 2026, we are
+enclosing a copy of the transcript of conference call with analysts, which took place on
+November 16, 2026 post announcement of un-audited financial results of the Company for
+the third quarter ended September 30, 2026.
+
+The said transcript is also uploaded on the Company’s website.
+
+Thanking you
+
+Yours faithfully
+For ABB India Limited
+TRIVIKRAM                  Digitally signed by TRIVIKRAM
+                           GUDA
+                           DN: cn=TRIVIKRAM GUDA, c=IN,
+
+  GUDA                     o=PERSONAL
+                           Date: 2026.11.20 17:33:23 +05'30'
+
+
+Trivikram Guda
+Company Secretary and Compliance Officer
+ACS 17685
+
+Encl: as above
+
+
+
+
+ABB India Limited                                         CIN: L32202KA1949PLC032923        Email ID: investor.helpdesk@in.abb.com
+Registered and Corporate Office                           GST: 29AAACA3834B1Z4
+Disha - 3rd Floor, Plot No. 5 & 6, 2nd Stage
+                                                                                            www.abb.com/in
+Peenya Industrial Area IV
+Peenya, Bengaluru – 560 058                               Phone: +91 80 2294 9150 – 54
+Karnataka, India                                          Fax: +91 80 2294 9148
+
+                   ABB India Limited
+          Q3 CY2026 Earnings Conference Call
+                   (July to September 2026)
+                      November 16, 2026
+
+
+
+
+MANAGEMENT:   MR. SANJEEV SHARMA – COUNTRY MANAGING DIRECTOR
+              MR. T.K. SRIDHAR – CHIEF FINANCIAL OFFICER
+              MR. KIRAN DUTT – PRESIDENT, ELECTRIFICATION
+              PRODUCTS
+              MR. GANESH KOTHAWADE – PRESIDENT,
+              ELECTRIFICATION DISTRIBUTION SOLUTIONS
+              MR. SANJEEV ARORA – PRESIDENT, MOTION MARKETS
+              MR. BALAJI – PRESIDENT, ENERGY INDUSTRIES DIVISION
+              AUTOMATION
+
+
+
+
+                           Page 1 of 20
+
+                                                                                               ABB India Limited
+                                                                                              November 16, 2026
+
+
+
+
+Moderator:        Ladies and gentlemen, good day and welcome to ABB India Limited's Q3 CY 2026 July to
+                  September Quarter Earnings Conference Call. As a reminder, all participants will be in the listen-
+                  only mode, and there will be an opportunity for you to ask questions after the presentation
+                  concludes. Should you need assistance during the conference call, please signal an operator by
+                  pressing star then zero on your touch-tone phone. Please note that this conference is being
+                  recorded, and any unauthorized recording of this call is strictly prohibited. The recording will
+                  be made available on the company's and SEBI's website subsequently.
+
+
+                  I now hand over the call to T.K. Sridhar, Chief Financial Officer of ABB India Limited. Thank
+                  you, and over to you, sir.
+
+
+T. K. Sridhar:    Very good morning, and thank you, Michelle. Very good morning to all of you. Welcome to the
+                  Q3 2026 analyst call. So along with me on the call, I have Sanjeev Sharma, Country Managing
+                  Director for ABB India, and I have Kiran Dutt, who leads the Electrification Division, and also
+                  Balaji, who leads the Automation segment of ABB India and Sanjeev Arora from Motion. We
+                  also have Ganesh Kothawade from Distribution Solutions.
+
+
+                  Having said that, I'll hand over to Sanjeev. Sanjeev, over to you.
+
+
+Sanjeev Sharma:   Thank you, Sridhar. Good morning to all of you. I think within this meeting, we have also invited
+                  Sunil, who is going to join us as CFO of ABB India Limited from 1st of January 2027, so
+                  welcome, Sunil. So it's part of our transition that we are introducing Sunil to all aspects of ABB
+                  India Limited working.
+
+
+                  He has been part of ABB's Electrification business for a long period of time, so he understands
+                  the company well. And as you know, that I will be transitioning from executive role within ABB
+                  India Limited to non-executive role from 1st of January 2027.
+
+
+                  And T.K. Sridhar, who you have known a long time with me for the last 11 years, he will be
+                  taking over as the Managing Director and Country Manager for ABB India Limited. So that all
+                  of you get already used to Sridhar, I hand over this whole presentation to T.K. Sridhar so that he
+                  can give you the flavor of business as well as numbers. And next time around, when you hear
+                  from ABB India Limited, it will be T.K. Sridhar and Sunil. Over to you, Sridhar.
+
+
+T. K. Sridhar:    Thank you, Sanjeev. It's always been a great pleasure working along with Sanjeev, and he gives
+                  me this exposure from time to time to do it all alone. Thanks to Sanjeev.
+
+
+                  So a bit of a narrative. I think ABB India delivered a strong quarter again this time, with orders
+                  growing at 56% year-on-year and to INR4,700 crores roughly, and a solid backlog of INR13,000
+                  crores roughly what we have. And good to note is that the growth has been across diversified
+                  markets as we have reported in the 23 market segments and across all the business divisions as
+                  well. I think it's in sort of a sweet spot at this point of time.
+
+
+
+
+                                            Page 2 of 20
+
+                                                                             ABB India Limited
+                                                                            November 16, 2026
+
+And yes, there are definitely some pressures what we have to deal with respect to inflation, with
+respect to geopolitical topics, and also the metal prices, the commodity prices, which has
+impacted us at this point of time.
+
+
+So having said that, so let me sort of take you quickly through the presentation. So some slides
+are something which are consistent to make sure that people who are attending for the first time
+get a view of what ABB India is. So if you look at the slides which you have, we have different
+business divisions across the business areas, which are catering to different markets in India.
+
+
+So 90% of our business comes from India, and 10% comes from exports. All these business
+divisions are well-positioned to cater to this particular demand across the country.
+
+
+We are well-distributed across the country. We added one factory in 2026, which is at
+Nelamangala. There are two plants in Nelamangala now, so that's something which we thought
+we should bring it across to you. So we export to 100 plus countries, and we have 25+ plants
+operating in this, and we cater to the business demand in the country through 750 channel
+partners.
+
+
+Next slide. So as I was mentioning, it was again a strong quarter with respect to orders, 56%
+growth in orders. The base orders grew 43%. We did have some large orders from data centers
+at this point of time. I think this actually means that we are well-spread across in all the market
+segments in the business divisions.
+
+
+We did have a growth of 19% in revenues, that also coming from across all the business divisions
+and then operational EBITDA improved by 15%, and PAT improved by 10%. So this is about
+the financial performance of the company, but when we look at it, we also look at some of the
+highlights which we could achieve in this particular quarter.
+
+
+In respect to sustainability, we had almost 100% of the waste which we diverted from landfills.
+That was something which was very good, and we covered 200 suppliers on the ESG journey of
+us on sustainability capability building. And a proud moment for us to have been recognized as
+one of the best employers by the TIME in India. So this reflects a strong workplace culture and
+employee experience what we have.
+
+
+Nice to see the chart on the left, which is orders, which is growing consistently as what you
+could see. Orders are 3,000 at an average today. We see it going up to 4,000 at an average. And
+revenue is also following the same trajectory.
+
+
+So the orders definitely spread across building infrastructure, railways, data centers, process
+industry, and food and beverage, so it is well spread is what we want to say. There is no single
+call-out for any such business market as what we see. Having a backlog of INR13,000 crores
+gives a good visibility of revenues for the future.
+
+
+So this quarter, where did we get orders from? For Electrification, we got from data centers,
+from low-voltage solutions, or on the medium-voltage switchgear for hyperscale and
+renewables, very important segment.
+
+
+
+                         Page 3 of 20
+
+                                                                              ABB India Limited
+                                                                             November 16, 2026
+
+Motion, we did get a fantastic order on motors for engineering and industry in railways and
+metals and mining. Automation, it's a bit cyclical at this point of time. We have orders from oil
+and gas, metals and mining, and cement continue to be coming in.
+
+
+We are diverse against in 23 market segments. So we are 85-90%domestically exposed, 15-
+10%dependent on export at this point of time.
+
+
+Spread out between the verticals, we have emerging markets, infrastructure and transport, and
+core industries. All of them grow at different speeds. And emerging markets are starting new
+and they are in the transition phase at this point of time.
+
+
+So we had a strong growth on a lower base at this point of time. Also, renewables is going with
+the government policy of improving the clean power. So the infrastructure and transport, I think
+this is also a segment which is very interesting where ABB has good portfolio to cater to this.
+Marine and ports, rail and metro, water and wastewater, and building and infra.
+
+
+Core industries; I think still core industries are very important for us. Out of the 85-90%, I would
+say 45% or 50% comes from this core industry. They are definitely very important because the
+base is quite high, and any orders which we get from them in any growth percentage is very
+important for us.
+
+
+Theme of the quarter, it's about power generation distribution. The market trend is what we see
+is focused on decentralization, decarbonization, and digitalization, so ABB has integrated
+solutions to cater to these requirements between Electrification, Motion, Automation segments.
+I think the key driver for this is around demand, which is likely to go up by 2x from 270
+gigawatts, 450 gigawatts.
+
+
+And then a great journey in the renewables space, non-fossil electricity capacitypoised to go at
+3x from 300 gigawatts to 900 gigawatts by 2035, and definitely we will aim for 3x in terms of
+the battery energy storage systems. It is all driven by good growth in data centers as well. So
+overall, ABB play in this particular segment is around 8 to 15% in between products and projects
+what we cater to that.
+
+
+So how do we do it? We have already been saying that Tier 2 and Tier 3 growth of cities, growth
+in cities is very important and faster from what we see. And how do we reach out to them? Is
+through these customer and partner engagements what we have, through different businesses
+and different channels.
+
+
+So earlier, I think, 5 to 6 years before, or 7 years before, we used to have a company-led program
+which used to cover all the business, all the segments. But today, I think the model is so mature
+that every business has its own focus on respective segments and respective markets. So I think
+its sharper. It's kind of a surgical view of how we could see the demand be. So we have different
+forums where ABB starts to participate as well.
+
+
+Going towards sustainability, I think it just not important that we are a performance organization,
+we also need to look at it as holistically how we look at other topics which make the company
+
+
+
+                          Page 4 of 20
+
+                                                                             ABB India Limited
+                                                                            November 16, 2026
+
+stronger. So sustainability is important for us because we think it is the right thing to do. So we
+are in a very good pace of advancing our goals for 2026.
+
+
+If you look at it, Scope 1 and 2 emissions, we had a target of 88%, we are already at 85%.
+Similarly, on water recyclability, we set 45% for this year, we achieved 44%. And waste
+diversified from landfill, we are already at almost 100%. We covered 200 people on
+sustainability for suppliers. And of course, we also shared with you that we ranked 9th as the
+Employees' Choice.
+
+
+We are also a good corporate citizen, and making sure that we also share the benefits with the
+community and such. We run our programs on three verticals, which is education, skilling,
+diversity and inclusion, and also communities and environment. Different programs reaching
+different sets of people. So we make sure that ABB is a more meaningful organization.
+
+
+Moving into the data as far as performance is concerned, we said that we grew 56%, base orders
+grew by 43%. Backlog at INR13,000 crores, which is also up 36%. Revenues at 19% growth as
+what we see. EBITDA at 14.8% and 14% growth as what we see. And PBT is definitely in line
+with what the EBITDA and PAT looks like.
+
+
+Good cash balance of INR5,300 crore, because we paid a dividend in Q3, so that of USD200
+million roughly, and that is probably the use of capital, allocation of the cash what we had. So
+for 9 months, we are stronger in orders, INR14,000 crores, again, plus 40%, good revenue
+visibility from the backlogs what we have, and hopefully, I think we have good volume gains
+which will be offset probably by the mix and commodity as what we see.
+
+
+Next slide is around financial statement. This is an overview of how our P&L looks like, so we
+had a material cost at 62.9, stable in fact to the previous quarter, all right? And definitely not
+higher than the Y-on-Y, which is the last quarter same year. We had 61.5, 140 basis points
+higher. And while the personnel expenses and other expenses remains steady at what we see.
+
+
+So overall, we seem to be running steady on the expenses and the material cost at this point of
+time, but sales benefits is what is important to play now.
+
+
+Electrification. A solid growth in orders; 117% growth year-on-year. I think it's something which
+is commendable from the Electrification segment, and it's more also from data centers what they
+got, and energy and chemicals.
+
+
+Now, they have an order backlog of INR5,800 crores (approx.), good visibility of revenue going
+forward. Revenue is doing steadily in line with the orders what they have received, and
+profitability margins at 18% despite the challenges what they had in the market.
+
+
+Motion, INR 1,500 crores, a steady order intake growth, despite the pricing challenges in the
+competition. And revenues and orders more or less the same, and they have a backlog of
+INR5,000 crores. Again, a mix of both long gestation orders as well as system orders and
+standard products. Profitability at 13% and higher material cost and revenue mix has impacted.
+
+
+
+
+                         Page 5 of 20
+
+                                                                               ABB India Limited
+                                                                              November 16, 2026
+
+Automation. Automation is definitely a bit cyclical as what we see. I mean, they have been doing
+pretty well with the capex projects deferred. As we stand today, it is slightly held up due to the
+deferment of capex decisions of long gestation projects from oil and gas and the metals and
+mining. But the good part of it is that they are able to keep up on their profitability trajectory
+because they are able to leverage upon the good sort of installed base what they had in the market
+to serve these revenues.
+
+
+The last is around how our mix is about. So I think we have more or less the same mix. I think
+with 51% from Electrification. So that's the revenue mix what we have. And on a 9-month trend,
+we have 50% of business now tilting towards Electrification and the balance between
+Automation and Motion.
+
+
+Offerings more or less the same, 83% from products, 7% from projects, and 10% from services
+what we see. By geography, this quarter was slightly better in terms of exports. We had 87%
+from domestic and 13% from export.
+
+
+So I think this is broadly what we see as an structure of what and how we have delivered in this
+particular quarter. So we have next 30 minutes, we are open for questions as such. So we do
+have some questions which we have already, I think, I would have probably answered at this
+point of time. So one is about, I think, how are we doing the pricing action as such?
+
+
+I think pricing action is a continuous journey, which is going to stay at the end of it. We calibrate
+with what the material cost and the commodity inflation sort of stuff play out in the market.
+Because we have revenue mix which are different in different business divisions, spanning out
+between standard products which are delivered within weeks. There are projects which are
+delivered within 12 to 18 months and also services which are delivered on an instant basis. And
+engineered to orders, system orders also take a bit of more time. And the pricing, there is no one
+rule which could apply to all businesses. It depends on the market position, the cost position
+what they have, the localization journey, what they have done in these particular business
+divisions. So it is actually done by the business divisions, which is led by able division managers
+who have been showing a fantastic performance over the quarters to come.
+
+
+Then we saw another question which is around data centers. Data centers is definitely an
+important market segment because it was very vibrant at this point of time. But having said that,
+I think while data centers is definitely fast growing, we have another 22 market segments which
+is also equally interesting and growing and where we are nicely spread. So this brings out a good
+resilience in the terms of our performance.
+
+
+So we are proudly engaged in all these 23 segments, not just focused on data centers, but make
+sure that we are very relevant in the fastest growing segment which is data center at this point
+of time, and we have seen that having an impact on the order books as what we see.
+
+
+On capex plan, yes, I think, first thing is that we do a baseline capex which we have been
+consistent of INR300 crores year-on-year. And if you remember in Q1, we did announce a USD
+75 million capex plan for entire ABB India as such. But if you look at this, it would be almost
+USD 60 million, and that's something which is spread between Motion and Electrification
+
+
+                           Page 6 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+                 segments, which are the fastest growing segments. We build our capacity in advance knowing
+                 that certain markets where we are growing is definitely going to give us more revenues going
+                 forward, so that's something which we thought is something which is important to share.
+
+
+                 There is no definite strategy if you say in the next 2 quarters how are you going to do pricing
+                 and all that thing. I think it definitely depends on how the market plays out. And there are certain
+                 factors which are considered as headwinds, which is the geopolitical factors, is not in our control,
+                 supply chain challenges what we see sometimes which could come up. So the good part is that,
+                 we have good measures to address this during the period of time.
+
+
+                 The business cycles are quite different in different points of time. We have managed them and
+                 we feel that the managers who are leading these businesses will definitely address this in a more
+                 logical and orderly way.
+
+
+                 So with this, I think we could probably open up for the questions.
+
+
+Moderator:       Thank you very much, sir. Ladies and gentlemen, we will now begin with the question-and-
+                 answer session. The first question is from the line of Mohit Kumar from ICICI Securities. Please
+                 go ahead.
+
+
+Mohit Kumar:     Yes, good morning, and congratulations on a very, very strong order inflow. My first question
+                 is, the last three quarters' demand seems to be very strong, and we have been reporting order
+                 inflow of higher than INR 45 billion each quarter. What was the demand driver for the strong
+                 order inflow, and do you continue to see the strength in those drivers?
+
+
+T. K. Sridhar:   So I think I have already explained this, Mohit, on a consolidated level. Probably, I think we
+                 could touch base with the leaders whom we have on the call, which is Kiran, Ganesh, as well as
+                 Sanjeev Arora. So let's start with Kiran, if you could give a bit of a color on Electrification.
+
+
+Kiran Dutt:      Yes. Thanks, Sridhar, and thanks, Mohit, for this question. Of course, it is quite a situation where
+                 we are all very happy today smiling faces that the team has reached so high with the fastest
+                 growth in terms of orders. Let me talk to you with respect to the perspective from Electrification
+                 as such, and what we have seen is quite a substantial increase of over 117% in Electrification
+                 business in terms of growth of orders.
+
+
+                 Now, having said that, what are those important segments of the market which is actually
+                 supporting? We have already indicated that we have done very well because of the strong
+                 demand in data centers for sure, no doubt on that, but it is also very important to understand that
+                 the demand is also from F&B.
+
+
+                 India being a large country, and for sure, F&B sector was expected to grow, and we are seeing
+                 quite a good momentum coming from F&B sector and also with energy and chemicals as well.
+                 On a broad base, we have, as we already have spoken, 23 different segments of market which is
+                 really supporting Electrification in terms of the growth what we have seen in the last quarter.
+
+
+T. K. Sridhar:   Ganesh, for the distribution solutions, how do you see the market?
+
+
+
+
+                                            Page 7 of 20
+
+                                                                                                   ABB India Limited
+                                                                                                  November 16, 2026
+
+Ganesh Kothawade:   Yes, sure. We have seen a great order momentum in the last few quarters, and the good news is
+                    actually this growth has come very inclusively, I can say, because it is though significantly the
+                    growth came from the data center, but if you even exclude the data center, the growth has came
+                    from the other segment also, almost like a higher double-digit growth.
+
+
+                    So we do see pipeline continued in the data center as well as the other segment like building and
+                    infra, core industries like cement, oil and gas, and also coming in the renewables. So I can say
+                    the growth momentum will definitely be continued, but like a data center or like a big ticket
+                    order, and that is something is like one and zero, but overall, we do see a good pipeline.
+
+
+                    We are already sitting on a good backlog, and we are trying to even pass on some of the
+                    commodity price increase in the market, so we will definitely be going to be little choosy in the
+                    coming quarters.
+
+
+T. K. Sridhar:      Thank you very much. Sanjeev?
+
+
+Sanjeev Arora:      So Mohit, I will not repeat what my other colleagues have said, but just to give you that flavor
+                    also, that energy efficiency and transition has been a key driver in all the segments what my
+                    colleague had mentioned, and ABB products are very sweetly placed on that. And we enjoy a
+                    very high market share and credibility from the customers, so that is also giving the tailwind of
+                    the sectors, but then on top of it, our own products which have a good credibility is giving a
+                    tailwind.
+
+
+                    Of course, data centers, AI infrastructures is playing a big part, but then manufacturing as such
+                    is picking up, which is also good for us. As my colleagues have said, process industry, be it any
+                    process industry, it is doubling their capacities or increasing their capacities to a very large
+                    extent.
+
+
+                    And of course, infrastructure and mobility, we are having a great tailwind on the infrastructure
+                    products. So be it airports or tunnel ventilations etc in that piece, and also on the traction piece,
+                    we see lot of investments coming up. So I think we are in a good space, and that is the reason of
+                    the tailwind what we have today. Yes. Thank you.
+
+
+Mohit Kumar:        Understood, sir. My second question is it fair to assume that a large part of your current order
+                    backlog is primarily deliverable in next one year, or is the current order backlog in terms of
+                    execution is almost similar to last year order backlog, or has it changed materially?
+
+
+T. K. Sridhar:      I think by and large it remains the same. I think the 40% of our backlog which we are talking
+                    today is represented by the large orders which get executed over several quarters. Okay? And
+                    the balance is executable in four to five quarters is what we see, right? As I was mentioning, we
+                    have a mix of standard products, we have mix of engineered systems, we have projects and
+                    services as well, right? I think that this journey is something which has been consistent for the
+                    last several quarters.
+
+
+Moderator:          Thank you. The next question is from the line of Sumit Kishore from Axis Capital. Please go
+                    ahead.
+
+
+
+                                             Page 8 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+Sumit Kishore:   Thanks for the opportunity. My first question is on the Electrification segment, which has driven
+                 inflow and revenue growth performance during this quarter. So, with respect to the 117% order
+                 inflow growth and the 40% revenue growth that we saw, could you give some insight into how
+                 much, what quantum of price increases on an average would you have seen over the last one
+                 year and does that sort of factor in the commodity movement, and what is your outlook for your
+                 biggest segment going forward?
+
+
+T. K. Sridhar:   Sumit, so I would give you a bit of a qualitative answer because I think giving a quantitative
+                 answer to your question, even though I prefer, and you would also prefer that, but it is
+                 competition-sensitive, and therefore we would more prefer to be more qualitative on this.
+
+
+                 This price adjustments to cover the inflation is just cover and the commodity cost is a continuous
+                 journey. So it has got various elements to it. One, a simple price adjustments which you do on
+                 account of commodity and inflation. Next, which also happens is the localization journey, and
+                 next, we also need to add to that what is our mix between the projects and products and the
+                 delivery which we need to do for different customer profiling as such.
+
+
+                 So, long answer short, while the business divisions have a very clear strategy for which market
+                 segment, how they have to do the price increase, and it is not something a one-size-fits-all for
+                 all the market segments within the business division and it is a very calculated business model
+                 what people exercise to make sure that we are healthy in those particular markets and their
+                 businesses.
+
+
+                 So, the one bottom line certainly to tell is that there is always a lag impact, right? So because the
+                 prices to the P&L comes first because that's the thing which you need to offer to cater and service
+                 the customers whom we have, and then the price adjustments follow, so there is always a lag in
+                 the journey which we have.
+
+
+Sumit Kishore:   Sure, that's clear. I think in the order backlog of INR12,927 crores that you have reported, could
+                 you give us some sense of what is the data center exposure here, mainly I think across
+                 Electrification and some part in Motion, I guess?
+
+
+T. K. Sridhar:   You are very right. I think the data centers typically, I think in a steady state is roughly around
+                 about 10%-15%. And in times when cyclical orders are high, it goes up to 20%, which at this
+                 point of time is between 15%-20%.
+
+
+Sumit Kishore:   Got it. And this would be mainly domestic, right? I mean, or is there some overseas exposure
+                 also? Or would that overseas exposure be in the same proportion of your overall overseas
+                 exposure of 10%-15%?
+
+
+T. K. Sridhar:   So, I think this is all more local. There is nothing of overseas at this point of time. If there has
+                 been overseas, then our export head would have definitely gone up, right?
+
+
+Moderator:       Thank you. We'll take the next question from the line of Rahul Gajare from Macquarie Capital.
+                 Please go ahead.
+
+
+
+
+                                          Page 9 of 20
+
+                                                                                               ABB India Limited
+                                                                                              November 16, 2026
+
+Rahul Gajare:    Hi, Sridhar. My first question is on the volume growth in this particular quarter. Given the
+                 robotics is not there, this large growth, could you help us with the volume growth that you've
+                 seen there, specifically in Electrification and Motion?
+
+
+T. K. Sridhar:   Volume, basically, how much have we grown, right? So, I think Electrification has grown -- I
+                 think you should have seen the segment results which are there as a part of the SEBI. So, we
+                 have grown 40% year-on-year in Electrification, and in Motion, we have grown 14%.
+
+
+                 Volumes, this is the value, right? Revenue values. So, volumes you mean to say in terms of --
+                 because they we got different products and projects. You cannot say that it's a standard product,
+                 you can have a volume which you could say from X units to Y units, right? That does not work
+                 because there are more of a blend of orders which our revenues have given the different business
+                 models.
+
+
+Rahul Gajare:    Say, this 40% growth in Electrification is largely on volumes, or there is some bit of price hike
+                 that you would have taken, 2%, 10%, some range. And specifically on the price hike, I want to
+                 understand how the price hike has been in the Motion, because that's where commodities have
+                 played a big role.
+
+
+T. K. Sridhar:   So, we can, of course, definitely listen to what Sanjeev is saying, but I think we do not give or
+                 we don't prefer to give anything which is as a quantitative value of what price increase we have
+                 given. So, Sanjeev, would you like to give a color on what's your pricing strategy on Motion?
+
+
+Sanjeev Arora:   Yes. Sure, Sridhar. See, let's be fair on that part that the ride has not been smooth when it comes
+                 to the erratic price increases. And the good part is that we have been very fair to our customers,
+                 that whatever has been the genuine price increases, we have requested them, and they have been
+                 very fair also to allow us to take that, because they are also in the same ship, and they are also
+                 experiencing in their projects and etcetera, etcetera.
+
+
+                 But then, the growth what has come is on account of both. It's a mix of price increase as well as
+                 volume increase. So, that's my take on it. But you're right that the price has been quite erratic.
+                 It's an erratic journey in Motion for this year.
+
+
+Rahul Gajare:    Okay. My second question is, we have seen very strong traction in order inflows for the last four
+                 quarters or so. Is it possible you could tell us or give us a color how base orders are doing and
+                 how large orders are doing? I think last quarter you did indicate that large orders have not been
+                 forthcoming, but some sense on base order, large orders would be very helpful to understand.
+
+
+T. K. Sridhar:   So, I think I did in my commentary that we said that when we took that INR 4,700 crores for
+                 this particular quarter, which grew by 56%, I said the base orders grew by 43%. We did have
+                 large orders from some data centers in this particular quarter, right? [Inaudible 00:34:17] of
+                 roughly around about INR500 crores on a net-net basis between last to this year, so that's
+                 basically how we see. So that's how it is.
+
+
+                 And I think good part is that on a 9-month trend, if you look at it, the large orders are important,
+                 have played a role, no doubt about it. But I think the most encouraging part of it, the base order
+
+
+
+                                         Page 10 of 20
+
+                                                                                                  ABB India Limited
+                                                                                                 November 16, 2026
+
+                    is something which have grown at plus 30%, which is a strong factor to see that our base volumes
+                    are having good traction.
+
+
+Moderator:          Thank you. The next question is from the line of Puneet from HSBC. Please go ahead.
+
+
+Puneet:             Yes. Thank you so much for the opportunity. My first question is on the data center side. Do you
+                    get a firm timeline to implement data center orders, or are they still uncertain in terms of exact
+                    timeline of delivery?
+
+
+T. K. Sridhar:      I think you would love to hear this from Kiran, who does from the product side servicing to the
+                    data center, and Ganesh, who does from the system side. So Kiran and Ganesh, if you could give
+                    some color on this?
+
+
+Kiran Dutt:         Thank you, Sridhar. Let me touch upon the flow side of the business of it, mainly on the co-
+                    location side. What needs to be understood is that when the customers finalize the orders on any
+                    of the Electrification systems they need, they are already working on their own project cycle
+                    with respect to the construction and other infrastructure required. So Electrification, whatever
+                    we do in terms of the flow business, is not a limitation for them for any kind of a cycle of their
+                    execution process.
+
+
+                    So, the entire thing depends purely on the other kind of equipment, which could be the
+                    transformers which could be there or the buildings availability. And since we are at the backend
+                    of the part where the infrastructure is already there with respect to buildings in the civil side of
+                    it, we come into picture. So, there is a very clear execution cycle which is between three to four
+                    quarters for the data centers. Maybe Ganesh can throw light in terms of systems and parts.
+
+
+Ganesh Kothawade:   Yes. Data center orders, whatever comes from either hyperscales or the colos, it comes with
+                    agreed fixed deliveries. And so far, our experience is that whatever deliveries were agreed in the
+                    contracts, we have delivered on those. Very little deferment what we had seen. So, whatever
+                    orders we are having in a backlog is having the agreed delivery schedule with a client.
+
+
+                    And the best part of it, if there is a deferment in the delivery from what has been agreed, there
+                    is a price variation clause. So, we don't see any risk in our backlog as far as the execution of the
+                    data center orders are concerned with respect to the timeline.
+
+
+Puneet:             This is very helpful. And would you still classify it as a longer cycle order or a similar cycle
+                    compared to rest of the business?
+
+
+Ganesh Kothawade:   Yes. When it comes to the colos, it is basically a short cycle order, but when it comes to the
+                    hyperscale, it is the deferred delivery. So it actually having, basically, I can say, like a frame
+                    contract. So, it starts from the next quarter onward, and it can go up to the six to eight quarters
+                    going forward. So, I can say it's like a mix of it.
+
+
+Puneet:             Understood. That's very helpful. And secondly, on your segmental assets, on the Electrification
+                    side, we see a INR1,000 crores growth year-on-year. Can you assign a reason for that?
+
+
+T. K. Sridhar:      The balance sheet, right?
+
+
+                                             Page 11 of 20
+
+                                                                                               ABB India Limited
+                                                                                              November 16, 2026
+
+Puneet:          Yes, on the balance sheet.
+
+
+T. K. Sridhar:   So, first of all, are you happy with the growth in Electrification and the backlog which you have?
+
+
+Puneet:          Yes.
+
+
+T. K. Sridhar:   Yes. Okay. So if there is backlog, you need to build on two things. One is basically the inventory
+                 which is required to service them, because that's something which you have to buy in advance
+                 to make sure that we are able to handle the supply chain, manage supply chain topics is what we
+                 have.
+
+
+                 So all these inventories, what the big assets, the change in assets on account of Electrification is
+                 basically reflecting the order backlog growth and also the revenue growth as what we see. But
+                 otherwise, I think it is quite normal with the growing business.
+
+
+                 The net working capital as a percentage to the revenues are steady, so we don't find any abnormal
+                 increase on that other than inventories, which is definitely a strategic and very measured buying
+                 which every business will do in a growth phase.
+
+
+Puneet:          And any gross block increase in this?
+
+
+T. K. Sridhar:   You mean to say the fixed assets, right?
+
+
+Puneet:          Fixed assets. Yes.
+
+
+T. K. Sridhar:   Yes. Fixed assets is basically a journey of what capacity we want to build. Any growing business
+                 will build capacity, and we do everything in advance. And so when we are looking at the
+                 capacities, what we need to build, we build it across just not one business line, but across all the
+                 business lines in India. That's because we have facilities which combine the various businesses
+                 in one location.
+
+
+                 So according to me, I think we did announce during the earlier part of this particular year, a $75
+                 million investment program, out of which $60 million pertains to the listed entity. And that's
+                 something which is in different phases at this point of time.
+
+
+                 On a baseline value level, we do INR 300 crores every year, which is very standard, to take care
+                 of the normal, the capacity building which we do for keeping in view the market developments.
+
+
+Moderator:       Thank you, sir. The next question is from the line of Sameer Thakur from Ambit Capital. Please
+                 go ahead.
+
+
+Sameer Thakur:   Yes. Hi, thanks. I just wanted to check on this order book sustainability on Electrification. Do
+                 you still see large orders in the pipeline? Also on the technology side, do you see any discussions
+                 on 800 VDC or any other new technologies, or is this too early for Indian market?
+
+
+Kiran Dutt:      Yes. Thanks, Sameer, for this very, very interesting question. The first thing we need to look at
+                 is how exactly are the markets developing. When I look at overall, of course, there's a very
+
+
+
+                                         Page 12 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+                 interesting thing called data centers. At the same time, each of these data centers also are kind
+                 of power guzzlers, right?
+
+
+                 So when we look at that, what's happening on the power grid side is also very important thing
+                 to be assured that infrastructure development in India. Now when we look at it from a
+                 perspective, you have the first reason why there could be a very much uptake of solutions from
+                 our side is based on probably an aging power grid. That's something which we need to look at.
+
+
+                 The second one is the energy transition which is actually happening, and the third one, of course,
+                 because of the data centers or any kind of industries, as the consumption of electricity increases,
+                 we are looking at energy expansion. So these are the three important criteria we need to look at
+                 the growth of overall business.
+
+
+                 Having said that, I'll also come to your second question with respect to 800 VDC architecture
+                 which is coming into data centers. We have recently launched globally a solution called Infinitus,
+                 and this solution is across segments of the market. We are not new to DC segment as such with
+                 respect to -- I'm talking about direct current with respect to the data centers or as an application
+                 of direct current equipments.
+
+
+                 Now, this direct current equipment was being used earlier in marine applications, and today we
+                 are seeing these kinds of applications coming into data centers. Of course, few of the
+                 opportunities are already there globally, but in India, yes, it is like one time at the start when we
+                 have launched these products into India.
+
+
+                 At this point of time, it also depends on probably the acceptance of this particular market and
+                 the requirements that are, so we work on that. Ethernet-based VP for sure is something which is
+                 going to be important.
+
+
+Sameer Thakur:   Okay, thank you. That is helpful. And second question is it fair to assume that the gross margins
+                 in data centers end market will be better than rest of the end markets? Is that a fair assumption?
+
+
+T. K. Sridhar:   Here, let me give you a bit of this one color on, right? Any new segment which is growing and
+                 which has got a high dependence on technology as a differentiator, those margins from these
+                 particular segments will always be reasonably better than the normal established segments.
+                 Therefore, the data center orders are reasonably better than the normal segment orders.
+
+
+Moderator:       Thank you. The next question is from the line of Atul Tiwari from J.P. Morgan. Please go ahead.
+
+
+Atul Tiwari:     Yes, sir. Thanks a lot. Sir, with the commodity prices now stabilizing or coming off over past
+                 months or so, are the raw material price pressures that you have been facing, are they behind us?
+                 Are you facing some bit of deflation in raw material prices going ahead?
+
+
+T. K. Sridhar:   See, I don't have a crystal ball to say whether the raw material prices will be stable, right? So at
+                 this point of time. So I think what we are looking at is what is present with a very short-term
+                 view
+
+
+
+
+                                          Page 13 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+                 So I think our methodology to address this is quite robust. Each of the businesses deploy
+                 depending upon which markets and which customer segments we have to play with and what is
+                 the strategy for that. So, on an overall basis, I always told you that there is always a lag between
+                 what we would like to pass on to the customers, and that's what Sanjeev Arora also alluded to,
+                 and also Ganesh in the previous question as well. It will be a continuous journey also because
+                 we are also on a localization path over here at this point of time.
+
+
+Atul Tiwari:     Yes. My second question is on the parent's announcement of this JV with Mitsubishi Electric's
+                 low-voltage power distribution business globally. For us in India, how should we think about it?
+                 I mean, do they have a business in India, and shall Indian entity will also be forming this JV
+                 here?
+
+
+T. K. Sridhar:   Kiran, would you like to What is the relevant market for India as well?
+
+
+Kiran Dutt:      All right. Anyway, we are looking at this point of time, when we had a joint venture which got
+                 announced last month with Mitsubishi. The first thing we need to look at is the portfolio. Now
+                 when we look at the portfolio of Mitsubishi, it's very similar to the portfolio of ABB. And this
+                 particular portfolio is, as of today, we are looking at this particular market in Japan.
+
+
+                 And we would, at this point of time, with$640 million of revenues of Mitsubishi, where we have
+                 taken a 51% share, we seem to be the number one with respect to the market share in Japan. So
+                 when we look at India, well, at this point of time, it's business as usual, and we will come back
+                 to you over the next few quarters on what exactly could be done here.
+
+
+Atul Tiwari:     Just confirming, they do have a business in India, right? On the low-voltage side.
+
+
+Kiran Dutt:      Yes. We will get back to you on what exactly we need to do going forward.
+
+
+T. K. Sridhar:   So, you have to understand, they are listed companies, so there is a protocol whenever we want
+                 to have this particular type of business arrangements. As per again to what Kiran was mentioning
+                 here, we will follow the due process, and we will come back to you whenever there is any
+                 change. But at this point of time, it is business as usual.
+
+
+Moderator:       Thank you. The next question is from the line of Harshit Patel from Equirus Securities. Please
+                 go ahead.
+
+
+Harshit Patel:   Thank you very much for the opportunity, sir. So my question is on the Automation segment.
+                 This is one segment which has lagged the other two by a massive amount over the course of last
+                 several quarters. You have indicated the delayed decision-making by the customers as well. You
+                 had expected energy industries and process industries orders to come through with a lag. So it
+                 will be useful to understand how you see oil and gas, refinery, and process industry-related capex
+                 cycle, as well as decision-making playing out in India, and when can this particular segment
+                 return to growth? That is my question.
+
+
+T. K. Sridhar:   Thank you. I think wonderful question, taking away the focus from Motion and Electrification
+                 and data centers, right? Balaji is there on the call, who leads the Automation business segment.
+
+
+
+
+                                          Page 14 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+                 Would you like to throw some light as to how strong the pipeline is, what's the situation on the
+                 decision-making of these long-duration orders?
+
+
+G. Balaji:       Yes, sure. Thanks, Sridhar, for directing the question. So in Automation, we primarily deal with
+                 Automation and digital and electricity solutions for various segments. Oil and gas, power, water,
+                 specialty chemicals, metal, mineral, mining, cement. These are the major. We do, of course,
+                 have the instrumentation, and marine and port as a part of Automation.
+
+
+                 So, in terms of various segments, each of the segments has its unique characteristics. After a
+                 very, very long time, we see projects moving in offshore. They are being consistent movements
+                 in projects around the midstream section, which is pipelines and terminals of oil and gas.
+                 Downstream, I would say, it's a bit sluggish. The projects are a little bit up a slope.
+
+
+                 What's changed in the power segment is over the past many years, there have been hardly any
+                 greenfield power projects announced. This year, there are projects which are announced, and the
+                 various EPCs are in the process of engineering and procurement and of course, when it comes
+                 to specialty chemicals and pharmaceuticals, that's been stable as well. And we have seen
+                 investments coming in cement business as well and in the metals business as well. So we align
+                 ourselves with the overall project scope and timeline.
+
+
+                 There is a specific time at which the engineering is done. We support them during this
+                 engineering phase and then there is a phase for procurement and then there's a phase for
+                 manufacturing and delivery. While our growth has been quite tepid, 4% with respect to previous
+                 quarters, I think in terms of a pipeline, it's quite strong.
+
+
+                 We have seen movements and there are governance that we have in terms of what's the ideal
+                 space that we need to play in. So we stick to that plan so that we end up creating a value over a
+                 period of time. So in terms of pipeline, I would still say it is a strong pipeline that we have over
+                 a period of time. I think when the decisions are made at the appropriate time, we will come to
+                 know the results.
+
+
+Harshit Patel:   Sir, secondly on our capex plans, you have done a very strong capex in the first half of CY2026.
+                 While the ongoing capex has continued, you have also highlighted $50 million worth of capex
+                 in the listed entity. Sir it will be useful to understand the phasing of this capex. So how much of
+                 this we have already incurred in CY26? What would be the plan for CY27 and any spillover to
+                 CY28 from this $50 million? That is my last question?
+
+
+T. K. Sridhar:   Okay. So I would recommend that you should go back to the press release which was done, on
+                 this particular topic and it clearly gave those projects which are being covered under this $60
+                 million of investment and they are mostly for products in Motion and Electrification
+
+
+                 And some part of it for automation as well, a little part of it, but I think this is all construction
+                 of new factories and this thing. Normally, the construction takes at least 8 quarters to 10 quarters
+                 to complete end-to-end and then we ready for the capacity or for installation commissioning. So
+                 this will all happen over the period of end of 2026, probably the earliest, at the best, or sorry,
+                 end of 2027 and later part of 28.
+
+
+
+                                          Page 15 of 20
+
+                                                                                                ABB India Limited
+                                                                                               November 16, 2026
+
+Moderator:       Thank you. The next question is from the line of Renu Baid from IIFL Capital. Please go ahead.
+
+
+Renu Baid:       Yes. Hi. I had just two quick questions. One, generally, management outlook and obviously
+                 performance has been quite bullish. So are we clearly seeing the tides now changing when there
+                 is seeing volume growth coming back and while you mentioned that pricing obviously is more
+                 calibrated, incrementally can we expect that margin expansion or recovery would be more
+                 operating leverage led while at least we are able to bridge the gap on costs and the recoveries in
+                 the inflationary headwinds which were there? So this is the first question.
+
+
+                 And second question, with new capacity expansions commissioning by next year, can we expect
+                 a material jump in the export order flows and prospects from other regions as well as capacities
+                 will be available? That is the second question? Thank you.
+
+
+T. K. Sridhar:   So Renu, I thought it was Mudit, but it was Renu because I could recognize the voice, right?
+                 Thanks for joining this call. So I think let me answer the second question first. So is it something
+                 which is a capacity we all built up to meet the exports? Answer to that is no. I think we see the
+                 local demand pretty robust and that is something where we and also new markets which could
+                 get added, which possibly which we are looking at and that should basically take care of the
+                 planned capex as what we see, right?
+
+
+                 So while definitely there, ABB India is, for some of the products, will also have a keen expansion
+                 in the export market as such. My answer to that is it will be driven by the expansion in the local
+                 market is what we see. The capex would be more focused towards building that. And the next
+                 question, the first question was a bit longer one. If you could shorten and tell us which would be
+                 better to answer you.
+
+
+Renu Baid:       Broadly, the question is as we see growth coming back, volume growth coming back in the
+                 market, on the margin side, incrementally will we see margin expansion largely driven by
+                 operating leverage or can we expect gross margin improvement also as the price transmission
+                 becomes far more effective than what it was there over the last three to four quarters?
+
+
+T. K. Sridhar:   Okay. So let me give a bit of a color on this. Very interesting question. I think let me look at
+                 how did we perform in 9 months. So I think our operating profit was at 14.8% which today is
+                 at 12.2% compared with previous year to this year on YTD basis.
+
+
+                 In this the scale and the operational, the absorption of the fixed cost, there are couple of
+                 percentage of chunk. But still we have material cost and the other expenses related, which is
+                 volume related and the fixed cost is something which is yet to be recovered, right? Because the
+                 drop is almost 2.6%, so 2% covered and we still have other percentages which we need to cover.
+
+
+                 So in short, I think we are yet to offset all of the material cost increases and the scale charge
+                 cost which we had at this point in time. So fixed cost which we had at this point of time. If the
+                 other factors which are the material cost, commodity price and geopolitical profits, the forex
+                 volatility, tax rate too is constant and I think we should be able to be in EBITDA range of 13%
+                 to 15% at this point of time, with the backlog execution which will happen over the next six to
+                 eight quarters as such.
+
+
+
+                                           Page 16 of 20
+
+                                                                                                    ABB India Limited
+                                                                                                   November 16, 2026
+
+Moderator:          Thank you. We'll take the next question from the line of Amit Mahawar from UBS. Please go
+                    ahead.
+
+
+Amit Mahawar:       Hi, Sridhar. Congratulations on great performance. Sir, I just have one question. The launches
+                    that you have across electrification and motion to service the new better quality demand and I
+                    also understand the imported content in DC servicing would be higher. But still you commented
+                    that the profitability in lot of new segments will be definitely better?
+
+
+                    So, it's a question directionally on the quality of gross margin, how will it move and can you
+                    confirm if the orders in DC are largely for PDUs or we're also starting to get the motion product
+                    for the cooling? So some color there on the quality or on the type of DC orders that we have
+                    started seeing because hyperscalers have started ordering.
+
+
+                    We are still to see the best case here and the conventional products, energy efficiency product,
+                    if the new launch will help the gross margin. So gross margin color for the next 1 to 2 years
+                    based on the demand and the capex that you're doing? Thank you.
+
+
+T. K. Sridhar:      So Kiran and Ganesh, any color which you would like to put or give on the data center?
+
+
+Kiran Dutt:         Yes. Thanks, Sridhar. Amit, it's quite a good question as well for us. When I look at your question
+                    the first thing that comes for me is how are we trying to expand our portfolio? Now the customers
+                    are looking at what would the new thing which should come up from ABB and how they can
+                    ensure that their data centers are running with better efficiency.
+
+
+                    I think that is what we are looking at, how many solutions we can bring in and also value add to
+                    these data centers that they can outrun their own competitors. This is what we want to do, and
+                    this is what is the motto of making our customers both leaner as well as greener. This is what
+                    we want to get into that.
+
+
+                    And that's one of the reasons why you would have seen lot of portfolios coming across this year
+                    and we will be coming across more portfolios for next year as well. Since the value add of these
+                    portfolios are extremely high to the customers of data centers with respect to the amount which
+                    could be as an ROI because of the energy saving, it would also definitely support us in terms of
+                    margin as well. Maybe some thoughts from Ganesh.
+
+
+Ganesh Kothawade:   No, Kiran already said it. Basically, the data center is definitely looking for more energy efficient
+                    and optimal solution and for which actually we are bringing the portfolio. But when it comes to
+                    the medium-voltage, the DC technology which has already been started working with the
+                    hyperscales at a global level, but I think it will take little time to come into India.
+
+
+                    Definitely, the global players will copy once it has been proven at the global level. And also, it
+                    is not going to be a complete shift to the technology. It will still continue with AC and DC
+                    mixing when it comes to the data center.
+
+
+T. K. Sridhar:      So, Amit, I think data centers is definitely important segment, but I think we have the balanced
+                    business on the market segments, which are equally interesting, and some of them are also more
+                    interesting data centers as well, right? And that's how you find a growth of 43% on base orders,
+
+
+                                             Page 17 of 20
+
+                                                                                                 ABB India Limited
+                                                                                                November 16, 2026
+
+                  which are there. I think the good part is that it is not focusing on. It is a broad-based market
+                  which is helping us at this point of time and added to that is the Tier 2 and Tier 3 cities which
+                  are also growing faster, and that's also helping us and then ABB at this point of time.
+
+
+Amit Mahawar:     Very helpful, Sridhar. It seems most of the levers are getting in place. Thank you, and good luck
+                  to the team.
+
+
+T. K. Sridhar:    Thank you.
+
+
+Moderator:        Thank you. Ladies and gentlemen, due to time constraints, we will take that as the last question
+                  for today. I would now like to hand the conference over to T.K. Sridhar for closing comments.
+                  Thank you, and over to you, sir.
+
+
+T. K. Sridhar:    Thank you. Thank you very much for joining the call, and it was very interesting questions. But
+                  I think before we close this call, we would also like to hear from Sanjeev, who has been with
+                  this company for almost 4 decades in different capacities and so he said he will move to different
+                  role now.
+
+
+                  So, Sanjeev, I think we have been interacting with all the analyst community, investor
+                  community, and we have learned from them quite a lot, and we have improved our journey in
+                  terms of how do we interact with them, how do we engage with them, and also how do we share
+                  information which is relevant for them and the markets to better understand ABB as such. So
+                  over to you, Sanjeev, for your sort of the remarks or closing remarks.
+
+
+Sanjeev Sharma:   Thank you, Sridhar, and thank you everyone for joining this call. So it has been 44 quarters of
+                  us interacting with each other, and Sridhar will continue with that journey with a familiar face
+                  and familiar voice for all of you, and Sunil will be joining alongside with him and that is the
+                  tradition of this strong institution, ABB India, wherein we do everything in a very structured and
+                  in a manner that it is good for the stakeholders and upholds the good governance standards.
+
+
+                  So, I think that has been the hallmark of my association with this organization in past 11 years
+                  in ABB India Limited. We always do the right things for the stakeholders, be it our customers,
+                  our employees, and our shareholders, and the Board members who represent both the majority
+                  and the minority shareholders.
+
+
+                  And keeping that aspect for the financial and the company performance, but also paying an equal
+                  attention to sustainability, safety, integrity, and making sure that the larger good prevails. I was
+                  fortunate, and it has been an absolute privilege to serve this team and our customers, and I wish
+                  this team and all of you a very best going forward. Thank you.
+
+
+T. K. Sridhar:    Thank you. Thank you, Sanjeev. As we close this particular call, I think we are into middle of
+                  this particular quarter, which is the fourth quarter for ABB. So, I think that's something which
+                  is very important for us to close out as well. Thank you to all of you for listening to us patiently,
+                  and also the management team who have joined this particular call despite their engagements
+                  that they have, and given enough information and relevance to this topic. Thank you very much.
+                  Wish you all a good day for the balance part of it.
+
+
+
+                                          Page 18 of 20
+
+                                                                                                              ABB India Limited
+                                                                                                             November 16, 2026
+
+Moderator:                    Thank you, members of the management. Ladies and gentlemen, on behalf of ABB India
+                              Limited, that concludes this conference. We thank you for joining us, and you may now
+                              disconnect your lines. Thank you.
+
+
+             ----------------------- (This document has been edited for improving readability) -----------------------
+
+
+
+
+                                                       Page 19 of 20
+
+                                                           ABB India Limited
+                                                          November 16, 2026
+
+
+
+Investor / Analyst contact:
+TK Sridhar
+Chief Financial Officer and
+Chief Investor Relations Officer
+sridhar.tk@in.abb.com
+
+
+Sohini Mookherjea
+Country Communication Manager
+sohini.mookherjea@in.abb.com
+
+
+
+
+Registered & Corporate Office:
+ABB India Limited
+Plot No. 5 & 6, 2nd Stage,
+Peenya Industrial Area IV, Peenya
+Bangalore 560058
+Karnataka
+
+
+CIN: L32202KA1949PLC032923
+https://new.abb.com/indian-subcontinent
+
+
+
+
+                                          Page 20 of 20
+

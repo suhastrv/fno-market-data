@@ -1,0 +1,981 @@
+13 November 2026
+
+BSE Limited                                         The National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                          Exchange Plaza, Bandra Kurla Complex,
+Dalal Street, Mumbai 400001,                        Bandra (East), Mumbai 400051,
+Maharashtra, India                                  Maharashtra, India
+
+Scrip Code: 540975                                  Scrip Symbol: ASTERDM
+
+
+Dear Sir/Madam,
+
+Sub: Transcript of Earnings Conference Call for the quarter and half-year ended 30 September 2026
+Ref: Regulation 30 read-with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015.
+
+In furtherance to our letter dated 6 November 2026, wherein the Company submitted the link to the video
+recording of the earnings conference call held with regard to the unaudited standalone and consolidated
+financial results for the quarter and half-year ended 30 September 2026, please find enclosed herewith
+the transcript of the said earnings conference call.
+
+The same is also being uploaded on Company’s website at
+
+https://www.asterqualitycare.com/investors/financial-information/quarterly-reports/earnings-call-
+transcripts-recordings
+
+Kindly take the above-said information on record.
+
+Thanking you,
+
+For Aster DM Quality Care Limited
+(Formerly Aster DM Healthcare Limited)
+HEMISH         Digitally signed by HEMISH
+               PURUSHOTTAM
+PURUSHOTTAM Date: 2026.11.13 18:13:10 +05'30'
+_________________
+Hemish Purushottam
+Company Secretary and Compliance Officer
+M. No.: A24331
+
+             Q2 & H1 FY27 Earnings Conference Call
+
+
+                        November 6, 2026
+
+
+
+
+Management:           Ms. Alisha Moopen – Executive Director
+
+
+                      Mr. Varun Khanna – MD & Group CEO
+
+                      Mr. Sunil Kumar M R – Group Chief Financial Officer
+
+
+
+Moderator:            Mr. Puneet Maheshwari – Lead - Investor Relations
+
+            Puneet Maheshwari:                        Good evening, ladies and gentlemen, and a warm welcome to everyone
+                                                      joining us today for the earnings conference call of Aster DM Quality
+                                                      Care Limited for the second quarter and half year ended September 30,
+                                                      2026.
+
+                                                      This marks our first full quarter following the merger, bringing together
+                                                      Aster DM Healthcare and Quality Care into a unified healthcare platform.
+
+                                                      To discuss our operational and financial performance for Q2 & H1 FY27,
+                                                      we are joined today by the senior management team of Aster DM
+                                                      Quality Care:
+
+                                                      •    Ms. Alisha Moopen – Executive Director
+                                                      •    Mr. Varun Khanna – Managing Director and Group CEO
+                                                      •    Mr. Sunil Kumar M R – Group Chief Financial Officer
+
+                                                      Before we begin, I would like to remind everyone that some statements
+                                                      made on today’s call may be forward-looking in nature and are subject
+                                                      to risks and uncertainties.
+
+                                                      With this, I would now like to ask Ms. Alisha Moopen to share her
+                                                      opening remarks. Alisha, over to you, please.
+
+            Alisha Moopen:                            Thank you, Puneet. Good evening, everyone, and Happy Dhanteras to
+                                                      everyone celebrating. Thank you so much for joining us. This quarter
+                                                      marks our first 100 days as Aster DM Quality Care. I am really proud of
+                                                      how our teams across Aster, CARE, KIMSHEALTH and Evercare have
+                                                      come together in the shared spirit of GO GREATER.
+
+                                                      Since announcing the merger in November 2024, our ambition has been
+                                                      clear: to bring together four trusted healthcare brands to serve more
+                                                      patients, deliver more advanced care, and create lasting value for our
+                                                      stakeholders. Every milestone in Aster’s journey has been built on trust.
+                                                      In these first 100 days, we have focused on bringing our people and our
+                                                      operations together, ensuring seamless continuity of patient care, and
+                                                      sharing clinical expertise across our network.
+
+                                                      A key part of this effort has been strengthening our Centres of
+                                                      Excellence and sharing their expertise across the wider network. Recent
+                                                      Centres of Excellence include the ARISE Robotic Spine Institute at Aster
+
+
+                                                                          2
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      CMI, the CARE Cancer Institute in Raipur, and the Foetal Medicine Centre
+                                                      at Aster Medcity. These centres strengthen specialist care within their
+                                                      hospitals and create expertise that our wider network can draw on,
+                                                      bringing complex treatments closer to more patients.
+
+                                                      Over the past seven quarters, since the announcement of the merger,
+                                                      we have built a very strong growth trajectory, expanding revenue while
+                                                      growing operating EBITDA faster and strengthening margins. This
+                                                      progress demonstrates the strength of this foundation and also
+                                                      reinforces the strategic rationale behind our merger.
+
+                                                      Our first full quarter as Aster DM Quality Care takes this journey to a new
+                                                      high, with our highest-ever revenue, operating EBITDA as well as
+                                                      operating margin. Year-on-year, revenue has grown by 19% to INR
+                                                      2,829 crore, operating EBITDA by 25%, and normalised profit after tax by
+                                                      34%. This momentum gives us confidence as we build the next phase of
+                                                      growth together.
+
+                                                      We have also delivered INR 16.6 crore in synergies this quarter,
+                                                      translating the strengths of our combined network into tangible value.
+                                                      This is an early milestone, but with significant potential ahead as we
+                                                      deepen collaboration, improve efficiency and bring the full strength of
+                                                      the group.
+
+                                                      Our next phase of growth combines capacity expansion with stronger
+                                                      clinical capabilities. One of the most fulfilling aspects of our journey is
+                                                      our ability to bring quality healthcare closer to our patients in Tier 2 and
+                                                      Tier 3 cities. Our expansion will build upon this reach with a pipeline of
+                                                      4,230 additional beds, taking total capacity from 10,840 to over 15,000.
+
+                                                      Our vision remains unchanged: high-quality, physician-led care that is
+                                                      accessible to every community we serve, guided by compassion and
+                                                      clinical excellence. We enter this next phase with greater scale, stronger
+                                                      capabilities and a shared direction. Our responsibility is to translate
+                                                      these strengths into better patient outcomes and sustained growth.
+
+                                                      I would like to take a moment to thank our doctors, nurses and
+                                                      colleagues for their dedication, and all our stakeholders for their
+                                                      continued trust and support throughout this important period in our
+
+
+
+                                                                          3
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      journey. I wish you and your families a very Happy Diwali, filled with good
+                                                      health, happiness and prosperity.
+
+                                                      With that, I will hand over to Varun, our Managing Director, to take you
+                                                      through our operating performance and progress across the network.
+                                                      Over to you, Varun.
+
+            Varun Khanna:                             Thank you, Alisha, and good evening, everyone.
+
+                                                      It has been an immense pride for me to see our teams across Aster,
+                                                      CARE, KIMSHEALTH and Evercare come together as one organisation.
+                                                      Today, as I share our first full quarter’s performance for Aster DM Quality
+                                                      Care Limited, I want to recognise the people who made it possible.
+                                                      Throughout the integration, they kept patient care at the heart of their
+                                                      work, ensuring continuity of care with no disruption to clinical services.
+
+                                                      For us, coming together translates into tangible benefits for patients
+                                                      through stronger clinical teams, access to advanced treatments and the
+                                                      collective expertise of our wider network. We are delivering these
+                                                      benefits hospital by hospital while remaining focused on the quality of
+                                                      care, the efficiency of our operations and the trust patients place in us.
+
+                                                      That trust is reflected in our first full quarter together. We served 2.2
+                                                      million patients in Q2 FY27, up 12% year-on-year, with more of them
+                                                      coming to us for complex care. Our combined strength is beginning to
+                                                      show in what we can achieve together. By bringing our clinical expertise,
+                                                      capacity and resources together across the network, we delivered our
+                                                      highest-ever revenue, highest operating EBITDA and operating margin
+                                                      this quarter.
+
+                                                      Let me take you through the drivers of our performance. Our operational
+                                                      bed base expanded by 4% year-on-year, primarily driven by additions at
+                                                      Kasaragod and the Whitefield Block D. As I mentioned earlier, we served
+                                                      12% more patients during the quarter, reflecting stronger demand
+                                                      across the network. With occupied beds growing at 8%, which is faster
+                                                      than the operational bed capacity, occupancy improved by 335 basis
+                                                      points to 68%, demonstrating better utilisation of our expanded bed
+                                                      base.
+
+
+
+
+                                                                            4
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      Alongside our growth, our investments in clinical capabilities enabled us
+                                                      to serve more patients requiring complex care across Orthopaedics,
+                                                      Gastroenterology, Nephro-Urology and Oncology. This reflects the
+                                                      strength of our clinical talent, with our doctors and care teams bringing
+                                                      advanced medical expertise and complex care closer to the communities
+                                                      we serve.
+
+                                                      We onboarded 100+ doctors in the first half of the year and launched
+                                                      new Centres of Excellence this quarter, including, as Alisha alluded to,
+                                                      the ARISE Robotic Spine Institute at Aster CMI, the CARE Cancer
+                                                      Institute in Raipur, which is a very big one, and the Foetal Medicine
+                                                      Centre of Excellence at Aster Medcity.
+
+                                                      Complex care is growing across the network, with robotic surgeries
+                                                      growing 39%, kidney transplants growing 31% and joint replacements
+                                                      growing 29%. Our hospitals are also widening access outside the metros.
+                                                      Aster MIMS Kasaragod performed the district’s first mechanical
+                                                      thrombectomy, while KIMSHEALTH Nagercoil launched a deceased-
+                                                      donor transplant programme and a comprehensive stroke unit.
+
+                                                      The benefits of operating as one integrated network are increasingly
+                                                      evident in our clinical outcomes. Leveraging the clinical expertise of
+                                                      Aster CMI, CARE Banjara successfully performed its first Adaptive Deep
+                                                      Brain Stimulation procedure, while specialist teams from Aster CMI and
+                                                      Aster Whitefield supported four transplant procedures across CARE
+                                                      Banjara, Aurangabad and Indore. This exemplifies our approach to
+                                                      clinical synergy while developing deep expertise within our Centres of
+                                                      Excellence and extending that knowledge across the broader network.
+                                                      We are now replicating this model in advanced transplants, TAVI and
+                                                      robotic spine surgery, while simultaneously building local clinical
+                                                      capabilities to ensure long-term self-sufficiency and excellence across
+                                                      all our hospitals.
+
+                                                      Furthermore, we invested more than INR 600 crore in medical
+                                                      technology over the last 18 months to enable the endeavour of
+                                                      enhancing complexity in our system. In Q2 FY27 alone, we added one
+                                                      LINAC, one digital PET-CT, three robots, two cath labs and one MRI.
+
+                                                      Higher patient volumes, more complex treatments and a favourable
+                                                      payor mix helped us grow our revenue by 19% to INR 2,829 crore. With
+
+                                                                           5
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      more patients using our existing facilities, we were able to spread our
+                                                      costs better. This helped operating EBITDA grow by 25% to INR 678
+                                                      crore, with an operating margin this quarter at 24%.
+
+                                                      Let me now talk about the first-half performance across the different
+                                                      hospital maturity categories. Our mature hospitals, which represent 64%
+                                                      of our operational beds, contributed 73% of our hospital revenue and
+                                                      83% of our total operating EBITDA. The segment delivered 18% revenue
+                                                      growth, led by 11% growth in total patient volume, which was further
+                                                      supported by increasing clinical complexity.
+
+                                                      Our focus hospitals represent 15% of operational beds, contributing 15%
+                                                      of the total revenue. Investments in strengthening clinical capabilities
+                                                      helped drive a 7% increase in total patient volume, resulting in 13% year-
+                                                      on-year revenue growth.
+
+                                                      Our emerging hospitals, and these are the new hospitals that we launch,
+                                                      represent 10% of our operational beds and contribute 6% of revenue.
+                                                      They grew 53% in total patient volumes, which led to a 62% year-on-year
+                                                      revenue growth. This was largely led by Kasaragod and Nagercoil, the
+                                                      two hospitals that we have opened.
+
+                                                      At our underperforming hospitals, total patient volume grew by 7%. This
+                                                      was supported by higher occupancy, growth in IP volumes, and better
+                                                      conversion of outpatients to inpatients. The revenue of this segment
+                                                      grew strongly by 24%, while operating EBITDA more than doubled.
+
+                                                      Our commitment to quality continues to receive recognition. CARE
+                                                      HITEC City received JCI accreditation, while Aster MIMS Kasaragod
+                                                      received NABH accreditation. Furthermore, Aster DM Quality Care was
+                                                      named Healthcare Brand of the Year at the ET Healthcare Awards 2026,
+                                                      and CARE Hospitals was named ET Best Healthcare Brand for the
+                                                      second consecutive year. Several of our hospitals featured in
+                                                      Newsweek’s World’s Best Hospitals 2026 and Outlook’s National Best
+                                                      Hospital Rankings, including 12 specialty rankings.
+
+                                                      The benefits of working as one integrated platform are also becoming
+                                                      evident operationally. In Q2 FY27, and this is about the synergies that
+                                                      Sunil and I have spoken about earlier, we realised INR 16.6 crore of
+                                                      synergies, taking our annualised run-rate to about INR 65 crore, against
+
+                                                                          6
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      a full potential of what we believe will be about INR 200 crore across the
+                                                      synergy levers that we mentioned earlier. These benefits support our
+                                                      ability to keep investing in patient care and grow our network.
+
+                                                      Delivering on the commitment of excellent patient care requires
+                                                      continued investment in clinical capability and capacity. Over the last 18
+                                                      months, we have invested more than INR 1,200 crores across project,
+                                                      growth and refresh capex. With a current bed capacity of 10,840 and a
+                                                      pipeline of 4,230 additional beds, we are heading towards the 15,000-
+                                                      bed capacity target that we spoke about earlier.
+
+                                                      Our expansion combines additional capacity at existing hospitals with
+                                                      new facilities. Around 47% of the planned beds are brownfield and 53%
+                                                      are greenfield, allowing us to deepen our presence in established
+                                                      markets. The pipeline includes the 454-bedded Aster Trivandrum
+                                                      Hospital as part of our FY27 expansion, which is progressing well on its
+                                                      timelines.
+
+                                                      Our first full quarter together gives us confidence in the opportunity
+                                                      ahead. We maintained continuity of care, served more patients and
+                                                      expanded access to complex treatments. As one team with a shared
+                                                      culture, we remain committed to investing in our people, technology and
+                                                      capacity, guided by patient care and clinical excellence. As a unified
+                                                      organisation, our purpose is to deliver the highest standards of care for
+                                                      every patient who trusts us with their health.
+
+                                                      Thank you for your continued trust and partnership, and Happy Diwali to
+                                                      you and your families. I now hand over the call to Sunil for the financial
+                                                      performance.
+
+            Sunil Kumar M R:                          Thank you, Varun, and good evening, everyone.
+
+                                                      Varun has taken you through our operating performance. I will now walk
+                                                      you through how this translated into financial performance, followed by
+                                                      our balance sheet and capital allocation priorities.
+
+                                                      Before I get into the numbers, a quick word on our reporting basis
+                                                      following the merger. The merger has been accounted for under the
+                                                      pooling of interests method, in simple terms, at book values with no fair
+                                                      valuation of assets and liabilities (which is much more easier), effective
+
+
+                                                                          7
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      from 1 July 2026. So, our reported limited review results for the quarter
+                                                      and half year ended 30 September 2026 include Quality Care from 1 July
+                                                      2026 onwards. However, prior periods have not been restated, so the
+                                                      reported numbers, which have been uploaded as part of the limited
+                                                      review results, are not comparable year-on-year.
+
+                                                      To give a like-for-like view, our earnings presentation combines Aster
+                                                      DM Healthcare’s reviewed figures with Quality Care’s proforma figures
+                                                      for the comparative periods, that is, on a year-on-year basis. All growth
+                                                      numbers that I quote, and that Varun and Alisha have quoted, are on this
+                                                      combined basis. We will align comparatives with Quality Care’s audited
+                                                      numbers at the full-year results going forward. The balance sheet that
+                                                      is presented as at 30 September 2026 is combined basis.
+
+                                                      Starting with the Q2 FY27, revenue grew by 19% to INR 2,829 crore,
+                                                      while operating EBITDA increased 25% to INR 678 crore. Operating
+                                                      EBITDA margin expanded by approximately 111 basis points to 24%.
+                                                      Normalised PAT after non-controlling interest increased 34% to INR 281
+                                                      crore, with the normalised PAT margin improving to 9.9% from 8.8% in
+                                                      the same period last year. ROCE for the quarter stood at 23%, a 152 basis
+                                                      points improvement over the previous year.
+
+                                                      Turning to the H1 FY27, on a combined basis, revenue increased by 20%
+                                                      to INR 5,429 crore, while operating EBITDA grew by 27% to INR 1,255
+                                                      crore. Operating EBITDA margin improved to 23.1% from 21.8% a year
+                                                      earlier. Normalised PAT for the half year, after non-controlling interest,
+                                                      increased 27% to INR 457 crore, with a margin of 8.4% compared with
+                                                      7.9% a year earlier.
+
+                                                      Coming to the balance sheet, gross debt stood at INR 3,959 crore as at
+                                                      30th September 2026. Against this, cash and bank balances and current
+                                                      investments stood at INR 2,240 crore, resulting in net debt of INR 1,719
+                                                      crore. Excluding lease liabilities, our net debt to EBITDA is 0.87 times,
+                                                      comfortably below one. Including lease liabilities, it is 1.72 times. Both
+                                                      ratios are on a trailing twelve-month basis.
+
+                                                      During the first half, on a combined basis, we invested over INR 400
+                                                      crore in capex, of which the majority is for ongoing projects and the
+                                                      balance is for medical equipment.
+
+
+                                                                             8
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      Our balance sheet gives us the flexibility to support ongoing operations
+                                                      and the investments we have planned. As we execute our expansion
+                                                      programme, we remain focused on disciplined investment in capacity
+                                                      and clinical capabilities, continued to realise the integration benefits, and
+                                                      careful management of debt and liquidity.
+
+                                                      With that, I hand it over to Puneet to begin the question-and-answer
+                                                      session. Thank you very much.
+
+            Puneet Maheshwari:                        Thanks, Sunil. Dear participants, during the Q&A session, you will get a
+                                                      chance to ask a question by raising your hand through the raise hand
+                                                      icon in the Zoom application at the bottom of your window. We will call
+                                                      out your name, after which your line will be unmuted, and you will be
+                                                      able to ask a question. I would also request all participants to introduce
+                                                      themselves with their name and the company that they are associated
+                                                      with before asking the question. If you are not associated with any
+                                                      company and you are an individual investor, you can highlight that as
+                                                      well.
+
+                                                      Moving on to the Q&A session, the first question is from Mr. Tausif
+                                                      Shaikh.
+
+            Tausif Shaikh:                            Good evening. This is Tausif Shaikh from BNP Paribas. Congratulations
+                                                      on a good set of numbers. The 19% growth looks phenomenal without
+                                                      much bed addition. My first question is to Varun on the potential merger
+                                                      synergies, which we have highlighted at INR 200 crore over the next
+                                                      three years, with an annualised run-rate of INR 65 crore. Varun, can you
+                                                      explain how this synergy benefit is spread equally over the next three
+                                                      years? Usually, the case should be the initial few years, benefits should
+                                                      be more. Can you give more clarity on this?
+
+            Varun Khanna:                             Hi, Tausif. First of all, thank you. It is just the first quarter, and we have
+                                                      been able to get to an INR 65 crore run-rate. I am not sure that the INR
+                                                      200 crore will be spread over three years; we could do it far faster. You
+                                                      are right that this INR 200 crore synergy will be skewed and we
+                                                      anticipate that over the next three to four quarters, on a run-rate basis,
+                                                       we will be able to impact this entire synergy that we speak about. The
+                                                      way to see it is that we have already got to INR 16.6 crore, which gets
+                                                      us to an INR 65 crore run-rate in the first quarter itself. So, if the sense
+
+
+                                                                           9
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      that you want to get from me is whether we will be able to front-load
+                                                      these synergies, the answer to that is yes.
+
+            Tausif Shaikh:                            That is helpful, Varun. My next question is on the centralised
+                                                      procurement of consumables, which we have been talking about for the
+                                                      last few quarters. Varun, can you tell us the incremental cost savings we
+                                                      have been able to negotiate with our vendors as a joint entity? Any
+                                                      numbers like 10% or 20%? What is the benefit one can assume? I ask
+                                                      mainly because, looking at the gross margin, I think we have reached a
+                                                      level in line with the other listed peers.
+
+            Varun Khanna:                             Tausif, let me first go back to the synergy side of it and explain.
+                                                       We look at a 10-point synergy wheel, and we have now started to see
+                                                      that holistically. Sometimes, a bulk of the synergy is being driven by a
+                                                      combination of clinical programmes, clinical costs, material costs,
+                                                      indirect costs, the efficiencies that we bring in, and talent sharing. So, it
+                                                      becomes very difficult; Sunil and I would end up only doing that exercise,
+                                                      to bifurcate the numbers. So, do not look at it only from a material cost
+                                                      standpoint. It is an efficiency line, and for every procedure of that
+                                                      efficiency line could vary in the breakup a little bit. But I would not
+                                                      necessarily take out that deduction that material cost cannot get better.
+
+                                                      Not that I have a number to share with you, but let me remind you of the
+                                                      wheel that we look at: business KPIs, material cost, international
+                                                      medical tourism, quality and accreditation, and F&B insourcing. I told you
+                                                      that insourcing is a large part of it for us. Then there is IT integration,
+                                                      along with the clinical piece of it. Talent sharing is becoming a big piece
+                                                      for us. If we are able to share the same talent across multiple hospitals,
+                                                      we do not end up paying extra for it, and that finally adds to the gross
+                                                      margin, because talent cost is pretty variable. Indirect cost is, again, a
+                                                      very important piece that we are working on. We never thought we could
+                                                      drive those kinds of synergies there, and that is turning out significantly
+                                                      better than we anticipated.
+
+                                                      Renewable energy is another piece that we have been very focused on,
+                                                      one from an ESG standpoint, given our commitment to delivering on
+                                                      that, and other from a cost standpoint and needless to say, the
+                                                      academics and nursing work that we do across our network also enables
+                                                      us to improve the cost structure. That is the synergy side of our
+
+
+                                                                          10
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      business. On material cost, I will certainly not deduce that we cannot get
+                                                      better. We will continue to try and get better.
+
+            Tausif Shaikh:                            Thanks, Varun. I will get back in the queue.
+
+            Varun Khanna:                             Thank you, Tausif.
+
+            Puneet Maheshwari:                        Thanks, Tausif. The next question is from Ms. Damayanti. Damayanti,
+                                                      can you please unmute yourself and ask the question?
+
+            Damayanti Kerai:                          Hi. Good evening, everyone. I hope I am audible. This is Damayanti from
+                                                      HSBC Securities and Capital Markets Limited, Mumbai. My first question
+                                                      is again a clarification on cost synergies. You mentioned that the next
+                                                      three to four quarters is when you will likely deliver the majority of
+                                                      synergies. Just wanted to understand, will you completely realise the
+                                                      INR 200 crore in that period, or will it be front-loaded in the next three
+                                                      to four quarters? If you can just help me understand that.
+
+            Varun Khanna:                             Sunil, would you like to take it?
+
+            Sunil Kumar M R:                          Thank you, Varun, and thank you, Damayanti, for the question. I think
+                                                      Varun called it out very clearly. For example, If you look at our earnings
+                                                      deck, we have said that we achieved INR 16.6 crore in Q2 FY27, but the
+                                                      run-rate that we achieved is INR 65 crore. That means we know the
+                                                      number that we are going to get over the next four quarters. So, when
+                                                      Varun said that we are going to hit that number over the next four
+                                                      quarters, it means that on a run-rate basis, we are going to hit it by the
+                                                      fourth quarter, and we should be able to realise the full number by the
+                                                      sixth or seventh quarter. That is where we are.
+
+            Damayanti Kerai:                          Got it. That is very clear. Thank you. My second question is: in your first
+                                                      100 days of working as a combined entity, could management point out
+                                                      two or three priorities that you would like to address or work on to really
+                                                      drive the overall momentum?
+
+            Varun Khanna:                             Thank you, Damayanti. There is a lot happening in the first 100 days;
+                                                      honestly, sometimes I feel it is overwhelming. To answer your question,
+                                                      there are three or four things. The first priority was delivering care in a
+                                                      non-impacted manner to our patients. The fact that we have been able
+                                                      to deliver care to 2.2 million people I think that we have done a fantastic
+                                                      job of that. The merger has only enhanced the way we deliver service.
+                                                                           11
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      As we got into the merger, the first thing we did was benchmark
+                                                      everything. There are three ways you look at a merger. First, you try and
+                                                      benchmark what within the network is done well, and where. Across our
+                                                      four hospital brands, Aster, CARE, KIMSHEALTH and Evercare, there
+                                                      were a lot of things which one part of the network did better. So, we
+                                                      benchmarked that, and we realised that the first part of our job is to
+                                                      bring the entire network to that benchmark before we externally start
+                                                      to validate and grow beyond that. That was the second piece that we
+                                                      did, and it spanned clinical, network, delivery, technology and material
+                                                      cost.
+
+                                                      A simple part is that: after we merged, and this is when Sunil and I
+                                                      started working together, as otherwise Sunil was hiding his data and I
+                                                      was hiding mine, but as the merged entity, we realised that 30% of
+                                                      articles were bought cheaper by one entity versus the other. The rate
+                                                      rationalisation was simple. One fine day, you buy at the lowest common
+                                                      price; you do not pay more anywhere across the network. On
+                                                      technology, similar savings accrued. On insurance, similar savings
+                                                      accrued, etc.. A lot of people rationalisation also happened. If you look at
+                                                      our P&L, our people cost growth is significantly lower than the growth
+                                                      in the volume of patients that we have been able to handle.
+
+                                                      Outside of that, there were two or three other priorities or KPIs that we
+                                                      set for ourselves. The first was keeping our flock together, and that we
+                                                      have done very well. We set a target, and I will not tell you what the
+                                                      target was, for retaining top-tier talent. Of the top 20 people, we have
+                                                      not lost anybody. For the top 100 people, we took a percentage of
+                                                      attrition that could have possibly happened on account of the merger.
+                                                      This is a merger of two very large companies, and there also we have
+                                                      fared significantly better.
+
+                                                      I think what we have been able to do on talent management is by virtue
+                                                      of what Alisha alluded to, a term called GO GREATER. GO GREATER is
+                                                      not just a term; it is not a war cry that we came out with. We had multiple
+                                                      communications      across    our   network,    50    physical   employee
+                                                      engagement sessions happened and multiple trainings. All of that, I
+                                                      think, is enhancing the way we are delivering care.
+
+            Alisha Moopen:                            Varun, if I can just add to what you said.
+
+
+                                                                          12
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+            Varun Khanna:                             Please, please.
+
+            Alisha Moopen:                            I think the point that Varun was talking about, keeping our flock
+                                                      together, is probably the most important thing for us, making sure that
+                                                      there is no disruption at all for our people. We have been doing repeated
+                                                      pulse surveys and engagement surveys, and the sentiment and morale
+                                                      being so strong is the only reason we are able to deliver these results. I
+                                                      think that has been one of the biggest positives of this quarter because,
+                                                      of course, it was a cause of concern for us going into the merger, as it is
+                                                      a massive merger with lots of people coming together and I think all the
+                                                      early signs are very positive, and that is very reassuring for all of us, and
+                                                      hopefully for all of you also.
+
+            Damayanti Kerai:                          Sure. That is very helpful. My last question is on your thoughts on some
+                                                      of the recent regulatory developments that we have seen in the
+                                                      industry, say, price capping for oncology drugs, or what the state
+                                                      government of Kerala is trying to explore. Any comment from your side
+                                                      will be helpful.
+
+            Varun Khanna:                             I do not know if there is a specific question in it. We do not look at our
+                                                      business through a pharmacy lens, and I have said this earlier as well.
+                                                      We do not think it is the right way either, Damayanti. Our business, it is
+                                                      not a retail business. It is largely a service delivery business, and when I
+                                                      say service delivery, it is an integrated clinical care business. A large
+                                                      majority of our treatments are delivered through packages, where
+                                                      medicines, consumables, the effort from the clinician and nursing, and
+                                                      infrastructure all come together. Considering that the bulk of it gets from
+                                                      a service standpoint, I think the regulatory pieces only make it better for
+                                                      us.
+
+                                                      If you ask me my view, we have actually welcomed some of these
+                                                      measures in making oncology care more accessible and affordable. I told
+                                                      you that oncology is a focus area for us, and nearly 75% of our operations
+                                                      are in Tier 2 and Tier 3 markets. We all feel at Aster DM Quality Care that
+                                                      this will further enhance access to quality cancer care in these regions
+                                                      and will certainly give a huge impetus and boost to patient volumes.
+                                                      Cancer care being expensive, a lot of people are not able to get care. For
+                                                      us, as we get into Tier 2 and Tier 3 cities, which are underserved in cancer
+                                                      care, I think this will certainly be a significant help.
+
+
+                                                                           13
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      The impact of the current regulation is limited to specific drugs in
+                                                      oncology, and we do not have an impact at this point in time. When it
+                                                      comes into play, we will figure out what happens, but we do not see it
+                                                      as a very big issue at this point in time, if I can just leave it at that.
+
+            Damayanti Kerai:                          Sure. Thank you for your response. I will get back in the queue, and all
+                                                      the best to your team.
+
+            Varun Khanna:                             Thank you, Damayanti.
+
+            Puneet Maheshwari:                        Thanks, Damayanti. The next question is from Mr. Kunal. Kunal, can you
+                                                      please unmute yourself and ask the question?
+
+            Kunal Randeria:                           Hi. Good evening, everyone. Kunal Randeria here from Axis Capital.
+                                                      Varun sir, in one of the slides, you have divided the hospitals into mature,
+                                                      focus and so on. How should we understand the difference between
+                                                      focus and underperforming? Do you mean that focus hospitals are
+                                                      underperforming in your view but have the potential to be as profitable
+                                                      as the mature ones, while underperforming ones are those where you
+                                                      do not hold out much hope for improvement?
+
+            Varun Khanna:                             Hi, Kunal. First of all, I am very happy that I am getting a question on that
+                                                      slide, because we have been wanting all of you to look through that lens.
+                                                      That lens matters a lot to us, and to you as well.
+
+                                                      First of all, the mature category is very clear to you. Units aged more
+                                                      than 3 years with EBITDA margin of 25% or higher. The best part is that
+                                                      64% of our beds are sitting there, delivering 73% of revenue and 83% of
+                                                      EBITDA. Emerging is also pretty clear, I think. Your question is more on
+                                                      underperforming and focus.
+
+                                                      Focus is a network of hospitals which have not got to 25%, but are still
+                                                      pretty mature from a tenure standpoint. Therefore, we want to get them
+                                                      there, and they will get there. In fact, we have seen consistent
+                                                      improvement in their operating EBITDA percentage over the last five or
+                                                      six quarters that we have been reporting this.
+
+                                                      Underperforming is where the improvement opportunity is pretty large,
+                                                      but the bucket is small. It is 11% of our beds, and about 5% of the revenue
+                                                      comes from it, so it is a small bucket in terms of revenue contribution to
+                                                      our network. Things were not going well there for some reason or the
+                                                                           14
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      other, and therefore they were called underperforming. It is a little bit of
+                                                      a tail, if I may call it that, from a financial performance standpoint. But
+                                                      we have now been able to see significant upside there. If you see in the
+                                                      first half of the year, we are up over 700 basis points in operating
+                                                      EBITDA there, and that is also becoming significant.
+
+                                                      So that is the fine delta: one is structured to be mature, and the other
+                                                      has reasons for being a laggard. They may not ever get to 25% EBITDA,
+                                                      but will continue to contribute a small percentage of the overall EBITDA
+                                                      and revenue. Does that make sense?
+
+            Kunal Randeria:                           Yes, sure. That is helpful. But is there any particular region, or are these
+                                                      individual hospitals across cities that may not be performing as per your
+                                                      expectations?
+
+            Varun Khanna:                             It will never be a region. These will be smaller, subscale hospitals that,
+                                                      because of their nature, do not end up being 25% EBITDA hospitals. I will
+                                                      give you an example: a 60-bed or 70-bed hospital in Hyderabad, or a 65-
+                                                      bed hospital in Kottayam, may not be able to deliver 25% EBITDA.
+
+            Kunal Randeria:                           Understood. Just carrying forward from one of your earlier points on how
+                                                      you are keeping your flock together. Let us take the state of Kerala,
+                                                       where Quality CARE India Ltd. had a presence and Aster had a very big
+                                                      presence. How has the new leadership been able to accommodate the
+                                                      individual leadership of both Aster and CARE there?
+
+            Varun Khanna:                             First of all, we do not look at leadership as Aster and CARE.
+
+            Kunal Randeria:                           Sorry to cut you, Varun, but what I meant was that Aster had its own
+                                                      leadership there, and CARE would have had some, maybe a Kerala
+                                                      cluster CEO. How do you accommodate both in those positions now?
+
+            Varun Khanna:                             Kunal, the beauty of our leadership is that none of them see themselves
+                                                      as CARE, KIMSHEALTH, Evercare or Aster leadership. We all came
+                                                      together and owned the company well before day one. That was the
+                                                      meaningful part of our commitment, as Alisha spoke about, of enabling
+                                                      that. If we did not get there, we would not have been standing here
+                                                      today with this kind of performance. There are also strategic ways in
+                                                      which we manage that. Let me give you a sense. We either grew
+                                                      everybody in the organisation or kept them at the same level. The first
+
+
+                                                                          15
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      commitment was that people would either get more from the
+                                                      opportunity that we have created through the merger, or they would
+                                                      continue to do what they were doing from a scale standpoint. That was
+                                                      a very big statement to make, and each one of our people has actually
+                                                      got impacted favourably in many ways.
+
+                                                      Now, if you look at the leadership team, there are not many changes,
+                                                      because honestly, nothing changes at the hospital level. Take
+                                                      Trivandrum, for instance. In Trivandrum, Dr. M.I. Sahadulla, who, as you
+                                                      know, has been running KIMSHEALTH Trivandrum, has been helping us
+                                                      manage Trivandrum. We have a local leadership team, and the same
+                                                      leadership team is going to drive Aster Trivandrum Hospital. That is how
+                                                      harmonious the entire equation is.
+
+                                                      Al Shifa, for instance, was earlier being managed by KIMSHEALTH, but
+                                                      geographically, it should be managed by somebody sitting in northern or
+                                                      central Kerala, and it is now managed from there. Similarly, the CARE
+                                                      team used to manage Nagpur and Aurangabad in Maharashtra, but
+                                                      there is Kolhapur as well. Kolhapur, Aurangabad and Nagpur should be
+                                                      managed by the same leader, so we have brought them together from a
+                                                      regional management standpoint.
+
+                                                      All of that has played out through a very thoughtfully and carefully
+                                                      developed organisation structure. That, I think, has been the key, and we
+                                                      have been able to provide growth to people. I must also say, as I always
+                                                      do, that life is all about amplifying, where AMP stands for accountability,
+                                                      motivation and purpose. We worked on purpose, we worked on
+                                                      motivation, and we have a great set of accountable people who have
+                                                      enabled all of this transition and transformation on the ground. I know it
+                                                      sometimes sounds too good to be true, but you should believe me,
+                                                      Kunal, this is true.
+
+            Kunal Randeria:                           That is good to hear. One more question, perhaps for Sunil, if I can. I
+                                                      heard your comments on how some of these synergies are getting
+                                                      realised pretty fast. In the next 18 months, you have around 1,200
+                                                      greenfield beds coming up. Is it fair to assume that some of the synergy
+                                                      benefits will be perhaps offset by initial losses from these hospitals, and
+                                                      perhaps 2029 could be a year where there is a J-curve kind of movement
+                                                      in margins?
+
+
+                                                                             16
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+            Sunil Kumar M R:                          Thank you, Kunal. I think you will remember that this question has come
+                                                      up previously as well. What we have always said, and which is actually
+                                                      true, is that all the greenfield are coming up in clusters that we are well
+                                                      aware of, and we have done this repeatedly. For example, Whitefield
+                                                      broke even in three months, Nagercoil in four months and Kasaragod in
+                                                      nine months. You have seen the losses; they are very negligible. So, we
+                                                      do not see a drag on our P&L, whether the synergies are there or not.
+                                                      That is the first thing. Actually, the synergies coming in will act more like
+                                                      a backup plan for that. Given this, we do not see the losses offsetting
+                                                      the synergies being driven. As Varun called out very clearly, we will hit
+                                                      the complete run-rate within four quarters, and you will see the full
+                                                      number coming in six to seven quarters.
+
+            Kunal Randeria:                           Got it. That is very helpful. Thank you, all the best, and Happy Diwali to
+                                                      the entire Aster team.
+
+            Varun Khanna:                             Thank you, Kunal. Happy Diwali to you as well.
+
+            Puneet Maheshwari:                        Thanks, Kunal. The next question is from Dr. Bino. Bino, can you please
+                                                      unmute yourself and ask the question? Bino, we are not able to hear you.
+                                                      Moving on, the next question is from Mr. Shubh Kalra.
+
+            Shubh Kalra:                              Hi, am I audible?
+
+            Puneet Maheshwari:                        Yes, you are audible.
+
+            Shubh Kalra:                              Thanks. Could you please call out the revenue, EBITDA and EBITDA
+                                                      margin for Aster DM and Quality Care separately for this quarter? I
+                                                      wanted it for a like-for-like comparison.
+
+            Varun Khanna:                             Shubh, sorry, we are not sharing those numbers anymore. As Sunil
+                                                      mentioned, and I will pass it on to him, all the numbers are like-for-like.
+                                                      We have ensured that all of what you see is comparable, and we see it
+                                                      as one network. We will always see it as one network, and I would urge
+                                                      you to see it like that as well. Sunil, if you would like to add anything.
+
+            Sunil Kumar M R:                          No, Varun, I think you called it out very clearly. Shubh, I also called out in
+                                                      my speech that the 19% revenue growth and 25% EBITDA growth are all
+                                                      on a combined basis. With the leadership all together, we are not
+                                                      tracking it separately even in the books. Even in the monthly MIS, we are
+                                                      not reviewing Aster and CARE separately, and none of the reviews
+                                                                          17
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      happen on a brand basis either. It’s all 38 hospitals together that we look
+                                                      at.
+
+            Shubh Kalra:                              Fair enough. Thank you.
+
+            Varun Khanna:                             Thank you, Shubh. Apologies that we could not give a direct answer to
+                                                      that.
+
+            Puneet Maheshwari:                        Thanks, Shubh. Dr. Bino, can you now unmute yourself and ask the
+                                                      question?
+
+            Bino Pathiparampil:                       Can you hear me?
+
+            Puneet Maheshwari:                        Yes, it is better now.
+
+            Varun Khanna:                             Hi, Bino. Your voice is breaking, so we are getting your question only
+                                                      intermittently.
+
+            Bino Pathiparampil:                       I am sorry. Let me join back.
+
+            Puneet Maheshwari:                        In the meanwhile, if any of the attendees would like to ask a question,
+                                                      please raise your hands. The next question is from Dhvani. Hi, Dhvani,
+                                                      can you please unmute yourself and ask the question?
+
+            Dhvani:                                   Hi, am I audible now?
+
+            Puneet Maheshwari:                        Yes, you are audible.
+
+            Dhvani:                                   Firstly, on your operational bed capacity, would it be possible to provide
+                                                      the census and non-census breakup?
+
+            Sunil Kumar M R:                          Thank you for the question, Dhvani. Of the roughly 10,600 operational
+                                                      beds, you can take about 20% as non-census beds and about 80%-81%
+                                                      as census beds .
+
+            Dhvani:                                   That is helpful. Secondly, on the margin matrix that you have provided
+                                                      for mature hospitals, on an H1-to-H1 basis, the incremental flow-
+                                                      through to margins has been almost 40%, given you have grown at 20%,
+                                                      which gives an operating margin of 30.2%. How do you see this going
+                                                      forward? What are the other levers for this growth to continue, or for
+                                                      the margin to remain where it is?
+
+
+
+                                                                          18
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+            Varun Khanna:                             Sure, Dhvani. Your question is on the mature segment operating EBITDA
+                                                      of 30.2%, is that fair?
+
+            Dhvani:                                   Yes.
+
+            Varun Khanna:                             There are three pieces to this. One, efficiency continues to be an
+                                                      important lever for us. As the larger hospitals continue to scale up, their
+                                                      costs do not grow in the same proportion. Two, this is one segment
+                                                      which is growing pretty well for us. The other thing that you should be
+                                                      mindful of is that this is where the brownfield expansion that we have
+                                                      been talking about is happening. That has been one of our big themes
+                                                      historically as well, and that is why a very significant component of our
+                                                      bed growth comes from brownfield. We will continue to grow the
+                                                      mature segment from a revenue standpoint, and to ensure that capacity
+                                                      gets de-bottlenecked, we are adding beds wherever capacity will
+                                                      become a constraint.
+
+                                                      These will be very productive assets as they get larger, because around
+                                                      2,000 beds will get added to the mature segment, and they will start to
+                                                      fire from day zero without any lag. That should answer your question.
+                                                      This segment will continue to be very profitable and clinically
+                                                      phenomenal. The clinical complexity that I talk about is also growing
+                                                      here. This is where we are making investments in robots and ensuring
+                                                      that we have the entire gamut of CONGO-T covered. This is where we
+                                                      are extremely focused on developing quaternary care services beyond
+                                                      what we deliver today.
+
+                                                      Therefore, they will continue to be ARPOB accretive and complexity
+                                                      accretive, and they will continue to enhance ALOS a little. If there is a
+                                                      capacity bottleneck, you can be assured that we have already thought
+                                                      about it, and we will enhance capacity in the assets where any
+                                                      bottleneck is coming up.
+
+            Dhvani:                                   That is helpful. Thank you.
+
+            Varun Khanna:                             Thank you.
+
+            Puneet Maheshwari:                        Thanks, Dhvani. I think Bino has come back in the queue. Dr. Bino, can
+                                                      you now unmute yourself? This will probably be the last question from
+                                                      the participants.
+
+
+                                                                           19
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+            Bino Pathiparampil:                       Hi, good evening. Is it clear now?
+
+            Puneet Maheshwari:                        Yes, it is better now.
+
+            Bino Pathiparampil:                       Great. I am sorry about the last two times, and congratulations on a
+                                                      great set of numbers in the first combined quarter. My question is: this
+                                                      quarter, the operating EBITDA margin is 24% and the reported EBITDA
+                                                      margin is around 23.5%. It is a great set of margins. Is this a base to look
+                                                      at? Like Sunil said, over six to seven quarters we will see the full benefit
+                                                      of synergies. Where should we see the margin going from this 23.5%-
+                                                      24%?
+
+            Sunil Kumar M R:                          Bino, thanks for the question. As you called out, for Q2 FY27 it is 24%,
+                                                      and on a YTD basis, which is H1 FY27, it is 23.1%. You should also note
+                                                      that in this quarter, both CONGO and non-CONGO have done well.
+                                                       CONGO has grown more than 16% and non-CONGO more than 19%.
+                                                      There has also been a little bit of a push from medical specialties,
+                                                      because in some geographies, we have seen medical cases doubling,
+                                                      specifically dengue cases. We also need to remember that healthcare
+                                                      has seasonality. Q3 and Q4 are more festive quarters, so you will not see
+                                                      the same level of margins there.
+
+                                                      But what we have always guided is that two to three years post-merger,
+                                                      we want to be at 24%-25% on a full-year basis, and we need to always
+                                                      be mindful of that. We should not refer to just one quarter as the base;
+                                                      when you look at H1, we are still at 23.1%. The broad guidance that we
+                                                      have given for two to three years includes the synergies, the greenfield,
+                                                      and almost 1,800-2,000+ brownfield beds that we are talking about. We
+                                                      will also do some acquisitions, as we have a good war chest today.
+                                                      Keeping all this in mind, a 24%-25% margin in two to three years looks
+                                                      very well. If we are able to do well on synergies and on the greenfield
+                                                      turnarounds, I think we should do well.
+
+            Bino Pathiparampil:                       Understood. So, in two to three years, you will reach 24%-25%, if I got it
+                                                      correct.
+
+            Sunil Kumar M R:                          Yes.
+
+            Bino Pathiparampil:                       Okay. My second question is for Varun. There was an earlier question on
+                                                      price control. Obviously, the price control that has come in right now is
+
+
+                                                                          20
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      only on drug margins, which, like you said, is not appropriate in the
+                                                      context of a hospital business. At the same time, there are some other
+                                                      movements happening, especially in Kerala, where an assembly
+                                                      committee has recommended comprehensive price control on hospitals.
+                                                      Suppose some sort of all-encompassing pricing regulation comes
+                                                      through, how would you look at it? First of all, what do you think is the
+                                                      chance of that coming through, what could be the impact, and how do
+                                                      you plan to deal with it?
+
+            Varun Khanna:                             Bino, you know the answer to that question. It is very simple: either I
+                                                      have to be a fortune teller or I have to be in parliament, and I am neither.
+                                                      It is very difficult to predict, especially going by what I read in the media,
+                                                      it may be difficult as every report cannot go back to the assessment
+                                                      area. Ifs and buts are part and parcel of life. I will give you the broader
+                                                      context, and that cannot be taken away.
+
+                                                      Private healthcare today delivers 65% of care in India, and this has
+                                                      evolved over the last 10-12 years. Otherwise, India would not have
+                                                      enabled this level of complexity for its citizens. We are not done yet; we
+                                                      have just covered a part of the metro problem. You have 850 Tier 2, Tier
+                                                      3 and Tier 4 cities which are still under capacity. On a do-nothing basis,
+                                                      even if all goes well, all of you stay healthy, nobody gets sick and you
+                                                      take care of yourselves, India will still need 1.5 million beds over the next
+                                                      10 years. In context, for 1.5 million beds, you are looking at about $130
+                                                      billion of cash going into the industry. That is only possible if there is an
+                                                      economic rationale for putting this kind of money into a business.
+                                                      Correct me if I am wrong, Sunil, we have a 10% PAT, right?
+
+            Sunil Kumar M R:                          Right.
+
+            Varun Khanna:                             We have a 10% PAT business, and you need $130 billion. I think
+                                                      everybody understands that for India’s evolution, for India’s health and
+                                                      for all of us to stay healthy, this is going to be incredibly important. So, I
+                                                      am sure someone is looking at both sides of the picture. While we hear
+                                                      a lot and see a lot, especially on Kerala, I have considered Kerala, even
+                                                      when I was not operating there, as one of the finest health systems in
+                                                      the country by far. This is one state which is supported by both private
+                                                      and very strong public networks. What I like about Kerala is that it is a
+                                                      very evolved network, and it has to be, because it has the highest
+                                                      hospitalisation rate in the country as well.
+                                                                          21
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+
+                                                      Keralites have always used healthcare to keep healthy, and that is
+                                                      incredibly important. The government has played a very important part
+                                                      in building this ecosystem. Nobody understands the need for healthcare
+                                                      as good as what Kerala understands, so I am sure they are looking at it
+                                                      in the right spirit. I have told you that we will engage very constructively
+                                                      with them. We are committed to delivering quality healthcare at the
+                                                      right price, so that it is seen as extremely high value in every part of the
+                                                      country that we operate in. I will give you that much; those are the
+                                                      fundamentals which cannot be shaken. That is why I always look at it
+                                                      from a macro perspective, and therefore, my responses are more macro.
+
+            Bino Pathiparampil:                       Thank you. I hope the people who take decisions also understand what
+                                                      you said.
+
+            Varun Khanna:                             Thank you, Bino.
+
+            Puneet Maheshwari:                        Thanks, Bino. This being the last question, this concludes the earnings
+                                                      call for this quarter for Aster DM Quality Care. I thank the management
+                                                      and all the attendees for joining us today. If you have any further queries
+                                                      or questions, please do get in touch with us. Happy Diwali to everyone.
+
+            Varun Khanna:                             Thank you, everybody. Happy Diwali.
+
+                                                                         <End>
+
+            The contents of this transcript may contain modifications for accuracy and improved readability.
+
+
+
+
+                                                                          22
+Aster DM Quality Care Limited – Q2 & H1 FY27 Earnings Conference Call
+

@@ -1,0 +1,1309 @@
+                                                        Leading Through Innovation
+
+
+     November 04, 2026
+
+
+     To                                                               To
+     BSE Limited                                                      National Stock Exchange of India Ltd
+     Corporate Relationship Dept.,                                    Corporate Relationship Dept.,
+     Phiroze Jeejeebhoy Towers,                                       Exchange Plaza, Plot No. C/1, G Block,
+     Dalal Street, Mumbai 400001                                      Bandra-Kurla Complex,
+                                                                      Bandra (East), Mumbai 400 051
+
+     Scrip Code: 544283                                               Symbol: ACMESOLAR
+
+    Reference: Regulations 30 and 46 of the Securities and Exchange Board of
+               India (Listing Obligations and Disclosure Requirements)
+               Regulations, as amended and our earlier intimation dated October
+               22, 2026, regarding Earnings Call for Q2 FY27 results with
+               analyst(s)/institutional investor(s)
+
+    Subject:                      Earning Call transcript of the Investors Conference Call held on the
+                                  unaudited Financial Results (Standalone and Consolidated) of the
+                                  Company for the quarter and half year ended September 30, 2026
+                                  (Q2 FY27)
+
+    Dear Sir/Madam,
+
+    In terms of Regulation 30 and 46 read with Part A of Schedule III of the Securities
+    and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+    Regulations, as amended, please find enclosed herewith the transcript in respect
+    of Earnings Conference Call with the Analysts/Investors held on Thursday, October
+    29, 2026, on the unaudited Financial Results (Standalone and Consolidated) of
+    the Company for the quarter and half year ended September 30, 2026.
+    The Transcript of the conference call has been uploaded on the Company’s website
+    and the same can be accessed from the link provided below:
+    https://www.acmesolar.in/assets/pdf/Webcasts-and-
+    Transcripts/04.11.2026_Q2_FY27_Earning_Call_Transcript.pdf
+
+    You are requested to take the same on record.
+    Thanking you,
+    For ACME Solar Holdings Limited
+               Digitally signed
+    RAJESH bySODHI
+               RAJESH
+
+    SODHI 19:14:41 +05'30'
+           Date: 2026.11.04
+
+
+
+    Rajesh Sodhi
+    Company Secretary and Compliance Officer
+
+
+                                               ACME Solar Holdings Limited
+                                                  CIN: L40106HR2015PLC102129
+Corporate Office: 4th, 6th to 8th Floor, Block A1, DLF World Tech Park, DLF IT SEZ Silokhera, Sector 30, Gurugram, Haryana 122001 India
+                                                  Tel: +91-124-4507100 Fax: +91-124-7117001
+                                       Regd. Office: Plot No .152, Sector-44, Gurugram 122002, Haryana, India
+                                                    Tel: +91-124-7117000 Fax: +91-124-7117001
+                                                Email: cs.acme@acme.in; Website: www.acmesolar.in
+
+           ACME Solar Holdings Limited
+     Q2 and H1 FY27 Earnings Conference Call
+                 October 29, 2026
+
+
+
+
+MANAGEMENT: MR. MANOJ KUMAR UPADHYAY – CHAIRMAN
+            MR. NIKHIL DHINGRA – JOINT MANAGING
+            DIRECTOR AND CHIEF EXECUTIVE OFFICER
+            MR. ARUN CHOPRA – CHIEF FINANCIAL OFFICER
+            MR. ANKIT VERMA – DIRECTOR OF CORPORATE
+            FINANCE
+
+
+
+
+                      Page 1 of 21
+
+                                                                            ACME Solar Holdings Limited
+                                                                                       October 29, 2026
+
+Moderator:     Ladies and gentlemen, good day and welcome to the Q2 and H1 FY27 Earnings Conference Call
+               of ACME Solar Holdings Limited. As a reminder, all participant lines will be in the listen-only
+               mode and there will be an opportunity for you to ask questions after the presentation concludes.
+               Should you need assistance during the conference call, please signal an operator by pressing star
+               then zero on your touchtone phone.
+
+
+               I now hand the conference over to management. Thank you, and over to you.
+
+
+Ankit Verma:   Thank you. Good afternoon everyone, and thank you for joining us today. I am Ankit Verma,
+               Director of Corporate Finance. I am joined by our Chairman, Mr. Manoj Kumar Upadhyay, Mr.
+               Nikhil Dhingra, Joint MD and CEO, and Mr. Arun Chopra, CFO. It is my pleasure to present
+               the highlights of our performance for the second quarter and the first half of FY27.
+
+
+               Let me begin with our financial performance. Total revenue for the quarter stood at INR1,007
+               crores, which is up 67.5% year-on-year, while EBITDA increased 63.6% to INR874 crores,
+               driven primarily by short-term peak power BESS operations and renewable capacity additions.
+               Our blended EBITDA margin was 86.7%, which comprises 90.8% from renewable generation
+               and 78.3% from BESS operations, where the cost of power purchased to charge the batteries sits
+               within the operating expenses. Profit after tax rose 133.5% via Y-o-Y basis to INR269 crores,
+               of which represents a PAT margin of 26.7%.
+
+
+               Our asset base grew by INR11,466 crores over the year to INR28,462 crores following the
+               commissioning of BESS and RE projects. Coming to our business and execution updates, We
+               made strong progress across commissioning, PPA signing, and short-term peak power BESS
+               contracting. We have commissioned approximately 5.2 gigawatt-hour of BESS capacity till date,
+               which is the second largest BESS capacity in India as of date, and we achieved our initial half-
+               yearly target of 5 gigawatt-hour, which we mentioned in the last call.
+
+
+               With this BESS and solar commissioning, 1.9 gigawatt of our contracted projects are now
+               partially commissioned. In addition, 1.7 gigawatt of modules have been delivered to site, out of
+               which 1.1 gigawatt are already installed across multiple projects. Out of this installed 1.1
+               gigawatt module capacity, 200 megawatt peak of modules is already charged. And the balance
+               is expected to be charged by November to December of this year. We signed 430 megawatts of
+               FDRE PPAs during the quarter.
+
+
+               Additionally, we yesterday signed another 400 megawatt FDRE PPA with NTPC, taking the
+               overall PPA signed portfolio to 92% out of the total contracted portfolio of 8,370 megawatts.
+               Through short-term BESS contracts, we have locked in more than INR1,600 crores of revenue
+               for partial sale of FY27 capacity and more than INR1,500 crores for partial sale of capacity for
+               FY28, with the balance to be tied up through future bids. Our CUF for the quarter improved
+               from 24.1% to 27.8% year-on-year, and power generation grew 19.6% to 1,840 million units.
+
+
+               Additionally, we sold 324 million units through short-term peak power BESS contracts. The
+               weighted average cost of debt for our fully operational projects is around 8.4%. Around 65% of
+               these borrowings are from PFC, REC, IREDA, and NaBFID, whose rates follow their own long-
+
+
+
+
+                                       Page 2 of 21
+
+                                                                               ACME Solar Holdings Limited
+                                                                                          October 29, 2026
+
+                  term cost of funds and which limits interest rate volatility. Further, CRISIL has upgraded ACME
+                  Solar Holdings rating outlook to AA- positive from AA- stable.
+
+
+                  Turning to the key sector and regulatory updates, below are the favorable steps taken by the
+                  government benefiting all the stakeholders. First, BESS connectivity. CTUIL has initiated the
+                  grant of BESS connectivity under non-ROFR route, speeding up deployment. For us, it helps
+                  build a large BESS pipeline at preferred high GHI sites in Rajasthan. Second, Green Energy
+                  Corridor Phase III.
+
+
+                  The Union Cabinet has approved INR1.36 lakh crores for interstate transmission -- intrastate
+                  transmission and INR50,000 crores for 50 gigawatt-hour of BESS, targeting the evacuation of
+                  135 gigawatt of renewable energy. This is expected to open up new opportunities for us in the
+                  state-connected renewable projects. Third, the Pradhan Mantri Surya Sarovar Yojana. The
+                  scheme targets 5,000 megawatt of floating solar with at least 2 hours of co-located storage and
+                  provides central financial assistance of up to INR1 crores per megawatt after commissioning.
+                  This opens up new business opportunities for us in the floating solar market.
+
+
+                  And lastly, use of curtail energy for BESS charging. Wherever the GNA is delayed, curtailed
+                  solar under the PPA can now charge BESS for merchant sale. This gives us the opportunity to
+                  commission our solar capacity ahead of scheduled GNA and utilize that energy in BESS.
+                  Overall, these developments reduce risk, widen the opportunity set, and support our focus on
+                  BESS deployment. Looking ahead, let me share our upgraded capacity roadmap.
+
+
+                  Given our execution momentum and the scale of the opportunity, we are raising our targets
+                  across all three time frames. FY27, BESS commissioning guidance raised from 10 gigawatt-
+                  hour to more than 12 gigawatt-hour, driven by our early deployment strategy. And by 2030, our
+                  renewable target rises from 10 gigawatts with 25 gigawatt-hour of BESS to 15 gigawatts and 50
+                  gigawatt-hour of battery, doubling the storage component. And below are the several factors that
+                  support delivery of this roadmap.
+
+
+                  A strong tender pipeline, 20+ gigawatts of upcoming tenders across solar plus BESS, FDRE,
+                  CfD, and PHSP. 50 gigawatt-hour of peak power builds already rolled out till September 27th,
+                  and another 200 gigawatt to 250 gigawatt-hour of short-term peak power contracts expected in
+                  the near term -- near to medium terms, and 20 gigawatt-hour of medium-term peak-only tenders
+                  expected shortly. And as we speak today, SECI has launched a large 4 gigawatt/16 gigawatt-
+                  hour auction for 4 hours of assured peak power, which requires commissioning within the
+                  required 12 months. The tender also carries VGF funding of INR15 lakhs per megawatt-hour.
+
+
+                  Secondly, about 10 gigawatt of RE connectivity inventory that we have, which is secured and
+                  applied for upcoming bids over and above existing portfolio, and 5 gigawatt plus of BESS
+                  connectivity already granted. Third, about 19 gigawatt-hour of BESS already contracted with
+                  reputed suppliers including CATL, Hithium, Ganfeng, Trina, and CLOU. I would now hand
+                  over to Manoj sir to discuss strategic priorities for the company going forward.
+
+
+Manoj Upadhyay:   Thank you, Ankit. I would like to extend my sincere gratitude to our shareholders, our board of
+                  directors, and my team who have continuously supported and guided the company in the right
+
+
+                                          Page 3 of 21
+
+                                                                                 ACME Solar Holdings Limited
+                                                                                            October 29, 2026
+
+                  direction. Our strategy going forward will rest on five pillars. Together, they are building a
+                  return-led, self-financing renewable platform with contracted visible cash flows.
+
+
+                  First, return on capital and profitability. We allocate capital to the highest return opportunities.
+                  Megawatt matter -- megawatts matter, but the measure we would hold ourselves to is earnings
+                  growth and the quality of these earnings. Second, BESS as a cash engine. On a rolling basis, we
+                  expect to operate around 10 gigawatt-hour of BESS subject to tariff realization. Its cash flows
+                  fund our growth and reduce the equity needed for new projects, making this a self-financing
+                  platform.
+
+
+                  Third, execution excellence. We are focused on higher CUF, continued BESS addition, and
+                  keeping solar and balance of the system ready for upcoming projects. Being ready ahead of the
+                  grid improves margin and hedges us against transmission delays, as our assets can start earning
+                  before full GNA. Fourth, margin improvement. Curtailed solar can now charge our BESS, so
+                  energy that would otherwise be lost lifts BESS EBITDA and cash flow.
+
+
+                  And we have tied up capex for both BESS and solar below budgeted costs, building better margin
+                  in from day one. Fifth, contracted revenue visibility. Long-term PPA anchor our portfolio
+                  revenue while short-term peak power contracts monetize our BESS capacity, giving us high
+                  visibility of future cash flow. With that, I conclude my remarks. Thank you for your continued
+                  support. We'll now be happy to take your questions. Thank you.
+
+
+Moderator:        Thank you very much. We will now begin the question-and-answer session. First question is
+                  from the line of Puneet from HSBC. Please go ahead.
+
+
+Puneet:           Yes, thank you so much and congrats on great performance and looking forward to your targets.
+                  My first question is, given the context of delays in transmission, what is the revised number of
+                  capacity additions that you intend to do for FY27 for power generation, and also what should
+                  one think of as annual capex and capitalization plan?
+
+
+Nikhil Dhingra:   Right, Puneet. Of course, we understand the delays in the GNA, and we have reoriented our
+                  strategy around it in terms of the BESS commissioning which we have done. As you would have
+                  noted in our quarterly presentation, we have partially commissioned around 1.9 gigawatt of
+                  capacity through a mix of solar commissioning and BESS commissioning, as you would have
+                  noted.
+
+
+                  As we are commissioning these capacities, we are realizing the revenue, which is seen in these
+                  quarters. If you look at the complete commissioning of an FDRE plant or a hybrid plant, that is
+                  dependent on the GNA commissioning coming online, and as per the current timeline, we are
+                  hopeful that we will be able to do 1.5 gigawatt.
+
+
+                  But it could be more, it could be less by a quarter, depending on the GNA commissioning. But
+                  of course, as far as the partial commissioning goes, it will be substantially higher, maybe 2.5, 3
+                  gigawatts. Because as far as AC commissioning goes, we have already charged 2.5 gigawatts of
+                  capacity in terms of that.
+
+
+
+
+                                           Page 4 of 21
+
+                                                                                ACME Solar Holdings Limited
+                                                                                           October 29, 2026
+
+                  And if you look at revenue generation elements, as we have clearly mentioned, we have charged
+                  1.9 gigawatt of capacity commissioned. Because given these FDRE constructs and the peak
+                  power constructs, these are now distributed across multiple CTU substations. So, tracking the
+                  full commissioning does not mirror the revenue generation, because the BESS comes online
+                  early.
+
+
+                  Like in one of our -- two of our plants, we have charged solar also. Because the GNA is not live,
+                  we are using it to charge the BESS. And the GNA is partially available, let's say at Bikaner-III,
+                  so we are supplying to NTPC during the day whenever the GNA is available, rest of the time it
+                  is going to the BESS.
+
+
+                  The plant is commissioned, but of course since the GNA is not available, we are using it very
+                  productively by reducing our cost of production. That's how we will continue to share the details
+                  also in terms of the commissioning and also in terms of the elements commissioning.
+
+
+Puneet:           That's helpful. This 1.9 gigawatt includes all this?
+
+
+Nikhil Dhingra:   Sorry, just to complete the reply on the capex, capex also is something you asked. We have done
+                  around INR10,000 crores of capex this year till date. Roughly INR6,000 crores. Sorry, INR6,000
+                  crores of spend, out of which INR3,500 crores is capitalized and INR3,000 crores is CWIP. So,
+                  INR6,500 crores is what we have done already, and I think we will do a similar amount or a
+                  higher amount in the second half of this year.
+
+
+Puneet:           And capitalization also similar number?
+
+
+Nikhil Dhingra:   Yes, because we are targeting to capitalize whole of 12 gigawatt hour of BESS in this financial
+                  year only. The number will substantially go up from what we have done in the previous half
+                  year, because the BESS is ordered, the LCs are getting opened, and we have money lying. As
+                  you would have noted, there is a lot of cash because of the disbursements we received in
+                  September. All of this will be utilized into capex.
+
+
+Puneet:           Right. And on the generation side, the 3 gigawatt, where should it end? End of FY27? Including
+                  what you used to power your own BESS?
+
+
+Nikhil Dhingra:   Generation side to power our own BESS, in terms of, see there is, what you mean to ask is there
+                  is BESS and there is generation to charge that BESS, or to supply to the grid. You want to know
+                  that number. It will be upwards of 1.5 to 2 gigawatts in terms of that generation, in terms of the
+                  megawatt peak we will install.
+
+
+                  Of course, bulk of it will be driven by Fatehgarh-II, which has around already installed of around
+                  700 megawatt peak is already installed at that. We are just awaiting the GNA going live. Our
+                  transmission line is more or less ready. And then Neemuch, and then Bikaner-III. These three
+                  only will take this above 1.5. And of course, we have Ananthapur also coming, which will take
+                  it to around 2 gigawatt-plus.
+
+
+                  On the generation side, and this could go upwards. I'm just saying the basic three, four projects
+                  which we see as coming online before March, depending on the timelines of their GNA. Not at
+
+
+                                           Page 5 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+                  all places we are using this to charge battery. Because Ananthapur, because the substation is
+                  coming live earlier, we may charge the solar first and the battery may come later, or battery may
+                  come concurrently also.
+
+
+Puneet:           Understood. And on the debt side, how should one think about your cost of debt going into the
+                  future? You also have a credit rating upgrade, but at the same time there's also interest rate rising.
+
+
+Nikhil Dhingra:   Yes. You're right. It is of course the Global and the Indian situation is moving towards a
+                  stabilization or some increase in the interest rates, of course. As Ankit mentioned, we have
+                  analysed this issue, and we have reviewed that 65% of our debt is from institutions which borrow
+                  very long term.
+
+
+                  If you notice PFC, REC, IREDA, and of course NaBFID, these institutions borrow very long
+                  term. Only 20% of their book is on a five year duration borrowing, which they refinance every
+                  5 years. Rest of their book is fairly stable. And these guys don't really, if you notice their
+                  behaviour in last 5 years, 10 years, they have not increased their base rates as frequently as an
+                  MCLR-linked institution would do.
+
+
+                  We don't foresee interest rate hikes from let's say INR10,000 crores out of our INR15,000 crores
+                  debt book, operational debt book, which is there. And on the under-construction debt, of course
+                  as you know, once the project gets operational, there is a substantial reduction in the interest
+                  rate, which purely happens because of credit risk reduction, and nothing to do with the interest
+                  rate cycle prevailing.
+
+
+                  Let's say 9%-plus debt which interest rate which we are paying in a lot of these projects which
+                  are under construction, will move down to let's say 9% sub, substantially sub-9% rate. That's
+                  something which is independent of the macro. It is a micro related to our company, which will
+                  also play out.
+
+
+                  As we are seeing even during the under-construction phase, we are getting two projects
+                  refinanced, which is in progress, where the battery is commissioned, the solar is very close to
+                  commissioning, but we are getting it refinanced. That is also going on, because the risk is
+                  currently out of the picture in terms of the commissioning of both the elements that battery is
+                  commissioned and solar is very near commissioning, and the GNA is also going to get
+                  commissioned. We are getting good demand for such, where even during the construction phase
+                  we are able to refinance.
+
+
+Puneet:           Understood. That's very clear. Just lastly on my side, on the 400 megawatt NTPC tender that
+                  you signed, who is the offtaker and has the tariff been reduced to 4.37 from earlier 4.7? What's
+                  driven that?
+
+
+Nikhil Dhingra:   NTPC is the offtaker for that FDRE PPA. Tushar, we have not reduced the tariff in that one,
+                  right? In the NTPC. There is a GST 5% and 12% impact, which is a tentative estimate of that
+                  tariff. That is not a tariff reduction. That is basically the GST reduced to 5% from 12% post the
+                  RFS. So there is no tariff reduction in this particular PPA. There is, I think we have increased
+                  the hour of battery, 1 hour of battery. Right?
+
+
+
+                                            Page 6 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+Tushar Goyal:     4 and 1/2 hour battery.
+
+
+Nikhil Dhingra:   So, we have increased the battery from 4 hour to 4 and 1/2 hours, but we have not reduced tariff
+                  in this one.
+
+
+Puneet:           Understood. That's very clear. Thank you so much and all the best.
+
+
+Moderator:        Thank you. Next question is from the line of Amit Bhinde from Axis Capital. Please go ahead.
+
+
+Amit Bhinde:      Hello sir. Am I audible?
+
+
+Nikhil Dhingra:   Yes.
+
+
+Amit Bhinde:      Congratulations on a great set of numbers and the revised guidance. Just a few questions. One,
+                  in the previous question, you mentioned that you have done a capex of around INR6,000 crores
+                  and you would do similar or probably in the H2. So that's a revised guidance of INR12,000
+                  crores. I think earlier we were talking about INR15,000 crores to INR17,000 crores. Any change
+                  in thought process because of the transmission connectivity or any other reasons?
+
+
+Nikhil Dhingra:   Right. So we have done a capex of INR6,500 crores already, right? And we are yet to receive
+                  batteries of around, you can say, we have around 7 gigawatt-hour of battery with us today at
+                  sites and we are yet to receive 5 gigawatt-hour of batteries for which we have opened LCs and
+                  they have not been capitalized or they are still part of -- they are not part of the capex. So it will
+                  be a substantially higher number than INR6,500 crores, which we are hoping to do.
+
+
+                  And we are also getting modules for sites which where we are able to charge these batteries. So
+                  we are quite confident that it will be a higher number than INR6,500 crores. I don't have a ready
+                  number with me right now in terms of the H2 capex exactly, but we will be able to share with
+                  you. It should be higher going by these 2 things.
+
+
+                  So, in terms of the GNA dependency, right -- for these for battery, we have no GNA dependency
+                  because we are only doing battery installations at places where GNA is available, right? And for
+                  modules also, we are only doing where we are able to either charge our battery or supply to the
+                  grid, which is a big runway for us, because we have a large amount of megawatts which we can
+                  install at places where we have batteries or where we have GNA. So that will not be a limiting
+                  constraint for capex for us.
+
+
+Amit Bhinde:      Got it. The second question that I want you to understand is that, you have mentioned that you
+                  have done 1.9 gigawatt of partial commissioning of the projects. So if I just take a 25% PLF on
+                  that for this quarter, it would mean about 1,000 million units and your BESS has supplied only
+                  324. So in a way, are we implying that we had around 650 to 700 million of curtailment?
+
+
+Nikhil Dhingra:   Sorry, I missed your query. Could you come again?
+
+
+Amit Bhinde:      You have 1.9 gigawatt of capacity which is pre-commissioned. Right? Now, if I just take a 25%
+                  PLF on that, it means about 1,050 million units generation in the quarter. BESS is only 324, and
+                  we have also taken external purchases. So in a way, are we -- is it right to conclude that
+                  curtailment was close to around 700 million units?
+
+                                             Page 7 of 21
+
+                                                                                 ACME Solar Holdings Limited
+                                                                                            October 29, 2026
+
+Nikhil Dhingra:   No. So, how you should look at this commissioning is you look at the elements which you got
+                  commissioned, right? So there is a solar which got commissioned at some places, and there are
+                  quite a few places where the solar is not even commissioned, right? It's only battery.
+
+
+                  So wherever the battery is commissioned, it's purely charging of that battery and discharging of
+                  that battery, right? Because the solar is not there, so this 25% CUF is not applicable, right?
+                  Wherever the solar is charged, there also the capacity is partially commissioned as of now, as
+                  mentioned.
+
+
+                  So there also, let's say at Bikaner, currently 133 megawatts is charged out of 300 megawatts. So
+                  for 133, you can benchmark 25%, right, in that specific project. Yes. And so we can give you, I
+                  think in the next, we can incorporate the exact numbers, so where you can match these 25%,
+                  because…
+
+
+Amit Bhinde:      Yes. I will request for that is we can have that in the PPT as to what is your planned configuration
+                  and how much has been commissioned in the operational table below?
+
+
+Nikhil Dhingra:   We will do that. We'll do that in the next presentation.
+
+
+Amit Bhinde:      Yes. And the last question that I have is basically, if I look at your Q1 to Q2 gross block
+                  difference, that's almost about INR1,782 crores, whereas the operational debt that I am seeing,
+                  that is increasing by around INR31 billion – so     INR3100 crores.
+
+
+                  So ideally it should be 75-25 or 80-20, when you do it in the -- when you recognize as operational
+                  debt. So there's a mismatch. If you can help me understand the accounting behind that?
+
+
+Arun Chopra:      So Amit, you are comparing Q1 FY27 with Q2 FY27, or corresponding quarter Q1?
+
+
+Amit Bhinde:      Q1 FY27, Q-o-Q. So Q-o-Q, your gross block has gone up from 196 billion to 214 billion. So
+                  that's a INR1782 crores of gross block increase. Whereas if I look at the operational debt
+                  increase, that's around INR3,100 crores. So ideally, I mean, I would have expected a 75/25 or
+                  80/20 kind of a recognition into operational debt when the project gets capitalized, but here the
+                  difference is higher. So if you can understand…
+
+
+Arun Chopra:      Yes. Let me just put up the numbers for your reference, right, so that we are clear. So in Q1
+                  FY27, our gross debt was roughly INR20,000 crores. In this quarter, it was roughly INR26,500
+                  crores. It's number one.
+
+
+                  In terms of gross block, gross block for Q1 was around INR24,900 crores, and for this quarter it
+                  stands at roughly INR28,500 crores, right, which is capex of roughly INR3,500 crores, which
+                  we're talking about during the quarter. And the gross debt increased partially because some of
+                  the refinancing must have also happened.
+
+
+Nikhil Dhingra:   And the rest of it went into CWIP.
+
+
+Arun Chopra:      And the rest of it went into CWIP.
+
+
+
+
+                                             Page 8 of 21
+
+                                                                                ACME Solar Holdings Limited
+                                                                                           October 29, 2026
+
+Amit Bhinde:      I'll try to take this offline because, the operational debt is appearing more versus the CWIP debt
+                  in that case.
+
+
+Arun Chopra:      Yes. And some of the debt happened at the quarter end, which anyway is coming as a reflecting
+                  as a cash balance in the book, which is INR10,000 crores.
+
+
+Amit Bhinde:      Okay. Just to understand, could there be a possibility that you are taking more debt on the
+                  operational asset and funding in some of the equity through that for the CWIP? Is that a
+                  possibility?
+
+
+Nikhil Dhingra:   No, that has not happened, at least in, in this quarter or the previous quarter. So that is not the
+                  case because, when we typically refinance is when the project just becomes a COD, right? That
+                  is when you deserve a top-up because, the debt equity can move from 75-25 to a higher number.
+
+
+                  This has not happened in the -- what we have really done is we have taken disbursements early,
+                  on these FDRE and peak power projects to push our battery capex, right? And that has resulted,
+                  because as you know, the battery capex for us is quite front-ended, right? We are ordering 12
+                  gigawatt-hour of batteries. So all those projects, battery debt has come in early, right? And the
+                  battery -- LCs are only opened when required.
+
+
+                  This is a factory acceptance test at that time you open a LC, even though you take debt at the
+                  end of the quarter or whenever, because it's an aggregate disbursement, they do not on each and
+                  every LC period. So there is a time delay between the disbursement and the utilization of the
+                  debt.
+
+
+                  So that is why you see a lumpy amount coming in terms of the gross debt, whereas the capex is
+                  happening as we open these LCs and we install those batteries, or deliver these batteries. That is
+                  how it will pan out. So you will see this whole of debt converting into gross block and converting
+                  into revenues also, because the time scale from installation to revenue is very short in a battery
+                  project. And we are only calling for batteries where the GNA is live and where we are ready.
+
+
+Amit Bhinde:      Right, got it. And only one, data question. How much units internally were used to charge the
+                  BESS? If you can give that. And second, the average purchase price of the BESS that you have
+                  recently ordered in Q2. I think Q1 ordering was around 15 gigawatt-hours.
+
+
+                  Now you have 19, so you have ordered 4 gigawatt-hours during the quarter. So how has been
+                  the rates, because lithium carbonate prices are going up and BESS capex can see upside to the
+                  INR1 crores that you have been doing till now?
+
+
+Nikhil Dhingra:   So in terms of the, BESS being -- the solar being used to charge BESS, out of the 133 megawatt,
+                  Ashutosh, how much is…
+
+
+Ashutosh Singh:   Around 700 megawatt-hour per day,
+
+
+Nikhil Dhingra:   Which is around, around 80-90 megawatt of AC. It's around 90 to 100 megawatt of AC is being
+                  used to -- out of 133 is used to charge the BESS, and 33 to 40 megawatt is going to the client.
+
+
+Amit Bhinde:      Okay. And on the BESS capex?
+
+                                           Page 9 of 21
+
+                                                                                ACME Solar Holdings Limited
+                                                                                           October 29, 2026
+
+Nikhil Dhingra:   Yes. On the BESS capex, of course, we have done lower than INR1 crores per megawatt-hour.
+                  Because, as you know, the key difference, in the capex for us is we are installing BESS at
+                  operational substations, right?
+
+
+                  So the capex for the transformers and the AC infrastructure exists at these plants. So we are not
+                  doing a greenfield installation. So that saves us around INR20 lakhs per megawatt-hour of capex.
+                  So, and that's why we have been able to do between INR90 lakh to INR1 crores kind number
+                  for the capex which we have capitalized on our books.
+
+
+                  In terms of going forward, what we are seeing is the lithium carbonate prices have come down,
+                  the copper prices have gone up, and of course the Chinese taxes coming into picture in January,
+                  6% tax is there from export tax. So it's a combination of factors, but overall the battery doesn't
+                  look to be going up at all. It will go down. How much it goes down is dependent on the 3, 4
+                  factors we spoke about, and of course on the supply and demand and various other, geopolitical
+                  factors. Yes,
+
+
+Amit Bhinde:      Right, got it. Those were my questions. This was really helpful. Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Mohit Kumar from ICICI Securities. Please go
+                  ahead.
+
+
+Mohit Kumar:      Yes, good afternoon, sir. Thanks for the opportunity. My first question is, are you seeing the
+                  change in the bidding environment where SECI is floating bids after completely tying up of the
+                  power with DISCOM, and thereby conversion to PPA are happening faster? Is the understanding
+                  correct?
+
+
+Nikhil Dhingra:   Yes, please. That is a correct understanding. As you can see in the cycle of our recent PPA, we
+                  won a PPA and it got signed, we won a bid and it got signed to PPA around 2 months, within 2
+                  months. That is absolutely true. And of course, the selectiveness with which the bids are being
+                  coming is also very praiseworthy, I may say, because they are actually collecting the exact bids
+                  they need to do from the states and coming up with only those bids.
+
+
+                  Whether it is a PSP bid or a wind bid or a peak power bid, it is actually catered to only the
+                  demand. They are not coming up with bids where there is no customer, and there is a pre-tie-up
+                  of customers because otherwise you cannot do these two months' bid-to-signing. It is impossible
+                  to do that otherwise.
+
+
+Mohit Kumar:      Second question is on the battery. Can you please help us understand the battery PPA tie-ups
+                  which you have done for INR15 billion and INR16 billion for FY27 and FY28, I correctly recall
+                  the number. It is possible to quantify how much of the current capacity you have tied up for H2
+                  and FY28? And are we exposed to the input price volatility?
+
+
+Nikhil Dhingra:   For FY27, we are around 90%, 95% tied up in terms of what we can produce, we have contracted.
+                  We keep around 5%, 10% for RTM and RTM kind of a sale. In terms of FY28, we are around
+                  65% tied up, or maybe 50% to 60%, we will confirm that number, but around that number is
+                  what we are tied up. It is not, in terms of the input prices of in terms of capex you are asking,
+
+
+
+                                          Page 10 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+                  Mohit, or you are asking about the cost of buying power? You are talking about cost of buying
+                  power.
+
+
+Mohit Kumar:      Yes, buying power.
+
+
+Nikhil Dhingra:   Of course, we don't have any tie-up for the buying power as of now. We are of course dependent
+                  on these IEX prices for buying power, but wherever we are producing our own solar, which is a
+                  large number, we are more and more reducing that risk because I think by end of March or
+                  maybe by June, at quite a few places our solar will be fully ready to charge these batteries which
+                  we have at that stations because they have that kind of configuration.
+
+
+                  Our procurement from IEX would reduce substantially. In the next presentation, we will
+                  incorporate that also that how much we will buy from outside versus how much we will have,
+                  but we will give you that number.
+
+
+Moderator:        Sorry to interrupt, Mr. Mohit Kumar. When management is answering your question, may we
+                  request you to please mute yourself? Because there is a disturbance, sir. You may go ahead with
+                  your questions.
+
+
+Mohit Kumar:      No, I'm done. Thank you. Thanks for the opportunity. Thank you, and all the best.
+
+
+Moderator:        Thank you. Next question is from the line of Sourabh Arya from Oaklane Capital Management.
+                  Please go ahead.
+
+
+Sourabh Arya:     Hi sir, am I audible?
+
+
+Nikhil Dhingra:   Yes, please.
+
+
+Sourabh Arya:     Congratulations on a great set of numbers. I have two questions. One is on this Strategy 2.0. Of
+                  course, for 2030, we are saying now we can do 15 gigawatts. But what we are seeing in market
+                  is ultimately, grid connectivity is the challenge. For our existing project already, of course, we're
+                  not able to fully commission them. In that context, how realistic this 15-gigawatt target is? If
+                  you could throw some light?
+
+
+Nikhil Dhingra:   Yes, sure. As you must have noticed from our strategic plan which we have also mentioned in
+                  the presentation, we are focusing more on the revenue generation possibility than the absolute
+                  megawatt number. You have pointed out really well that we are not fussed about the…
+
+
+Moderator:        So sorry to interrupt you here, sir. Mr. Shaurya Arya, may we request you to please self-mute
+                  your line when management is answering? There is a disturbance coming from your line. Thank
+                  you very much. Sir, you may please go ahead.
+
+
+Nikhil Dhingra:   In terms of the strategy, we were just explaining that the strategy is more about, of course in
+                  terms of the numbers, in terms of revenues we can generate, the profit we can generate, and of
+                  course the pace at which we can grow. In terms of our strategic alignment, we are fully geared
+                  up to grow at a very fast clip in terms of both of these.
+
+
+
+
+                                          Page 11 of 21
+
+                                                                              ACME Solar Holdings Limited
+                                                                                         October 29, 2026
+
+                How we achieve these gigawatts and how we achieve these crores is of course linked to the
+                connectivity we have, which is more than required for these 15 gigawatts, and the timelines of
+                these substations, which is also very well in planning and very well in delivery. 15 gigawatt is
+                not at risk in terms of the GNA connectivity, because the substations we are targeting for these
+                15 gigawatts have a timeline of 2028 at last and maybe early 2029.
+
+
+                The delays we see in these substations, and now the substations are coming up with a timeline
+                of 36 months, 30 months, that is the extension already being done by CTU or the MOP in terms
+                of the planning, which is a very, again a very good step they have taken. Even if you factor in a
+                6 months delay or a 12 months delay, we are within our goal of achieving this capacity. And in
+                terms of the BESS capacity, again we have enough connectivity for doing those BESS projects
+                we have spoken about.
+
+
+                The main thing, I think Shaurya, which we are working on and keep working on is the customer,
+                to have the demand for such projects and to be able to do these projects. What may happen is
+                we may do let's say a 17 gigawatt and a higher amount of BESS, which is entirely likely going
+                by the amount of peak power deficits which is coming.
+
+
+                If you notice the tender which Ankit spoke about, so it is a higher amount of peak power which
+                is needed, and in terms of revenue realized per megawatt it is much higher. The profit realized
+                is also potentially higher. In terms of connectivity, in terms of the demand, of course they are
+                there. And we see good demand coming up because as you see the power prices in India, so
+                people have realized that you have to go full steam on all the sources and not choose a particular
+                source.
+
+
+                Thermal may come up, renewable is also coming up with firm demand backed up, and peak
+                power is also coming up. We see that a lot of bids are coming which are very rightly designed,
+                and which capture through the real demand. We don't see a, from all these three perspectives of
+                connectivity tie-up, the demand availability, and of course in terms of our execution abilities,
+                we don't see a challenge.
+
+
+                And that's why we have upgraded, because what we noticed is we have already 8.5 gigawatts of
+                PPAs, and we are going to participate in more than 3 to 4 gigawatts of PPA very soon. We
+                noticed that if we get those PPA done by end of '27 or so, we will definitely be around 12
+                gigawatts of capacity by 2029. And if we assume something in let's say a lot of BESS we are
+                doing, for which there is a ready customer available, there are a lot of states which want to buy
+                those peak power projects.
+
+
+                It is very, I think very safe to assume that in terms of contracted capacity, we can reach there by
+                2027 in terms of tie-ups. Of course, the execution will go on till 2029 and '30, but in terms of
+                PPA tie-ups we can go there by end of next year, calendar-wise.
+
+
+Sourabh Arya:   Okay. Could you throw some more light on this 10 to 15, of course, the incremental these 6
+                gigawatts? How much of this we are thinking on data center, hydrogen molecule, maybe from
+                your own ACME Cleantech? Their plans are also going pretty ahead. If you could divide it, will
+
+
+
+
+                                        Page 12 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+                  the nature of the business change from current PPAs with these central utilities? If you could
+                  divide that.
+
+
+Nikhil Dhingra:   Shaurya, that's a good question. In terms of the overall growth we are seeing in terms of demand
+                  centers, we don't see a change in the in the nature of the customer for us. Of course, there will
+                  be incremental demand coming from various other sources, including what you mentioned, data
+                  center, green ammonia, and multiple other demand areas.
+
+
+                  But our primary source for capturing this would be these AAA PPAs with these counterparties
+                  like SECI, NTPC, SECI primarily now, and of course state governments. The addition to this
+                  would be state governments, which is entirely there. And of course, we will participate in the in
+                  the SECI bids, like SECI is procuring power for green ammonia projects also.
+
+
+                  There, feeder to SECI is increasing. Whatever sources you mentioned in terms of data center,
+                  green ammonia, SECI is also catering to demand for these sources also. In terms of the conduit
+                  for us to get these PPAs, that will remain a AAA counterparty, and that is what we want to
+                  achieve. And we don't see a shortage of these bids. Like we mentioned, we have sufficient bid
+                  to take it from 10 to 15 gigawatts. We are already at 8.5. If you kept it at 10, we are at 8.5 already
+                  in '26. That doesn't show any growth in terms of our contracted capacity for the next 2 years in
+                  terms of the bids won and PPA signed.
+
+
+                  Because we have been winning projects to the rate of around 1.5 gigawatts every year for the
+                  last 3 years, 4 years. I think even if you projected like that, we are bound to reach that number.
+                  And we see a great increase in these bids coming up because of the shortage of peak power in
+                  India, and that is playing out in the terms of prices already. We see that 10 to 15 gigawatts, an
+                  incremental 5 gigawatts capacity being won by us in the next 18 months, 12 months to 18
+                  months, for sure.
+
+
+Sourabh Arya:     So, we are not factoring anything from ACME Cleantech in this? That is also a part of it.
+
+
+Nikhil Dhingra:   Yes, we are not factoring in anything from the ACME Cleantech. Of course, it could increase
+                  these 15 gigawatts further if ACME Cleantech were to let's say buy power for the green ammonia
+                  or for data or for any other sources through SECI or through any other agencies. We are not
+                  factoring in that in these 15 gigawatts.
+
+
+Sourabh Arya:     15 gigawatts, okay, fair enough. And second is, of course, what we all expect is these spreads of
+                  BESS will go down over 2 years, 3 years. And what matters is at what pace the new BESS comes
+                  into the system. And here we see you yourself are putting so big BESS numbers. What do we
+                  expect about then the BESS spread?
+
+
+                  Should they narrow very quickly? Because let's say, I don't know what is the reason, but Q1 to
+                  Q2 itself it is down. That might be for a different reason. But two, three year hence, then how to
+                  think about this particular market from a spread’s perspective?
+
+
+Nikhil Dhingra:   If you look at Q1 to Q2, and if you look at the prices we have signed up for this year and next
+                  year, they have substantially gone up. In terms of the delivery, those contracts were already
+
+
+
+                                           Page 13 of 21
+
+                                                                                   ACME Solar Holdings Limited
+                                                                                              October 29, 2026
+
+                   signed. In Q1, We can't, we actually don't wait. We want to reduce risk. What we do is we sign
+                   for, let's say, next two quarters. And these projects, these bids are also for next 6 months.
+
+
+                   They are not for let's say 15 months onwards, it is 6 to 12 months maximum they are. So, the Q2
+                   contracts were already signed, so the tariffs have not moved from Q1 to Q2, they were already
+                   contracted. We can tell you our tariff for Q3 also, so they are already contracted. In terms of the
+                   new bids we have won for let's say Q4 or Q1 of next year, they are substantially higher.
+
+
+                   The tariffs are substantially higher than you can say what we have realized so far. It is dependent
+                   on how the states are feeling about their power demand in near term, because these are near-
+                   term bids. And structurally, let me tell you, there is a big shift happening from RTC, RTC
+                   procurement, which is the thermal procurement or a gas procurement, to BESS procurement.
+                   Because like we said in our previous conference call also, this is a new form of power.
+
+
+                   BESS is a new form of power which has developed trust with now maybe 10 to 12 governments,
+                   which maybe our peers and us have supplied to. People are more and more confident about
+                   shifting their near-term power mix from RTC to batteries. You will see that a lot of new demand
+                   is being created.
+
+
+                   In terms of the tariffs, of course the RTC at INR7 or INR6 is much more expensive than BESS
+                   at INR10, because you are buying unnecessary volume of power which you don't need to during
+                   the day when you contract out this RTC. And that volume is huge. Basically, the 85% of the
+                   near-term power is RTC, which is waiting to be disrupted.
+
+
+Sourabh Arya:      Perfect. I think this is quite helpful. Yes, thank you. All the best.
+
+
+Moderator:         Thank you. Next question is from the line of Shaunak Godbole from SBI Life Insurance. Please
+                   go ahead.
+
+
+Shaunak Godbole:   Hello, thank you for the opportunity. So I wanted to understand what's the capacity addition
+                   target for FY28, in megawatt terms, '27 and '28?
+
+
+Nikhil Dhingra:    So, in FY28, in terms of the GNA availability, we are looking at upwards of 3 gigawatts, around,
+                   2.5 gigawatts to 3 gigawatts is what we are looking at in FY28. Because, Shaunak, in terms of
+                   the -- we are seeing all of our substations coming alive during, that particular year, and it is
+                   aggregating around that.
+
+
+                   You see, from June to December, bulk of our substations are coming alive. If you look at most
+                   of the substations date today, that is where they are. And of course, they are there with some
+                   delay, so we are very confident that they will not be further delayed because the elements are
+                   ready and the work is happening at a very good pace. So that's where we are.
+
+
+Shaunak Godbole:   Okay, and what about '27? Because I guess initially it was 0.5, but when I was looking at the,
+                   PPT last quarter, so around, I suppose, 700 megawatts was only the capacity which was
+                   basically, the substations were ready for the timeline, GNA timelines as per the PPT. So it was
+                   around 700 megawatts. So what is the status of that? Because if you in this quarter we haven't
+
+
+
+
+                                            Page 14 of 21
+
+                                                                                    ACME Solar Holdings Limited
+                                                                                               October 29, 2026
+
+                   commissioned any project and H1 capacity addition is around -- there is no capacity addition
+                   this H1 if I compare with the 2 quarters.
+
+
+Nikhil Dhingra:    So Shaunak, when we look at the capacity addition, we look at the elements we have charged
+                   for each of these projects. Right. So, and, and, you -- we have laid out in our presentation, then
+                   we have partially commissioned around 1.9 gigawatts of capacity so far out of the total under-
+                   construction portfolio we have. In that 1.9, we have partially commissioned, solar at, 2 places
+                   and battery at, around 2 -- 4 places.
+
+
+                   And all of these projects are under those -- and excluding one project which is Acme Suryodaya.
+                   All of these are under PPAs and they are, they are generating, revenues. So, in terms of -- if you
+                   are -- I think, mentioning about the generating source, which is the solar, right? If you are
+                   tracking only, that or in terms of the contracted capacity, we have operationalized 133 megawatts
+                   of, grid-facing solar, right? Of course, that is what we have done in this quarter.
+
+
+                   And of course, in terms of the, commissioning targeted for FY27, it is depending on the
+                   Fatehgarh 2 operationalization, we, we could do, 1.5 gigawatts, still. But of course, it could move
+                   to a quarter by June or something. But 1.5 gigawatt is what we are targeting, for FY27.
+
+
+Shaunak Godbole:   Okay. So, on the financial data query, if you see your interest cost has been flat for the 2 quarters
+                   to 3 quarters that we have come in. So basically, what's the reason for that? Because we have
+                   commissioned batteries, so ideally, depreciation is increasing. So basically cost also should
+                   increase, right?
+
+
+Nikhil Dhingra:    Right. So, there are a couple of reasons for that. One is that we've done a QIP raise, of around
+                   INR2,800 crores. So that has of course resulted in us paying down some of the debt, which has
+                   resulted in saving that interest cost. That is one of the key reasons. And, the second thing is,
+                   some of these, cash flows we are generating, from BESS.
+
+
+                   That is also saving on the debt drawdown from our side, that, we are able to use it as equity and,
+                   we are not able to -- we don't increase -- that is increasing the internal accruals available to either
+                   pay down debt, because we are paying down debt from these internal accruals also. And not
+                   incurring the interest cost.
+
+
+                   And we are drawing down less debt because these accruals are to be used for capex or for debt
+                   reduction. And in some cases lenders have allowed it for using it as equity also. So that is
+                   resulting in us keeping flat. The third thing is we have refinanced higher interest rate bond. Right
+                   now we don't have any dollar exposure in the overall book, it is 100% rupee. And that has
+                   resulted in substantial interest saving, in this quarter, for us, so which will continue to be there
+                   going forward. So these are the 3-4 reasons we have.
+
+
+Shaunak Godbole:   Okay, and so just one question, even I was looking at the other expenses, so for the past 2
+                   quarters, 3 quarters it was a bit higher. This quarter it is -- as compared to the last quarter, it is
+                   around INR45 crores. So is there any specific trend have to look at it or how to look at it?
+
+
+Nikhil Dhingra:    Arun, what does these other expenses include?
+
+
+
+                                            Page 15 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+Arun Chopra:       So other expenses basically include the O&M expenses which we generally incur, and in the last
+                   quarter the other expenses were higher because there was a one-time expense of the authorized
+                   capital being a company and the probably in almost 7 companies to 8 companies, this was almost
+                   INR20 crores. So this was on the higher side in the last quarter, but generally it remains static if
+                   you see on a quarter-to-quarter basis.
+
+
+Nikhil Dhingra:    So this ROC bit, I'll just explain, it is basically, when you, when you put equity in a company,
+                   you have to pay a fixed ROC fees for issuing share capital. So that is very lumpy and it only
+                   comes, whenever it, when you start doing project. So that keeps it kind of, lumpy. I think maybe
+                   we can have a line item showing this, or, or in schedules we can show this. Yes, as a one-time
+                   expense. So that will help you to predict it on a quarter-on-quarter basis if you want.
+
+
+Shaunak Godbole:   Can you just repeat what, what was that one-time expense? I wasn't...
+
+
+Nikhil Dhingra:    ROC, Registrar of Companies. When you put shares -- capital into a company...
+
+
+Arun Chopra:       When you raise your authorized capital, basically you have to pay an ROC fee.
+
+
+Nikhil Dhingra:    So that ROC fees, when you start a project, how much is it typically?
+
+
+Arun Chopra:       It goes from -- limited at INR2.5 crores.
+
+
+Nikhil Dhingra:    Yes, around 2.5 crores per SPV you need to pay that. So that increases -- whenever you start
+                   putting equity in a company, right, you need to pay this INR2.5 crores, so that...
+
+
+Nikhil Dhingra:    Per SPV.
+
+
+Nikhil Dhingra:    Per SPV. So that, keeps it slightly, unpredictable for that extent.
+
+
+Shaunak Godbole:   Okay. Thank you very much.
+
+
+Moderator:         Thank you. Next question is from the line of Apoorva Bahadur from IIFL Capital. Please go
+                   ahead.
+
+
+Apoorva Bahadur:   Hi sir, thank you for the opportunity. A couple of questions. One is on the partial commissioning
+                   of projects that we have done. So, would be helpful if you can explain How do we sort of, so do
+                   we like capitalize these assets and, start charging all the expenses to P&L, or they are still
+                   capitalized on balance sheet?
+
+
+Nikhil Dhingra:    So, Apoorva, wherever we are selling power, we have expensing out, because we have
+                   capitalized. And, and the rest is, wherever we are not selling power, it is not yet capitalized.
+
+
+Apoorva Bahadur:   So the solar which is used to charge your batteries, would that be capitalized or it's only the
+                   battery?
+
+
+Nikhil Dhingra:    That is, that is capitalized completely. Yes, wherever. So even the— so see, we are selling power
+                   means we can sell to the grid or we can sell to our own BESS right? In both cases, the sale is
+
+
+
+
+                                           Page 16 of 21
+
+                                                                                   ACME Solar Holdings Limited
+                                                                                              October 29, 2026
+
+                   being made from that SPV. So wherever the, sale is being made, we have capitalized. And I
+                   think wherever we have said partially commissioned, they are capitalized.
+
+
+Apoorva Bahadur:   Understood. So our gross block already includes them. It's no longer in the capex.
+
+
+Nikhil Dhingra:    Yes, exactly.
+
+
+Apoorva Bahadur:   Understood. And secondly, on these new PPAs which we are signing, I believe that they will be
+                   under the ambit of ALMM 2 now. So how are you seeing the pricing for DCR ALMM 2
+                   compliant modules? What's your view? When would you tie up for these? Would it be this year,
+                   next year?
+
+
+Nikhil Dhingra:    Right, Apoorva. So we have, we have plans of buying modules for these projects from, you can
+                   say, June onwards of next year. So because these are, commission targets from December
+                   onwards -- December to March of '28, those are the timelines for commissioning these projects.
+                   So, the price -- we have done some initial negotiations and discussions because, we don't, intend
+                   to buy immediately.
+
+
+                   But of course, we have whatever, briefings we have done, we are getting prices of lower than 17
+                   as of now. But it is very dependent on, the various factors. But, so we are substantially within
+                   the prices we had assumed in terms of bids for that. So that's not a risk we see. Of course, given
+                   the Chinese regulations which have come into force in terms of the recent Chinese regulations,
+                   so if it impacts the cell capacity in India, then we will have to see.
+
+
+                   But it doesn't look like there is already substantial cell capacity which has come up or which is
+                   ALMM registered and which is already there. So we don't see these prices increasing because
+                   of shortage of suppliers. So we think that because of that, the prices will not increase.
+
+
+Apoorva Bahadur:   Okay. And connectivity for all these projects, we had to declare them before bidding, or is it like
+                   we will still have to wait for CTU to commission those substations and only then? So there could
+                   be a deferral in further setting up these capacities?
+
+
+Nikhil Dhingra:    No, actually, most of these projects are peak power projects. These ALMM, if you are only
+                   talking about ALMM2
+
+
+Apoorva Bahadur:   No, the recent ones. So, the ones which we have signed PPA this quarter…
+
+
+Nikhil Dhingra:    Yes. So, most of these projects are peak power projects. We are already installing where GNA
+                   is almost operational. So, there is no GNA risk because these peak power projects are actually
+                   very immune to GNA delay because we typically install them at projects where GNA is live. So,
+                   in a lot of our books, there is no GNA dependency delay because they are operational. So, most
+                   of the peak power projects we are doing, the GNA is operational. So, there is no risk to these
+                   timelines.
+
+
+                   Other than maybe you can say a RTC project or a REMCL, wherever you need to install a grid-
+                   facing solar project, there you are more dependent on the GNA being getting delayed. But in
+                   peak power projects like the ones where the battery is supplying power to the grid, there is --
+
+
+                                           Page 17 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+                   from our side, there is -- we allot such that there is no delay possible in those projects because
+                   of GNA.
+
+
+Apoorva Bahadur:   Just last question on this peak power projects. I think one of the recent projects, we have signed
+                   a tariff of about INR6 rupees where we have to supply during peak hours and we also have to
+                   arrange for the charging part. How does the math work at INR6? Because I think the battery cost
+                   at $100 itself would be closer to INR4.5, right? 12% IRR.
+
+
+                   On top of that, the cost of charging. So, what type of equity IRR are we seeing over there? At
+                   INR6 tariff?
+
+
+Nikhil Dhingra:    Right, Apoorva. So, in terms of that project and the resultant economics of it, there are a couple
+                   of things in terms of the early commissioning, right? Because -- as I mentioned, we have allotted
+                   these projects to an operational GNA. So, for us, the solar takes time to come up because of
+                   ROW issues, because of the land acquisition issues, but battery comes up for us fairly early and
+                   as you see, we have preponed a lot of these battery commissioning.
+
+
+                   So, in terms of the battery commissioning, the battery will come up earlier for these projects.
+                   And of course, since the PPA is signed, the debt is available as well. So, there is early
+                   commissioning revenue which you realize out of this project, because specifically it is available
+                   to sell power today. So that's the key difference between our earlier projects and this project. Of
+                   course, it is dependent on the competition, right?
+
+
+                   Nobody likes to reduce their returns. But in terms of the -- we make a high teen return on this
+                   even if we factor in you can say 6 months to 12 months of operations of short-term power, but
+                   we will of course have around 24 months, so maybe we will do higher than that.
+
+
+Apoorva Bahadur:   Fair enough. Thanks a lot, Nikhil. All the best.
+
+
+Nikhil Dhingra:    Thank you.
+
+
+Moderator:         Thank you. The next question is from the line of Dhruv Muchhal from HDFC Asset
+                   Management. Please go ahead.
+
+
+Dhruv Muchhal:     Yes, sir. Thank you so much. Sir, you made a comment that 85% of near term is RTC and is
+                   waiting to be disrupted. I didn't get that point. If you can please expand on that?
+
+
+Nikhil Dhingra:    Yes, Dhruv. Basically, in terms of the DEEP portal, there is a DEEP portal as you must be aware
+                   where discoms procure short-term to medium-term power. The volumes in that DEEP portal,
+                   85% of them are through thermal RTC kind of tenders, and only 15% are through you can say
+                   gas or other sources, right? So that is where we were saying that this 85%, right? Because there
+                   was no availability of other sources, that was the trend.
+
+
+                   Because people are buying -- we see a lot of states buying this RTC power when they only need
+                   peak power, because there is no other source available. Like you saw Gujarat, right? Gujarat
+                   used to buy a large amount of RTC power, but this year you see Gujarat bought a large amount
+
+
+
+
+                                           Page 18 of 21
+
+                                                                                  ACME Solar Holdings Limited
+                                                                                             October 29, 2026
+
+                  of peak power. So, that has reduced their RTC purchase volume of these short-term and medium-
+                  term power. That is what I was talking about.
+
+
+Dhruv Muchhal:    Perfect, sir. Got it. So, the second thing is in your presentation, you mentioned 50 gigawatt of
+                  peak power bids rolled out by till September '27, and 20-plus gigawatt hour of upcoming tenders.
+                  This is a large quantum. In your assessment, is it backed by state demand or like previously
+                  SECI and others used to just roll out tenders without any demand assessment? You might have
+                  done some work around this. Is it backed by state demand or how is it?
+
+
+Nikhil Dhingra:   Yes, Dhruv. Primarily, it's state demand only, because SECI doesn't have demand of its own.
+                  And of course, we are working -- because now we are selling power to a lot of these states on
+                  short-term basis, so we have a big understanding of what they need and in what timeframe. So,
+                  what we have done is mapped out their demand in short term, medium term, and long term. So,
+                  what we realize is in a short to medium term, there is very high demand for peak power, right?
+
+
+                  So, there are a lot of 5-year PPAs. There are a lot of -- people are trying to contract out some of
+                  these PPAs expecting their thermal to come up, or expecting their PSP to come up, right? Or
+                  expecting the slowdown in the demand. And some of the states are rightfully looking at 20-year
+                  PPAs also, depending on each state. It varies from state to state, but everybody is short on peak
+                  power and nobody wants to be dependent on the weather patterns to assess their demand and
+                  also depend on other capacities to come up. And they are impacted because of GNA delay.
+
+
+                  As you must have noticed, a lot of these states are impacted because the plants are not coming
+                  up because of GNA delay in short term. So, they are very sceptical of the commissioning
+                  timelines, and that is why they are contracting out surplus power than maybe dependant on –
+                  may be looking at their plan, they may be contracting out surplus than what they may need or
+                  may not need.
+
+
+                  So that is where states like Chhattisgarh, Odisha, Bihar, Telangana, if you notice, large amount
+                  of bids have come up from Telangana, and now with the Chhattisgarh, Andhra Pradesh. A lot of
+                  these states are coming up with their own bids. Of course -- and in our SECI bid, states like West
+                  Bengal is buying, and a lot of other states are buying because everybody is short on peak power.
+                  They don't have a firm tie-up for their peak power, right?
+
+
+                  In terms of solar, some states are surplus. You're right, that is the case. But nobody is now
+                  installing solar and sending it to the grid. Everybody is converting into peak power, and that is
+                  the intent with which the states are also buying power. So, all the states, if you notice, there is a
+                  recent SECI tender which has come up today only, which Ankit also spoke about, that's a 16
+                  gigawatt hour tender, 4 gigawatt into 4, 16 gigawatt hour tender. And it is coming up with a
+                  VGF and it calls for a 12 months commissioning, right?
+
+
+                  And that is purely looking at the power situation prevailing today, and it caters to somebody
+                  who's ready to supply power, because they want to promote the battery installations sooner than
+                  later. Because that is where the issue is in terms of procurement of power, and that is where the
+                  trend will go in terms of the procurement, and that is where we see the shortage. So, the pure
+                  solar, the conventional method of seeing that solar bids and all that, that is no longer true.
+
+
+                                          Page 19 of 21
+
+                                                                                   ACME Solar Holdings Limited
+                                                                                              October 29, 2026
+
+                  And that is why the megawatt hour is something are also there. In terms of RTC, RTC at 5.25 is
+                  again a is a very competitive bid which happened at SECI, which is currently being sold. So,
+                  that will also, once it becomes a mainstream and people are able to commission that plant, the
+                  issue with some of these bids is the plants have not got commissioned, right? Once these plants
+                  come online with the GNA going live, I think the belief in these PPAs will also go substantially
+                  up.
+
+
+                  And then you will see a lot of procurement happening from this kind of RTC also, because it's
+                  very competitive, right? In terms of the price, it's much more competitive than a thermal or any
+                  other source, right? But in terms of the awareness, it is building up, and that is where you see
+                  Telangana states which have come up with this RTC and peak power project bids. So, more and
+                  more states are picking this up, and in terms of competitiveness, it stays, right?
+
+
+                  Competitiveness stays for all the three sources of renewable, solar, wind, and battery, and of
+                  course PSP also in certain contexts in terms of life of the project and the stability it provides. So,
+                  I think the fundamentals are strong, so states are buying. A lot of demand has shifted to states,
+                  and now we understand that a lot of aggregation will happen at the central level for this peak
+                  power. SECI has already come up, maybe some other agencies will also come up with a similar
+                  bid of a large quantum of battery procurement.
+
+
+Dhruv Muchhal:    Sure. Sir, one quick question is, your generation has grown by about 20% Y-o-Y, your capacity
+                  is almost flattish, and I see your PLF has improved. Is it, just trying to understand, is it
+                  repowering which is driving such a massive increase in the generation, or is it the partial
+                  commissioned assets are also included in generation now?
+
+
+Nikhil Dhingra:   There are two reasons for it. One is, like you rightly said, the capacity has increased and also the
+                  repowering has increased. And then the third, the wind has come up online. As you see, it has
+                  done around 41% CUF in this quarter, right? So, introduction of -- because wind was not there
+                  last year. 150 megawatt of wind is there, which is contributing significantly to the average CUF.
+                  And of course, I think that's the main reason, and then the weather patterns.
+
+
+Dhruv Muchhal:    Is repowering a big element?
+
+
+Nikhil Dhingra:   And last year, sorry, our Sikar plant was not fully operational, which became operational on a
+                  Y-o-Y basis. That actually in the last year, it was contributing less. So, if you look at the next
+                  quarter after that, it will be much less steeper growth curve.
+
+
+Dhruv Muchhal:    Got it. Great, sir. Perfect. Thank you so much and all the best.
+
+
+Nikhil Dhingra:   Thank you.
+
+
+Nikhil Dhingra:   Sorry, I'll just like to correct one query. I think Puneet asked about the reduction we have shared
+                  in the newly signed PPA. So, there is around INR0.33 reduction, out of which INR0.11 is
+                  tentative change in law, and INR0.22 is voluntary. So, I think that's the broad reduction in the
+                  tariff for the NTPC PPA. So, just for NTPC's reference, I pointed out. I don't know whether
+                  Puneet is there or not, but I'll just clarify. Thank you.
+
+
+
+                                           Page 20 of 21
+
+                                                                       ACME Solar Holdings Limited
+                                                                                  October 29, 2026
+
+Moderator:   Thank you. very much, team. Ladies and gentlemen, on behalf of ACME Solar Holdings
+             Limited, that concludes this conference. Thank you for joining us and you may now disconnect
+             your lines. Thank you.
+
+
+
+
+                                      Page 21 of 21
+

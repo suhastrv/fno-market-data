@@ -1,0 +1,1020 @@
+                                                                                                      Bosch Limited
+                                                                                                      Post Box No:3000
+Corporate Relationship Department                     The Manager                                     Hosur Road, Adugodi
+
+BSE Limited                                           Listing Department                              Bangalore-560030
+                                                                                                      Karnataka, India
+1st Floor, New Trading Ring                           National Stock Exchange of India Ltd.
+                                                                                                      Tel +91 9262106162
+Rotunda Building                                      Exchange Plaza, C-1, Block G                    www.bosch.in
+Phiroze Jeejeebhoy Towers                             Bandra-Kurla Complex                            CIN: L85110KA1951PLC000761
+Dalal Street, Fort                                    Bandra (E)                                      Secretarial.corp@in.bosch.com
+Mumbai – 400 001                                      Mumbai – 400 051
+Scrip code:500530                                     Symbol: BOSCHLTD
+
+
+
+
+                                                                                  November 11, 2026
+
+Dear Sir/Madam,
+
+Sub: Compliance under Regulation 30 and 46(2)(oa) of Securities and Exchange
+     Board of India (Listing Obligations and Disclosure Requirements)
+     regulations, 2015 - Disclosure of Transcript of the Investors’ Concall
+
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, please find attached
+herewith the transcript of the investors’ call with Investors/Analysts held on
+November 6, 2026.
+
+This is for your Information and records.
+[[
+
+
+
+
+Yours faithfully,
+For Bosch Limited,
+                     Digitally signed by
+     Venkatarama Venkataraman
+                  Srinivasan
+     n Srinivasan Date: 2026.11.11
+                     10:53:08 +05'30'
+
+V Srinivasan
+Company Secretary & Compliance Officer
+Encl:A/a
+
+
+
+
+Registered Office: Bosch Limited, Hosur Road, Bangalore-560030, Karnataka, India
+Managing Director: Guruprasad Mudlapur, Joint Managing Director: Sandeep Nelamangala
+
+                     “Bosch Limited
+     2Q FY '26-'27 Post Results Conference Call”
+                  November 06, 2026
+
+
+
+
+MANAGEMENT: MR. GURUPRASAD MUDLAPUR – MANAGING
+            DIRECTOR AND CHIEF TECHNOLOGY OFFICER –
+            BOSCH LIMITED
+            MR. OSLEN TILLMAN – CHIEF FINANCIAL OFFICER –
+            BOSCH LIMITED
+
+
+MODERATOR:    MR. ANNAMALAI JAYARAJ – 360 ONE CAPITAL
+              MARKET
+
+
+
+
+.
+
+
+                         Page 1 of 16
+
+                                                                                                           Bosch Limited
+                                                                                                      November 06, 2026
+
+
+Annamalai Jayaraj:     Good day and welcome to Bosch Limited 2Q FY 2026-'27 Post-Result Conference Call hosted
+                       by 360 ONE Capital Market Research. From Bosch management, we have with us today, Mr.
+                       Guruprasad Mudlapur, Managing Director, Mr. Oslen Tillmann, Chief Financial Officer. At this
+                       point, all participants' lines will be in the listen-only mode and there'll be an opportunity to ask
+                       questions after the management presentation and opening remarks. Over to you, sir.
+
+
+Guruprasad Mudlapur:   Thank you, Annamalai. Good afternoon, everyone, and welcome to our 2Q FY27 earnings
+                       conference call. We begin today's update with an outlook at the macroeconomic environment
+                       and the geopolitics. While geopolitical tensions in West Asia and elevated energy prices
+                       continue to drive up domestic inflation, the RBI responded proactively in October 2026 with a
+                       25 basis point repo rate hike to 5.50%, signaling a calibrated tightening stance.
+
+
+                       Against this backdrop, we remain nimble and resilient for the remainder of the Fiscal Year '27.
+                       We are encouraged by India's sustained economic momentum, highlighted by the RBI and IMF
+                       projecting robust GDP growth of 7.1% and 7% respectively, supported heavily by government's
+                       record INR11.1 lakhs crores infrastructure capex outlay.
+
+
+                       We remain mindful of the external risks that global conflicts and supply chain disruptions pose
+                       to the macroeconomic landscape. Nonetheless, India's structural economic pillars are expected
+                       to help navigate these challenges and support stable growth. Next slide, please. The Indian
+                       automotive industry closed Q2 FY27 on a strong note, with robust domestic demand and the
+                       start of festive season buying supporting most vehicle segments.
+
+
+                       Passenger vehicle demand remained strong in Q2 FY27, supported by low base, sustained SUV
+                       preference, and positive consumer sentiment. HCV demand remained robust, supported by
+                       healthy freight movement, infrastructure and construction activity, and replacement demand.
+                       LCV demand continued to be supported by last-mile logistics, e-commerce, FMCG, and broader
+                       goods movement activity. Stable financing conditions and sustained economic activity provided
+                       additional support to the segment.
+
+
+                       Three-wheeler demand remained strong in Q2 FY27, supported by increasing passenger
+                       mobility, last-mile connectivity, and favorable operating economics. Tractor demand was the
+                       key area of weakness towards the end of Q2. While the segment benefited earlier from GST-led
+                       affordability, below normal and uneven monsoon conditions weakened farm sentiment. The
+                       two-wheeler market recorded strong Q2 growth, supported by rural demand and festive demand.
+                       We expect flat to modest growth in Q3 FY27 relative to a high prior-year base.
+
+
+                       Next slide, please. Following Bosch Limited's acquisition of Bosch Chassis Systems India
+                       Private Limited on 1st July 2026, the consolidated financial results for Q2 FY27 incorporate the
+                       performance of this wholly owned subsidiary for the first time. Quarter-on-quarter, the mobility
+                       business has grown by 29.8% in July-September 2026 as compared to July-September 2025,
+                       driven mainly from Powertrain Solutions business, which grew on account of strong market
+                       demand and festive season momentum mainly across passenger car and commercial vehicle
+                       segments.
+
+
+
+
+                                                Page 2 of 16
+
+                                                                                 Bosch Limited
+                                                                            November 06, 2026
+
+
+Vehicle Motion business grew on account of buoyant growth in four-wheeler auto market.
+Mobility Aftermarket recorded a growth supported by robust sales in OE segment, led by diesel
+systems, spark plugs, and rotating machines. Growth in two-wheeler business was driven by
+favorable product mix and higher demand from OEMs ahead of the festive season. Consumer
+Goods business grew by 17.1% due to strong market demand in standard line products and
+accessories along with increase in e-commerce sales.
+
+
+The mobility business has grown by 28% in April-September 2026 as compared to April-
+September 2025, driven mainly from Powertrain Solutions business, which grew due to overall
+growth in automotive market, mainly led by passenger car segment. Vehicle Motion business
+grew on account of buoyant passenger car segment.
+
+
+Mobility Aftermarket business growth was again supported by robust growth in OE segment.
+Two-wheeler business growth was driven by higher two-wheeler production and increased sales
+of exhaust gas sensors, fuel injectors, and ABS for two-wheelers. Consumer Goods business
+grew strongly by 19% with increased demand for standard line products and accessories,
+supported by sales campaigns. Next slide, please.
+
+
+Quarter-on-quarter, revenue from operations in July-September 2026 stood at INR76,551
+million, which grew by 28.2% over July-September 2025, mainly resulting from strong growth
+in product sales, as seen in the previous slide. Likewise, revenue for six months period, April-
+September '26, grew by 25% over April-September 2025, also resulting from strong performance
+in Powertrain Solutions and Vehicle Motion business segments.
+
+
+The EBITDA for July-September '26 was INR10,371 million, which grew by 23.2% over the
+same quarter of previous year. The improvement in absolute EBITDA was mainly driven by
+strong growth in revenue, which was partly offset by steep increase in raw material prices,
+mainly aluminum, and adverse forex development due to depreciation of INR versus euro.
+
+
+EBITDA for six months period, April-September 2026, was INR20,159 million as compared to
+INR16,714 million in April-September '25, which also grew by 20.6%. Here again, the increase
+in EBITDA was mainly on account of strong growth in revenue, which is partly offset by higher
+raw material prices, as explained before.
+
+
+The profit after tax for July-September 2026 grew by 18.5% over the same quarter of previous
+year. The growth in PAT is mainly due to growth in EBITDA. During July-September '26
+quarter, the company decided to discontinue employee benefits towards service recognition for
+long-term service for managerial staff with effect from 1st Jan 2027 and, accordingly, reassessed
+the service award liability and has reversed the provision amounting to INR1,304 million, which
+is shown as an exceptional item.
+
+
+Profit after tax for six months ending on September '26 stood at INR16,541 million, which is
+reduction of 13.1% over the same period of previous year. In the previous year, the company
+had sold its Video Systems, Access and Intrusion, and Communication Systems under Building
+Technologies segment, and the resultant profit amounting to INR5,560 million was accounted
+during this period. Next slide, please.
+
+
+                         Page 3 of 16
+
+                                                                                  Bosch Limited
+                                                                             November 06, 2026
+
+
+Now I come to the performance of Bosch Limited standalone results for the quarter. Bosch
+Limited's mobility business grew by 30.3% in July-September '26 quarter as compared to July-
+September '25. And for the six months period, April-September '26, it grew by 28% over the
+same period of previous financial year.
+
+
+The growth was mainly driven by Powertrain Solutions business, followed by two-wheeler and
+aftermarket business. Consumer Goods business grew due to strong market demand for standard
+line products and accessories, along with increase in sales resulting from marketing campaigns
+and e-commerce business. Next slide, please.
+
+
+Quarter-on-quarter, revenue from operations in July-September 2026 stood at INR61,641
+million, which grew by 28.6% over July-September 2025. The growth was mainly driven by
+sale of products, as seen in the previous slide. Likewise, revenue for the six months period,
+April-September '26, grew by 25.3% over April-September '25 of previous financial year.
+
+
+The EBITDA for July-September 2026 was INR8,028 million, which grew by 30.1% over the
+same quarter of previous year. The improvement in EBITDA margin was primarily driven by
+growth in revenue and partly offset by increase in raw material prices, as explained in previous
+slides. Likewise, EBITDA for six months period, April-September 2026, was INR16,208 million
+as compared to INR12,564 million in April-September 2025, which grew by 29%. Here again,
+the increase in EBITDA was mainly on account of strong growth in revenue, which is partly
+offset by higher raw material prices.
+
+
+The profit after tax for July-September 2026 grew by 21.7% over the same quarter of previous
+year. The growth in PAT is mainly due to the growth in EBITDA. During the July-September
+'26 quarter, as explained earlier, the company reversed the provision for employee long-term
+service award and the resulting credit of INR1,240 million has been shown as an exceptional
+item.
+
+
+Profit after tax for six months ending on September '26 stood at INR13,764 million, which is a
+reduction of 17.6% over the same period of previous year. In the previous year, due to the sale
+of Video Systems, Access and Intrusion, and Communication Systems under Building
+Technologies business, the resultant profit amounting to INR5,560 million was accounted during
+this period. Next slide, please.
+
+
+I'll now walk you through key highlights from our business divisions for the second quarter of
+fiscal year 2026-'27. During the quarter under review, the Powertrain Solutions division
+witnessed a positive growth in commercial vehicles, passenger cars, and tractors. Following the
+final gazette notification for CAFE Phase 3 effective April 2027, OEMs are actively aligning
+their platform road maps.
+
+
+With strong regulatory incentives for alternative fuels like ethanol blends and CNG, alongside
+1.6 to 2.5 times super credits for hybrids, Bosch is well positioned as the core system and
+calibration partner. This alignment is directly accelerating our content-per-vehicle growth across
+all passenger segments. The technical regulations for retrofit emission control devices,
+addressing the legacy in-use fleet, including commercial vehicles and off-highway diesel
+
+
+                         Page 4 of 16
+
+                                                                                   Bosch Limited
+                                                                              November 06, 2026
+
+
+engines, mandates a minimum 60% reduction in NOx or 97% reduction in particulate matter or
+both.
+
+
+Bosch's extensive portfolio and competency in emission control systems positions us well to
+support OEMs and fleet operators as these standards take effect. In light of the draft notification
+released for Phase 3 BS-VII implementation 2029 for passenger cars and 2031 for commercial
+vehicles, alongside draft 215 test procedures, Bosch has initiated early platform and powertrain
+architecture consultations with OEMs across all segments.
+
+
+In a world's first, Bosch Limited has successfully validated CNG direct injection on engine and
+vehicle benches for passenger car and light commercial vehicle segments, achieving
+performance and fuel efficiency on par with diesel, confirming technological leadership in
+alternate fuels. Our engineering customer-centricity and delivery focus continues to earn us
+strong recognition from the OEMs. Recently, at the annual supplier conference, the company
+was recognized with Innovation and Technology Excellence Award.
+
+
+Further, our Bidadi plant was honored with Automation and Operational Excellence. Another
+OEM awarded our Jaipur plant with the Customer-Centric Approach and Looking Through the
+Lens of the Customer Award. The Two-Wheeler & Powersports division overall business
+growth was driven by higher motorcycle production, increased adoption of value-added
+functions, stricter emission regulations, and growing demand for advanced electronic control
+features.
+
+
+The company reached a production milestone with over 10 million units of electronic control
+modules, electronic product modules shipped to date, reinforcing our commitment to operational
+excellence. On product deployment, our engineering teams demonstrated high agility by
+completing a focused 9-month development cycle to launch integrated engine management
+systems and ABS on high-volume 160 cc street motorcycle. In parallel, we expanded our
+presence in the premium segment by deploying our powertrain and safety electronics on newly
+launched 585 cc multicylinder platform for motorcycles.
+
+
+The Mobility Aftermarket division maintained robust growth during the quarter under review,
+supported by continued focus on accelerating workshop engagement, growth in original
+equipment spares, and independent aftermarket channels. Sustained demand across our core
+portfolio, specifically in rotating machines, spark plugs, batteries, and filters. In a major
+milestone, we have surpassed the landmark 5,000 Bosch Workshops benchmark.
+
+
+We have successfully expanded our product offerings with the launch of new passenger car
+clutch and suspension components, capturing new touch points in the passenger vehicle segment.
+Our Power Tools business witnessed strong growth across all segments led by global tools,
+measuring tools, accessories, hand tools, and outdoor garden.
+
+
+From a channel perspective, both traditional offline dealer network and online e-commerce
+channels saw traction, led by demand generation and conversion actions. Our Chennai power
+tools plant surpassed a production milestone of 20 million power tools this quarter. In a major
+
+
+
+
+                         Page 5 of 16
+
+                                                                                 Bosch Limited
+                                                                            November 06, 2026
+
+
+strategic milestone, the division successfully diversified beyond hand tools into an adjacent
+market with the launch of our first ever range of PPE safety helmets.
+
+
+Also launched PRO360 platform for users and sub-dealers. PRO360 is Bosch's all-in-one digital
+platform that helps professionals work smarter by simplifying tool management, services,
+inventory, and rewards. Our growth was further propelled by three targeted marketing
+campaigns, first, Cordless 3.0, which is driving the shift towards cordless technology, secondly,
+Accelerate campaign, designed to optimize our product mix towards higher-margin accessories;
+and finally, our Made in India initiative, which is successfully accelerating market adoption of
+localized products manufactured at our Chennai plant. Next slide, please.
+
+
+We are pleased to introduce for the first time in our investor discussions a dedicated overview
+of Bosch Chassis Systems India Private Limited. As Indian automotive safety standards,
+consumer expectations, and electronic vehicle architectures advance, RBIC represents a critical
+pillar of Bosch's long-term mobility vision. RBIC brings specialized engineering and localized
+manufacturing capabilities dedicated to active safety, occupant safety, and holistic vehicle
+motion systems. Next slide, please.
+
+
+RBIC's core portfolio encompasses industry-benchmark antilock braking systems and electronic
+stability programs, along with new-generation integrated braking systems and vacuum brake
+boosters, advanced airbag electronic control units, and high-precision vehicle dynamics sensors,
+cutting-edge vehicle motion software, and service solutions that coordinate actuators and
+braking for ICE, hybrid, and electric vehicles.
+
+
+RBIC operates its manufacturing and assembly plants situated in Chakan at Pune in Maharashtra,
+at Sanand in Gujarat, and Manesar in Haryana. As regulatory mandates and consumer safety
+preferences expand, RBIC is well positioned to meet these requirements. Next slide, please. Now
+I come to the performance of Bosch Chassis Systems India Private Limited, RBIC in short. RBIC
+closed FY25-'26 with INR48,935 million in revenue, delivering an EBITDA of INR9,045
+million and a PAT of INR5,891 million.
+
+
+Quarter-on-quarter, revenue from operations of RBIC in July-September '26 stood at INR15,062
+million, which grew by 27.9% over July-September '25. The growth was mainly driven by higher
+sales in Vehicle Motion and Two-Wheeler & Powersports business segments. Likewise, for the
+six months period, April-September 2026, RBIC witnessed a similar growth of around 24.5%.
+Strong performance in passenger car and two-wheeler segments helped RBIC to register double-
+digit growth.
+
+
+The EBITDA of RBIC for July-September 2026 stood at INR2,344 million, registering a growth
+of 4.7% over the same quarter of previous year. The growth in EBITDA was less pronounced
+due to adverse impacts of steep increase in raw material prices, particularly aluminum, and
+ECUs, which drove higher material costs. This was additionally compounded by the depreciation
+of the INR versus euro, which further added to the increased material costs of imported
+components.
+
+
+
+
+                        Page 6 of 16
+
+                                                                                                          Bosch Limited
+                                                                                                     November 06, 2026
+
+
+                     On a six months basis, EBITDA for April-September 2026 was INR3,920 million as compared
+                     to INR4,131 million in April-September 2025, which declined by 5.1%. The decline is again
+                     attributed mainly to increase in raw material prices and one-time costs incurred for start of
+                     production of new-generation ESPs like ESP10 and commissioning of additional line for
+                     increase in capacity of ABS, which is ABS10M for two-wheelers.
+
+
+                     The profit after tax for July-September 2026 quarter is in line with the growth in EBITDA. Profit
+                     after tax for six months ending on September 2026 stood at INR2,721 million, which is an
+                     increase of 18.9% over the same period of previous year. During the previous year, RBIC revised
+                     its method of depreciation from straight-line to written-down value method. Due to the change,
+                     a one-time cumulative impact of INR775 million was charged to P&L and is reflected in the
+                     results for the half-year period, April-September 2025, of the previous financial year.
+
+
+                     During the quarter under review, our Chakan manufacturing facility scaled new milestone,
+                     officially surpassing a cumulative milestone of over 20 million active safety units manufactured
+                     across each of our four-wheeler ESP, ABS, and two-wheeler ABS platforms. RBIC's relentless
+                     focus on operational excellence directly translates into deep customer trust, recently
+                     consolidated by the prestigious Super Platinum Quality Award conferred by one of our marquee
+                     OEM partners.
+
+
+                     Furthermore, demonstrating our commitment to world-class workplace governance, RBIC was
+                     honored with the Manufacturing OHS Excellence Award by the World Safety Organization.
+                     This award features a four-star rating, recognizes our exemplary achievements in developing,
+                     implementing, and sustaining highly effective occupational health, safety, and environmental
+                     management systems. Next slide, please.
+
+
+                     In summary, the second quarter of fiscal year 2026-'27 has demonstrated steady resilience across
+                     our core divisions and healthy volume growth. As a token of gratitude for longstanding trust of
+                     our valued shareholders, the Board of Directors has at its meeting held on November 6, 2026,
+                     approved the utilization of retained earnings to issue three fully paid bonus equity shares for
+                     every one fully paid-up equity share held, and a subdivision of each INR10 equity share,
+                     including the proposed bonus shares, into shares of INR2 face value as on the record date to be
+                     determined, and the consequential increase in authorized share capital. The aforesaid proposals
+                     are subject to approval of the shareholders. We thank all our shareholders, OEM partners,
+                     suppliers, and employees for their commitment and continued partnership.
+
+
+                     We are now happy to open the floor and address any questions you may have. Thank you.
+
+
+Annamalai Jayaraj:   Thanks for the detailed presentation, sir. We will now begin the question-and-answer session.
+                     For participants who wish to ask a question, please raise your hand. Pramod, you can unmute
+                     and ask your question.
+
+
+Pramod:              Thanks a lot. Thank you, Jayaraj sir. Thanks a lot, sir, for the opportunity and congratulations
+                     on the successful integration of the Bosch Chassis. My first question is on the profitability of
+                     Bosch Chassis, sir. And if you can correct me if I'm wrong there, but the margin seems to have
+                     come off very sharply in this first half of this fiscal versus the last half fiscal number what you've
+
+
+                                              Page 7 of 16
+
+                                                                                                               Bosch Limited
+                                                                                                          November 06, 2026
+
+
+                       reported, and also the full-year numbers what you've reported. So if you can just help us
+                       understand what is at play outside of commodity?
+
+
+                       And how does the pricing or cost pass-through bit work here, and just general guidance as to
+                       which way the margins or what kind of margins we should work with? Because historically, we
+                       have seen that margins are quite strong for Bosch Chassis compared to what we've seen in the
+                       first half of this fiscal, sir. So if you can just help us understand that, it will be really helpful.
+
+
+Oslen Tillmann:        So if I, Pramod, Tillmann speaking. If I understand your question right, correct me if I'm wrong,
+                       your query is concerning the margin development. The margin development is mostly driven by
+                       the volume and the subsequent absorption of cost. So this is the main driver, the volume. Counter
+                       to this, we have the development of material cost, especially raw materials that go into the
+                       product. As stated before, aluminum is here the key driver plus forex impact on the imported
+                       components. These are the main driver really.
+
+
+Pramod:                And if I were to just follow up on that, sir, is there a lag effect in terms of when this cost hits us
+                       and when we recover it from the companies or this is a risk which we carry like our main business
+                       where the currency risk and the commodity risk to an extent kind of lies with us? So how should
+                       we look at this going forward?
+
+
+Oslen Tillmann:        There is a certain time lag in this as we are passing on to our customers, if we have a contractual
+                       base for this passing on. We have a time lag because of the occurrence of the increased cost and
+                       the point in time as this has been contractually agreed for recomposition or reimbursement by
+                       our customers. So there's a timing effect.
+
+
+Pramod:                And is it fair to assume that you'll get the complete cost pass-through eventually or there is some
+                       bit of element of ownership or splitting of the cost hit between us and the customer and our
+                       suppliers? That's how typically the Bosch parent or the listed entity has been operating
+                       historically. So if you can just help us understand the pricing arrangement?
+
+
+Oslen Tillmann:        We are trying to recuperate the whole amount. But you will understand that in the market there
+                       is also a certain pushback, as also our customers are suffering on multiple fronts the increase in
+                       material prices. So there is discussions ongoing. And I cannot, at the moment, predict that we
+                       can recuperate 100%. But there's definitely a time lag between the occurrence of the cost and
+                       the recuperation of the cost.
+
+
+Guruprasad Mudlapur:   Contractually, it's very similar to what happens between Bosch Limited and Bosch Chassis
+                       Systems. So contract-wise, it's similar. Certain customers may have may there may be some
+                       small differences here and there, but overall the methodology which we apply at Bosch Limited
+                       is similar to what is applied at RBIC as well. And like Tillmann said, costs are typically
+                       recovered with a time lag. And there may be some things which, in some very specific customers,
+                       there may not be contractually covered, and those things get left out. And that's similar at Bosch
+                       Limited and also similar at RBIC.
+
+
+Pramod:                Fair enough, sir. And sir, this question's for you. This AEBS implementation from 1st October
+                       2030 for new cars, what would be the increase in the content per car for us for from a Bosch
+                       Chassis perspective?
+
+                                                 Page 8 of 16
+
+                                                                                                          Bosch Limited
+                                                                                                      November 06, 2026
+
+
+Guruprasad Mudlapur:   I think this is a feature already covered with our new-generation ESP systems. So there's no
+                       content for it.
+
+
+Pramod:                There won't be. And sir, the next question is on the, if I may ask, Jayaraj sir, please intervene if
+                       the queue is long, I'll come back always. But otherwise, can I go ahead, sir, Jayaraj sir?
+
+
+Annamalai Jayaraj:     Yes, Yes, please,
+
+
+Pramod:                Yes. Thank you. Thank you, sir. Thank you. Sir, the next question is on the outlook on the
+                       industry because we've already seen that retails in the festive season are not tracking that great.
+                       There's a lot of regional disparity, as you said, on the monsoon as well, which is showing up in
+                       demand. And tractor guidance has been formally revised lower by many OEMs. So given the
+                       exposure what we have there, if you can just help us understand how do you expect the second
+                       half to play out on a sequential basis? I'm not talking about Y-o-Y, because Y-o-Y the GST kind
+                       of distorts the base, the GST-led demand bump. So if you can just help us understand, should
+                       we be more cautious on the second half outlook on demand, given the macro situation and the
+                       inventory on the ground?
+
+
+Guruprasad Mudlapur:   Yes, I think that's a fair way to look at it. We've already stated that the second half is going to
+                       be a bit modest. The primary reasons are what you already described. There is a lot of effect,
+                       inflation effect in the system. Monsoons have been weak. The interest rates are getting tightened.
+                       So overall there are multiple factors which are playing here. And we've had a very good run for
+                       several quarters now. A little more modest second half is likely outcome as we go forward.
+
+
+Pramod:                And sir, one on the provision reversal what you talked about. Will there be any expense which
+                       would have otherwise got booked in this quarter, which is not getting booked because you're
+                       kind of changing the policy? Is that assessment right or this is entire write-back is for a practice
+                       which we stopped long back on the long-term service award?
+
+
+Guruprasad Mudlapur:   So this is a practice we decided to stop globally as Bosch this year. And till 31st December,
+                       whoever is eligible will continue to get it. After that, we've stopped the practice. And therefore,
+                       whatever was provisioned is being reversed.
+
+
+Pramod:                Okay. And sir, final one request, sir. As a as an analyst covering the stock, we've been covering
+                       it for years now, but we haven't got our opportunity to meet you in person. And honestly, would
+                       really appreciate if we can kind of have the opportunity to meet you and Mr. Tillmann in person
+                       in Bangalore. I'll end across an email request again formally, sir, but sure will be really great if
+                       you can accommodate that. Thanks a lot, sir. Take care, sir, and best of luck, sir. Thank you.
+
+
+Guruprasad Mudlapur:   Thank you.
+
+
+Oslen Tillmann:        Thank you.
+
+
+Annamalai Jayaraj:     Thanks, Pramod. Next in the queue will be Mr. Gokul. Please unmute and ask your question.
+
+
+Gokul:                 Yes. Thank you for my thank you for the opportunity. Just a few questions. So one is on the
+                       capex for the first half. You've already spent INR350 crores. And in the last 3 years, we've been
+
+
+                                                Page 9 of 16
+
+                                                                                                            Bosch Limited
+                                                                                                       November 06, 2026
+
+
+                       spending around INR300 crores or so on an annual basis. So can you just speak about the areas
+                       of spend and what is this spend essentially for, and what is the annual outlook for the capex for
+                       this year?
+
+
+Oslen Tillmann:        Okay. I will check this. So usually, we have a seasonality in the spend for capex. Was a very
+                       high spend in the third quarter of the financial year. So most of the spending goes into plant and
+                       machinery, that's the lion's share of it. And in this year, it especially is the upgrading of existing
+                       production lines to facilitate the volume output so that we can deliver to our customers. This is
+                       the lion's share of our investment for the year.
+
+
+Gokul:                 Okay. And if you could just comment on the synergies with the RBIC business, what stage are
+                       we at in terms of drawing out synergies from the acquisition which we've done in terms of the
+                       low-hanging fruits, whether it's respect to legal, admin, etcetera, and if there are any other
+                       product synergies which you can see?
+
+
+Guruprasad Mudlapur:   See, we've already indicated earlier that this is a Bosch Group company operating within the
+                       Bosch mobility space in a very, very similar manner like what Bosch Limited operates. So in
+                       that sense, the synergies are not very, very I mean there's not a lot of scope to further optimize
+                       on synergies. But that said, we are now looking much more intensely on what can be what can
+                       we harness, where can we further optimize, and what can we get the best out of it.
+
+
+                       This is an ongoing process, but I wouldn't put a lot of work on this right now because also till
+                       now we've been overbooked on capacities, overbooked on customer requests. So that has been
+                       the priority today. But moving forward, we are now going to look at where can we further
+                       optimize on synergies.
+
+
+Gokul:                 Right. Just lastly on your comment on the modest H2 outlook, was that specifically for the tractor
+                       segment or you are referring it to the passenger car, CVs, and two-wheeler as well?
+
+
+Guruprasad Mudlapur:   I would say tractors have seen already a modest growth. The other segments are likely to go in
+                       a similar direction simply because of the very high base of the same quarter last year. And also,
+                       the Q2, which was a record quarter, I think it's normal cyclicality will take into effect and this is
+                       likely to be a slightly modest quarter.
+
+
+Gokul:                 Great. Thank you so much and all the best.
+
+
+Annamalai Jayaraj:     Thank you, Gokul. Next.
+
+
+Rajit Agarwal:         Hello? Hello?
+
+
+Guruprasad Mudlapur:   Yes, Yes.
+
+
+Annamalai Jayaraj:     Yes, Yes, we could hear you.
+
+
+Rajit Agarwal:         Yes. Good afternoon, sir, and thank you for giving me the opportunity to ask a question. Sticking
+                       to RBIC, firstly on the margins. So there was a strong variation compared to FY26. And Q1 was
+                       around 12% 12%, Q2 is around 15.5%, whereas FY26 was above 18%. So which is more likely
+
+
+
+                                                Page 10 of 16
+
+                                                                                                          Bosch Limited
+                                                                                                     November 06, 2026
+
+
+                       to be a sustainable level going forward? I mean are we expected to go back to 18%-19% kind of
+                       EBITDA margins?
+
+
+Guruprasad Mudlapur:   See, the Yes, I'll let Tillmann add as well. There are some effects that we currently have in the
+                       short term, which is the forex effect, the increased investments that we've been doing to enhance
+                       capacities. So there's a lot of investment going in. There is a change of depreciation method and,
+                       of course, significant increase in raw material. So there have been some effects which have
+                       played out. This is also likely to be there for maybe one more quarter, that's our hope at least
+                       that we are able to come out of this soon. And after that, we should get back to better margins
+                       or earlier margins.
+
+
+Rajit Agarwal:         All right. Secondly..
+
+
+Guruprasad Mudlapur:   Of course, like we already said, I mean, we already discussed, there are many costs which are
+                       pass-through and recoverable. And this is also something which will which we will see in
+                       subsequent quarters. So this quarter, I mean is not a typical example.
+
+
+Rajit Agarwal:         Okay. So, I mean, it could it could still be lower than 15%, which we saw in this quarter, is it?
+
+
+Guruprasad Mudlapur:   No, no. I mean, we will recover some of the costs, so it gets better, Yes.
+
+
+Rajit Agarwal:         Okay. Okay. And secondly, on the business model of RBIC, RBIC seems to command a very
+                       high ROCE and this is based on FY26 numbers only, and they also have a very high fixed asset
+                       turnover ratio compared to Bosch otherwise. Can you explain this, what drives those ratios?
+
+
+Guruprasad Mudlapur:   You want to take that or shall I? I'll start with a broader view on how this is managed, then
+                       Tillmann will give you more specifics. See, the capex intensity and the capex methodology of
+                       RBIC is very different from what we do elsewhere. A lot of lines initially and even recently have
+                       been lines which were running somewhere else in the Bosch world and brought in and installed
+                       here. The overall product production methodology is also highly modular and there's a huge
+                       reuse on capex, and the line production line concepts are also optimized very, very differently.
+                       So the capex in a typical RBIC line is very different from how it is done in other products. So
+                       that's one of the major reasons why you see this phenomena in RBIC. You want to add something
+                       specific?
+
+
+Oslen Tillmann:        No, I think that that covers it.
+
+
+Rajit Agarwal:         So this is expected to continue going forward in medium to long term as well?
+
+
+Guruprasad Mudlapur:   Yes, I mean right now that's how See, these are all connected to products and how they are
+                       eventually manufactured. So the current generations will be all will all be similar. And of course,
+                       new generations could have different line concepts based on how they are introduced and how
+                       modular they are and how much reuse of capex is there and so on. So I wouldn't say that this is
+                       how it will be forever. But this is also the endeavor at RBIC and in this Vehicle Motion division
+                       to keep capex intensity as low as possible and have high returns on that.
+
+
+Rajit Agarwal:         Understood. Can I ask one last question?
+
+
+                                                Page 11 of 16
+
+                                                                                                          Bosch Limited
+                                                                                                      November 06, 2026
+
+
+Guruprasad Mudlapur:   Yes, please go ahead.
+
+
+Rajit Agarwal:         Okay. RBIC has a large amount of purchases from group entities, I think close to 60%, and about
+                       25% of overall purchases are in foreign currency. So is that also expected to continue as is?
+
+
+Guruprasad Mudlapur:   See, this is RBIC gets ECUs from our sister plant, Bosch Automotive Electronics, and that's a
+                       thing which will continue. There are, of course, constant localization efforts at RBIC, where we
+                       do further localization and improve the local content here. And there that effort continues as we
+                       go forward, and it's only increasing in the years to come. So electronics comes from our sister
+                       plant, which is specialized in electronics, and everything else, the attempt is to improve
+                       localization content continuously at RBIC.
+
+
+Rajit Agarwal:         All right. Thank you so much, sir, and wish you all a very happy Diwali.
+
+
+Guruprasad Mudlapur:   Thank you.
+
+
+Oslen Tillmann:        Thank you, Rajit. Happy Diwali.
+
+
+Annamalai Jayaraj:     Sir, in the meantime, I'll ask some questions which has come in the chat box, sir. Can you talk
+                       about what does restructuring sorry, I'll repeat again, sir. Can you talk about what does
+                       restructuring proposed at the parent level mean for the Bosch listed entity in India? And also,
+                       can you indicate performance of the businesses that are going to be I mean, restructured in the
+                       listed entity, that's what, if it is there?
+
+
+Guruprasad Mudlapur:   Yes. Yes. I expected this. So the restructuring at the parent has been ongoing activity for the last
+                       2 years, as you've probably already read in the media. What was recently announced is just a
+                       rearrangement of the group structure. Earlier, Bosch mobility division was housed within the
+                       corporate at Bosch in Germany. And now there are two separate I mean, the Bosch mobility
+                       division has been spun off as an independent company. All other companies in the Bosch Group
+                       are independent companies, and only Bosch mobility was housed within corporate. And that's a
+                       lot of historical reasons there, and that has been now corrected or changed to make the Bosch
+                       mobility division also an independent company. So that's the change that's happened in
+                       Germany. This has no change or no connect to what how it is structured anywhere else in the
+                       world. So Bosch Limited will have no impact at all from this restructuring.
+
+
+Annamalai Jayaraj:     Okay, sir. I'll read out the next question. Though you touched upon on the CAFE 3, how does
+                       CAFE 3 norms influence Bosch business and indicative benefit on the content increase?
+
+
+Guruprasad Mudlapur:   So I'll give you a general answer. CAFE 3 norms kick in effective April '27. And we're very well
+                       positioned with our platform to support CAFE 3. The exact content-per-vehicle increase, I will
+                       not be able to give you right away. Maybe in a subsequent call, we can bring that out and that
+                       detail out. What else can I say about it? Yes. So basically, I would say we're very well positioned
+                       to support the norms. We have the tech fully prepared. But at this point of time, I may not be
+                       able to share the exact content-per-vehicle increase or change, if any, right now, but in a
+                       subsequent call, like, we can share it.
+
+
+
+
+                                                 Page 12 of 16
+
+                                                                                                            Bosch Limited
+                                                                                                       November 06, 2026
+
+
+Annamalai Jayaraj:     If anybody has a question, please raise your hand. In the meantime, there is a bookkeeping
+                       question in the chat box, sir. As the depreciation method was changed in the last September 2025
+                       half year, there was an impact of INR77.5 crores on the last September financials, is that
+                       understanding correct?
+
+
+Oslen Tillmann:        Yes, to align the depreciation between the mother world, Bosch India, and RBIC, we aligned.
+                       And this has an effect because it is a pull-forward of the depreciation. It's a timing effect. It ties
+                       back also to the question asked earlier about the margin development. So since this is a timing
+                       effect, we expect this portion of the of the effect to recover in subsequent quarters.
+
+
+Annamalai Jayaraj:     Okay. Thanks, sir. And one more question in the chat box, sir. Can you talk about the salience
+                       of EV in our revenues in 1H FY27 and also in our order book?
+
+
+Guruprasad Mudlapur:   Yes, at this point of time, I would not like to share exact details of this. But as we go, you know
+                       that the EV is supported largely through our joint venture, which is in the process of being set
+                       up. We have, as already indicated, acquired several projects which will be run through the joint
+                       venture, and we'll certainly share more information about this as we go forward.
+
+
+                       We do also supply some other components from Bosch Limited and other Bosch companies,
+                       including RBIC, into the EV space as such. And like, for example, RBIC also supplies
+                       components to electric vehicles, which require specialized braking systems. So there is a -- we
+                       are now trying to put together a consolidated view on this, and we'll share certainly where we
+                       stand on this in the upcoming calls.
+
+
+Annamalai Jayaraj:     Okay. Okay. We'll take the last question from Pramod Kumar. Please unmute and ask your
+                       question.
+
+
+Pramod:                Yes, sir. Thanks a lot. Sir, my first question is related to the entire restructuring what you talked
+                       about at the global level. But given that India is becoming increasingly a go-to manufacturing
+                       base for many global suppliers across capital goods and autos, a lot of Indian auto ancillary
+                       companies have done exceptionally well on the global footprint. And Bosch apparently is a very
+                       large, it is the world's largest organization, auto company with EUR90 billion top line. And our
+                       contribution to the overall revenue is actually very low.
+
+
+                       So, I am just trying to understand, how should one think as an investor or an analyst when you
+                       look at the medium to long term as to what the kind of opportunity is there for Bosch India to
+                       add more value to the parent and in the process become a net exporter from the India level as
+                       being, was historically being a net importer.
+
+
+                       And if you can just talk about that, and when you take into account the fact that China, which
+                       used to be a big sourcing hub for Bosch historically, the group, there has been a lot of, what do
+                       you say, market share loss for the key OEM customers for European-based ones and Americans.
+                       So, how should one look at the opportunity which can emerge from sourcing, shifting from
+                       China to India across various components?
+
+
+                       And in the, connected to that, the point you made about, Yes, sorry, you continue, sir, I will
+                       come back.
+
+
+                                                Page 13 of 16
+
+                                                                                                          Bosch Limited
+                                                                                                      November 06, 2026
+
+
+Annamalai Jayaraj:     Go ahead. No, no, please.
+
+
+Pramod:                Connected to that, Yes, thank you, sir. Connected to that, you said that in the chassis business,
+                       you have moved a lot of the plants and equipment to India. So, similarly, can we expect some
+                       kind of opportunity there in the rest of the business as well, where people are trying to scale back
+                       the China operations, because everything is getting electrified, everything is getting more
+                       localized in terms of local plants taking market share. So, is there a significant opportunity there
+                       for Bosch parent to move some of the assets to India and make India the export hub?
+
+
+Guruprasad Mudlapur:   So, I think we've clarified this multiple times in the past. And see, the way Bosch operates its
+                       network is in a terminology called international production network, where there are production
+                       centers, which are largely local for local. So, we have centers in different parts of the world,
+                       which produce for that particular geography.
+
+
+          `            And there is normally 5% to 10%, 15% export from each of these locations, based on demand,
+                       based on capacity allocations, based on excess capacity available. So, multiple factors. So, that's
+                       been the trend, and that's where we operate also in India currently. So, the current situation, for
+                       your information, is that we also have an export number of maybe 8 percent or 9 percent on an
+                       average from India.
+
+
+                       Now, to answer your question, what is the likely future situation, it's very hard to predict at this
+                       point of time. Like you said, there are geopolitical changes and production relocations are being
+                       discussed, not just because there are changes in China, but also because there are changes in
+                       Europe and North America and many other locations.
+
+
+                       So, there are regions which are becoming much more local than they were before, like North
+                       America. There are regions which are tending to export less. There are regions which are tending
+                       to manufacture less. So, a lot of these developments are happening at once currently, and we are
+                       assessing this.
+
+
+                       We are looking at how to put a good picture for us in India as a consequence of this, working
+                       with the parent on how to change the dynamics as we go forward. The FTAs, which India has
+                       signed and will sign or will ratify soon, will have a good consequence towards this. And we are
+                       hopeful that as we go forward, we can change the situation for a much more positive outcome.
+
+
+Pramod:                Okay. Thank you, sir. And the second question is on the hybrid techs, the part identification bit.
+                       What is our – India standing there, sir, in terms of – because we've seen a lot of companies
+                       launching hybrids or starting to talk about hybrid pipeline, including plug-in hybrids and 48-
+                       volt, and how are we positioned there, sir? Any customers who are already buying a technology
+                       for what could be in the pipeline as well? I'm not asking for names, just to get whether we have
+                       a scope there to kind of expand?
+
+
+Guruprasad Mudlapur:   Yes. So, in terms of hybrid tech, we have the complete portfolio at Bosch, and we do offer that
+                       already to several OEMs worldwide. We are in talks with a lot of OEMs also in India, and we
+                       will let you know when these things materialize, and we are able to make more progress on these
+                       discussions.
+
+
+
+                                               Page 14 of 16
+
+                                                                                                              Bosch Limited
+                                                                                                         November 06, 2026
+
+
+Pramod:                Okay. And last one, sir. Just update on the status of the two joint ventures – sorry, the trucking,
+                       breaking joint ventures with the TVS Group companies and the TACO joint ventures, sir. Just
+                       any update there?
+
+
+Guruprasad Mudlapur:   Yes. So, the joint ventures are in the process of getting fully established. They went through a
+                       merger control and check worldwide. They've all cleared all those things. We are setting up the
+                       Bosch TACO joint venture at Nashik, actually within our premises in Nashik. The joint venture
+                       with TSF will be set up in Chennai.
+
+
+                       The TACO joint venture will get into production mid-next year, and the TSF – the joint venture
+                       with TSF towards the end of next year. So, things are on track. Everything is going well, and we
+                       are making very good progress.
+
+
+Pramod:                Sir, just to clarify, the second joint venture going live towards the end of next fiscal year, does
+                       that confirm that you already have an order or existing customer, because it is not a – unlike
+                       TACO? Yes.
+
+
+Guruprasad Mudlapur:   We are working towards that. Yes.
+
+
+Pramod:                Great, sir. That is great. Thanks a lot, sir, and wish you all best of luck and season greetings.
+                       Happy Diwali.
+
+
+Guruprasad Mudlapur:   Thank you. Happy Diwali.
+
+
+Pramod:                Thank you.
+
+
+Annamalai Jayaraj:     Sir, There is only one more question. Do you want to take it or you want to?
+
+
+Guruprasad Mudlapur:   We can take it, last one.
+
+
+Annamalai Jayaraj:     Yes. Mr. Suraj Yedia, you can unmute and ask your question.
+
+
+Suraj Yedia:           Yes, hi. Thanks for the opportunity. I had one question. If I look at your Bosch limited margin,
+                       so last 2 quarters has been about 14% EBITDA margin. If we see 2Q, it has declined to 13%. I
+                       understand there could be obviously many transient sectors in the current volatile environment,
+                       but just wanted to understand directionally like last quarter you mentioned, you should be able
+                       to sustain this level of margin, and obviously there is an internal focus to improve localization.
+                       So, how do you see this margin trajectory for you in near term or at least over next 2, 3 years?
+                       What are the key drivers to this?
+
+
+Guruprasad Mudlapur:   See, our endeavor is to maintain and even improve on the margin. Quarter-on-quarter, there
+                       could be some effects which we may encounter like currently we just talked about the forex
+                       impact or the raw material prices going up suddenly or some costs which have not yet been
+                       passed on to the OEMs or to our customers. So, there could be some transient effects like this,
+                       but on an overall aggregated basis, the margins are on an upward track.
+
+
+Suraj Yedia:           All right. And is it fair to expect say over the next two, three years with the localization initiative,
+                       will you be targeting towards like low to medium kind of level? How should we think
+
+                                                Page 15 of 16
+
+                                                                                                                    Bosch Limited
+                                                                                                               November 06, 2026
+
+
+                                  directionally in terms of, are there any headwinds with product mix changing over next two,
+                                  three years with new technology products coming up? If you can help us understand.
+
+
+Guruprasad Mudlapur:              I would not want to give you a clear guidance on this, but I will only say that our endeavor is to
+                                  constantly improve on the margins and we are on a very good path towards that with sustained
+                                  increase in localization, internal cost controls and also good product mix which is helping us go
+                                  in that direction.
+
+
+Suraj Yedia:                      Sure. And this last question, obviously the RM input cost on the material side will be passed
+                                  through, but is FX also passed through for us with most of the customers or it is negotiation
+                                  based?
+
+
+Guruprasad Mudlapur:              For most of the customers, it is contract based, but there is single customers where it is
+                                  negotiation based.
+
+
+Suraj Yedia:                      Understood. Thank you. This is really helpful.
+
+
+Annamalai Jayaraj:                Thanks, Suraj. Sir, do you want to make any closing comments, sir?
+
+
+Guruprasad Mudlapur:              Yes. Firstly, happy Diwali to everybody on the call. Thank you for being on the call and taking
+                                  it, although it is more or less a festive day already. I think we have had a very good quarter and
+                                  the overall company performance both at RBIC and at Bosch Limited has been very, very good.
+                                  We will continue on the same track. Despite the headwinds we talked about, I think we are on a
+                                  good path here. Thank you very much.
+
+
+Annamalai Jayaraj:                Thanks, sir. On behalf of 360 ONE Capital, we thank all the participants for joining the call and
+                                  special thanks to Bosch Management for taking out time for the call. Have a good day and festive
+                                  greetings.
+
+
+Oslen Tillmann:                   Thank you.
+
+
+
+
+NOTE: This document is a transcript and may contain transcription errors. This transcript may not be 100 percent accurate
+and may contain misspellings and other inaccuracies. While the transcript has been edited for clarity, the Company takes no
+responsibility for such errors.
+
+
+
+
+                                                          Page 16 of 16
+

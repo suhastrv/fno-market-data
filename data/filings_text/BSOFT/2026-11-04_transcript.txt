@@ -1,0 +1,1001 @@
+November 4, 2026
+
+BSE Limited                                  National Stock Exchange of India Ltd.
+Phiroze Jeejeebhoy Towers,                   Exchange Plaza, C/1, G Block,
+Dalal Street,                                Bandra - Kurla Complex, Bandra (E),
+Mumbai – 400001.                             Mumbai – 400051.
+
+Scrip ID: BSOFT                              Symbol: BSOFT
+Scrip Code: 532400                           Series: EQ
+
+Kind Attn: The Manager,                      Kind Attn: The Manager,
+Department of Corporate Services             Listing Department
+
+
+Subject: -      Transcript of Earnings Call held on October 28, 2026
+
+
+Dear Sir/Madam,
+
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015, please find attached the transcript of the
+earnings call of the Company organized on October 28, 2026.
+
+The    same    is  also   available on      the Company’s       website   at   the  link
+https://www.birlasoft.com/company/investors/policies-reports-filings#, under the head –
+Quarterly Reports → Earnings Call → Transcript.
+
+Kindly take the same on record.
+
+Thanking you.
+
+Yours faithfully,
+
+
+For Birlasoft Limited
+Sneha         Digitally signed
+              by Sneha
+Prashant      Prashant Padve
+              Date: 2026.11.04
+Padve         15:53:11 +05'30'
+Sneha Padve
+Company Secretary & Compliance Officer
+Membership No. A9678
+
+Classification: Public
+
+
+
+
+               Birlasoft Limited Q2 FY27 Earnings Conference Call
+
+
+                                        6.30pm IST, 28 October 2026
+
+
+
+
+            MANAGEMENT:
+                 MR. ANGAN GUHA, CHIEF EXECUTIVE OFFICER & MANAGING DIRECTOR
+                 MR. CHANDRASEKAR THYAGARAJAN, CHIEF FINANCIAL OFFICER
+                 MR. ABHINANDAN SINGH, HEAD - INVESTOR RELATIONS
+
+
+
+
+            Note:
+                1.   This is a transcription and may contain transcription errors. The Company takes no responsibility of
+                     such errors, although an effort has been made to ensure high level of accuracy.
+                2.   Any of the statements made herein may be construed as opinions only and as of the date. We expressly
+                     disclaim any obligation or undertaking to release any update or revision to any of the views contained
+                     herein to reflect any changes in our expectations with regard to any change in events, conditions or
+                     circumstances on which any of these opinions might have been based upon.
+
+                                      (1 crore = 10 million)
+
+
+
+
+                                                               Page 1 of 16
+
+Classification: Public
+
+                                                                                                               Birlasoft Limited
+                                                                                                               October 28, 2026
+
+            Moderator:          Ladies and gentlemen, good day, and welcome to the Q2 FY27 Earnings Conference Call of
+                                Birlasoft Limited. As a reminder, all participant lines will be in the listen-only mode and there
+                                will be an opportunity for you to ask questions after the presentation concludes. Should you need
+                                assistance during the conference call, please signal an operator by pressing star then zero on
+                                your touchtone phone.
+
+
+                                I now hand the conference over to Mr. Abhinandan Singh, Head — Investor Relations, Birlasoft.
+                                Thank you, and over to you, Mr. Singh.
+
+
+            Abhinandan Singh:   Welcome, folks. By now, you would have received or seen our results that were announced
+                                earlier today. Those are also available on our website www.birlasoft.com.
+
+
+                                Joining me on this call this evening are our CEO and MD Mr. Angan Guha and our Chief
+                                Financial Officer Mr. Chandrasekar Thyagarajan. or Chandru as we call him. We will begin the
+                                call today, as usual, with opening remarks from both Angan and Chandru.
+
+
+                                But before I hand over the floor to Angan, a quick reminder that anything that we say on this
+                                call on the company's outlook for the future could be a forward-looking statement involving
+                                significant uncertainty, and therefore, that must be heard or read in conjunction with the
+                                disclaimer that appears in our investor update, which you would have received and is also
+                                uploaded on our website as well as filed with the stock exchanges.
+
+
+                                With that, let me hand over the floor now to Mr. Angan Guha, our CEO and MD. Over to you,
+                                Angan.
+
+
+            Angan Guha:         Thank you, Abhi. Good morning, and good evening to all of you, wherever you are, and thank
+                                you for joining us today as we share some perspectives on our performance in the second quarter
+                                of the current fiscal. As you would have already noticed, we've delivered a revenue growth of
+                                2.1% in both constant currency and dollar terms quarter-over-quarter.
+
+
+                                In rupee terms, revenue during the quarter grew by 2.7% sequentially. I'm also pleased to note
+                                that the Life Sciences among our verticals and the ERP business amongst our service lines, both,
+                                have registered their second consecutive quarter of sequential growth in Q2.
+
+
+                                Manufacturing business as well as the BFSI business also witnessed sequential growth. The
+                                E&U vertical continued to remain soft due to a particular ramp down of work in one client. Our
+                                EBITDA margin for the quarter considers the fact that an organization-wide compensation
+                                revision came into effect from July 2026, but remains within the range that Chandru, our CFO,
+                                had called out in the last quarter.
+
+
+                                We have also seen robust cash flows, collections, as well as our cash balances and the DSO have
+                                improved. Chandru will provide more colour on this in his remarks. Deal signings during the
+                                quarter came in at 116.1 million TCV, up 9% year-on-year and for the first half at $285 million,
+                                which is an uptick of 15% year-on-year.
+
+
+                                Our deal wins during the quarter includes several AI-led engagements. To just name a few, we
+                                have secured a strategic AI-led transformation opportunity involving large-scale platform
+
+
+                                                          Page 2 of 16
+
+Classification: Public
+
+                                                                                                      Birlasoft Limited
+                                                                                                      October 28, 2026
+
+                         modernization, cloud adoption, and business transformation from a leading European logistics
+                         organization. This engagement showcases Birlasoft's AI-driven delivery life cycle (AI-DLC)
+                         approach, combining architectural excellence, AI-assisted engineering, automated testing,
+                         accelerated migration, and disciplined program execution to modernize mission-critical
+                         platforms at scale.
+
+
+                         Similarly, for a global industrial manufacturer, we have won a 3-year AI-led managed services
+                         engagement to support their ERP systems and drive business innovation. Similarly, again, we've
+                         been selected by one of the largest medical devices manufacturers in North America to provide
+                         a range of services from program governance, AI and data CoE, and core digital transformation.
+                         This strengthens the company's long-term relationship with the client as a provider of core
+                         transformation services to their IT organization.
+
+
+                         As I have previously pointed out, we now have a growing base of engagements where we are
+                         deploying advanced AI-powered capabilities. We continue to make these investments, both in
+                         our technology as well as in our domain areas.
+
+
+                         During Q2, the quarter that just went by, Birlasoft earned the AWS AI Services Competency
+                         status which recognizes our ability to deliver GenAI and Agentic AI solutions on the AWS
+                         platform at production scale. AWS awarded the competency after reviewing several live client
+                         programs covering enterprise Agentic AI and AI-led modernization of legacy applications,
+                         intelligent document processing and governed analytics. This makes Birlasoft an AWS-validated
+                         AI partner, and this is already helping us win many more clients and businesses. The new multi-
+                         year AI engagement with a global logistics company that I mentioned earlier was secured on the
+                         strength of this competency.
+
+
+                         Birlasoft is now also an OpenAI select partner. This will enable us to continue working with
+                         OpenAI to help enterprises build, deploy, and scale AI solutions responsibly and effectively.
+
+
+                         Our core enterprise Agentic AI platform Cogito, our AI-powered test engineering platform Lynx,
+                         and our Agentic AI Ops and AMS platform Sigma together drive our differentiated AI-led
+                         offerings.
+
+
+                         Around a third of our code today, up from almost 25% a few months ago, is now generated using
+                         Agentic AI tools. We have reimagined engineering workflows for 20-plus of our top services
+                         offerings with an AI-first approach. At the same time, human-in-the-loop controls remain in
+                         place for security, governance, quality, and reliability. We continue to embed AI across our
+                         service offerings, reimagining engineering workflows and equip our people to work on Agentic
+                         AI through our AI development life cycle (AI-DLC) model.
+
+
+                         In terms of the outlook, with the demand environment remaining unchanged, and H2 of our
+                         current financial year expected to reflect some furloughs in 3Q, we still remain committed to
+                         investing in our tech capabilities and our sales organization. Given the pipeline, ongoing
+                         conversations, and seasonal uptick in renewals, we are well positioned to drive better financial
+                         performance in H2 FY27.
+
+
+                         At this point, I will ask Chandru to share his perspectives on the quarter under review. Chandru?
+
+                                                 Page 3 of 16
+
+Classification: Public
+
+                                                                                                            Birlasoft Limited
+                                                                                                            October 28, 2026
+
+            Chandrasekar T.:   Thank you, Angan, and a very warm welcome to all of you joining us today on this call. Let me
+                               take you through some of the financial highlights for Q2 FY27. Our consolidated revenue for
+                               the quarter stood at $148.3 million, which represents a quarter-on-quarter growth of 2.1%. In
+                               rupee terms, revenue for Q2 FY27 was INR1,416.2 crore, a sequential growth of 2.7%.
+
+
+                               Growth during the quarter was led by our Manufacturing, BFSI, and Life Sciences & Services
+                               verticals, which grew quarter-on-quarter by 5.2%, 3.6%, and 2.1%, respectively. As Angan
+                               noted in his remarks, the E&U vertical, which has historically been a steady growth engine for
+                               us, recorded some softness due to ramp down of work for a customer in Europe. While we do
+                               not expect any further downside on that front, we do not see a bounce back in the short-term
+                               either. Among service lines, Digital & Data grew by 3.4% quarter-on-quarter and ERP grew
+                               2.9% quarter-on-quarter. The Infra service line was affected by the drop in revenue in our E&U
+                               vertical, as mentioned earlier.
+
+
+                               As you may recall, an organizational-wide compensation increase was rolled out effective July
+                               2026. Considering that, and the ongoing investments we are making in our business, our
+                               EBITDA performance has been strong with EBITDA for the quarter under review at INR2,153
+                               million or INR215.3 crore, $22.5 million in dollar terms. Consequently, EBITDA margin for Q2
+                               was 15.2%. This is within the range we had indicated earlier. This robust margin performance
+                               was enabled by a combination of factors, including continued focus on operational efficiencies,
+                               productivity improvements, and better quality of revenue. These have helped to partly offset the
+                               headwinds from higher wage costs.
+
+
+                               Our PAT stood at INR159.6 crore, which is $16.7 million. Our effective tax rate (ETR) for the
+                               quarter stood at 29%.
+
+
+                               Coming to some key balance sheet items, we have maintained our robust track record on
+                               collections and our cash flow generation has been good during this quarter too. Collections
+                               during the quarter were $164 million, resulting in our DSO touching our 2-year best of 51 days.
+                               Our cash and cash equivalent as of 30th September 2026 stood at $300.4 million.
+
+
+                               You may have already noted that the Board has recommended an interim dividend of INR 3 per
+                               share in line with our continued commitment to reward our shareholders. We remain focused on
+                               investing in capabilities for future growth while keeping a close eye on cost and efficiencies.
+                               Thank you very much.
+
+
+                               With this, I will now open the floor for question.
+
+
+            Moderator:         Thank you very much. Ladies and gentlemen, we will now begin the question-and-answer
+                               session. First question is form the line of Sandeep Shah from Equirus Securities.
+
+
+            Sandeep Shah:      Congrats on good execution. Just one question in terms of earlier quarters, we had highlighted
+                               exiting from some of the low-margin businesses. So where are we in that context? And second,
+                               is it fair to assume our annuity business could have increased materially versus what it was a
+                               year back. So if you can give some clarity on the same?
+
+
+
+
+                                                        Page 4 of 16
+
+Classification: Public
+
+                                                                                                                Birlasoft Limited
+                                                                                                                October 28, 2026
+
+            Angan Guha:        So look, our annuity business is obviously going up. But more importantly, the quality of
+                               revenue is really going up. So from that perspective, I think the team has done a good job in
+                               executing in terms of getting in higher quality of revenue, and that is reflected in some of the
+                               financial parameters that Chandru spoke about earlier.
+
+
+                               Now as far as getting out of negative accounts, I think that job is done and over. It's done and
+                               dusted. And now, like I had said, Sandeep, even in the last call, the entire focus is to really drive
+                               sales, drive pipeline, and drive order book. So we've kind of cleaned up our balance sheet
+                               significantly. So that part is now done and dusted.
+
+
+            Sandeep Shah:      And when you say better 2H versus 1H, are you implying Q3, Q4 constant currency sequential
+                               growth could be better or in line with Q2?
+
+
+            Angan Guha:        So Sandeep, as you know that Q3 is always a very soft quarter because of furloughs, lesser
+                               working days, holiday season, et cetera. So our job is to execute for Q3 also, but it is a little hard
+                               to give guidance. And as you know, we don't give guidance for Q3. But what we can indicate
+                               though, Sandeep, we are pretty confident that H2 performance, financial performance, will be
+                               better than H1 performance. But as a management team, our complete focus is going to be on
+                               sales and delivering a strong order book for H2. I'm sure the revenues will follow.
+
+
+            Sandeep Shah:      And the offshore contribution has been going up materially Q-on-Q, Y-o-Y. So if you look at in
+                               this quarter also, it has gone up. So the volume growth should be materially higher versus the
+                               headline growth in this quarter?
+
+
+            Chandrasekar T.:   So Sandeep, on the offshore going up, as Angan pointed out, this has been a concerted effort for
+                               over 4 quarters now, working on the quality of our revenue, working through how we actually
+                               deliver to our customers to give them the best value. We expect this effort to continue and,
+                               therefore, we expect the improvement to stay on as we go forward, Sandeep.
+
+
+            Sandeep Shah:      And just last question, Chandru, any view you can give in terms of margin movement in the
+                               second half and what was the revision for a higher depreciation and amortization cost in this
+                               quarter? And can we consider 3Q level as a normalized level to continue in 3Q, Q4 or ahead?
+
+
+            Chandrasekar T.:   As Angan also pointed out, we do not provide guidance, Sandeep. But just to give you some
+                               colour on the margin profile, we have, as you know, been very tightly watching our cost
+                               efficiency over the past several quarters, right? And there you see us steadily going to an
+                               EBITDA margin of around 15%. There could be small ups and downs given some of the seasonal
+                               impact as Angan pointed out, but our endeavour is to continue pushing at the 15% level. And
+                               this is in spite of, one, the salary increase program, which we believe is an investment in
+                               resources that we wanted to do and, second, the investment that we're making in our sales and
+                               service line capabilities, which is a continuing effort for us. That's on the margin profile. Now if
+                               you look at the depreciation and amortization, there are a couple of factors that lead to it. One,
+                               we've started to reinvest in our physical infrastructure, particularly our tech infrastructure. And
+                               that investment is obviously driving some increase in depreciation and amortization. We are also
+                               refurbishing some of our offices, moving to better offices, et cetera. That's the other reason why
+
+
+
+
+                                                         Page 5 of 16
+
+Classification: Public
+
+                                                                                                              Birlasoft Limited
+                                                                                                              October 28, 2026
+
+                               there's a slight increase. But we expect that this will steady up and get absorbed in the overall
+                               business as we go forward.
+
+
+            Moderator:         The next question is from the line of Dipesh Mehta from Emkay Global.
+
+
+            Dipesh Mehta:      Couple of questions. First about quarter 2, whether quarter 2 revenue performance was in line
+                               with management expectation at the beginning of quarter or it surprised you in terms of
+                               performance? So that is question one. Second question is about the EBITDA margin. If you can
+                               give, let's say, how the some puts and takes in terms of wage hike, investment, and rupee
+                               depreciation benefits played out for quarter 2?
+
+
+                               And considering the wage hike is behind, should we expect quarter 2 margin to be floor for the
+                               remaining part of the year and we can, let's say, try to improve from where we are? And last
+                               question is about the deal intake. Net new deal intake, let's say, even on H1 basis seems to be
+                               softer. Can you provide some sense how one should look this? And whether it could have some
+                               ramification on growth? Surprisingly, this quarter, growth is divergent compared to some of
+                               these net new dynamics. If you can provide some colour around it.
+
+
+            Angan Guha:        Thank you, Dipesh, for your questions. First of all, the revenue was in line with the management
+                               expectation. We knew that the quarter 2 will be a strong quarter, relatively strong quarter. As
+                               you might recollect, in our quarter 1 our growth was only 0.3%. So from that perspective, the
+                               team did a good job on execution.
+
+
+                               But quite frankly, on the order book, I think we did not do a good job. I mean, we expected
+                               ourselves to do better. Unfortunately, some of the deals got pushed out to Q3, not that we lost
+                               any deals, but they got pushed out to Q3 and Q4, which is why you see a soft quarter in terms
+                               of the deal signings. That said, the overall deal signings obviously has grown 15% year-over-
+                               year on a half year basis.
+
+
+                               Now if I were to look at H2, as you know, that Q4 for us is the quarter where there are a lot of
+                               renewals that happen, and we are in discussions. So these renewals will come through. As far as
+                               net new is concerned, which is why, to Chandru's point earlier, we're investing a lot more in
+                               sales and capability. It's an ongoing exercise and the complete management focus is to create
+                               more pipeline and deliver more signings. Now our pipeline is steady. It has actually gone up a
+                               little, which is good news. But as we are hiring more and more salespeople, it takes about a
+                               couple of quarters for them to show results. But our direction is very clear. Our direction is to
+                               completely invest in sales, stay invested in sales, stay invested in capability building so that we
+                               can secure our long-term growth.
+
+
+            Chandrasekar T.:   Let me take the question on margins, Dipesh. First point you were asking was about what's the
+                               quarter-on-quarter walk on margins, right? So I can give you some high-level commentary on
+                               that. One, we already spoke about increments. Increment ate up about 170 basis points of margin
+                               on a quarter-on-quarter basis. We also had, as Angan talked about, investment in our sales and
+                               service line capability where we had some dip in margins coming from that. Now with these two
+                               dampeners, if you will, there are two things that played well for us. One, the operating
+                               efficiencies that we've been pushing over the past few quarters, that's given us an offset. The
+
+
+                                                        Page 6 of 16
+
+Classification: Public
+
+                                                                                                           Birlasoft Limited
+                                                                                                           October 28, 2026
+
+                            other offset that we also got was from improved quality of revenue, as we spoke about earlier,
+                            which is coming from the tail accounts trimming that we've done in the past financial year and
+                            also working through our revenue model itself. It's a slow but steady process, as you can imagine.
+
+
+                            All of these have somewhat set off the impact of the wage increase and the impact of the
+                            investments we are making, but not completely. As I mentioned in the previous quarter as well,
+                            we do expect that we should catch up in the next couple of quarters and be able to negate the
+                            impact of the wage increase.
+
+
+                            Your second question on margin was whether this trajectory, do I see it improving? The
+                            expectation is that it will stay in this range as we continue to make investments, Dipesh, and
+                            that's an ongoing effort. In fact, I do fully expect that there will be some ups and downs given
+                            the seasonality of revenue. But that's a short-term problem that we will get over. But on a steady-
+                            state basis, our endeavour is to stay at or about the 15% range.
+
+
+            Dipesh Mehta:   Maybe I can squeeze two more. On the furloughs side, do you think furloughs to be in line with
+                            last year or you expect any changes in furloughs considering one of the clients where you say
+                            indicated some ramp down in E&U side? So that is one. And second is about, let's say, just want
+                            to understand whether we have benefited from some short-term projects which ramp up quicker,
+                            which led to, let's say, better revenue conversion. I think a couple of -- maybe around 2 years
+                            back or 1.5 years back, you’d indicated some of the short-term program, which led to, let's say,
+                            some better revenue conversion compared to deal intake. Are we witnessing some of those
+                            programs, let's say, started and helping us to have better revenue conversion?
+
+
+            Angan Guha:     Dipesh, look, currently, as you know, Dipesh, we've said that for a couple of quarters now that
+                            our focus is to drive better quality revenue. So technically, we do not focus on short-term
+                            projects. We focus on really long-term deals with annuity deals. But equally, there are certain
+                            times when we pick up a project, a project that needs to be implemented within an 11-month
+                            period or a 12-month period or an 18-month period. But as a process, we are not focusing on
+                            short-term deals at all. So, the benefit that we got in Q2 was true ramp-up, true execution
+                            capability that the team showcased and did a lot of work to deliver.
+
+
+                            As our pipeline grows and order book grows, we hopefully will continue to see a lot of
+                            momentum on that. On the furloughs, we believe that the furloughs will be no different than
+                            what we saw last year. It will be in the same range. We don't see -- at least as of today, we don't
+                            see any extra furloughs from what we saw last year. But look, it's a dynamic world. If something
+                            were to change in the next 30 days, I don't know. But at least as of today, the furloughs are at
+                            the same levels as we witnessed in the past fiscal.
+
+
+            Moderator:      Next question is from the line of Girish Pai from BOB Capital Markets Limited.
+
+
+            Girish Pai:     Angan, a few quarters back in one of the media interviews you kind of indicated that FY27 is
+                            going to be a positive growth year. That is one point. And in the opening remarks, you said 2H
+                            is going to be better than 1H. But when I look at last couple of years, FY25 and FY26, 4Q has
+                            been a dip versus 3Q, a fairly sharp dip vis-a-vis 3Q. How will things be different this year
+                            compared to the past 2 years?
+
+
+                                                     Page 7 of 16
+
+Classification: Public
+
+                                                                                                         Birlasoft Limited
+                                                                                                         October 28, 2026
+
+            Angan Guha:   So look, Girish, like I said, we don't give guidance, but suffice to say that this year, the reason
+                          we are more confident of H2 becoming better than H1 is based on what we know today. The last
+                          couple of financial years, we got surprised by a couple of clients, which led to a sharp dip in 4Q.
+
+
+                          As of today, again, I'll have to say it carefully that as of today, based on all our client
+                          conversations and the deals that we are fighting, we do not see a sharp dip in 4Q. In fact, if we
+                          can execute order book between now and, let's say, January or February, we expect 4Q to be our
+                          strongest quarter, but that is as of today. Now if some surprises come in, then obviously, we'll
+                          have to account for it at that point in time. But like Chandru has also mentioned and I have also
+                          mentioned, we've invested heavily in sales. We've invested heavily in our capability. And our
+                          complete job and the focus of the management team is to work on creating pipeline and deliver
+                          good order book growth between October and March so that the revenues can follow.
+
+
+            Girish Pai:   A few more questions. On advanced AI services, are you getting better margins? And was that
+                          a contributor to your performance, margin performance, in the second quarter? And what is the
+                          delivery mix in the advanced AI services? I see that offshore mix has actually improved. And
+                          I'm sure that AI services have also been increasing as a percentage of your revenue. So what is
+                          the delivery mix in these advanced AI services? And how the margins in the advanced AI service
+                          that you're providing? And what's the trend there? Are these margins improving over the many
+                          quarters now or are they trending down because of the competitive intensity?
+
+
+            Angan Guha:   A great question, Girish. So look, like we've mentioned, and I'll try and answer this question in
+                          two buckets, right? So the first bucket is our own efficiencies. Clearly, more and more code is
+                          being written by machines with human in the loop, and that is helping us in margin uptick. That's
+                          an industry norm, and I don't think we are any different, but we are executing on that flawlessly.
+                          Most of the conversations that we are having with existing clients as well as new clients, it is
+                          very, very competitive because in so many cases, you will have to commit to a productivity gain
+                          or a better time to market for our clients while you do a deal. But what we are confident about
+                          and what we are happy about is the kind of efficiencies that we are being able to drive, thanks
+                          to using Agentic AI bots to write code is increasing every quarter. I mean even in this quarter,
+                          we had a 10% increase in terms of machines writing code. And that is helping us in margins,
+                          which we are going to be reinvesting back in our sales and capability.
+
+
+            Girish Pai:   I want to inquire about the offshore/on-site mix of advanced AI services. I'm not talking about
+                          AI services, which address the core business, which is the legacy business. I'm talking more of
+                          the advanced AI services. Is it more offshore oriented? That's point number one. Second is, there
+                          has been this move by a lot of the larger players to address the mid-market segment. Accenture
+                          and a couple of others have talked about it. Are you feeling more competitive pressure here?
+
+
+            Angan Guha:   Girish, look, first of all, advanced AI services, obviously, our offshore intensity is much more
+                          than the on-site intensity, right? But quite frankly, with more and more machines driving some
+                          of the outcomes, and we sign into an outcome, location is becoming agnostic for us. But clearly,
+                          based on the performance that we have seen in the last couple of quarters, advanced AI services,
+                          the intensity is far more offshore than it is on-site. Now as far as mid-market is concerned, we
+                          play a very significant role in the mid-market, as you know, from our client intensity. We are at
+                          least not seeing tremendous pricing pressure. However, when the deal becomes competitive,
+
+
+                                                   Page 8 of 16
+
+Classification: Public
+
+                                                                                                               Birlasoft Limited
+                                                                                                               October 28, 2026
+
+                               right, that is when we see immense amount of pricing pressure. But the capabilities that we have
+                               invested in and the differentiation that we are driving today, we are reasonably confident that
+                               we will be able to maintain margins. In fact, the margin improvement that we can deliver, we
+                               will restart investing in our business.
+
+
+            Moderator:         Next question is from the line of Ravi Menon from Axis Capital.
+
+
+            Ravi Menon:        If I look at the given trailing 12-month book-to-bill, we've actually had much better book-to-bill,
+                               but you seem a lot more confident. You've seen pretty broad-based growth this quarter. And you
+                               also delivered good growth this quarter, right? So just trying to understand how you're able to
+                               do that despite new deal wins actually still being kind of below high watermarks, even just like
+                               3 quarters back. Is it a lot of smaller deals coming through or if I could call it, framework deals
+                               where that doesn't show up in TCV? What explains this?
+
+
+            Angan Guha:        So Ravi, it's a combination of the last two things that you -- what you talked about, right? So
+                               we've opened a lot of MSAs, right, where we are working with partners as well as our own
+                               differentiated capabilities that we've been able to deliver, where we will land and then we will
+                               expand. So that is a clear motion we are seeing a lot of interest in. And currently, we are seeing
+                               a lot of intensity. But look, the job is half done. I'm not saying that we are out of the woods yet.
+                               We need to do a lot more work because we need to win larger and larger deals. Now the
+                               framework deals are coming in. We are signing more MSAs. We are opening newer and newer
+                               accounts, but they have to eventually land up in terms of delivering the revenues.
+
+
+                               The second part is also true that our deal sizes are becoming larger as we go forward and which
+                               is why the capability as well as the sales investment we are doing is in order to convert that
+                               rhythm for deal making. But equally, like I said right upfront as the call started, we ourselves
+                               are not very pleased with our order booking performance. We need to do much, much more, if
+                               we need to secure our future growth. We are pretty confident based on at least the conversations
+                               that we are having, like we said, Chandru and I said, H2 will be better than H1, but we really
+                               need to deliver a lot more order book to secure the future quarters, which is FY28 and beyond,
+                               which is what we are working on now.
+
+
+            Ravi Menon:        Chandru, a question on the other expenses side, what's led to the increase here, almost like, I
+                               would say close to 7-8 per cent quarter-on-quarter?
+
+
+            Chandrasekar T.:   Give me a minute, Ravi, I'm collecting the data here. Can we move to the next question? I'll
+                               come back to you in a couple of minutes.
+
+
+            Ravi Menon:        Sure. One more thing on the healthcare vertical. I know it's a relatively small number and
+                               fluctuates quite a bit, but the margins seem to have dropped this quarter. So what led to that?
+
+
+            Angan Guha:        So Life Sciences, like you said, Ravi, it's a very, very small business. We believe the margins
+                               will stabilize going forward. It is one program that led to this drop, but we are not unduly worried
+                               because Q4 onwards, it will get back to where it was in Q2.
+
+
+
+
+                                                        Page 9 of 16
+
+Classification: Public
+
+                                                                                                               Birlasoft Limited
+                                                                                                               October 28, 2026
+
+            Ravi Menon:        More broadly on demand, you're saying that it is pretty similar, that there is no change in the
+                               demand. But we've seen at least for a lot of your larger peers, BFSI seems to be doing well. How
+                               are you seeing that segment playing out for you?
+
+
+            Angan Guha:        BFSI continues to be a strong segment for us, Ravi. As you know, we've delivered growth even
+                               in Q2. Q3 traditionally, again, as you know that it is a furlough quarter. So Q3, we expect BFSI
+                               to be slightly soft only because of furlough. But structurally, there is no change. Structurally, we
+                               will continue to grow financial services strongly Q4 onwards. So we are pretty bullish as far as
+                               our financial services growth is concerned, and that is our focus area as well.
+
+
+            Ravi Menon:        Now, same -- are those -- yes, sorry, Chandru, go ahead.
+
+
+            Chandrasekar T.:   No, you finish asking your question.
+
+
+            Ravi Menon:        Yes. I was asking about this Anthropic mid-market focused firm that they launched, Ode. Have
+                               you started coming across them anywhere? Are you in partnership with them? Just if you could
+                               talk about that?
+
+
+            Angan Guha:        I can't talk about that right now because we are under NDA, but we are working on multiple
+                               areas as far as some of these partners are concerned. That's all I can say at this point. But you've
+                               seen our OpenAI announcement, I'm sure, Ravi, that's a big announcement. We are very excited
+                               with that.
+
+
+            Chandrasekar T.:   Ravi, to pick up on your question around other expenses, there was one item that drove this
+                               increase on a quarter-on-quarter basis. We had an increase in our complementary workforce,
+                               which gets accounted for as other expenses. And this was specific to a couple of clients where
+                               we had niche skills that were required at short notice. So that's what's driving the increase in
+                               other expenses. We have got a revenue uptick in line with the increase in cost as well, Ravi.
+
+
+            Moderator:         Next question is from the line of Shradha Agrawal from Asian Markets Securities.
+
+
+            Shradha Agrawal:   Congratulations on good execution. Two questions. First is on demand environment. How would
+                               you define the demand environment today versus what it was a quarter back? And the second
+                               question is on utilization. We've seen utilization moving up to a multi-quarter high number. So
+                               how do you see utilization? Do we see that moving back to the previous levels of 85%-86% that
+                               we used to do 3 years back or this is a more comfortable range that we are looking at in the near
+                               term? And last question, if I can. So on increase in other expenses, you indicated that there was
+                               an increase in complementary workforce, which gets accounted in this bucket. So what has been
+                               the change on a sequential and Y-o-Y basis in this complementary workforce as a percentage of
+                               revenue?
+
+
+            Angan Guha:        Shradha, thank you for your questions. Let me try and talk about the demand environment, and
+                               then I'll request Chandru to talk about the other two topics, the utilization and the other topic. So
+                               Shradha, look, like we discussed right upfront on the call, we don't see the demand environment
+                               any materially different than what it was in the last quarter. I think the challenges still remain.
+
+
+
+
+                                                       Page 10 of 16
+
+Classification: Public
+
+                                                                                                             Birlasoft Limited
+                                                                                                             October 28, 2026
+
+                               We believe that we've been able to hold a lot of conversations in the new AI world. We are
+                               helping our clients in their AI journey. And we are feeling more and more confident that the
+                               clients are having conversations with us and are including us as they build their own AI posture.
+                               From a demand perspective, it is still steady. It's not getting worse, but it's not getting better
+                               either. Chandru, on utilization.
+
+
+            Chandrasekar T.:   Yes. Shradha, two questions that you had, one on utilization and the other on other expenses.
+                               Let me take them in that order. Utilization, this has been a result of concerted efforts that the
+                               delivery teams have put in over the past year, Shradha, while I am not sure if this will improve
+                               because we believe that we are at a point where we got to best in class. We will continue to have
+                               incremental improvements. But overall, we see that being steady. We don't see that going back
+                               to prior levels. That's one.
+
+
+                               On other expenses, you asked about what's driving it quarter-on-quarter, year-on-year. It's pretty
+                               much the same in terms of the complementary workforce that I talked about. It's an addition of
+                               50-odd resources that we’ve had to do. And you will find this kind of similar to what we saw
+                               this time last year as well, in terms of the comparison, so the quarter-on-quarter, year-on-year
+                               comparison are kind of similar, Shradha. So with furloughs, if any, coming through in the third
+                               quarter, we'll have to see how this goes depending on exactly where, what kind of work gets
+                               furloughed, et cetera. But this is a continuous balancing act that we will be doing on a quarter-
+                               on-quarter basis.
+
+
+            Moderator:         Next question is from the line of Vikas Ahuja from Antique Stock Broking.
+
+
+            Vikas Ahuja:       Two questions. First one, sir, Q2 growth came in from top-10s largely. Top 20 now makes 70%
+                               of revenues. Active clients fell to at 209, 1 million to 68. Do you think this mid-sized client
+                               cutting largely over now and going forward, especially in the second half, we should see a broad-
+                               based growth?
+
+
+                               And secondly, you did talk about that E&U fell because of that European client ramp down. Last
+                               quarter, you did say that E&U should turn around from Q3. So how much of that quarterly
+                               revenue went away, is a permanent loss and could return? And you said at the starting that there
+                               is no bounce back expected in the short term. When do you expect E&U to grow again? And
+                               does this client have more work that could ramp down?
+
+
+            Angan Guha:        Vikas, first of all, our top 5 clients, our top 10 clients, and our top 20 clients all have grown,
+                               which is a very positive news. From our standpoint, like I was, I think mentioning to Dipesh also
+                               earlier, that our exit out of nonprofitable accounts is done. That's done and dusted. We are very
+                               comfortable at the position that we are in. In fact, the reason why we are investing more in sales
+                               because of the 209 or 210 active relations that we hold, we see immense opportunity for us to
+                               serve them and grow them. And that is a clear focus. We are also focusing on net new and getting
+                               newer and newer logos in the funnel right now so that we can expand our base, considering the
+                               fact, over the last 24-36 months, we really cut off a lot of accounts. So we are now back in the
+                               investment mode. So that is point number one.
+
+
+
+
+                                                        Page 11 of 16
+
+Classification: Public
+
+                                                                                                                  Birlasoft Limited
+                                                                                                                  October 28, 2026
+
+                               Point number two, as far as E&U is concerned, like Chandru also mentioned in his commentary,
+                               this is a onetime thing. We don't believe that this will structurally change our E&U business. We
+                               will still continue to serve our clients here, and this particular client also we will serve. But I
+                               can't give any more specifics because this is a client-specific conversation, and we would refrain
+                               from talking specifics here. But we believe that our E&U business over the next 2-3 quarters
+                               will absolutely turn around.
+
+
+            Moderator:         Next question is from the line of Amit Chandra from HDFC Securities.
+
+
+            Amit Chandra:      Sir, my question is on the continuation of the offshore thing that we have discussed. But if I see,
+                               the offshore shift for us has been pretty sharp versus the peers in the industry. So the impact of
+                               that is visible in the top line, but that is not visible in the margin. And also, in terms of the effort
+                               mix also has changed in a similar fashion in terms of how the offshore mix has changed. And
+                               also this offshore is being driven by the top 5 or the top 10 clients or is it more like widespread
+                               across clients?
+
+
+            Angan Guha:        So Amit, like I said, our top 5, top 10, top 20, all of those buckets have really grown in line with
+                               the company growth. So we're pretty pleased with this. Now as far as the offshore versus on-site
+                               is concerned, like we discussed in an earlier question, a lot of the advanced AI work is now
+                               getting done out of offshore. And there is a lot of intensity in the offshore work rather than the
+                               on-site work when it comes to advanced AI, which is why you're seeing the shift. Now these are
+                               high margin -- I mean, they are margin-accretive engagements, but we are using this, to
+                               Chandru's earlier point, to invest heavily in our capability, both in sales as well as service line.
+                               So those investments will continue, and we would like to keep our margins in that band of 15-
+                               odd percent that Chandru said.
+
+
+            Amit Chandra:      And the second question is, obviously, we have seen strong, like, revival in the Manufacturing
+                               vertical. So if you can provide some more colour in terms of how confident are we of continuing
+                               this growth in the second half, especially in the Manufacturing vertical? And what's happening
+                               in the sub-verticals, like, within Manufacturing?
+
+
+            Angan Guha:        So we do a lot of work in discrete manufacturing, as you know, that is a lot of work we do there.
+                               We also work with process manufacturing companies, but we do a lot more on the discrete
+                               manufacturing side. Again, I will not comment on quarter-on-quarter, but directionally,
+                               Manufacturing, we will deliver growth. Now I don't know whether there could be a blip in one
+                               quarter or the other. But directionally, I think we are very happy with the conversations that we
+                               are having. A lot of new logos are coming in. And the management team feels very confident
+                               that directionally Manufacturing is on a bounce back.
+
+
+            Amit Chandra:      And sir, third question is, we have a lot of surplus cash on the balance sheet. So I know this has
+                               been asked earlier, but any plans to deploy that cash?
+
+
+            Chandrasekar T.:   I don't have any new news for you, Amit, just yet. The Board is seized of it and we will come
+                               back to you as soon as we hear back from the Board. Right now, we will continue to focus on
+                               the work that we're doing, as Angan said, on growth, on capability building, on beefing up our
+
+
+
+
+                                                        Page 12 of 16
+
+Classification: Public
+
+                                                                                                           Birlasoft Limited
+                                                                                                           October 28, 2026
+
+                          sales effort, on driving our AI-led capabilities, and on improving our operational efficiencies,
+                          Amit.
+
+
+            Moderator:    Next question is from the line of Sujit, an Individual Investor.
+
+
+            Sujit:        This is the only question, I have got all the answers from the other person who have answered
+                          all the queries. Now I have only related to the AI stuff. Is the artificial intelligence which we --
+                          I mean the company has, is it helping it in internal operation or it is helping in servicing the
+                          Birlasoft customers, that is my question, first question.
+
+
+            Angan Guha:   Sujit, thanks for asking that question. So the answer is both. One is AI-led transformation that
+                          we are driving internally is obviously helping us drive more efficiently internally as well as well
+                          as for our clients. Equally, we have AI-infused services that we offer to our clients, whether it is
+                          data, digital, ERP infrastructure, all of our service lines now are AI infused. We've also created
+                          platforms, which are AI platforms, which we use to service our clients. So it is helping us in
+                          building a lot of newer pipelines, newer conversations as we participate in our clients' AI
+                          journey. So just to reiterate, it helps in both sides of the aisle. It helps us drive more efficiency
+                          as well as helps us serve our customers better.
+
+
+            Sujit:        The second question is on AI only. Now as you mentioned, you are deploying AI services, you
+                          are deploying Agentic AI services. So the question is only related with this and whether this AI
+                          service helping in all domains that is Manufacturing, BFSI? Second question is whether this AI
+                          will -- this is only a futuristic one, I am not sure, whether this AI is deployed in internal data
+                          centres that is handled by Birlasoft or is it in managed cloud services like Amazon or something
+                          or is it, this AI, going to increase the power cost -- power and electricity cost -- going forward if
+                          Birlasoft is going to implement its own data centre? And because when Agentic AI comes, in
+                          fact work will be staying here only in offshore, that's why I was -- and whether it will help in the
+                          near future, I mean, HR and administration costs will come down? I'm not saying now, I'm
+                          saying going forward. That's the question.
+
+
+            Angan Guha:   So Sujit, we are building AI services to serve our customers. So all our service lines are now AI
+                          infused. And we are using those services to sell to our clients to serve them. We are not building
+                          our own data centres. So, I mean, that is what it is. We will continue to serve our clients with
+                          the services that we build.
+
+
+            Moderator:    I now invite our next participant, Mr. Anmol Garg from DAM Capital.
+
+
+            Anmol Garg    I have two questions. One is on the hiring side. So, is the hiring done for the few positions which
+                          were open earlier, particularly on the leadership side of things or is there any more positions to
+                          be filled on the leadership side?
+
+
+            Angan Guha:   Anmol, thank you for that question. The hiring is almost done. I mean we always look at talent
+                          from time to time as we infuse talent as we become bigger and bigger. We will continue to look
+                          at talent. But from the hiring that we set out to do a couple of quarters back, all the leaders are
+                          on board now.
+
+
+
+
+                                                  Page 13 of 16
+
+Classification: Public
+
+                                                                                                          Birlasoft Limited
+                                                                                                          October 28, 2026
+
+            Anmol Garg    And with respect to that, since most of the hiring has been done, when can we expect the net
+                          new deals to start flowing in with respect to the sales hiring, which has been done? And also you
+                          have indicated that some of the deals have been shifted towards next quarter. So from that
+                          perspective, can we expect that 3Q deals to be better than the range that we have been having
+                          over the last couple of quarters? I'm talking about the net new deals?
+
+
+            Angan Guha:   So Anmol, look, I mean, like I said, the hiring is done, but we need to give the leaders to come
+                          in and settle down a couple of quarters before they become productive. So I'm not too sure
+                          whether we will be able to meaningfully show a difference in 3Q. It will be a little bit of a longer-
+                          term journey. But directionally, I can only tell you that our pipeline is looking stronger. A lot of
+                          AI-related conversations in our pipeline. And if we can convert some of those deals, then
+                          obviously, FY’28 will look better.
+
+
+                          On the other point in terms of the deals moving from one quarter to the other, that is, I think,
+                          BAU. Some deals do move. As long as we have not lost any deal, we are pretty confident that
+                          when the decision gets taken, we will be able to close it. But whether Q3 will be better than the
+                          last year's Q3, I can't comment right now because we still have about 60 days to execute, and we
+                          will continue to work on that execution plan.
+
+
+            Moderator:    Next question is from the line of Sudheer from Kotak Asset Management.
+
+
+            Sudheer:      Congrats on a good quarter. So, last one and a half year has been very muted for us because of
+                          multiple reasons, be it macro, some leadership churn, so on and so forth. So last quarter, we had
+                          seen some stability and September has seen very good growth acceleration. And now you are
+                          saying H2 will be better than H1. So with the leadership hiring now being behind and you
+                          expecting H2, in particular, Q4 to be very strong, Angan, is it fair to say that sans any major
+                          macro shocks, we have turned around the corner and incrementally things should only be better
+                          in terms of revenue growth? Is that a fair assessment to make even beyond H2?
+
+
+            Angan Guha:   So Sudheer, see, two things are very important here. First of all, you're absolutely right. After
+                          many, many quarters, I think almost six quarters, we've been able to deliver some meaningful
+                          growth, and we are pretty pleased with it. But equally, like I said, I don't think our order book
+                          was in line with what we thought.
+
+
+                          Now to say whether beyond H2, whether we will continue the growth momentum will all depend
+                          upon our signings in H2. If we can have great signings in H2, then of course, yes. I don't believe
+                          that we have turned the corner around yet. I think we have got a lot more work to do. And like
+                          I've been saying that our focus as a management team is to get our signings right. If we get our
+                          signings right, then book-to-bill ratio, I think we've done a great job. We've also done a
+                          reasonably okay job in downside protection. If we can get our signings right, then our company
+                          will do well. But we are not yet there. I mean our signings are not anywhere close to where it
+                          should be. And that's where the management team is focusing on.
+
+
+            Sudheer:      And when you're saying Q4 is actually the strongest this year, you mean to say this year, Q4 on
+                          a quarter-on-quarter basis will be the strongest. Is that a fair assessment?
+
+
+
+
+                                                  Page 14 of 16
+
+Classification: Public
+
+                                                                                                                 Birlasoft Limited
+                                                                                                                 October 28, 2026
+
+            Angan Guha:        Yes, provided like last quarter, we did -- like last year same quarter, we got a shock. If those
+                               kind of shocks are not there, then yes. But again, it's -- for us, in today's times, it's a little hard
+                               to predict so far out. I think let us just execute on our order booking. Like I said, the revenues
+                               will follow. And that's what we will be focusing on.
+
+
+            Moderator:         Next question is from the line of Girish Pai from BOB Capital Markets Limited.
+
+
+            Girish Pai:        Angan, you said that you're focusing on signings, deal signings. And a few quarters back, you
+                               said you will increase your sales force significantly by now. But when I look at the sales and
+                               support staff number, that is actually down on a year-on-year basis.So is it that the sales number
+                               -- employee number -- has gone up and the support staff number has gone down because it
+                               doesn't give you what has been the salespersons number there. So can you just throw some light
+                               there? Has the sales employee number gone up materially on a year-on-year basis? Because that
+                               is what you kind of indicated a few quarters back.
+
+
+            Angan Guha:        So Girish, first of all, we've done a good job in terms of rationalizing our support staff, no
+                               question. We've invested in sales. Sales numbers have gone up. If that was the question, sales
+                               numbers have gone up, whereas in the support staff, we've obviously taken some hard calls. But
+                               we are continuing to invest in capability and when I say capability, capability also means a lot
+                               of service line leadership and capability creators that we are investing in. So there are multiple
+                               investment areas. Now is it completed? No, we will continue to invest there. But by and large,
+                               90% of that work is already done. I hope that answers your question.
+
+
+            Girish Pai:        I had a few questions on your balance sheet. Your property, plant and equipment number is up
+                               significantly year-on-year. I also see that intangible -- other intangible assets have also gone up.
+                               Any light you can throw on these two items as to why these numbers are up on a year-on-year
+                               basis significantly? On an absolute basis, the numbers aren't too high, but the Y-o-Y growth is
+                               pretty substantial.
+
+
+            Chandrasekar T.:   Chandru here, and I'll take that question, Girish. I already spoke to you about, one of you asked
+                               a question around the depreciation and amortization going up. And this is because of from the
+                               tech infrastructure investment that we had made. And what you're seeing in the balance sheet
+                               has increased in PPE or property, plant, and equipment as I call it, it's because of this tech
+                               infrastructure and tech infrastructure refresh that we've done in the past quarter. Actually, we've
+                               been doing it in the past couple of quarters, and that will continue for a while. That's one.
+
+
+                               And second, on the other intangibles having gone up, with some of the investments that we
+                               continue to make in our capabilities, to the extent some of those investments can be amortized,
+                               we taking advantage of that within the accounting guidelines. And that is the reason why you
+                               are seeing that intangibles are going up as well on a year-on-year basis. Obviously, they will
+                               have a amortization cycle as determined by our internal accounting practices.
+
+
+            Moderator:         Ladies and gentlemen, as there are no further questions from the participants, I now hand the
+                               conference over to Mr. Angan Guha, CEO and MD, Birlasoft Limited, for closing comments.
+
+
+            Angan Guha:        I would like to once again thank all of you for joining us on this call today and for your interest
+                               in Birlasoft. The ongoing investments in our tech and domain capabilities and in our sales team
+
+                                                        Page 15 of 16
+
+Classification: Public
+
+                                                                                                                   Birlasoft Limited
+                                                                                                                   October 28, 2026
+
+                                         strengthens our confidence in the outlook for the future. Please feel free to reach out to
+                                         Abhinandan for any clarifications or feedback. And I look forward to speaking with you again.
+                                         Thank you.
+
+
+            Moderator:                   Thank you very much. On behalf of Birlasoft Limited, that concludes this conference. Thank
+                                         you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+            (This document has been edited for readability purpose)
+
+
+
+
+            Contact information:
+
+
+            Mr. Abhinandan Singh, Global Head – Investor Relations
+            Email: abhinandan.singh@birlasoft.com
+
+
+            Registered office:
+            35 & 36, Rajiv Gandhi Infotech Park, Phase – 1, MIDC,
+            Hinjawadi, Pune (MH) 411057, India
+            CIN: L72200PN1990PLC059594
+            www.birlasoft.com
+
+
+
+
+                                                                Page 16 of 16
+

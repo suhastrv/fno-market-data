@@ -1,0 +1,902 @@
+Date: November 12, 2026
+
+To,                                                 To,
+BSE Limited                                         National Stock Exchange of India Limited
+Listing Dept. / Dept. of Corporate Services,        Listing Dept., Exchange Plaza, 5th Floor, Plot No.
+Phiroze Jeejeebhoy Towers, Dalal Street,            C/1, G. Block, Bandra-Kurla Complex, Bandra (E),
+Mumbai - 400 001.                                   Mumbai - 400 051
+Security Code: 544176
+Security ID : AADHARHFC                             Symbol: AADHARHFC
+
+Kind Attn.: Listing Corporate Relationship Department
+
+Sub:- Intimation under Securities and Exchange Board of India (Listing Obligations and
+      Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”)-Transcript
+
+
+Dear Sir/Madam,
+
+Pursuant to Regulation 30 read with Schedule III of SEBI LODR Regulations and with reference to our
+prior intimation filed in this regard please find enclosed the transcript of the Earnings Conference Call on
+the financial performance of the Company for the quarter and half year ended September 30, 2026, held
+on Thursday, November 05, 2026.
+
+The above information is also available on the website of the Company and can be accessed at:
+
+https://aadharhousing.com/investor-relations/financial-results
+
+The above is for your information, records and dissemination please.
+
+Thanking you.
+For Aadhar Housing Finance Limited
+
+RAJESH Digitally
+       by RAJESH
+                 signed
+
+VISWAN VISWANATHAN
+       Date: 2026.11.12
+ATHAN 11:16:03 +05'30'
+Rajesh Viswanathan
+Chief Financial Officer
+
+Encl.: As above
+
+CC:- Debenture Trustees-
+1. Beacon Trusteeship Limited
+2. IDBI Trusteeship Services Limited
+
+           “Aadhar Housing Finance Limited
+         Q2 FY27 Earnings Conference Call”
+                  November 05, 2026
+
+
+
+
+MANAGEMENT: MR. RISHI ANAND – MANAGING DIRECTOR AND CHIEF
+            EXECUTIVE OFFICER – AADHAR HOUSING FINANCE
+            LIMITED
+            MR. RAJESH VISWANATHAN – CHIEF FINANCIAL
+            OFFICER – AADHAR HOUSING FINANCE LIMITED
+            MR. SANJAY MOOLCHANDANI – HEAD, FP&A AND
+            INVESTOR RELATIONS – AADHAR HOUSING FINANCE
+            LIMITED
+
+MODERATOR:   MS. SHREYA SHIVANI – NOMURA
+
+
+
+                        Page 1 of 14
+
+                                                                           Aadhar Housing Finance Limited
+                                                                                       November 05, 2026
+
+Moderator:        Ladies and gentlemen, good day and welcome to Aadhar Housing Q2 FY 2027 Earnings
+                  Conference Call hosted by Nomura. As a reminder, all participant lines will be in listen-only
+                  mode, and there will be an opportunity for you to ask questions after the presentation
+                  concludes. Should you need assistance during this conference call, please signal an operator by
+                  pressing star then zero on your touch-tone phone. Please note that this conference is being
+                  recorded.
+
+
+                  I now hand the conference over to Ms. Shreya Shivani from Nomura. Thank you, and over to
+                  you, ma'am.
+
+
+Shreya Shivani:   Thank you. Very good evening to all. Welcome to the second quarter FY 2027 earnings call of
+                  Aadhar Housing Limited. On behalf of Nomura, I would like to thank Aadhar management for
+                  giving us the opportunity to host this call. From management side, we have with us Mr. Rishi
+                  Anand, MD and CEO, Mr. Rajesh Viswanathan, CFO, and Mr. Sanjay Moolchandani, Head of
+                  FP&A and Investor Relations. I will now hand over the call to Rishi sir for his opening
+                  remarks, and then we can open the floor for Q&A. Over to you, sir.
+
+
+Rishi Anand:      Great. Thank you so much, Shreya, and a very good evening to all of you. Thank you for
+                  joining us to discuss Aadhar Housing Finance's Q2 and H1 FY 2027 performance. Before
+                  discussing our performance on Q2, I would want to take a moment and express my deepest
+                  condolences on the sad demise of our esteemed Independent Director and Non-Executive
+                  Chairperson, Shri Raj Vikash Verma, on the 16th October.
+
+
+                  His invaluable contribution and guidance have been integral to Aadhar's journey, and his
+                  insights and wisdom will deeply be missed across the organization. May he rest in eternal
+                  peace. Following this unfortunate event, and in accordance with the applicable regulatory
+                  requirements, Shri Deo Shankar Tripathi, previously Executive Vice Chairman of the
+                  company, has been appointed as Interim Non-Executive Chairman.
+
+
+                  I would also like to welcome Shri Nikhil Goyal, Managing Director, Blackstone, who has
+                  joined our Board as an Additional Director with effect from 12th of August 2026. With his
+                  experience in private equity and investments, including banking and financial services, we
+                  believe he will bring in valuable investment perspective to the Board and further strengthen
+                  our focus on disciplined growth and long-term value creation.
+
+
+                  Now, coming to company's performance. During the first half of FY 2027, we continued to
+                  build on our execution momentum with a focus on disciplined growth, calibrated risk
+                  management, and improving productivity across our branch network. Our approach remains
+                  consistent, expanding access to affordable housing finance while maintaining asset quality,
+                  profitability, and sustainable returns. Our AUM as of 30th September 2026 stood at
+                  INR32,643 crores, registering a Y-o-Y growth of 18%.
+
+
+                  Disbursement for Q2 FY 2027 stood at INR2,577 crores, representing a Y-o-Y growth of 22%.
+                  As all of you would recall, from Q1 FY 2027, we transitioned into recognizing disbursement
+                  on cheque realization basis instead of cheque handover basis. Hence, on a like-to-like basis,
+                  disbursement growth in H1 FY 2027 on a Y-o-Y basis is 21% and AUM growth is 20%.
+
+
+                                          Page 2 of 14
+
+                                                            Aadhar Housing Finance Limited
+                                                                        November 05, 2026
+
+Looking ahead, we remain committed to our medium-term guidance of 18% to 20%
+disbursement growth and 20% AUM and PAT growth for the full year.
+
+
+Our portfolio continues to remain fully secured and retail in nature, with home loans
+accounting to 73%, non-home loans accounting to 27% of our AUM. Our average ticket size
+stood at INR11.3 lakh, with a loan-to-value ratio at comfortable 61%. The salaried segment
+contributed 55% of our AUM, reflecting a diversified nature of our portfolio.
+
+
+Balance transfer outflows during the quarter two FY 2027 was at 5.1%, which improved by 40
+basis points as compared to Q2 FY 2026, supported by focused retention efforts and AI-driven
+customer engagement. On asset quality, our portfolio continues to remain well secured,
+supported by disciplined underwriting and strong focus on collections. Collection efficiency
+for the said quarter stood at 99%, while gross NPA stood at 1.34% as of September 2026,
+which is an improvement of 8 basis points on a Y-o-Y basis.
+
+
+We also remain mindful of external factors as we grow business, including geopolitical
+developments and on the strengthening El Niño conditions that can impact the borrower's cash
+flow, particularly in the semi-urban markets. Our approach to assess the risk at the customer
+and the branch level and respond appropriately without resorting to broad-based tightening of
+underwriting norms.
+
+
+In addition, we closely monitor customers' overall repayment obligations and credit exposures
+to ensure that lending decisions remain aligned with their repayment capacity. This is
+particularly important as we deepen our presence in underserved market while safeguarding
+portfolio quality. Our AUM is well diversified across geographies, with no single state
+accounting for disproportionate large share of portfolio.
+
+
+During the quarter, we expanded our footprint to Jammu, an important territory for us, by
+adding one branch there, taking our network to 632 branches across now 23 states and
+covering over 555 districts as of September '26. We continue to follow a calibrated demand-
+based expansion approach with a focus on markets where we see sustainable demand and
+potential to build a productive business over a period of time. We also remain focused on
+improving our productivity of our existing branches.
+
+
+Our objective is to ensure that newer branches reach expected productivity levels within
+planned timelines, while the established branches continue to improve sourcing productivity,
+customer retention, and operating efficiency. During the quarter in question, I am proud to say
+that our credit profile was further strengthened with India Ratings and ICRA upgrading our
+long-term rating to AA+ stable.
+
+
+Now all the three rating agencies, that is India Ratings, CARE, and ICRA, have rated the
+company AA+ on a stand-alone basis. These rating upgrades recognize our scale, strong
+capitalization, and diversified access to funding. They also strengthen our position to optimize
+borrowing costs over a period of time, subject to prevailing market conditions. On technology,
+we continue to leverage AI and data analytics to strengthen business operations across the
+
+
+
+
+                        Page 3 of 14
+
+                                                                                 Aadhar Housing Finance Limited
+                                                                                             November 05, 2026
+
+                      lending cycle, including origination, underwriting, portfolio monitoring, collection, and
+                      customer retention.
+
+
+                      We are also building in-house platforms across document intelligence, voice intelligence,
+                      decisioning intelligence, enterprise access, and management intelligence to improve
+                      information processing, decision-making, and support for our teams. As we scale, technology
+                      will be key to improving operating efficiency, strengthening risk management, and enabling
+                      growth without compromising on execution quality or governance.
+
+
+                      Coming to the industry, demand for affordable housing finance continues to be supported by
+                      structural need for home ownership and expansion of formal credit to underserved markets.
+                      We continue to see opportunities in Tier 2, Tier 3, and beyond in the emerging markets, where
+                      first-time home buyers and customers with informal income profiles require a specialized
+                      approach in housing finance. At the same time, competition is increasing, making it important
+                      for lenders to develop new catchments while improving productivity and customer retention in
+                      the existing markets.
+
+
+                      In the recent revision in RBI monetary policy, with 25 basis points increase in repo rate to
+                      5.5% and a shift towards calibrated tightening, marks a change in the interest rate environment.
+                      While the impact on borrowing cost and housing affordability will depend on the extent and
+                      timing of transmission, we remain mindful of its implication both for customers and lenders.
+
+
+                      In this environment, our focus will be to continue on prudent underwriting, disciplined
+                      funding, and margin management while catering to underlying demand for the affordable
+                      housing finance and maintaining the quality of our portfolio. Our approach is to protect
+                      spreads rather than chase yields.
+
+
+                      We continue to focus on emerging markets, maintain discipline in our Loan Against Property
+                      portfolio, and improve productivity per branch and per employee to support sustainable
+                      growth. Overall, H1 FY 2027 has been a quarter of steady execution.
+
+
+                      We remain confident of delivering our medium-term guidance of 20% AUM and PAT growth,
+                      sustained profitability, and industry-leading asset quality while staying alert on the
+                      environment around us. We expect our disbursement momentum to continue and are confident
+                      of delivering a 20% plus disbursement growth in the second half of the year. Aadhar remains
+                      committed to its mission of enabling home ownership for low-income families while
+                      delivering consistent and sustainable returns for its stakeholders.
+
+
+                      With that, I would now hand over to Rajesh, our CFO, to take you through the financial
+                      performance in detail.
+
+
+Rajesh Viswanathan:   Thanks, Rishi. Good evening, everyone. I would like to take you all through the financial
+                      performance of quarter two FY 2027 and H1 FY 2027. In quarter two, our disbursements have
+                      grown at 22% on a year-on-year basis. Adjusting for the impact of Q1 shifting to recognizing
+                      disbursement on a check clearance basis, the AUM at 30th September has grown by a healthy
+                      20% on a year-on-year basis.
+
+
+
+                                               Page 4 of 14
+
+                                                                          Aadhar Housing Finance Limited
+                                                                                      November 05, 2026
+
+              Our overall borrowings on 30th September stood at INR20,400 crores compared to INR17,600
+              crores on 30th September 2025. The borrowing mix as at end of 30th September 2026 is 53%
+              from banks, NHB share is 22%, NCD share is 15%, ECB is 7%, and others are 3%. Our
+              incremental borrowings for quarter two FY 2027 stood at INR1,550 crores, which has come in
+              at a competitive 7.5%. There was no fresh drawdown from NHB during the quarter two. We
+              have 43 borrowing relationships.
+
+
+              The exit cost of funds as of September 30, 2026, stood at 7.7%. In terms of fixed and floating
+              nature of our book, broadly 75% of our assets and liabilities are floating in nature. This gives
+              us the ability to reprice our assets whenever the change in interest rate happens and we get
+              passed on by banks or other floating -rate liabilities.
+
+
+              Undrawn sanctions as of September 30, 2026, is INR1,466 crores. Further, in this week, we
+              have received a fresh sanction of INR1,000 crores from National Housing Bank. Liquidity at
+              the end of quarter two FY 2027 stood at INR2,040 crores. The portfolio yield exit is 13.4% as
+              at the end of quarter two FY 2027, and the exit spread stood at 5.73%.
+
+
+              Operating expenses includes a charge to the profit and loss of INR28 crores in H1 and INR14
+              crores in quarter two FY 2027 on account of stock options under the employee stock option
+              scheme, which started in January 2026. This was given to employees at an exercise price of
+              INR425 per share. Adjusted for this item, the cost to income is 33.9%, which is a year-on-year
+              decline of 230 basis points, and 34% in H1 FY 2027, which is a year-on-year decline of 215
+              basis points.
+
+
+              The GNPA as of September 30, 2026, is 1.34% as compared to 1.42% in quarter two FY 2026,
+              while the NNPA on AUM stood at 1% in quarter two FY 2027 versus 1% in quarter two FY
+              2026. The Stage 3 provision coverage ratio currently stands at a healthy 34.5%. Capital
+              adequacy ratio for quarter two FY 2027 stood at 41.7% for Tier 1 and 0.5% for Tier 2.
+
+
+              For H1 FY 2027, the PAT has come in at a healthy INR591 crores compared to INR504 crores
+              in quarter two FY 2026. For quarter two FY 2027, PAT has come in at INR308 crores
+              compared to INR266 crores in quarter two FY 2026. Adjusted for ESOP cost, the PAT has
+              grown by 22% in H1 and a growth of 20% in quarter two FY 2027. The quarter two FY 2027
+              ROA and ROE are 4.2% and 15.2% respectively.
+
+
+              Again, adjusted for ESOP cost, the ROA and ROE will stand at 4.4% and 15.8% for quarter
+              two, and 4.3% and 15.5% for H1 FY 2027. The number of employees as at the end of
+              September 30, 2026, on roll was 6,112 employees. We are reiterating that we are focusing on
+              maintaining a healthy book and delivering a consistent performance on a quarterly basis.
+
+
+              With that, we can open up for further questions.
+
+
+Moderator:    Thank you very much. We will now begin the question-and-answer session. The first question
+              is from the line of Kunal Shah from Citi. Please proceed.
+
+
+Kunal Shah:   Yes. Hi. Seasons greeting to the entire team. So, three questions. Firstly, on GS2 in particular,
+              anything to read into it in terms of the increase which has been there on a quarter-on-quarter
+
+
+                                       Page 5 of 14
+
+                                                                                  Aadhar Housing Finance Limited
+                                                                                              November 05, 2026
+
+                      basis from 3.3% to almost 3.55%? So, anything to read into it, any particular states which are
+                      leading to this kind of an increase? So, that's the first question. Second question is on overall
+                      assignment income. So, that's been slightly on a higher side.
+
+
+                      So, if you can just quantify in terms of how the overall assignment, the fresh assignment has
+                      been during the quarter, and is that traction going up? And thirdly, in terms of the overall cost
+                      of funds, so it's a rising rate environment, there is credit rating upgrade as well. Next quarter,
+                      we will have maybe the drawdown from NHB sanctions. So, how should we overall see the
+                      movement of cost of funds and spreads in the second half?
+
+
+Rajesh Viswanathan:   I'll take the third question, which is the easiest of the three questions. Kunal, heartiest season's
+                      greetings for the entire team over here. I think, as we said, in the current interest rate
+                      environment with RBI increasing the rates, and since majority of our borrowings also linked to
+                      being floating rate, approximately 75%, there is going to be a time effect by which this is
+                      going to flow down to us, whether repo linked, whether MCLR linked.
+
+
+                      The best thing is that 75% of our assets are also floating. So, this gives us the ability to pass on
+                      the rates to the customers. As we have explained in the past, whenever we see the higher cost
+                      of funds coming into our balance sheet, maybe at maximum with a quarter lag, we will take it
+                      to the ALCO, and once the ALCO approves as per the RPLR model of the company, we pass it
+                      on to the consumer.
+
+
+                      So, we have the ability to pass to the customers. So, to a great extent, our spreads will not be
+                      really impacted because of this interest rate scenario. There could be an impact of maybe a
+                      quarter, which is an interim timing effect.
+
+
+Kunal Shah:           But no decision on rate hike as of now, no?
+
+
+Rajesh Viswanathan:   No decision on rate hike as of now. We will have a meeting of the ALCO probably in the third
+                      quarter, probably in December or January, and we will take a call at that point of time,
+                      depending how about the RBI announcement happening in January. Your second question was
+                      assignment. The way of looking at assignment, Kunal, you will appreciate, is not only the fresh
+                      assignment income, but also the assignment unwinding, which happens in the interest line. The
+                      net impact of new assignment income and unwinding, Q2 versus Q2 last year, is only about
+                      INR10 crores higher. So in that sense, the way of looking at it is that the profit of the current
+                      quarter is only impacted because of assignment income by a INR10 crores impact (PBT Level)
+                      because of higher assignment that we have done.
+
+
+                      Broadly, the way of looking at assignment is that probably during the year, we will probably
+                      end up doing around INR2,000 crores of assignment during the current financial year. This is
+                      in line with what we had predicted during the current year. Last year, we had done, I think,
+                      approximately INR1,700 crores-INR1,800 crores of assignment. Current year, we will be
+                      doing anywhere between INR2,000 Crore and INR2,050 Crore of assignment.
+
+
+                      In terms of GS2, I think it is more of a seasonality sort of a moment. We are not seeing any
+                      specific state or any cause of undue worry in terms of this 30 basis points moment on the GS2.
+                      At least for now, we do not have any reasons for an undue sort of worry on that. And if you
+
+                                               Page 6 of 14
+
+                                                                                 Aadhar Housing Finance Limited
+                                                                                             November 05, 2026
+
+                      look at it on a September 25 versus a September 26 basis, in fact, it is fairly comparable. I
+                      wouldn't read too much, and Rishi wants to add something on that.
+
+
+Rishi Anand:          No, I was wanting to just add the September year-over-year quarter-on-quarter, a 3.5 versus a
+                      3.55. Kunal, I think Rajesh has already answered that question. I don't see too much of worry
+                      and not to be read between the lines, but it is more of a seasonality impact right now, and we
+                      are obviously closely monitoring the entire scenario.
+
+
+Kunal Shah:           Okay, got it. Because last September, it came down from 3.7 to 3.5, so I'm not sure if there is a
+                      seasonality. Last year from Q1 to Q1, it was down 20 basis points. This quarter, it is up 25
+                      basis points, Yes.
+
+
+Rishi Anand:          Yes, you're right. But as I told you, since we are monitoring it very closely, and Rajesh also
+                      made that point that we are monitoring it by market, and we don't see any spurt happening in
+                      any particular market. And we're very confident of delivering the guidance numbers on a
+                      yearly basis that we've given. The teams are in control, money is coming in, so that's the
+                      situation.
+
+
+Rajesh Viswanathan:   See, as we look at it, I mean, just I'm pre-empting a question which may come up later in this
+                      call. I think we are quite confident. We have always been holding out a credit cost number as a
+                      guidance of 25 basis points. I think we are quite confident as we end the year, our credit cost
+                      will be aligned with the 25 basis points, and the headline NPA would be in the range of about
+                      1.10%-1.15%. We are quite confident of drawing these back and the credit cost back to our 25
+                      basis points as we end the financial year.
+
+
+Kunal Shah:           Great. Thanks. That answers all the question. Thank you.
+
+
+Rishi Anand:          Thank you, Kunal.
+
+
+Moderator:            Thank you. The next question is from the line of Sonal Gandhi from Asian Markets Securities.
+                      Please proceed.
+
+
+Sonal Gandhi:         Hi, team. Thank you for taking my question. Just for clarification, to start with, when you
+                      mentioned that 20% PAT growth, is that adjusted PAT growth for the ESOP cost or overall
+                      PAT growth that we see the reported PAT growth?
+
+
+Rajesh Viswanathan:   The 20% is after ESOP, is adjusted for ESOP cost.
+
+
+Sonal Gandhi:         Adjusted for. And sir, for how long will this cost continue in our P&L?
+
+
+Rajesh Viswanathan:   The ESOP which has been given is given in January 2026, and the way the accounting
+                      standard places that the cost should be taken, the value of the option should be taken over a
+                      period of five years. And typically, what will happen is the maximum charge actually comes in
+                      the first year, and as we go into year two, year three, year four, the charge on this keeps on
+                      dropping.
+
+
+
+
+                                               Page 7 of 14
+
+                                                                                  Aadhar Housing Finance Limited
+                                                                                              November 05, 2026
+
+                      On a very theoretical sense, if value of the option is 100, theoretically about 40% of the cost
+                      comes in first year, and approximately 30% of the cost comes in the second year. The first and
+                      the second year which are material, third year onwards, the cost drops on drastically.
+
+
+Sonal Gandhi:         Third question was on disbursements. In home loans, obviously there is base impact also, but
+                      the growth seems to be very strong. But when I look at other mortgage loans or non-home
+                      loans, over there, the last four, five quarters, the growth has been lagging.
+
+
+                      I understand that you have tightened the underwriting for non-home loans, but just going
+                      ahead, how should we see growth coming in non-home loan segment? And if you could just
+                      help us with the asset quality in home loans and non-home loan segments.
+
+
+Rishi Anand:          Sonal, yes, you are right. You recall that we had tightened other, which is non-housing loans in
+                      quarter four of last year. I had made this comment in quarter one as well that we have started
+                      to open the lever. If you look at the quarter one to quarter two performance, I think the number
+                      has moved from a 24% to a 26%. We have opened whatever levers had to be opened. From
+                      here on, I think by the end of this year, we should stabilize at about 28% odd.
+
+
+                      Next year, we carry on to about 70%/30% as 70/30 home loan to non-home loan. That piece
+                      looks very comfortable. Yes, last year we looked at the markets very carefully, and hence we
+                      had shut down a few options of NHL funding that we used to do. As I told you, we have
+                      already opened that. I do not see any reasons why the numbers should not be back to about
+                      28% by the end of quarter four.
+
+
+Sonal Gandhi:         Sure.
+
+
+Rishi Anand:          You had a specific part of the question?
+
+
+Sonal Gandhi:         Yes, on the asset quality or GNPA.
+
+
+Rajesh Viswanathan:   I think on the asset quality of GNPA, HL is broadly at 1%. NHL will be around 2%, and the
+                      blended comes in at 1.34%.
+
+
+Sonal Gandhi:         If you could just help with the number last year, same quarter?
+
+
+Rajesh Viswanathan:   It was 1.2% for HL and 2.01% for NHL.
+
+
+Sonal Gandhi:         Okay. Also, just one observation, in U.P. markets, the growth seems to be a little low and
+                      pretty strong in Karnataka. Are there any challenges that you're facing in this market?
+
+
+Rishi Anand:          Sorry, repeat the question. You will have to repeat the question, please.
+
+
+Sonal Gandhi:         Sir, U.P. market, when I look at your annual growth, it seems to be slightly lower at about 9%
+                      versus your blended growth at about 18%. Karnataka seems to be very strong. Obviously, the
+                      base is also lower. Are there any challenges that you are facing in the U.P. market?
+
+
+Rishi Anand:          Sonal, I don't see any challenge in the If I look at my numbers, disbursement growth in U.P.
+                      has been about 23%. Karnataka has been similar, 23%. I think it is all about, U.P. is a very old
+
+
+                                               Page 8 of 14
+
+                                                                            Aadhar Housing Finance Limited
+                                                                                        November 05, 2026
+
+                 book. That was the first state that we started. So, it is a vintage book, and rundown will be
+                 slightly faster. I think that is the impact that you are seeing. But broadly, on disbursement, as I
+                 told you, 23%, 24% in both the states.
+
+
+Sonal Gandhi:    Yes. That answers my question. Thank you so much.
+
+
+Rishi Anand:     Thank you.
+
+
+Moderator:       Thank you. The next question is from the line of Bharat Kumar Radhakrishnan from JM
+                 Financial. Please go ahead.
+
+
+Arun:            Hi, sir. Thank you for the opportunity. This is Arun from JM Financial. Just a couple of
+                 questions from my side. One, if you can give the disbursement growth that is expected for Q3,
+                 and if you have run rate numbers for maybe October currently for disbursement. That is my
+                 first question. The second is more on the insurance income piece.
+
+
+                 With respect to the new IRDAI regulations, what kind of impact are you expecting, and how
+                 do you plan to offset that, et cetera? Then, with respect to the increase in Stage 2, just to
+                 clarify, you already answered the question, but do you see any particular geographies that are
+                 kind of showing any signs of stress that are coming up? These are my questions. Thank you.
+
+
+Rishi Anand:     Thank you, Bharat. Your first question was on disbursement growth Q3, and October numbers.
+                 October numbers, we are very comfortable. From an average of about INR800, we moved
+                 upward to about close to about INR900, so numbers are stacking up good. In terms of
+                 disbursement growth for the quarter, we are looking at a minimum of 20% growth for Q3, as I
+                 indicated in my statement as well.
+
+
+                 Stage 2, while we have answered in detail, but your question was very specific to any
+                 particular geographies, and I answered that already, that no particular geographies we are
+                 seeing any undue movement in terms of Stage 2. Even if I would want to cover here that even
+                 on bouncing, which is my first line of defence, we are not seeing any undue movement across
+                 various states that we cater to today.
+
+
+                 The third one on insurance, I think, these were draft guidelines. The entire industry has sent
+                 out their recommendation. We will have to wait out for the final guidelines to come in. Having
+                 said that, we work with multiple levers. There are levers like fee income, there are levers like
+                 Opex. If it were to be calibrated as and when the final guidelines come, we will do that
+                 calibration, ensure that our guidance number are stacked in comfortably.
+
+
+Arun:            Okay. All right. Thank you, sir.
+
+
+Moderator:       Thank you. The next question is from the line of Kishan Rungta from Emkay Global. Please
+                 go ahead.
+
+
+Kishan Rungta:   Thanks for the opportunity, sir, and congratulations on a good quarter. My first question is
+                 with regard to your cost of fund, because as you highlighted on the opening remarks also, that
+                 we have got the rating upgrade from all of the three agencies. How do we see the cost of fund
+
+
+                                          Page 9 of 14
+
+                                                                                 Aadhar Housing Finance Limited
+                                                                                             November 05, 2026
+
+                      trending from here, though there is some rate hike, repo hike that we are going to factor in?
+                      Also, are we going to pass on some of the benefits to the customer? That is my first question.
+
+
+Rajesh Viswanathan:   I will take the first question. I think the way of looking at cost of funds post-upgrade is that we
+                      get the benefit twofold. One is on the rating when we do an NCD issuance. An NCD issuance
+                      of an AA+ versus an AA could be anywhere 20-30 basis points cheaper, you would be able to
+                      get that. Depending on the market, sometimes it is 10-15, sometimes it is 20-30, so you can
+                      look at an average of about 20 basis points.
+
+
+                      The second is, more interestingly, it allows us to tap certain pools of lenders who normally do
+                      not lend to an AA company. For example, pension funds, for example, life insurance
+                      companies. They are more comfortable lending to AA+ companies, and they need at least two
+                      rating agencies for the AA+.
+
+
+                      Now that we have had three rating agencies at AA+, it opens up new pools of capital, and you
+                      will appreciate pension funds and life insurance come in with a higher tenor. To that extent, it
+                      gives me more comfort on the overall ALM bit. Now, incremental cost of funds is always an
+                      input to our overall RPLR model.
+
+
+                      In the current interest rate scenario, where on one side the interest rate is going up, banks will
+                      pass on the interest rate on my floating rate book, which is approximately 75% of the liability.
+                      There is one element of my incremental funds getting some benefit on NCDs on fresh
+                      placement. We will take all of this input, put it into our RPLR model, and post that whenever
+                      we see an impact occurring to the customer, positive or negative, we will pass it on.
+
+
+                      Secondly, incremental cost of funds is more baked in into our incremental lending rate. If I
+                      consistently get incremental cost of funds at lower rate, this will benefit incremental lending of
+                      my consumers. As I said, RPLR model is the final source of truth.
+
+
+                      If RPLR model shows a benefit to the customer, it gets passed on. If it shows an impact to the
+                      customer, it gets passed on the consumer. Currently, the interest rate scenario is such that
+                      invariably you will have the interest rate going up from here depending on the RBI rate hike.
+                      75% of our assets and 75% of our liabilities are floating, and we have the full capability of
+                      passing the impacts back to the consumer.
+
+
+Kishan Rungta:        Thanks
+
+
+Rishi Anand:          There was another question where when will we pass the benefit to the consumer? We already
+                      addressed that. We will wait out till December and look at the RBI policy. Right now, the
+                      RPLR model within the company is not showing a substantial increase to be passed on to the
+                      consumer. As and when it happens, post-December, the internal ALCO will meet, and then at
+                      that time we will decide on how to pass.
+
+
+Kishan Rungta:        Thanks for such a detailed answer, sir. Second question will be with regards to your opening
+                      remarks on the calibrated underwriting in some of the geographies. Sir, if you can just give
+                      more color with regard to which geographies are these? Are these like the states where
+
+
+
+                                              Page 10 of 14
+
+                                                                                 Aadhar Housing Finance Limited
+                                                                                             November 05, 2026
+
+                      droughts are declared, or it is like a business as usual, like you see some of the geographies
+                      where you haven't seen stress in the past or anything of such, sir?
+
+
+Rishi Anand:          When I said calibrated underwriting, I meant historically, we are a 15-year-old company. We
+                      have various experiences and differential experiences in differential markets. That is what I
+                      meant calibrated underwriting. For example, in East, for example, in Kerala, we always do
+                      calibrated underwriting. As far as you use the word drought, I would want to bring out a point
+                      here that out of about 88 high-priority districts under El Niño, we are available only in 30
+                      districts.
+
+
+                      Close to 5%-6% of my AUM would be in those districts. In those districts, our risk team is
+                      already looking at, and I made this statement that our first line of defence happens to be
+                      bounce. In the current cycle of EMI banking, that is what we are closely monitoring, that if
+                      bounce moves. Right now, it is completely stable.
+
+
+Kishan Rungta:        Got it, sir. Thanks a lot for such a detailed answer, sir. Wish you all the best for the coming
+                      quarters. Thank you.
+
+
+Moderator:            Thank you. The next question is from the line of Chirayu Maloo from Kotak. Please proceed.
+
+
+Chirayu Maloo:        Hi. Thank you for taking my questions. I have two questions. First one is on credit cost. In first
+                      quarter, you reported 41 basis points credit cost on average AUM, and you guided for 23 basis
+                      points - 25 basis points. Second quarter credit cost was 30 basis points, which was again higher
+                      than the guided range.
+
+
+                      Was it again due to seasonality and an increase in Stage 2, or is there something more to read
+                      into it? This was my first one. The second one is more from a data-keeping point of view. First
+                      quarter, you changed the disbursement recognition method. Can I get the AUM and
+                      disbursement in absolute amount on the old methodology for the second quarter?
+
+
+Rajesh Viswanathan:   I will take the second call. Our guidance on credit cost is always an annual number. The annual
+                      number was 25 basis points.
+
+
+Rajesh Viswanathan:   We have shown 31 basis points for quarter two. We are confident of ending the whole year on
+                      25 basis points on assets. On an AUM, it will be around 22, 23 basis points.
+
+
+Rishi Anand:          Yes. The second one, Chirayu Malu, the differential, the way you should look at it is when we
+                      entered the quarter one this year, financial year, the differential between what we used to do
+                      previous year versus this year is about close to about INR350 crores of reduced disbursement
+                      on account of moving to clearance.
+
+
+Chirayu Maloo:        Okay.
+
+
+Rishi Anand:          Yes.
+
+
+Chirayu Maloo:        And this time, what is the difference?
+
+
+
+
+                                               Page 11 of 14
+
+                                                                                 Aadhar Housing Finance Limited
+                                                                                             November 05, 2026
+
+Rishi Anand:          There is no more difference. Now, whatever is everything, the company has moved completely
+                      to clearance, there will be no more difference. When we move to the current financial year, if I
+                      were to compare Q1 FY 2026 and FY 2027, the differential would be about INR350 crores.
+
+
+Chirayu Maloo:        If I look at the number of disbursement on the old methodology for the second quarter, the
+                      number would be different.
+
+
+Rishi Anand:          It will be much higher. While I do not have a number what it could have been, because this is
+                      anticipation of what it could have been, on a safer side, maybe 200-250 crores higher.
+
+
+Rajesh Viswanathan:   We were accounting for disbursements on cheque handover. We moved to clearance on 1st of
+                      April.
+
+
+Rishi Anand:          Right.
+
+
+Rajesh Viswanathan:   What has happened is in quarter two, it has got evened out completely. Whether you do cheque
+                      handover or you do clearance, it has got evened out.
+
+
+Rajesh Viswanathan:   Because what happens is typically, if you do disbursement of INR100 in a month,
+                      approximately INR60 is cleared in the same month, INR30 gets cleared in the second month,
+                      and the remaining gets cleared in the third month. Once you come to this, and if you do the
+                      math from April, when you come into quarter two, you would see that in the quarter two, you
+                      would have evened out.
+
+
+                      So technically, in quarter two, whether you are on cheque handover basis or on cheque
+                      clearance basis, it is a similar comparison. That is why we have not called out a separate
+                      number for cheque handover and clearance in quarter two. The impact was seen only at the end
+                      of quarter one.
+
+
+Rishi Anand:          Yes, if I can add to that, in the previous avatar, last financial year, we would typically, as a
+                      metric, monitor sanction, disbursement, cheque handover. In the current avatar, we monitor
+                      sanction, disbursement, and clearance. It is as simple as that.
+
+
+Chirayu Maloo:        Understood. Thank you for answering my questions. That is all from my side.
+
+
+Moderator:            Thank you. The next question is from the line of Laksh from Share India Securities. Please
+                      proceed.
+
+
+Laksh:                Hello. Thank you for the opportunity. Sir, I just had a couple of questions. Firstly, your branch
+                      addition has been seen declining. We have opened only four branches since last few quarters.
+                      Any specific reason for this, or will we go slow down on the branch additions going ahead?
+                      Secondly-
+
+
+Rishi Anand:          Laksh, okay, Yes, please continue. I will answer it together.
+
+
+Laksh:                Okay. Secondly, our BT out has been 5.1% this quarter as compared to 5% in the previous.
+                      How should we read into this since you also mentioned in your opening statement that we are
+                      seeing increased competition?
+
+                                              Page 12 of 14
+
+                                                                            Aadhar Housing Finance Limited
+                                                                                        November 05, 2026
+
+Rishi Anand:      Okay, first question first. Thank you, Laksh. Branch addition, our guidance to the market and
+                  to all of you has been that we will add 40 to 50 branches for the current financial year. We
+                  have added about five, six branches as we speak, and there are close to about 40 branches in
+                  pipeline, which will be various category of branches. We should be definitely ending the year
+                  anywhere between 40 - 50 branches. That commitment stands.
+
+
+                  BT out, 5%-5.1%, again, seasonality, generally in the quarter one of the financial year, the BT
+                  out activities are low, and it is quarter two, quarter three onwards when it picks up. I think we
+                  are in a very comfortable position. We have shown a 40 basis points drop on a Y-o-Y basis.
+                  There is a 40 basis points drop on annualized BT out percentage.
+
+
+                  I will not link it to competition, because primarily competition, because I think the industry
+                  today hovers around 6.5%, 7% BT out percentages. We have controlled through our data
+                  analytic and AI initiatives, and obviously, there is a team out working on it. 5%, 5.1% is a very
+                  comfortable number to be in.
+
+
+Laksh:            Okay, sir. Thank you for the detailed answer. Wish you a happy Diwali in advance and good
+                  luck for the year. Thank you.
+
+
+Rishi Anand:      Thank you so much. Bye-bye.
+
+
+Moderator:        Thank you. The next question is from the line of Devesh Trivedi from Omega Portfolio. Please
+                  go ahead.
+
+
+Devesh Trivedi:   Yes, thank you for the opportunity. There was an article suggesting that NHB may increase its
+                  outlet towards the affordable housing finance companies. If this materializes, then what kind of
+                  benefit we can expect in terms of source of funds?
+
+
+Rishi Anand:      Okay. Devesh, yes, we read the article. We have been engaging with NHB. There is no circular
+                  from NHB as yet on an increased outlay, so I will leave media reports to media. But post that,
+                  obviously, we are engaging a lot with NHB, and hopefully, indications are on a very positive
+                  side, but there is no number to it right now.
+
+
+Devesh Trivedi:   Oh, okay. Okay. Understood. Thank you.
+
+
+Rishi Anand:      Thank you, Devesh.
+
+
+Moderator:        Thank you. The next question is from the line of Shreya Shivani from Nomura. Please
+                  proceed.
+
+
+Shreya Shivani:   Yes, hi. Thank you for the opportunity. I have two questions. My first question is on the LAP
+                  book. Quite a few of our customers on the LAP side will be business owners. Do we, in any
+                  way, have an idea of how many of them have any agri-related businesses that they are a part
+                  of? My second question would be, you had shared your 1+ DPD last quarter, which was at
+                  about 7% or so. If you can share that number for October or for September, that will be useful.
+                  Thank you.
+
+
+
+
+                                          Page 13 of 14
+
+                                                                                   Aadhar Housing Finance Limited
+                                                                                               November 05, 2026
+
+Rishi Anand:          Thank you, Shreya. The first question was on LAP businessmen. We extend LAP to
+                      businessmen, you're right. Are they exposed to agribusiness? That's slightly difficult to find
+                      out on what percentage of our LAP book will be exposed to agribusiness. Let me give you a
+                      very different perspective to it.
+
+
+                      In our credit policy underwriting, a norm is very clear that if a customer has an exposure to
+                      agri or allied seasonality income, that is capped to 25%. So, he has to have 75% of income,
+                      which is other business income and a regular flow income. We apply a 55% FOIR on it. Even
+                      if there is agribusiness of 25%, we leave sufficient money in his pocket to run his daily needs.
+
+
+                      From a perspective of pure agribusiness, if that's where the question is leading to, we are very
+                      comfortably positioned as our credit policy caps it at 25%. Second question on 1+, straight
+                      answer, it is very flattish. We are in a comfortable zone.
+
+
+Shreya Shivani:       All right. I think that was quite useful. Just a clarity, that capping that you said of 25% of the
+                      customer's income, more than 25% cannot be from agri and any other form of seasonal
+                      businesses, right?
+
+
+Rishi Anand:          That's right.
+
+
+Shreya Shivani:       Not just agri. Okay.
+
+
+Rishi Anand:          Yes, that is right.
+
+
+Shreya Shivani:       Okay, that is useful. Thank you so much and all the best.
+
+
+Rishi Anand:          Thank you, Shreya.
+
+
+Moderator:            Thank you. As there are no further questions from the participants, I now hand the conference
+                      over to the management for closing comments.
+
+
+Rajesh Viswanathan:   Thank you all for coming in late on a Thursday evening for this call. Hopefully, we have
+                      answered all your questions. In our view, we have delivered a strong quarter two, and the
+                      initial trends of quarter three look very encouraging. Hopefully, we will have a good quarter
+                      three, and we can meet up for a conference late January, early February. From the side of
+                      Aadhar management, wishing everyone on this call a very Happy Diwali and a very
+                      prosperous New Year. Thank you for joining in. Thank you. Good night.
+
+
+Rishi Anand:          Thank you so much, everyone.
+
+
+Moderator:            Thank you very much. On behalf of Aadhar Housing and Nomura, that concludes this
+                      conference. Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                               Page 14 of 14
+

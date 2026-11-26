@@ -1,0 +1,960 @@
+Date: 19th November 2026
+
+To                                                  To
+Secretary                                           Secretary
+Listing Department                                  Listing Department
+
+BSE Limited                                      National Stock Exchange of India Ltd.
+Department of Corporate Services                 Exchange Plaza, C-1, Block G, Bandra Kurla
+Phiroze Jeejeebhoy Towers Dalal Street, Mumbai – Complex, Bandra (E) Mumbai – 400 051
+400 001
+
+Scrip Code : 540902                                 Symbol : AMBER
+ISIN : INE371P01015                                 ISIN : INE371P01015
+
+Subject: Transcript of Earnings Call held for discussion on Unaudited Financial Results (Standalone and
+Consolidated) of the Company for the second quarter and half year ended 30th September 2026 (‘Q2 &
+H1 FY27’)
+
+Ref.: Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+
+Dear Sir/Ma’am,
+
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended, please find enclosed the transcript of the
+Earnings Call held on Friday, 13th November 2026 at 05:30 P.M. IST with investors and analysts.
+
+The call was conducted to discuss the Unaudited Financial Results (Standalone and Consolidated) of the
+Company for the second quarter and half year ended 30 th September 2026 (‘Q2 & H1 FY27’).
+
+The transcript is also being uploaded on the Company’s website and will be accessible at:
+https://www.ir.ambergroupindia.com/news-events/investor-events/.
+
+You are requested to take the same on record.
+
+Thanking You,
+Yours faithfully
+For Amber Enterprises India Limited
+ KONICA        Digitally signed by KONICA
+               YAADAV
+
+ YAADAV        Date: 2026.11.19 15:10:26
+               +05'30'
+
+(Konica Yaadav)
+Company Secretary and Compliance Officer
+Membership No. : A30322
+
+                        “Amber Enterprises India Limited
+              Q2 & H1 FY27 Earnings Conference Call”
+                                        November 13, 2026
+
+“E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings uploaded on the stock
+exchange on November 13, 2026 will prevail.”
+
+
+
+
+MANAGEMENT: MR. JASBIR SINGH – EXECUTIVE CHAIRMAN, CHIEF
+            EXECUTIVE OFFICER AND WHOLE-TIME DIRECTOR
+            MR. DALJIT SINGH – MANAGING DIRECTOR
+            MR. SACHIN GUPTA – WHOLE-TIME DIRECTOR
+            MR. SUDHIR GOYAL – GROUP CHIEF FINANCIAL
+            OFFICER
+            MR. SANJAY ARORA – PRESIDENT, NEW BUSINESSES
+            AND GROUP EVOLUTION
+            MR. RAVI KHARBANDA – HEAD OF INVESTOR
+            RELATIONS
+            STRATEGIC GROWTH ADVISORS – INVESTOR
+            RELATIONS ADVISORS
+
+                                                      Page 1 of 15
+
+                                                                            Amber Enterprises India Limited
+                                                                                       November 13, 2026
+
+Moderator:      Ladies and gentlemen, good day and welcome to the Q2 and H1 FY27 Earnings Conference Call
+                of Amber Enterprises India Limited. As a reminder, all participant lines will be in the listen-only
+                mode, and there will be an opportunity for you to ask questions after the presentation concludes.
+                Should you need assistance during the conference call, please signal an operator by pressing star
+                then zero on your touch-tone phone.
+
+
+                I now hand the conference over to Mr. Jasbir Singh, Executive Chairman and CEO and Whole
+                Time Director of Amber Enterprises India Limited. Thank you, and over to you, sir.
+
+
+Jasbir Singh:   Hello. Good evening, everyone. I hope everyone had a safe and prosperous Diwali. We have
+                uploaded our presentation on the exchanges, and I hope you had an opportunity to go through
+                the same. On the call today, I am joined by Mr. Daljit Singh, our Managing Director, Mr. Sachin
+                Gupta - Whole Time Director, Mr. Sudhir Goyal - Group CFO, and Mr. Sanjay Arora, President
+                of New Businesses.
+
+
+                Let me first briefly talk about the strategic updates for the quarter. Firstly, in line with our
+                continued efforts to strengthen and simplify the group structure, IL JIN had acquired the balance
+                40% stake in Power-One and 1.5% stake in Ascent Circuits through the issuance of CCPS,
+                Compulsorily Convertible Preference Shares, under a share swap arrangement. Consequently,
+                both Power-One and Ascent Circuits are now wholly owned subsidiaries of IL JIN.
+
+
+                Secondly, on the leadership front, I would like to acknowledge and thank Mr. Sanjay Arora for
+                his immense contribution in shaping and value creation of our Electronics Division. As we enter
+                the next phase of growth, he will take on the role of President, New Businesses and Group
+                Evolution. Here, he will spearhead the Mobile Division and organizational development. We are
+                confident that under his leadership, the mobile business will attain significant scale and emerge
+                as a key player in the industry.
+
+
+                We also welcome Mr. Satendra Singh as the CEO and Whole-Time Director of IL JIN
+                Electronics. He is a seasoned industry professional with over three decades of experience in the
+                electronic circuit sector, and prior to joining us, he served as the CEO of a listed EMS company
+                and held other leadership positions with global organizations in his career.
+
+
+                Coming to on the mobile business, after a thorough deliberation, we have decided to house
+                mobile business under Amber, including production for OPPO, OnePlus, and Realme brands.
+                Mobile business will operate under a dedicated and wholly owned subsidiary, namely Amber
+                Digital Technologies. With this, Amber will become a product-focused business encompassing
+                both mobile phone and backward integrated RAC business. The complementary nature of these
+                businesses helps diversify our revenue streams, reduce seasonality, and driving stronger returns
+                on capital employed.
+
+
+                On the Sidwal expansion front, the greenfield facility for heating, ventilation, air conditioning,
+                doors, and gangways in Faridabad is now operational and under the production capacity scale-
+                up to support future growth.
+
+
+
+
+                                         Page 2 of 15
+
+                                                                            Amber Enterprises India Limited
+                                                                                       November 13, 2026
+
+                Coming to the outlook, the margin pressure witnessed are temporary in nature, and in line with
+                our earlier guidance, we continue to expect the consumer durable to have a margin impact to the
+                tune of 50-100 basis points, considering the commodities are constant at H1 level. In case the
+                commodity further spikes up, percentage margin will look suppressed. As we have seen in the
+                past, and we have all witnessed it, we have been able to pass on all these changes of commodities
+                and currency on a quarterly lag basis to our customers.
+
+
+                On railway division, margins are expected to rebound to normalized levels from next year
+                quarter 2 onwards, once the old projects get delivered under the nature of fixed-price contracts.
+
+
+                Further, would like to inform the operations of IL JIN facility, which got affected by fire
+                incident, has resumed operations and affected facility is now operational.
+
+
+                Now, let me hand over to Sudhir Goyal, our CFO, for financial highlights.
+
+
+Sudhir Goyal:   Hi. Good evening, everyone. Firstly, let me take you through first half results for financial year
+                '27 at consolidated level.
+
+
+                Revenue for H1 financial year '27 increased to INR6,515 crores compared to INR5,096 crores,
+                recording a growth of 28% over last year.
+
+
+                Operating EBITDA for H1 financial year '27 expanded to INR464 crores against INR361 crores,
+                reflecting a growth of 29% year-on-year.
+
+
+                For clarification, operating EBITDA is before impact of ESOP expenses and other non-operating
+                income and expenses. To emphasize, the operating EBITDA is after adjusting for the
+                consumption of inventory that had been fair valued at the time of purchase price allocation for
+                the new acquisitions which we have done in the last financial year, which is Power-One,
+                Unitronics, and Shogini, aggregating to an impact of INR28.8 crores in H1 financial year '27,
+                representing increase in the raw material consumption in the consolidated financial statements
+                for H1. This increase in raw material consumption is non-operational in nature, and complete
+                impact of this inventory PPA allocation adjustment will be completed by the year end, and the
+                remaining balance is around INR32 crores, which will get adjusted in the next two quarters.
+
+
+                Adjusted PAT for H1 financial year '27 stood at INR69 crores. It is before considering an
+                exceptional loss of INR132.2 crores. Out of this, INR125.9 crores is related to Ascent share
+                purchase and INR6.3 crores is related to difference in fire loss amount and expected receivable
+                from insurance company based on the documents submitted till date.
+
+
+                Now moving to quarterly performance, I am pleased to report consolidated revenue of INR2,627
+                crores compared to INR1,647 crores over previous year, recording a strong growth of 60%.
+                Operating EBITDA for the quarter increased to INR127 crores against INR98 crores in the same
+                quarter previous year, reflecting a growth of 30% year-on-year. It is after adjusting for the
+                inventory and purchase price allocation of INR13.5 crores for quarter 2 financial year '27.
+
+
+
+
+                                         Page 3 of 15
+
+                                                                           Amber Enterprises India Limited
+                                                                                      November 13, 2026
+
+                Adjusted loss after tax for the quarter stood at INR57 crores before the exceptional loss of
+                INR9.5 crores. Out of this, INR3.2 crores is related to Ascent share purchase and INR6.3 crores
+                is related to difference in fire loss amount and expected receivable from insurance company
+                based on documents submitted till date.
+
+
+                Now, let me take you through the divisional performance overview. First, revenue and operating
+                EBITDA details of our divisional performance are not comparable with the published segmental
+                results.
+
+
+                Starting with the CD division, the CD division reported revenue of INR1,227 crores for the
+                quarter compared to INR873 crores in quarter 2 financial year '26, recording a robust growth of
+                41% year-on-year.
+
+
+                Operating EBITDA for the quarter stood at INR4 crores. Margins came under pressure due to
+                increase in commodity prices, foreign currency fluctuation, minimum wage revision, and cost
+                pertaining to new Sri City plant, which is currently under the ramp-up phase.
+
+
+                Coming to Electronics Division performance, revenue for the quarter increased to INR1,248
+                crores compared to INR642 crores in quarter 2 financial year '26, reflecting a growth of 94%
+                over last year. Operating EBITDA for the quarter recorded a growth of 195% year-on-year and
+                reaching to INR116 crores.
+
+
+                Moving to Railways Subsystems & Defence division performance, the revenue for the quarter
+                increased to INR152 crores compared to INR132 crores in quarter 2 financial year '26, reflecting
+                a growth of 15% year-on-year. Recorded operating EBITDA of INR7 crores. Margin were
+                affected by commodity inflation, foreign currency fluctuation, minimum wage revision, where
+                few contracts are fixed price contracts. On the outlook, we now expect the revenue growth of
+                about 15%-20%, lower than the earlier expectations, mainly because of delay in future project
+                offtakes.
+
+
+                On the balance sheet front, the net debt stood at INR2,582 crores. Net working capital days stood
+                at 53 days, and expected capex is around INR1,800 crores-INR2,000 crores for the full year.
+
+
+                IL JIN Electronics has recently filed its DRHP with SEBI, and management may not be able to
+                address questions relating to IL JIN and its subsidiaries beyond the details mentioned in the
+                DRHP. We would request participants to refer to the DRHP for the detailed information about
+                the Electronics Division. Thank you.
+
+
+                I now request the operator to please open the floor for the Q&A.
+
+
+Moderator:      Thank you very much. Ladies and gentlemen, we will now begin the question-and-answer
+                session. First question is from the line of Sameet Sinha from Macquarie. Please go ahead.
+
+
+Sameet Sinha:   Yes, thank you very much. A couple of questions. So on the Electronics Division, to the extent
+                that you can talk about it, we are getting organic growth of close to 35% year-over-year. The
+                last two quarters, organic growth has been down to a large extent because of the revenue
+
+                                        Page 4 of 15
+
+                                                                             Amber Enterprises India Limited
+                                                                                        November 13, 2026
+
+                recognition between job order and gross. So can you just talk about what are the puts and takes
+                here? What were the dynamics here?
+
+
+                Secondly, if you can just walk us through the one thing that I think everyone will hope to
+                understand better is kind of the commodity exposure. I do not know to the extent if you can give
+                us, okay, X percentage of the RAC business is exposed to CCL, X is exposed to oil. I think that
+                will help us model things better as we can take inputs from the open market. That is it. Thank
+                you.
+
+
+Jasbir Singh:   Well, Sameet, I am sorry that on the Electronics Division, we have been advised because of the
+                DRHP filing, we will not be able to answer your question in the detail part on the organic and
+                inorganic growth part.
+
+
+                On the commodity exposure part, we are exposed to commodities like copper, which is a large
+                part of the BOM, and then aluminum, steel, and of course, the CCL because of the PCBs, and
+                also on the currency side. These are moving parts. Rest, I will like Sachin to give you a little
+                more brief on the consumer durable or room AC side, on the commodity side. Sachin, why do
+                not you answer for us?
+
+
+Sachin Gupta:   Hi, Sameet . Sir, if you see on the bill of material level for a room air conditioner, the major
+                exposure comes from four commodities and obviously the dollar. Copper, aluminum, steel,
+                resin. These are the commodities and then the forex. If I talk of commodities, then the total bill
+                of material exposure is to 40% direct exposure. If I include at the raw material level, for example,
+                I am talking of a compressor, in the compressor again, there is a lot of steel and copper involved.
+                Then this 40% becomes 52%. This is exposure of the commodity.
+
+
+Sameet Sinha:   Okay. On the electronic side, do you have the similar bill of material details?
+
+
+Jasbir Singh:   No, in electronics, I mean, the components are very different. There is no large part of the steel
+                which contributes, or plastics which contributes. But these are the electronic components. On
+                the other components like IC and memory prices and memories and heat sinks and transformers
+                and capacitors.
+
+
+Sameet Sinha:   Okay. Since you couldn't answer question number one, I guess I'll take the opportunity to ask
+                another question. Can you give us a sense of timing on the IL JIN side? What are you
+                anticipating? What are your lawyers telling you? What are the exchanges saying? When could
+                you do the IPO or the demerger?
+
+
+Sudhir Goyal:   So, hi, Sameet. We are having expectation of getting the approval from the SEBI in next three
+                to four months' time. Post that, as per the regulation, we have a one-year time to launch our IPO.
+                We'll take a call after the approval come.
+
+
+Sameet Sinha:   Got it. Thank you very much.
+
+
+Sudhir Goyal:   Thank you.
+
+
+
+                                         Page 5 of 15
+
+                                                                                 Amber Enterprises India Limited
+                                                                                            November 13, 2026
+
+Moderator:           Thank you. Next question is from the line of Santhosh Seshadri from Avendus Spark. Please go
+                     ahead.
+
+
+Santhosh Seshadri:   Hi, sir. Thanks for taking up my questions. Just on the remaining minority interest portion in
+                     Unitronics, can you tell us what is the plan here? Can we see a similar sort of buyout as we have
+                     done for Power-One and other subsidiaries?
+
+
+Jasbir Singh:        Santhosh, since Unitronics is also a listed entity in Israelian stock markets, this will be a
+                     company-sensitive information. We will not be able to answer your question.
+
+
+Santhosh Seshadri:   It is no problem. And also, on the broader PCB industry, what is your assessment on the PCB
+                     shortage? Also, I am not sure if you can answer this, but if you can, I am just wondering if you
+                     can leverage the current situation to probably secure a multi-year supply contract with
+                     customers, and also potentially securing some sort of prepayment to fund any sort of growth
+                     projects. Is that something on the cards?
+
+
+Jasbir Singh:        Well, I think on the shortages front, definitely there is a shortage on the CCL part, which is
+                     getting addressed now. A lot of capacity expansions are happening at CCL company's level. We
+                     expect that things should be very streamlined, though the prices continue to increase. We are
+                     seeing that there is a, maybe in next two, three quarters, things will come to normalized level in
+                     the supply chain level.
+
+
+Santhosh Seshadri:   Got it. Also, for the Electronics Division, can you give us the split between the PCB revenue
+                     and IL JIN revenue for the last quarter?
+
+
+Jasbir Singh:        We will not be able to give any kind of data points here, especially segmental data points. I think
+                     you will have to refer to DRHP for the time being.
+
+
+Santhosh Seshadri:   All right. Thank you very much, sir.
+
+
+Moderator:           Thank you. Next question is from the line of Achal Lohade from Nuvama Institutional Equities.
+                     Please go ahead.
+
+
+Achal Lohade:        Yes. Sir, thank you for the opportunity. The first question is, this 41% growth in the consumer
+                     durables, if you could help us understand what has driven this growth, and if you could split in
+                     terms of volume / price rise or price inflation in that?
+
+
+Jasbir Singh:        Sachin, will you take this question?
+
+
+Sachin Gupta:        So, sir, there are three reasons for this growth. The first is obviously the contribution from the
+                     commercial AC has increased for us. As everyone knows that we started the commercial AC
+                     business three years back. Every year we have been adding the new product portfolio, plus every
+                     year we have been adding new customers.
+
+
+                     In this quarter, so commercial AC business has contributed versus last quarter, one. Second is
+                     obviously the impact of the commodity and star rating table change versus last quarter. And third
+
+
+                                               Page 6 of 15
+
+                                                                             Amber Enterprises India Limited
+                                                                                        November 13, 2026
+
+                is the volume growth. All these three put together, the CD division has grown by somewhere
+                around 41%.
+
+
+Achal Lohade:   Sir, if you could talk about what is the volume growth?
+
+
+Sachin Gupta:   Sir, we are really sorry at this moment, but we will not like to have a discussion regarding the
+                volume growth.
+
+
+Achal Lohade:   Sorry. The reason I am asking is that if you are talking about in line with the industry growth,
+                right? So, it appears that the growth will slow down quite a bit in the second half. And given we
+                have added the commercial AC, I was just kind of trying to figure out if the volume growth was
+                weaker in the second quarter.
+
+
+Sachin Gupta:   No, sir. If you see, on an annualized basis, what we told was that we shall be in line with the
+                industry growth. We are still maintaining the same. It is not like that there is a weaker demand
+                in quarter 2 or quarter 3. If you see, on an annual basis, we are expecting industry to grow by
+                somewhere around 20%-22%. We are in line to that.
+
+
+Achal Lohade:   What has been the growth for first half, if you could help us understand that? For the industry,
+                first half?
+
+
+Sachin Gupta:   For the industry?
+
+
+Achal Lohade:   Yeah.
+
+
+Sachin Gupta:   Yes, we have the data point. As far as the growth is for H1, it should be 18% for H1.
+
+
+Achal Lohade:   Understood. Sir, if you could clarify on the EBITDA, in terms of the reported EBITDA, it is
+                minus 1.1% or minus INR14 crores. If you could help us with the one-offs here in terms of FX
+                loss, there are three, four components which you have called out, right? Minimum wage revision,
+                Sri City related, plant-related, commissioning-related costs. What is the underlying margin? On
+                a per-unit basis, have we seen a fair amount of reduction, and how do we see it for the second
+                half?
+
+
+Sachin Gupta:   Sir, if you see, as we told earlier as well, how this business is operating is that there is one raw
+                material exposure and then there is a fixed conversion. For us, the fixed conversion remains
+                intact. There is no change in that. In the fixed conversion, we have been impacted by two things.
+
+
+                One is the minimum wage revision, and the second point is the greenfield facility of Sri City has
+                been up, but the capacity utilization is to a tune of 40%, while obviously the expense has been
+                added over there. We are expecting that by quarter 4, it will be back to the normal. On the
+                conversion side, this is the impact that you are seeing on the quarter 2 EBITDA levels.
+
+
+                Second impact is on the RMC side. As we have told that generally our costing with the customers
+                work with a quarter lag. So obviously during this volatile period of the commodity, we are
+                discussing with our customers. So in the quarter 2, whatever increase was there, we have been
+
+
+                                         Page 7 of 15
+
+                                                                             Amber Enterprises India Limited
+                                                                                        November 13, 2026
+
+                able to take 50% from the customer, while 50% is the lag. From quarter 3, that will also be
+                recovered. Again, coming back, if I talk in terms of the complete financial year, we stick to our
+                guidance, which we have given earlier, and we will be maintaining it. There is no change in that.
+
+
+Achal Lohade:   Possible to quantify the one-off impact, sir, ex of the RM cost?
+
+
+Sudhir Goyal:   Achal, you asked about the foreign currency and all, which is non-operational in nature. That is
+                around INR32 crores, which is related to forex fluctuation, ESOP impact, and some like non-
+                operational in nature. This is on the PBT level, INR32 crores. Then there is a wage revision,
+                which has also impacted Amber. At Amber level only standalone, you can take a number of
+                roughly around INR22 crores-INR25 crores, which got impacted us in the H1. These two are the
+                immediate thing, which is you can say not a one-off. One-off is INR32 crores, and the other is
+                going to be a regular, which we are negotiating with the customer to pass on that increase in the
+                costing.
+
+
+Achal Lohade:   Sorry, just to clarify, this is forex loss, INR32 crores is including forex loss and ESOP impact,
+                etcetera, is for the consumer durables business or at a company level?
+
+
+Achal Lohade:   Only for consumer durables, right?
+
+
+Sudhir Goyal:   No, only Amber level. Only Amber standalone.
+
+
+Moderator:      Thank you. Next question is from the line of Madhav Marda from MLP. Please go ahead.
+
+
+Madhav Marda:   Hi, good evening. Thank you so much for your time. Just wanted an update on the timeline for
+                the two capex projects which we have, the Korea Circuit, as well as the Ascent, like in terms of
+                where we are in the construction timeline and when do we expect these projects to start
+                commissioning for us?
+
+
+Sudhir Goyal:   Yeah, so as mentioned in the DRHP also, our expected timeline is to start Ascent Hosur
+                expansion by H1 calendar year '27, and Korea Circuit will start in calendar year '28. This is
+                already mentioned in the DRHP. Exact timelines will come near to the operational, near to the
+                commencement of the operations.
+
+
+Madhav Marda:   Okay, perfect. Understood. Secondly, just wanted clarification. I do not know if you can share
+                or it is because of confidentiality, you cannot, but for the electronic business, the margins, in my
+                understanding, were quite decent.
+
+
+                Even in quarter 1, I think we were talking about some margin pressure in this segment, given we
+                are a tier two supplier and some of the segments and it takes time to pass on. Any related
+                comments you can share in terms of what helped us report reasonably decent margins despite
+                the commodity cost pressure? That would be helpful. Thank you.
+
+
+Sudhir Goyal:   As guided earlier, we were discussing with the customers, and pass-on has started happening.
+                That is the only thing which is getting us a better margin overall in the overall Electronics
+                Division.
+
+
+                                         Page 8 of 15
+
+                                                                             Amber Enterprises India Limited
+                                                                                        November 13, 2026
+
+Madhav Marda:   Okay. Is it fair to understand that worst of the pressure even in this segment is somewhat behind
+                us, like from a margin pressure perspective?
+
+
+Sudhir Goyal:   We can't say that. It all depends on how the future commodity fluctuation, currency fluctuation.
+
+
+Madhav Marda:   Assuming stable commodity costs, like let's say copper, aluminum, it's been easing a little bit
+                already, so hopefully it doesn't go up again. But if it stays here, like, are we largely okay?
+
+
+Jasbir Singh:   Safe statement to make will be partially behind us.
+
+
+Madhav Marda:   Yeah, it is right.
+
+
+Jasbir Singh:   It is a moving part always with the customers, you know.
+
+
+Moderator:      Thank you. Next question is from the line of Dhruv Jain from Ambit Capital. Please go ahead.
+
+
+Dhruv Jain:     Thank you for the opportunity, sir. My first question is on Sidwal. While we have seen that this
+                year we have seen impact with respect to margins around commodity, if you could just spell out
+                how should we look at the margins in FY28 and '29, and in terms of your earlier guidance of
+                doubling top line in two years, does that stand or is there some revision in that aspect?
+
+
+Daljit Singh:   Dhruv, I will first of all answer about the doubling the top-line guideline. That still is intact and
+                that stands because our order book is now more and more strengthened. Regarding the margins,
+                yes, there are some old contracts, legacy contracts, which does not have a price variation clause,
+                which of course, there is some delays on the customer end of picking. That is happening now.
+
+
+                We feel that probably another two to three quarters, it will be partially built up again later on.
+                Then by FY29, I think so we should be back to normalized conditions because the price and all
+                that will be again for the new contracts. We are having the price variation clauses as well as, of
+                course, the new contracts are negotiated on the new commodities.
+
+
+Dhruv Jain:     Okay. Just to sort of clarify here, incrementally for FY28 and '29, while we will see an
+                improvement, it will not go back to 20% or 19%-20% level that we saw earlier. It will be more
+                gradual.
+
+
+Daljit Singh:   Yeah, it will be more gradual, and I think so normalized condition, we should see it around like
+                14%-16% kind of EBITDA margins basically.
+
+
+Dhruv Jain:     Sure. Okay. Sir, my second question is on capex. If you could just spell out how should we look
+                at your capex over FY27, '28, and '29. In that context, when do you start receiving incentives for
+                some of your initiatives? On a gross and a net basis, if you could just give us that capex number
+                and a question related to that will be around debt as well. If you could just give that and if you
+                could call it out segment-wise. Thank you.
+
+
+Sudhir Goyal:   Segment-wise will be difficult, Dhruv. As you know that we filed the DRHP, so it will be
+                difficult for us to mention segment-wise. At the consol level, like we guided in the previous call,
+
+
+                                         Page 9 of 15
+
+                                                                                Amber Enterprises India Limited
+                                                                                           November 13, 2026
+
+                 our overall capex for the current financial year will be between INR1,800 crores-INR2,000
+                 crores.
+
+
+                 Next year also, it will be in the similar range. On the incentive side, because incentive will be
+                 available once we start the commercial production, and after filing the application and all, we
+                 can expect that the cash flow will start coming from financial year '27 for the incentive. Oh,
+                 sorry, '29.
+
+
+Dhruv Jain:      And sir, from a debt perspective, we’ve seen debt go up and interest cost go up significantly in
+                 this quarter. How should we look at it from, say, '27 and '28?
+
+
+Sudhir Goyal:    This quarter, if you see, we have to see the interest cost at the net level after adjusting the interest
+                 income lying in the other income. If I will give you the numbers of the net interest, quarter 1
+                 was around INR56 crores, and quarter 2 is around INR63 crores-INR64 crores. It is not a
+                 significant increase, but since you are seeing only the finance cost, you might not be able to
+                 appreciate it. But the interest cost is INR64 crores and INR56 crores in quarter 2 and quarter 1
+                 respectively.
+
+
+Dhruv Jain:      Yes, sir. Sorry, please go ahead.
+
+
+Sudhir Goyal:    We are expecting the similar amount of interest cost in the next two quarters as well, in the
+                 current financial year.
+
+
+Moderator:       Thank you. Next question is from the line of Keshav Lahoti from HDFC Securities. Please go
+                 ahead.
+
+
+Keshav Lahoti:   Hi, thank you for the opportunity. One thing I want to understand, which inventory you said by
+                 Q3 and Q4 also because of purchase price allocation, it will take time. So normally a company
+                 might be carrying the three, four months inventory. Why is it taking one year for this entire
+                 process?
+
+
+Sudhir Goyal:    So since these are related to the FG and SFG, and it is related to the new acquisition of
+                 Unitronics, Shogini, and Power-One. Model mix and everything, sales keeps on changing.
+                 Whatever finished good and SFG lying with us, and liquidation of that will take time. That is
+                 why it is going to be absorbed in next two quarters more.
+
+
+Keshav Lahoti:   Understood. In the IL JIN, because of fire, was there any loss of sales in this quarter, and has the
+                 thing got normalized now?
+
+
+Sudhir Goyal:    See, we have already resumed the operation recently, a few days back, and the facility will be
+                 fully operational in a couple of months because now it is in the phase of ramping up. Only about
+                 the losses and all, we will not be able to tell because we have not disclosed in the DRHP. It will
+                 be difficult, but we do not see there is a major loss in the customers and the customer sales
+                 because we were able to do that by using the other facilities of IL JIN.
+
+
+
+
+                                           Page 10 of 15
+
+                                                                              Amber Enterprises India Limited
+                                                                                         November 13, 2026
+
+Keshav Lahoti:   Understood. Last question from my side. What is the price hike you have taken in the RAC
+                 segment, including the hike you could take in Q3 because of the commodity inflation? Lastly,
+                 what is the guided EBITDA margin for the CD division for this year?
+
+
+Sachin Gupta:    Sir, coming to the price increase. Price increase, if you compare against quarter 3 of last year,
+                 right?
+
+
+Sudhir Goyal:    Quarter 2.
+
+
+Sachin Gupta:    Quarter 2 last year versus quarter 2 this year. The price increase was 8%.
+
+
+Keshav Lahoti:   Okay. Only 8%?
+
+
+Sachin Gupta:    You are comparing quarter 2 versus quarter 2, right?
+
+
+Keshav Lahoti:   Yeah. Yeah, year-on-year, the blended price increase is only 8% for RAC?
+
+
+Sachin Gupta:    Yeah. See, actually what happened, I will tell you. Exactly, I will tell you what happened. See,
+                 maybe the commodity increases to a tune of maybe 12%, for example. Okay? But what happens
+                 is that every year, there is a very, I would say, cost improvement done by the A-class suppliers,
+                 like the compressor guys or the PCBA guys.
+
+
+                 So overall, the product cost also comes down, right? You need to set it off by the cost
+                 improvement done by the suppliers and the commodity increase. So, for example, the
+                 commodity increase is 12%, then there is a cost improvement of 4%, so the net impact comes
+                 8%, just like that.
+
+
+Keshav Lahoti:   Got it. On this, I have also, what is the guided EBITDA margin for consumer durable for this
+                 year, and what would be the normalized margin of this business? The reason why I am asking,
+                 because, as company have taken already 8% price hike, possibly you will take more hike in the
+                 future. As you get a fixed cost conversion remain same, whatever the EBITDA margin, what we
+                 used to do 7%, 8%, possibly that might be lower in the upcoming years?
+
+
+Sachin Gupta:    See, if you see in terms of percentage, it is very difficult, because if you see what is happening
+                 is that in H1 itself only versus last year, we told that it will be down by somewhere around 50-
+                 100 basis points. Assuming that the commodity remains as is in H1, obviously we maintain this.
+
+
+                 But in case there is a further volatility of commodities like copper, dollar, or oil, I think so that
+                 in terms of percentage, it is very, very difficult, because the ASP keeps on changing for us.
+                 Second point is that the model mix as well keeps changing for us. So in terms of percentage, it
+                 is very difficult, but what we can tell is that in terms of the absolute amount, we maintain.
+
+
+Moderator:       Thank you. Next question is from the line of Rabindra Nath Nayak from Nirmal Bang
+                 Institutional Equities. Please go ahead.
+
+
+
+
+                                         Page 11 of 15
+
+                                                                                   Amber Enterprises India Limited
+                                                                                              November 13, 2026
+
+Rabindra Nath Nayak:   Okay, sir. Thank you. Sir, I am just checking with that, you mentioned that this year the
+                       consumer durable business would be growing by 20% as compared to '26. Is it correct?
+
+
+Sachin Gupta:          Sorry, sir, come again.
+
+
+Rabindra Nath Nayak:   The guidance for the consumer durable business growth for FY27 would be 20%, right? As
+                       compared to FY26, full year?
+
+
+Sachin Gupta:          No, we didn't tell by 20%. What we are saying is that, it shall be in line to the industry. Our
+                       expectation is that industry should grow by somewhere around 20%-22%.
+
+
+Rabindra Nath Nayak:   Okay. Regarding IL JIN, I know that you have already filed the DRHP, but anyway, regarding
+                       the fire incidents, whether this quarter we have done around INR1,247 crores from electronics
+                       division. Do you mean to say after the restoration of the activities at IL JIN, after the fire, the
+                       normal run rate for the revenue will continue in the coming periods? Is it the right understanding?
+                       I'm not asking for any number. Is it normalized completely, I can say?
+
+
+Sudhir Goyal:          Yeah, your understanding is right. Since we have resumed the operations, we'll see the
+                       normalized level of our growth in the Electronics Division.
+
+
+Rabindra Nath Nayak:   Okay. Sir, regarding this Railway Division, you have guided that there will be decline in
+                       guidance, you have cut the guidance. What is the margin we can expect? It should be in the range
+                       of 14%-15% this year, full EBITDA margin for railway?
+
+
+Daljit Singh:          This year, we are expecting the range of the EBITDA margin should be around single digit, like
+                       8%-10%. However, as we told that as we move forward, the older legacy contracts are now
+                       getting delivered, and by probably Q2, we should come back partially, and then slowly and
+                       slowly and gradually, we should come back to the normalized EBITDA margin of 14%-16%.
+
+
+Rabindra Nath Nayak:   Okay. Last question from my side. Sir, you have already filed the DRHP for IL JIN. If I see the
+                       capital structure of the company, IL JIN, now after the conversion of the preference shares, your
+                       holding will go down to around 60%, particularly for Amber's holding is 60%, and you are going
+                       for an IPO primary money of around INR2,500 crores currently.
+
+
+                       If I take the pricing, I do not know what the pricing future will decide, but the current price, if
+                       you dilute pure equity, it will go down to around below 50%, if at all the pricing will not be
+                       proper. Will you consider if in a case of your stake will go down below 50%, whether the
+                       company will subscribe to the IPO in the IPO for IL JIN, or will future will go for buyback or
+                       some sort of preferential issue to make the control?
+
+
+                       In a nutshell, I am asking whether you will control the IL JIN's performance in Amber in future.
+                       That is my one question. Regarding the debt, you have already INR4,000 crores of debt in your
+                       total. Out of that, IL JIN, if you remove the IL JIN's debt of around INR1,700 crores, your debt
+                       is around INR2,600 crores right now, currently. So is it the current understanding, your estimate
+                       on the further, so far the debt is concerned? Also, the ongoing capex and also debt is there. What
+                       would be ex-IL JIN debt for Amber for FY27?
+
+                                                 Page 12 of 15
+
+                                                                                    Amber Enterprises India Limited
+                                                                                               November 13, 2026
+
+Sudhir Goyal:          First of all, on the 60% and post-IPO, what is the diluted equity holding of IL JIN? Whatever is
+                       there in the DRHP, it is on the maximum dilution basis, because all the conversion will be based
+                       on the operations of both the entities. We acquired Power-One, we acquired Ascent Circuits
+                       100% with some CCPS issuance.
+
+
+                       Conversion of the same depends on the profitability of both the entities, IL JIN at a consol level
+                       as well as individual entities, and also the conversion of the private equity are depending on the
+                       future profitability of the company. In the DRHP, it is at the maximum level, but we are not
+                       expecting that that can happen. It can be reduced further. Ultimate dilution might be lesser than
+                       the 40%. On the IPO...
+
+
+Rabindra Nath Nayak:   You will control the stake in IL JIN with more than 51% you can control?
+
+
+Sudhir Goyal:          That we are expecting. We can't say.
+
+
+Rabindra Nath Nayak:   Okay.
+
+
+Sudhir Goyal:          Yes, we are expecting that. Board will always be in our control, as well as we are expecting that
+                       our shareholding will be more than 51%.
+
+
+Rabindra Nath Nayak:   Okay. Net debt side, sir. Okay.
+
+
+Sudhir Goyal:          Yeah. On the net debt side, gross debt is around INR4,100 crores-INR4,200 crores, but our net
+                       debt is INR2,572 crores.
+
+
+Rabindra Nath Nayak:   Okay.
+
+
+Rabindra Nath Nayak:   Okay. So that, even this INR2,600 crores of around debt will continue for FY27?
+
+
+Sudhir Goyal:          No, we are expecting, since we are in a seasonal business, we always see that our net debt level
+                       increases during quarter 2 and quarter 3, and then it comes down in quarter 4 and quarter 1. So
+                       that will continue in future as well.
+
+
+Rabindra Nath Nayak:   Okay. How much percentage of how much total debt would be tied up due to the inventory rise,
+                       sir? Can you please give any estimates on that?
+
+
+Sudhir Goyal:          Can you ask again? I did not get your question.
+
+
+Rabindra Nath Nayak:   How much debt is related to your inventory rise? Because you have purchased some compressor
+                       and your inventory has also risen due to that. So, how much debt is related to that?
+
+
+Sudhir Goyal:          No, no. It is not divided like that. Since once prices increase, then our creditor also increases to
+                       the similar extent. It is not divided like that. So once value of inventory increases, that
+                       correspondingly the value of creditor also increases, because creditor value includes the price
+                       hike in the commodity prices. It is different, because partially inventory is paid and partially
+                       inventory is unpaid as well.
+
+
+                                                Page 13 of 15
+
+                                                                                   Amber Enterprises India Limited
+                                                                                              November 13, 2026
+
+Rabindra Nath Nayak:   Okay. So nothing, no debt is actually tied to the inventory?
+
+
+Sudhir Goyal:          No.
+
+
+Moderator:             Thank you. Next question is from the line of Naveen Kumar Dubey from Narnolia Financial
+                       Services Limited. Please go ahead.
+
+
+Naveen Kumar Dubey:    Yeah. Thanks for the opportunity, sir. Just a question again on the consumer durables margin
+                       side. So, sir, I wanted to understand if we remove one-offs and new plant expenses, how should
+                       our margin maybe look like in Q2, the current quarter?
+
+
+Sudhir Goyal:          So, like I said, that our non-operating expenses is around INR32 crores, including foreign
+                       currency fluctuation and all. INR22 crores-INR25 crores is the wage revision due to the
+                       minimum wages hike in Haryana. This is I'm talking about the consumer, this Amber only.
+
+
+                       Consumer durable you can take around INR25 crores-INR30 crores, which includes PICL and
+                       Pravartaka as well. So, INR20 crores-INR30 crores is the consumer durable minimum wages,
+                       INR32 crores-INR35 crores based on the non-operational cost, and one time, not one time, but
+                       extra cost of Sri City 2 plant, around maybe INR15 crores-INR20 crores you can expect.
+
+
+Naveen Kumar Dubey:    H1.
+
+
+Sudhir Goyal:          That is in H1. So this all figures I'm talking about the H1, not Q2. This is H1.
+
+
+Naveen Kumar Dubey:    Okay.
+
+
+Sudhir Goyal:          So, INR32 crores-INR35 crores plus INR30 crores and plus INR20 crores.
+
+
+Naveen Kumar Dubey:    Okay. Some INR80 crores, INR85 crores of additional cost that come in 1H?
+
+
+Sudhir Goyal:          Yeah, H1.
+
+
+Naveen Kumar Dubey:    Okay. How should we look at the quarter going ahead? Everyone asked about the commodity,
+                       and how should we look at it? Because this quarter margins were extremely low this time.
+                       Everything happens in the same quarter, I think.
+
+
+Sachin Gupta:          Sir, as I told earlier, again, we will be explaining, we need to see how this business operates
+                       actually. You see, business has two things related to it. One is the seasonality of this business,
+                       one. Second point is that at an OEM level, the product mix keeps changing depending upon what
+                       my customer wants. Okay? Sometimes it is assembly, sometime it is finished goods, sometime
+                       it is indoor only, it keeps on changing.
+
+
+                       What we have been explaining in past as well, it is very, very tough to justify on the quarterly
+                       basis, but on the annual basis, our guidance remains intact. The margins that CD division has
+                       been delivering historically, we shall be recovering it in quarter 3 and quarter 4.
+
+
+
+
+                                               Page 14 of 15
+
+                                                                                  Amber Enterprises India Limited
+                                                                                             November 13, 2026
+
+Naveen Kumar Dubey:   Okay. Perfect. Sir, one more question on the Q2 results. We saw that some changes in inventory
+                      that comes under the cost of goods sold. That number is positive, some INR62 crores. Can you
+                      explain what that number is like? That was negative in previous two quarters, two-three quarters.
+
+
+Sudhir Goyal:         So it is like an accounting thing. So, one is raw material consumption, which is purely raw
+                      material. As per accounting, there are two more components of the inventory. One is semi-
+                      finished goods and one is finished goods. RMC is calculated opening stock plus purchases minus
+                      closing stock. That is raw material consumption.
+
+
+                      And changes in the opening stock of SFG and FG, and closing stock of SFG and FG, that
+                      becomes a part of the P&L account. It is not like that. You have to club it both and derive the
+                      RMC of the company.
+
+
+Naveen Kumar Dubey:   Okay. Because if I remove that, the gross margin numbers looks 2.5% more, like 18.8% becomes
+                      some 21%.
+
+
+Sudhir Goyal:         No, no. You can't remove it. You have to always see RMC combining both the figures.
+
+
+Naveen Kumar Dubey:   Okay. Maybe I thought that was related more to the consumer durable business.
+
+
+Sudhir Goyal:         No, no. It is...
+
+
+Naveen Kumar Dubey:   It's overall Amber.
+
+
+Sudhir Goyal:         It's a presentation only. You have to see both the figures jointly to arrive at RMC.
+
+
+Moderator:            Thank you. Ladies and gentlemen, due to time constraints, that was the last question for today.
+                      I now hand the conference over to management for closing comments.
+
+
+Jasbir Singh:         Thank you, everyone, for joining on the call. Wishing everyone a very nice evening ahead. For
+                      any further information, please get in touch with our head of IR, Mr. Ravi Kharbanda, or
+                      Strategic Growth Advisors, our IR Advisors. Thank you very much.
+
+
+Moderator:            Thank you. Ladies and gentlemen, on behalf of Amber Enterprises India Limited, that concludes
+                      this conference. Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                              Page 15 of 15
+

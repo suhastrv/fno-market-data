@@ -1,0 +1,1151 @@
+DOC:SEC:1789/2026-27/49                                                        April 13, 2026
+
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor, Plot No. C/1,
+G- Block, Bandra – Kurla Complex,
+Bandra (East),
+Mumbai – 400 051
+SCRIP CODE: CESC
+
+Dear Sir/Madam,
+  Sub: Query from Exchange in relation to Financial Results for the quarter and half-
+              year ended September 30, 2025 submitted to the Exchange
+
+Dear Sir / Madam,
+
+Further to our letter no DOC:SEC:1651/2025-26/318 dated January 22, 2026 (Annexure-A)
+and with reference to your email dated April 12, 2026 on the above-captioned subject, we wish
+to submit that the Company has already filed the revised XBRL (Standalone and Consolidated)
+on the Neaps Portal. Copy of the acknowledgements are attached as Annexure-B for your
+ready reference.
+
+We trust that the above clarifies the matter to your satisfaction. Should you require any further
+information or clarification, we shall be pleased to provide the same.
+
+Thanking you.
+Yours faithfully,
+For CESC Limited
+JAGDISH        Digitally signed by
+               JAGDISH PATRA
+
+PATRA          Date: 2026.04.13
+               19:09:46 +05'30'
+Jagdish Patra
+Company Secretary and Compliance Officer
+
+Encl: As above
+
+                                                                                                           ANNEXURE-A
+
+                                                                                                           .0.
+                                                                                                           o+* cESC
+    +F 3l;"7""'Goenka
+            Growing Legacles
+                                                                                                                LttdlT€o
+                                                                                                                ;,;;;q r,;; ';;;,8;;
+
+
+DOC;SEC:1 651. / 2025-26 / 318                                                                              January 22,2026
+National Stock Exchange of India Limited
+Exchange Plaza,5th Floor, Plot No. C/1,
+G- Block, Bandra - Kurla Complex,
+Bandra (East),
+Mumbai - 400 051
+SCRIP CODE: CESC
+
+Dear Sir/Madam,
+
+    Sub: Ouerv from Exchanse in relation to     cial Results for the ouarter and half-
+                vear ended September 30. 2025 submitted to the Exchanse
+
+Dear Sir lMadam,
+
+This is in reference to your email dated January 21, 2026 on the above-captioned subject. In this regard,
+we wish to submit the following clarification:
+
+The Board of Directors of the Company, at its meeting held on October 17,2025,had, inter alia,
+considered, approved, and taken note of the Unaudited Financial Results (Standalone and Consolidated)
+of the Company for the quarter and half year ended September 30, 2025 .
+
+We further wish to bring to your kind attention that the necessary disclosures and information, in both
+Portable Document Format (PDF) and eXtensible Business Reporting Language (XBRL), were duly
+filed with your good office on October 17 ,2025.
+
+However, while filing the XBRL submission on the NEAPS portal, since the results pertained to the
+half year ended September 30,2025, the fields relating to "Reporting Type" and "Reporting Quarter"
+were inadvertently selected as "Half-Yearly" instead of "Quarterly".
+
+We would also like to inform you that a similar query was received from BSE Limited on October 24,
+2025, prtrs;ttant to which the revised XBRL was duly uploaded on the BSE Listing Portal. A copy of the
+revised XBRL submission is enclosed herewith and marked as Annexure-A for your ready reference.
+
+In view of the above, we respectfully request you to kindly permit us to file the revised XBRL
+submission on the NEAPS portal.
+
+We trust that the above clarifies the matter to your satisfaction. Should you require any further
+information or clarification, we shall be pleased to provide the same.
+
+Thanking you.
+Yours faithfully,
+For CESC Limited
+
+                                  \
+J
+                        and Compliance Officer
+
+Encl: As above
+
+
+                                                             CESC   Limited
+                                    Clr{ : L3l90lWBl978PLC03l41l u e-mail : !e_!q!!0itedptl}j5C.j!
+                                 Regd. Otfic€ : CESC House, Chowringttr Square, xolkara - 7OO OOl, lndia
+                                  Trl . +o1 l? )725 6OtQ lry . .ol  lt272c 34q5 W€b . ww.ce5..(o.in
+
+                                      An.erura -
+                                                               A                   g TAnl b A't 0 f"J 6
+                                       BSE LTD
+                         ACKNOWLEDGEMENT
+Acknowledgement No   2410202508083133                   Date & Time : 24fi012025 08:08:31 PM
+
+Scrip Code           500084
+
+Entity Name          CESC LIMITED
+Compliance Type      Regulations 33(3) - lntegrated Finance lnd AS
+Quarter / Period     3010912025
+
+Mode                  XBRL E-Filing
+
+l^*flsd;-                 l..v"ld",*         I                                                           *validate General lnformation to open other sheets
+
+
+
+
+scrip code*                                                                                   500084
+
+NsE symbol*                                                                                       cEsc
+MSEI Symbol*                                                                                 NOTLISTED
+
+tstN*                                                                                      tNE486A01021
+
+Name of comDanv                                                                            CESC   TIMITED
+Type of company                                                                             Main Board
+Class of security
+
+Date ot start offinancial Vear                                                                                                   04       2025
+Date of end of financial year
+
+Date of board meeting when results were approved                                                  17                             10       2025
+Date on which prior intimation of th€ meeting for consideringfinancial
+                                                                                                  09                             10      2025
+results was informed to the exchanee
+Description of presentation currency
+
+Level of rounding                                                                              Caores
+
+ReportinB Type                                                                               Quarterly
+Reporting Quarter                                                                         Second quarter
+
+Nature of report standalone or consolidated                                                 Standalone
+Whether results are audited or unaudited for the quarter ended                               Unaudited
+Whether results are audited or unaudited for the Yearto date for current
+                                                                                             unaudited
+oeriod ended/vear ended
+Segment Reporting                                                                         Single segment
+Descriotion of sinsle sesment                                                 GFneretidn end Di{rih"tidn af FlFdri.ltu
+start date and time of board meeting                                                        t7-70-2025                           15        30
+
+End date and time of board meeting                                                          t7-10-2025                           L7        00
+
+Whether €sh flow statement ls applicable on company                                               Yes
+
+Type of cash flow statement                                                              Cash Flow lndirect
+
+Declaration of unmodified opinion or statement on impact of audit
+                                                                                           Not applicable
+qualification
+Whetherthe company has any related party?                                                         Yes
+
+Whether the company has entered into any Related Party transaction
+                                                                                                  Yes
+duringthe selected half year for which it wants to submit disclosure?
+(ll We dtrlare that the acceptance offixed deposiG bythe bans/Non-
+Banklng Finance Company are atthe terms uniformly applicable/offered to                           NA
+all shareholders/nuhlic
+
+(lll We declare that the scheduled commerclal bank, as per RBI circular
+RBI/DBR/2015-15/I9 dated March 03, 2016, has allowed additional
+interest of one per cent per annum, over and above the rate of interest
+mentioned in the schedule of interest rates on savings or a term deposits                         NA
+of banlCs staffand their exclusive associations as well as on deposits of
+chairman, chairman & ManaginS Diredor, Exffutive Director or such other
+Executives appointed for a fixed tenure.
+
+(llll Whetherthe company ls a'high value debt llsted entity according to
+                                                                                                  No
+reEUlation 15 (1Al?
+   (al lf answer to above question is Yes, whether complying with proviso
+   to regulatlon 23 (9), i.e., submittlng RPT dlsclosures on the day of
+   results publication?
+   (bl lf answer to above question is No, please explain the reason for not
+   comDlvins.
+Whetherthe updated Related PartyTransactions (RPT) Policy (in
+compliance with Reg. 23 of SESI LODR) has ben uploaded on the website                             No
+of the Comoanv?
+latest Date on which RPT policy is updated
+
+lndicate company website link for updated RPT policy ofthe company
+
+Whether statement on deviation or variation for proc€eds of public lssue,
+rlghts issue, preferential issue, qualified institutions placement etc. is                        No
+aoDlicable to the comDanv for the current quarter?
+No. of times funds raised during the quarter
+                                                                                                                                 m
+whether the disclosure for the Default on Loans and Debt Securities is
+applicable to the entity?
+                                                                                                  No
+                                                                                                                                 t*waffi                      <<< Notes mandatory,
+                                                                                                                                                              Not Applicable
+                                                                                                                                                                                     if
+
+  ffiffi
+                                                                                                          01,07-2025               01-04-202S
+
+                                                                 Date of end ofreponing period            3G09-2025                3rc-202S
+                                                      Whether results are audited or unaudited            Unaudited                Unaudlted
+
+                                                                                                          standalone
+
+
+
+
+           Revenueftom opeEtions                                                                                       2676.tr                  5538.0(
+                                                                                                                        107   tr                 24.Ot
+
+
+ilirt::!
+   la)     a.d d h,t.d,l<..n<rd.d
+
+   tb)     Purcha$s of stock-in-trade                                                                                     otr                      104
+
+
+           Changes in inwntories of fi nished goods, work-in-progress and stock-in-trade                                  otr                      od
+                                                                                                                        287.tr
+   le)     Financ€ cois                                                                                                 222.U                    46_m
+   (f)                                                                                                                  169.0C
+
+
+
+                                                                                                 'f:,P,,,gtnW:f;.       31-m                     711.m
+   2
+
+   3
+
+
+
+
+   7
+
+
+   9
+  10
+
+
+
+
+           Net movehent in r€gulatory def€rral account balances Jelat€d to proflt or loss
+
+
+
+
+                                    _ P.ofit (lossl from discontln_utd oreratloni-b-€fore tax
+
+
+           Sha.e of profit (loss) of a$ociates and ioiat venturer accounted for using equity
+
+
+
+
+           proflt or loss, iilributable to owners of parent
+
+
+
+
+           Debt equity ratio
+
+
+           Debl service coverage raiio
+
+           lnterest seruice covarage.atio
+
+                                                                    Amount in
+
+
+
+
+                                Date of start of reporting period    07-04-2025
+                                Date of end of reporting period      30-09-202s
+                     Whether results are audited or unaudited        Unaudited
+                   Nature of report standalone or consolidated       Standalone
+
+
+
+
+    Property, plant and equipment                                            12545.00
+    Capital work-in-progress                                                      187.00
+    lnvestment property                                                            8s.00
+    Goodwill                                                                        0.00
+    Other intangible assets                                                        81.00
+    lntangible assets under development                                             0.00
+    Biological assets other than bearer plants                                      0.00
+    lnvestments accounted for usin        u   method                                0.00
+
+
+     Non-cu rrent investments                                                   6381.00
+     Trade receivables, non-current                                                 0.00
+     Loans, non-current                                                           735.00
+     Other non-current financial assets                                           308.00
+
+
+    Deferred tax assets (net)
+    Other non-cu rrent assets                                                     585.00
+
+
+
+     lnventories                                                                  329.00
+
+
+       Current investments                                                          0.00
+       Trade receivables, current                                               1598.00
+       Cash and cash equivalents                                                1239.00
+       Bank balance other than cash and cash equivalents                          603.00
+       Loans, current                                                             129.00
+       Other current financial assets                                             366.00
+
+
+     Current tax assets (net)
+     Other current assets                                                         358.00
+
+
+3    Non-current assets classified as held for sale
+
+4        Regulatory deferral account debit balances and related
+         deferred tax Assets                                                6772.00
+                                                        Total assets       37752.00
+    Equity and liabilities
+1    Equity
+      Equity attributable to owners of parent
+         Equity share capital                                                133.00
+        Other equity                                                       10096.00
+                 Total equitv attributable to owners of parent             10229.00
+       Non controlling interest
+                                                  Total equity             1.0229.00
+     Iiabilities
+       Non-current liabilities
+        Non-current financial liabilities
+        Borrowings, non-cu rrent                                            8010.00
+        Trade Payables, non-current
+          (A) Total outstanding dues of micro enterprises and
+          small enterprises                                                    0.00
+          (B) Total outstanding dues of creditors other than
+          micro enterprises and small enterprises                             s6.00
+          Total Trade payable                                                 s6.00
+        Other non-current financial liabilities                             2010.00
+                            Total non-current financial liabilities        10076.00
+        Provisions, non-cu rrent                                             570.00
+        Deferred tax liabilities (net)                                      2742.O0
+        Deferred government grants, Non-current
+        Other non-current liabilities                                        294.00
+                                       Total non-current liabilities       1"3082.00
+       Current liabilities
+        Current financial liabilities
+          Borrowings, current                                               3484.00
+          Trade Payables, current
+            (A) Total outstanding dues of micro enterprises and
+            small enterprises                                                   7.OO
+            (B) Total outstanding dues of creditors other than
+            micro enterprises and srnall enterprises                        2843.OO
+          Total Trade payable                                               2850.00
+           Other current financial liabilities                              1048.00
+                                   Total current financial liabilities      7382.00
+           Other current liabilities                                         933.00
+           Provisions, current                                                48.00
+           Current tax liabilities (Net)                                      78.00
+           Deferred government grants, Current                                  0.00
+                                               Total current liabilities    8441.00
+3   Liabilities directly associated with assets in disposal group
+                                        classified as held for sale
+
+4    Regulatory deferral account credit balances and related
+                                           deferred tax liabi
+
+
+
+
+    Disclosure of notes on assets and liabilities               Add Notes
+
+ffi[@
+
+
+
+
+1
+2
+3
+4
+5
+
+
+
+I
+9
+lo
+1l
+1'
+13
+t4
+15
+
+
+
+
+4
+r
+6
+7
+
+
+9
+10
+11
+12
+13
+14
+
+
+                                   :r=-8,il
+        Un-allocable tiabilities
+                                   ITreMffi=:
+                                   @
+
+                                                                                                                 Amount in
+
+
+
+
+                                                        Date of start of reporting period   oL-o7-2025            01-04-2025
+
+                                                         Date of end of reporting period    30-09-2025            30-09-2025
+
+                                               Whether results are audited or unaudited     unaudited             Unaudited
+                                          Nature of report standalone or consolidated       Standalone            Standalone
+
+
+
+
+  Remeasurement of defined benefit        an       of                                                                          -14.00
+
+
+
+          tax          to items that will not be reclassified to       or loss                                                   0.00
+
+
+
+
+4 lncome tax relating to items that will be reclassified to profit or loss                               o.ool                   0.00
+
+   Home                       Validate
+                                                                                                                  Amount in
+
+
+
+
+                                                                 Date of start of reporting period                    or-o4-2025
+                                                                 Date of end of reporting period                      30-09-2025
+                                                  Whether results are audited or unaudited                            Unaudited
+                                                Nature of report standalone or consolidated                           Standalone
+
+
+
+
+       before tax                                                                                                                    587
+
+
+Adjustments for finance costs                                                                                                      446.00
+Adjustments for decrease (increase) in inventories                                                                                  69.00
+                decrease (increase)     trade receiva bles, current                                                            -677.O0
+Adjustments for decrease (increase) in trade receivables, non-current                                                                0.00
+            for decrease (increase)     other current assets                                                                         0.00
+                decrease (increase) tn other non-current assets                                                                      0.00
+Adjustments     other financial assets, non-current                                                                                  0.00
+Adjustments for other financial assets, current                                                                                      0.00
+Adjustments for other bank balances                                                                                                  0.00
+Adjustments for increase (decrease) in trade payables, current                                                                 1296.00
+Adjustments for increase (decrease) in trade payables, non-current                                                                   0.00
+Adjustments for increase (decrease) in other current liabilities                                                                     0.00
+       ents for increase (decrease) in other non-current liabilities                                                                 0.00
+Adjustments for depreciation and amortisation expense                                                                              338.00
+            for impairment loss reversal of impairment loss recognised in profit or                                                  0.00
+loss
+                                 current                                                                                             0.00
+                 for provislons, non-current                                                                                         0.00
+                 for other financial liabilities, current                                                                            0.00
+                     other fina ncial llabilities, non-current                                                                       0.00
+                 for unrealised foreign exchange losses gains                                                                        0.00
+               for dividend income                                                                                                  18.O0
+               for interest income                                                                                                  43.00
+               for share-based                                                                                                       0.00
+               for fair value losses (gains)                                                                                       -10.00
+               for undistributed profits of associates                                                                               0.00
+       adjustments for which cash effects are investing or financing cash flow                                                    0.00
+       adjustments to reconcile profit (loss)                                                                                     0.00
+          ustments for non-cash items                                                                                          -139.00
+       of profit and loss from partnership firm or association of persons or limited                                                 0.00
+
+
+
+
+           received                                                                                                               0.00
+                                                                                                                                  0.o0
+         received                                                                                                                 0.00
+                                                                                                                                100.00
+       inflows                of cash                                                                                             0.00
+                                                                                                                               7749.W
+                                                                                                     -.::...----..+
+
+
+Cash flows from losing control of subsidiaries or other businesses                                                                   0.00
+Cash flows used in obtaini        control of subsidiaries or other businesses                                                       20.00
+Other cash receipts from sales of equity or debt instruments of other entities                                                       0.00
+Other cash payments to acquire equity or debt instruments of other entities                                                          0.00
+Other cash receipts from sales of interests in joint ventures                                                                        0.00
+Other cash payme nts to acqurre interests in joint ventures                                                                          0.00
+Cash receipts from share of profits of partnership firm or association of persons or                                                 0.00
+ mited liability partnerships
+Cash payment for investment in partnership firm or association of persons or limited                                                 0.00
+        partnerships
+Proceeds from sales of property, plant and equipment                                                                                 2.00
+
+             Purchase of property, plant and equipment                                                        332.00
+                      from sales of investment property                                                         0.00
+                      of investment property                                                                    0.00
+                      from sales of intangible assets                                                           0.00
+                      of intangible assets                                                                      0.00
+                      from sales of intangible assets under development                                         0.00
+                      of intangible assets under development                                                    0.00
+             Proceeds from sales of goodwill                                                                    0.00
+             Purchase of goodwill                                                                               0.00
+             Proceeds from biological assets other than bearer plants                                           0.00
+             Purchase of biological assets other than bearer plants                                             0.00
+             Proceeds from government grants                                                                    0.00
+             Proceeds from sales of other               assets                                                  0.00
+             Purchase of other long-term assets                                                                 0.00
+             Cash advances and loans made to other parties                                                    -69.00
+             Cash             from repayment of advances and loans made to other parties                        0.00
+             Cash payments for future contracts, forward contracts, option contracts and swap
+             contracts                                                                                          0.00
+             Cash receipts from future contracts, forward contracts, option contracts and swap
+             contracts                                                                                          0.00
+             Dividends received                                                                                18.00
+             lnterest received                                                                                 16.00
+             lncome taxes paid (refund)                                                                         0.00
+
+:l           Other inflows           of cash
+                                                                                                   ...,.
+                                                                                                               15.00
+
+                                                                                                           , -262'-0j
+     4
+             Proceeds from changes in ownership interests in subsidiaries                                       0_00
+                           from changes in ownership interests in subsidiaries                                  0.00
+             Proceeds from issuing shares                                                                       0.00
+             Proceeds from issuing other equity instruments                                                     0.00
+                    ents     acqu      r redeem entity's shares                                                 0.00
+             Payments of other equity instruments                                                               0.00
+             Proceeds from exercise of stock options                                                            0.00
+             Proceeds from             debentures notes bonds etc                                               0.00
+             Proceeds from                                                                                      0.00
+                             of borrowings                                                                    s37.00
+                         of lease liabilities                                                                  72.OO
+             Dividends                                                                                          0.00
+             lnterest paid                                                                                    479.OO
+             lncome                                                                                             0.00
+                    inflows                of cash                                                            350.00
+                                                                                                             -678,00
+
+
+
+
+         I   Effect of exchange rate changes on cash and cash equivalents                                       0.00
+                                                                                                              809.
+         lCash and cash equivalents cash flow statement at beginning of period                                430.00
+         I                           cash chdc€shoduiv{l€ntstdsh     fidwetatem€htei€nd bfo€fidd             1239.00
+
+
+       |                   ,ban*e
+
+
+
+
+                           ikrd'*t
+
+
+
+
+                           li*rdr*r
+
+
+
+
+*-" i**-*'--       -.""** r::x;n:;,
+
+
+
+
+*"--
+       i^-**-'-'
+
+                           ;edd4*l
+
+
+
+
+                                      t"-
+
+                                                                                                                                                                        B             3
+                                                                                                                                         t
+                                                                                                                                                                        q
+                                                                                                                                         I
+    I       !                    !   I                I                 I       I    I   I                             I         I           I         !            I                 i
+                        lt                                                  I                    I                 i                 i                                               { I
+                                                                                                                       t!i                   ,i
+                    !                                                                                                                                      r-
+!       I               ii!              ,!   t   ,i I        :!                         i           ,t       i€             !   !I                    ;!           t ,l
+        !   t       t
+                                                                        !l      !
+                                                                             '! is                   l;                                                                          ti i;
+!           t           ii i                                            ii I !!Ei ii ii                                                                                             lt
+                                              I II i,
+                    I                         I
+I       !   i           I! I             !!                   t!                                     ir       !l       IJ    I   ii          Ii        ti           I ll         qi it
+                                                  i;
+                                                                                1                                                                                            z
+        ; ;
+            I
+                        t,
+                        li
+                                         !
+                                         I
+                                              !
+                                                  I
+                                                              t
+                                                              I
+                                                                        i ;;;
+                                                                        I
+                                                                                I
+                                                                                     I   I
+                                                                                             !
+                                                                                                              I
+                                                                                                                       !
+                                                                                                                       I
+                                                                                                                             !
+                                                                                                                                                                                 ;
+                                                                                                                                                                                 I
+I                       li                    I       I                              :       !                                   I                                      !
+                                                                                                                                                                             t
+t       z   !                            I    :       I                 I       !    !   !                    I        I     I   I                                  t   I
+                                                                                                                                                                                 :
+I       I   I           i;               I    I   I   I       I         I       I    I   I i                  i        I     I   I                                  I i      I   I
+                        I
+                        I
+        !
+        5               I
+                        i.
+I                   I   1t                                                               t                    tI       I         I
+                                                                                                                                             !         I                     I        i
+t       I
+        :
+            c
+                                         i    i   t   I       i         i       I I      i.. I
+                                                                                                     I
+                                                                                                              i....          i   !           i.        I            i i      I   i    I
+!           I
+                        1-
+                                              I               I         t                i
+                                                                                                     !.....
+                                                                                                              :        !-    !   i           i         ;-
+                                                                                                                                                       I            t        i   !
+                                         F            t                                              :
+                                                                                                                                                                                 !
+i       !   I           i!               i    I       I       I         i       I        l           i        !        I     I   I           I         I            i
+                            i        i   7                                      t i                                    t         I                't   7        t       i        :
+                                                              I
+                                         3                    5                 P                                      i         ?                     i        E
+                                                                                                                                                                !
+                                                                                                                                                                        I
+                                                                                                                                                                        !
+                                                                                                                                                                                 e
+                                                              I                      !                                 !         !                lt   E                         z
+                                                                                i!                                                                rl
+                            F!           ::                   ':'                                                                IE                                              3i
+                                                                                                                                                  iE
+                            a
+                            I
+                                     (                        I                 !    I
+                                                                                                                       I         i                     t        i       !
+                                                                                                                                                                                 !
+                                                              t
+                                                                                                                       I
+                                                                                                                                                   i : 3        :
+                                     i   I                    I                 I    I                                           I                13            I       I        I
+                            :
+                                         t    t           :   t     3                                                  t                                                I
+                                                          T   z     I                                         3        t     I                                               i   e
+                            B
+                                              I           :   I                                                                                                         ?
+                                                                                                                                                                             t   I
+                !
+                                         e
+                                         I                          i           I                                            !
+                            !                             !   I     I
+                            I                 I                                                                              I                                          i3
+                t           I            !;               a
+                                                              :;    a
+                                                                                                                             I                                               I   !i
+
+                                                             (       CoNsCI rr nArC $
+                                       BSE LTD
+                         ACKNOWLEDGEMENT
+Acknowledgement No   2410202508092633                   Date & Time : 2411012025 08:09:26 PM
+
+Scrip Code           500084
+
+Entity Name          CESC LIMITED
+Compliance Type      Regulations 33(3) - lntegrated Finance lnd AS
+Quarter / Period     30t09t2025
+Mode                  XBRL E-Filing
+
+ffirffiffiffi                                                                                         *Validate General lnformation to open other sheets
+
+
+
+
+Scrip codei                                                                                  500084
+
+NSE Symbol*                                                                                   cEsc
+
+MSEI Symbol*                                                                               NOTLISTED
+
+lslN *                                                                                    tNE486A01021
+
+Name of comDanv                                                                          CESC LIMITED
+
+Type of company                                                                            Main Board
+
+class of security
+
+Date of start of financial year                                                                                               04       zo25
+
+Date of end offinancial year
+
+Date of board meeting when results were approved                                               17                             10       2025
+Date on which prior intimation of the meeting for considering financial                                                       10       zo25
+                                                                                               09
+results was informed to the exchanse
+Description of presentation currency
+
+Level of rounding                                                                            Crores
+
+Reporting Type                                                                              Quarterly
+Reporting Quarter                                                                        Second quarter
+
+Nature of report standalone or consolidated                                               Consolidated
+
+Whether results are audited or unaudited for the quarter ended                             Unaudited
+Whether results are audited or unaudited for the Year to date for current
+                                                                                           Unaudited
+oeriod ended/vear ended
+Segment Reporting                                                                        Single segment
+
+Description of single segment                                               Generation and Distribution of Electricity
+Start date and time of board meeting                                                       17-!0-2025                         15        30
+
+End date and time of board meeting                                                         fl-ro-2o25                          L7       00
+
+Whether cash flow statement is applicable on company                                           Yes
+
+Type of cash flow statement                                                            Cash Flow lndirect
+
+Declaration of unmodified opinion or statement on impact of audit
+                                                                                         Not applicable
+qualification
+
+ [$@$[;ffi
+
+                                                             oate ofitad ofrepoding p€riod                    01{7-2025                     01-0+202s
+                                                              Oate of end of repoding p€riod                  3@2025                        30-09-202s
+
+                                                                                                              Unaudited                      Unaudited
+                                                 Nature of repodsbndalone or consolidated                    consolldeted                   consolidated
+
+
+
+
+          Rev€nu€ from operations                                                                                              1167 N                      1&69.fi
+                                                                                                                                 1S2.0C                      464 N
+
+
+
+
+:__:.fg
+  (.)     cdd ot materlels consumad                                                                                            3228.0(                     6qqi tr
+  {b)                                                                                                                             s8.tr                       s9.0(
+
+  k)                                                                                                                                0.tr
+          Changcs ln lnv€ntorles of finished goods, wo.k-in-progress and *ockln-t.ade                                                                          0.0(
+  (d)     Emolwee benefit exoense                                                                                                ?q6   tr                   755.tr
+  le)                                                                                                                                                       7mtr
+  tft                                                                                                                            311.0(
+                                                                                               |iljF:lill$EFi€---r-El
+                                                                                               ffiBtN$Nl}ldNNlii            iut:d ^ ^t: i
+
+   I      Other                                                                                                                                             1137_tr
+   7
+
+
+
+   4
+
+   5
+   6
+   7
+
+
+
+   9
+
+  10
+
+
+
+
+          share of profit (lo$l of associates and joint ventures accounted for uslng equlty
+
+
+
+
+          Compreh.nslve income for th€ period aftrlbubbl€ to owners of parcnt
+          Tdd comprehensive incode fo. the period atulbubble to ownere of paaent oon-
+
+                        f-------------
+                        I         Vdidate.,";*; :l
+                        ffi                                                  Amount in
+
+
+
+
+                                         Date of start of reporting period    0L-o4-2025
+                                         Date of end of reporting period      30-09-2025
+                          Whether results are audited or unaudited            Unaudited
+                        Nature of report standalone or consolidated          Consolidated
+
+
+
+
+        Property, plant and equipment                                                 21248.OO
+        Capital work-in-progress                                                          890.00
+        lnvestment property                                                                 63.00
+        Goodwill                                                                            76.00
+        Other intaneible assets                                                           94s.00
+        lntangible assets under development                                                  0.00
+        Biological assets other than bearer plants                                           0.00
+        lnvestments accounted for                       method                               0.00
+
+
+          Non-current investments                                                           s9.00
+          Trade receivables, non-current                                                     0.00
+          Loans, non-current                                                                 7.00
+          Other non-current financial assets                                              285.00
+
+
+        Deferred tax assets (net)                                                            0.00
+        Other non-current assets                                                         t787.00
+
+
+
+          lnventories                                                                     6L2.00
+5
+
+              Current investments                                                           80.00
+              Trade receivables, current                                                 3003.00
+              Cash and cash equivalents                                                  29s1.00
+              Bank balance other than cash and cash equivalents                          1570.00
+              Loans, current                                                                5.00
+              Other current financial assets                                              954.00
+
+
+          Current tax assets (net)                                                          11.00
+          Other current assets                                                            573.00
+
+
+    3     Non-current assets classified as held for sale                                     0.00
+    4     Regulatory deferral account debit balances and related
+          deferred tax Assets                                                            8055.00
+
+
+
+
+                  share                                                                   133.00
+          Other                                                                       12578.OO
+
+
+        Non                   interest                                                    620.00
+
+           Non-current fi nancial liabilities
+           Borrowings, non-current                                                      13822.OO
+           Trade Pavables, non-current
+              (A) Total outstanding dues of micro enterprises and
+              small enterprises                                                                0.00
+              (B) Total outstanding dues of creditors other than
+              micro enterprises and small enterprises                                         63.00
+             Total Trade oawble                                                            63.00
+           Other non-current financial liabilities                                       2630.00
+                            Total non-current fi nancial liabilities                    16515.00
+           Provisions, non-current                                                           505.00
+           Deferred tax liabilities (net)                                                3371.00
+           Deferred government grants, Non-current                                             0.00
+           Other non-current liabilities                                                     294.00
+                                      Total non-current liabilities                     20786.O0
+        Cuirentliabilitiqs      ,.                                           .
+
+           Current fi riaricial liabilities
+             Borrowings, current                                                         4989.00
+             Trade Pavables, current
+               (A) Total outstanding dues of micro enterprises
+                and small enterprises                                                         47.OO
+                (B) Total outstanding dues of creditors other than
+                micro enterprises and small enterprises                                  1792.00
+                                                                                         1839.00
+             Other current financial liabilities                                             927.OO
+                                   Total current finan6ial liabilities                   77s5.00
+             Other current liabilities                                                   1175.00
+             Provi:ions, current                                                              52.00
+             Current tax liabilities (Net)                                                    80.00
+             Deferred government grants, Current                                               0.00
+                                  : :          Total current liabilitiet                 9062.00
+    Liabilities directly associated with assets in disposal group
+                                        classified as held for sale                            0.00
+4     Regulatory deferral account credit balances and related
+                                          deferred tax liability                               5.00
+                                                          Totalliabilities              29854.00
+                                              Total equity and liabllitles              43185.00
+
+      Disclosure of notes on assets and liabilities                              Add Notes
+
+EMffi
+
+
+
+
+2
+3
+4
+5
+6
+7
+a
+I
+10
+11
+12
+
+14
+15
+
+
+
+        uHll6bleA$eb
+
+
+
+
+1
+
+
+
+
+4
+5
+6
+
+
+
+9
+10
+11
+12
+l3
+14
+
+
+                       ::: :i:r\:::::ijl4lFlir\i!:::li:l       l. :
+
+
+
+
+                       !iii li\i\li::i:!,itH:ft:l jl:'ii:i:i.:.::j
+
+
+
+                        @
+
+                                                                                                                  Amount in
+
+
+
+
+                                                        Date of start of reporting period   oL-o7-2025             01-04-202s
+
+                                                         Date of end of reporting period    30-09-2025             30-09-2025
+
+                                               Whether results are audited or unaudited      unaudited             Unaudited
+                                          Nature of report standalone or consolidated       Consolidated          Consolidated
+
+
+
+
+  Remeasurement of defined benefit        an       of                                                                           -17.00
+
+
+              on fair valuation of investment
+
+
+
+   ncome tax rel       to items that will not be reclassified to       or loss
+
+
+
+
+4 lncome tax relating to items that will be reclassified to profit or loss                                 0.00                   0.00
+
+                                     validate
+                                                                                                        Amount in
+
+
+
+
+                                                                    Date of start of reporting period   or-o4-2025
+                                                                    Date of end of reporting period      30-09-2025
+                                                          Whether results are audited or unaudited       unaudited
+                                                        Nature of report standalone or consolidated     Consolidated
+Part I   Slue color marked fields ar€ non-mandatory.
+  t      Statement of cash flows
+         Cash flows from used in operating adivities
+         Profit before tax                                                                                              1073
+
+
+         Adjustments for finance costs                                                                               700.00
+         Adjustments for decrease (increase) in inventories                                                          113.00
+         Adjustments for decrease (increase) in trade receivables, current                                          1554.00
+         Adjustments for decrease (increase) in trade receivables, non-current                                         0.00
+         Adjustments for decrease (increase) in other current assets                                                    0_o0
+         Adjustments for decrease (increase) in other non-current assets                                                0.00
+         Adjustments for other financial assets, non-current                                                            0.00
+         Adjustments for other financial assets, current                                                                0.00
+         Adjustments for other bank balances                                                                            0.00
+         Adjustments for increase (decrease) in trade payables, current                                             1138.00
+         Adjustments for increase (decrease) in trade payables, non-current                                             0.o0
+         Adjustments for increase (decrease) in other current liabilities                                               0.00
+         Adjustments for increase (decrease) in other non-current liabilities                                           0.00
+                                          amortisati    expense                                                      515.00
+         Adjustments for impairment loss reversal of impairment loss recognised in profit or                            0.00
+         loss
+         Adjustments for provisions, current                                                                            0.00
+         Adjustments for provisions, non-cu rrent                                                                       0.00
+                     for other fina ncial liabilities, cu rre                                                           0.00
+         Adjustments for other financial liabilities, non-current                                                       0.00
+                                                                                                                        0.00
+         Adjustments for dividend income                                                                                0.00
+         Adjustments for interest income                                                                               75.00
+                 nts for share-based payments                                                                           0.00
+                    nts for fair value losses (gains)                                                                  -42.O4
+         Adjustments for undistributed profits of associates                                                             0.00
+         Other adjustments for which cash effects are investing or financing cash flow                                   0.00
+         Other adjustments to reconcile profit (loss)                                                                    0.00
+         Other adjustments for non-cash items                                                                        -271.OO
+         Share oi profit and loss fiom partnership firm or association of persons or limited                             0.00
+         liabi
+                                                                                                                     6?4.OO
+                                                                                                                     1697.00
+         Dividends received                                                                                             0.00
+                                                                                                                        0.00
+         lnterest received                                                                                              0.00
+          ncome taxes pa id (refu nd)                                                                                 112.00
+         Other inflows             of cash                                                                              0.00
+                                                                                                                     158s.00
+
+
+         Cash flows from losing control of subsidiaries or other businesses                                              0.00
+                flows used in obtaining control of subsidiaries or other businesses                                      0.00
+         Other cash receipts from sales of equity or debt instruments of other entities                                  0.00
+               cash payments to acquire equity or debt instruments of other entities                                     0.00
+               cash receipts from sales of interests in joint ventures                                                   0.00
+               cash payments to acquire interests in joint ventures                                                      0.00
+
+                                                                        of persons or
+    Cash receipts from share of profits of partnership firm or association
+    limited liability partnerships                                                            0.00
+    Cash payment for investment in partnership firm or association of persons or limited
+    liability partnerships                                                                    0.00
+    Proceeds from sales of property, plant and equipment                                      4.00
+    Purchase of property, plant and equipment                                              1104.00
+    Proceeds from sales of investment property                                                0.00
+    Purchase of investment property                                                           0.00
+    Proceeds from sales of intangible assets                                                  0.00
+    Purchase of intangible assets                                                             0.00
+    Proceeds from sales of intangible assets under development                                0.00
+    Purchase of intangible assets under development                                           0.00
+    Proceeds from sales of goodwill                                                           0.00
+    Purchase of goodwill                                                                      0.00
+    Proceeds from biological assets other than bearer plants                                  0.00
+    Purchase of biological assets other than bearer plants                                    0.00
+    Proceeds from government grants                                                           0.00
+    Proceeds from sales of other long-term assets                                             0.00
+    Purchase of other long-term assets                                                        0.00
+    Cash advances and loans made to other parties                                             0.00
+    Cash receipts from repayment of advances and loans made to other parties                  0.00
+    Cash payments for future contracts, forward contracts, option contracts and swap
+    contracts                                                                                 0.00
+    Cash receipts from future contracts, forward contracts, option contracts and swap
+    contracts                                                                                 0.00
+    Dividends received                                                                        0.00
+    lnterest received                                                                        68.00
+    lncome taxes paid (refund)                                                                0.00
+    Other inflows           of cash                                                         253.00
+                                         Net                                               ^779.O0
+4
+    Proceeds from changes in ownership interests in subsidiaries                              0.00
+    Payments from changes in ownership interests in subsidiaries                              0.00
+    Proceeds from issuing shares                                                              0.00
+    Proceeds from issuing other equity instruments                                            0.00
+    Payments to acquire or redeem entity's shares                                             0.00
+    Payments of other equity instruments                                                      0.00
+    Proceeds from exercise of stock options                                                   0.00
+    Proceeds from issuing debentures notes bonds etc                                          0.00
+    Proceeds from borrowings                                                               1602.00
+    Repayments of borrowings                                                               1108.00
+    Payments of lease liabilities                                                            28.00
+    Dividends paid                                                                           10.00
+    lnterest paid                                                                           794.OO
+    lncome taxes paid (refund)                                                                0.00
+    Other inflows (outflows) of cash                                                        302.00
+                                                                                            -35.00
+
+                                                                                            770.O0
+5   Effect of exchanse rate chanses,6n cash and tash Edul l€nts : '
+    Effect of exchange rate changes on cash and cash equivalents                              0.00
+                                    Net increase (decrea$bl in iash and tasb equivalentr    770,00
+    Cash and cash equivalents cash flow statement at beginning of period                   2181.00
+                        Cash and cash equivalents (arh flow ftatement at 6nd of period     2951.00
+
+
+

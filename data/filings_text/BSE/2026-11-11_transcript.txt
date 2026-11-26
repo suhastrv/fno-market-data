@@ -1,0 +1,914 @@
+                                                               BSE - PUBLIC
+
+
+
+
+                                                                                                                   BSE
+                                                                                                                    The Power of Vibrance
+
+
+November 11, 2026
+
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor, Plot No. C/1
+G Block, Bandra-Kurla Complex, Bandra (E)
+Mumbai – 400 051
+
+
+Symbol: BSE                                                                                                 ISIN: INE118H01025
+
+Ref: Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+     2015
+
+Sub: Transcript of the Conference Call held on November 4, 2026
+
+Dear Sir/ Madam,
+
+With reference to our letter dated October 27, 2026, intimating about the conference call with
+Analysts/Investors held on November 4, 2026, please find attached the transcript of the aforesaid
+conference call.
+
+
+This intimation will also be available on the website of the Company: www.bseindia.com
+
+This is for your information & record.
+
+Thanking you,
+
+Yours faithfully,
+
+For BSE Limited
+ Vishal   Digitally signed
+          by Vishal
+ Kamalaks Kamalaksha Bhat
+          Date: 2026.11.11
+ ha Bhat 12:07:52 +05'30'
+
+Vishal Bhat
+Company Secretary and Compliance Officer
+ACS - 41136
+
+Encl: a/a
+
+
+
+
+ Registered Oﬃce: BSE Limited, Floor 25, P J Towers, Dalal Street, Mumbai - 400 001, India. T: +91 22 2272 1234/33 | E: corp.comm@bseindia.com
+                                  www.bseindia.com | Corporate Identity Number : L67120MH2005PLC155188
+
+                     BSE
+                      The Power of Vibrance
+
+
+                              BSE LIMITED
+                   Q2 FY27 Earnings Conference Call
+
+
+
+
+V
+
+
+
+
+                      November 4, 2026
+                           BSE LIMITED
+    25th Floor, P.J. Tower, Dalal Street, Fort, Mumbai 400 001
+
+                                                                                  ESSE
+                                                                                  The Power of Vibrance
+
+Moderator:
+
+
+Ladies and gentlemen, good day, and welcome to BSE Limited Q2 FY27 Earnings Conference Call. As a
+reminder, all participants will be in the listen only mode and there will be an opportunity for you to ask
+questions after the presentation concludes. Should you need assistance during the conference call,
+please signal an operator by pressing star then zero and you touch tone phone. Please note that this
+conference is being recorded.
+
+
+I now hand the conference over to Mr. Anand Sethuraman. Thank you, and over to you, sir.
+
+
+Anand Sethuraman:
+
+Thank you so much, Yusuf. Good evening, everyone. Welcome to BSE's Q2 FY 2027 Earnings Call. I'm
+Anand Sethuraman, and it's my privilege to introduce you to the members of the BSE's leadership team
+today.
+
+Starting with Mr. Sundararaman Ramamurthy, Managing Director and CEO; Mr. Saurabh Shukla and Mr.
+Gopalan S. Raghavan, Executive Directors; Mr. Deepak Goel, Chief Financial Officer; Mr. Sunil
+Ramrakhiani, Chief Business Officer; Ms Geetha Gangadharan, Chief Regulatory Officer; Mr. Viral
+Davda, Chief Technology Officer; Mr. Rudresh Kunde, Chief of Product, Policy and Strategy, Ms. Radha
+Kirthivasan, Head of Issuer Relations and Corporate Sales; Mr. Ramesh Gurram, Chief Information
+Security Officer; Mr. Abhishek Jha, Joint Chief Information Security Officer; Mr. Sanjay Jain, Chief Risk
+Officer; Mr. Vishal Bhat, Company Secretary; Mr. Ashutosh Singh, Managing Director and CEO, BSE
+Index Services; Ms. Vaishali Babu, Managing Director and CEO of BSE Clearing Corporation. We also
+have representatives from our finance, business, Investor Relations team here.
+
+Please note that our latest financial results and investor presentation are available on the BSE website.
+Today, we'll start with remarks from our MD and CEO on our performance, followed by a Q&A session.
+
+All participant lines will be muted for the duration of the call and there will be an opportunity for you to
+ask questions after the management remarks. Some of the remarks made today in this call may be
+forward-looking in nature and are subject to risks and uncertainties. The company does not undertake
+to update these forward-looking statements publicly.
+
+With that, I would now invite BSE MD and CEO to share his views. Thank you, and over to you, sir.
+
+
+
+                                                     1
+
+
+                                               BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+S. Ramamurthy:
+
+Thank you. Good evening, everyone, and thank you for joining us today. Let me begin by welcoming our
+shareholders, analysts, investors, members and all other stakeholders on this call. Let me first talk a
+little bit about the macroeconomic environment. Indian capital markets continue to demonstrate
+structural resilience despite a volatile global environment marked by intensifying geopolitical tensions,
+fluctuating crude oil prices and prolonged tightening of global financial conditions.
+
+Against this challenging backdrop, India's core macroeconomic fundamentals remain exceptionally
+robust. Real GDP expanded by 7.8% in Q1 of FY27, fundamentally driven by sustained momentum
+across private consumption, capital investment, manufacturing output and a resurgent services sector.
+
+Importantly, institutional market dynamics have evolved to provide unparalleled systemic stability.
+While foreign institutional investors adopted a cautious stance amid macro uncertainties resulting in a
+net outflow of approximately Rs. 35,861 crores from Indian equities in September 2026 domestic
+institutional investors absorbed this liquidity pressure, deploying approximately Rs. 76,030 crores
+during the same period.
+
+This robust influx of domestic capital serves as a critical countercyclical buffer, deepening market
+liquidity and validating long-term confidence in the Indian growth narrative. Indian capital markets are
+now increasingly anchored by domestic long-term financial savings.
+
+Evidencing this depth, the mutual fund industry's assets under management reached a historic
+milestone of approximately Rs. 82.64 lakh crores as of September 2026, making an impressive 12.5%
+expansion during the first half of FY27. The compounding participation of both household and
+institutional investors underscores the self-sustaining nature, maturation and expanding capacity of the
+domestic financial ecosystem.
+
+Against this backdrop, I'm pleased to share that BSE continued to deliver strong financial performance
+during the first half of FY27. Consolidated revenues for H1 FY27 stood at Rs. 3,257 crores compared
+with Rs. 2,184 crores in the corresponding period last year, representing a robust year-on-year growth
+of 49%.
+
+I will now share some of the key financial numbers on a consolidated basis for the half year ended
+September 30, 2026, as compared to the previous year. Operational revenues have grown by 48% to
+Rs. 2,999 crores from Rs. 2,026 crores.
+
+                                                    2
+
+
+                                               BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+Transaction charges comprising revenues from the equity cash, equity derivatives, mutual fund and
+clearing house segments registered a substantial increase of 60%, rising to Rs. 2,456 crores from Rs.
+1,531 crores reflecting robust growth in core trading and settlement related activities. Other operating
+income, which includes enhanced data dissemination fees, co-location and order throttle charges,
+index services, etc., has increased by 23% to Rs. 200 crores from Rs. 163 crores. Operating expenses
+increased by 36% Rs. 980 crores from Rs. 721 crores. It may be noted that 50% of the total operating
+expenses are attributable to regulatory fees and clearing and settlement expenses, all of which is
+directly correlated to increasing transaction volumes. The operating EBITDA, including contribution to
+core SGF has increased by 55% to Rs. 2,019 crores as compared to Rs. 1,306 crores with margins
+expanding to 67% from 64%.
+
+The net profit attributable to the shareholders of the company has demonstrated a significant increase
+to reach Rs. 1,680 crores from Rs. 1,095 crores representing a robust year-on-year growth of 53% with
+a net profit margin of 52%. The continued growth of BSE's investor base remains an encouraging
+indicator of the growing reach of India's capital markets. Investor accounts registered on BSE have now
+reached 26.8 crores, 3.9 crores new accounts added over the past year.
+
+Importantly, this participation is becoming increasingly broad-based with 11 states now having more
+than 1 crore investor reach, reflecting the widening geographic reach of the capital markets across the
+country.
+
+Alongside this growth, investor education and awareness continue to remain an important priority for
+BSE. We conducted 2,328 investor awareness programs during H1 FY27 reaching over 1.2 lakhs
+participants. Looking ahead, BSE remains deeply committed to expanding investor awareness and
+advancing financial literacy.
+
+We view this educational mandate as a key pillar for promoting informed investment decision
+safeguarding investor interest and securing the long-term sustainable growth of India's financial
+ecosystem. The consistent improvement across both our revenue streams and operating margins is
+direct evidence of our disciplined strategic execution. By expanding market participation and driving key
+platform efficiencies, we are continuously enhancing the depth of India's financial ecosystem while
+reinforcing BSE's structural position at the center of India's capital market expansion.
+
+
+
+
+                                                    3
+
+
+                                              BSE - PUBLIC
+
+                                                                                   ESSE
+                                                                                   The Power of Vibrance
+
+Let me now discuss a few key trends that shaped our business this quarter. In primary markets, we have
+seen very strong momentum during the first half of FY27 with a record 71 main board IPOs, raising over
+Rs. 84,000 crores, making it the strongest on record for Indian capital markets.
+
+In September alone, BSE witnessed a record 32 main board IPO listings, collectively raising Rs. 40,354
+crores. The strong pipeline of issuances coupled with healthy investor participation demonstrates the
+growing confidence of companies in accessing the public markets for capital formation.
+
+We remain optimistic about the opportunities ahead and believe BSE is well positioned to participate in
+India's growing equity capital markets. Alongside the strong momentum in the main board IPO market,
+the SME segment also continued to demonstrate healthy growth with strong issuer and investor
+participation.
+
+BSE SME crossed a significant milestone of 800 listed companies in October 2026, up from 600 a year
+earlier. Notably, the latest 200 listings have raised Rs. 8,387 crores representing nearly 45% of the
+cumulative capital raised on the platform, underscoring the growing role of SMEs in India's economic
+growth and capital market development.
+
+Overall, in H1 FY 2027, issuers raised over Rs. 13.9 lakh crores through BSE's fundraising platforms
+across equity, debt, bonds, commercial papers, REITS, and InvITs, reaffirming the trust placed in BSE's
+market infrastructure. Looking ahead, we remain positive on the outlook for India's primary markets.
+
+The main board IPO pipeline remains strong, with over 150 companies seeking to access the capital
+markets and targeting fund raising of approximately Rs. 1.5 lakh crores. Moving on to our trading
+segment.
+
+We continue to witness strong momentum across both our cash and derivatives market, supported by
+growing client participation and product innovation. In the equity cash segment, BSE continued its
+strong momentum, recording its highest ever quarterly average daily turnover of Rs. 10,494 crores in Q2
+FY27 reflecting sustained market participation and strengthening liquidity on the exchange.
+
+In our Index options segment, Q2 FY27 ADTV by premium volumes stood at Rs. 22,531 crores. While
+this represents our first sequential quarterly contraction decreasing from Rs. 29,615 crores in Q1 due
+to compressed market volatility and certain temporary structural shifts in participation.
+
+
+
+
+                                                    4
+
+
+                                              BSE - PUBLIC
+
+                                                                                ESSE
+                                                                                The Power of Vibrance
+
+However, we have seen a decisive recovery in September 2026 and a record-breaking October 2026,
+which registered our highest ever monthly index options premium ADTV of Rs. 35,481. BSE also
+achieved its highest ever single-day expiry premium turnover of Rs. 85,356 crores on October 22, 2026,
+reinforcing the deep systemic liquidity resilience and expanding market share of our derivatives
+platform.
+
+Crucially, our focus on broadening the derivatives ecosystem continues to progress well. The BSE
+focused IT index derivatives introduced earlier this year are gradually establishing themselves on our
+platform with participation developing across successive expiry.
+
+To further strengthen our global product offering BSE has entered a strategic collaboration with MSCI,
+bringing together BSE's market infrastructural capabilities and MSCI's globally recognized index
+expertise. Through this partnership, we aim to develop and expand MSCI linked derivatives products on
+BSE, providing market participants with greater opportunities to access and manage exposure to global
+and Indian markets.
+
+The collaboration marks an important step in broadening our derivatives ecosystem and strengthening
+BSE connect with domestic and international investors. This reinforces our strategy for offering
+differentiated products that address the evolving requirements of market participants. Moving to other
+operational revenue streams.
+
+BSE's colocation and other connectivity charges, including throttle charges continued to perform well
+with revenues of Rs. 103 crores in H1 FY27. We remain committed to further expanding our colocation
+infrastructure in line with client demand and growing market participation. Turning to our mutual fund
+distribution business. BSE StAR MF continues to deliver strong and consistent growth.
+
+During Q2 FY27, the platform processed 24.5 crore transactions, representing a healthy 22% year-on-
+year increase. Revenue for H1 FY27 grew 11% year-on Rs. 146 crores, reflecting continued growth in
+investor participation and increasing scale of India's mutual fund ecosystem.
+
+As mentioned in my last earnings call update, StAR NPS platform by BSE Technologies continues to
+expand by integrating central recordkeeping agencies and pension fund managers, thereby providing a
+unified architecture for seamless NPS adoption and management. Through this initiative, we are
+strengthening our position as a comprehensive investment and retirement solutions platform,
+supporting investors throughout their long-term wealth creation journey.
+
+
+                                                  5
+
+
+                                             BSE - PUBLIC
+
+                                                                                ESSE
+                                                                                The Power of Vibrance
+
+During the quarter, BSE also signed MOUs partnering with Government of Andhra Pradesh to advance
+SME ecosystems, investor protection, municipal finance, collaborating with MMTC-PAMP to develop
+electronic gold receipts (EGR) and engaging with both Chamber of Marathwada Industries and
+Agriculture (CMIA) and Meesho to enhance SME awareness and capital market participation.
+
+In summary, the first half of FY27 has been a defining period of structural growth for BSE characterized
+by robust financial expansion across our core business verticals accelerating market participation and
+critical platform scalability. This strong H1 performance directly reflects the growing scope and
+resilience of our business model.
+
+As we scale, our focus remains firmly anchored on reinforcing India's market infrastructure, diversifying
+our multi-asset product suite and delivering long-term sustainable value for our stakeholders. This
+institutional progress has been validated by premier global industry benchmarks. BSE was recently
+honoured by Euromoney as Asia's Best Derivatives Exchange and received the Innovation of the Year
+award while FOW Asia Pacific named us Exchange of the Year.
+
+Crucially, the deep capabilities of our subsidiaries were also recognized with BISPL awarded Asia
+Pacific Best Index Benchmark Provider and BSECL winning Asia's Best Clearing House, complemented
+by the Best Content Marketing Award at the AFAQ’s BankFin, these accolades comprehensively
+validate the operational excellence, technological superiority and comprehensive maturation of the BSE
+ecosystem.
+
+Looking forward, we are highly confident in the secular long-term expansion of India's financial
+architecture equipped with a resilient diversified business model, unique network effects across our
+transactional platforms, and an unwavering commitment to core technological innovation BSE is
+uniquely positioned to capture incremental market volumes, pioneering sophisticated financial
+products and drive compounding stakeholder value. Thank you for your enduring trust and strategic
+partnerships.
+
+With these updates, I now hand the call over back.
+
+Anand Sethuraman:
+
+Thank you, sir. We'll now begin the question-and-answer session. In the interest of time and to ensure
+all participants have an opportunity to address the management, we kindly request you to limit your
+
+
+
+                                                     6
+
+
+                                              BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+remarks to a maximum of two questions each. Should you have further questions, you will be welcome
+to rejoin the queue. Thank you.
+
+Moderator:
+
+Thank you, sir. We will now begin the question-and-answer session. First question is from the line of
+Sameet Sinha from Macquarie.
+
+Sameet Sinha:
+
+A couple of questions from my side. First is, looking at the daily data that comes out from your exchange,
+obviously seeing a nice reversal in the derivative side, the options premium and notional as well. The
+equity side is still down sequentially. Any thoughts there that will help us kind of think about how the
+quarter or the rest of the year kind of pans out, that will be helpful.
+
+And the second question is, in the last call, you had set out some goals regarding cash equities, double-
+digit market share and member FPI sort of growth goals. Can you reiterate those? Or where are they
+tracking right now? That will be helpful.
+
+S. Ramamurthy:
+
+Thank you so much for attending the call and asking me this question. As far as the equity trend is
+concerned, there are quite a few macroeconomic situations today as we all are aware, resulting in a
+broader outflow from the Indian market from FPIs. This has impacted multiple things, including the total
+volumes that trade in the equities market in the country.
+
+To compensate it, the new IPOs are coming in are creating a lot of encouraging trading volumes. So, it's
+a mixed bag. Where do we see this equity trend growing. There are a lot of talks about government
+intervention and facilitation of deepening market liquidity, and we hope that some of them if they see
+the light of the day.
+
+And also, with the stabilization that is expected to happen in the global scenario with various outcomes,
+including election outcomes people are talking about. And with all the structural changes related issues
+which were hampering the Indian market at last appear to have been put to rest. We feel that already we
+are seeing we feel that it will further enhance and deepen the market.
+
+
+
+
+                                                      7
+
+
+                                                 BSE - PUBLIC
+
+                                                                                     ESSE
+                                                                                     The Power of Vibrance
+
+And our view is that India has a lot of potential in terms of increased volumes, increased participation
+and increasing liquidity. As far as the trends and targets that we set out for ourselves in terms of number
+of brokers and FPIs, we are faring extremely well, and we are going exactly as per what we thought we
+will be achieving in terms of having people in the net. Exact numbers are available in the presentation,
+so you'll be able to see.
+
+As far as the cash equity market share is concerned, which is one market share which I track, we are yet
+to reach the double-digit market share. There are multiple reasons still pending. Some of the facilitation
+in terms of common contract note have happened.
+
+But still we find quite a few clients of brokers who have completed their KYC who are permitted to trade
+in these segments, say equity of both BSE and NSE, they are yet to be permitted to trade in the BSE,
+which we are working with such brokers that there is such tendency to ensure that the clients are
+provided a fair and equitable field to participate in both NSE and BSE to the extent what they want to.
+So, this we feel should help us.
+
+And also, still the best price execution is not happening at the scale at which we want it to happen. It
+takes time for probably market participants to imbibe along with various other things which have been
+eating away their attention till now, maybe we are yet to make full progress there. In the coming days,
+we feel that it will happen.
+
+As far as some of the new listings are concerned, our expectations initially about the volume outcomes
+have not yet been fully met. And I'm sure over a period of time, if those scrips where we have some
+volume expectations also grow to those levels of our expectation our market share will increase.
+
+Moderator:
+
+Next question is from the line of Praveen Malik, an Individual Investor.
+
+Praveen Malik:
+
+Sir first of all, congratulations for a good set of numbers, sir. My question is that, sir, NSE is listed on BSE
+only. NSE is not going to list on its own platform. My question is that, the future and option of NSE, will
+it be traded on BSE or it can be traded on NSE also? How can we see NSE in F&O segment?
+
+S. Ramamurthy:
+
+
+                                                       8
+
+
+                                                 BSE - PUBLIC
+
+                                                                                       ESSE
+                                                                                       The Power of Vibrance
+
+Thanks for your congratulations. I'm not sure whether I heard you properly because your voice was very
+smudged. I presume I heard the question as whether NSE will continue to be trading only in BSE or it will
+be permitted to trade on itself or it will be listed on itself is what I understood.
+
+I'm not sure that is the basis of this question because multiple times, including SEBI Chair when they
+have stated that at this point of time, there is no regulatory framework available for either permitting a
+stock exchange to trade on itself or permitting it to list on itself. The question at this point of time does
+not appear to arise. If there is any regulatory change discussed or in the offing, the question will be
+making a lot of sense. At that time, we need to revisit this question. Thank you so much.
+
+Praveen Malik:
+
+Sir, my question is about F&O segment, sir. Not in cash segment, sir?
+
+S. Ramamurthy:
+
+You are talking about NSE being permitted in F&O segment of BSE. Got it
+
+Praveen Malik:
+
+Yes, sir, Correct, sir.
+
+S. Ramamurthy:
+
+Great. Thank you so much. Sorry for misunderstanding your question. As far as F&O segment is
+concerned, SEBI has laid down certain criteria in respect of stock to become eligible for trading in the
+derivative segment of any exchange. It includes multiple things, including MWPL, quarter sigma value,
+daily traded turnover and its market cap capitalization etc.
+
+The goal of stock exchanges is to continually watch all the new scrips to check for their fulfilment of
+eligibility and on the fulfilling the eligibility introducing derivatives on them after taking necessary
+approvals. The same process will be diligently followed by BSE for all scrips that are newly listed and
+we will do the needful at the exact immediate time when they become eligible to trade.
+
+Moderator:
+
+Next question is from the line of Amit Chandra from HDFC Securities.
+
+
+
+                                                       9
+
+
+                                                 BSE - PUBLIC
+
+                                                                                   ESSE
+                                                                                   The Power of Vibrance
+
+Amit Chandra:
+
+Thanks for the opportunity and sir, congratulations on a very strong set of operating performance and
+numbers. And sir, my first question is on the adjusted CAS rules, which is applicable in December. So
+as per the new CAS rules, the contracts which are expiring, especially on the expiry day, the settlement
+will be based on the VWAP like that.
+
+So is it true to say that it actually gives the advantage for the contracts which are expiring on that day,
+especially if I see BSEs, on BSE expiry, which is Thursday, Sensex expiry, we have a 60%, 65% market
+share versus on the larger exchange expiry where they have a 90% market share. So is it fair to assume
+that maybe it can be an advantage for contracts which are expiring under the new rules? So that is my
+first question.
+
+And the second question is as we have reached a steady state kind of a market share, both on the
+notional and the options side. So is it true to assume that maybe some of the pricing gaps that we have
+in the auction segment and especially on the colocation side, where on the intel and on the throttle
+charges, we are way lower versus the competition. So, is there any possibility of any possibility of
+rationalization there?
+
+S. Ramamurthy:
+
+Thank you so much for your congratulatory message, and thanks for participating and asking this
+question. As you pointed out, from December onwards in respect of derivatives expiry for the contract
+that is expiring on that date that is that Thursday applicable to us. The settlement price for those expiring
+contract will be the last half-hour VWAP, which is as per the process which we were following before
+the introduction of CAS. Will it be beneficial to BSE? Will it help in its volume growth?
+
+Honestly, we have not been looking at it from those perspectives. There could be outcomes that come
+out of market behaviour and market interest and understanding of the product. What we were looking at
+it as was this.
+
+The market was finding it very difficult to cope and adjust with the new CAS, which was finding its way
+in difficulties being expressed in derivatives trading, particularly on the expiry date with regard to the
+closure, the big amount of uncertainty in the last few minutes and creating, therefore, a lot of pain points
+for the market participants.
+
+
+
+                                                     10
+
+
+                                                BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+The rule change, which SEBI has kindly considered after taking market participants' views into account
+is a very positive move. And therefore, in our opinion, it will help in the overall development of market,
+including equities and equity derivatives.
+
+And BSE may stand to get benefited by the overall market participant market development like every
+other market exchange. As far as the charges are concerned, all said and done, BSE is still a nascent
+exchange as well as derivatives. It is just 3-plus years that we have fulfilled, completed in respect of
+derivatives market segment.
+
+We are not ever following on market share. Our thought has always been in expanding the market. Our
+expansion spree in terms of adding more FPIs and more brokers have not stopped. And therefore, in that
+sense, we are still on a growth phase, and we are not in a mature phase according to ourselves.
+
+So, does that mean we will cut our charges? Will we be relooking at it? Will we be revising it or not?
+These important questions that are being raised by you. Our stand has always been, we will do whatever
+the market participants find it as suitable.
+
+We have our mechanism of ascertaining the customers' voice. And based on that at the appropriate
+time to appropriate level, we will increase the charges, including transaction charges and colocation
+charges, throttle charges, etc. All revisions will be subject to what market feedback is at appropriate
+level and appropriate time.
+
+Moderator:
+
+Next question is from the line of Prayesh Jain from Motilal Oswal Financial Services.
+
+Prayesh Jain:
+
+Congratulations on good numbers. Sir, firstly, on the monthly contracts and as well as the second week
+market share in terms of index options, what is the kind of market share that we have currently, while
+we've been trying to scale that up. So, what are the challenges that you're seeing of scaling up that piece
+of the business meaningfully? And how do you kind of solve for that? That would be my first question.
+
+Second question would be on the co-location on the land parcel that you're looking at BKC for the
+colocation servers. Just if you can explain to us technically, how will that work? Generally, my
+
+
+
+
+                                                    11
+
+
+                                               BSE - PUBLIC
+
+                                                                                    ESSE
+                                                                                    The Power of Vibrance
+
+presumption was the colocation facility has to be very close to the exchange. So how does that kind of
+work? Those are my two questions, sir.
+
+S. Ramamurthy:
+
+Thank you so much for participation and asking me this question. As far as monthly market share and
+second week market share is concerned other than expiry week market share, it has been steadily
+growing. The monthly market share volumes is around 2% - 3% for us.
+
+And the other than expiry week volumes are going to 6% -7% on a regular basis. It was showing a very
+faster growing trend before two, three months and the structural changes that were brought into the
+market and the uncertain made people sit back and there was a lull.
+
+And now that those issues are behind us, our efforts will continue in strengthening the monthly market
+share and also other than expiry week share. And we are very confident we'll be able to grow it further
+with the revised circumstances and global uncertainties appearing to settle down and various other
+positive developments that we are seeing in the market.
+
+As far as BKC colocation, your question is concerned, what we need to clarify to you is we have just
+been intimated by MMRDA that we have been allotted a plot of land in BKC which we have to complete
+the formalities, get positions and plan as to what, how and when we will be building the infrastructure
+and grow market.
+
+So, at this point of time, it is premature to say that BKC colocation what is this time. So that is still a bit
+of distance away because we have just got the allocation letter from MMRDA and new processes and
+procedures are work in progress actually. Thank you so much for asking me this question.
+
+Moderator:
+
+Next question is from the line of Niranjan Kumar from Avendus Spark.
+
+Niranjan Kumar:
+
+My first question is, what is the impact of RBI's bank guarantee norms on the overall volumes? Like what
+was the share of bank guarantees in the margins before they went live -- before the norms went live?
+And what is it today? And how do you think it will shape up going ahead?
+
+
+
+                                                      12
+
+
+                                                 BSE - PUBLIC
+
+                                                                                      ESSE
+                                                                                      The Power of Vibrance
+
+And my second question is, what is the count of co-location racks today? And where do you see the
+count maybe in a few quarters or a few years?
+
+S. Ramamurthy:
+
+Thank you so much for participation and asking this question. The impact of RBI stand-alone bank
+guarantee is not yet possible for us to assess. The reasons are as under. Along with the RBI bank
+guarantee rule change also came the STT rule change and also the CAS system, which is a structural
+change, which had its own sets of initial teething trouble. Apart from that, the global turmoil
+accentuation happened during this period. So it is very tough for us to say what is having impact on what.
+
+If the question is simply whether the amount of bank guarantee has changed, what we need to take into
+consideration is that there were existing bank guarantees, which had unexpired life of them. And once
+that expiries have not happened, we will not be able to know whether there has been a substantial
+reduction in the bank guarantee.
+
+At this point of time, many of those bank guarantees valid for 2 years, 1 year, 1.5 years, etc. So, to isolate
+the impact of RBI bank guarantee rule change into either the collateral available or the volumes. At this
+point of time, it's not being made possible.
+
+Count of co-location racks. We have around 500 racks at this point of time in our data center. It all has
+been allocated. It is very difficult in periods of uncertainties like this with a lot of global issues to clearly
+predict what will be the exact requirement, notwithstanding that, as a matter of abundant precaution,
+also for creating some buffer, we are in the process of constructing another 170 to 190 racks within the
+existing building.
+
+So, depending upon the demand picking up, we will expedite the construction or use it for our current
+requirements and then release it later, whichever way it is, we are in the process of creating a buffer of
+around 175 to 190 racks. So, at this point of time, comfortably with 500 racks, we are very well placed
+with regard to the allocation. Thank you so much for asking these questions.
+
+Moderator:
+
+Next question is from the line of Uday Polishetti from Dalmus Capital Management.
+
+Uday Polishetti:
+
+
+                                                       13
+
+
+                                                  BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+My question is specific to the equity derivatives segment. We have seen approximately like 50% Y-o-Y
+growth in average daily premium turnover. Like I want to understand what are the key drivers behind this,
+specifically in terms of any contract features like lot sizes or strike intervals or any particular product
+features that have been very interested to the customers?
+
+S. Ramamurthy:
+
+Thank you so much for participating in the call and congratulating me. Basically, you're asking what are
+the drivers behind the swift and fast growth of Sensex derivatives?
+
+Uday Polishetti:
+
+Yes.
+
+S. Ramamurthy:
+
+So, our understanding is this from 2000 onwards, equity derivatives have been present in India. BSE tried
+a lot, and it did not succeed till May 2023, when we started this product. The product was started after
+taking a obvious and significant voice of customer from more than 350 brokers across the country.
+
+Basically, they wanted Sensex 30 derivatives, which has not been developed by BSE for a long time and
+BSE was at that point of time before this introduction, betting on Sensex 50 derivatives, which was more
+a copy type product than its original Sensex 30, which is well understood, well appreciated and well
+tracked index.
+
+So the moment the market got the product that they wanted and given the base of Sensex, given the
+movement profile of Sensex, given the noise levels, reduced noise levels in Sensex because of very
+oriented and good securities that are comprising that, it became an instant success.
+
+And subsequent to that, the international and global requirement of having another exchange with
+reduction in concentration risk, all coupled together have been the driver for this product and the
+success that we are seeing in respect of this product.
+
+That is our limited understanding. It is more a catch-up growth that we are doing what we could not grow
+in so many decades of the past with the right product and the right mixture of delivery of the product, we
+are able to capture on the catch-up growth and we are growing. Thank you so much for asking me this
+question.
+
+                                                    14
+
+
+                                               BSE - PUBLIC
+
+                                                                                 ESSE
+                                                                                 The Power of Vibrance
+
+Moderator:
+
+Next question is from the line of Devesh Agarwal from IIFL Capital.
+
+Devesh Agarwal:
+
+Congratulations on good set of numbers. My first question is on the technology cost. After we have seen
+there is a sequential decline in cost, although marginal. Also, we see that your capex in this year first
+half has been half of what it was last year. Are we kind of seeing a significant technology-led capex
+already behind us?
+
+And to that extent, incrementally, can this cost come down for us? That is the first question. And
+secondly, even on SGF, we have seen a decline on a sequential basis. Is there any change in the SGF
+computation?
+
+S. Ramamurthy:
+
+I will answer the second question first and then leave the first question to my CFO, who is sitting next to
+me. First of all, thanks for attending the call and asking this question and congratulating. As far as SGF
+is concerned, there has been no structural change in competition methodology or anything.
+
+As you would recall, what we started doing was we started providing for the SGF over the entire period
+of this one year instead of waiting for sudden jerks of volumes going up or the SGF number going up,
+creating a lot of trouble. Because of the calibrated approach towards providing for SGFs, the SGF, the
+impact of SGF in any single quarter or any sudden spikes have come down. That is why you're finding it
+as smoother and easier.
+
+As far as the capex and particularly technology expenditure, which you raised, I ask Mr. Deepak Goel,
+CFO to answer.
+
+Deepak Goel:
+
+Devesh-ji, thank you for this question. If you are referring to the technology expenses, which are taken
+in P&L, there is no reduction. As such, there may be temporary change on quarter-to-quarter basis. But
+as such, it's not going to slow down.
+
+
+
+
+                                                    15
+
+
+                                               BSE - PUBLIC
+
+                                                                                    ESSE
+                                                                                    The Power of Vibrance
+
+As far as capex is concerned, in quarter 1 and quarter 2, there are some commitments which have been
+made, but actually cash flow might not have happened. Therefore, probably you are referring to cash
+flow statement where cash outflow on capex is comparatively low compared to first half of previous
+year.
+
+But there are plans, and we are in the process of upgrading various systems. So as such, there is no plan
+of slowing down the capex, spending on capex. So, by end of the year, probably you'll get to see the full
+picture.
+
+Moderator:
+
+Next question is from the line of Vinod Mokashi, an Individual Investor.
+
+Vinod Mokashi:
+
+First of all, congratulations to the management and the team for the quarter results. I have the question
+regarding the risk. What is the biggest risk to the company's growth and profitability over the next 12
+months? And the second question is about the margin. What is the sustainable EBITDA margin the
+company can achieve over the next one to two years?
+
+S. Ramamurthy:
+
+Thank you so much for asking this question. Risk is a very, very important element, which one should be
+worried about. Risk by definition, as you would appreciate, is something which is uncertain and
+unpredictable.
+
+So while broad areas of risk, which can impact business can be talked about. Exactly what will happen
+and when will it happen is difficult to say. Nowadays, everyone is deeply afraid of one thing cyber risk. It
+is omnipresent -- it exists everywhere, at all times, and can manifest in various forms to impact anyone.
+So that is the faster risk which is always worrying for people like us, which are infrastructure institution
+and therefore, we always try to remain vigilant. That is first risk.
+
+And I will not say that is the only risk though you ask only for one risk. There are multiple other risks which
+we are able to see. The global turmoil and global uncertainties, the supply chain changes arising out of
+it, increase in the cost of living that may arise out of the supply chain increase and because of this
+decrease in disposable income and because of this the potential to invest coming down and savings
+
+
+                                                      16
+
+
+                                                 BSE - PUBLIC
+
+                                                                                  ESSE
+                                                                                 The Power of Vibrance
+
+coming down, these are all things which cannot be undermined because the extent and longevity of the
+global turmoil could clearly create havoc.
+
+The third is flight to safety thought process that happens typically when there is too much of global
+uncertainty, leaving emerging markets like India with depleting capital and increasing outflow could be
+another major risk. These are risks, as you would really appreciate, are not within the hands of the
+management.
+
+And therefore, we will find it very difficult to control them. At least cyber risk, we can try and see how
+best we can control global turmoil, supply chain risk and because of this the potential decrease in
+propensity to consume, propensity to save and invest are all situations which are beyond our control.
+
+Is, the second question? Thank you so much for asking. You were asking about the EBITDA margin.
+Currently having our EBITDA margin of 67%, 68%, and we have been sustaining it for quite some time.
+I'm not able to see any reason why we will not sustain this margin because if you look at it, our cost
+controls and our disciplines have been extremely very high.
+
+And main cost for us typically comes from the regulatory fee and the clearing and settlement fee over
+which we will not have control because it's a variable fee. With increase in volumes, it will go up. But
+always the increase in revenue as compared to the increase in expenditure arising out of that will be
+more.
+
+Therefore, the EBITDA margin at 65%, 70% what we are looking at today appears to be sustainable
+unless and until the various risks which you asked for, God forbid if any of them were to materialize and
+the position were to change. I hope I answered this question and thank you so much.
+
+Moderator:
+
+Next question is from the line of S. Ramani, an Individual Investor.
+
+S. Ramani:
+
+Two questions. One is MSCI index derivatives. Has any application been made to SEBI? And if so, what's
+the position? Second question, presently, the transaction charges of BSE on futures is almost nil. Is
+there any proposal to increase the charges? There is good scope for that, especially because in due
+course, NSE itself will be trading on BSE platform in single stock derivatives and also in regular futures.
+
+
+                                                    17
+
+
+                                               BSE - PUBLIC
+
+                                                                                  ESSE
+                                                                                  The Power of Vibrance
+
+S. Ramamurthy:
+
+Thank you so much. As far as MSCI is concerned, yes, indeed, we have submitted applications to the
+regulators. We are waiting for the final outcome. Once it is there, we will roll out a plan of
+implementation, and we will be reverting back to the market.
+
+As far as the charges are concerned, you made a right point, you gave us an example, future charges. In
+other areas, as well BSE is charging lower than the other participants in the market in equity derivatives.
+
+Certainly, as we said, we are still a growing exchange. So, we will be looking at our charges, and we will
+change it appropriately at the appropriate time after considering the market feedback, which we will be
+taking in this regard. Plus, three years before, we had no derivatives market at all at BSE. Today, in three
+years, we have grown. So, the growth has been swift.
+
+So, there are areas where we are yet to charge the levels what the market can at this point of time take.
+So, we will work on it and we will revert that. Thank you so much.
+
+Moderator:
+
+Ladies and gentlemen, that was the last question for the day. I now hand the conference over to the
+management for the closing comments.
+
+Anand Sethuraman:
+
+Thank you so much, everyone, for joining the call today. If you have any further questions, please feel
+free to reach out to us at bse.ir@bseindia.com. Thank you, and happy Diwali
+
+Moderator:
+
+Thank you so much, sir. On behalf of BSE Limited, that concludes this conference. Thank you all for
+joining us, and you may now disconnect your lines.
+
+
+
+
+                                                   *****
+
+
+
+
+                                                    18
+
+
+                                               BSE - PUBLIC
+
