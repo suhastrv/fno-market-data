@@ -1,0 +1,719 @@
+TCS/BM/271/SE/2023-24
+January 11, 2024
+
+National Stock Exchange of India Limited                                   BSE Limited
+Exchange Plaza, C-1, Block G, Bandra Kurla                                 P. J. Towers,
+Complex, Bandra (East)                                                     Dalal Street,
+Mumbai - 400051                                                            Mumbai - 400001
+Symbol - TCS                                                               Scrip Code No. 532540
+
+Dear Sirs,
+Sub: Financial Results for the quarter and nine-month period ended December 31, 2023, and
+     declaration of third interim dividend
+
+We enclose the audited standalone financial results of the Company and audited consolidated financial
+results of the Company and its subsidiaries for the quarter and nine-month period ended December 31, 2023
+under Indian Accounting Standards (“the Statement”), which have been approved and taken on record at a
+meeting of the Board of Directors of the Company held today at 11.30 a.m. and concluded at 15:30 p.m.
+
+We would like to inform you that at the Board Meeting held today, the Directors have declared a third
+interim dividend of ₹9 and a special dividend of ₹18 per Equity Share of ₹1 each of the Company.
+The third interim dividend and the special dividend shall be paid on Monday, February 5, 2024, to the
+equity shareholders of the Company, whose names appear on the Register of Members of the Company or
+in the records of the Depositories as beneficial owners of the shares as on Friday, January 19, 2024, which
+is the Record Date fixed for the purpose.
+
+The above information is also available on the website of the Company www.tcs.com.
+
+Thanking you,
+
+Yours faithfully,
+For Tata Consultancy Services Limited
+PRADEEP           Digitally signed by PRADEEP
+                  MANOHAR GAITONDE
+MANOHAR           Date: 2024.01.11 15:34:00
+GAITONDE          +05'30'
+
+Pradeep Manohar Gaitonde
+Company Secretary
+Encl: As above
+cc:
+1. National Securities Depository Limited
+2. Central Depository Services (India) Limited
+3. Link Intime India Private Limited
+
+
+
+                                    9th Floor Nirmal Building Nariman Point Mumbai 400 021
+                Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+                           Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+                                     Corporate Identity No. (CIN): L22210MH1995PLC084781
+
+                                                                                                      14th Floor, Central B Wing and North C Wing
+B S R & Co. LLP                                                                                       Nesco IT Park 4, Nesco Center
+                                                                                                      Western Express Highway
+Chartered Accountants                                                                                 Goregaon (East), Mumbai – 400 063, India
+                                                                                                      Telephone: +91 (22) 6257 1000
+                                                                                                      Fax: +91 (22) 6257 1010
+
+
+
+
+                                                                                           Independent Auditor’s Report
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Consolidated Financial Results
+
+Opinion
+
+We have audited the accompanying Statement of Consolidated Financial Results of Tata Consultancy
+Services Limited (“Holding Company”) and its subsidiaries (Holding Company and its subsidiaries together
+referred to as “the Group”), for the quarter ended 31 December 2023 and for the period from 01 April 2023
+to 31 December 2023, (“the Statement”), being submitted by the Holding Company pursuant to the
+requirement of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+Statement:
+a.     includes the results of the entities mentioned in Annexure I;
+b.     is presented in accordance with the requirements of Regulation 33 of the Listing Regulations as
+       amended; and
+c.     gives a true and fair view in conformity with the applicable accounting standards, and other accounting
+       principles generally accepted in India, of consolidated total comprehensive income (comprising of net
+       profit and other comprehensive income) and other financial information of the Group for the quarter
+       ended 31 December 2023 and for the period from 01 April 2023 to 31 December 2023.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Results section of our report.
+We are independent of the Group in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our opinion
+on the consolidated financial results.
+
+Management’s and Board of Directors’ Responsibilities for the Consolidated Financial Results
+
+These quarterly consolidated financial results as well as the year to date consolidated financial results
+have been prepared on the basis of the consolidated interim financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these consolidated financial results that give a true and fair view of the consolidated net
+profit/ loss and other comprehensive income and other financial information of the Group in accordance
+with the recognition and measurement principles laid down in Indian Accounting Standard 34, ‘Interim
+Financial Reporting’ prescribed under Section 133 of the Act and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. The respective
+Management and Board of Directors of the companies included in the Group are responsible for
+maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding
+of the assets of each entity and for preventing and detecting frauds and other irregularities; selection and
+
+                                                                                                        Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a        14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013     Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                         Page 1 of 5
+
+B S R & Co. LLP
+
+                                              Independent Auditor’s Report (Continued)
+                                                         Tata Consultancy Services Limited
+application of appropriate accounting policies; making judgments and estimates that are reasonable and
+prudent; and the design, implementation and maintenance of adequate internal financial controls, that
+were operating effectively for ensuring accuracy and completeness of the accounting records, relevant to
+the preparation and presentation of the consolidated financial results that give a true and fair view and are
+free from material misstatement, whether due to fraud or error, which have been used for the purpose of
+preparation of the consolidated financial results by the Management and the Board of Directors of the
+Holding Company, as aforesaid.
+In preparing the consolidated financial results, the respective Management and the Board of Directors of
+the entities included in the Group are responsible for assessing the ability of each entity to continue as a
+going concern, disclosing, as applicable, matters related to going concern and using the going concern
+basis of accounting unless the respective Board of Directors either intends to liquidate the entity or to
+cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the entities included in the Group is responsible for overseeing the
+financial reporting process of each entity.
+
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial results as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that
+an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+–   Identify and assess the risks of material misstatement of the consolidated financial results, whether
+    due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+    evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting
+    a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+    involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+–   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+    effectiveness of the Group’s internal control.
+–   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the consolidated financial results made by the Management and
+    Board of Directors.
+–   Conclude on the appropriateness of the Management and Board of Directors’ use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the
+    appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+    to draw attention in our auditor’s report to the related disclosures in the consolidated financial results
+    or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit
+    evidence obtained up to the date of our auditor’s report. However, future events or conditions may
+    cause the Group to cease to continue as a going concern.
+–   Evaluate the overall presentation, structure and content of the consolidated financial results, including
+    the disclosures, and whether the consolidated financial results represent the underlying transactions
+    and events in a manner that achieves fair presentation.
+We communicate with those charged with governance of the Holding Company and such other entities
+included in the consolidated financial results of which we are the independent auditors regarding, among
+other matters, the planned scope and timing of the audit and significant audit findings, including any
+significant deficiencies in internal control that we identify during our audit.
+
+
+                                                                                                  Page 2 of 5
+
+B S R & Co. LLP
+
+                                           Independent Auditor’s Report (Continued)
+                                                     Tata Consultancy Services Limited
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, as amended, to the extent applicable.
+
+
+                                                                               For B S R & Co. LLP
+                                                                             Chartered Accountants
+                                                      Firm’s Registration No.:101248W/W-100022
+
+
+
+                                                                                   y
+                                                                             AMIT Digitally  signed
+                                                                                    by AMIT SOMANI
+
+                                                                             SOMANI Date: 2024.01.11
+                                                                                    14:52:01 +05'30'
+
+                                                                                       Amit Somani
+                                                                                              Partner
+Mumbai                                                                     Membership No.: 060154
+11 January 2024                                                      UDIN:24060154BKFDGN7039
+
+
+
+
+                                                                                           Page 3 of 5
+
+B S R & Co. LLP
+
+                                             Independent Auditor’s Report (Continued)
+                                                        Tata Consultancy Services Limited
+Annexure I
+
+The consolidated results include financial results of the Holding Company and its subsidiaries listed below:
+
+Sr. No. Name of component                               Sr.      Name of component
+                                                        No.
+
+1        APTOnline Limited                              29       TCS Financial Solutions Australia Pty
+                                                                 Limited
+
+2        C-Edge Technologies Limited                    30       TCS Financial Solutions Beijing Co., Ltd.
+
+3        Diligenta Limited                              31       MGDC S.C.
+
+4        MahaOnline Limited                             32       Tata Consultancy Services Argentina
+                                                                 S.A.
+
+5        MP Online Limited                              33       Tata Consultancy Services De Mexico
+                                                                 S.A., De C.V.
+
+6        Tata America International Corporation         34       Tata Consultancy Services Do Brasil
+                                                                 Ltda
+
+7        Tata Consultancy Services (Africa) (PTY) 35             TCS Inversiones Chile Limitada
+         Ltd.
+
+8        Tata Consultancy Services Asia Pacific Pte 36           Tata Consultancy Services France
+         Ltd.
+
+9        Tata Consultancy Services Belgium              37       TCS Uruguay S.A.
+
+10       Tata Consultancy Services Canada Inc.          38       TCS Solution Center S.A.
+
+11       Tata Consultancy Services Deutschland 39                Tata Consultancy Services Danmark
+         GmbH                                                    ApS
+                                                                 (liquidated w.e.f 27 July 2022)
+
+12       Tata Consultancy Services Netherlands BV 40             Tata Consultancy Services De Espana
+                                                                 S.A.
+
+13       Tata Consultancy Services Qatar L.L.C.         41       Tata Consultancy Services Luxembourg
+                                                                 S.A.
+
+14       Tata Consultancy Services Sverige AB           42       Tata Consultancy Services Osterreich
+                                                                 GmbH
+
+15       TCS e-Serve International Limited              43       Tata Consultancy Services Saudi Arabia
+
+16       TCS FNS Pty Limited                            44       Tata Consultancy Services Switzerland
+                                                                 Ltd.
+
+17       TCS Iberoamerica SA                            45       TCS Business Services GmbH
+
+18       PT Tata Consultancy Services Indonesia         46       Tata Consultancy       Services    Ireland
+                                                                 Limited
+
+19       Tata Consultancy Services (China) Co., Ltd. 47          TCS Technology Solutions GmbH
+                                                                 (Formerly TCS Technology Solutions
+
+                                                                                                Page 4 of 5
+
+B S R & Co. LLP
+
+                                           Independent Auditor’s Report (Continued)
+                                                       Tata Consultancy Services Limited
+Sr. No. Name of component                              Sr.   Name of component
+                                                       No.
+
+                                                             AG)
+
+20     Tata Consultancy Services (Philippines) Inc. 48       Saudi Desert Rose Holding B.V.
+                                                             (Merged with Tata Consultancy Services
+                                                             Netherlands BV w.e.f. 29 August 2023)
+
+21     Tata Consultancy       Services    (Thailand) 49      Tata Consultancy Services Bulgaria
+       Limited                                               EOOD
+
+22     Tata Consultancy Services Japan, Ltd.           50    Tata Consultancy Services Guatemala,
+                                                             S.A.
+
+23     Tata Consultancy Services Malaysia Sdn 51             Tata Consultancy Services UK Limited
+       Bhd
+
+24     Tata Consultancy Services Italia s.r.l.         52    Diligenta (Europe) B.V.
+                                                             ( w.e.f. 14 September 2023)
+
+25     Tata Consultancy Services                       53    TCS Foundation
+       (South Africa) (PTY) Ltd.
+
+26     Tata Consultancy Services Chile S.A.            54    Tata Sons & Consultancy Services
+                                                             Employees’ Welfare Trust
+
+27     TATASOLUTION CENTER S.A.                        55    TCS e-Serve International Limited –
+                                                             Employees’ Welfare Benefit Trust
+
+28     Tata Consultancy Services          (Portugal)
+       Unipessoal, Limitada
+
+
+
+
+                                                                                           Page 5 of 5
+
+                                                                           TATA CONSULTANCY SERVICES LIMITED
+                                                                            th
+                                                        Registered Office: 9 Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+                                                                               CIN: L22210MH1995PLC084781
+                                                      Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+
+                                                               Audited Consolidated Interim Statement of Financial Results
+                                                                                                                                                                                      (` crore)
+                                                                                                Three month period ended                        Nine month period ended          Year ended
+                                                                                       December 31,       September 30,       December 31,    December 31,    December 31,       March 31,
+                                                                                           2023               2023                2022            2023            2022            2023
+
+Revenue from opera ti ons                                                                     60,583             59,692              58,229        1,79,656        1,66,296           2,25,458
+Other i ncome                                                                                    862              1,006                 520           3,265           2,274              3,449
+TOTAL INCOME                                                                                  61,445             60,698              58,749        1,82,921        1,68,570           2,28,907
+Expenses
+  Empl oyee benefi t expens es                                                                34,722             35,123              32,467        1,04,993          93,835           1,27,522
+  Cos t of equi pment a nd s oftwa re l i cences                                               1,173                462                 643           2,141           1,261              1,881
+  Fi na nce cos ts                                                                               230                159                 160             552             507                779
+  Depreci a ti on a nd a morti s a ti on expens e                                              1,233              1,263               1,269           3,739           3,736              5,022
+  Other expens es                                                                              8,300              8,361               9,566          25,390          27,715             36,796
+TOTAL EXPENSES                                                                                45,658             45,368              44,105        1,36,815        1,27,054           1,72,000
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX                                                        15,787             15,330              14,644          46,106          41,516             56,907
+Exceptional item
+  Settl ement of l ega l cl a i m                                                                958                  -                   -             958               -                  -
+PROFIT BEFORE TAX                                                                             14,829             15,330              14 644          45 148          41,516             56,907
+Tax expense
+  Current ta x                                                                                 3,633              3,955               3,820          11,456          10,678             14,757
+  Deferred ta x                                                                                   99                 (5)               (59)              95            (29)              (153)
+TOTAL TAX EXPENSE                                                                              3,732              3,950               3,761          11,551          10,649             14,604
+PROFIT FOR THE PERIOD                                                                         11,097             11,380              10,883          33,597          30,867             42,303
+OTHER COMPREHENSIVE INCOME (OCI)
+  Items that will not be reclassified subsequently to profit or loss
+    Remea s urement of defi ned empl oyee benefi t pl a ns                                      (70)                 (9)                87             (65)               365              350
+    Net cha nge i n fa i r va l ues of i nves tments i n equi ty s ha res                          -                   -                 -                -                 -               (2)
+    ca rri ed a t fa i r va l ue through OCI
+  Income tax on items that will not be reclassified subsequently to profit                       12                       -            (20)              4                (98)            (75)
+  or loss
+  Items that will be reclassified subsequently to profit or loss
+    Net cha nge i n fa i r va l ues of i nves tments other tha n equi ty                         54                (171)                56              29            (720)              (679)
+    s ha res ca rri ed a t fa i r va l ue through OCI
+    Net cha nge i n i ntri ns i c va l ue of deri va ti ves des i gna ted a s ca s h            (82)                 64               (247)             (8)           (127)               (25)
+    fl ow hedges
+    Net cha nge i n ti me va l ue of deri va ti ves des i gna ted a s ca s h                          -             (11)              (115)             (2)               (67)               32
+    fl ow hedges
+    Excha nge di fferences on tra ns l a ti on of fi na nci a l s ta tements of                 718                (124)               981             522                504              655
+    forei gn opera ti ons
+  Income tax on items that will be reclassified subsequently to profit or                         5                  33                 64              19                296              236
+  loss
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)                                                      637              (218)                 806             499             153                492
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD                                                     11,734             11,162              11,689          34,096          31,020             42,795
+Profit for the period attributable to:
+  Sha rehol ders of the Compa ny                                                              11,058             11,342              10,846          33,474          30,755             42,147
+  Non-control l i ng i nteres ts                                                                  39                 38                  37             123             112                156
+                                                                                              11,097             11,380              10,883          33,597          30,867             42,303
+Other comprehensive income for the period attributable to:
+ Sha rehol ders of the Compa ny                                                                 609                (210)               751              525               142              493
+ Non-control l i ng i nteres ts                                                                  28                  (8)                55             (26)                11               (1)
+                                                                                                637                (218)               806              499               153              492
+Total comprehensive income for the period attributable to:
+ Sha rehol ders of the Compa ny                                                               11,667             11,132              11,597          33,999          30,897             42,640
+  Non-control l i ng i nteres ts                                                                  67                 30                  92              97             123                155
+                                                                                              11,734             11,162              11,689          34,096          31,020             42,795
+Pa i d up equi ty s ha re ca pi ta l (Fa ce va l ue: `1 per s ha re)                            362                 366                366             362                366              366
+Total reserves (including Non-controlling interests)                                                                                                                                    90,840
+
+Earnings per equity share:- Basic and diluted (`)                                              30.29              31.00               29.64           91.55          84.05              115.19
+Dividend per share (Par value `1 each)
+Interim dividend on equity shares (`)                                                          27.00                9.00              75.00           45.00           91.00              91.00
+Final dividend on equity shares (`)                                                                -                   -                  -               -               -              24.00
+Total dividend on equity shares (`)                                                            27.00                9.00              75.00           45.00           91.00             115.00
+Total equity dividend percentage                                                               2,700                 900              7,500           4,500           9,100             11,500
+
+                                                             TATA CONSULTANCY SERVICES LIMITED
+                                                      Audited Consolidated Interim Segment Information
+                                                                                                                                                           (` crore)
+                                                                           Three month period ended                   Nine month period ended         Year ended
+                                                                December 31,     September 30,    December 31,     December 31,     December 31,       March 31,
+                                                                    2023             2023             2022             2023             2022            2023
+
+SEGMENT REVENUE
+Ba nki ng, Fi na nci a l Servi ces a nd Ins ura nce                     22,667           22,840           22,145           68,169           63,499           86,127
+Ma nufa cturi ng                                                         5,931            5,787            5,428           17,354           15,686           21,236
+Cons umer Bus i nes s                                                    9,817            9,773            9,661           29,466           27,733           37,506
+Communi ca ti on, Medi a a nd Technol ogy                                9,932            9,572            9,753           29,100           27,957           37,653
+Li fe Sci ences a nd Hea l thca re                                       6,726            6,625            6,354           19,987           18,020           24,605
+Others                                                                   5,510            5,095            4,888           15,580           13,401           18,331
+Total                                                                   60,583           59,692           58,229         1,79,656         1,66,296         2,25,458
+SEGMENT RESULT
+Ba nki ng, Fi na nci a l Servi ces a nd Ins ura nce                      5,951            5,861            5,848           17,269           16,476           22,345
+Ma nufa cturi ng                                                         1,869            1,680            1,481            5,168            4,320            5,842
+Cons umer Bus i nes s                                                    2,583            2,483            2,521            7,533            7,061            9,636
+Communi ca ti on, Medi a a nd Technol ogy                                2,833            2,739            2,796            8,249            7,778           10,667
+Li fe Sci ences a nd Hea l thca re                                       1,926            1,837            1,767            5,544            5,063            6,894
+Others                                                                   1,226            1,146            1,140            3,369            2,787            3,875
+Total                                                                   16,388           15,746           15,553           47,132           43,485           59,259
+Una l l oca bl e expens es *                                             2,421            1,422            1,429            5,249            4,243            5,801
+Operating income                                                        13,967           14,324           14,124           41,883           39,242           53,458
+Other i ncome                                                              862            1,006              520            3,265            2,274            3,449
+PROFIT BEFORE TAX                                                       14,829           15,330           14,644           45,148           41,516           56,907
+
+
+Note: The assets and liabilities of the Group are used interchangeably amongst segments. Allocation of such assets and liabilities is not practicable and any forced
+allocation would not result in any meaningful segregation. Hence, assets and liabilities have not been identified to any of the reportable segments.
+
+*Includes settlement of legal claim of `958 crore.
+
+     Select explanatory notes to the Statement of Audited Consolidated Interim Financial Results for three month and nine-month period
+     ended December 31, 2023
+
+1.   Audited Consolidated Interim Statement of Financial Results for the three month and nine-month period ended December 31, 2023 have
+     been prepared in accordance with the Indian Accounting Standard (referred to as "Ind AS") 34 - Interim Financial Reporting prescribed
+     under Section 133 of the Companies Act, 2013 read with Companies (Indian Accounting Standards) Rules as amended from time to time.
+     These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on January 11, 2024.
+     The statutory auditors have expressed an unmodified audit opinion on these results.
+
+2.   On April 21, 2022, Epic invoked payment of `1,164 crore (US $140 million) out of `3,658 crore (US $440 million) Letter of Credit provided
+     as security, towards compensatory damages awarded by the District Court and confirmed by the Appeals Court. On July 1, 2022, the District
+     Court passed an Order affirming the punitive damages at `1,164 crore (US $140 million). The Company’s second appeal in the Appeals
+     Court to reduce the punitive damages subsequently affirmed by the District Court was disposed on July 14, 2023, with a re-affirmation of
+     the District Court order awarding punitive damages of `1,164 crore (US $140 million). The Company’s petition to the Supreme Court to
+     review the entire judgement including both the compensatory and punitive damages re-affirmed by the Appeals Court was rejected by the
+     Supreme Court on November 20, 2023, pursuant to which, punitive damages of `1,164 crore (US $140 million) was paid on December 1,
+     2023. The Company has provided the balance punitive damages amount of `958 crore (US $115 million) in its financial statements for three
+     month period ended December 31, 2023 and disclosed the same as an "exceptional item" in the consolidated statement of profit and loss.
+
+3.   The Board of Directors at its meeting held on October 11, 2023, approved a proposal to buy-back upto 4,09,63,855 equity shares of the
+     Company for an aggregate amount not exceeding `17,000 crore, being 1.12% of the total paid up equity share capital at `4,150 per equity
+     share. The shareholders approved the same on November 15, 2023, by way of a special resolution through postal ballot. A Letter of Offer
+     was made to all eligible shareholders. The Company bought back 4,09,63,855 equity shares out of the shares that were tendered by eligible
+     shareholders and extinguished the equity shares on December 13, 2023. Capital redemption reserve was created to the extent of share
+     capital extinguished (`4 crore). The excess cost of buy-back of `17,046 crore (including `46 crore towards transaction cost of buy-back)
+     over par value of shares and corresponding tax on buy-back of `3,959 crore were offset from retained earnings.
+
+4.   The Board of Directors at its meeting held on January 11, 2024, has declared an interim dividend of `9.00 per equity share and special
+     dividend of `18.00 per equity share.
+
+5.   The results for three month and nine month period ended December 31, 2023, are available on the BSE Limited website
+     (URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL: www.nseindia.com) and on the Company’s website
+     (URL: www.tcs.com/investors).
+
+
+                                                                                             For and on behalf of the Board of Directors
+                                                                                                                    Digitally signed by
+                                                                                                  KUNCHITHAM KUNCHITHAM
+                                                                                                              KRITHIVASAN
+                                                                                                  KRITHIVASAN Date: 2024.01.11
+                                                                                                                    13:39:18 +05'30'
+     Mumbai                                                                                                 K Krithivasan
+     January 11, 2024                                                                                 CEO and Managing Director
+
+                                                                                                      14th Floor, Central B Wing and North C Wing
+B S R & Co. LLP                                                                                       Nesco IT Park 4, Nesco Center
+                                                                                                      Western Express Highway
+Chartered Accountants                                                                                 Goregaon (East), Mumbai – 400 063, India
+                                                                                                      Telephone: +91 (22) 6257 1000
+                                                                                                      Fax: +91 (22) 6257 1010
+
+
+
+
+                                                                                           Independent Auditor’s Report
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Standalone Financial Results
+
+Opinion
+
+We have audited the accompanying standalone quarterly financial results of Tata Consultancy Services
+Limited (“the Company”) for the quarter ended 31 December 2023 and the year-to-date results for the
+period from 01 April 2023 to 31 December 2023, attached herewith, being submitted by the Company
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, these
+standalone financial results:
+a.     are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+       regard; and
+b.     give a true and fair view in conformity with the recognition and measurement principles laid down in
+       the applicable accounting standards, and other accounting principles generally accepted in India, of
+       the net profit and other comprehensive loss and other financial information for the quarter ended 31
+       December 2023 as well as the year to date results for the period from 01 April 2023 to 31 December
+       2023.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Standalone Financial Results section of our report. We
+are independent of the Company, in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our opinion.
+
+Management’s and Board of Directors’ Responsibilities for the Standalone Financial Results
+
+These quarterly financial results as well as the year to date standalone financial results have been
+prepared on the basis of the interim financial statements.
+The Company’s Management and the Board of Directors are responsible for the preparation of these
+standalone financial results that give a true and fair view of the net profit/ loss and other comprehensive
+income and other financial information in accordance with the recognition and measurement principles
+laid down in Indian Accounting Standard 34, ‘Interim Financial Reporting’ prescribed under Section 133
+of the Act and other accounting principles generally accepted in India and in compliance with Regulation
+33 of the Listing Regulations. This responsibility also includes maintenance of adequate accounting
+records in accordance with the provisions of the Act for safeguarding of the assets of the Company and
+for preventing and detecting frauds and other irregularities; selection and application of appropriate
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were operating effectively
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and
+presentation of the standalone financial results that give a true and fair view and are free from material
+                                                                                                        Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a        14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013     Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                         Page 1 of 3
+
+B S R & Co. LLP
+
+                                                Independent Auditor’s Report (Continued)
+                                                           Tata Consultancy Services Limited
+misstatement, whether due to fraud or error.
+In preparing the standalone financial results, the Management and the Board of Directors are responsible
+for assessing the Company’s ability to continue as a going concern, disclosing, as applicable, matters
+related to going concern and using the going concern basis of accounting unless the Board of Directors
+either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The Board of Directors are also responsible for overseeing the Company’s financial reporting process.
+
+Auditor’s Responsibilities for the Audit of the Standalone Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the standalone financial results as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that
+an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+–   Identify and assess the risks of material misstatement of the standalone financial results, whether due
+    to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+    evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting
+    a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+    involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+–   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+    effectiveness of the company’s internal control.
+–   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the standalone financial results made by the Management and
+    Board of Directors.
+–   Conclude on the appropriateness of the Management and Board of Directors’ use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the Company's
+    ability to continue as a going concern. If we conclude that a material uncertainty exists, we are
+    required to draw attention in our auditor’s report to the related disclosures in the standalone financial
+    results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+    the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+    may cause the Company to cease to continue as a going concern.
+–   Evaluate the overall presentation, structure and content of the standalone financial results, including
+    the disclosures, and whether the standalone financial results represent the underlying transactions
+    and events in a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+
+
+
+
+                                                                                                     Page 2 of 3
+
+B S R & Co. LLP
+
+                                          Independent Auditor’s Report (Continued)
+                                                    Tata Consultancy Services Limited
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+
+
+                                                                              For B S R & Co. LLP
+                                                                            Chartered Accountants
+                                                     Firm’s Registration No.:101248W/W-100022
+
+
+
+
+                                                                                  y
+                                                                        AMIT Digitally  signed
+                                                                               by AMIT SOMANI
+
+                                                                        SOMANI Date: 2024.01.11
+                                                                               14:47:08 +05'30'
+
+                                                                                      Amit Somani
+                                                                                             Partner
+Mumbai                                                                   Membership No.: 060154
+11 January 2024                                                    UDIN:24060154BKFDGM1958
+
+
+
+
+                                                                                         Page 3 of 3
+
+                                                                              TATA CONSULTANCY SERVICES LIMITED
+                                                                               th
+                                                        Registered Office: 9 Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+                                                                              CIN: L22210MH1995PLC084781
+                                                      Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+
+                                                                Audited Standalone Interim Statement of Financial Results
+                                                                                                                                                                                   (` crore)
+                                                                                                Three month period ended                     Nine month period ended          Year ended
+                                                                                       December 31,       September 30,    December 31,    December 31,    December 31,       March 31,
+                                                                                           2023               2023             2022            2023            2022            2023
+Revenue from opera ti ons                                                                     50,844             50,165           49,275        1,50,871        1,40,574           1,90,354
+Other i ncome                                                                                  1,809              1,755            1,558           5,467           3,895              5,328
+TOTAL INCOME                                                                                  52,653             51,920           50,833        1,56,338        1,44,469           1,95,682
+Expenses
+  Empl oyee benefi t expens es                                                                25,511             26,018           24,478          77,508          70,960             96,218
+  Cos t of equi pment a nd s oftwa re l i cences                                               1,120                370              520           1,863             953              1,416
+  Fi na nce cos ts                                                                               204                134              136             476             445                695
+  Depreci a ti on a nd a morti s a ti on expens e                                                964                979              996           2,912           2,932              3,940
+  Other expens es                                                                              9,850              9,975           10,761          30,199          30,534             41,723
+TOTAL EXPENSES                                                                                37,649             37,476           36,891        1,12,958        1,05,824           1,43,992
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX                                                        15,004             14,444           13,942          43,380          38,645             51,690
+Exceptional item
+ Settl ement of l ega l cl a i m                                                                 958                  -                -             958               -                  -
+PROFIT BEFORE TAX                                                                             14,046             14,444           13,942          42,422          38,645             51,690
+Tax Expense
+ Current ta x                                                                                  3,263              3,501            3,438          10,253           9,487             12,946
+ Deferred ta x                                                                                    30                 14            (155)               3           (148)              (362)
+TOTAL TAX EXPENSE                                                                              3,293              3,515            3,283          10,256           9,339             12,584
+PROFIT FOR THE PERIOD                                                                         10,753             10,929           10,659          32,166          29,306             39,106
+OTHER COMPREHENSIVE INCOME (OCI)
+  Items that will not be reclassified subsequently to profit or loss
+    Remea s urement of defi ned empl oyee benefi t pl a ns                                     (100)                  22              68           (113)                 69              54
+  Income tax on items that will not be reclassified subsequently to profit                        22                 (5)            (15)              25               (15)            (12)
+  or loss
+  Items that will be reclassified subsequently to profit or loss
+    Net cha nge i n fa i r va l ues of i nves tments other tha n equi ty                         54                (171)             56              29            (720)              (679)
+    s ha res ca rri ed a t fa i r va l ue through OCI
+    Net cha nge i n i ntri ns i c va l ue of deri va ti ves des i gna ted a s ca s h            (82)                 64            (247)             (8)           (127)               (25)
+    fl ow hedges
+    Net cha nge i n ti me va l ue of deri va ti ves des i gna ted a s ca s h                          -             (11)           (115)             (2)               (67)               32
+    fl ow hedges
+  Income tax on items that will be reclassified subsequently to profit or                         5                  33              64              18                296              236
+  loss
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)                                                    (101)               (68)            (189)            (51)           (564)              (394)
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD                                                     10,652             10,861           10,470          32,115          28,742             38,712
+Pa i d up equi ty s ha re ca pi ta l (Fa ce va l ue: `1 per s ha re)                            362                 366             366             362                366              366
+Total reserves                                                                                                                                                                       74,172
+
+Earnings per equity share:- Basic and diluted (`)                                              29.45              29.87            29.13           87.97           80.09             106.88
+Dividend per share (Par value `1 each)
+Interim dividend on equity shares (`)                                                          27.00                9.00           75.00           45.00           91.00              91.00
+Final dividend on equity shares (`)                                                                -                   -               -               -               -              24.00
+Total dividend on equity shares (`)                                                            27.00                9.00           75.00           45.00           91.00             115.00
+Total equity dividend percentage                                                               2,700                 900           7,500           4,500           9,100             11,500
+
+     Select explanatory notes to the Statement of Audited Standalone Interim Financial Results for three month and nine-month period
+     ended December 31, 2023
+
+1.   Audited Standalone Interim Statement of Financial Results for the three month and nine-month period ended December 31, 2023 have
+     been prepared in accordance with the Indian Accounting Standard (referred to as "Ind AS") 34 - Interim Financial Reporting prescribed
+     under Section 133 of the Companies Act, 2013 read with Companies (Indian Accounting Standards) Rules as amended from time to time.
+     These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on January 11, 2024.
+     The statutory auditors have expressed an unmodified audit opinion on these results.
+
+2.   On April 21, 2022, Epic invoked payment of `1,164 crore (US $140 million) out of `3,658 crore (US $440 million) Letter of Credit provided
+     as security, towards compensatory damages awarded by the District Court and confirmed by the Appeals Court. On July 1, 2022, the District
+     Court passed an Order affirming the punitive damages at `1,164 crore (US $140 million). The Company’s second appeal in the Appeals Court
+     to reduce the punitive damages subsequently affirmed by the District Court was disposed on July 14, 2023, with a re-affirmation of the
+     District Court order awarding punitive damages of `1,164 crore (US $140 million). The Company’s petition to the Supreme Court to review
+     the entire judgement including both the compensatory and punitive damages re-affirmed by the Appeals Court was rejected by the Supreme
+     Court on November 20, 2023, pursuant to which, punitive damages of `1,164 crore (US $140 million) was paid on December 1, 2023. The
+     Company has provided the balance punitive damages amount of `958 crore (US $115 million) in its financial statements for three month
+     period ended December 31, 2023 and disclosed the same as an "exceptional item" in the standalone statement of profit and loss.
+
+3.   The Board of Directors at its meeting held on October 11, 2023, approved a proposal to buy-back upto 4,09,63,855 equity shares of the
+     Company for an aggregate amount not exceeding `17,000 crore, being 1.12% of the total paid up equity share capital at `4,150 per equity
+     share. The shareholders approved the same on November 15, 2023, by way of a special resolution through postal ballot. A Letter of Offer
+     was made to all eligible shareholders. The Company bought back 4,09,63,855 equity shares out of the shares that were tendered by eligible
+     shareholders and extinguished the equity shares on December 13, 2023. Capital redemption reserve was created to the extent of share
+     capital extinguished (`4 crore). The excess cost of buy-back of `17,046 crore (including `46 crore towards transaction cost of buy-back)
+     over par value of shares and corresponding tax on buy-back of `3,959 crore were offset from retained earnings.
+
+4.   The Board of Directors at its meeting held on January 11, 2024, has declared an interim dividend of `9.00 per equity share and special
+     dividend of `18.00 per equity share.
+
+5.   The results for three month and nine month period ended December 31, 2023, are available on the BSE Limited website
+     (URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL: www.nseindia.com) and on the Company’s website
+     (URL: www.tcs.com/investors).
+
+
+                                                                                             For and on behalf of the Board of Directors
+
+                                                                                                     KUNCHITHAM Digitally signed by
+                                                                                                                 KUNCHITHAM KRITHIVASAN
+                                                                                                                 Date: 2024.01.11 13:40:11
+                                                                                                     KRITHIVASAN +05'30'
+     Mumbai                                                                                                 K Krithivasan
+     January 11, 2024                                                                                 CEO and Managing Director
+

@@ -1,0 +1,972 @@
+TCS/BM/154/SE/2024-25
+October 10, 2024
+
+National Stock Exchange of India Limited                             BSE Limited
+Exchange Plaza, C-1, Block G,                                        P. J. Towers,
+Bandra Kurla Complex, Bandra (East),                                 Dalal Street,
+Mumbai - 400051                                                      Mumbai - 400001
+Symbol - TCS                                                         Scrip Code No. 532540
+
+Dear Sirs,
+Sub: Financial Results for the quarter and six-month period ended September 30, 2024, and
+     declaration of second interim dividend
+
+We enclose the audited standalone financial results of the Company and audited consolidated financial
+results of the Company and its subsidiaries for the quarter and six-month period ended September 30, 2024,
+under Ind AS ("the Statement"), which have been approved and taken on record at a meeting of the Board
+of Directors of the Company held today at 12.30 p.m. and concluded at 4.00 p.m.
+
+We would like to inform you that at the Board Meeting held today, the Directors have declared
+second interim dividend of INR 10 per Equity Share of INR 1 each of the Company.
+The second interim dividend shall be paid on Tuesday, November 5, 2024, to the equity shareholders of the
+Company, whose names appear on the Register of Members of the Company or in the records of the
+Depositories as beneficial owners of the shares as on Friday, October 18, 2024, which is the Record Date
+fixed for the purpose.
+
+The above information is also available on the website of the Company www.tcs.com.
+
+Thanking you,
+
+Yours faithfully,
+For Tata Consultancy Services Limited
+PRADEEP          Digitally signed by
+                 PRADEEP MANOHAR
+MANOHAR          GAITONDE
+                 Date: 2024.10.10 16:03:28
+GAITONDE         +05'30'
+
+Pradeep Manohar Gaitonde
+Company Secretary
+Encl: As above
+cc:
+1. National Securities Depository Limited
+2. Central Depository Services (India) Limited
+3. Link Intime India Private Limited
+
+
+
+                                       9th Floor Nirmal Building Nariman Point Mumbai 400 021
+                   Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+                              Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+                                       Corporate Identity No. (CIN): L22210MH1995PLC084781
+
+                                                                                                      14th Floor, Central B Wing and North C Wing
+B S R & Co. LLP                                                                                       Nesco IT Park 4, Nesco Center
+                                                                                                      Western Express Highway
+Chartered Accountants                                                                                 Goregaon (East), Mumbai  400 063, India
+                                                                                                      Telephone: +91 (22) 6257 1000
+                                                                                                      Fax: +91 (22) 6257 1010
+
+
+
+
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Consolidated Financial Results
+
+Opinion
+
+We have audited the accompanying Statement of Consolidated Financial Results of Tata Consultancy
+Services Limited (Holding Company) and its subsidiaries (Holding Company and its subsidiaries together
+referred to as the Group), for the quarter ended 30 September 2024 and for the period from 01 April
+2024 to 30 September 2024, (the Statement), being submitted by the Holding Company pursuant to the
+requirement of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+Statement:
+a.     includes the results of the entities mentioned in Annexure I;
+b.     is presented in accordance with the requirements of Regulation 33 of the Listing Regulations as
+       amended; and
+c.     gives a true and fair view in conformity with the applicable accounting standards, and other accounting
+       principles generally accepted in India, of consolidated total comprehensive income (comprising of net
+       profit and other comprehensive income) and other financial information of the Group for the quarter
+       ended 30 September 2024 and for the period from 01 April 2024 to 30 September 2024.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section
+143(10) of the Companies Act, 2013 (the Act). Our responsibilities under those SAs are further described
+in the Auditors Responsibilities for the Audit of the Consolidated Financial Results section of our report.
+We are independent of the Group in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our opinion
+on the consolidated financial results.
+
+Managements and Board of Directors/Trustees Responsibilities for the Consolidated Financial
+Results
+
+These quarterly consolidated financial results as well as the year to date consolidated financial results
+have been prepared on the basis of the consolidated interim financial statements.
+The Holding Companys Management and the Board of Directors are responsible for the preparation and
+presentation of these consolidated financial results that give a true and fair view of the consolidated net
+profit/ loss and other comprehensive income and other financial information of the Group in accordance
+with the recognition and measurement principles laid down in Indian Accounting Standard 34, Interim
+Financial Reporting prescribed under Section 133 of the Act read with relevant rules issued thereunder
+and other accounting principles generally accepted in India and in compliance with Regulation 33 of the
+Listing Regulations. The respective Management and Board of Directors/Trustees of the
+companies/entities included in the Group are responsible for maintenance of adequate accounting records
+
+                                                                                                        Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a        14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013     Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                         Page 1 of 5
+
+B S R & Co. LLP
+
+                                              Independent Auditors Report (Continued)
+                                                         Tata Consultancy Services Limited
+in accordance with the provisions of the Act for safeguarding of the assets of each company/entity and for
+preventing and detecting frauds and other irregularities; selection and application of appropriate
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were operating effectively
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and
+presentation of the consolidated financial results that give a true and fair view and are free from material
+misstatement, whether due to fraud or error, which have been used for the purpose of preparation of the
+consolidated financial results by the Management and the Board of Directors of the Holding Company, as
+aforesaid.
+In preparing the consolidated financial results, the respective Management and the Board of
+Directors/Trustees of the companies/entities included in the Group are responsible for assessing the
+ability of each company/entity to continue as a going concern, disclosing, as applicable, matters related
+to going concern and using the going concern basis of accounting unless the respective Board of
+Directors/Trustees either intends to liquidate the company/entity or to cease operations, or has no realistic
+alternative but to do so.
+The respective Board of Directors of the companies/Trustees of the entities included in the Group is
+responsible for overseeing the financial reporting process of each company/entity.
+
+Auditors Responsibilities for the Audit of the Consolidated Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial results as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditors report
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that
+an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+   Identify and assess the risks of material misstatement of the consolidated financial results, whether
+    due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+    evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting
+    a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+    involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+    effectiveness of the Groups internal control.
+   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the consolidated financial results made by the Management and
+    Board of Directors.
+   Conclude on the appropriateness of the Managements and Board of Directors use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the
+    appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+    to draw attention in our auditors report to the related disclosures in the consolidated financial results
+    or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit
+    evidence obtained up to the date of our auditors report. However, future events or conditions may
+    cause the Group to cease to continue as a going concern.
+   Evaluate the overall presentation, structure and content of the consolidated financial results, including
+    the disclosures, and whether the consolidated financial results represent the underlying transactions
+    and events in a manner that achieves fair presentation.
+
+
+
+
+                                                                                                  Page 2 of 5
+
+B S R & Co. LLP
+
+                                            Independent Auditors Report (Continued)
+                                                      Tata Consultancy Services Limited
+We communicate with those charged with governance of the Holding Company and such other entities
+included in the consolidated financial results of which we are the independent auditors regarding, among
+other matters, the planned scope and timing of the audit and significant audit findings, including any
+significant deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+
+                                                                                For B S R & Co. LLP
+                                                                              Chartered Accountants
+                                                       Firms Registration No.:101248W/W-100022
+
+
+
+
+                                                                                Aniruddha Godbole
+                                                                                               Partner
+Mumbai                                                                      Membership No.: 105149
+10 October 2024                                                       UDIN:24105149BKEXEQ3746
+
+
+
+
+                                                                                            Page 3 of 5
+
+B S R & Co. LLP
+
+                                             Independent Auditors Report (Continued)
+                                                      Tata Consultancy Services Limited
+Annexure I
+
+The consolidated financial results include financial results of the Holding Company and its subsidiaries
+listed below:
+
+Sr. No. Name of component                             Sr.      Name of component
+                                                      No.
+
+1        APTOnline Limited                            19       TCS Financial Solutions Australia Pty
+                                                               Ltd
+
+2        C-Edge Technologies Limited                  20       TCS Financial Solutions (Beijing) Co.,
+                                                               Ltd.
+                                                               (Merged with Tata Consultancy Services
+                                                               (China) Co., Ltd. w.e.f. 01 July 2024)
+
+3        Diligenta Limited                            21       MGDC S.C.
+
+4        MahaOnline Limited                           22       Tata Consultancy Services Argentina
+                                                               S.A.
+
+5        MP Online Limited                            23       Tata Consultancy Services De Mexico,
+                                                               S.A. De C.V.
+
+6        Tata America International Corporation       24       Tata Consultancy Services Do Brasil
+                                                               Ltda.
+
+7        Tata    Consultancy     Services     (Africa) 25      TCS Inversiones Chile Limitada
+         (Proprietary) Limited
+
+8        Tata Consultancy Services Asia Pacific Pte 26         Tata Consultancy Services France
+         Ltd
+
+9        Tata Consultancy Services Belgium            27       TCS Uruguay S.A.
+
+10       Tata Consultancy Services Canada Inc.        28       TCS Solution Center S.A.
+
+11       Tata Consultancy Services Deutschland 29              Tata Consultancy Services De Espana
+         GmbH                                                  S.A.
+
+12       Tata Consultancy Services Netherlands B.V. 30         Tata Consultancy Services Luxembourg
+                                                               S.A.
+
+13       Tata Consultancy Services Qatar              31       Tata Consultancy Services Osterreich
+                                                               GmbH
+
+14       Tata    Consultancy     Services    Sverige 32        Tata Consultancy Services Saudi Arabia
+         Aktiebolag
+
+15       TCS e-Serve International Limited            33       Tata Consultancy Services Switzerland
+                                                               Ltd
+
+16       TCS FNS Pty Limited                          34       TCS Business Services GmbH
+
+17       TCS Iberoamerica S.A.                        35       Tata Consultancy      Services   Ireland
+                                                               Limited
+
+18       Tata Consultancy Services Indonesia, PT      36       TCS Technology Solutions GmbH
+
+
+                                                                                            Page 4 of 5
+
+B S R & Co. LLP
+
+                                          Independent Auditors Report (Continued)
+                                                       Tata Consultancy Services Limited
+Sr. No. Name of component                              Sr.   Name of component
+                                                       No.
+
+37     Tata Consultancy Services (China) Co., Ltd. 47        Tata Consultancy Services Bulgaria
+                                                             EOOD
+
+38     Tata Consultancy Services (Philippines) Inc. 48       Tata Consultancy Services Guatemala,
+                                                             S.A.
+
+39     Tata Consultancy       Services   (Thailand) 49       Tata Consultancy Services UK Limited
+       Limited
+
+40     Tata Consultancy Services Japan, Ltd.           50    Diligenta (Europe) B.V.
+
+41     Tata Consultancy Services Malaysia Sdn. 51            TCS Foundation
+       Bhd.
+
+42     Tata Consultancy Services Italia S.R.L.         52    Tata Sons & Consultancy Services
+                                                             Employees Welfare Trust
+
+43     Tata Consultancy Services                       53    TCS e-Serve International Limited 
+                                                             Employees Welfare Benefit Trust
+       (South Africa) (Proprietary) Limited
+
+44     Tata Consultancy Services Chile S.A.
+
+45     Tatasolution Center S.A.
+
+46     Tata Consultancy      Services    (Portugal),
+       Unipessoal Lda
+
+
+
+
+                                                                                        Page 5 of 5
+
+                                                                          TATA CONSULTANCY SERVICES LIMITED
+                                                       Registered Office: 9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+                                                                               CIN: L22210MH1995PLC084781
+                                                     Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+
+                                                              Audited Consolidated Interim Statement of Financial Results
+                                                                                                                                                                                      ( crore)
+                                                                                                   Three months ended                               Six months ended             Year ended
+                                                                                      September 30,     June 30,          September 30,       September 30,    September 30,     March 31,
+                                                                                          2024            2024                2023                2024             2023           2024
+Revenue from operati ons                                                                     64,259          62,613              59,692             1,26,872         1,19,073        2,40,893
+Other i ncome                                                                                   729             962               1,006                1,691            2,403           4,422
+TOTAL INCOME                                                                                 64,988          63,575              60,698             1,28,563         1,21,476        2,45,315
+Expenses
+ Empl oyee benefi t expens es                                                                36,654          36,416              35,123              73,070            70,271        1,40,131
+ Cost of equi pment and s oftwa re l i cences                                                 3,230           2,151                 462               5,381               968           3,702
+ Fi na nce cos ts                                                                               162             173                 159                 335               322             778
+ Depreci a ti on a nd amorti sa ti on expense                                                 1,266           1,220               1,263               2,486             2,506           4,985
+ Other expenses                                                                               7,644           7,384               8,361              15,028            17,090          32,764
+TOTAL EXPENSES                                                                               48,956          47,344              45,368              96,300            91,157        1,82,360
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX                                                       16,032          16,231              15,330              32,263            30,319          62,955
+Exceptional item
+ Settl ement of l egal cl a i m                                                                   -               -                  -                   -                 -             958
+PROFIT BEFORE TAX                                                                            16,032          16,231              15,330              32,263            30,319          61,997
+Tax expense
+ Current ta x                                                                                 4,078           4,290               3,955               8,368             7,823          15,864
+ Deferred ta x                                                                                   (1)          (164)                  (5)              (165)                (4)             34
+TOTAL TAX EXPENSE                                                                             4,077           4,126               3,950               8,203             7,819          15,898
+PROFIT FOR THE PERIOD                                                                        11,955          12,105              11,380              24,060            22,500          46,099
+OTHER COMPREHENSIVE INCOME (OCI)
+  Items that will not be reclassified subsequently to profit or loss
+    Remea s urement of defi ned empl oyee benefi t pl a ns                                      (38)                51               (9)                  13                5                (2)
+    Ne t cha nge i n fa i r va l ues of i nves tments i n equi ty s ha res                      (12)                 -                 -                (12)                -                (6)
+    ca rri ed at fa i r va l ue through OCI
+  Income tax on items that will not be reclassified subsequently to profit                       10                (18)                   -              (8)              (8)             (11)
+  or loss
+  Items that will be reclassified subsequently to profit or loss
+    Net cha nge i n fa i r va l ues of i nves tments other tha n equi ty                        392                 54             (171)                446              (25)             237
+    s hares carri ed a t fa i r va l ue through OCI
+    Net cha nge i n i ntri ns i c va l ue of deri va ti ves des i gnated a s ca s h             (14)                 4               64                 (10)               74                 1
+    fl ow hedges
+    Net cha nge i n ti me va l ue of deri va ti ves des i gnated as ca s h                      (23)                 1              (11)                (22)              (2)                13
+    fl ow hedges
+    Excha nge di fferences on tra ns l ati on of fi na nci a l s ta tements of                  835           (292)                (124)                543             (196)                44
+    forei gn opera ti ons
+  Income tax on items that will be reclassified subsequently to profit or                       (89)               (14)              33                (103)               14             (39)
+  loss
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)                                                   1,061           (214)               (218)                 847             (138)             237
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD                                                    13,016          11,891              11,162              24,907            22,362          46,336
+Profit for the period attributable to:
+  Sharehol ders of the Company                                                               11,909          12,040              11,342              23,949            22,416          45,908
+  Non-control l i ng i nteres ts                                                                 46              65                  38                 111                84             191
+                                                                                             11,955          12,105              11,380              24,060            22,500          46,099
+Other comprehensive income for the period attributable to:
+ Sharehol ders of the Company                                                                   987           (181)                (210)                806              (84)              299
+ Non-control l i ng i nteres ts                                                                  74            (33)                  (8)                 41              (54)             (62)
+                                                                                              1,061           (214)                (218)                847             (138)              237
+Total comprehensive income for the period attributable to:
+ Sharehol ders of the Company                                                                12,896          11,859              11,132              24,755            22,332          46,207
+ Non-control l i ng i nteres ts                                                                 120              32                  30                 152                30             129
+                                                                                             13,016          11,891              11,162              24,907            22,362          46,336
+Pa i d up equi ty sha re capi ta l (Fa ce va l ue: 1 per sha re)                                362                362              366                 362               366             362
+Total reserves (including Non-controlling interests)                                                                                                                                   90,957
+
+Earnings per equity s hare:- Basic and diluted ( )                                            32.92           33.28               31.00               66.20            61.26           125.88
+Dividend per share (Par value 1 each)
+Interim dividend on equity shares ( )                                                         10.00           10.00                 9.00              20.00             18.00           45.00
+Final dividend on equity shares ( )                                                               -               -                    -                  -                 -           28.00
+Total dividend on equity s hares ( )                                                          10.00           10.00                 9.00              20.00             18.00           73.00
+Total equity di vidend percentage                                                             1,000           1,000                  900              2,000             1,800           7,300
+
+                                                             TATA CONSULTANCY SERVICES LIMITED
+                                                      Audited Consolidated Interim Segment Information
+                                                                                                                                                      ( crore)
+                                                                            Three months ended                       Six months ended            Year ended
+                                                               September 30,     June 30,      September 30,   September 30,    September 30,    March 31,
+                                                                   2024            2024            2023            2024             2023          2024
+
+ SEGMENT REVENUE
+ Ba nking, Fi na nci al Servi ce s a nd Ins ura nce                    23,785         23,074          22,840           46,859           45,502          90,928
+ Ma nufa cturi ng                                                       6,310          6,271           5,787           12,581           11,423          23,491
+ Cons umer Bus ine s s                                                 10,025          9,991           9,773           20,016           19,649          39,357
+ Communi ca ti on, Media a nd Technol ogy                              12,088         10,794           9,572           22,882           19,168          39,391
+ Li fe Sci ences a nd Hea l thcare                                      6,630          6,909           6,625           13,539           13,261          26,745
+ Others                                                                 5,421          5,574           5,095           10,995           10,070          20,981
+ Total                                                                 64,259         62,613          59,692         1,26,872         1,19,073        2,40,893
+ SEGMENT RESULT
+ Ba nking, Fi na nci al Servi ce s a nd Ins ura nce                     6,345          6,011           5,861          12,356            11,318         23,574
+ Ma nufa cturi ng                                                       2,063          2,090           1,680           4,153             3,299          7,268
+ Cons umer Bus ine s s                                                  2,695          2,627           2,483           5,322             4,950         10,252
+ Communi ca ti on, Media a nd Technol ogy                               2,357          2,459           2,739           4,816             5,416         10,918
+ Li fe Sci ences a nd Hea l thcare                                      1,849          2,092           1,837           3,941             3,618          7,611
+ Others                                                                 1,422          1,383           1,146           2,805             2,143          4,673
+ Total                                                                 16,731         16,662          15,746          33,393            30,744         64,296
+ Unal l ocabl e expens es *                                             1,428          1,393           1,422           2,821             2,828          6,721
+ Operating income                                                      15,303         15,269          14,324          30,572            27,916         57,575
+ Other i ncome                                                            729            962           1,006           1,691             2,403          4,422
+ PROFIT BEFORE TAX                                                     16,032         16,231          15,330          32,263            30,319         61,997
+
+
+Note: The assets and liabilities of the Group are used interchangeably amongst segments. Allocation of such assets and
+liabilities is not practicable and any forced allocation would not result in any meaningful segregation. Hence, assets and
+liabilities have not been identified to any of the reportable segments.
+
+*Includes settlement of legal claim of 958 crore in the year ended March 31, 2024.
+
+                                          TATA CONSULTANCY SERVICES LIMITED
+                                        Audited Consolidated Interim Balance Sheet
+                                                                                                              ( crore)
+                                                                                     As at                As at
+                                                                               September 30, 2024     March 31, 2024
+ASSETS
+Non-current assets
+ Prope rty, pl a nt a nd e qui pme nt                                                         9,438                9,376
+ Ca pi ta l work-i n-progre s s                                                               1,500                1,564
+ Ri ght-of-us e a s s e ts                                                                    8,977                7,886
+ Goodwi l l                                                                                   1,901                1,832
+ Othe r i nta ngi bl e a s s e ts                                                               413                  510
+ Fi na nci a l a s s e ts
+   Inve s tme nts                                                                              289                  281
+   Tra de re ce i va bl e s
+     Bi l l e d                                                                                  86                  127
+     Unbi l l ed                                                                                 62                   16
+   Loa ns                                                                                         2                    2
+   Othe r fi na nci a l a s s e ts                                                            2,550                3,272
+ Defe rred ta x a s s e ts (net)                                                              3,388                3,403
+ Income ta x a s s e ts (ne t)                                                                1,904                1,600
+ Othe r a s s e ts                                                                            3,674                3,596
+Total non-current assets                                                                     34,184               33,465
+Current assets
+  Inve ntori e s                                                                                29                     28
+  Fi na nci a l a s s ets
+    Inve s tme nts                                                                           35,792               31,481
+    Tra de re ce i va bl e s
+      Bi l l e d                                                                           49,532               44,434
+      Unbi l l ed                                                                           8,178                9,143
+    Ca s h a nd ca s h e qui va l e nts                                                     8,155                9,016
+    Othe r ba l a nce s wi th ba nks                                                        8,578                4,270
+    Loa ns                                                                                    257                  491
+    Othe r fi na nci a l a s s e ts                                                         2,961                1,703
+  Income ta x a s s e ts (ne t)                                                               172                  151
+  Othe r a s s e ts                                                                        13,286               12,267
+Total current assets                                                                     1,26,940             1,12,984
+TOTAL ASSETS                                                                             1,61,124             1,46,449
+EQUITY AND LIABILITIES
+Equity
+  Sha re ca pi ta l                                                                           362                    362
+  Othe r e qui ty                                                                        1,01,133                 90,127
+Equity attributable to shareholders of the Company                                       1,01,495                 90,489
+  Non-control l i ng i nte re s ts                                                            888                    830
+Total equity                                                                             1,02,383                 91,319
+Liabilities
+Non-current liabilities
+  Fi na nci a l l i a bi l i ti es
+    Le a s e l i a bi l i ti e s                                                              7,477                6,516
+    Othe r fi na nci a l l i a bi l i ti e s                                                    756                  365
+  Empl oye e be nefi t obl i ga ti ons                                                          789                  686
+  Defe rred ta x l i a bi l i ti e s (ne t)                                                     938                  977
+  Une a rne d a nd de ferre d re ve nue                                                         299                  482
+Total non-current liabilities                                                                10,259                9,026
+Current liabilities
+  Fi na nci a l l i a bi l i ti es
+    Le a s e l i a bi l i ti e s                                                            1,569                1,505
+    Tra de pa ya bl es                                                                     12,927                9,981
+    Othe r fi na nci a l l i a bi l i ti e s                                                7,156                8,362
+  Une a rne d a nd de ferre d re ve nue                                                     3,535                3,640
+  Othe r l i a bi l i ti e s                                                                6,930                6,524
+  Provi s i ons                                                                               155                  140
+  Empl oye e be nefi t obl i ga ti ons                                                      4,849                4,519
+  Income ta x l i a bi l i ti e s (ne t)                                                   11,361               11,433
+Total current liabilities                                                                  48,482               46,104
+TOTAL EQUITY AND LIABILITIES                                                             1,61,124             1,46,449
+
+     Select explanatory notes to the Statement of Audited Consolidated Interim Financial Results for three months and six-months ended
+     September 30, 2024
+
+1.   Audited Consolidated Interim Statement of Financial Results for the three months and six-months ended Sep 30, 2024 have been prepared
+     in accordance with the Indian Accounting Standard (referred to as "Ind AS") 34 - Interim Financial Reporting prescribed under
+     Section 133 of the Companies Act, 2013 read with Companies (Indian Accounting Standards) Rules as amended from time to time. These
+     results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on October 10, 2024. The
+     statutory auditors have expressed an unmodified audit opinion on these results.
+
+2.   Audited Consolidated Interim Statement of Cash Flows is attached in Annexure I.
+
+3.   The Board of Directors at its meeting held on October 10, 2024, has declared an interim dividend of 10.00 per equity share.
+
+4.   The results for three months and six months ended Sep 30, 2024, are available on the BSE Limited website
+     (URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL: www.nseindia.com) and on the Companys website
+     (URL: www.tcs.com/investors).
+
+
+                                                                                             For and on behalf of the Board of Directors
+
+
+
+
+     Mumbai                                                                                                 K Krithivasan
+     October 10, 2024                                                                                 CEO and Managing Director
+
+Annexure I
+                                                                   TATA CONSULTANCY SERVICES LIMITED
+                                                          Audited Consolidated Interim Statement of Cash Flows
+                                                                                                                                                           ( crore)
+                                                                                                                         Six months ended              Year ended
+                                                                                                                   September 30,     September 30,     March 31,
+                                                                                                                       2024              2023            2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Profit for the period                                                                                                     24,060            22,500           46,099
+Adjustments for:
+Depre ci a ti on a nd a morti s a ti on expens e                                                                            2,486             2,506           4,985
+Ba d debts a nd a dva nces wri tten off, a l l owa nce for doubtful tra de rece i va bl es a nd a dva nces (net)                62               50             114
+Ta x e xpens e                                                                                                              8,203             7,819         15,898
+Net ga i n on l e a s e modi fi ca ti on                                                                                     (12)              -                 (7)
+Unrea l i s e d forei gn excha nge (ga i n) / l os s                                                                         (20)                 8            (17)
+Net ga i n on di s pos a l of property, pl a nt a nd equi pme nt                                                               (8)               (2)             (7)
+Net ga i n on di s pos a l / fa i r va l ua ti on of i nves tments                                                          (118)             (144)           (312)
+Intere s t i ncome                                                                                                        (1,586)           (2,082)         (3,781)
+Di vi de nd i ncome                                                                                                          (23)              (16)            (41)
+Fi na nce cos ts                                                                                                              335               322             778
+Operating profit before working capital changes                                                                            33,379           30,961           63,709
+Net change in
+Inve ntori es                                                                                                                 (1)               -               -
+Tra de recei va bl es
+  Bi l l ed                                                                                                               (4,618)           (1,389)         (3,327)
+  Unbi l l ed                                                                                                              1,075               148               (5)
+Loa ns a nd othe r fi na nci a l a s s ets                                                                                  (385)              (19)           (301)
+Other a s s ets                                                                                                             (918)           (1,466)         (3,160)
+Tra de pa ya bl es                                                                                                          2,537              139            (632)
+Unea rne d a nd deferre d revenue                                                                                           (346)           (1,019)           (740)
+Other fi na nci a l l i a bi l i ti es                                                                                      (770)           (1,606)           (695)
+Other l i a bi l i ti es a nd provi s i ons                                                                                   758             2045           1,978
+Cash generated from operations                                                                                             30,711           27,794           56,827
+Ta xes pa i d (net of refunds )                                                                                           (8,712)           (5,793)        (12,489)
+Net cash generated from operating activities                                                                              21,999            22,001           44,338
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Ba nk depos i ts pl a ce d                                                                                                (3,930)           (5,151)         (9,471)
+Purcha s e of i nve s tments                                                                                             (68,972)          (65,317)       (141,011)
+Pa yment for purcha s e of property, pl a nt a nd equi pment                                                              (1,491)             (767)         (2,202)
+Pa yment i ncl udi ng a dva nces for a cqui ri ng ri ght-of-us e a s s ets                                                   (91)              (16)            (30)
+Pa yment for purcha s e of i nta ngi bl e a s s ets                                                                         (108)              (49)           (442)
+Procee ds from ba nk depos i ts                                                                                               404             2,200           8,089
+Proceeds from i nte r-corpora te depos i ts                                                                                    60               822             846
+Proceeds from di s pos a l / redempti on of i nve s tments                                                                 64,732            58,641        1,47,204
+Proceeds from s ub-l ea s e recei va bl e                                                                                       2                 3               3
+Procee ds from di s pos a l of property, pl a nt a nd equi pment                                                                9                 5              17
+Proceeds from di s pos a l of i nta ngi bl e a s s ets                                                                          -                 -               7
+Intere s t recei ve d                                                                                                       1,302             1,351           2,990
+Di vi dend recei ved                                                                                                           15                10              26
+Net cash generated from / (used in) investing activities                                                                  (8,068)           (8,268)          6,026
+
+                                                                TATA CONSULTANCY SERVICES LIMITED
+                                                        Audited Consolidated Interim Statement of Cash Flows
+                                                                                                                                                         ( crore)
+                                                                                                                     Six months ended                Year ended
+                                                                                                               September 30,      September 30,      March 31,
+                                                                                                                   2024               2023             2024
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repa yment of l ea s e l ia bi l i ti e s                                                                               (835)              (816)          (1,614)
+Interes t pa i d                                                                                                        (333)              (312)            (699)
+Di vi dend pa i d                                                                                                    (13,749)           (12,075)         (25,137)
+Di vi dend pa i d to non-control l i ng i nteres ts                                                                      (94)               (81)             (81)
+Tra ns fer of funds to buy-ba ck es crow a ccount                                                                             -                  -            (425)
+Tra ns fer of funds from buy-ba ck es crow a ccount                                                                           -                  -             425
+Expens es for buy-ba ck of equi ty s ha res                                                                                   -                  -             (46)
+Ta x on buy-ba ck of equi ty s ha res                                                                                         -                  -        (3,959)
+Buy-ba ck of equi ty s ha res                                                                                                 -                  -       (17,000)
+Net cash used in financing activities                                                                                (15,011)           (13,284)         (48,536)
+Net change in cash and cash equivalents                                                                               (1,080)               449            1,828
+Ca s h a nd ca s h equi va l ents a t the begi nni ng of the peri od                                                    9,016              7,123            7,123
+Excha nge di fference on tra ns l a tion of forei gn currency ca s h a nd ca s h equi va l ents                          219                (28)               65
+Cash and cash equivalents at the end of the period                                                                      8,155              7,544            9,016
+Components of cash and cash equivalents
+Balances with banks
+  In current a ccounts                                                                                                    2,711              2,320            2,804
+  In depos i t a ccounts                                                                                                  5,443              5,214            6,212
+Cheques on ha nd                                                                                                             -*                 -*               -*
+Ca s h on ha nd                                                                                                              -*                 -*               -*
+Remi tta nces in tra ns i t                                                                                                   1                 10               -*
+                                                                                                                          8,155              7,544            9,016
+
+*Repres ents va l ue l es s tha n 0.50 crore.
+
+                                                                                                      14th Floor, Central B Wing and North C Wing
+B S R & Co. LLP                                                                                       Nesco IT Park 4, Nesco Center
+                                                                                                      Western Express Highway
+Chartered Accountants                                                                                 Goregaon (East), Mumbai  400 063, India
+                                                                                                      Telephone: +91 (22) 6257 1000
+                                                                                                      Fax: +91 (22) 6257 1010
+
+
+
+
+To the Board of Directors of Tata Consultancy Services Limited
+Report on the audit of the Standalone Financial Results
+
+Opinion
+
+We have audited the accompanying standalone quarterly financial results of Tata Consultancy Services
+Limited (the Company) for the quarter ended 30 September 2024 and the year-to-date results for the
+period from 01 April 2024 to 30 September 2024, attached herewith, being submitted by the Company
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, these
+standalone financial results:
+a.     are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+       regard; and
+b.     give a true and fair view in conformity with the recognition and measurement principles laid down in
+       the applicable accounting standards, and other accounting principles generally accepted in India, of
+       the net profit and other comprehensive income and other financial information for the quarter ended
+       30 September 2024 as well as for the year to date results for the period from 01 April 2024 to 30
+       September 2024..
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section
+143(10) of the Companies Act, 2013 (the Act). Our responsibilities under those SAs are further described
+in the Auditors Responsibilities for the Audit of the Standalone Financial Results section of our report. We
+are independent of the Company, in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for our opinion.
+
+Managements and Board of Directors Responsibilities for the Standalone Financial Results
+
+These quarterly financial results as well as the year to date standalone financial results have been
+prepared on the basis of the interim financial statements.
+The Companys Management and the Board of Directors are responsible for the preparation of these
+standalone financial results that give a true and fair view of the net profit/ loss and other comprehensive
+income and other financial information in accordance with the recognition and measurement principles
+laid down in Indian Accounting Standard 34, Interim Financial Reporting prescribed under Section 133
+of the Act read with relevant rules issued thereunder and other accounting principles generally accepted
+in India and in compliance with Regulation 33 of the Listing Regulations. This responsibility also includes
+maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding
+of the assets of the Company and for preventing and detecting frauds and other irregularities; selection
+and application of appropriate accounting policies; making judgments and estimates that are reasonable
+and prudent; and the design, implementation and maintenance of adequate internal financial controls, that
+were operating effectively for ensuring accuracy and completeness of the accounting records, relevant to
+the preparation and presentation of the standalone financial results that give a true and fair view and are
+                                                                                                        Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a        14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013     Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                         Page 1 of 3
+
+B S R & Co. LLP
+
+                                                Independent Auditors Report (Continued)
+                                                           Tata Consultancy Services Limited
+free from material misstatement, whether due to fraud or error.
+In preparing the standalone financial results, the Management and the Board of Directors are responsible
+for assessing the Companys ability to continue as a going concern, disclosing, as applicable, matters
+related to going concern and using the going concern basis of accounting unless the Board of Directors
+either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The Board of Directors are also responsible for overseeing the Companys financial reporting process.
+
+Auditors Responsibilities for the Audit of the Standalone Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the standalone financial results as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditors report
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that
+an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+   Identify and assess the risks of material misstatement of the standalone financial results, whether due
+    to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit
+    evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting
+    a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+    involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+    effectiveness of the companys internal control.
+   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the standalone financial results made by the Management and
+    Board of Directors.
+   Conclude on the appropriateness of the Managements and Board of Directors use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the Company's
+    ability to continue as a going concern. If we conclude that a material uncertainty exists, we are
+    required to draw attention in our auditors report to the related disclosures in the standalone financial
+    results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+    the audit evidence obtained up to the date of our auditors report. However, future events or conditions
+    may cause the Company to cease to continue as a going concern.
+   Evaluate the overall presentation, structure and content of the standalone financial results, including
+    the disclosures, and whether the standalone financial results represent the underlying transactions
+    and events in a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+
+
+
+
+                                                                                                     Page 2 of 3
+
+B S R & Co. LLP
+
+                                          Independent Auditors Report (Continued)
+                                                    Tata Consultancy Services Limited
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+
+
+                                                                              For B S R & Co. LLP
+                                                                            Chartered Accountants
+                                                     Firms Registration No.:101248W/W-100022
+
+
+
+
+                                                                              Aniruddha Godbole
+                                                                                             Partner
+Mumbai                                                                   Membership No.: 105149
+10 October 2024                                                     UDIN:24105149BKEXEP4594
+
+
+
+
+                                                                                         Page 3 of 3
+
+                                                                                  TATA CONSULTANCY SERVICES LIMITED
+                                                                                    th
+                                                            Registered Office: 9 Floor, Nirmal Building, Nariman Point, Mumbai 400 021
+                                                                                 CIN: L22210MH1995PLC084781
+                                                         Tel: +91 22 6778 9595 e-mail: investor.relations@tcs.com Website: www.tcs.com
+
+                                                                    Audited Standalone Interim Statement of Financial Results
+                                                                                                                                                                                     ( crore)
+                                                                                                       Three months ended                            Six months ended            Year ended
+                                                                                          September 30,     June 30,          September 30,    September 30,    September 30,    March 31,
+                                                                                              2024            2024                2023             2024             2023          2024
+Re ve nue from ope ra ti ons                                                                     53,990          52,844              50,165          1,06,834         1,00,027       2,02,359
+Othe r i ncome                                                                                    3,185           2,417               1,755             5,602            3,658          7,273
+TOTAL INCOME                                                                                     57,175          55,261              51,920          1,12,436         1,03,685       2,09,632
+Expenses
+  Empl oyee be nefi t expe ns es                                                                 26,815          26,657              26,018           53,472            51,997       1,03,139
+  Cos t of equi pment a nd s oftwa re l i ce nces                                                 3,163           2,073                 370            5,236               743          3,347
+  Fi na nce cos ts                                                                                  146             145                 134              291               272            673
+  De preci a ti on a nd a morti s a ti on expe ns e                                               1,008             969                 979            1,977             1,948          3,887
+  Othe r e xpens e s                                                                              9,454           9,539               9,975           18,993            20,349         40,026
+TOTAL EXPENSES                                                                                   40,586          39,383              37,476           79,969            75,309       1,51,072
+PROFIT BEFORE EXCEPTIONAL ITEM AND TAX                                                           16,589          15,878              14,444           32,467            28,376         58,560
+Exceptional item
+  Settl ement of l ega l cl a i m                                                                     -               -                  -                 -                 -            958
+PROFIT BEFORE TAX                                                                                16,589          15,878              14,444           32,467            28,376         57,602
+Tax Expense
+  Curre nt ta x                                                                                   3,602           3,809               3,501            7,411             6,990         14,178
+  De fe rre d ta x                                                                                   (7)           (46)                  14             (53)              (27)          (135)
+TOTAL TAX EXPENSE                                                                                 3,595           3,763               3,515            7,358             6,963         14,043
+PROFIT FOR THE PERIOD                                                                            12,994          12,115              10,929           25,109            21,413         43,559
+OTHER COMPREHENSIVE INCOME (OCI)
+ Items that will not be reclassified subsequently to profit or loss
+    Re me a s ureme nt of de fi ne d empl oyee be ne fi t pl a ns                                   (35)               (15)              22              (50)             (13)           (60)
+ Income tax on items that will not be reclassified subsequently to profit                              9                  4              (5)               13                3             13
+ or loss
+ Items that will be reclassified subsequently to profit or loss
+    Ne t cha nge i n fa i r va l ue s of i nve s tments othe r tha n equi ty                        392                 54             (171)             446              (25)           237
+    s ha re s ca rri ed a t fa i r va l ue through OCI
+    Ne t cha nge i n i ntri ns i c va l ue of deri va ti ve s des i gna te d a s ca s h             (14)                 4               64              (10)              74                  1
+    fl ow he dge s
+    Ne t cha nge i n ti me va l ue of de ri va ti ve s des i gna ted a s ca s h                     (23)                 1              (11)             (22)              (2)                13
+    fl ow he dge s
+ Income tax on items that will be reclassified subsequently to profit or                            (89)               (14)              33             (103)              13            (39)
+ loss
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)                                                         240              34                (68)              274                50            165
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD                                                        13,234          12,149              10,861           25,383            21,463         43,724
+Pa i d up equi ty s ha re ca pi ta l (Fa ce va l ue: 1 pe r s ha re )                               362             362                 366              362               366            362
+Total reserves                                                                                                                                                                         71,758
+
+Earnings per equity s ha re:- Basic and di luted ( )                                              35.91           33.48               29.87            69.40             58.52         119.44
+Dividend per share (Par value 1 each)
+Interi m dividend on equity shares ( )                                                            10.00           10.00                9.00            20.00             18.00          45.00
+Fina l dividend on equity s hares ( )                                                                 -               -                   -                -                 -          28.00
+Tota l dividend on equity s hares ( )                                                             10.00           10.00                9.00            20.00             18.00          73.00
+Tota l equi ty dividend percentage                                                                1,000           1,000                900             2,000             1,800          7,300
+
+                                                       TATA CONSULTANCY SERVICES LIMITED
+                                                      Audited Standalone Interim Balance Sheet
+                                                                                                                                ( crore)
+                                                                                                       As at                As at
+                                                                                                 September 30, 2024     March 31, 2024
+
+ASSETS
+Non-current assets
+ Prope rty, pl a nt a nd e qui pme nt                                                                           8,413                8,336
+ Ca pi ta l work-i n-progre s s                                                                                 1,346                1,450
+ Ri ght-of-us e a s s e ts                                                                                      7,372                6,154
+  Inta ngi bl e a s s e ts                                                                                       361                  463
+  Fi na nci a l a s s e ts
+    Inve s tme nts                                                                                              2,405                2,405
+    Tra de re ce i va bl e s
+      Bi l l e d                                                                                                   86                  127
+      Unbi l l e d                                                                                                106                   65
+    Loa ns                                                                                                          2                    2
+    Othe r fi na nci a l a s s e ts                                                                               635                  626
+  De fe rre d ta x a s s e ts (ne t)                                                                            2,510                2,524
+  Income ta x a s s e ts (ne t)                                                                                 1,189                1,062
+ Othe r a s s e ts                                                                                              3,050                3,016
+Total non-current assets                                                                                       27,475               26,230
+Current assets
+ Inve ntori e s                                                                                                   28                     27
+ Fi na nci a l a s s e ts
+   Inve s tme nts                                                                                              34,179               29,840
+   Tra de re ce i va bl e s
+      Bi l l e d                                                                                             43,131               38,591
+      Unbi l l e d                                                                                            6,690                7,477
+   Ca s h a nd ca s h e qui va l e nts                                                                        2,484                3,644
+   Othe r ba l a nce s wi th ba nks                                                                           6,448                2,955
+   Loa ns                                                                                                       145                  317
+   Othe r fi na nci a l a s s e ts                                                                            2,662                1,559
+  Income ta x a s s e ts (ne t)                                                                                 151                  111
+  Othe r a s s e ts                                                                                          11,042               10,397
+Total current assets                                                                                       1,06,960               94,918
+TOTAL ASSETS                                                                                               1,34,435             1,21,148
+EQUITY AND LIABILITIES
+Equity
+  Sha re ca pi ta l                                                                                               362                  362
+  Othe r e qui ty                                                                                              83,392               71,758
+Total equity                                                                                                   83,754               72,120
+Liabilities
+Non-current liabilities
+  Fi na nci a l l i a bi l i ti e s
+    Le a s e l i a bi l i ti e s                                                                                6,194                5,128
+    Othe r fi na nci a l l i a bi l i ti e s                                                                      702                  315
+  Empl oye e be ne fi t obl i ga ti ons                                                                           174                  144
+  De fe rre d ta x l i a bi l i ti e s (ne t)                                                                     191                  154
+  Une a rne d a nd de fe rre d re ve nue                                                                          226                  226
+Total non-current liabilities                                                                                   7,487                5,967
+Current liabilities
+  Fi na nci a l l i a bi l i ti e s
+    Le a s e l i a bi l i ti e s                                                                                1,090                1,017
+    Tra de pa ya bl e s
+      Due s of s ma l l e nterpri s e s a nd mi cro e nte rpri s e s                                               89                   79
+      Due s of cre di tors othe r tha n s ma l l e nte rpri s e s a nd mi cro e nte rpri s e s                 15,515               14,520
+    Othe r fi na nci a l l i a bi l i ti e s                                                                    4,848                6,286
+  Une a rne d a nd de fe rre d re ve nue                                                                        2,858                2,811
+  Othe r l i a bi l i ti e s                                                                                    4,818                4,458
+  Provi s i ons                                                                                                    85                   71
+  Empl oye e be ne fi t obl i ga ti ons                                                                         3,594                3,332
+ Income ta x l i a bi l i ti e s (ne t)                                                                      10,297               10,487
+Total current liabilities                                                                                    43,194               43,061
+TOTAL EQUITY AND LIABILITIES                                                                               1,34,435             1,21,148
+
+     Select explanatory notes to the Statement of Audited Standalone Interim Financial Results for three months and six-months ended
+     September 30, 2024
+
+1.   Audited Standalone Interim Statement of Financial Results for the three months and six-months ended Sep 30, 2024 have been prepared in
+     accordance with the Indian Accounting Standard (referred to as "Ind AS") 34 - Interim Financial Reporting prescribed under
+     Section 133 of the Companies Act, 2013 read with Companies (Indian Accounting Standards) Rules as amended from time to time. These
+     results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on October 10, 2024. The
+     statutory auditors have expressed an unmodified audit opinion on these results.
+
+2.   Audited Standalone Interim Statement of Cash Flows is attached in Annexure A.
+
+
+3.   The Board of Directors at its meeting held on October 10, 2024, has declared an interim dividend of 10.00 per equity share.
+
+4.   The results for three months and six months ended Sep 30, 2024, are available on the BSE Limited website
+     (URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL: www.nseindia.com) and on the Companys website
+     (URL: www.tcs.com/investors).
+
+
+                                                                                             For and on behalf of the Board of Directors
+
+
+
+
+     Mumbai                                                                                                  K Krithivasan
+     October 10, 2024                                                                                  CEO and Managing Director
+
+Annexure A
+                                                                     TATA CONSULTANCY SERVICES LIMITED
+                                                           Audited Standalone Interim Statement of Cash Flows
+                                                                                                                                                          ( crore)
+                                                                                                                        Six months ended              Year ended
+                                                                                                                  September 30,     September 30,     March 31,
+                                                                                                                      2024              2023           2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Profit for the period                                                                                                    25,109            21,413           43,559
+Adjustments for:
+Depreci a ti on a nd a morti s a ti on expens e                                                                           1,977             1,948            3,887
+Ba d debts a nd a dva nces wri tten off, a l l owa nce for doubtful tra de recei va bl es a nd a dva nces (net)                50              38               97
+Ta x expens e                                                                                                              7,358             6,963          14,043
+Net ga i n on l ea s e modi fi ca ti on                                                                                       (8)                 -             (2)
+Unrea l i s ed forei gn exchange (ga i n) / los s                                                                           (34)               10             (11)
+Net ga i n on di s pos a l of property, pl a nt a nd equi pment                                                               (7)               (2)             (8)
+Net ga i n on di s pos a l / fa i r va l ua ti on of i nves tments                                                          (92)             (125)           (264)
+Interes t i ncome                                                                                                        (1,359)           (1,890)         (3,382)
+Divi dend i ncome (Incl udi ng excha nge i mpact)                                                                        (4,103)           (1,447)         (3,288)
+Fi na nce cos ts                                                                                                           291                 272             673
+Operating profit before working capital changes                                                                          29,182            27,180           55,304
+Net change in
+Inventori es                                                                                                                 (1)              -               -
+Tra de recei va bl es
+  Bi l l ed                                                                                                              (4,540)           (1,994)         (3,145)
+  Unbi l l ed                                                                                                               746               174             (82)
+Loa ns a nd other fi na nci a l a s s ets                                                                                  (368)              109            (291)
+Other a s s ets                                                                                                            (666)           (1,241)         (3,125)
+Tra de pa ya bl es                                                                                                         1,005              564              831
+Unea rned a nd deferred revenue                                                                                              47              (791)           (567)
+Other fi na nci a l l i a bi l i ti es                                                                                     (968)           (1,494)           (698)
+Other l i a bi l i ti es a nd provi s ions                                                                                  663             1,907           1,498
+Cash generated from operations                                                                                            25,100            24,414          49,725
+Ta xes pa i d (net of refunds )                                                                                          (7,756)           (4,793)        (10,583)
+Net cash generated from operating activities                                                                             17,344             19,621          39,142
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Ba nk depos i ts pl a ced                                                                                                (3,492)           (3,577)         (6,489)
+Purcha s e of i nves tments                                                                                             (61,470)          (59,091)       (128,764)
+Pa yment for purcha s e of property, pl a nt a nd equi pment                                                             (1,274)             (599)         (1,720)
+Pa yment i ncl udi ng a dva nces for a cqui ri ng ri ght-of-us e a s s ets                                                  (90)              (14)            (17)
+Pa yment for purcha s e of i nta ngi bl e as s ets                                                                          (89)              (48)           (411)
+Proceeds from ba nk depos i ts                                                                                              -                1,277           6,605
+Proceeds from di s pos al / redempti on of i nves tments                                                                  57,147            53,273        1,35,375
+Proceeds from s ub-l ea s e recei va bl e                                                                                      4                 5              10
+Proceeds from di s pos a l of property, pl a nt a nd equi pment                                                                8                 5              14
+Interes t recei ved                                                                                                        1,185             1,173           2,670
+Divi dend recei ved from s ubs i di a ries                                                                                 4,103             1,694           3,534
+Net cash generated from / (used in) investing activities                                                                 (3,968)           (5,902)          10,807
+
+                                                                  TATA CONSULTANCY SERVICES LIMITED
+                                                           Audited Standalone Interim Statement of Cash Flows
+                                                                                                                                                         ( crore)
+                                                                                                                      Six months ended               Year ended
+                                                                                                                September 30,       September 30,    March 31,
+                                                                                                                    2024                2023          2024
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repa yment of l ea s e l i a bi l i ti es                                                                                (568)               (530)        (1,061)
+Interes t pa i d                                                                                                         (290)               (264)          (590)
+Di vi de nd pa i d                                                                                                    (13,749)            (12,075)       (25,137)
+Tra ns fer of funds to buy-ba ck es crow a ccount                                                                            -                   -          (425)
+Tra ns fer of funds from buy-ba ck es crow a ccount                                                                          -                   -           425
+Expe ns es for buy-ba ck of equi ty s ha res                                                                                    -                -           (46)
+Ta x on buy-ba ck of e qui ty s ha res                                                                                          -                -        (3,959)
+Buy-ba ck of equi ty s ha res                                                                                                   -                -       (17,000)
+Net cash used in financing activities                                                                                 (14,607)            (12,869)       (47,793)
+Net change in cash and cash equivalents                                                                                (1,231)                850          2,156
+Ca s h a nd ca s h e qui va l ents a t the begi nni ng of the peri od                                                    3,644               1,462          1,462
+Excha nge di fference on tra ns l a ti on of forei gn currency ca s h a nd ca s h e qui va l ents                           71                (11)             26
+Cash and cash equivalents at the end of the period                                                                       2,484               2,301          3,644
+Components of cash and cash equivalents
+Balances with banks
+  In current a ccounts                                                                                                  1204                  999           1,359
+  In depos i t a ccounts                                                                                                1280                1,302           2,285
+Cheques on ha nd                                                                                                           -*                  -*              -*
+Ca s h on ha nd                                                                                                            -*                  -*              -*
+Remi tta nces i n tra ns i t                                                                                               -*                   -              -*
+                                                                                                                        2,484               2,301           3,644
+
+*Repres ents va l ue l es s tha n 0.50 crore.
+
