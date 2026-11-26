@@ -1,0 +1,962 @@
+TCS/SE/109/2024-25
+
+August 10, 2024
+
+National Stock Exchange of India Limited                                BSE Limited
+Exchange Plaza, C-1, Block G,                                           P. J. Towers,
+Bandra Kurla Complex, Bandra (East)                                     Dalal Street,
+Mumbai - 400051                                                         Mumbai - 400001
+Symbol - TCS                                                            Scrip Code No. - 532540
+
+Dear Sirs,
+
+Sub: Schedule of Analyst/Institutional Investor Meeting Presentation
+
+This is in furtherance to our letter no. TCS/SE/96/2024-25 dated August 1, 2024. We enclose
+herewith the presentation made to the investors in the ‘Analyst Meet 2024’ held on Friday,
+August 9, 2024.
+
+This interaction used a Q&A format. No Unpublished Price Sensitive Information was shared
+during the interaction.
+
+The above information is also available on the website of the Company: www.tcs.com.
+
+This is for your information and record.
+
+Thanking you,
+
+Yours faithfully,
+For Tata Consultancy Services Limited
+PRADEEP      Digitally signed by
+             PRADEEP MANOHAR
+MANOHAR      GAITONDE
+             Date: 2024.08.10 16:03:15
+GAITONDE     +05'30'
+
+Pradeep Manohar Gaitonde
+Company Secretary
+
+Encl: As above
+
+
+                                         Tata Consultancy Services Limited
+                              9th Floor Nirmal Building Nariman Point Mumbai 400 021
+          Tel: 91 22 6778 9595 Fax: 91 22 6778 9660 E-mail: corporate.office@tcs.com Website: www.tcs.com
+                      Registered Office: 9th Floor Nirmal Building Nariman Point Mumbai 400021
+                           Corporate Identification No. (CIN): L22210MH1995PLC084781
+
+
+    AI for AI solutions engineering
+    Sankaranarayanan Viswanathan and
+    Suranjan Chatterjee
+
+
+
+
+2
+
+Digital transformation : Assist humans through automation…
+
+                          Infuse RPA, traditional
+        Digitize and                                Advent of Generative
+                             AI &ML to drive
+    standardize what is                             AI, scales the degree
+                              efficiencies and
+     manual and slow                                    of automation
+                               consistencies
+
+
+
+
+                                                     3
+
+Digital transformation : Paradigm shift from automation to influencing
+                         quality of outcomes
+                          Infuse RPA, traditional
+        Digitize and                                Advent of Generative
+                             AI &ML to drive
+    standardize what is                             AI, scales the degree
+                              efficiencies and
+     manual and slow                                    of automation
+                               consistencies
+
+
+
+
+                                                                            Engineered tech leveraging gen AI
+                                                                            to improve the quality and speed
+                                                                                     of decisioning
+
+
+
+                                                     4
+
+Bringing it all together: TCS POV | AI-first business architectureTM
+Approach to transforming knowledge work
+
+   Key to market differentiation   Employees                             Customers            Reimagine Ways of Working (WoW) and
+                                                                                                 “jobs to be done” to drive new value
+
+
+
+                                                              Intelligent orchestration of
+                                        AI-augmented
+                                                              purposive task agents;
+                                        work systems          human-in-the-loop                            Custom; AI
+                                                                                                           engineering and
+      Multitiered                                                                                          systems
+                                        Purposive and         Create and tune models;                      integration
+   architecture of                      contextual            set up guardrails; and
+    future AI-first                     task agents           observe, learn, and adapt
+
+       businesses
+                                        Foundational          Structured data stores,                      Third-party and
+                                        LLM, DWH, and         unstructured data, external data             partner-provided;
+                                        data lakes            stores, analytics, and insights
+                                                                                                           open-source
+
+                                                              Computing, network,
+                                        Core enterprise                                                    Existing enterprise
+                                                              data storage, digital products and
+                                        IT and OT             platforms, and systems of record             IT and OT
+
+
+                                                          5
+
+The new paradigm needs investments in three areas to unlock outcomes
+
+                                                             Foundational enterprise
+                                                             AI fabric
+                                                             New AI architecture that allows
+                                                             enterprises to harness AI across
+                                                             clouds, models, and providers
+                                                   Assist
+
+
+
+
+                                                                                Knowledge worker
+                  Value chain
+                                                                                augmentation
+              transformation
+                                       Transform            Augment             New fabric for knowledge worker
+     Transforming the knowledge                                                 transformation resulting in
+    value chain to deliver the right                                            transformed enterprise outcomes
+             enterprise outcomes
+
+
+
+                                                    6
+
+    Thank you
+
+
+
+
+7   Copyright © 2024 Tata Consultancy Services Limited
+
+    AI for Software engineering
+    Muthulakshmi Nellaiappan
+
+
+
+
+8
+
+Building software is not just writing       Our focus lies in building
+code that most AI tools claim today …
+
+                                                  Enterprise ready
+
+
+                                                  Fit-for-purpose
+
+
+                                                  Safe-to-use
+
+
+                                                  Easy to maintain software
+
+
+                                        9
+
+Building enterprise-ready software
+
+AI brings a world of opportunities; we have the responsibility to do it right
+
+
+           Technical complexity                                       Security and compliance
+           Integrations, framework                                    Ethical use guidelines, IP rights of
+           adherence, traceability, data                              code/ content, data privacy,
+           availability, COTS/legacy                                  architecture standards, legal,
+           dominance, technical debt risk                             regulatory compliance
+
+
+
+
+           Governance                                                  Operating model
+           Transparency, explainability,                               Training for prompt engineering,
+           accountability, monitoring,                                 process changes and conditioning
+           guardrails, avoidance of misuse                             for auto-generated code/content,
+           and over-reliance                                           refined roles and team structure
+
+
+
+
+                                                    10
+
+Our guiding principles
+
+
+           Keep the process and
+                artifacts in sync
+                       Requirements to
+                  design to code to test
+                                                Harness contextual
+                                                knowledge
+                                                Onboard | Consume
+
+         Leverage LLMs for what
+                they are good at
+         Comprehend | Correlate | Code
+                                                Value beyond
+                                                productivity savings
+                                                Speed of delivery |
+                                                Improved quality
+
+
+
+                                           11
+
+Knowledge driven software engineering
+
+
+
+                                                               The                                         Knowledge
+              Knowledge
+                                                            knowledge                                       powered
+              onboarding
+                                                               core                                         solutions
+
+
+
+   Infuses enterprise-awareness                Harnesses contextual knowledge                 Leverages AI and generative AI
+      Business processes, requirements/          Industry knowledge - domain, standards,       UX design to front-end code generation,
+     user stories technology architecture,     frameworks; TCS knowledge - learnings from     solution/technical design to backend code
+ standards, compliance performance, security    various engagements, best practices across   generation, functional test scenario test case
+    guidelines, operational data, procedure             technologies and industries                      creation and more…
+             manuals and more…
+
+
+
+
+                                                                 12
+
+New mobile app channel for a leading bank ‘ABC’
+
+
+
+                               Scope          New channels and features, branding revamp
+
+
+
+                               Technologies   Flutter(mobile), angular(web), java
+
+
+                                              Business requirements, user stories,
+                               Inputs
+                                              visual design, coding standards
+
+
+                               Timeline       Rollout in <18 months
+
+
+
+
+                                13
+
+Reinventing SDLC in the age of AI
+                                                                    Addressing the knowledge gap
+                   Knowledge-driven engineering
+                    Onboard | orchestrate | consume
+
+
+       AI/                                                          Closing skill gap
+       gen AI
+
+
+                            Compose/
+     Define      Design                   Validate    Deploy   Manage
+                            integrate
+
+
+
+
+          Enterprise architecture principles and standards
+
+
+                Business process, systems and data
+
+
+ SDLC re-defined by leveraging contextual knowledge and orchestrating AI models responsibly along with humans
+
+                                                      14
+
+Thank you
+
+
+
+
+Copyright © 2024 Tata Consultancy Services Limited
+
+     AI for Technology Modernization
+     Ashvini Saxena
+
+
+
+
+16
+
+Technology Modernization Challenges
+
+
+
+
+ Modernization is not     End up moving           Very time consuming        Most programs
+ a one-time activity    from one legacy to            and high risk        driven by Cost and
+                          another legacy                                Technology Risk; Fewer
+                                                                        target Value generation
+
+
+
+
+                                             17
+
+Our GenAI Driven Technology Modernization Strategy
+
+• Transform the existing applications to modern technologies faster & risk-free and future-proof by
+  staying modern continuously by combining the power of Automation with human Augmentation using
+  GenAI and a time-tested proven TCS’s application meta model
+
+          Old/Existing                           Meta Model/
+                                                                                       Modern Applications
+          Applications                        Knowledge Repository
+                                 GenAI                                    GenAI
+
+• AI Models pre-trained with TCS’s strong domain & technology knowledge, 40+ years of experience in
+  delivering large transformation programs and continuous learning of customer context
+
+• Bring more than 40-70% efficiency, 2x speed in delivering the modernization program with 100%
+  accuracy on the outcomes
+
+
+
+
+                                                      18
+
+GenAI driven Technology Modernization – Demo
+                       Technology Agents                                GenAI Assistant Agents                                      Process Agents
+                           Code Analyzers                              (Virtual SME, Developer Assistant)                             IPSafe/Guardrails
+                        (COBOL, Java, VB, ABAB)                                                                                             (OSS, security)
+                       Pseudocode Generator                                                                                          DevSecOps Insights
+                   (Business logic, rules, workflow)                                                                                        (Dashboards)
+
+
+
+
+  Old / Existing application                                                                                       DevSecOps                                  Target application
+
+                                            Split Monolithic code to          Meta Model /
+                                             smaller, manageable           Knowledge Repository                 Deploy & Maintain
+                                                    services
+List Employers   List Employee                                                                                                                         List Employers    List Employee
+
+
+
+
+        Calculate PF                                                           Generate functional          Generation Agents
+                                                                                 specifications                                                                  Calculate PF
+                                                                                                                 Spec Generator
+                                                                                                            (From doc, code, wireframe)
+
+                                                                              Generate target code               Code Generator
+                                                                                 components                 (Angular, Java, Python, .Net)
+
+
+
+
+                                                                                       19
+
+     Thank you
+
+
+
+
+20 Copyright © 2024 Tata Consultancy Services Limited
+
+     Future of Automotive
+     Regu Ayyaswamy and Rajendra Chougule
+
+
+
+
+21
+
+Era of Software Defined Vehicles (SDV)
+     Safety features and human-like interactions
+
+
+
+
+     One-time vehicle sale to feature on demand
+          Timeline with changing business model
+        Current – vehicle release
+                                              ~3 to 5
+                                              years
+        Future – feature (software release)
+                 ~2 months
+
+
+
+
+          Re-imagining the Complete Vehicle Architecture for enabling New ways of Customer value
+
+
+                                                        22
+
+TCS Solutions in SDV
+      AI-based Autonomous
+         Vehicle Platform                Domains
+                                     •    AI-based Autonomous Vehicle Platform (with 50+ Features Algorithm)
+                                          Cloud-based platform deployed on high-performance computing unit
+                                     •    Electrification Solutions
+                                          Design and develop integrated EV unit (3 in 1) for passenger vehicles
+                                     •    Automotive Cockpit Solutions
+
+
+                                     SDV Platform
+                                     •    Automotive Cloud Connect
+                                     •    Vehicle to Cloud Diagnostics Platform Framework
+                                     •    Vehicle Middleware Platform Components
+                                     •    Cybersecurity - Secure Software Update Framework
+   50+           25+                 •    Automotive Gen-AI
+   Features       Patents
+                   filed
+
+
+
+                            Leveraging TCS Solutions for Accelerating SDV Journey
+
+                                                       23
+
+Autonomous Driving
+
+The Challenges of Autonomous Vehicle Development
+
+As OEM’s are in the race to make the vehicles safer and automated
+
+       More Automation & safety                             More Scenarios               Massive Data & Efforts
+
+
+
+
+                                                                                         Data Need in Petabytes
+                                                    Animals        Hazards   Bicycles
+
+   Lane/        Cruise    Highway/       Self
+ Park Assist    Control   City Pilot    Driving
+
+
+                                                     Rain           Fog       Snow                                Level of Autonomy
+
+           New Features need new data                 Require more real examples to      - Resulting in growing data in fast
+                                                           meet safety targets          scale, making more time and efforts
+
+
+
+               Gen AI to play crucial role in accelerating the adaption of advanced safety & automation
+
+
+                                                              25
+
+ Gen-AI to enhance Autonomous Driving Experience for European & Japanese
+ OEMs
+                            Train & deploy state of the art foundation models on NVIDIA / QUALCOMM
+Sensor data                 for enhanced decision making
+
+Text/Language Based       Train & test LLM models using NVIDIA NeMo framework on GPUs for scene
+                          interpretation, test case generation etc.
+
+
+
+                       Detection of car in
+                      front of another car
+
+
+
+
+                  Creating perception algorithms for Next Generation Autonomous driving
+                     Precision(mAP) enhancement by 21% compared to conventional AI
+
+                                                       26
+
+Gen-AI to improve safety for commercial vehicles
+(NA Tier-1)
+                  Develop & deploy TCS proprietary GAN Gen-AI model
+                    to accelerate training & testing of safety features
+
+
+
+
+  Synthetic Data Generation with TCS patented (filed) algorithm leveraging Gen-AI GAN Model –
+                           up to 3 months faster time to production
+
+                                             27
+
+Electrification
+
+TCS Electrification Experience
+                                                                                                            Inside the car
+
+12+                       50+                          500K+                     Onboard Charger          DC-DC Converter           Motor Drive
+Customer Engagements       Countries EV Infra          EVs on road
+18+ Years of Engagement    NA, Latin America, EUR,
+                           ASIA, Africa, Australia
+
+
+                           Charging Infrastructure
+                  •   Electrical Power Quality Check
+                  •   Regulation & Standard compliance adherence
+                  •   Charger Compatibility check (CHAdeMO and Combo)
+                  •   Off-board Charging system
+                                                                                                                                 Battery Management
+                  •   Vehicle-to-Grid and Vehicle-to-Home                       Vehicle Control Unit   Power Distribution Unit
+                                                                                                                                        System
+
+                EV Charging Solution (3 in 1)                        Charging Protocol Tester (CPT)               Key EV Consortiums & Partners
+
+
+
+
+                                                                          29
+                                                                           29
+
+     Thank you
+
+
+
+
+30 Copyright © 2024 Tata Consultancy Services Limited
+
+     Future of Logistics and Physical Work
+     Rajesh Sinha and Nagendra Kumar
+
+
+
+
+31
+
+Future of logistics & physical work
+Aging societies and decline in workforce participation
+Imperative: Workplace & Work redefinition
+• Purpose-Driven, Rewarding, Respected Work Profile
+  − Assist, Amplify & Augment human performance with Technology
+
+
+Machines can easily do what people find difficult to do,
+and vice versa
+Imperative: Hybrid workforce (judicious blend of people & robots)
+• Single task, programmed, low-adaptation robots
+  (“specialists at work”)
+• Rise of “versatile” robots
+  − Supported by brain-body congruence, physics-based world
+     models, bio-inspired mechanisms & actuations, and
+     understanding social & work norms)
+
+
+2x growth in cargo volume by 2040
+Imperative: Rise of the “Physical Internet” to meet future
+logistics demand
+• Transport of sustainable, routable & reconfigurable π
+   containers over shared infrastructure
+   − Redefined robotics deployment to drive efficiency and
+       agility to support future scale of work.
+
+
+
+                                                                    32
+
+Future of logistics & physical work | RoboVerse
+
+           Vision
+Target technically automatable jobs in high-value
+segments with full or shared autonomy using
+differentiated hardware & software codesigns
+
+
+      GTM Strategy
+• Focus on solutions & value, rather than products alone
+• Sell to a different stakeholder
+  (COO and business unit head, not CIO)
+• Pricing based on perceived value
+
+
+      TCS advantage
+•   Customer access
+•   Contextual knowledge about customers’ operations
+•   Years of investments in robotics
+•   Ease of doing field testing leveraging Pace Ports
+
+
+
+                                                           33
+
+RoboVerse Now …
+
+
+
+
+      Vision
+AI enabled intralogistics operations         Wall to wall work orchestration &        Domain-dependent, independent &        Online 3D bin packing based
+within DCs, warehouses,                      optimization system for                  language-guided piece picking and      outbound and inbound gate
+sorting centers                              heterogenous robots                      singulations for fulfilment centers    operations for loose loads
+
+ Differentiation
+Geometric navigation in changing env,        Heterogeneity of robots, algorithmic     1000s of SKUs, deformable/shiny        Variability in Loads, Higher fill rates,
+multi-task capabilities, disturbances in     sophistication for scheduling and        surface, accuracy of 99%, pick rates   throughput matching 2 human
+object poses                                 coordination in real world               near human speed                       loaders
+
+     Solution
+                                                                                      Assembled from off the shelf           TCS owned end of arm tools and
+Hardware Software Codesign - 1st to Market   Software Only                            Components & TCS Software              software controller with off-the-shelf
+                                                                                      Controller                             hardware
+
+
+
+                                                                                 34
+
+RoboVerse Next | The future
+
+               Integrate, coordinate and optimize staff, robots, conventional
+               automation, tele-operated machines, IoT infrastructure                       Shared-autonomy dual-arm
+                                                                                                 retail restocker
+               Adaptive work fragmentation, allocation and
+Autometa       coordination support wide variety of capabilities of legged,
+Orchestrator   wheeled, static/mobile manipulators for single/many tasks to
+               single/many executors
+
+               Adapts to domain contexts wall-2-wall facilities support for
+               sorting centers, fulfilment centers, last-mile, classic warehouse,
+               manufacturing execution
+                                                                                              All-terrain, quadruped
+                                                                                                with manipulators
+
+               Bioinspired software brain for control & orchestration within the robot.
+Robo-brain     Rapid acquisition of new skills and task learning from variety of sources.
+               Workplace norms/social nuances learnt through expert human strations.
+
+
+
+
+                                                          35
+
+     Thank you
+
+
+
+
+36 Copyright © 2024 Tata Consultancy Services Limited
+
+     Co-creating futures with our customers
+     Ajay Nandgaonkar
+
+
+
+
+37
+
+Co-creating futures with our customers : #Many-Examples
+     Power Plants : IP2   Transforming Steel      Digital Skin
+
+
+
+
+     Novel Materials      Unconventional Assets   Big Science: Sun in a box
+
+
+
+
+                                       38
+
+Co-creating futures with our customers
+
+
+
+
+    • Business Priority                                 • Scale
+    • Domain Expertise
+                          Customer          TCS         • TCS IP
+                                                        • Alliances
+
+
+
+
+                             Synergy that drives
+                          #Industry First innovations
+                                     39
+
+#Industry-First #Examples
+
+                                          AI Led Design: Generative Design
+                      3
+                                    Knowledge Engineering with Gen AI
+                  2
+                                 Digital Twins for real time systems
+              1
+
+
+
+
+                            40
+
+Molecular thread - google map of flowing molecules
+                                                                                                                                                          1
+                                                                                                                                      Energy own
+                                                                                                                                      consumption
+                                                                                          Steam Reformer
+                                                                                                                                      Gas
+                                                                          Gas
+           REFINERY                                                                      H2 Pool
+                                                                       Separation                                                     LPG
+                                                                                                                                      LPG
+                                                                                                   Polymerization
+                                                                                                                                      Naphtha
+
+                                                                                                                                      Aromatics
+
+
+                                                                                                                                      Gasoline I
+                                                                                                                                      Gasoline I
+
+                                              Hydro                     Catalytic                                Gasoline             Gasoline II
+
+
+
+                      Crude
+                                            treatment                  Reforming                                 Blender
+                                      ADU
+                        CRUDE                                                                                                         Kerosene
+
+                                                                                                                                      Diesel Fuel Oil
+                                                                                                   Hydro-finer
+
+                                                                                                                 Middle               Light Heating Oil
+                                                                                                                 Distillate Blender
+                                VDU
+                                                                                                                                      Sulphur
+                                                        Hydrocracker
+                                              Hydro                                                         Heavy Fuel Oil
+                                            treatment                                                                                 Heavy Fuel Oil
+                                                                                                              Blender
+
+                                                        Catalytic                                                                     Bunker Oil
+                                                        Cracking                                            Pet-Coke
+                                                                                                           Production                 Petrol Coke
+
+
+                                                   Thermal Cracking                                                                   Lubes
+                                                                                                    Lube Processing
+
+                                                                                                                                      Waxes
+                                                                    Coking                           Asphalt Blowing
+                                                                                                                                      Asphalt
+
+
+
+
+                                                                                    41
+
+#Industry-First #Pilot
+                                                                                  1
+
+
+         Pilot                Pilot                   Pilot           Pilot
+
+
+      48x                  40x                     36x             Zero
+     Frequent Mass        Lesser manual               Faster       Mass Balance
+        Balance            corrections             computation        Error
+
+
+
+    Hourly instead       < 10 corrections         < 10 minutes     Algorithm
+      of 2 days           instead of 400         against 6 hours   validation
+
+
+
+
+                                            42
+
+     2
+
+
+
+
+43
+
+#ORA – The Operations Risk Advisor
+                                                                                                        2
+         Create Fault-tree graphs for the
+         equipment (e.g. FCC)
+         via Reports, OEM Documents and
+         incident management tools.
+                                                                               The #ORA App
+                                                                               Monitor
+                                                                               Process and Alarms
+                                                    Create Ontology
+                                                    Stored as knowledge        Diagnose
+                                                    elements in a structured   Process Deviations and
+                                                    format.                    Alarms.
+                                                    Enriched by Dynamic        Predict
+                                                    Simulators and captured
+                                                                               Upcoming Alarms and
+                                                    Operator actions.
+                                                                               failures (with a P)
+         Create Alarm Graphs Machine                                           Prescribe
+         Learn Alarms, their sequences from
+                                                                               Potential Actions
+         Historical Plant Data from Systems such
+         as DCS Events, Historians, SAP. (LSTM)
+                                                                               To avoid failures, manage
+                                                                               alarms.
+
+
+
+                                                   44
+
+     3
+
+
+
+
+45
+
+#Generative #Design
+                                                                                                                             3
+
+
+
+
+      3%            Shorter well
+                    paths
+                                                   13x              Safer in terms
+                                                                    of collision
+                                                                    avoidance
+
+
+  Designing well trajectories with the Generative Design approach : AI for Design
+  Multi-well Scenario ● Automated identification of neighboring wells as “At Risk” ● Automated well trajectory change to eliminate
+  “Collision Risk” ● Optimized well length using measured depth (MD) and collision avoidance ● Supporting special cases including
+  “Sidetrack” ● Directly into production from “Explore”
+
+
+                                                              46
+
+#Industry-First #Innovations
+
+       Twins           1         Knowledge           2         Design            3
+
+
+
+
+          AI based                 AI Augmented                    AI Led
+     Plant-wide mass balance       Operations Risk Advisor    Well Trajectory Design
+    Improves refining margins      1% enhanced availability   3% Shorter ; 13X Safer
+
+
+                                New Ways of Working!
+
+                                           47
+
+     Thank you
+
+
+
+
+48 Copyright © 2024 Tata Consultancy Services Limited
+
+Summary
+Dr. Harrick Vin
+
+Accelerating growth | Bi-modal strategy
+
+
+Mode 1: Improve current value
+• Leverage AI to improve productivity
+• Co-create and participate in customers’ AI journey
+
+
+Mode 2: Redefine value to consistency & future-proofing
+• Elite by-design of knowledge work output, delivered fast!
+   • Reduce reliance on tacit knowledge
+       (wisdom & expertise at fingertips)
+• Make enterprises dynamic (perpetually-adaptive)
+  • Invent & adopt next-practices continually
+       (enhance value, by design)
+
+
+
+
+                                                       50
+
+Mode 2 drill-down | New “future-proof IT” offerings
+
+
+                                         Future of digital products engineering &
+                                         maintenance
+                                         • Near-zero change latency & surprises
+                                         • Near-zero manual ops by design
+
+
+                                         Future of technology modernization
+                                         • Near-zero legacy drag by design
+
+
+                                         Future of technology operations
+                                         • Resilient & proactive operations (predict &
+                                           respond, rather than detect & react)
+
+
+
+
+                                    51
+
+Mode 2 drill-down | New “future-proof business” offerings
+
+Future of enterprise functions
+• Talent engagement: personalized @ scale
+• Marketing: elite-by-design campaigns
+• Sales: augmentations to turn good to great
+• Customer success: delight by-design
+• …
+
+
+Future of industry functions
+• Warehouse management: human-robot collaboration
+• Manufacturing operations: real-time digital twins
+• Energy management: decentralized “energy internet”
+• Chemical products engineering: AI-driven design
+• Illness & wellness management: AI-powered screening,
+  diagnosis & treatment
+• …
+
+
+                                                    52
+
+    Thank you
+
+
+
+
+53 Copyright © 2024 Tata Consultancy Services Limited
+
