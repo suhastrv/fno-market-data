@@ -1,0 +1,1165 @@
+Date: 11th November 2026
+
+BSE Scrip Code: 533293                                                                         NSE Scrip Code: KIRLOSENG
+
+To                                                                                             To
+Corporate Relationship Department                                                              Listing Department
+BSE Limited                                                                                    National Stock Exchange of India Ltd.
+1st Floor, Rotunda Building,                                                                   Exchange Plaza, C -1, Block G,
+Dalal Street, Fort,                                                                            Bandra-Kurla Complex, Bandra (E),
+Mumbai – 400 001                                                                               Mumbai – 400 051
+
+
+Dear Sir/Madam,
+
+This is to inform you that:
+
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 including amendments thereunder and in continuation of earlier
+communication vide letters dated 31st October 2026, 4th November 2026 and
+5th November 2026, we hereby inform that the Transcript of the Conference Call for
+Investors and Analysts held on 5th November 2026, at 1.30 p.m. (IST) to discuss the
+Un-Audited Financial Results of the Company for the quarter and half year ended
+30th September 2026, has been uploaded on the website of the Company,
+viz. www.kirloskaroilengines.com.
+
+The same is also enclosed herewith.
+
+You are requested to take the same on your record.
+
+Thanking you,
+
+Yours faithfully,
+For Kirloskar Oil Engines Limited
+Digitally signed by Amruta Sandeep Shinde
+DN: c=IN, o=Personal, postalCode=411044, l=Pune, st=Maharashtra, street=Plot No 2/7,
+Shastrinagar, Sector 27/A, Pradhikaran Nigdi, Pune City, Pune City Maharashtra India 411044,
+title=6927,
+2.5.4.20=aa8e7f19936621fd22875cc2c0ec49e66c3e7a05e9abbcb47d572fb8853607e3,
+serialNumber=8807c5bfd6331e24fa002478a9e22eac4387a3c90a10e2ae5a7e0198166c0a45,
+email=amruta.thigale@kirloskar.com, cn=Amruta Sandeep Shinde
+Date: 2026.11.11 17:53:41 +05'30'
+
+
+
+Amruta Thigale
+Company Secretary and Compliance Officer
+
+Encl.: As above.
+
+             “Kirloskar Oil Engines Limited
+          Q2 FY27 Earnings Conference Call”
+                   November 05, 2026
+
+
+
+
+MANAGEMENT: MS. GAURI KIRLOSKAR – VICE CHAIRPERSON AND
+            MANAGING DIRECTOR – KIRLOSKAR OIL ENGINES
+            LIMITED
+            MR. RAHUL SAHAI – CHIEF EXECUTIVE OFFICER –
+            KIRLOSKAR OIL ENGINES LIMITED
+            MR. SACHIN KEJRIWAL – CHIEF FINANCIAL OFFICER -
+            KIRLOSKAR OIL ENGINES LIMITED
+            MRS. KIRAN KHAPRE – CHIEF HUMAN RESOURCES
+            OFFICER – KIRLOSKAR OIL ENGINES LIMITED
+            MS. AMRUTA THIGALE – COMPANY SECRETARY –
+            KIRLOSKAR OIL ENGINES LIMITED
+            MR. SAMRAT GUPTA – MANAGING DIRECTOR – ARKA
+            FINCAP LIMITED
+
+
+MODERATOR:    MR. SANJEEV ZARBADE – ANTIQUE STOCK BROKING
+
+
+
+
+                         Page 1 of 18
+
+                                                                                  Kirloskar Oil Engines Limited
+                                                                                            November 05, 2026
+
+Moderator:         Ladies and gentlemen, good day and welcome to the Kirloskar Oil Engines Limited Q2 FY27
+                   Earnings Conference Call hosted by Antique Stock Broking. As a reminder, all participant lines
+                   will be in the listen-only mode, and there will be an opportunity for you to ask questions after
+                   the presentation concludes. Should you need assistance during this conference call, please signal
+                   an operator by pressing star, then zero on your touch-tone phone. Please note that this conference
+                   is being recorded.
+
+
+                   I now hand the conference over to Mr. Sanjeev from Antique Stock Broking. Thank you, and
+                   over to you, sir.
+
+
+Sanjeev Zarbade:   Thank you, operator. Good afternoon. On behalf of Antique Stock Broking, I welcome you all
+                   to 2Q FY27 earnings conference call of Kirloskar Oil Engines. I am pleased to have with us
+                   today Ms. Gauri Kirloskar, Vice Chairperson and Managing Director, Mr. Rahul Sahai, Chief
+                   Executive Officer, and Mr. Sachin Kejriwal, Chief Financial Officer.
+
+
+                   May I now invite Ms. Gauri Kirloskar to discuss the results, post which we can take the Q&A.
+                   Over to you, ma'am. Thank you.
+
+
+Gauri Kirloskar:   Thank you very much. Good afternoon, ladies and gentlemen. A warm welcome to all of you,
+                   and thank you for joining us today to discuss Kirloskar Oil Engines Limited financial and
+                   operational performance for the second quarter and first half of fiscal year 2027. Joining me
+                   today are Rahul, CEO, Sachin, CFO, Kiran, CHRO, Amruta, Company Secretary, and from
+                   Arka, we have Samrat, the Managing Director.
+
+
+                   I am delighted to share that Q2 FY27 has been a milestone quarter for KOEL. Driven by solid
+                   execution across all our core divisions, robust domestic demand, and our expanding international
+                   footprint, we have achieved our best top-line performance across both standalone and
+                   consolidated operations.
+
+
+                   Our consolidated quarterly revenue crossed the INR2,000 crores threshold, reaching INR2,257
+                   crores, our best quarter ever, representing a growth of 17% year-on-year and 14% quarter-on-
+                   quarter.
+
+
+                   On a standalone basis, revenue scaled to an all-time high of INR1,722 crores, registering an
+                   increase of 19% year-on-year and 18% sequentially. This performance was anchored by strong
+                   execution across our primary growth engines, power generation, our distribution and aftermarket
+                   business unit, and our international business.
+
+
+                   While our top-line momentum has been strong, the operating environment during the quarter
+                   was marked by intense macroeconomic volatility. Sharp rise in prices of crude oil and
+                   commodities like copper, aluminium, and pig iron worked as primary headwinds.
+
+
+                   Despite these, our standalone EBITDA came in at INR191 crores, translating to an EBITDA
+                   margin of 11%. While margins compressed year-on-year due to the input price inflation, we held
+                   margins broadly stable quarter-on-quarter, softening by just 30 basis points through disciplined
+                   operational execution. To systematically counter these cost pressures, we have deployed a three-
+                   tiered framework.
+
+
+                                              Page 2 of 18
+
+                                                                Kirloskar Oil Engines Limited
+                                                                          November 05, 2026
+
+First, on pricing, we implemented targeted price increases across business units. Second, our
+engineering team continues to work on driving improved power density and delivering high-
+value products to our customers. Third, we are averaging higher volumes for better fixed cost
+absorption while driving strict corporate discipline across discretionary expenditure.
+
+
+Turning to our business unit performance, our power generation business had an exceptional
+quarter, posting revenues of INR792 crores, a 17% year-on-year increase. We also strengthened
+our leadership position in the domestic genset market with clear market share gains across the
+portfolio.
+
+
+We are particularly encouraged by our progress in the High Horse Power applications, a strategic
+focus for us, where reliability, controls, and service capability are critical to customer choice. A
+clear indication of this is that our market share in the 1010 kVA node is now upwards of 30%.
+
+
+Another bright spot for us is the traction we are seeing with our Optiprime range, which is now
+seeing strong demand across key segments like data centers, real estate, hospitality, and
+manufacturing. This reflects the progress we have made over the past few years in strengthening
+our offerings and serving customers with more demanding power requirements.
+
+
+Our industrial business delivered a steady performance this quarter, recording revenues of
+INR381 crores, which reflects a 2% increase year- on- year. To proactively counter commodity
+cost headwinds, we are partnering with our key OEM partners to implement targeted price
+increases.
+
+
+This quarter, we also formalized a flexible service agreement with DEUTZ to expand the global
+distribution of our 1.6 L global standard engine platform, with an initial focus on the Americas.
+This is a testament to our engineering design, development, and manufacturing capabilities for
+advanced emission countries.
+
+
+Also this quarter, our newly formed subsidiary, Kirloskar Advanced Systems, completed its
+maiden commercial billing, marking our entry into specialized high-precision defense and
+aerospace systems. Our distribution and aftermarket business unit, or DABU, maintained strong
+momentum, growing 29% year-on-year to INR293 crores.
+
+
+We are making tangible progress in diversifying beyond traditional engine spares through our
+whole goods segment, including Nulife, which is our repowering and reconditioning business.
+Our fluid dynamics business had a strong quarter. Operating revenue grew about 28% year- on-
+year to INR331 crores.
+
+
+The growth was broad-based, with domestic sales growing about 24% and exports about 32%,
+with growth across diesel pump sets, industrial pumps, and electric products. Channel expansion
+has been our biggest driver. We appointed several new dealers and master distributors through
+the year, along with widening the product basket with new SKUs and allied products.
+
+
+This is translating into share gains where we focused, with KOEL Fluid Dynamics now
+achieving market leadership in the engine-driven industrial pump segment. International was
+
+
+
+                         Page 3 of 18
+
+                                                               Kirloskar Oil Engines Limited
+                                                                         November 05, 2026
+
+one of the strongest parts of the quarter. Historically, the international business was primarily
+firefighting OEMs in Middle East and mining operations in South Africa.
+
+
+Two years ago, we had implemented changes to our international business structure by focusing
+on strengthening our channels and building partnerships with GOEMs. This quarter reinforced
+that we are on the right track, with PowerGen now becoming a key driver for growth, now
+contributing over 45% of the international business.
+
+
+As for our operating view, the international business surged 59% year- on- year to INR413 crores
+on gross consolidated basis, now contributing approximately 20% of our total sales mix this
+quarter. This growth has been broad-based across regions and businesses, rather than driven by
+one shipment.
+
+
+In Africa, we saw strong execution in high-horsepower power generation for mining and
+infrastructure, and we added new distributor relationships in markets such as Angola and the
+Democratic Republic of Congo. In the Middle East, rental and contractor demand in the UAE
+drove record secondary sales through our channel.
+
+
+East Asia has become a meaningful new contributor. On Optiprime, we secured an order in
+Zambia and dispatched our first systems to China, early steps in our international data center
+and mission-critical journey. Beyond power generation, our industrial exports picked up with
+new OEM customers in North Africa, Turkey, Saudi Arabia, and East Asia.
+
+
+Our pumps business also grew exports by about 32%. Order intake has been significantly
+stronger than a year ago, and we delivered this growth despite container shortages and shipping
+delays. So underlying demand was stronger than reported revenue.
+
+
+International business is naturally uneven quarter to quarter, so we would ask you to judge it by
+repeat orders, customer diversity, and collections rather than one quarter's growth rate. In
+financial services, Arka Fincap closed the half year with assets under management of INR7,781
+crores and delivered a profit after tax of INR11.5 crores while maintaining healthy asset quality,
+with net NPAs improving to 0.5% at the end of Q2 FY27.
+
+
+With Arka's branch network expanded to 146 branches and over 2,000 employees, Arka
+continues to focus on scaling its retail business, returns from which are expected to begin flowing
+in from the next fiscal. Looking ahead, while commodity cost pressures will require continued
+vigilance, our balance sheet remains resilient. We maintain a healthy net cash position of
+INR309 crores, supported by AA+ long-term and A1+ short-term credit ratings.
+
+
+With the implementation of our pricing adjustments, our active value engineering pipeline, and
+expanding market opportunities in data centers, international markets, and new technology
+partnerships, we are confident in our ability to sustain both top-line growth and margin recovery
+in the quarters ahead.
+
+
+I would like to extend my sincere gratitude to the entire Kirloskar team for their execution, to
+our channel partners and vendors for their collaboration, and to our shareholders for their
+enduring trust. Thank you very much.
+
+
+                         Page 4 of 18
+
+                                                                                 Kirloskar Oil Engines Limited
+                                                                                           November 05, 2026
+
+                   I will now hand over the call to Sachin for his remarks on financial performance.
+
+
+Sachin Kejriwal:   Good afternoon, everyone, and thanks, Gauri, for the update. I will give a quick overview of the
+                   financial performance for our standalone and consolidated business. The results and the detailed
+                   presentations for today's call have already been uploaded on the exchanges and our website.
+
+
+                   Q2 FY27 has been a period of remarkable top-line growth for us, establishing historic milestones
+                   for quarterly sales. The strong performance was highly broad-based. Standing out in our
+                   performance is that Kirloskar achieved its highest-ever standalone quarterly sales of INR1,722
+                   crores, registering an impressive 19% growth year-on-year.
+
+
+                   For the first half of the year, standalone net sales reached INR3,184 crores, which is healthy
+                   17% growth year-on-year. Coming to our financial performance overview, I will start with
+                   standalone performance first, comparing our results for the quarter and half year.
+
+
+                   For Q2 FY27, net sales at INR1,722 crores versus INR1,449 crores in Q2 FY26, registering a
+                   19% increase year-on-year. EBITDA at INR191 crores versus INR204 crores in Q2 FY26,
+                   representing a 6% decrease year-on-year, as we absorbed temporary input cost pressures.
+                   EBITDA margin at 11% versus 14% in Q2 FY26, reflecting the impacts of the raw material cost
+                   inflation Gauri mentioned.
+
+
+                   Net profit from continuing operations at INR115 crores versus INR134 crores in Q2 FY26,
+                   showing a 14% decrease year-on-year. Now coming to H1 FY27 standalone performance. Net
+                   sales at INR3,184 crores versus INR2,711 crores in H1 FY26, reflecting a robust 17% increase
+                   year-on-year. EBITDA at INR357 crores versus INR376 crores in H1 FY26, registering a 5%
+                   decrease year-on-year. EBITDA margin was 11.1% compared to 13.8% in H1 FY26.
+
+
+                   Net profit from continuing operation at INR214 crores versus INR243 crores in H1 FY26, a 12%
+                   decrease year-on-year. Our net cash position net of debt and including treasury investments
+                   remains solid and strong at INR309 crores. Our working capital position remains disciplined and
+                   healthy.
+
+
+                   Our cash conversion cycle remains stable at 31 days, showing efficient working capital
+                   management despite scaling higher volumes. Net inventory days improved by one day to 63
+                   days as compared to the prior quarter. Net receivables days stood at 43 days, with our total
+                   portfolio health remaining strong.
+
+
+                   Coming to the breakdown of our standalone sales for the quarter, the strong sales momentum
+                   was driven by solid double-digit expansion across three of our four core business units.
+                   PowerGen led the performance at INR792 crores, representing a stellar 17% increase year-on-
+                   year.
+
+
+                   Industrial business was at INR381 crores, recording a steady 2% increase year-on-year.
+                   Distribution and aftermarket was at INR293 crores, showing an impressive 29% increase year-
+                   on-year. International business surged to INR257 crores, registering an outstanding 50%
+                   increase year-on-year.
+
+
+
+                                            Page 5 of 18
+
+                                                                                   Kirloskar Oil Engines Limited
+                                                                                             November 05, 2026
+
+                   Now turning to our consolidated performance for the quarter. Revenue from operation at
+                   INR2,284 crores versus INR1,951 crores in Q2 FY26, representing a strong 17% increase year-
+                   on-year. Net profit at INR130 crores versus INR159 crores in Q2 FY26, a decrease of 18% year-
+                   on-year.
+
+
+                   Please note that these numbers are reported for continuing operations only. Looking at the
+                   consolidated segment performance for the quarter, the B2B segment revenue grew 20% year-
+                   on-year to INR1,745 crores, with segment results PBIT coming in at INR148 crores.
+
+
+                   The B2C segment revenue expanded by 28% year-on-year to INR330 crores, while segment
+                   results PBIT grew 26% year-on-year to reach INR23 crores. The financial service segment Arka
+                   recorded a revenue of INR209 crores, with its segment results PBT standing at INR6.1 crores.
+
+
+                   To conclude, I would like to extend my sincere congratulations to the entire KOEL team for
+                   their contribution to this landmark top-line performance. The scale we have achieved this quarter
+                   reflects the operational agility, resilience, and execution capability across the group.
+
+
+                   We are preparing ourselves to tackle the ongoing macroeconomic volatility with strict discipline,
+                   focusing on profitability enhancement and efficient resource allocation. Stay confident that we
+                   remain fully committed to taking steady, measured steps to deliver sustainable value to all our
+                   stakeholders.
+
+
+                   With this, I would like to open the floor for the Q&A session.
+
+
+Moderator:         Thank you. We will now begin with the question-and-answer session. The first question comes
+                   from the line of Jason Soans with IDBI Capital. Please go ahead.
+
+
+Jason Soans:       Yes, thank you for taking my question. First question just pertains to the PowerGen growth for
+                   first half is around 18%-17%, 17%, 18% for first half. Would it be possible to just break it down
+                   into volume and pricing growth?
+
+
+Sachin Kejriwal:   Jason, we don't provide the pricing and the volume growth for the PowerGen business. Higher
+                   17% growth we have witnessed in Q2.
+
+
+Jason Soans:       Okay. Next question just pertains to, I mean, the industrial segment basically clocked in 2%
+                   revenue growth Y-o-Y. Any reason for this weakness in this quarter?
+
+
+Rahul Sahai:       Hi, Jason. It is more of an execution. We had some challenge on the execution side, but this
+                   doesn't reflect the demand in any way, neither does this reflect our trajectory on the industrial
+                   side.
+
+
+Jason Soans:       Okay. I just wanted to know also, I mean, we've clearly seen, I mean, now we have a little high
+                   base here with the FY26 exhibiting really strong growth. There is a considerable high base, and
+                   we are seeing some deceleration happening. I understand macro headwinds are there in terms of
+                   input prices and stuff.
+
+
+
+
+                                             Page 6 of 18
+
+                                                                                   Kirloskar Oil Engines Limited
+                                                                                             November 05, 2026
+
+                   I just wanted to know from this levels now, how do you see H2 shaping up? Is it better or is it
+                   going to kind of be the same kind of trajectory? Just some color on that. How is the demand
+                   shaping up? I just wanted some color on that?
+
+
+Rahul Sahai:       Yes. Look, the work that we're doing as far as building out the exports business, now when we
+                   say exports, it's a generalization across different markets globally. But all of that work is at a
+                   very fundamental level. The demand continues to be strong, and we continue to move towards
+                   our stated 2 billion ambition.
+
+
+Jason Soans:       Okay. Sure. Lastly, just wanted to know on the HHP side, how are things shaping up,
+                   certifications, any prospects for basically entering the high-value data segment, basically
+                   growing the HHP portfolio? Just wanted to know how is that shaping up. Would it be possible
+                   to give certain numbers? How much is HHP a part of the PowerGen segment? Just some color
+                   on it?
+
+
+Gauri Kirloskar:   Yes. On certifications, I'm assuming you mean the regular CPCB IV+ certifications, which
+                   anyway are done because it's only up to 800 kilowatt. When we talk about HHP, it doesn't really
+                   factor in. In terms of the progress that we're seeing, as I mentioned in my opening comments,
+                   and as we've talked about in the past as well, what we've generally seen when we introduce
+                   nodes or new nodes is that we can get to, I'd say, 10%-15% market share just by being present
+                   in the market.
+
+
+                   Sequentially, as we've introduced products, we have seen our market shares grow. We've talked
+                   about 750 in the past. Today, I mentioned 1010 kVA node where we are now at market shares
+                   of upwards of 30%. So that's the progress that we've made, and that's the focus that we'll continue
+                   to have on the HHP segment.
+
+
+Jason Soans:       Sure. Just one thing, actually, I did touch upon the contribution from a high horse power. Any
+                   comments on that? How can you see H2 shaping up?
+
+
+Rahul Sahai:       We cannot share those details.
+
+
+Gauri Kirloskar:   Yes. I mean, we are moving towards our $2 billion goal, which by FY30. Sequentially, and you
+                   know how we operate, I would say quarter-on-quarter, with Q4 normally being the strongest
+                   quarter. I mean, that is about what I can say in terms of the rest of the year.
+
+
+                   We will be focused on execution and focused on the demand, the robust demand we are
+                   continuing to see from the markets and the segments that we are in. I think the main programs
+                   and the parts that we have to focus on are on the profitability side and making sure that we can
+                   maintain and improve our margins.
+
+
+Jason Soans:       Sure. Thank you so much for answering my questions. Thank you.
+
+
+Moderator:         The next question comes from the line of Lavina Quadros with Jefferies Group. Please go ahead.
+
+
+Lavina Quadros:    Yes. Hi. Thanks. Just a couple of questions. Any industry price hikes that have been taken in the
+                   domestic genset markets from September to offset the commodity price impact? More generally,
+
+
+                                            Page 7 of 18
+
+                                                                                     Kirloskar Oil Engines Limited
+                                                                                               November 05, 2026
+
+                   you do not have to quantify exact. Secondly, on the export side of DEUTZ, any incremental
+                   information you can share on maybe how big it could become, especially in context of your 2030
+                   target? Lastly, just on the data center order, any color on progress there? Thank you.
+
+
+Gauri Kirloskar:   Okay. Let me start with DEUTZ. Like I mentioned, it is very significant for us because it is a
+                   global engine company that has chosen us as a supplier for advanced emission countries. In
+                   terms of our goals and in terms of what we have been trying to do, in terms of our in-house
+                   engineering, it really is a testament to that strength that we have been able to develop a globally
+                   competitive engine platform.
+
+
+                   There is not much I can say in terms of annual revenues from that account because that ultimately
+                   depends on the end customer, and I would not want to give a number that is wrong in that sense.
+                   It is going to be hard for me to provide guidance there. In terms of the pricing, I will just ask
+                   Sachin to just chip in here.
+
+
+Sachin Kejriwal:   Thanks, Gauri. Pricing differs by business and customer type. A single company-wide
+                   percentage would be misleading in general business. Pricing can flow through relatively quickly
+                   with large OEM customers. There is a negotiation and implementation cycle, and the existing
+                   order book can contain prices agreed before the latest commodity movement.
+
+
+Gauri Kirloskar:   On your last question, on the data center order that we have announced, as often happens in
+                   physical infrastructure projects, there has been a delay at the customer's end. We are continuing
+                   to work very closely with them on the revised schedule, and we are fully engaged on the
+                   technical and commercial aspects of the project. We will share an updated timeline once the
+                   customer confirms it.
+
+
+Lavina Quadros:    Great. Thank you.
+
+
+Moderator:         The next question comes from the line of Ankur Periwal with Axis Capital. Please go ahead.
+
+
+Ankur Periwal:     Yes. Hi. Thanks for the opportunity, and congratulations for a strong revenue growth there. First
+                   question on the international side. Even if I leave for Q2 and look at H1, plus 25%, almost 25%
+                   sort of a revenue growth there. If you can sort of highlight some thoughts, how should one look
+                   at the export part of the business over the next, let's say, two to three years, given the distribution
+                   tie-ups, the expansion in the network, as well as the new JV that we have signed up?
+
+
+Gauri Kirloskar:   Yes. Just for some background, if we go back a couple of years, the big effort that we had to
+                   make was we were primarily a domestic business catering to the domestic market. Because of
+                   CPCB IV+, we now had our main PowerGen portfolio essentially ready to be exported to the
+                   advanced emission countries as well.
+
+
+                   Because of that, we had stated this ambition to grow exports to 30% of our revenues by fiscal
+                   year 2030. In fact, that was our ambition even in our 2X3Y goal. A lot of the work that we had
+                   to do was internal. It was internal. It had to do with the kind of teams and structures that we have
+                   in our own organization abroad.
+
+
+
+
+                                             Page 8 of 18
+
+                                                                                 Kirloskar Oil Engines Limited
+                                                                                           November 05, 2026
+
+                 It had to do with what kind of business models we were looking at, which countries we were
+                 focusing on, and which business model is therefore the appropriate one for that country's
+                 competitive dynamics and market situation. A lot of the traction that we're seeing now is a result
+                 of that work that we have done on our internal organization, talent, partnerships, whether it's
+                 gensets OEMs or whether it's strategic partnerships like the one with DEUTZ.
+
+
+                 In terms of what we're seeing, I think we're just seeing some of the results of that coming along,
+                 and of course, on a smaller base that we had before. I think the most significant thing for me this
+                 quarter, which I think we mentioned in the opening notes, was that PowerGen is now really
+                 driving a lot of the international revenue rather than the industrial business.
+
+
+                 Most of our business used to be engines to firefighting OEMs in the Middle East and mining
+                 engines for South Africa. That's really pivoting to power generation, which is our main strength.
+                 In terms of the next two to three years, and what we aspire to do, it remains the same, which is
+                 to have international be 30% of our business.
+
+
+Ankur Periwal:   Sure, Gauri. That's very helpful. Second question on your comment on the RM pressure and the
+                 strategies that we are trying to sort of build up there to mitigate that. At the same time, we did
+                 mention that we'll be focusing on higher volume, so operating leverage friction as well.
+
+
+                 Just trying to understand the balance between the RM inflation or the cost inflation pass-through,
+                 as well as our focus to gain higher volumes. I'm sure there'll be separate strategy for HHP, LHP,
+                 etcetera, but if you can throw some light in terms of the overall growth as well as maintaining
+                 the balance from a margin perspective. Thank you.
+
+
+Rahul Sahai:     Yes. Look, the RM inflation is an industry-wide problem, and we're all working to best manage
+                 it. As we do that, we are taking very calculated calls by product. There is not a single broad-
+                 brush answer that I can give you, but our full intent is to ensure that we support our customers
+                 in the best way we can, and obviously protect our margins at the same time. We are endeavoring
+                 to pass on the inflation to the extent possible. But it's not just a mathematical calculation that
+                 we're doing.
+
+
+                 There are a lot of programs that we have going on continuously, where we're looking at a
+                 combination of product management, which is product upgrades and the product tailoring that
+                 we're doing for different customers, trying to create value as well through unique product
+                 offerings like our Optiprime Hybrid Systems. There's a lot of work, but what I can say is we are
+                 fully committed to protecting our margins, and we are looking to sequentially improve that.
+
+
+Ankur Periwal:   Thanks, Rahul. Just one follow-up, if I may. The price hikes across the categories, regions that
+                 we would have taken right now versus the inflation, what is there at the current pricing, are we
+                 largely done in terms of breaking even or passing on all the RM inflation, or there is still some
+                 shortfall there?
+
+
+Rahul Sahai:     We're seeing inflation, and given the global geopolitical situation, we're seeing inflation to be a
+                 recurring phenomenon, and we will continue to endeavor to pass that on. I don't believe that we
+                 are done.
+
+
+
+                                          Page 9 of 18
+
+                                                                                    Kirloskar Oil Engines Limited
+                                                                                              November 05, 2026
+
+Ankur Periwal:     Okay, great. Thanks for all the answers and all the best. Wishing you all a very Happy Diwali.
+                   Thanks.
+
+
+Moderator:         The next question comes from the line of Teena Virmani with Motilal Oswal Financial Services.
+                   Please go ahead.
+
+
+Teena Virmani:     Yes, hi. Thanks for taking my question. A few of my questions have already been answered, but
+                   one or two questions on the other expenses. Just wanted to check if there is any specific reason
+                   for a sharp increase in the other expenses that we have seen in the current quarter.
+
+
+                   Also on a broader basis, also leaving aside Q2, going ahead, when can we start witnessing
+                   operating leverage gains? Our volumes have been fairly strong across divisions. Just wanted to
+                   understand on how these other expenses, how have they been in 2Q and how to control them
+                   going forward to get operating leverage gains? This is my first question?
+
+
+Sachin Kejriwal:   Yes, thanks, Teena. In terms of the cost increase in Q2, if I classify it into three, four heads, one
+                   is employee-related expense. We have our merit cycle which starts from Q2, so that is the
+                   increase you see. We will continue to invest in our talent to support the growth of 4X5Y journey.
+
+
+                   Secondly, because of the crude prices going up, we have seen that a lot of cost has gone up on
+                   the indirect expense and consumable side. So, one place we see the cost is going up. On the sales
+                   promotion side, as a company, we will continue to participate in those global marketing events
+                   where we will showcase our product. We have done couple of them in Q2. That is again where
+                   the cost has gone up.
+
+
+                   I would rather say those are the investments which we are making in Q2. Going forward on the
+                   operating leverage, what I can say that we have already incurred part of the capability cost
+                   required to support the future growth. Incremental revenue should provide better absorption if
+                   we execute well in coming quarters, Teena. We will start seeing those leverage gains, yes.
+
+
+Teena Virmani:     Okay. So, maybe from H2 or maybe from FY28 onwards, we can start witnessing at least some
+                   operating leverage gains?
+
+
+Sachin Kejriwal:   Yes, it should start, yes.
+
+
+Teena Virmani:     Okay. My second question is on distribution and exports segment growth. Both these segments
+                   have done very well in the current quarter. You have highlighted, and Gauri has also mentioned
+                   about the strategies that you have put forward for both the segments to grow these.
+
+
+                   Are these numbers the new norm in distribution and exports, or there was a benefit of some kind
+                   of pent-up which would have been left out in Q1 and would have come in 2Q, particularly on
+                   the export side? So, how to see through these growth numbers in distribution as well as in exports
+                   going forward?
+
+
+Rahul Sahai:       Hi, Teena.
+
+
+Teena Virmani:     Hi, Rahul.
+
+
+
+                                            Page 10 of 18
+
+                                                                                   Kirloskar Oil Engines Limited
+                                                                                             November 05, 2026
+
+Rahul Sahai:        You will be familiar that both for these businesses, whether it is distribution business or whether
+                    it is international business, a lot of fundamental work regarding setting up channels,
+                    understanding the products that need to be placed there. There is a lot of basic work that needs
+                    to be done. Now, in our case, a lot of that work is done.
+
+
+                    What I can say is that there are no one-timers in either of the businesses. There is a very core
+                    franchise that is being built, and we are only seeing the results of the work that we have been
+                    doing over the last couple of years.
+
+
+Teena Virmani:      Okay. When we see a rising share of, let us say, distribution and exports, technically that should
+                    also help in improving upon the margin profile. Can we expect that also to yield, or there are
+                    still some more costs which need to be incurred to grow these businesses going forward?
+
+
+Rahul Sahai:        Correct. If you remember the conversations we have had, we are saying we are looking at getting
+                    into more complex and technically advanced products like our HHP products, growth in
+                    international business, and growth in aftermarket. These are also the stated margin drivers.
+
+
+                    We will continue to focus on these product lines to improve our margins going forward as well.
+                    We continue on the stated game plan. Your point of the costs, if there are further costs that are
+                    there are no further costs. All the costs have been booked. We continue to focus on these three
+                    areas for improving our margins.
+
+
+Teena Virmani:      Okay, understood. Just one last bookkeeping question is on the capex side. Is your capex target
+                    for the full year intact? What would be your guidance now for the full year capex for this year?
+
+
+Sachin Kejriwal:    Teena, already we have announced that we will be doing INR2,100 crores of capex, and that
+                    work has started. Our first line will be up and running in next financial year. The INR1,400
+                    crores which we announced just last year, the work has started for that. Hopefully by FY28,
+                    2029, that capex production will start on those.
+
+
+Teena Virmani:      Okay. This year, you will be doing more or less around INR600 crores-INR700 crores of capex
+                    for the full year?
+
+
+Sachin Kejriwal:    Yes. So, as per planned, we will be executing our capex program for this financial year.
+
+
+Teena Virmani:      Understood. Thank you. I will come back in the queue.
+
+
+Moderator:          The next question comes from the line of Priyankar Biswas with JM Financial. Please go ahead.
+
+
+Priyankar Biswas:   Yes. Thanks for the opportunity. So my first question is, I had seen in the presentation that you
+                    had highlighted that there were significant market share gains in MHP and HHP, and in
+                    particular, it has been written that the MHP market shares were at a record. So, can you show
+                    some color in two ways?
+
+
+                    So one is, on a, let us say, Y-o-Y basis, so how much market share, broad ranges will suffice,
+                    that you may have gained in MHP and HHP? And going forward, based on your 4X5Y plan that
+                    you have, so what sort of, let us say, aspirational MHP and HHP market share do you expect in
+                    the industry?
+
+                                            Page 11 of 18
+
+                                                                                     Kirloskar Oil Engines Limited
+                                                                                               November 05, 2026
+
+Rahul Sahai:        Yes. So, look, we do not give out market share data by nodes, but what I can say is that, like
+                    Gauri mentioned a little earlier, our strategy is to go node by node and to ensure that we put our
+                    best foot forward, both in terms of product, in terms of pricing, and in terms of the overall value
+                    package delivery.
+
+
+                    And if you look at the record, we've done that historically on the LHP side, and over the past 1.5
+                    years, we are seeing that on the MHP side as well. As per our internal estimates, we would be
+                    amongst the largest MHP PowerGen manufacturers domestically.
+
+
+                    And like Gauri mentioned earlier, our next focus is on the HHP side. We are already doing that
+                    on the 1010 kVA, which is our first node on the HHP, and our intent is to continue to expand
+                    that, I would say, presence across all the HHP nodes.
+
+
+Priyankar Biswas:   So sir, just broadly, again coming back to that question only. Because one of your key growth
+                    drivers on the higher horsepower is of course the Optiprime, especially you were talking of data
+                    centers. If you can elaborate, besides what Gauri ma'am said on the opening remarks, like the
+                    first consignments to China and otherwise, what is the incremental data center traction that you
+                    are seeing?
+
+
+                    And also, if I recall, you have an American subsidiary also. Given that we had the midterm
+                    elections of late, is there any, let's say, improvement or worsening of the outlook from the
+                    American subsidiary point of view?
+
+
+Rahul Sahai:        At this point, there is nothing specific to report here. At the right time, we might be able to, when
+                    we can talk about it, we will certainly talk in detail.
+
+
+Priyankar Biswas:   But about the HHP, if you can say something. Sorry, about the data centers, if you can say
+                    something, like what sort of traction you are getting for the Optiprime, other than the HyperNext
+                    order that is already there?
+
+
+Rahul Sahai:        Yes, so we are getting a lot of acceptance from all the hyperscalers, colos, neoclouds. We are
+                    engaged with most of the data center operators. As and when there is something to report, we
+                    will certainly report it.
+
+
+Priyankar Biswas:   Okay, sir. That is broadly from my side. Thank you so much.
+
+
+Gauri Kirloskar:    Thank you.
+
+
+Moderator:          The next question comes from the line of Jeetu Punjabi with EM Investco Capital Advisors.
+                    Please go ahead.
+
+
+Jeetu Panjabi:      Yes. Hi, Gauri and Rahul. It's really good to hear the strong demand in the numbers. Gauri, I'm
+                    going to point to a comment in your opening comments, which was the underlying demand
+                    dynamics are much stronger than in reported numbers. If you were to just take this forward and
+                    translate this over the next few quarters, it kind of leads to some very, very strong numbers going
+                    ahead, and I'd love your thoughts on that.
+
+
+
+
+                                                Page 12 of 18
+
+                                                                                    Kirloskar Oil Engines Limited
+                                                                                              November 05, 2026
+
+                   Also you made a comment on some new defense maiden order, and that was the business that
+                   was quite promising. Do you see this taking off in the next year or two in a significant way?
+                   What are your thoughts on that?
+
+
+Gauri Kirloskar:   I'll let Rahul answer your question, Jeetu. Thanks for them.
+
+
+Rahul Sahai:       Hi, Jeetu. Look, this has been a labor of love. There has been a lot of effort that we've put in to
+                   build out the franchises that we've built out. If you just look at the strength of the domestic
+                   PowerGen enterprise that we have today, it's significantly better, larger than what it has ever
+                   been before for us.
+
+
+                   We hope to continue on that trajectory. Like I was mentioning a little earlier, we are already in
+                   HHP and taking specific nodes and creating a game plan around each node. We continue to
+                   move upwards. We are certainly quite keen and excited to move towards the 2 billion stated
+                   ambition.
+
+
+                   As far as Kirloskar Advanced Systems is concerned, you're absolutely right. The subsidiary was
+                   created to focus on system integration and development work specific to defense and aerospace.
+                   We have done our first commercial billing, but we do believe there is a large opportunity out
+                   there and we are actively going after it.
+
+
+Jeetu Panjabi:     Okay, super. My second question is on Arka. So you reported INR11.5 crores net, and you have
+                   kind of built out quite a bit. Is there a thought process on how this finds an independent life, as
+                   we talked earlier, through external capital coming in as well?
+
+
+Gauri Kirloskar:   Yes. So Jeetu, thanks for your question. I think that is been a consistent question across a couple
+                   of quarters. As we have stated before, right now, the focus of the company is to build out a
+                   granular secured retail franchise, particularly in two products, which is used vehicle finance as
+                   well as small ticket loan against property.
+
+
+                   Right now, just in terms of some of the numbers, with Tier 1 capital exceeding 21%, leverage is
+                   below 3.8x , and GNPA is at approximately 1%. We are well capitalized, prudently leveraged,
+                   and have a resilient balance sheet. There is ample headroom for near-term growth.
+
+
+                   Having said that, we remain committed to supporting the long-term growth ambitions, and we
+                   will be, and are evaluating appropriate private and public capital raising avenues. When these
+                   deliberations crystallize into anything definitive, we will make the disclosures as required.
+
+
+Jeetu Panjabi:     Okay, super. Thank you, and good wishes going ahead.
+
+
+Gauri Kirloskar:   Thank you.
+
+
+Moderator:         The next question comes from the line of Suraj Malu with Catamaran. Please go ahead.
+
+
+Suraj Malu:        Yes. Thank you very much for this opportunity. In the annual report, you had mentioned that in
+                   the Americas, currently there are three new families of engines that are in process of Tier 4
+                   certification. Can you help understand what are these kVA of engines and are those any specific
+                   end use?
+
+                                           Page 13 of 18
+
+                                                                               Kirloskar Oil Engines Limited
+                                                                                         November 05, 2026
+
+Rahul Sahai:    Yes. So, hi. Look, we have different families and there's a much larger product plan. But our big
+                focus area for certification for Tier 4 final in the U.S. is, one of them is to do with the program
+                that we're working with DEUTZ that Gauri spoke about. The other products that we're discussing
+                or that we have a roadmap of is more to do with our PowerGen business in the Americas. This
+                spans across Kirloskar Americas as a subsidiary and Wildcat as a stepdown.
+
+
+Suraj Malu:     And there was one more paragraph where you had mentioned that KAC is playing a pivotal role
+                for large-scale projects, like with key players in data center segment. Can you help elaborate on
+                that as well?
+
+
+Rahul Sahai:    Yes. So look, we continue to stay engaged with a lot of end customers in the Americas through
+                our subsidiary, Kirloskar Americas. This includes data centers. There are other players as well.
+                At an appropriate time, we can give more technicolor. At this point of time, I think the
+                information is proprietary.
+
+
+Suraj Malu:     Got it. And one last question is around the KASL. Like, what are the specific products that you
+                will be working on in defense and aerospace? Is it just assembly, system integration, or like what
+                are these products?
+
+
+Rahul Sahai:    So look, the products span across system integration, ground powering units. It goes to, we have
+                done defense-focused ammunition type programs where there is rocket launchers and shells. It
+                spans across a lot of different product categories, all of which are highly defense-focused.
+
+
+Suraj Malu:     Understood. Thank you very much.
+
+
+Moderator:      The next question comes from the line of Mohit Pandey with Citi Research. Please go ahead.
+
+
+Mohit Pandey:   Yes. Hi, Gauri and Rahul. First question is on the HHP 1010 node. If you could give a sense of
+                how big would this node be within HHP and how many similar other nodes could be there which
+                we could be targeting? And where you will find applications typically.
+
+
+Rahul Sahai:    Yes. Look, the applications for all of these would be largely standby power generation, but in
+                the end use, as far as customer profiles span across real estate, could be hospitality. The end use
+                pretty much varies quite a bit.
+
+
+                Now, if you look at the nodes that are there in high horsepower, at least the way we define it,
+                1010 kVA is the first node in high horsepower. Then you have another range that starts at 1250
+                to 1500 kVA, so that's the second node. The third node is 2000, and then there is a broad node,
+                which is all nodes above 2000 kVA, because they vary quite a bit and it's more of a project and
+                it's less standardized.
+
+
+                The reason why we said that 1010 kVA is significant for us because in our journey, it is the first
+                HHP node where we've started full mainstream execution, and we're seeing significant share
+                gains. That has been our core thesis all along, to figure out a game plan for each node and keep
+                moving ahead. So now we've arrived into the HHP nodes, which is why we're quite excited.
+
+
+
+
+                                          Page 14 of 18
+
+                                                                                 Kirloskar Oil Engines Limited
+                                                                                           November 05, 2026
+
+Mohit Pandey:   Understood. Thanks for that. Second question is around the demand and pricing dynamics. So,
+                clearly it looks like demand is very strong across businesses for us. So in that context, assuming
+                the key commodities start stabilizing at current levels, how fast do you think our margins can
+                come back to, say, the levels they were three to four quarters back? Yes, because it seems that
+                while demand is strong, price hike is a bit more clearly a complex process. So, yes.
+
+
+Rahul Sahai:    Yes, I mean, I think it's hard to answer it quantitatively, but what I would say is that if we see
+                the RM inflation at least plateau off at these levels, then from just the way we manage our fixed
+                costs and what we're trying to do, the controls we're trying to put on internal, the rings of defense
+                that we've kicked off for internal cost cutting. We're pretty confident that we will endeavor to
+                improve the margins. So, I think the critical part here is that the RM, the inflation has to plateau
+                off at some point in time.
+
+
+Mohit Pandey:   Okay. Okay, sir. Thank you so much and wish you all the best.
+
+
+Rahul Sahai:    Thank you.
+
+
+Moderator:      The next question comes from the line of Kartik Kohli with Kotak Institutional Equities. Please
+                go ahead.
+
+
+Kartik Kohli:   Hi, team. Thank you for taking my question. I know we've been talking about this since the start
+                of the call, but I just wanted to get a better understanding of the pricing angle here. Just wanted
+                to get a sense of how you are thinking of pricing when you're undertaking them. Are you leading
+                the industry or are you following other players when they take such hikes?
+
+
+                And what has been the kind of response when you've undertaken hikes, which gives you the
+                confidence that you will have to continue, or at least there is more room left on pricing for you?
+                That would be my first question.
+
+
+Rahul Sahai:    Yes, I mean, look, at this point in time, we don't look at anyone else before taking our price
+                increases. We do what is necessary and do what is best for the business. Pricing is a very, I
+                would say, a detailed calculation. We understand the RM. We also have a reasonably good idea
+                about the acceptability as far as price increases are concerned that the market can absorb. We
+                try and balance it and try and do what is best for protecting our margins. And obviously, if the
+                inflations kind of plateau off, then we will endeavor to drive the margins upwards.
+
+
+Kartik Kohli:   Got it. But just to phrase it a bit differently, are you in a position where you are taking pricing
+                but still at a lag versus the other peers, which is helping you maintain a competitive price versus
+                others and thus helping your business as well or is it like at this point you will broadly be coming
+                at par with your peers at this point?
+
+
+Rahul Sahai:    Yes, I think we do not really look at in terms of coming at par. We try and take calls that are
+                fairly independent and what is right for our business. What we need to, and obviously understand
+                is that there are a lot of tenders and contracts that we work with, and the RM happens in, inflation
+                happens almost in real time, but we have to execute the contracts that we have signed off through
+                the quarter.
+
+
+
+                                        Page 15 of 18
+
+                                                                                      Kirloskar Oil Engines Limited
+                                                                                                November 05, 2026
+
+                     So, that element of understanding has to be there because it is not purely a retail type of business
+                     as far as domestic PowerGen is concerned. Having said that, like I have already said, we are
+                     committed to improving our margins.
+
+
+Kartik Kohli:        Got it. Just last question from my end, the second one. We have already talked about the kind of
+                     market that you are seeing in data center and you are interacting with all sorts of customers.
+                     Would you have in your mind, or at least with your interaction, do you have a sense of the
+                     pipeline that is developing for the country as a whole at this point? Is it, at some point, can we
+                     expect '28, '29, or in '28, '29, the country as a whole to add a gigawatt or so of such capacity? Is
+                     that what you are seeing?
+
+
+Rahul Sahai:         Look, there are a lot of-- we do obviously track this and have a fairly, I would say, reasonable
+                     understanding of what is going on. There are a lot of announcements made. We must remember
+                     that these are real assets and real infrastructure that is building out. Yes, we would like to believe
+                     that all the announcements are real and we will move into a gigawatt or multi-gigawatts as a lot
+                     of the announcements would like us to believe.
+
+
+                     But we are also fairly prudent about it, and for us, the business only gets real when there is a
+                     qualified purchase order and stuff that would make it a tangible contract. We do watch this
+                     segment pretty closely.
+
+
+Kartik Kohli:        Got it. Thank you so much for taking the question. Have a nice day. Thank you.
+
+
+Moderator:           The next question comes from the line of Prathamesh Rane with PhillipCapital. Please go ahead.
+                     Prathamesh, please unmute your line in case if you are on mute.
+
+
+Prathamesh Rane:     Yes. Most of the questions are answered. Just a short question around the standalone cash flows
+                     have been impacted quite have been down year-over-year. Could you please throw any color on
+                     the same?
+
+
+Sachin Kejriwal:     Yes, our cash from operation has been positive for H1 also. Since we are building up the strategic
+                     inventory, that's why it got slightly impacted in H1. And even for the project execution, which
+                     is happening in this year and coming years, we have to build the inventory. Those are the
+                     temporary impact you are seeing on the cash side.
+
+
+Prathamesh Rane:     Okay. Thank you. Thank you, sir. Thank you so much. Happy Diwali.
+
+
+Moderator:           The next question comes from the line of Parikshit Kandpal with HDFC Securities. Please go
+                     ahead.
+
+
+Parikshit Kandpal:   Yes, hi team. Congratulations on a decent quarter in a challenging environment. My first
+                     question is for your PowerGen business across the nodes. If you can help us understand, are you
+                     seeing elongation in delivery timeline, delivery lead timelines? Are they pushing out by a few
+                     months? Just to understand the undercurrent from the demand side?
+
+
+Rahul Sahai:         Could you just ask that question another way? Because I didn't quite catch it.
+
+
+
+
+                                               Page 16 of 18
+
+                                                                                     Kirloskar Oil Engines Limited
+                                                                                               November 05, 2026
+
+Parikshit Kandpal:   Just wanted to understand, if you were taking an order booking for a PowerGen node, say LHP,
+                     MHP, or HHP, which was like delivery of four, five months from now, have you seen over the
+                     last two, three quarters elongation in the delivery timelines given this huge, strong demand
+                     undercurrent? Are you seeing elongation in delivery timelines or booking of orders?
+
+
+Rahul Sahai:         Not particularly, because most people who are trying to build infrastructure generally want their
+                     units, like, the sooner that you can give it. We are not seeing openness to elongation of delivery
+                     lead times. Obviously, from our end, we try our best to get as much time as possible, but we are
+                     not really seeing that, no.
+
+
+Parikshit Kandpal:   Okay. Other question is this quarter the worst in terms of margins, or do you think if the
+                     commodities remain at the current levels, do you think that we can still see a worse quarter,
+                     maybe Q3, or maybe this could be a bottoming out quarter, and then if commodity stabilizes
+                     here, then Q3, Q4 onwards, we should start seeing a profit traction on the PowerGen business
+                     margins?
+
+
+Rahul Sahai:         If inflation held constant, then this could potentially be a bottoming out. We would see a
+                     directional improvement. That is with the core assumption that inflation held constant.
+
+
+Parikshit Kandpal:   Okay. Just the last question on the LHP and MHP side, if you can help us understand the demand
+                     drivers now. I mean, is real estate really picking up? Because what we are hearing on the ground
+                     is that now for the next few quarters, from H2 of FY27 onwards, we should start seeing strong
+                     real estate delivery. Are you seeing incremental demand coming in from the real estate projects
+                     now? Huge order build-out happening over the next few quarters in that segment particularly?
+
+
+Rahul Sahai:         Look, as far as we are seeing, we continue to see volume growth, and we look at demand and
+                     this market analysis at a volume level. We continue to see volume growth. Yes, maybe that's the
+                     best way I can answer in LHP and MHP.
+
+
+Parikshit Kandpal:   Especially on the real estate side, are you seeing, compared to last three to four quarters, are you
+                     seeing incremental inquiries or demand inquiries from the real estate segment? Are they ramping
+                     up their procurement of PowerGen, given that they are going to, across the industry, they're
+                     going to deliver huge volumes, which were sold three to four years back, now moving into OCM,
+                     the requirement for power backup for those projects?
+
+
+Rahul Sahai:         Actually, because we are seeing volume growth, which is a function of both inquiries as well as
+                     market share improvements, for us, it is very hard to isolate these into different compartments
+                     and say that market share held constant, are we seeing performance of real estate change? I don't
+                     think I have a great answer for that question.
+
+
+Parikshit Kandpal:   Okay. Sure. Thank you. Those were my questions, and wish you the best.
+
+
+Rahul Sahai:         Thank you.
+
+
+Moderator:           The next question comes from the line of Avadhoot Joshi with Trivantage Capital. Please go
+                     ahead.
+
+
+
+
+                                              Page 17 of 18
+
+                                                                                     Kirloskar Oil Engines Limited
+                                                                                               November 05, 2026
+
+Avadhoot Joshi:    Hi, thank you for the opportunity. This is Avadhoot Joshi from Trivantage Capital. Just on the
+                   financial services, I am referring to the last slide of the presentation. If we look at the PBT
+                   numbers which are mentioned into it, there is a drop of say about 36% in profitability Q-on-Q,
+                   and Y-o-Y is much higher, 82%. Same is the situation if we look at H1 versus H1. If you can
+                   throw some light what is happening here, that would be helpful? Thank you.
+
+
+Gauri Kirloskar:   Samrat, are you there? Will you take the question?
+
+
+Samrat Gupta:      Avadhoot , this year has been a year of investment, which we had planned as part of our strategy
+                   to expand our retail distribution, and also the investment in technology for getting into used
+                   vehicle financing, both for commercial vehicles as well as for passenger vehicles, and for the
+                   small ticket LAP.
+
+
+                   As we speak, we are operating out of seven states. The investments are going to materialize with
+                   paybacks coming over a period of 12-18 months. That is the reason why you see that this year,
+                   our profit before tax is lesser than last year or even the last quarter.
+
+
+                   I think the investments are going to continue till 31st of December, and we should start seeing
+                   higher margin business, which is essentially the business which we are doing in granular secured
+                   retail, and the impact of a better ROA, while the book quality continues to be strong, starting
+                   quarter one of next year.
+
+
+                   This is a year of investment, and this is a year of switching away from prime LAP business into
+                   small ticket LAP and used vehicle financing, which is high yielding, that requires an investment
+                   in distribution and technology.
+
+
+Moderator:         Thank you. Ladies and gentlemen, due to time constraints, we would take that as the last question
+                   for today. I would now like to hand the conference over to Mr. Sanjeev for the closing remarks.
+
+
+Sanjeev Zarbade:   Thank you, moderator. Let me take this opportunity to thank the management of Kirloskar Oil
+                   Engines for giving us this opportunity to host the call. Before I close, may I invite Ms. Gauri to
+                   share her final comments, and then we can close the call. Thank you.
+
+
+Gauri Kirloskar:   Thank you. I want to thank all of you for your support and your interest in the company, and
+                   wish all of you and your families a very Happy Diwali.
+
+
+Moderator:         Thank you, sir. Thank you, ma'am. Ladies and gentlemen, on behalf of Antique Stock Broking,
+                   that concludes this conference call. Thank you for joining us, and you may now disconnect your
+                   lines.
+
+
+
+
+                                            Page 18 of 18
+

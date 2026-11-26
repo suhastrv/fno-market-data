@@ -1,0 +1,1100 @@
+                                                                                                                                 November 12, 2026
+
+       BSE Limited                           National Stock Exchange of India Limited                               Luxembourg Stock Exchange
+       Scrip Code: 500440                    Scrip Code: HINDALCO                                                   Scrip Code: US4330641022
+
+        Sub: Transcript – Q2 FY27 Earnings Call.
+        Ref: a. Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+                 Disclosure Requirements) Regulations, 2015;
+             b. ISIN: INE038A01020 and
+             c. Our Intimation dated October 30, 2026.
+
+      Pursuant to the above referred, the transcript of the Earnings Conference Call held on November 6,
+      2026, for the quarter and half year ended September 30, 2026, is enclosed herewith.
+
+      The same is also available on the website of the Company i.e. www.hindalco.com.
+
+      This is for your information and record.
+
+      Sincerely,
+
+      for Hindalco Industries Limited
+       Geetika     Digitally signed by
+                   Geetika Anand
+
+       Anand
+                   Date: 2026.11.12
+                   11:00:19 +05'30'
+
+
+
+      Geetika Anand
+      Company Secretary & Compliance Officer
+
+      Encl: a/a
+
+
+
+
+                                                                  Hindalco Industries Limited
+Registered Office: 21st Floor, One Unity Center, Senapati Bapat Marg, Prabhadevi, Mumbai – 400013, India |T: +91 22 69477000 / 69477150 I F: +91 22 69477001/69477090
+                                 W: www.hindalco.com |E: hilinvestors@adityabirla.com | Corporate ID No.: L27020MH1958PLC011238
+
+              Hindalco Industries Limited
+  “Second Quarter Earnings Conference Call FY27”
+                  November 06, 2026
+
+
+
+
+MANAGEMENT: MR. SATISH PAI – MANAGING DIRECTOR, HINDALCO
+            INDUSTRIES LIMITED
+            MR. BHARAT GOENKA – CHIEF FINANCIAL OFFICER,
+            HINDALCO INDUSTRIES LIMITED
+            MR. STEVE FISHER – PRESIDENT AND CHIEF
+            EXECUTIVE OFFICER, NOVELIS INC.
+            MR. DEV AHUJA – CHIEF FINANCIAL OFFICER,
+            NOVELIS INC.
+            MR. SUBIR SEN – HEAD, INVESTOR RELATIONS ,
+            HINDALCO INDUSTRIES LIMITED
+
+
+
+
+                        Page 1 of 18
+
+                                                                               Hindalco Industries Limited
+                                                                                      November 06, 2026
+
+Moderator:    Ladies and gentlemen, good day and welcome to the Earnings Conference call of Hindalco
+              Industries Second Quarter Results for FY27. As a reminder, all participant lines will be in
+              listen-only mode and there will be an opportunity for you to ask questions after the
+              presentation concludes. Should you need assistance during the conference call, please signal an
+              operator by pressing star and zero on your touchtone phone. Please note that this conference is
+              being recorded. I now hand the conference over to Mr. Subir Sen, Head of Investor Relations
+              at Hindalco. Thank you, and over to you, sir.
+
+
+Subir Sen:    Good morning and good evening, everyone. Thank you for joining us. On behalf of Hindalco
+              Industries, I welcome you all to our Q2 FY27 Earnings call. We will be referring to the Q2
+              investor presentation available on our website. Please note that certain statements made during
+              this call may be forward-looking and should be read in conjunction with the safe harbor
+              statement on Slide 2 of the said presentation.
+
+
+              The presentation highlights our consolidated performance for the quarter, along with our
+              segment-wise performance review of Novelis and our India aluminium and copper businesses.
+              The corresponding segment information of prior periods have been restated accordingly for a
+              comparative analysis wherever applicable.
+
+
+              Joining us today from Hindalco are Mr. Satish Pai, Managing Director, Mr. Bharat Goenka,
+              Chief Financial Officer. From Novelis, we have Mr. Steve Fisher, President and CEO, and Mr.
+              Dev Ahuja, Chief Financial Officer. Following the management's remarks, we will open the
+              floor for questions and answers. Post this call, an audio replay will also be available on
+              company's website. With that, let me now hand over the call to Mr. Pai to take you through
+              company's performance and key highlights of the second quarter of FY27.
+
+
+Satish Pai:   Hello everyone. I would like to take this opportunity to wish everyone a happy and healthy
+              festive season. Thank you for joining Hindalco's earnings con call today. On slides five to nine
+              of this presentation, you can see our achievements and progress across quarterly metrics of
+              safety and sustainability for this quarter.
+
+
+              Let me take you through the key highlights of these initiatives. At Hindalco, safety is always
+              our highest priority, and I am pleased to report that there were no fatalities this quarter across
+              all our Indian operations. Our LTIFR for this quarter stands at 0.16, showing significant
+              improvement over the prior period.
+
+
+              I am also pleased to share that Aditya Alumina Refinery was honored with the British Safety
+              Council Award 2026, a testament to our unwavering commitment to occupational health and
+              safety. We also launched an AI-powered behavior-based safety observation app in 22 plus
+              regional languages to strengthen critical risk identification while developing 40 certified
+              TapRooT experts to enhance incident investigation and root cause analysis across our
+              businesses.
+
+
+              At Hindalco, we continue to make strong progress on circularity and responsible waste
+              management. This quarter, 62% of the total waste generated was recycled or reused, impacted
+              by the higher rainfall at certain plants and temporary logistical challenges. We achieved 93%
+
+
+                                       Page 2 of 18
+
+                                                                 Hindalco Industries Limited
+                                                                        November 06, 2026
+
+recycling rates for bauxite residue, excluding Utkal, 77% recycling of ash, and 110% recycling
+of copper slag this quarter.
+
+
+We have made consistent progress in improving water efficiency across our operations through
+a series of forecasted interventions. In our aluminium business, higher recycling rates of 33%
+were recorded in this quarter, up from 30% a year ago, with increased rainwater harvesting
+across the sites that helped us reduce freshwater consumption on a year-on-year basis.
+
+
+In our copper business as well, specific freshwater consumption improved year-on-year due to
+continued recycling and higher rainwater harvesting this quarter. Biodiversity conservation
+remains an integral part of our sustainability agenda. At the end of Q2 FY27, our cumulative
+tree plantation has crossed 6.8 million trees, with nearly 5.4 lakh saplings that were planted
+this quarter to strengthen greenbelt coverage and enhance local biodiversity around our
+operations. We have implemented conservation programs for special status species across 10
+high-priority sites, reinforcing our commitment to biodiversity conservation and ecosystem
+protection. We also commenced implementation of ‘No Net Loss’ project at our Belagavi
+plant, aimed at restoring 123 hectares of habitat and strengthening local biodiversity in the
+region.
+
+
+Renewable energy remains a key pillar of our decarbonization strategy. As of the end of Q2,
+we have 643 MW of renewable energy capacity across Solar, Wind, and Hydel resources,
+along with 35 MW of pump storage tie-ups under our round-the-clock renewable energy
+program. By FY27 exit, our renewable energy portfolio is set to reach 884 megawatt.
+Complemented by 125 megawatt of RE-RTC capacity, accelerating our transition to a cleaner
+and more sustainable energy mix and building a more sustainable and future-ready Hindalco.
+
+
+Our aluminium-specific greenhouse gas footprint stood at 19.4 tons of CO2 per ton of
+aluminium in Q2, lower than the comparable period last year.
+
+
+Now let me give you a glimpse of the current broader economic environment on Slide 11. IMF
+projects global growth at 3.1% in 2026, slowing from 3.5% in 2025, as the global economy
+remains resilient but divergent in its performance. A significant drag is arising from the Middle
+East and Central Asia region, where growth is expected to contract by 0.3% in 2026 after
+expanding 3.7% a year earlier, reflecting the economic disruptions caused by the prolonged
+conflict and energy supply constraints.
+
+
+The negative supply shock arising from the conflict and its impact on global economic activity
+has been partially offset by strong investments in artificial intelligence and the broader
+technology sector. The U.S. economy is expected to grow by 2.3% in 2026, supported by
+resilient domestic demand and continued investment.
+
+
+While in China, it is projected to slow down to 4.5% from 5% amid weak domestic demand
+and ongoing structural challenges. Global growth remains vulnerable to escalating geopolitics,
+continued commodity price volatility, higher financial conditions, and increasing trade
+fragmentation. Global inflation is projected to rise from 4.1% in 2025 to 4.7% in 2026, driven
+primarily by higher energy and food prices before easing begins again in 2027.
+
+
+                         Page 3 of 18
+
+                                                                 Hindalco Industries Limited
+                                                                        November 06, 2026
+
+India continues to demonstrate resilience of its domestic economy despite a challenging global
+environment. The RBI forecasted GDP growth for FY27 at 7.1% against 7.8% in FY26.
+
+
+Recent high-frequency indicators suggest that economic activity continues to maintain
+momentum. Manufacturing remains steady despite cost pressures, while the services sector
+continues to benefit from robust domestic and external demand. Investment activity continues
+to strengthen, aided by government infrastructure spending, improving private sector capex,
+and strong credit growth.
+
+
+Rural consumption is expected to be supported by resilient non-farm activity, although
+deficient monsoon conditions and strong El Niño effects pose risk to agricultural output and
+rural demand. Urban demand remains healthy, backed by stable employment conditions.
+Meanwhile, external headwinds, including geopolitical tensions, elevated commodity prices,
+supply chain disruptions, tighter global financial conditions and trade-related uncertainties
+continue to weigh on growth outlook. Inflation prospects have become less favorable, with the
+CPI inflation projected at 5.2% in FY27, driven by food and fuel price pressures, deficit
+monsoon conditions, El Niño-related risk, and volatility in the global crude oil prices. With
+signs of inflation becoming more broad-based, the RBI has raised the policy repo rate by 25
+basis points to 5.5% and shifted its policy stance to calibrated tightening, signalling its focus
+on containing inflation while ensuring macroeconomic and financial stability.
+
+
+Moving on to the industry outlook on Slides 12 to 14. On Slide 12, from a pricing perspective,
+the quarter was marked by significant volatility. Looking ahead, the global aluminium market
+is expected to remain in deficit through calendar year 2026. Current estimates point to a deficit
+of around 0.8 million tons, significantly higher than earlier expectations. Any further
+disruptions in the Middle East could tighten supply further and provide additional support to
+aluminium prices. While capacity restarts and new supply additions are expected to gradually
+rebalance the market, the medium-term outlook remains constructive.
+
+
+Looking at the global aluminium market in Q3 calendar year 2026, Chinese aluminium
+production grew about 3% year-on-year to nearly 11 million tons, supported by capacity
+additions in Yunnan, partially offset by capacity rationalization in Shandong. In the rest of the
+world, production declined 6% to around 8 million tons, primarily due to disruptions stemming
+from the Middle East conflict and the closure of Mozal, partially offset by higher production in
+Indonesia. As a result, the global aluminium production stood at approximately 19 million
+tons, down 1% year-on-year.
+
+
+On the demand side, aluminium consumption in China increased 4% to around 12 million tons,
+supported by continued strength in new energy vehicles and healthy export demand for semi-
+fabs and finished products. However, the construction sector remained weak amid ongoing
+challenges in the real estate market. Outside China, consumption declined 2% to around 7
+million tons, reflecting softer demand in Europe, Middle East, and North America, partially
+offset by growth in India. Overall, the global aluminium consumption reached approximately
+19 million tons, up 1% year-on-year. With demand continuing to outpace supply, global
+aluminium markets remained in deficit by roughly 0.5 million tons this quarter.
+
+
+
+                        Page 4 of 18
+
+                                                               Hindalco Industries Limited
+                                                                      November 06, 2026
+
+Turning to India, demand remains resilient and continues to be among the strongest growth
+markets globally. Aluminium demand in Q2 FY27 is estimated to be around 1.7 million tons,
+representing growth of approximately 6% year-on-year. This growth is primarily driven by the
+automotive sector, supported by healthy vehicle production and sustained demand across both
+passenger and commercial vehicles. Overall, India continues to outperform most global
+markets and remains one of the most attractive long-term growth opportunities for aluminium
+demand.
+
+
+Turning to the Indian copper industry on slide 14. In India, refined copper demand remained
+relatively subdued during the quarter, declining 3% year-on-year to 388 KT. While demand
+from building and construction and power sectors continued to grow, this was partially offset
+by softer demand from consumer durables and electrical equipment segments. On the copper
+concentrate side, Q2 FY27 continued to witness extremely tight copper concentrate markets,
+with spot TC/RC remaining at negative levels in the range of (-48) to (-58) cents per pound,
+and concentrate availability remaining constrained. The market continued to be affected by the
+structural gap between expanding global smelting capacity and constrained growth in mine
+supply.
+
+
+Coming to slide 14, our consolidated business EBITDA was up 52% year-on-year at
+INR13,869 crores this quarter, and the consolidated profit after tax was up 59% on a year-on-
+year basis at INR7,533 crores. At Hindalco India business, our business segment EBITDA was
+up 66% year-on-year at INR9,011 crores this quarter, whereas the quarterly profit after tax was
+at INR5,852 crores, up 91% on a year-on-year basis this quarter.
+
+
+Turning to Slide 17, it is encouraging to see the earnings from our non-LME-linked
+businesses, namely Novelis, aluminium downstream and copper, continued to grow, reaching
+INR6,860 crores this quarter, with momentum continuing to accelerate. These businesses have
+a much lower correlation to LME price movements and are driven by factors such as value-
+added products, recycling, innovation, customer relationships, and operational performance. ur
+growth is increasingly being driven by three key factors, that is, recovery at Novelis, strong
+operational performance in our copper business, and the continued expansion of our
+aluminium downstream portfolio into new products, applications, and premiumization.
+
+
+Coming to our business-wise performance this quarter on Slide 18, the India upstream
+aluminium shipments were up 1% year-on-year and revenues were up 33% year-on-year. Our
+quarterly EBITDA stood at INR7,009 crores, up 55% year-on-year, backed by favorable
+macros and our strong performance across the value chain. This delivered an EBITDA per ton
+of $2,125 this quarter. EBITDA margins were at 52% and continued to be among the best in
+the global industry.
+
+
+Our hedging position in aluminium for the rest of FY27 stands at around 29% on the
+commodity at $3,000 per ton and 21% in the currency at INR93 per dollar.
+
+
+Our Indian downstream aluminium business continues to deliver a strong core performance,
+while quarterly shipments were up 6% year-on-year at 119 KT. Aluminium downstream
+delivered a quarterly EBITDA of INR329 crores, up 26% year-on-year this quarter versus
+
+
+                        Page 5 of 18
+
+                                                                Hindalco Industries Limited
+                                                                       November 06, 2026
+
+INR261 crores in the prior period. This was driven by product mix and premiumization. The
+resultant EBITDA per ton stood at $289 per ton this quarter.
+
+
+Copper performed exceptionally well during this quarter, delivering another strong set of
+results. Overall metal shipments were at 116 KT, up 2% year-on-year, while CCR volumes
+were stable at 96 KT. Quarterly copper EBITDA reached a record INR1,673 crores, a
+significant 164% increase year-on-year, driven by strong operational performance, healthy
+domestic demand across segments despite elevated LME prices. In addition, higher realization
+from sulfuric acid and other by-products, along with certain one-time gains, further supported
+earnings during this quarter. Copper is expected to deliver an underlying quarterly EBITDA of
+around INR1,200 crores on a normalized basis, underscoring the strength and resilience of this
+business.
+
+
+Turning to cash flows and capital allocation in Slide 20, our business continued to generate
+strong cash flows of INR23,319 crores during the period, representing a robust 57% year-on-
+year increase. At the same time, we invested INR20,719 crores in capital expenditure, up 83%
+year-on-year as we continue to advance our growth and capacity expansion projects. These
+investments are forecasted on strengthening our competitive position and delivering long-term
+value creation. Importantly, we continue to maintain a strong balance sheet with consolidated
+net debt to EBITDA at 1.80 times as of September 2026, providing us flexibility to fund
+growth while maintaining a disciplined approach to capital allocation and shareholder returns.
+
+
+Now let me conclude today's presentation with some key takeaways. At Novelis, our second
+quarter performance once again reflected the strength and resilience of the underlying
+business. We are now normalized production at Oswego Hot Mill and through September 2026
+received cumulative insurance recoveries of $519 million. Importantly, our long-term
+EBITDA per ton guidance of $600 remains unchanged. We are confident that the strength of
+the business supported by cost restructuring will drive a return to positive free cash flow and
+mark the beginning of our deleveraging journey by the end of FY27. We also achieved a major
+milestone at Bay Minette, where our 600 KT greenfield rolling and recycling facility produced
+its first cold rolled coil in September 2026. Commercial shipments are expected to commence
+in the first quarter of FY28. Bay Minette will further strengthen our operating footprint,
+expand our recycling capabilities, and position Novelis for the next phase of long-term
+profitable growth.
+
+
+Turning to our India business, we continue to deliver record-breaking performance with
+industry-leading profitability across both our aluminium and copper businesses. This
+performance reflects the strength of our integrated business model, our relentless focus on
+operational excellence, disciplined cost management, and consistent execution across market
+cycles.
+
+
+On the growth front, all our key upstream expansion projects are progressing well and remain
+aligned with our strategic ambition of doubling our upstream capacity. These investments will
+further strengthen our integration and cost leadership, our goal of delivering fourfold increase
+in downstream EBITDA by FY 2030. A key aspect of our transformation is the growing
+contribution of non-LME-linked businesses, as our portfolio increasingly shifts towards value-
+
+
+                        Page 6 of 18
+
+                                                                                Hindalco Industries Limited
+                                                                                       November 06, 2026
+
+              added products, recycling, innovation-led solutions, stronger customer partnership, and
+              operational excellence. Our earning profile is becoming more resilient and less correlated to
+              movements in LME prices.
+
+
+              We are also making steady progress on strengthening our resource security. As the Chakla
+              Bandha and Meenakshi mines become operational, we will enhance raw material self-
+              sufficiency, lower production costs, support margin expansion, and further strengthen the
+              earnings profile of our upstream business. With over INR50,000 crores of expansion projects
+              currently under execution across our businesses in India, and another INR50,000 crores of
+              growth opportunities are under evaluation, we are preparing for the next phase of our growth
+              journey. These investments of over INR One lakh crores in growth projects over the next five
+              years reflect our confidence in India's long-term demand outlook and reaffirm our commitment
+              to creating sustainable value. Overall, Hindalco is exceptionally well-positioned for the future.
+              Backed by our integrated business model, strong resource base, disciplined capital allocation,
+              and strategic investments across the value chain, we are well-equipped to capitalize on
+              emerging growth opportunities. We remain committed to our purpose of ‘Engineering Better
+              Futures’ while delivering sustainable growth, enhanced profitability, and long-term value
+              creation for our stakeholders.
+
+
+              Thank you very much for your attention, and the forum is now open for questions.
+
+
+Moderator:    Thank you very much. We will now begin the question-and-answer session. First question is
+              from the line of Pinakin from HSBC. Please go ahead. Pinakin, please go ahead with your
+              question. Your line is unmuted.
+
+
+Pinakin:      Yeah. Thank you very much for the opportunity. Can you, sir, give us some clarity on when do
+              you expect to have detailed timelines on the INR50,000 crores of expansions that are being
+              evaluated in the India business?
+
+
+Satish Pai:   Yeah, Pinakin, I think that our focus right now is to get the first set of projects completed. Just
+              so that we can recap, the copper recycling plant in Pakhajan commissions in December of this
+              year, and then starting Aditya Alumina Refinery commissions in December of 2027.
+
+
+              The 180 KT Aditya smelter first line commissions in December of 2027. So, these three big
+              projects are our focus. Then the next Aditya smelter line will commission in December of
+              2028, and the copper smelter will commission in December of 2028. So, this is in that first
+              INR50,000 crores. Once we are doing this, we will then start from Mahan Smelter.
+
+
+              The Mahan smelter expansion, we are now going through the EC approvals and trying to get
+              the licensing and all sorted out. So, that will be the next big project. And then, of course, we
+              have downstream, further copper recycling expansion from 50 KT to 150 KT. It will be fair to
+              say that every year and a half, we will be starting one more project. What we are trying to do,
+              Pinakin, is to stay on the consol net debt to EBITDA within two times that we have committed.
+              As we go along, we will give you as some of these new projects are to get approved for
+              execution.
+
+
+Pinakin:      Sure. Got it.
+
+                                       Page 7 of 18
+
+                                                                                    Hindalco Industries Limited
+                                                                                           November 06, 2026
+
+Moderator:          We will go on to the next question, which is from the line of Sumangal Nevatia from Kotak
+                    Securities. Please go ahead.
+
+
+Sumangal Nevatia:   Yeah, good evening, and thanks for the chance. My first question is, on the cost, if you could
+                    guide us, how are costs moving for the aluminium division in the coming quarters? What are
+                    the timelines for the captive coal mine commissioning, both Chakla and Bandha? Is it on track
+                    for end of FY 2027? On the copper division, I wish you mentioned something that INR1,200
+                    crores is a sustainable run rate for copper. Can you just elaborate on that? What has changed in
+                    terms of quarterly EBITDA run rate? One, of course, is sulfur, but some elaboration will help.
+                    Thanks.
+
+
+Satish Pai:         All right. Let me remember all your questions, Sumangal. Starting with the cost. Q2 costs were
+                    up roughly 5% above Q1. The cost up was two main factors, coal and CP coke prices. The
+                    coal, it is a monsoon quarter, and we got badly impacted in the northern region. It was
+                    basically Renusagar, Renukoot, and Mahan, because the rainfall was very heavy and the
+                    demand for the northern power plants was very strong. We had a low linkage materialization
+                    and had to buy a lot of coal on the spot auctions. On the Odisha side, we did not have an
+                    impact. Long story short, that led to a 5% increase in the cost of production of aluminium Q1
+                    to Q2. We expect Q2 to Q3 to also be around that 5% because the northern area, the coal is
+                    still not stabilized. October continued to be very hot. We are slowly at mid, at November,
+                    starting to see some signs of improvement. I think Q2 to Q3 will also be 5% up. In Q4, we will
+                    start to see the price go down as the coal prices and coal availability improve in Q4. Now, of
+                    course, as your second question is, what is important for us is to get Chakla and Bandha coal
+                    mines started so that by next monsoon, we are not under this pressure. At Bandha, the first box
+                    cut has already happened. It is a high stripping ratio. First coal should start to come out
+                    towards the second half of the next financial year. Chakla, we are expecting still that we will
+                    be getting coal by sometime middle of next year. Then on copper, you heard right. We think
+                    that it is about INR1,200 crore-INR1,300 crore in the next coming quarters, largely driven by
+                    sulfuric acid pricing, along with precious metal sales. Of course, I think that the copper
+                    downstream products pricing is also helping.
+
+
+Sumangal Nevatia:   Understood. Sir, if you can just elaborate, what is the proportion of sulfuric acid realization,
+                    say, in a normalized year like FY25-26 and versus what is it today?
+
+
+Satish Pai:         See right now I think we are running at roughly INR16,000 a ton. Last year, at the same
+                    quarter, it was around INR7,000 a ton. Let me tell you, even INR7,000 is quite high. We were
+                    normally, if you go before that, it used to be around INR3,000 or INR4,000 a ton. So sulfuric
+                    acid and sulfur prices are really high right now.
+
+
+Sumangal Nevatia:   Okay. In terms of contribution to EBITDA, what is the proportion, and what is the volume that
+                    we kind of produce and sell?
+
+
+Satish Pai:         I think contribution, let's say that, it's like 50% comes from other stuff, 50% comes from
+                    copper, more or less. The volumes of sulfuric acid is around 300,000 tons a quarter.
+
+
+
+
+                                             Page 8 of 18
+
+                                                                                             Hindalco Industries Limited
+                                                                                                    November 06, 2026
+
+Sumangal Nevatia:           Understood. I have just one more question on Novelis. Given that we are seeing so many
+                            moving parts with respect to tariffs and Oswego and recoveries of insurance, overall, the
+                            predictability of earnings and margins have really gone down for us. Is it possible now, since
+                            we are going back to normalized level, at least for, say, FY28, give us some guidance on
+                            volumes and some range of margin that we are expecting given the current tariffs and current
+                            scrap spreads?
+
+
+Dev Ahuja:                  Yes, Sumangal, I will take this on. I do not know why you are saying there are so many
+                            moving parts, because we have been pretty clear to say that right now, we have some
+                            headwinds from tariffs, but we are working with a clear plan, and by fourth quarter, tariffs
+                            would come down to a fairly marginal level.
+
+
+                            That is swing factor number one. We are giving you predictability, to be clear. Number two,
+                            Oswego fire impact. On the Yeongju strike impact, we have told you that we have a $20
+                            million impact in Q2, and you can broadly expect a similar impact in Q3, and after that, it is
+                            over. That is swing factor number two for you. The third thing is insurance recoveries. Now,
+                            insurance recoveries, you can expect that we have another $47 million of insurance recoveries
+                            that will fall into EBITDA, and that should pretty much be by this fiscal year end. I do not
+                            know what else is in your mind a swing factor, but we have clearly called out these factors.
+                            Having said that, we will gain as the supply chains normalize. I am telling you one more thing
+                            now, which is actually on the positive side, that right now, we are still facing some impact of
+                            our customer supply chains not having normalized, which are putting some negative colour on
+                            shipments for the time being. But that is in the course of normalization, and the shipments
+                            momentum based on the underlying markets should pick up pretty well starting from Q4 of
+                            this fiscal. I think that we have sliced and diced all the factors for you, and I hope that that
+                            should help.
+
+
+Sumangal Nevatia:           Got it. That's helpful. Thanks and all the best.
+
+
+Satish Pai:                 Thank you.
+
+
+Moderator:                  Thank you. Next question is from the line of Jashandeep Singh Chadha from Nomura. Please
+                            go ahead.
+
+
+Jashandeep Singh Chadha: Yeah. Hi. Thank you for the opportunity. Happy Diwali in advance, sir. My first question is
+                            regarding your hedging. How is your hedging position? Also, if you can give some sense on
+                            the regional premium and how do you see them in the near future?
+
+
+Satish Pai:                 Yeah. The second, let's say H2 of FY27, the remaining six months, we are hedged 29% at
+                            $3,000 per ton. If we now go into FY 2028, we are about 26% hedged at $3,168. That's our
+                            position. I think the MJP is correcting. I think Q3 MJP is already about 270-ish. I think that we
+                            expect MJP to be in that $200-$250 range in Q4.
+
+
+Jashandeep Singh Chadha: Thank you, sir. My next question, sir, would be largely on the pot relining capitalization. Any
+                            rough estimate how much it would have added to the EBITDA per ton? Also, the India
+                            business depreciation seems to have increased significantly. Is this just this quarter, or should
+                            we start building higher depreciation going forward?
+
+                                                     Page 9 of 18
+
+                                                                                               Hindalco Industries Limited
+                                                                                                      November 06, 2026
+
+Satish Pai:                   No, it's the impact of the pot relining. Basically, what we have done is we have capitalized the
+                              pot relining, which is more or less, we were the only company in the aluminium business not
+                              doing it. All our competitors do it. The impact roughly adds about INR130 crores to the
+                              EBITDA line, and it adds INR130 crores to the depreciation line. That's why you're seeing the
+                              depreciation a little bit up, and the positive impact in the EBITDA line is INR130 crores.
+                              You'll see this now going forward. In Q2, there was a little bit more additional catch-up of the
+                              Q1 as well, which is why the number was slightly higher. On an ongoing basis now, you are
+                              seeing probably INR130 crore additional due to the pot relining expense being amortized and
+                              the depreciation correspondingly going up by the same amount.
+
+
+Jashandeep Singh Chadha: Understood, sir. Sir, just one last question. In your presentation, last quarter, I believe you
+                              were showing or estimating close to 1 million ton of deficit. Now it has, I think, come down to
+                              0.8 million ton. How are you seeing LME prices over the next year? Just one bookkeeping
+                              question, what will be your run rate of capex over the next couple of years?
+
+
+Satish Pai:                   Let me first start with your first question was on the LME prediction. Look, 0.8 to 1 million,
+                              this is a call that's been made in the last few months. It really depends on I would not read too
+                              much into the difference, but next year is an interesting one. If the Middle East supplies get
+                              normalized and if the expected Indonesian volumes come, and there's a big if in that 1.5
+                              million tons additional will come or not, then the LME Week, the consensus was, in some
+                              ways, the LME next year could be between $2,600 and $2,800. That's the next year's outlook.
+                              Difficult to say because one geopolitical event, as you know, changes that whole scenario very
+                              quickly.
+
+
+Satish Pai:                   On Capex. This year will be around INR12,000 crores. Next year will be substantially higher,
+                              which I'll give you the number with our February results when we have done our budgeting.
+                              But next year will be high, and the year after will be at the same levels because of all these
+                              projects that I mentioned to you. The sort of capex outflow in FY 2028, 2029 will be quite
+                              high.
+
+
+Jashandeep Singh Chadha: Understood, sir. It is fair to say that by next year, you will hit your peak net debt. Just one last,
+                              if I can squeeze. For your smelters, upcoming smelters, for internal calculation, what sort of
+                              LME prices are you building in for IRR?
+
+
+Satish Pai:                   I think we took about 2,600 we took.
+
+
+Jashandeep Singh Chadha: Understood, sir. You will hit peak net debt by next year, right?
+
+
+Satish Pai:                   No, console net debt to EBITDA, let's just stick with our commitment that we will keep the
+                              console at around 2x. Novelis in Q4, we have said, will reach about 4x, and then over the next
+                              two years, they're going to go through a deleveraging cycle, ending up between 2.5x to 2.8x is
+                              the plan. The India, which is now negative, once we get into our growth capex, it won't remain
+                              negative. It will become 1.0 to 1.5 times. But the consol then for us, what we are trying to do is
+                              to keep it at what we committed, which is around 2 times.
+
+
+Jashandeep Singh Chadha: Understood, sir. Thank you so much. I'll join back in the queue.
+
+
+
+                                                      Page 10 of 18
+
+                                                                                         Hindalco Industries Limited
+                                                                                                November 06, 2026
+
+Satish Pai:         Yeah, thank you.
+
+
+Moderator:          Thank you. Next question is from the line of Pallav Agarwal from Antique Stock Broking.
+                    Please go ahead.
+
+
+Pallav Agarwal:     Yeah, good evening, sir. The first question was, could you quantify the one-off in the copper
+                    segment? Is it correct to assume that out of some INR1,600, if we assume that INR1,200 crores
+                    are normal one, so this quarter is a INR400 crores of one-off?
+
+
+Satish Pai:         It is not a single one-off. There were a couple of things that happened. We had a certain
+                    amount of copper slag sales where our accruals and what we realized by selling was higher.
+                    There is a certain amount of derivative noise. There is a certain amount of precious metals
+                    extra sales. All that put together, there was about roughly INR350-INR400 crores, what we
+                    think is not on a sustainable basis repeatable.
+
+
+Pallav Agarwal:     Sure, sir. Also, if I look at the aluminium upstream EBITDA on a sequential basis, given the
+                    fall in the LME and the 5% increase in cost, probably the EBITDA decline could have been
+                    higher. Did we get the benefit of some higher premium, or what led to the better-than-expected
+                    performance over there?
+
+
+Satish Pai:         We realized a higher net premium, one, because of the exports that we were doing, which went
+                    to high-premium countries, not MJP countries. The second is the value-added upstream parts,
+                    which is the conductor cables, etc, we got a better pricing on it. The VAP and the premiums
+                    resulted in the EBITDA per ton being higher.
+
+
+Pallav Agarwal:     Sure, sir. Also, in terms of the copper pricing, you said concentrate availability is tight, which
+                    is reflecting in the low TC/RC or negative TC/RC. But the inventories on the London Metal
+                    Exchange don't seem to be declining to that extent. So, where is the disconnect between the
+                    two?
+
+
+Satish Pai:         The London Metal Exchange, you're talking about the copper inventories. People, especially in
+                    the U.S. and all, have been holding copper because they are worried about. I think that for us,
+                    let me be one thing is clear, the copper concentrate availability is tight. But for people like us,
+                    we are now very comfortable because we have got large miners with which we have long-term
+                    contracts. So, we have no problem in getting the concentrate. But the overall supply-demand,
+                    because of the huge Chinese smelting capacities, the TC/RCs are negative.
+
+
+Pallav Agarwal:     Sure, sir. Yeah, okay. Thank you, sir.
+
+
+Satish Pai:         Yeah, thank you.
+
+
+Moderator:          Thank you. Next question is from the line of Indrajit Agarwal from CLSA. Please go ahead.
+
+
+Indrajit Agarwal:   Hi, sir. Two questions. First, on copper EBITDA, as you mentioned, INR1,200 crore quarterly
+                    run rate. What kind of sulfuric acid price are you taking in that?
+
+
+
+
+                                            Page 11 of 18
+
+                                                                                        Hindalco Industries Limited
+                                                                                               November 06, 2026
+
+Satish Pai:         We are taking a high sulfuric acid, Indrajit. I mean, somewhere between INR 14,000 and
+                    15,000 per ton. I think we are seeing that in Q3 and Q4. So, we are taking it at these higher
+                    levels.
+
+
+Indrajit Agarwal:   Sure, makes sense. Second, you mentioned about 2,600-2,800 LME. Just to understand, where
+                    do you think is the 90th percentile cost of today is, and what is the kind of cash cost
+                    Indonesian capacities could have?
+
+
+Satish Pai:         The Indonesian one, we are not really clear, but the average on these are. Let's take the first,
+                    the highest side of the cash cost on Aluminium is roughly around $2,000-$2,200 per ton.
+
+
+Indrajit Agarwal:   Sure, that helps. Thirdly, on the console capex, with Novelis tapering off, console capex may
+                    not rise next year. Is that understanding correct? Even though India rises, but?
+
+
+Satish Pai:         Yeah, that's a fair point, because this year, the Novelis capex is very high. Next year, it will go
+                    back to normal maintenance plus project around $500 million-$600 million levels. So yes, the
+                    console capex may not go up that much. You're right.
+
+
+Indrajit Agarwal:   Sure. Lastly, on the Pot relining EBITDA adjustment at aluminium of INR130 crores, the
+                    quarterly run rate, is this the first quarter we have done? So, sequentially, EBITDA
+                    improvement looks better optically than what the underlying number is. Is that understanding?
+
+
+Satish Pai:         No, so you are right. It looks better because this is the first quarter we did it.
+
+
+Indrajit Agarwal:   Of INR 130 crores. All right. Thanks. That is all from my side. Thank you and Happy Diwali.
+
+
+Satish Pai:         Thank you.
+
+
+Moderator:          Thank you. Next question is from the line of Satyadeep Jain from Ambit Capital. Please go
+                    ahead.
+
+
+Satyadeep Jain:     Hi. Thank you. Mr. Pai, just one more question on the LME expectations. I know LME Week,
+                    a lot of people expect LME to go down on higher supplies. Now, when you strategize, would
+                    you I know you have a hedging strategy, you like to keep something open. But if generally the
+                    expectation is prices go down, would you like to hedge more? And would Mahan 370 Kt
+                    expansion, would you still want to go ahead if we see more capacity and prices come down,
+                    the 370 Kt that you have on board which you are evaluating?
+
+
+Satish Pai:         Yeah, I think that, look, Satyadeep, fundamentally, these things you have to take a 10, 15, 20
+                    year view. We think that aluminium demand, let's take Bharat, is going to grow at 7% - 8%,
+                    which is fairly conservative. The second thing is that general aluminium demand worldwide is
+                    growing at 3%. It is also very clear that nobody in the Western world is adding any smelting
+                    capacity. The only places left is India and Indonesia. Then if you go and look at our cost curve,
+                    Satyadeep, once we are Chakla, Bandha and Meenakshi coal mines running, we have locked
+                    in, except CP coke, our cost curve at very attractive levels. LMEs can swing up and down, but
+                    we will be the last man standing. Yes, we think that taking advantage of the backward
+                    integration of bauxite and coal is the reason why we should do the investment. There can be
+
+
+                                             Page 12 of 18
+
+                                                                                     Hindalco Industries Limited
+                                                                                            November 06, 2026
+
+                  some years where it goes down, but the fundamental demand of aluminium, we think the long-
+                  term trend is good.
+
+
+Satyadeep Jain:   In the brownfield optionality, after you reach this two million tons between Aditya and Mahan,
+                  how much optionality would be there beyond this?
+
+
+Satish Pai:       Look, in the downstream now, we still have the capability to add another cold mill in Aditya,
+                  by 170 KT. So on top of 600 KT, we can add 170KT of rolling capacity. Then on the
+                  extrusions, we are already looking at in Kuppam and Silvassa with the auto demand and the
+                  consumer electronics. If we get to two million tons of aluminium, we will get to about 1
+                  million tons of downstream capacity in India.
+
+
+Satyadeep Jain:   In the Brownfield optionality after this, after 2 million tons on the, sorry, after two million tons
+                  for the upstream, what optionality you have between Aditya and Mahan?
+
+
+Satish Pai:       You are talking about upstream optionality or downstream?
+
+
+Satyadeep Jain:   Upstream.
+
+
+Satish Pai:       See, upstream we can easily add another 360 KT in Mahan. We have checked, we have the
+                  land. Aditya land, we put the rolling mill, so we do not have any more land in Aditya after this
+                  360 expansion. But in Mahan, we can do another 720 KT expansion.
+
+
+Satyadeep Jain:   Okay. Just one more question on this bookkeeping. Of the INR50,000 crores that you have in
+                  Bharat, how much have you already spent and what was the royalty payment? I know Novelis,
+                  I think was about $11 million. Overall, the Hindalco level, what was the royalty payment? Out
+                  of INR50,000 crores, how much has been spent so far?
+
+
+Satish Pai:       Hindalco was also the same level, $11 million. Because we pay on a quarterly basis till we hit
+                  the cap of INR225 crores. That's how the royalty thing has been set up. And of the capex of
+                  INR 50,000 crores, we were calculating, I think we have probably spent about INR 20,000
+                  crores at the end of this financial year.
+
+
+Satyadeep Jain:   Okay. Thank you so much.
+
+
+Moderator:        Thank you. Next question is from the line of Ashish Jain from Macquarie. Please go ahead.
+
+
+Ashish Jain:      Hi, sir. Good evening. Sir, my first question is on the aluminium EBITDA for this quarter. Is it
+                  possible to give a breakup in terms of how much is sulfuric acid led and how much is pure
+                  copper and copper downstream?
+
+
+Satish Pai:       You are talking about the copper EBITDA, not aluminium EBITDA?
+
+
+Ashish Jain:      Yes. Sorry, my bad. Copper EBITDA, yeah.
+
+
+Satish Pai:       No, I don't think we want to give you a breakup there. I think it's fair to say that we have given
+                  you that the underlying run rate on a going basis is around INR 1,200-1,300 crores.
+
+
+
+                                           Page 13 of 18
+
+                                                                                 Hindalco Industries Limited
+                                                                                        November 06, 2026
+
+Ashish Jain:   Okay. Sir, just to confirm that, did you say earlier in the call that 50% of EBITDA this quarter
+               was copper led? Did I hear you right on that?
+
+
+Satish Pai:    Yes, more or less. Copper is sold, we do not sell too much cathode, so we convert it to rods
+               and then we convert it to other downstream products. So, when I look at the premiums on all
+               of that and put it, yeah, roughly 40% to 50% will come from copper products, the rest will
+               come from sulfuric acid, precious metals, et cetera.
+
+
+Ashish Jain:   Sir, this is in spite of TC/RC being where it is. That is why I am asking.
+
+
+Satish Pai:    That is why if I was selling cathodes, I would been losing money.
+
+
+Ashish Jain:   Got it.
+
+
+Satish Pai:    Yeah.
+
+
+Ashish Jain:   Sir, secondly, in terms of the cost curve, like for 3Q and 4Q, what is the outlook on other cost?
+               Coal you explained, but what is the outlook on the other cost drivers from aluminium business
+               point of view?
+
+
+Satish Pai:    It is only CP coke. All the rest, we do not expect too much variation from the current levels.
+               Actually, caustic prices are more or less.
+
+
+Ashish Jain:   CP coke is also trending higher.
+
+
+Satish Pai:    Yes. These are the two that are high, but CP coke, we don't expect that it's going to go up a lot
+               more than current levels. It's already high. The coal is the one that needs to come down,
+               because that's got a nearly 40% impact on the cost curve.
+
+
+Ashish Jain:   Got it. Okay, sir. Thank you so much, sir. Thanks.
+
+
+Satish Pai:    Yeah, thank you.
+
+
+Moderator:     Thank you. Next question is from the line of Raashi from Citigroup. Please go ahead.
+
+
+Raashi:        Thank you. I do not know if I missed it, but did you indicate the alumina sales in the quarter,
+               the expectation going forward?
+
+
+Satish Pai:    Yeah, the external alumina sales, we sold 194 KT in Q2, and in Q3, we should sell in the
+               similar range, 190-200 Kt .
+
+
+Raashi:        190-200. Got it. On the capex, how much do you spend in India in the first half?
+
+
+Satish Pai:    About INR6,000 crores. This year, I think our expectation is we would spend about
+               INR12,000-13000 crores by the end of the year.
+
+
+Raashi:        Got it. What did you mention? You said that India has a net cash balance. How much was that?
+
+
+Satish Pai:    INR16,000 crores. We are sitting with treasury of INR16,000 crores.
+
+
+                                       Page 14 of 18
+
+                                                                                   Hindalco Industries Limited
+                                                                                          November 06, 2026
+
+Raashi:        Got it.
+
+
+Satish Pai:    Net cash is nine thousand.
+
+
+Raashi:        Net cash is nine thousand.
+
+
+Satish Pai:    Yes, because we have long-term loans of about INR6,000 crore-INR7,000 crore.
+
+
+Raashi:        This is only India books?
+
+
+Satish Pai:    That's only the India. That's why net debt to EBITDA is - 0.35 times in India.
+
+
+Raashi:        Okay. Thank you.
+
+
+Satish Pai:    Thank you.
+
+
+Moderator:     Thank you. Next question is from the line of Ritesh Shah from Investec. Please go ahead.
+
+
+Ritesh Shah:   Hi, sir. Thanks for the opportunity. Sir, you did indicate broad outlook on aluminium. Can you
+               please help us with your thoughts on alumina as well?
+
+
+Satish Pai:    Alumina, the only good news is the alumina index is starting to trend slightly up. It had been
+               low for the last two quarters. Currently, it is running about $350 per ton . We expect that it
+               should be firmer, closer to $400 per ton next year.
+
+
+Ritesh Shah:   Sir, what will be the underlying variables which will drive that?
+
+
+Satish Pai:    See, when the Middle East capacity went off, that is when the alumina demand went down,
+               because the third-party alumina market is largely driven by people who are not integrated,
+               which is the Middle East smelters, because everyone else than China, is less backward
+               integrated.
+
+
+Ritesh Shah:   Sure. Sir, second is you indicated with respect to the aluminium EBITDA bump this quarter,
+               you attributed it to higher premium and higher value-added products.
+
+
+Satish Pai:    Yes.
+
+
+Ritesh Shah:   Is it possible to give some color on how is that on spot basis? How do you see this on Q3
+               basis? And is this something which is sustainable?
+
+
+Satish Pai:    I mean, the value-added products are of course sustainable, so that will happen. But the
+               premium may not be because MJP has already come down in Q3. So we had managed to get
+               quite a good premium on the export side in Q2. In Q3, already the MJP is down by more than
+               $100. The percentage of VAP should continue.
+
+
+Ritesh Shah:   Sure. Last question. You did indicate on the incremental projects, we will take one new project
+               every one and a half years. Just wanted to understand, say hypothetically, if we go ahead with
+               Mahan 370 KT first, it would be contingent to what variables on the projects which are due for
+
+
+
+                                      Page 15 of 18
+
+                                                                                             Hindalco Industries Limited
+                                                                                                    November 06, 2026
+
+                           commissioning in say, 2027 and 2028? Is it we are looking at a particular utilization level or is
+                           it more contingent to the balance sheet?
+
+
+Satish Pai:                It is actually an execution capability and the balance sheet. Because we are working with one
+                           large EPC contractor as our partner. Really, I would like to use the crew that is finishing
+                           Aditya to go and do Mahan. So we have to phase it because the capacity to execute large
+                           projects is quite limited in the country right now. So we have to be careful. So execution
+                           capability and the balance sheet, both are the two things you need to closely look at.
+                           Utilization, no. I mean, if you produce aluminium, the market is there.
+
+
+Ritesh Shah:               Perfect. This is quite helpful. Thank you so much. All the very best.
+
+
+Satish Pai:                Yeah, thank you.
+
+
+Moderator:                 Thank you. Next question is from the line of Rahul Gupta from Morgan Stanley. Please go
+                           ahead.
+
+
+Rahul Gupta:               Yeah, hi. Thank you for taking my questions. Two questions. First, the downstream EBITDA
+                           per ton has been largely stable over the past couple of quarters. How should we look at in the
+                           second half? That's my first question.
+
+
+Satish Pai:                Yeah, it should start to go up because we are qualifying quite a few products in Aditya FRP
+                           right now. Aditya FRP is now at the 50% loading level. So in the next two quarters, we would
+                           like to get many products under qualifications like the battery foil, the ULG foil, the can body
+                           stock. So as those volumes pick up, the EBITDA per ton should cross $300.
+
+
+Rahul Gupta:               Got it. Thank you so much. My second question is slightly longer term. When you talked about
+                           the newer upstream projects that you have been undertaking is on the back of estimate of
+                           $2,600 aluminium prices. Can you help us understand with all the backward integration and
+                           also moving downstream, what kind of IRRs are you thinking about at $2,600 aluminium
+                           prices?
+
+
+Satish Pai:                At least sort of mid-teens at the $2,600, because there is a certain amount of inflation in capex
+                           and cost of execution as well. So at $2,600, we want to be at least in the teens.
+
+
+Rahul Gupta:               Got it. So this is just a follow-up. When you talk about around INR 1 Trillion of capex over the
+                           next few years, that does take into account the inflation over the next few years, right?
+
+
+Satish Pai:                Yes.
+
+
+Rahul Gupta:               Got it. Thank you so much. Wish you a very happy festive season.
+
+
+Moderator:                 Thank you. Next question is from the line of Jashandeep Singh Chadha from Nomura. Please
+                           go ahead.
+
+
+Jashandeep Singh Chadha: Yeah, hi, sir. Thank you for the opportunity again. Sir, around 50% of the copper EBITDA
+                           came from non-copper materials. Can you give us a similar number for, let's say, last quarter,
+                           and on an average run rate, how much is it?
+
+                                                   Page 16 of 18
+
+                                                                                                Hindalco Industries Limited
+                                                                                                       November 06, 2026
+
+Satish Pai:                  Last quarter was at similar levels. I mean, you will have to go down to when TC/RCs were 15
+                             – 17 cents per pound in the last year. So then the contribution from the copper side will go up.
+                             But it's fair to say that the copper value chain is fairly diverse. So you do get a little bit of one
+                             goes up, the other goes down, and sort of balances out. You can't really average it over the last
+                             five years and say where it has been.
+
+
+Jashandeep Singh Chadha: Understood, sir. And sir, the next question is on alumina strategy. I see that, and it might be in
+                             the last quarter, but AluChem, you have terminated that. Does that change your specialty
+                             alumina strategy or the 4x downstream target? I mean, how should we look at that?
+
+
+Satish Pai:                  Not at all, because we just commissioned the Alumina PPT hydrate plant, which the
+                             technology was fully indigenously developed. Of course, it took us five years to do that. We
+                             were hoping with AluChem for the tabular alumina, we would shortcut that. So, A, we are out
+                             looking for other people who can help us fast-track that, and B, we have our internal program
+                             to develop tabular alumina. We are, of course, going to launch the white fused alumina project
+                             very soon. So, our plan to get to about a million tons of specialty alumina output is not
+                             changed.
+
+
+Jashandeep Chadha:           Understood, sir. And sir, just one last thing. I believe you answered this earlier, but I would
+                             like to ask you in separate thing. So most of Hindalco and your peers are putting up capacity,
+                             and you were saying that even for India, there is a lot of demand, so utilization is not an issue.
+                             So if you can just maybe tell the demand drivers in domestic market, which sector, which
+                             region you are looking the mainly demand coming for aluminium over the next couple of
+                             years, that would be great.
+
+
+Satish Pai:                  Yeah, that's a good question, requires a more detailed answer, but I'll just give you a highlight.
+                             Historically, the electrical sector, which is conductors and cables, were nearly 40% of the
+                             aluminium demand. We are now starting to see automotive sector becoming significant. We
+                             are starting to see packaging sector become significant. We are starting to see industrial and
+                             home appliances becoming significant. So, as this Indian economy grows and urbanization
+                             come in, and now, by the way, Data Centers is starting to become significant. So, all these
+                             other drivers are starting to come in. So it's fairly, Indian demand is now starting to replicate
+                             Japanese or European or U.S. demand in many ways. For many years before, it was very much
+                             concentrated on the conductor cable market, which was nearly 40% of our aluminium. Now it
+                             is much more broad-based.
+
+
+Jashandeep Singh Chadha: Understood, sir. I'll get in touch with you off and on to get details further. But if you have to
+                             put out a number, let's say demand number for next five year, what will be the CAGR that you
+                             will be building for demand?
+
+
+Satish Pai:                  I always say, can go up and down. India grows at roughly 7% CAGR. That is the number we
+                             use.
+
+
+Jashandeep Singh Chadha: Understood, sir. Thank you so much. I will join back now.
+
+
+
+
+                                                     Page 17 of 18
+
+                                                                              Hindalco Industries Limited
+                                                                                     November 06, 2026
+
+Moderator:    Thank you. Ladies and gentlemen, we take that as the last question for today. For any further
+              questions, please connect to Hindalco IR team. I now hand the conference over to Mr. Pai for
+              closing comments.
+
+
+Satish Pai:   Yeah, thank you very much. So, another good quarter, and I think for me, the upstream
+              business did well, but in the coming quarters going ahead, we believe the recovery of Novelis,
+              the ongoing strengthening of copper business, and the aluminium downstream are going to be
+              important. Overall, the strength of Hindalco is in its diversified business model, with at least
+              four pillars driving the growth. Thank you very much for your attention, and Happy Dhanteras
+              and Happy Diwali to all of you.
+
+
+Moderator:    Thank you. Ladies and gentlemen, on behalf of Hindalco Industries, that concludes this
+              conference. Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                     Page 18 of 18
+

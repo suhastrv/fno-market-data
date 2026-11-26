@@ -1,0 +1,1100 @@
+            Dated: November 5, 2026
+
+            The Manager                                                       The Manager
+            BSE Limited                                                       National Stock Exchange of India Ltd
+            Corporate Relationship Department                                 Listing Department
+            Phiroze Jeejeebhoy Towers                                         Exchange Plaza, 5th Floor, Plot No. C/1
+            Dalal Street                                                      G Block, Bandra Kurla Complex
+            Mumbai- 400001                                                    Bandra (E), Mumbai-400 051
+            Scrip Code: 540750                                                Symbol: IEX
+
+            Sub: Transcript of the Earnings Conference call with analysts and investors held on
+            October 30, 2026.
+
+            Dear Sir / Madam,
+
+            Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+            Regulations, 2015, please find the attached transcript of the earnings conference call held
+            with analysts and investors on October 30, 2026, to discuss the financial results of the
+            Company for the quarter ended September 30, 2026.
+
+            The above information will also be made available on the website of the Company:
+            www.iexindia.com
+
+            You are requested to take the above information on record.
+
+            Thanking You.
+
+            Yours faithfully,
+
+            For Indian Energy Exchange Limited
+
+             VINEET   Digitally signed by
+                      VINEET HARLALKA
+
+             HARLALKA Date: 2026.11.05
+                      11:06:43 +05'30'
+
+            Vineet Harlalka
+            CFO, Company Secretary & Compliance Officer
+            Membership No. ACS-16264
+
+
+
+            Encl: as above
+
+
+
+
+                                                      Indian Energy Exchange Ltd
+Registered Office: C/o Avanta Business Centre, First Floor, Unit No. 1.14(a), D2, Southern Park, District Centre, Saket, New Delhi–110017, India
+                         Corporate Office: 9th Floor, Max Towers, Sector 16B, Noida, Uttar Pradesh–201301 , India
+                          Tel: +91-011-3044 6511 | Tel: +91-120-4648 100 | Fax No.: +91-120-4648 115
+                                 CIN: L74999DL2007PLC277039 | Website: www.iexindia.com
+
+           “Indian Energy Exchange Limited
+         Q2 FY27 Earnings Conference Call”
+                   October 30, 2026
+
+
+
+
+MANAGEMENT: MR. SATYANARAYAN GOEL – CHAIRMANAND
+            MANAGING DIRECTOR –INDIAN ENERGY EXCHANGE
+            LIMITED
+            MR. ROHIT BAJAJ -- JOINT MANAGING DIRECTOR –
+            INDIAN ENERGY EXCHANGE LIMITED
+            MR. VINEET HARLALKA – CHIEF FINANCIAL OFFICER
+            AND COMPANY SECRETARY – INDIAN ENERGY
+            EXCHANGE LIMITED
+            MS. APARNA GARG – HEAD, INVESTOR RELATIONS
+            AND CORPORATE COMMUNICATIONS –INDIAN ENERGY
+            EXCHANGE LIMITED
+            AMIT KUMAR – HEAD OF OPERATIONS, NEW
+            PRODUCT INITIATIVES AND TECHNOLOGY – INDIAN
+            ENERGY EXCHANGE LIMITED
+            MR. ADITYA WALI –INVESTOR RELATIONS – INDIAN
+            ENERGY EXCHANGE LIMITED
+
+MANAGEMENT: MR. ROHAN GHEEWALA– AXISCAPITAL
+
+
+
+
+                        Page 1 of 18
+
+                                                                              Indian Energy Exchange Limited
+                                                                                            October 30, 2026
+
+Moderator:        Ladies and gentlemen, good day and welcome to Indian Energy Exchange Q2 FY27 Earnings
+                  Conference Call hosted by Axis Capital Limited. As a reminder, all participant lines will be in
+                  the listen-only mode and there will be an opportunity for you to ask questions after the
+                  presentation concludes. Should you need assistance during this conference call, please signal an
+                  operator by pressing star then zero on your touch-tone phone. Please note that this conference is
+                  being recorded.
+
+
+                  I now hand the conference over to Mr. Rohan Gheewala from Axis Capital. Please go ahead.
+
+
+Rohan Gheewala:   Thank you. Good afternoon, ladies and gentlemen. On behalf of Axis Capital, I am pleased to
+                  welcome you all to the IEX Q2 FY27 earnings conference call. We have with us the management
+                  team of IEX, which is represented by Mr. Rohit Bajaj, Joint Managing Director, Mr.
+                  Satyanarayan Goel, Chairman and Managing Director, Mr. Vineet Harlalka, Chief Financial
+                  Officer, Mr. Amit Kumar, Head of Operations, New Product Initiatives and Exchange
+                  Technology, and Ms. Aparna Garg, Head Investor Relations and Corporate Communications.
+
+
+                  We will begin with the opening remarks from Mr. Rohit Bajaj, followed by an interactive Q&A
+                  session. Thank you, and over to you, Sir.
+
+
+Rohit Bajaj:      Thank you. Good afternoon, friends. I welcome you all to the IEX earning call for Q2 FY 2027.
+                  With me today on this call are Mr. Satyanarayan Goel, CMD, IEX, Mr. Vineet Harlalka, CFO
+                  and Company Secretary, Mr. Amit Kumar, Head of Market Operations and Exchange
+                  Technology, Ms. Aparna Garg, Head of Investor Relations and Corporate Communications; and
+                  Mr. Aditya Wali.
+
+
+                  Friends, amid global uncertainty and inflationary pressures driven by oil supply volatility, India
+                  continues to remain the fastest growing major economy in the world, having recorded strong
+                  GDP growth of 7.8% in Q1 FY27. Reinforcing this outlook, the IMF recently revised its forecast
+                  upwards and projects India’s GDP to grow by 7% in each of the next 2 years.
+
+
+                  This growth trajectory is powered by strong domestic demand, robust services activity, and
+                  favourable demographic trends. Notably, this performance comes despite severe El Nino
+                  conditions, which led to the fourth lowest performing monsoon season this century, with rainfall
+                  at just 87% of the long-period average.
+
+
+                  Looking at the bigger picture, India is steadily progressing toward a USD5 trillion economy by
+                  FY30, driven by reforms like GST rationalization, new labor codes, and FTAs with the UK,
+                  Switzerland, New Zealand, and the forthcoming one with EU and some other countries.
+                  Together, they are advancing the vision of a Viksit Bharat by 2047. This growth story will be
+                  fueled by electricity at its core.
+
+
+                  The power sector witnessed sustained demand growth during the first half of the year supported
+                  by strong industrial activity and higher irrigation demand amid the weak monsoon. In the first
+                  half of FY27, power demand grew 10.2% Y-o-Y to touch 897 billion units. Elevated
+                  temperatures due to El Nino and deficient monsoon rainfall drove Q2 electricity demand to 502
+                  billion units, marking a record 11.5% year-on-year increase.
+
+                                            Page 2 of 18
+
+                                                             Indian Energy Exchange Limited
+                                                                           October 30, 2026
+
+While peak demand during the summer reached 271 gigawatt, it remained elevated at 269
+gigawatt in September. The demand and supply scenario remained volatile during the quarter.
+A weak monsoon increased buy bids in IEX day-ahead market by nearly 120% Y-o-Y in Q2,
+pushing up average DAM prices nearly 46% Y-o-Y to INR5.72 per unit and average RTM price
+higher by 49% Y-o-Y to INR5.24 per unit.
+
+
+With prices touching INR20 per unit in certain time blocks during the quarter, the high-priced
+day-ahead market, (HP DAM), played a critical role by enabling unmet demand bids to transition
+into the high-price segment, ensuring supply for buyers with urgent power requirements.
+
+
+However, cyclones and unseasonal rains during the later part of the quarter moderated demand
+in several regions, providing ample supply liquidity and driving RTM prices to near zero in
+multiple time blocks on a few days.
+
+
+In the first half of fiscal, prices during solar hour touched an average of INR2.3 per unit pushing
+up arbitrage opportunity to over INR6.5 per unit for both 2-hour, 2 cycles per day and 4-hour, 1
+cycle per day battery storage systems and providing further opportunity for addition of BESS
+capacity.
+
+
+On the fuel side, domestic coal production was largely flat at 445 million ton in H1 FY27
+compared with H1 FY26. Summer demand strained plant inventories and weather disruption
+tightened availability further. As of 22nd October 2026, coal inventory stood at nearly 8 days
+with stock at about 100 plants at a critical 3 days level.
+
+
+The Ministry of Power has been closely monitoring coal stocks and has taken various measures
+to improve coal availability, and some of these measures can be seen on the ground. Further,
+MoP has invoked Section 11 of the Electricity Act to direct over 100 captive coal-fired plants as
+well as Coastal Gujarat Power Limited, CGPL, imported coal-based plant to maximize
+generation till 31st December 2026.
+
+
+Let us now talk about few important regulatory updates and policy initiatives during the quarter.
+
+
+     •      Earlier this May, CERC issued a discussion paper on strengthening and scheduling
+            timelines for real-time market. The paper proposes reduction of RTM auction window
+            from 15 minutes to 5 minutes, and thereby reducing gate closure time from 75 minutes
+            to 50 minutes.
+
+
+            The objective is to enable better forecasting, more efficient management of
+            renewables, and enhance liquidity on the exchange platform. The same has now been
+            proposed in draft grid code, (IEGC), and public comments on the proposal were
+            invited and closed last week.
+
+
+     •      The CERC issued amendments to the Sharing of Inter-State Transmission Charges and
+            Losses Regulation 2020, providing ISGF charges waiver for up to 25 years for battery
+            energy storage systems integrated with renewable or hybrid generating stations.
+
+
+
+                             Page 3 of 18
+
+                                                              Indian Energy Exchange Limited
+                                                                            October 30, 2026
+
+           This should expectedly reduce the cost of power trading for BESS players and increase
+           liquidity on exchanges.
+
+
+     •     In other developments, CERC has identified the Green Day Ahead market as a source
+           of green power for energy storage systems such as BESS and PSP to procure power
+           and meet eligibility criteria to qualify as green storage. This classification should
+           increase trading in G-DAM segment at exchanges.
+
+
+     •     The CEA made draft amendment to Technical Standards for Construction of Electric
+           Plants and Electric Lines, Second Amendment 2026. The draft proposes that solar and
+           onshore wind projects commissioned after July 1st, 2027 would have to be equipped
+           with co-located energy storage system with a minimum 2-hour storage duration and
+           capacity equivalent to at least 10% of the plant installed capacity. It further proposes
+           an increase in storage duration for projects commissioned after July 1st, 2029, and up
+           to July 30th, 2031. These solar and onshore wind projects would be required to install
+           co-located ESS with a minimum 4-hour storage duration with storage capacity equal
+           to at least 10% of the plant installed capacity. These measures would help in grid
+           stability going forward as countrywide renewable capacity increases and provide
+           liquidity on the exchanges.
+
+
+     •     With regards to the carbon market wherein carbon credit certificates are to be traded
+           on power exchanges, Bureau of Energy Efficiency, (BEE), in consultation with Grid
+           India, has issued draft procedures for trading of these certificates under the compliance
+           mechanism. In conjunction, IEX has filed a petition with the CERC for approval of
+           carbon credit certificate trading on the exchanges.
+
+
+On market coupling, in July 2025, CERC issued an order proposing implementation of market
+coupling in the Day-Ahead Market, pursuant to which IEX filed an appeal before APTEL and
+subsequently in the Supreme Court. Both forums observed that market coupling cannot be
+implemented by this order and it can only be implemented after the regulations are issued. And
+hence, IEX is not an aggrieved party yet, and they do not wish to interfere at this stage.
+
+
+If IEX is aggrieved by the final regulation, they can approach the appropriate forum, including
+the grounds raised in the appeal made. Meanwhile, CERC issued draft regulation for market
+coupling in the month of April, and proposed Grid India as the market coupling operator.
+Submission of comments by stakeholders and public hearing on draft regulation was completed
+in the month of June. There has been no further development on this during this particular
+quarter.
+
+
+CERC in its order of July 2025 had also mentioned that in case of Real-Time Market, since the
+timelines are very tight for bidding and the auction process, this would be considered
+subsequently. In light of the CERC discussion paper for shortening the scheduling in Real-Time
+Market, that is, reducing the gate closure time from 75 to 50 minutes, where RTM bidding will
+be reduced from 15 to 5 minutes, coupling is likely to become more challenging.
+
+
+
+                         Page 4 of 18
+
+                                                             Indian Energy Exchange Limited
+                                                                           October 30, 2026
+
+Further, over the last 3 years, we have undertaken several initiatives to strengthen our customer
+relationships and technology capabilities, including extensive customer interactions and
+feedback, providing API-based bidding tools, back-office integration through APIs, data
+analytics, enhanced web portal, customer-centric digital solutions, and reinforced cybersecurity
+safeguards.
+
+
+With our customer-centric initiative track record of trust and deep customer engagement, we
+shall be able to retain and strengthen our market position post coupling.
+
+
+Moving on to IEX performance in this quarter. During Q2 FY27, IEX recorded electricity
+trading volume of 39.7 billion units, a year-on-year growth of 12.7%. For H1 FY27, electricity
+traded volume reached 77 billion units, a growth of 14.2% over the first half of FY26.
+
+
+Revenue for the company grew by 10.7% year-on-year, increasing from INR 183.3 crores in Q2
+FY26 to INR 203 crores in Q2 FY27. Profit after tax increased by 12.9%, rising from INR 123
+crores in Q2 FY26 to INR 139 crores in Q2 FY27.
+
+
+In Q2 FY27, 15.3 lakhs Renewable Energy Certificates were traded, considerably lower than 44
+lakhs certificates traded over the same quarter in FY26.
+
+
+The RTM segment continued to demonstrate strong growth with nearly 42% share in electricity
+volume at IEX, surpassing the share of the DAM segment for the second quarter in succession.
+The segment witnessed the highest ever single day volume of 315 million units during the month
+of September.
+
+
+For Q2 FY27, RTM volumes at nearly 16.5 billion units were higher by 10.5% on a year-on-
+year basis, highlighting the segment's critical role in helping distribution companies and open
+access consumers efficiently manage their short-term requirements. RTM's ability to offer
+flexibility and immediate responsiveness underlines the opportunity to efficiently integrate
+renewables with the grid and weather-related volatilities.
+
+
+With regard our product pipeline, we continue to await approval from the CERC on our petitions
+to extend the Term-Ahead Market contract from 3 months to 11 months; to introduce the Green
+RTM contract; and third, with regard to introduction of Peak DAM and Peak RTM segments.
+
+
+Moving on to IGX numbers. IGX traded gas volumes of 42 million MMBtu in Q2 FY27, a
+growth of 160% over Q2 FY26, led by volumes from domestic gas producers and heightened
+power demand being met by gas power plants during the month of August and September. In
+Q2 FY27, nearly 30% of the traded gas volumes were from the power sector. For the first half
+of the year, traded gas volume reached around 70 million MMBtu, higher by nearly 71% over
+H1 FY26.
+
+
+For Q2 FY27, IGX recorded a profit after tax of INR23.4 crores, which was higher by 144%
+compared with INR9.6 crores in Q2 FY26. PAT in H1 FY27 stood at INR39.7 crores, an increase
+of 67.4% over H1 FY26.
+
+
+
+                        Page 5 of 18
+
+                                                            Indian Energy Exchange Limited
+                                                                          October 30, 2026
+
+As you may be aware, we had filed a DRHP, (Draft Red Herring Prospectus), for an IPO of IGX
+earlier in July this financial year. As per PNGRB regulations, (Petroleum and Natural Gas
+Board), we have to lower our existing holding from 47.3% to 25% by end of December 2026,
+and the IPO process remains on track.
+
+
+Our other diversification initiatives are also gradually gathering momentum. For Q2 FY27, ICX
+Private Limited issued nearly 52 lakhs I-RECs, a growth of 38.4% Y-o-Y. Issuance in the first
+half of FY27 reached 94 lakhs, a growth of 15% over H1 FY26. Revenue for ICX in Q2 FY27
+stood at INR2.3 crores, higher by 20.8% on a year-on-year basis. I-REC is a globally recognized
+digital certificate that serves as a transferable proof of generation of 1 megawatt hour of energy
+from renewable sources.
+
+
+With regards our initiative to build a coal exchange in India, IEX has incorporated Indian Coal
+Exchange Limited as a wholly owned subsidiary for this purpose. Recently in September, Indian
+Coal Exchange Limited applied for a license with Coal Controller Organisation, CCO, the
+regulatory body for coal exchanges.
+
+
+Indian Coal Exchange aims to be a physical delivery-based coal trading exchange, providing an
+organized, transparent and technology-enabled marketplace for coal trading in accordance with
+the Coal Exchange Rules, 2026. The exchange will facilitate trades at designated delivery points,
+enabling efficient price discovery and wider market access.
+
+
+Further in line with the Government’s vision of bringing transparency in trades of all
+commodities, Ministry of Mines has also notified final regulations for a mineral exchange. This
+development is being explored and should provide us with another diversification opportunity.
+
+
+With the power consumption forecast to hit nearly 2,700 billion units going forward with peak
+demand of 388 gigawatt by 2032, we believe power demand growth will continue to drive
+exchange volume growth in the coming few years. In response to this expected demand growth,
+the MoP has been regularly monitoring the road map of thermal capacity addition, which has
+now been revised from an earlier 80 gigawatt by 2032 to 115 gigawatt by 2035.
+
+
+In addition, the Government and regulators continue to take policy measures to ease supply
+liquidity to rationalize power prices on exchange. India’s power sector continues to experience
+fast-paced transition. The government focus on green hydrogen, data centers, AI economy,
+electric vehicles, pump storage, battery energy storage, all this will lead to innovation of new
+products and market segment on the exchanges.
+
+
+Battery Energy Storage Systems and FDRE round-the-clock tenders are gaining traction. To
+further deepen the green markets, we have continued to advocate market-based options like
+CfDs, virtual PPAs and merchant models for RE capacity addition.
+
+
+And going forward, with large-scale rooftop solar, we see emergence of local energy markets
+and ecosystem where exchanges will play a central role. These developments are poised to
+become key enablers in expanding and deepening the country's power market to support a
+successful energy transition.
+
+                        Page 6 of 18
+
+                                                                                   Indian Energy Exchange Limited
+                                                                                                 October 30, 2026
+
+                     As envisaged by Honorable Prime Minister, India aims to achieve energy independence by the
+                     year 2047. And as India marches towards its net zero target of 2070, power exchanges will have
+                     a significant role to play in shaping the country's energy ecosystem.
+
+
+                     Thank you. And now we can move for question and answers.
+
+
+Moderator:           Thank you, Sir. We will now begin the question-and-answer session. The first question is from
+                     the line of Bharani V from Avendus.
+
+
+Bharani V:           Yes. Am I audible?
+
+
+Satyanarayan Goel:   Yes. You're audible.
+
+
+Bharani V:           Yes. Good afternoon, Sir. This is Bharani. My first question is on the draft regulations by CERC.
+                     In your opinion, why do you think there is no decision yet or any movement there so far? And
+                     when do you think there will be final regulations that will be coming out on this, Sir?
+
+
+Satyanarayan Goel:   We are in no hurry. So we are waiting. We don't know when it will come.
+
+
+Bharani V:           Okay. Related question to that is for the stakeholder comments that was sought and in which
+                     Grid India had given their comments. In your opinion, their readiness and the ability to
+                     implement the way CERC is asking them to implement by being a sole market coupling operator,
+                     all those things, is it feasible? Are they ready? Will there be any delays in implementing because
+                     Grid India seems not to be ready to implement it in the way CERC wants them to do?
+
+
+Satyanarayan Goel:   See, first of all, the regulations need to be notified. And depending on what is notified in the
+                     regulations, thereafter, the necessary preparation will start. And this is a major change. So I think
+                     all this will require a lot of preparation, a lot of activities to be done, software to be developed,
+                     hardware to be ensured uniformity in all three exchanges and settlement system to be developed,
+                     mock trials to be done. All these things will need time.
+
+
+                     It is difficult to say any definite timeline about it, but definitely not in this calendar year. My
+                     own estimate is that it may take another 1.5 to 2 years also, but it all depends on after the
+                     regulations, how is the regulations and in what way they want to implement it.
+
+
+Bharani V:           Okay. Understood. My second question is on the quarter that has gone by. We have seen the
+                     country's base power demand growth at around 13%. Our electricity volumes have also grown
+                     at the same rate. Here, we have seen kind of a slow or sluggish growth in the DAM volumes,
+                     while TAM volumes and Real-Time product volumes have been much higher.
+
+
+                     So, in your opinion, what is driving this particular behavior of buyers and sellers in this quarter
+                     where TAM volumes are growing more, DAM volumes are sluggish? And how do you think
+                     this will play out for the remaining part of the year?
+
+
+Satyanarayan Goel:   See, whenever demand is higher than the supply, there is shortage and there is increase in the
+                     price. And availability of power particularly during the evening hours is slightly uncertain. That
+
+
+
+                                              Page 7 of 18
+
+                                                                            Indian Energy Exchange Limited
+                                                                                          October 30, 2026
+
+               is why many of the distribution companies, when they get into the bilateral contracts and that
+               leads to shifting of volume from the DAM to the TAM and to bilateral contracts.
+
+
+               This phenomenon typically happens during 3, 4 months in a year, during the monsoon season.
+               If there is a good monsoon, like last year we had a good monsoon, so bilateral contracts were
+               much lower. This year, right at the beginning of April, May, it was clear that El Nino impact is
+               going to happen, and we are going to have less rains. So, right from the month of July, August,
+               we started seeing these bilateral contracts. But now end of October and the prices have again
+               corrected, they are down to almost about INR4 per unit, and there is enough availability of power
+               in both DAM and RTM. So, volumes have started increasing in DAM and RTM now.
+
+
+Bharani V:     Understood. Related question to that, of the TAM volumes, is it possible to give a split of how
+               much is intraday, how much is 1 month, how much is 3-month kind of volume?
+
+
+Rohit Bajaj:   See, in the TAM, majority of the volume is traded under daily and monthly contracts. DAC and
+               ITD is also there, which is about 20%-25% of the total volume, which is there in bilateral
+               segment. So, there is monthly, weekly contracts which are there, which is about 70% of the total,
+               a little over 70%. And then there are volumes which are in DAC and ITD, the intraday segment,
+               which is less than 30%.
+
+
+Bharani V:     Sure. One more question, if I may, on the RECs. Here, we have seen a decline in volumes
+               because of the recent buyout regulation. So, first question there is, of the REC volumes we have
+               seen in FY26, that is last year, how much was contributed by the designated consumers now
+               who need not come and buy in the market and who are buying directly?
+
+
+Rohit Bajaj:   Almost 80% of the volume was contributed by the bigger ones, which are major distribution
+               companies, those who are buying and some of the big C&I consumers, those who were buying.
+               Now with the new policy being in place, it is impacting the volume and precisely for this reason,
+               we have seen the volume going down drastically.
+
+
+               But many of these buyers are sitting on the fences. They are watching the market. They are
+               observing the prices. And suppose there is further correction in the prices, we expect some of
+               these to come on the market and start buying again.
+
+
+Bharani V:     Understood. So, the answer is 80% of FY26 volumes contributed by designated consumers…
+
+
+Rohit Bajaj:   Yes.
+
+
+Bharani V:     Who will probably not be buying in the market right now? Okay.
+
+
+Rohit Bajaj:   So, I won't say they are not being buying, but yes, the buying has reduced a lot. And some of
+               them are sitting and waiting for the right prices. If there is correction in prices by another 10%-
+               15%, possibly some of this will start to buy.
+
+
+Bharani V:     Sure. One last question. What is the status of the appeal or case which is sub-judice in Supreme
+               Court that we have filed for?
+
+
+                                         Page 8 of 18
+
+                                                                                   Indian Energy Exchange Limited
+                                                                                                 October 30, 2026
+
+Satyanarayan Goel:   I think Mr. Rohit in his opening address, he mentioned that Supreme Court has already said that
+                     this is premature now because coupling cannot be implemented by this order of CERC. Coupling
+                     can be implemented only by the regulations. So IEX will be aggrieved only as and when the
+                     regulations are issued.
+
+
+                     So, they have said that, and if you are not satisfied with the regulations, you can approach the
+                     appropriate authority against the regulations, including all the grounds which were raised in the
+                     appeal.
+
+
+Bharani V:           Understood. Thank you so much.
+
+
+Moderator:           Thank you. The next question is from the line of Sumit Kishore from Axis Capital.
+
+
+Sumit Kishore:       Good afternoon. My first question is that as FDRE and storage push continues, energy transition
+                     and new market models have contributed how much to your electricity traded volumes in Q2
+                     FY27, say, versus Q2 FY26, if you could give us some sense? Basically, the idea is to understand
+                     how will growth in volumes linked to new market models evolve over the next 2 years? And
+                     how does this impact IEX? That's the first question.
+
+
+Satyanarayan Goel:   See, if you look at the increase in volume in the RTM market, it is continuing from the last 2, 3
+                     years at a very high rate. This year also, our RTM volume have increased significantly. And in
+                     the RTM segment, quite a good part of it is from the renewable generators, renewable power
+                     supply. It is very difficult to segregate whether it is from the FDRE contracts or from the solar
+                     or wind contracts. But definitely, a good part of the volume growth is happening because of the
+                     renewables.
+
+
+                     And as the energy transition takes place, I'm sure exchanges will have a very important role to
+                     play because we have seen this whenever there is a variability in the power generation,
+                     exchanges play a very important role. –It has happened in other countries. And in India also, we
+                     are sure we will have an important role to play and the volumes will keep on increasing.
+
+
+Rohit Bajaj:         I will add something here. See, on the basis of our discussions with various developers, we have
+                     observed that when you are signing PPA for an FDRE contract, you have to create huge
+                     additional capacity. In some of the cases, this is 4x, 5x of the energy that you want to deliver as
+                     per the profile given in the FDRE contract. So there is a lot of excess capacity is created there,
+                     and this capacity is quite volatile. It is not a fixed quantum.
+
+
+                     So there is no way you can enter into another PPA to sell this contract. So what you do is
+                     wherever there is surplus generation, you bring that on the exchange platform. Similarly, on the
+                     BESS, if you see, out of the capacity which has been commissioned till now, about 4 gigawatt
+                     of capacity which is there in the country, majority of that capacity is created under merchant
+                     route.
+
+
+                     Now this is very different from what we have seen in case of thermal capacity addition, or for
+                     that matter, renewable capacity addition. So developers are seeing value in the markets. They
+
+
+
+                                               Page 9 of 18
+
+                                                                                  Indian Energy Exchange Limited
+                                                                                                October 30, 2026
+
+                     are creating this capacity and then bringing it on exchange and trying to take best arbitrage which
+                     is available.
+
+
+Sumit Kishore:       Yes. So the exchanges can accommodate, how much of this merchant trade? Will the arbitrage
+                     weaken or will it remain strong for the next two years, three years?
+
+
+Rohit Bajaj:         See, the gap is huge when you compare daytime prices and the evening prices. There is huge
+                     gap and shortage that we have seen particularly this year has been very high. Deficit has been
+                     very high. So there is a lot of room available in the exchanges to absorb the arbitrage play which
+                     is there for BESS plants. And one more thing is today FDRE has become possible, or merchant
+                     BESS has become possible, because there are liquid markets already in place.
+
+
+                     So if you do not have this market available, you cannot think of having FDRE contracts or
+                     merchant-based contracts.
+
+
+Sumit Kishore:       Sure. My second question is on IGX, ICX. So basically IGX, Q2 performance has been quite
+                     good. In fact, more than half the profit of FY26 in just one quarter. What is the outlook on growth
+                     in volume for FY27, FY28, FY29? And similarly for ICX, you had a profit of INR4.7 crores in
+                     FY26. What is the profit in first half of this year and what is the outlook?
+
+
+Satyanarayan Goel:   Our exchange IEX, we have been growing at a rate of almost about 14%-15%, and I am sure
+                     this year we should achieve a growth rate of 15%. IGX also has done as far as the volumes are
+                     concerned, I think the volume growth is almost about 70% in the first half of the year. And the
+                     demand from the power sector was quite high. So in the second half also, we expect a reasonably
+                     good volume growth.
+
+
+                     So overall, I think IGX should be able to achieve 40%-50% of volume growth on a year-to-year
+                     basis. ICX, there we are only doing the registry of I-RECs and there I think a growth of almost
+                     about 20%-25% in the revenues would happen.
+
+
+Sumit Kishore:       Is there any profit number for ICX for first half of the year?
+
+
+Satyanarayan Goel:   ICX, Yes. Vineet?
+
+
+Vineet Harlalka:     First half year profit is INR2.7 crores.
+
+
+Sumit Kishore:       Okay, thank you, and wish you all the best.
+
+
+Moderator:           Thank you. The next question is from the line of Saksham Tyagi from Desvelado Advisory.
+                     Please go ahead.
+
+
+Saksham Tyagi:       Hi, am I audible?
+
+
+Satyanarayan Goel:   Yes, we can hear you.
+
+
+
+
+                                             Page 10 of 18
+
+                                                                                 Indian Energy Exchange Limited
+                                                                                               October 30, 2026
+
+Saksham Tyagi:       Okay, thanks for the opportunity, Sir. My first question is that since we are expecting the peak
+                     demand of 388 gigawatt by 2032, right, so how are we planning to fulfil that demand? Like, how
+                     are we approaching towards that?
+
+
+Satyanarayan Goel:   There is a lot of capacity addition which is planned, which is in the pipeline, and I am sure we
+                     should be able to meet that because government is already taking action on that. All this planning
+                     work is going on. I think almost about 80 gigawatt of thermal capacity is under construction.
+                     Similarly for batteries, BESS, also under the viability gap funding scheme, BESS of 43 gigawatt
+                     is already awarded. And then many of the States have also awarded Battery Energy Storage
+                     Systems. Under the merchant route also many of the IPPs are awarding it. So we expect by 2032
+                     battery itself will be more than 100 gigawatts. So all these things should be able to meet the
+                     demand.
+
+
+Saksham Tyagi:       Okay, Sir, understood. And so my second question is on the AI adoption. Like, as you mentioned
+                     in the investor presentation, like, almost everything related to AI adoption is in progress
+                     currently. So I just wanted to get an insight on the progress so far. Like, where have we reached
+                     so far in building these AI bidding assistants, or you can say AI chatbots, etcetera? Like, where
+                     do we currently stand? And also, what's going to be the impact once these AI adoption has been
+                     completed?
+
+
+Rohit Bajaj:         Yes. So this is one area where we, in fact, we have been working for a couple of years now.
+                     Certain things have been delivered and certain things are in the pipeline. So our wish list, the
+                     things which we are working upon, is that we are creating AI bidding assistant for DISCOMs.
+                     The work is under progress where there would be an agent sort of a thing which will help them
+                     in placing their bid and it would be seamlessly connected with our systems.
+
+
+                     So we already have APIs in place, and with the help of APIs and on the other end having
+                     assistants, we would be able to get them on board very smoothly. Similarly, there are automated
+                     solutions which are being created for customers, including industrial users, where they can take
+                     advantage of these things and integrate with us on a seamless basis.
+
+
+                     Another important thing here is data has big role. And through our web portal already many of
+                     the participants, are able to see that data and they can use this data in taking decisions with
+                     regards to putting price on the bids. So they are already using it and there is no end to the
+                     innovation on the data side. We are constantly working on it and ensuring that more and more
+                     analytics can be shared with the customers, and then they should be able to take advantage of
+                     these things.
+
+
+                     So the list is long, but these are some of the points which will give you some idea on which
+                     direction we are working on the AI as well as on the data side.
+
+
+Saksham Tyagi:       Okay, sir. Understood. Thank you very much.
+
+
+Moderator:           Thank you. The next question is from the line of Harsh. Please go ahead.
+
+
+Harsh:               Hello, am I audible?
+
+                                             Page 11 of 18
+
+                                                                                 Indian Energy Exchange Limited
+                                                                                               October 30, 2026
+
+Satyanarayan Goel:   Yes, loud and clear.
+
+
+Harsh:               Yes, so I just wanted to know this quarter we saw a lot of growth in our DAC and Term Ahead
+                     markets, so I just wanted to know what can that be attributed to?
+
+
+Satyanarayan Goel:   DAC and ITD volume growth happens basically in the second quarter. The second quarter this
+                     year the monsoon was weak, so there was a lot of uncertainty and people wanted to secure power,
+                     so they bought that power under the ITD and DAC.
+
+
+Harsh:               Okay, and in terms of the different markets that we have, what is the scope of one market
+                     cannibalizing volumes from other markets? So let's say if coupling happens in the day-ahead
+                     market, then what is the scope of some of that volume shifting to the Real-Time Markets instead
+                     of going to other exchanges maybe?
+
+
+Satyanarayan Goel:   See, if you see we introduced Real-Time Market in June 2020, and if you see (compare) growth
+                     of volume in the Real-Time Market and growth of volume in the DAM market, DAM market
+                     volume growth is hardly about 4%, 5%, 2%on CAGR basis . And in the RTM market, the volume
+                     growth is almost about 30%-35% on CAGR basis. So RTM market volumes are growing at a
+                     significant rate, and with high renewable, I am very sure that RTM market volume will further
+                     continue to increase. So RTM is as of now, in the first seven months of the year, RTM volume
+                     is far more than the Day-Ahead Market volume. I am sure in future also. Today the RTM volume
+                     is about 41% of the total volume and DAM is only 35% of the total volume.
+
+
+Harsh:               So my question was more about, is this volume gain happening organically or is there some
+                     component of RTM markets eating away some of Day-Ahead Market volume?
+
+
+Satyanarayan Goel:   Yes, some shifting is definitely happening because before 2020 the growth was in the Day-
+                     Ahead Market only. Now the growth is happening in the RTM market because many of the
+                     buyers are shifting to the RTM market. RTM market prices are always lower than the Day-
+                     Ahead Market price. And in the RTM market, the sellers are desperate sellers, so the prices are
+                     lower, and then you can do a better estimate of your demand and meet the demand. So the trend
+                     is that.
+
+
+Harsh:               And if there was to be coupling in the Day-Ahead Market, hypothetically, then is there a chance
+                     of, buyers simply shifting from day-ahead to RTM on our exchange instead of going to other
+                     exchanges? What are the chances of something like that happening?
+
+
+Satyanarayan Goel:   See, I think in the earlier call also we have explained that in the last two years, three years we
+                     have done a lot of activities in the company to ensure to retain the buyers with the exchange.
+                     And we have done a lot of use of technology also. We have done a lot many developments,
+                     customer interactions, product development, API integration. So with all that, I am sure that we
+                     do not apprehend any shifting of buyers from IEX to the other exchanges.
+
+
+                     And shifting from DAM to RTM, this is all basically based on the price and availability of
+                     power. So I do not think coupling has any role to play in this. But one thing I can tell you, in
+                     time to come RTM will definitely have a better role to play and the volume growth in RTM will
+
+                                             Page 12 of 18
+
+                                                                                    Indian Energy Exchange Limited
+                                                                                                  October 30, 2026
+
+                     be more. And coupling in RTM is definitely going to be challenging. Earlier also (in RTM) when
+                     we had 15 minutes of bidding time and 15 minutes of market clearing time, the timelines were
+                     tight. Now as per CERC staff, if the bidding time is reduced to five minutes and clearing time to
+                     ten minutes from 1st of April (2027), I think the timelines will be further tight.
+
+
+Harsh:               Okay. Understood, thank you.
+
+
+Moderator:           Thank you. The next question is from the line of Akshit Shetty, an individual investor. Please
+                     go ahead.
+
+
+Akshit Shetty:       Good afternoon, Sir, and thank you for taking my question. So my first question is related to
+                     settlement funds and treasury income. I see that as of 30th September 2026, standalone
+                     investment stood at around INR2,170 crores compared with the shareholder equity of
+                     approximately INR1,388 crores. And the current other financial liabilities were around
+                     INR1,051 crores, largely comprising settlement obligation and members' margin deposit.
+
+
+                     So with inter-exchange settlement under market coupling and the proposed separation of
+                     clearing function also being discussed. So could you clarify how much of this investment corpus
+                     and other income is linked to this member fund? And might this development affect the treasury
+                     investment and interest income going forward?
+
+
+Satyanarayan Goel:   So Mr. Vineet Harlalka will respond to this question, but one clarification I would like to give
+                     you. There is no proposal of separating clearing function from the exchange. The clearing
+                     function will continue clearing and settlement will continue to happen the way it was happening.
+                     Okay? Vineet?
+
+
+Vineet Harlalka:     Look, there are the two components as you have said, one is the shareholders fund and one is
+                     the flow of funds from the trading margin and the settlements obligation. So the treasury returns
+                     is a composition of all these things. And second, the market, how the money market is behaving,
+                     what is the interest rate cycle around the market sentiment.
+
+
+                     To predict how much these numbers will be there will be quite difficult. But looking at the way
+                     the volumes and all the things are going, and presently it is in the range of 15% to 18%, so we
+                     think the treasury income should be remaining in that that range. And we are hopeful and we try
+                     to get the maximum value out of the investment.
+
+
+                     And regarding how much this float is going to remain, it will totally depend because the float
+                     we do not control. It totally is (dependent on) the market role. So what is that price trading, the
+                     volumes and all. So it will be depending upon that structure only. And returns will be mainly
+                     market driven because we invest in the market securities and the money market components. So
+                     that is (depending on) how the market behaves we will try to get value out of it.
+
+
+Akshit Shetty:       Okay, fine, got it. I have another question related to DISCOM. So I see that DISCOM account
+                     for around 80% to 85% of purchases on IEX. And could you share how much of your large
+                     DISCOM buyers or the trading member bidding on their behalf? I mean are already registered
+                     or active on other power exchanges. Also, in the term-ahead market where IEX market share is
+
+                                             Page 13 of 18
+
+                                                                                    Indian Energy Exchange Limited
+                                                                                                  October 30, 2026
+
+                     lower, what are primary drivers of buyer choice on exchange? I mean liquidity, transaction fees,
+                     or rest of this relationship?
+
+
+Rohit Bajaj:         So you are right in saying so. DISCOMs or distribution utilities are the major buyers. They are
+                     contributing to about 80% of the total volumes on the buy side that is being done. Majority of
+                     them are participating directly. Except for few DISCOMs, all of them are our members and they
+                     themselves participate. They do not participate through any of the trader member as such. So
+                     you also wanted to know about who are the big participants?
+
+
+Akshit Shetty:       Yes.
+
+
+Rohit Bajaj:         It changes with the season. Now in Q2 particularly, where the demand in the Southern region
+                     was very high, all the Southern region participants were buying very heavily. Then all the big
+                     states like Maharashtra, Gujarat, UP, Rajasthan, they are also regular buyers. Top five, it keeps
+                     on changing depending on the season, depending on the month, depending on their requirement.
+                     But generally, top ten are the top big States which are there in the country. They are generally
+                     the biggest buyer. Second thing you wanted...
+
+
+Akshit Shetty:       Yes. Please continue.
+
+
+Rohit Bajaj:         Okay. So second thing you wanted to know about TAM. TAM, our market share is lower. It
+                     hovers around 35% and it has been there for many years. The point there is that it is not
+                     dependent on the DISCOMs as such. It is being done by, generally the distribution companies,
+                     they have tendency to put something everywhere in all the exchanges. And then, as you know,
+                     this is not a very highly liquid market. Wherever there is a participation, it gets through. So that's
+                     the reason why it is spread across all the exchanges and ….
+
+
+Satyanarayan Goel:   And in fact, you know, Day-Ahead Market and Real-Time Market are our flagship products. So
+                     we are concentrating more on these products than in the TAM market.
+
+
+Akshit Shetty:       Okay. Got it. Okay, Sir, thank you for answering my questions.
+
+
+Moderator:           Thank you. The next question is from the line of Abhishek Sinha from Bodh Capital. Please go
+                     ahead.
+
+
+Abhishek Sinha:      Yes, I hope I am audible.
+
+
+Satyanarayan Goel:   Yes.
+
+
+Abhishek Sinha:      So my question is about capital allocation. In January '23, the board bought back shares in the
+                     open market. I think the price was close to around INR200. And the profit, FY23 profit itself
+                     was around INR300 crores. This year we should be doing double the profit, mostly close to that,
+                     and the (stock) price is nearly half. So I wanted to understand the direction that the board is
+                     taking in terms of distributing the cash, because I am assuming, removing the members' margin
+                     money also, we should have around INR1,000 crores odd plus of cash in hand. So I would like
+                     some inputs on that?
+
+
+                                              Page 14 of 18
+
+                                                                                  Indian Energy Exchange Limited
+                                                                                                October 30, 2026
+
+Vineet Harlalka:     So we had been regularly paying around 60%-65% of our profits as a dividend, and the float
+                     money definitely is something which is regulated as per the rules and bylaws and the CERC
+                     regulations. It cannot be done. Regarding the market side, the board always looks at what is the
+                     best value we can create for our stakeholders.
+
+
+                     And that's how we are distributing 65% of the profit. And going forward also, we will look into
+                     it. regarding the surplus cash, we are looking and exploring all the options. As in the AGM
+                     speech also, the Chairman had said that. So we look at the best possible options to create value
+                     for the stakeholders.
+
+
+Satyanarayan Goel:   Buyback, yes, the price is low and we will definitely consider this option also. So we will
+                     evaluate all the options and whatever is best in the interest of shareholders, we will use that.
+
+
+Abhishek Sinha:      All right, thank you.
+
+
+Moderator:           Thank you. The next question is from the line of Piyush Garodia from Smart Sync Services.
+                     Please go ahead. Hello, Sir. The current participant seems to have disconnected. The next
+                     question is from the line of Ronak Singhvi from NAFA Asset Managers. Please go ahead.
+
+
+Ronak Singhvi:       Hello, am I audible?
+
+
+Satyanarayan Goel:   Yes.
+
+
+Moderator:           Yes, sir.
+
+
+Ronak Singhvi:       So, I wanted to have your comments on the CERC draft regulations on cutting the ceiling price
+                     of INR0.02 per unit to INR0.015 flat fixed rate on Term-Ahead market.
+
+
+Satyanarayan Goel:   There isno draft regulation on this.
+
+
+Ronak Singhvi:       Okay. So it's just on development work.
+
+
+Satyanarayan Goel:   No, no, we haven't heard anything about this.
+
+
+Ronak Singhvi:       Okay. So what different does it make if the volume is shifting from DAM to RTM, like,
+                     considering IEX revenue, like, how does it differ from our revenue?
+
+
+Satyanarayan Goel:   No. See, DAM and RTM both are our flagship products, and we have large market share in these
+                     products. So it doesn't really matter to us if the volume is shifting from DAM to RTM.
+
+
+Ronak Singhvi:       So like per unit of volume based only is our transaction charges right?
+
+
+Satyanarayan Goel:   Transaction fee same in both DAM and RTM.
+
+
+Ronak Singhvi:       Okay. Got it. Thank you, sir.
+
+
+Moderator:           Thank you. The next question is from the line of Sandeep Saleria, an Individual Investor. Please
+                     go ahead.
+
+                                             Page 15 of 18
+
+                                                                                  Indian Energy Exchange Limited
+                                                                                                October 30, 2026
+
+Sandeep Saleria:     Hello, am I audible?
+
+
+Satyanarayan Goel:   Yes, you are audible. Speak slightly loud.
+
+
+Sandeep Saleria:     Yes, thank you for the opportunity. So my question is regarding the capital allocation. I think
+                     this was asked earlier, but I just want to give my couple of pointers. See, as CIO, if an
+                     independent power exchange asset with a market position and robust cash generation growth
+                     runway, if it was trading in the open at today's compressed valuations, would you consider it as
+                     a compelling acquisition target to deploy capital into?
+
+
+                     So if the answer is yes, then I do not understand why the management is hesitant to treat IEX's
+                     own stock as a very opportunity for a share buyback. So this is the first question. So what are
+                     the specific hurdles or cash prevention requirements are currently holding us back to be
+                     opportunistic at these levels?
+
+
+Satyanarayan Goel:   Share buyback, as I told you, that we are definitely evaluating this and we will consider this. So
+                     this option is open. We are working on this.
+
+
+Sandeep Saleria:     Thank you. And second question. Yes, please
+
+
+Vineet Harlalka:     Because there was a lot of changes in the tax buybacks (laws) a couple of years back, so it was
+                     totally not that incentivizing the stakeholders. That was the reason the buyback (was not done
+                     earlier). In the past we had done buybacks earlier also, so that has been one of the options we
+                     have always explored. But considering the changes now, all the things have been re-backed, re-
+                     bought back for creating value for the buybacks. That's what we are considering, and we will
+                     definitely put that before as and when the board decides that.
+
+
+Sandeep Saleria:     Yes, it's a depressed valuation. I think it's a great opportunity because the business is running
+                     great. Sir, second question is on API integration, right? So, I am also from a technological
+                     background, and now can you please explain how tightly integrated we are with DISCOMS? I
+                     think the market is not giving us right valuation and they are thinking like it's like booking Uber
+                     and Ola, people can just migrate DISCOMs and start just ordering from other exchanges. I think
+                     we are tightly integrated, aren't we, through APIs? They are using our APIs, the DISCOMs. Can
+                     you please explain a bit more on that?
+
+
+Rohit Bajaj:         Yes. So see, there are 2 interfaces that we have with our customers, with our members. Now one
+                     is for the purpose of bidding and the second is back-office integration. Now back office is for
+                     the purpose of linked with their SAP system or any other system that we have and for
+                     reconciliation and reporting and all other purposes. So what we have done in last 2-3 years is
+                     with all our major customers, we have integrated both on the front end as well as on the back
+                     office. Back-office integration has been completed.
+
+
+                     So which means that when they have their own system of calculating for every time block, how
+                     much surplus or deficit they have, every distribution utility or every member will have their own
+                     system where they do certain calculations, they have their models, where they figure out what
+                     sort of quantity they want to buy and they want to buy at what price.
+
+                                             Page 16 of 18
+
+                                                                                   Indian Energy Exchange Limited
+                                                                                                 October 30, 2026
+
+                     So API integration means that our system is linked to that system, which means we fetch
+                     whatever is the decision of their model, we fetch it directly in our system, and we convert it into
+                     bids and fetch it directly into our systems. That's on the front end. And as I mentioned, the back
+                     office integration where our system is linked to them so that all the reconciliation part, reporting
+                     part, settlement part is being done cohesively.
+
+
+                     So these are the 2 things which we have done. And majority of our volume, large chunk of our
+                     volume is coming through these APIs, is being handled through these APIs.
+
+
+Sandeep Saleria:     Yes. So just a quick comment, because I come from an IT background itself and I know how
+                     hard it is for an organization to move just to, from one system to the other system because the
+                     user training and everything. So we are basically quite tightly integrated, I can tell that. I really
+                     appreciated.
+
+
+Rohit Bajaj:         Absolutely.
+
+
+Moderator:           Thank you. The next question is from the line of Rohan Gheewala from Axis Capital. Please go
+                     ahead.
+
+
+Rohan Gheewala:      Thank you. Just two quick questions. Firstly, if you can please share what was the market share
+                     of IEX in DAM and RTM segment in second quarter?
+
+
+Satyanarayan Goel:   Yes, our market share in DAM and RTM is always 99(%) plus. So maybe it is 99.2, 99.3, or
+                     maybe that kind of a number.
+
+
+Rohan Gheewala:      Okay. And secondly, for the second half of this fiscal, is the REC volume likely to remain the
+                     same band as H1, or how do you look at it?
+
+
+Satyanarayan Goel:   It is very difficult to say about the REC volume because REC is no more a significant revenue
+                     creator for IEX. In the market also, REC volumes have reduced in other exchanges also because
+                     of this buyback option which has been given by the Government now. A utility at the end of the
+                     year, if there is a shortage, they will say that, okay, we will deposit the money and comply with
+                     that. And that amount also is, I think, about INR0.35. So REC prices are also around INR310,
+                     INR320, INR330. So they do not see much value in buying the RECs at the moment.
+
+
+Rohan Gheewala:      Thank you.
+
+
+Moderator:           Thank you. That was the last question for today. I now hand the conference over to the
+                     management for closing remarks.
+
+
+Rohit Bajaj:         Thank you, friends. I would like to thank each one of you for being part of today's call.
+                     Throughout the first half of FY27, we witnessed efforts from the Government and regulators to
+                     establish a favorable policy and regulatory climate to develop the energy sector. We at IEX
+                     remain committed to contribute to the development of a sustainable and energy-efficient future
+                     for India. Thank you so much. Have a wonderful evening.
+
+
+
+
+                                             Page 17 of 18
+
+                                                                     Indian Energy Exchange Limited
+                                                                                   October 30, 2026
+
+Moderator:   Thank you. On behalf of Axis Capital Limited, that concludes this conference. Thank you for
+             joining us, and you may now disconnect your lines.
+
+
+
+
+                                   Page 18 of 18
+

@@ -1,0 +1,1523 @@
+Date: November 06, 2026
+
+ To,
+ Listing Department                                                                               Department of Corporate Service
+ National Stock Exchange of India Limited                                                         BSE Limited
+ Exchange Plaza, C-1, G Block, Bandra Kurla Complex,                                              Phiroze Jeejeebhoy Towers,
+ Bandra (East), Mumbai - 400 051.                                                                 Dalal Street, Mumbai - 400 001.
+ Symbol: SYRMA                                                                                    Scrip Code: 543573
+
+
+Subject: Earnings Call transcript of the Investors Conference Call held for the unaudited
+Financial Results (Consolidated and Standalone) of the Company for the quarter and half
+year ended September 30, 2026.
+
+
+Dear Sir/ Madam,
+
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find attached the Transcript in respect to the Earning Conference Call on
+the unaudited Financial Results (Consolidated and Standalone) of the Company for the quarter and
+half year ended September 30, 2026, held on Monday, November 02, 2026, at 10:30 AM (IST).
+
+The transcript of the conference call will also be accessed at the website of the Company at
+https://www.syrmasgs.com/investor-relations .
+
+We request you to take the same on your record.
+
+For Syrma SGS Technology Limited
+
+BHABAGRAHI            Digitally signed by BHABAGRAHI PRADHAN
+                      DN: c=IN, postalCode=110030, st=DELHI, street=UG 1 ROYAL GREEN APPARTMENT
+                      BLOCK B ,PROPERTY NO 892-A 5 WORD NO 8 ,SOUTH DELHI,NEAR TEMPO STAND
+                      ANDHERIA MORE ,110030, l=SOUTH DELHI, o=Personal,
+                      serialNumber=0a477eabe66fa3406d0663a66af00220d71fdf833acd27d9fbe3f5c41fa
+
+
+
+PRADHAN
+                      d29dc, pseudonym=21bd9e0c1f164131871050fdf9e707e4,
+                      2.5.4.20=aaf2ced6cb9d0171501046d3c89e30a176e6fbd266c7782bfdb42a0e541283
+                      82, email=BHABAG.PRADHAN@GMAIL.COM, cn=BHABAGRAHI PRADHAN
+                      Date: 2026.11.06 15:52:08 +05'30'
+
+
+
+Bhabagrahi Pradhan
+Company Secretary & Compliance Officer
+M. No.: F4921
+Place: Gurgaon
+
+             “Syrma SGS Technology Limited
+         Q2 FY27 Earnings Conference Call”
+
+                    November 02, 2026
+
+
+
+
+MANAGEMENT: MR. J. S. GUJRAL – MANAGING DIRECTOR – SYRMA
+            SGS TECHNOLOGY LIMITED
+            MR. JAYESH DOSHI – WHOLE-TIME DIRECTOR –
+            SYRMA SGS TECHNOLOGY LIMITED
+            MR. JAIDIT SINGH BRAR – CHIEF EXECUTIVE
+            OFFICER – SYRMA SGS TECHNOLOGY LIMITED
+            MR. BIJAY AGRAWAL – CHIEF FINANCIAL OFFICER –
+            SYRMA SGS TECHNOLOGY LIMITED
+            MR. NIKHIL GUPTA – INVESTOR RELATIONS – SYRMA
+            SGS TECHNOLOGY LIMITED
+MODERATOR:     MR. SHALIN CHOKSY – JM FINANCIAL INSTITUTIONAL
+               SECURITIES LIMITED
+
+
+
+                          Page 1 of 24
+
+                                                                              Syrma SGS Technology Limited
+                                                                                        November 02, 2026
+
+Moderator:       Ladies and gentlemen, good day and welcome to Syrma SGS Technology Limited Q2 FY27
+                 Earnings Call hosted by JM Financial Institutional Securities Limited. As a reminder, all
+                 participant lines will be in the listen-only mode and there will be an opportunity for you to ask
+                 questions after the presentation concludes. Should you need assistance during the conference
+                 call, please signal an operator by pressing star then zero on your touch-tone phone. Please note
+                 that this conference is being recorded.
+
+
+                 I now hand the conference over to Shalin Choksy. Thank you and over to you, sir.
+
+
+Shalin Choksy:   Thank you, Saisha. Good morning, everybody. On behalf of JM Financial Institutional
+                 Securities, I welcome you all to the Q2 FY27 Earnings Call of Syrma SGS. We have the
+                 senior management of the company joining us today morning.
+
+
+                 And I will now hand over to Mr. Nikhil Gupta:, Head of Investor Relations, to take the call
+                 forward. Thank you and over to you, Nikhil.
+
+
+Nikhil Gupta:    Yes. Thank you, Shalin. A very good morning to all of you. On behalf of Syrma SGS family,
+                 we welcome you all to the Syrma SGS Quarter 2 and Half Year Fiscal Year 2027 Earnings
+                 Call. We have with us today: Mr. J.S. Gujral, Managing Director; Mr. Jayesh Doshi, Whole-
+                 Time Director; Mr. Jaidit Singh Brar, Chief Executive Officer; and Mr. Bijay Agrawal, Chief
+                 Financial Officer, Syrma SGS; to discuss the performance of the company during the second
+                 quarter and half year fiscal year 2027 followed by a detailed question-and-answer session.
+
+
+                 Kindly note during the call, certain statements that will be made are forward-looking, which
+                 involve several risks, uncertainties, assumptions and other factors that can cause results to
+                 differ materially from those in such forward-looking statements.
+
+
+                 All forward-looking statements made herein are based on the information presently available
+                 to the management and to the company and the company does not undertake to update any
+                 forward-looking statements that may be made during this call. In this regard, we request you
+                 to kindly review the disclaimer statement in the earnings release and all those factors that can
+                 cause the difference.
+
+
+                 With this, I'll now hand over the call to Mr. J.S. Gujral, Managing Director of Syrma SGS.
+                 Thank you. Over to you.
+
+
+J.S. Gujral:     Good morning, everyone. A pleasure to speak to you for the Q2 FY27 and H1 FY27 earnings
+                 call. The quarter gone by has been very, very satisfying and almost on all the parameters
+                 whatever we had guided, we have either delivered better performance or almost the
+                 performance which we had committed. The most significant and satisfying aspect to the
+                 management is that a 71% growth has been achieved while maintaining fiscal hygiene. I
+                 think that's the most critical factor for us.
+
+
+                 We had a negative operating cash flow in Q1 and, as committed, we sort of see from the
+                 prism of 1 year, this quarter we have turned positive and we generated INR120 crores of
+                 positive operating cash flow, which is approximately 30-odd percent of EBITDA and that's
+                 what we have committed to everyone. Another very heartening factor is that in H1 of FY27,
+
+
+                                           Page 2 of 24
+
+                                                              Syrma SGS Technology Limited
+                                                                        November 02, 2026
+
+we have almost surpassed all the figures of FY25. In FY25, we had revenue from operations
+INR3,787 crores. This time it's about INR3,578 crores.
+
+
+EBITDA was INR324 crores for full FY25; for this half year, it is INR355 crores. PAT was
+INR184 crores, this year it is INR230 crores. Export was INR854 crores, in H1 we are
+INR901 crores. ODM: it was INR453 crores in FY25, it's INR591 crores. So on all the
+qualitative aspects, we have surpassed what we did in FY25 in H1 and this gives us the
+confidence to revise our guidance upwards that we would be able to deliver 40% to 45%
+growth this year on an annualized basis, which would translate into around INR7,000 crores
+of revenue.
+
+
+And we recommit or reaffirm that this revenue growth will be achieved maintaining the fiscal
+discipline. Last quarter my net working capital had gone up to about 71 days. It has come
+down back to 63 days. And with this, we are confident that next year, that is FY28, we
+should be able to cross the $1 billion revenue mark in revenues.
+
+
+The second effect, which the management has seen drop is the supply chain constraint which
+the industry is facing today and whenever there are supply chain constraints, it has a cost
+push effect. We have pass-through mechanisms with all customers, but we don't get a value-
+add on the cost push and that results in slight dilution in the margin profile.
+
+
+The absolute figure is being maintained, but the margin profile does take a small hit because
+you get the same value addition on a higher base of the cost push. All our projects of
+diversification, backward integration be it the PCB project, the camera module project, the
+magnet project; they have all been sort of initiated the construction and commissioning.
+
+
+The major one which will have a significant impact in the long run on our -- a positive
+impact rather on our revenues and margin profile is the PCB project. It is on stream and we
+expect as we had committed to power on the equipment by March, start the trial production.
+
+
+It takes about 3 to 6 months to get all the quality certifications, customer approvals and all
+those things. So that by about September of '27, we should start the volume production. This
+would result in '28-'29 a significant bump up in our margin profile because PCB project is
+comparatively margin accretive.
+
+
+Exports, as we have always been maintaining, are one of the corner stones of our growth
+strategy and exports is in the DNA of Syrma SGS. We have been exporting for 35-plus years
+or 40-plus years. And exports have grown significantly. We expect this year that exports
+should cross the INR1,700 crores mark.
+
+
+We had estimated at the start of year it will be about around INR1,600 crores -- anything
+between INR1,500 crores to INR1,600 crores on a base of INR1,200 crores in FY26. If we
+achieve and I'm very confident that we'll achieve the INR1,700 plus crores mark, next year it
+should give us a INR2,000 crores in exports.
+
+
+We have beefed up our marketing presence in U.S.A. and going forward, I think we'll see a
+slightly higher trajectory on a sustained basis in export growth. This year they have been
+
+
+                         Page 3 of 24
+
+                                                                                Syrma SGS Technology Limited
+                                                                                          November 02, 2026
+
+                 phenomenally at about 71% growth this year versus 41% last year versus 31% in FY25.
+                 Another thing which the management has sort of shared with the Street that we would like to
+                 increase the ODM part of our revenue.
+
+
+                 While the percentage is remaining stagnant because my non-ODM revenue is also showing a
+                 very strong increase, what gives us the satisfaction is that the ODM revenue in H1 FY27 is
+                 INR591 crores versus INR273 crores of the H1 previous year, which is 117% growth.
+
+
+                 Last year we did ODM revenue of INR825 crores. So in all probability and certainty, we'll be
+                 crossing the INR1,000 crores to INR1,100 crores mark in the ODM revenue. So, all these are
+                 projects which have a longer gestation and I think they have started bearing fruit now. And
+                 going forward, we are very confident that we would be able to: a, grow at 30%, 35% for the
+                 next 3 to 5 years on a larger base, lower export base. This half year my EBITDA margin is a
+                 tad lower than 10%. I expect the year to close at 10% to 10.5%.
+
+
+                 And going forward, that is '27-'28, with my margin accretive projects coming into stream, I
+                 expect that we should be anything between 10.5% to 11% or maybe marginally better than
+                 11%. I think we'll have more clarity once the supply chain constraints are eased out. And we
+                 expect that for the industry and the chambers and the trade that the supply chain constraints
+                 will remain for the next 5 to 6 months and are expected to ease out only in April to June of
+                 '27.
+
+
+                 On an overall basis, I think the company is on a solid footing and we have strived over the
+                 last 3 years to build a risk-mitigated model such that we are not dependent on any one
+                 vertical, any one geography, any one customer or major customers, which can sort of disturb
+                 the equilibrium of the growth. It's truly sort of risk mitigated in terms of exports accounting
+                 for about 26%. None of my customers accounting for -- 1 odd customer maybe about 12% to
+                 14%, but all other customers would be less than 10% of my revenue.
+
+
+                 Automotive, industrial consumers would continue to form the backbone. Healthcare,
+                 railways, whichever small way, will show higher trajectory of growth in terms of
+                 percentages; but the base being small, they would still contribute to sub 10% or 8% of our
+                 revenue. So, I think a very satisfying thing and full compliments to the team, which has
+                 strived to deliver these results with qualitative -- sort of keeping the qualitative factors into
+                 mind.
+
+
+                 With this, I hand over to Bijay to run you with all the details of financials and the finer points
+                 on the financials. Over to you, Bijay.
+
+
+Bijay Agrawal:   Thank you, sir. Good morning, everyone, and thank you for joining us for this quarter 2 and
+                 H1 FY27 earnings call today. I'll briefly walk you through our financial performance for the
+                 quarter and the first half of the year followed by our working capital position and capital
+                 allocation priorities.
+
+
+                 We have delivered another quarter of strong growth and robust numbers. The performance
+                 reflects the continued momentum across our diversified end markets and our focus on scaling
+                 the business while maintaining profitability and financial discipline.
+
+                                          Page 4 of 24
+
+                                                              Syrma SGS Technology Limited
+                                                                        November 02, 2026
+
+Let me start with the financial performance first. Our consolidated total revenue for quarter 2
+FY27 is approximately INR2,000 crores registering a strong year-on-year growth of 73% and
+sequential growth of 25%. Our consolidated total revenue for H1 '27 is INR3,603 crores
+representing a growth of 71% year-on-year.
+
+
+Operating EBITDA for quarter 2 increased by 68% to INR193 crores and for H1 it is INR355
+crores with a 68% growth on a Y-o-Y basis. Our EBITDA margin for H1 is 9.9% as
+compared to 10.1% last year and despite a slight in the operating EBITDA margin, our
+absolute profitability continues to increase substantially.
+
+
+PBT for the quarter is INR165 crores and for H1 is INR306 crores registering a strong 95%
+growth year-on-year basis for H1. Similar way, PAT for the quarter grew by 87% to INR124
+crores and for H1, it grew by 98% to INR230 crores.
+
+
+PBT margin improved from 7.4% to 8.5% and while PAT margin increased from 5.5% to
+6.4% when compared on a year-on-year basis. This improvement in the bottom line reflects
+the growth in operating profitability and the benefit of operating leverage into my financials.
+When we see the revenue growth, it was broad-based across multiple all the verticals.
+
+
+Automotive sector business recorded a revenue growth of 91% year-on-year basis, increasing
+its contribution to approximately 26% of operating revenue. We continue to see strong
+business momentum in this segment supported by our customer relationship and participation
+across multiple automotive platforms. The consumer business contributed approximately
+29% of our operating revenue for the quarter.
+
+
+Healthcare business grew by 61% year-on-year. This is actually a good margin business for
+us maintaining a stable contribution to overall business. Industrial business recorded a strong
+growth of 86% year-on-year and 31% sequentially.
+
+
+As highlighted in our previous call also, apart from automotive segment, we expect this
+segment should grow faster in the second half of this year. IT and railways also performed
+strongly while revenue growing by 69% year-on-year, 82% sequentially; its contribution
+increased to approximately 14% of our operating revenue during the quarter.
+
+
+Overall, the performance across our end markets demonstrate the benefit of our diversified
+business portfolio and this diversification remains important as we continue to expand our
+presence across industries and build capabilities in higher value manufacturing programs.
+
+
+Coming to export business. As highlighted by Mr. Gujral also, our export revenue increased
+by 91% year-on-year to approximately INR514 crores for the quarter and INR901 crores for
+H1 registering a growth of 80% year-on-year for H1. Our export performance reflects our
+increasing participation in the global supply chain and our availability to serve customers
+across broader range of customers and markets. Our ODM revenue for the quarter is INR322
+crores and for H1 it is INR591 crores registering a year-on-year growth of 117% for H1.
+
+
+Coming to customer concentration for H1. Our Top 5 customers contributed approximately
+38% of our revenue, Top 10 approximately 50% and Top 20 is contributing near about 66%
+
+
+                         Page 5 of 24
+
+                                                                             Syrma SGS Technology Limited
+                                                                                       November 02, 2026
+
+                of our revenue. Coming to order book visibility. As on September end, we are carrying an
+                overall open order book visibility position of INR7,420 crores. Of which; auto is
+                approximately 30%, consumer and industrial segment each is contributing approximately
+                24.5% to 25%, Healthcare is 8% and IT and railways is contributing 12% above. We remain
+                confident that the volumes continue to scale, newer programs mature and our operational
+                efficiencies will continue to improve our overall profitability over the medium term.
+
+
+                Moving to our working capital position and cash flow. Our net working capital cycle
+                improved to 63 days as of September '26 compared to 71 days in the previous quarter and 73
+                days as of September '25 on a year-on-year basis. This is an encouraging development
+                particularly in the context of ongoing supply chain constraints and still we have been able to
+                maintain disciplined working capital investments. During H1 FY27, our net operating cash
+                flows was approximately INR120 crores resulting into OCF to EBITDA conversion of
+                approximately 34% for the H1.
+
+
+                Coming to balance sheet position. Our balance sheet continued to remain healthy and support
+                our growth plans. As of September '26, we continued to maintain a net cash position of
+                INR258 crores supported by a strong healthy treasury balance position of approximately
+                INR1,000 crores and a gross debt position of INR746 crores. We continue to invest prudently
+                in capacity expansion, technology and manufacturing capabilities, strategic growth initiatives
+                while maintaining financial discipline.
+
+
+                During the quarter, we incurred approximately INR200 crores of capex, of which around
+                INR140 crores is towards the PCB project and balance towards other brownfield capabilities
+                enhancement across multiple units. Coming to our ROCE returns. The return for this period
+                H1 adjusted annual ROCE is 21.4% reflecting improving working capital productivity. Our
+                investments into the PCB projects are progressing. We have already spent more than INR200
+                crores for the project and expecting to spend another INR200 crores in the balance of the
+                year.
+
+
+                We continue to target a commercial production start of this facility by April '27. We remain
+                mindful of the importance of margin discipline, working capital management, cash
+                conversion cycle, capital efficiency as the business grows. Our priority is to deliver
+                consistent and profitable growth supported by operational excellence and disciplined capital
+                allocation and long-term customer partnerships.
+
+
+                With that, I would like to thank you all the investors and stakeholders for their continued
+                support. I'll now hand it over to the Moderator: to open the floor for questions. Thank you.
+
+
+Moderator:      Thank you very much. We will now begin the question-and-answer session. The first
+                question is from the line of Sameet Sinha from Macquarie.
+
+
+Sameet Sinha:   Congratulations. This has been an excellent in last few quarters. I have a couple of questions.
+                First is in terms of the ODM revenue, clearly that is a growth area for you as well as margin
+                accretive. Can you give us some more details on are you expanding ODM beyond your
+                Healthcare, medtech sort of vertical? Where else could it go? And what sort of products are
+
+
+                                         Page 6 of 24
+
+                                                                                 Syrma SGS Technology Limited
+                                                                                           November 02, 2026
+
+                  you developing for your customers? That's the first one.
+
+
+                  And then the second is can you talk about just the -- with your updated guidance for this
+                  year, it still kind of implies a slowdown in the second half, but second half is generally your
+                  seasonally the stronger part of the year. So can you help kind of meld the 2, please?
+
+
+J.S. Gujral:      So if I understood your first question was on the ODM part and the second was on the
+                  guidance for the full year. On ODM part, we continue to grow strongly in medtech, defense,
+                  in RFID and other parts of the business. It's a long gestation project. We are also developing
+                  ODM products for the industrial segment.
+
+
+                  Over the next 2 to 3 years, we'll see a significant bump in this. So ODM primarily will be in
+                  Healthcare, defense, power electronics, RFID and magnetics. As far as the revenue guidance
+                  is concerned, we have had a good half year and that gives us the confidence to revise the
+                  guidance up from the 35% to 45%, which means we should be touching or crossing the
+                  INR7,000 crores mark this year and $1 billion next year with a sort of resultant increase in
+                  the margins also and the margin profile.
+
+
+                  For the year ended March of '27, we expect the EBITDA margins to be anything between
+                  10% to 10.5%. And going forward we would see a further accretion in '27-'28 and '28-'29, as
+                  I said in my opening remarks, once the high margin accretive projects start yielding revenue.
+
+
+Sameet Sinha:     Right. I was just checking on it. I mean it implies the growth rate for the second half is much
+                  lower. Is that just conservatism because seasonally it's a better part or is it just a higher
+                  growth?
+
+
+J.S. Gujral:      On the demand side, we remain very bullish. The supply chain is still an area of concern.
+                  And what happens after the midterm elections, what happens in Middle East; these are all
+                  conjections. So I would rather sort of err on the side of caution. The dampening of the
+                  growth; which I'm saying that you are saying if you have grown at 71%, why you're saying
+                  45% for the full year; is essentially driven by your concerns on the supply chain which as of
+                  date doesn't seem to be easing out.
+
+
+                  It is expected to continue for the next 6 to 9 months. And what the analysts, the trade, the
+                  industry says somewhere in Q1 of FY28, we could see some stabilization or easing of the
+                  supply chain. So whatever we are guiding is keeping ourselves sort of conscious of the
+                  supply chain constraint not on the demand side. Demand side, we are very, very bullish.
+
+
+Moderator:        The next question is from the line of Aditya Bhartia from Investec.
+
+
+Aditya Bhartia:   Sir, again speaking on the revenue guidance itself. If we just analyze the second quarter
+                  revenue number, we get to almost INR8,000-odd crores of revenues for the full year. In just
+                  first quarter, we are still speaking about around INR2,600-odd crores of revenues. So is it
+                  that supply side challenges are further becoming more difficult versus what we have seen in
+                  the last few quarters?
+
+
+                  Because these concerns have been there and despite that, we've been kind of delivering
+
+
+                                            Page 7 of 24
+
+                                                                                    Syrma SGS Technology Limited
+                                                                                              November 02, 2026
+
+                     anywhere between 50% to 70% kind of revenue growth. So just trying to understand is it that
+                     scenario is getting more difficult or is it that you're just being aptly cautious?
+
+
+J.S. Gujral:         So there are 2 aspects to it. See, as we have all the time been saying, we don't work on
+                     quarter-on-quarter basis and a 71% growth in first half is because some of the orders of the
+                     customers have been front-loaded. So we expect that rationalization should come in.
+
+
+                     And coupled with the supply chain, we believe that delivering a 40%, 45% annual growth
+                     would be the target of the company. Now whether I deliver INR7,000 crores or INR7,500
+                     crores or INR7,400 crores; today it all depends on the supply chain.
+
+
+                     And because I may be ready with the product, but my customer may not have a component
+                     so his sale may not happen. If his sale doesn't happen, it has a ripple down effect on me. So I
+                     being the intermediary in a B2 business, I am blocked in by 2. My customer is ready, my
+                     supply chain is not ready, my sales suffer.
+
+
+                     I am ready, my customer is not ready, my sales suffer. Hence, taking all the things into
+                     account, we are guiding a 40%, 45% growth rate for the current full year, which would take
+                     us to INR7,000 crores plus. Bijay, would you like to add anything?
+
+
+Bijay Agrawal:       Sure. I'd like to. Aditya, while we have also previously communicated that quarter-on-quarter
+                     seasonality is there. In H1 consumer segment is much more front loaded so we have done
+                     almost INR1,100 crores plus kind of revenue on the consumer segment side. So gradually we
+                     may see a taper down of this one particular segment and other segment going up. That is why
+                     this quarterly seasonality will play. Full year basis we are guiding 45% plus kind of overall
+                     revenue growth.
+
+
+Aditya Bhartia:      Understood. And in the annual report, we had spoken about one of the framework
+                     agreements of almost $250-odd million. If you could share more details around that, what
+                     kind of revenue accretion may happen on account of it? What are the time lines like? And
+                     whether it's a one-off contract or are you looking to be entering into similar contracts?
+                     Because you have at least kind of indicated that that could be the intent.
+
+
+J.S. Gujral:         See, we have entered into that framework contract and it will start yielding revenues next
+                     year. I'll request Jaidit to throw more light on that.
+
+
+Jaidit Singh Brar:   So yes, we made very good progress on that agreement. So all the NPIs, all the sort of early
+                     production runs have been done and we have a ramp-up plan agreed with the customer. But
+                     these are all sort of very demanding deferring customers so we go step by step. So as Mr.
+                     Gujral said, we see the full impact of this in FY28 and beyond.
+
+
+J.S. Gujral:         And this will continue. It's not a one-off contract for this. Having entered into their supply
+                     chain, the global supply chain becoming an integral part, I see this particular vertical and the
+                     customer to become one of our major growth drivers in the coming years. '27-'28 in any case
+                     will be there. But once we get integrated, we have opportunity to tap the wide product range
+                     which they make.
+
+
+
+                                               Page 8 of 24
+
+                                                                                 Syrma SGS Technology Limited
+                                                                                           November 02, 2026
+
+                    So, these are all long-term gestation period contracts and the growth which you are seeing in
+                    the current year is the customers which we onboarded a couple of years back and they have
+                    started yielding the volume production or the series production in '26-'27. The customers
+                    which we have onboarded last year, late part of last year and this year, will give feasible
+                    revenue impact in '27-'28 and beyond.
+
+
+Aditya Bhartia:     Sir, if you could also indicate who the customer could be or what kind of products are we
+                    speaking about? What could be the revenue?
+
+
+J.S. Gujral:        Confidentiality doesn't allow me to name the customer. You will appreciate that. These are
+                    into the industrial, power management, power distribution, data center. So that's a broad mix.
+                    And these will be sizable contracts, sizable revenues generating out of this next year
+                    onwards.
+
+
+Aditya Bhartia:     Any indication that you can give on the revenue number, sir?
+
+
+Bijay Agrawal:      Annualized could be at least INR500 crores to INR1,500 crores to start with.
+
+
+Moderator:          The next question is from the line of Santosh Seshadri from Avendus Spark.
+
+
+Santosh Seshadri:   Congratulations for a great set of numbers. Sir, just wanted to double-click on what was
+                    driving the second quarter results. If you could explain how much of this growth was driven
+                    by any new customer ramp-up or any new program wins that you mentioned in the previous
+                    call? And also how much was the pull forward in demand that you were mentioning?
+
+
+                    Just on a related note, you have also reached a revenue run rate closer to INR2,000 crores in
+                    a quarter and guiding for $1 billion kind of revenue in FY28. So I just wanted to understand
+                    how ready is the platform to deliver this kind of revenue both on the domestic front and also
+                    on the export front. So if you can explain if there is any additional hiring or any major capex
+                    that is required in the base business to ensure we get to those revenue levels?
+
+
+J.S. Gujral:        So there are 3 or 4 parts to the question. One is the growth coming in from new customers
+                    and existing customers. Well, it's a secular growth; all customers, new and the old are firing.
+                    What is more significant is all the verticals are growing at a very fast clip. So if I compare H1
+                    '27 to H1 '26, our automotive business has grown by 80 plus percent, Healthcare has grown
+                    by 78%, industrial 58%, IT on a small base by over 100%, railways by 45% and consumer by
+                    62%. So all the cylinders, the verticals are firing.
+
+
+                    Now within this 85% growth, my new customers would also add to that growth. My exports
+                    have grown by 59% in H1. My ODM has grown by 100%. So we see a secular high
+                    trajectory growth in almost every vertical and the segments. Going forward, these segments
+                    would continue to fire the growth. And the 3 segments because of their large base which will
+                    continue to grow; automotive, industrial and consumer.
+
+
+                    Healthcare, railways have a smaller base. Even if they grew at 100%, 120%, they would not
+                    form a significant impact on my overall top line; but being high margin products, they will be
+                    adding accretive to the margin profile of the company. No significant investments are
+
+
+                                             Page 9 of 24
+
+                                                                                    Syrma SGS Technology Limited
+                                                                                              November 02, 2026
+
+                    required for these businesses. They are the normal businesses which we are tapping into.
+
+
+                    The only thing is the profile of customers has changed. So when the profile of the customer
+                    changes, it does not necessitate a significant increase in capital investment. What it sort of
+                    requires is strengthening your processes, procedures, communication channels, program
+                    management, electronic interface on the supply chain.
+
+
+                    So the heavy lifting is not in the capex. It's in the categorization. And there we are having
+                    very structured program to sort of come up to the expectation or sort of exceed the
+                    expectations of these global customers in terms of processes, which are robust today, but they
+                    have to be aligned to the global requirements.
+
+
+Santosh Seshadri:   Sir, I have a follow-up. So if I understood right, growth is mostly organic coming from the
+                    base business and the new projects that we are working on is mostly an add-on. So can you
+                    provide status update on some of the projects that we are working on? So in addition to the
+                    PCB project, I believe we have applied under ECMS schemes. And also is there any project
+                    that we are considering to apply under ISM scheme? So if you can help us if you can provide
+                    a status update on that, that would be helpful.
+
+
+J.S. Gujral:        In the ECMS scheme, we have applied for I think 5 or 6 projects. One is the PCB, which is
+                    under sort of construction and we'll see the power on by March and trial production by
+                    March, April and series production by June, July to August, September quarter. So for
+                    FY'27-28, the PCB project will deliver 6 months approximately of production; commercial
+                    production, series production. FY'28-'29 will be a full year.
+
+
+                    The second project, which we have got under the ECMS scheme is the CCL. We intend to
+                    commission it in the year '28-'29 as of date. The third one is HDI Flex and other thing. Some
+                    PCBs are being clubbed with the current phase of the project. HDI and all that will again
+                    come in '28-'29 or before that.
+
+
+                    The fourth application which we have got is for camera modules. The facility construction
+                    has started. We have got the expression of interest or intent from the customer for camera
+                    module for automotive application and we expect that by around end of this fiscal, we should
+                    be in a position to start production in that. The last one, which we have got in the ECMS in
+                    the magnetic space. It's a small investment, nothing major.
+
+
+                    But it would add in the coming years, '28-'29 a decent amount of high margin business to my
+                    stake. Magnetics per se would not significantly alter my top line. Even if I do $10 million,
+                    $20 million, it doesn't alter my top line; but they are very high margin accretive projects. So
+                    that's as far as the ECMS is concerned.
+
+
+                    On the ISM too, our stand has been very, very clear right from day 1 from the ISM days that
+                    we are very interested into entering into this sort of ecosystem, but we would enter only if we
+                    have a credible partner. Currently, discussions are going on, but nothing concrete which I can
+                    share with anyone that we are going into this aspect or this part or whatever it is. But we are
+                    interested and hopefully, we should have something concrete in the next 6 months.
+
+
+
+                                            Page 10 of 24
+
+                                                                                 Syrma SGS Technology Limited
+                                                                                           November 02, 2026
+
+Santosh Seshadri:   Just on the camera module side, are we contemplating any JV here? And also how should we
+                    think about the capex and revenue contribution from that business?
+
+
+J.S. Gujral:        See, the camera module business to start with will not have a significant capex. It will be less
+                    than about INR25 crores to start with; INR25 crores, INR30 crores to start with. It is a
+                    capability which we are building. I expect decent revenues in the automotive sector from this.
+                    But you say do I expect INR1,000 crores from this? No, to start with it could be INR50
+                    crores, INR100 crores and thereafter scaling up as we sort of diversify our portfolio in the
+                    camera module.
+
+
+                    Currently, we are concentrating more on high end camera modules for automotive sector. We
+                    are currently not contemplating camera modules in the consumer sector, which means the
+                    mobile or the laptops and other things. So once we start doing that, then we'll share with it.
+                    But currently, it's only camera modules for the automotive sector.
+
+
+Moderator:          The next question is from the line of Mayank Pandey from Emkay Global.
+
+
+Mayank Pandey:      Congratulations for a very good set of numbers. Sir, my first question is to get your sense on
+                    what you're observing in the overall business ecosystem. Could you tell us if you are
+                    observing some trends with respect to inventory stockpiling at your customers? Like last
+                    quarter, you mentioned that you're observing supply chain pressures and you might look to
+                    hold on to some strategic inventory.
+
+
+                    Is that a trend that you're also observing at your customers or are you observing any shift in
+                    their ordering patterns that may be favoring longer-term contracts or shorter-term contracts,
+                    ordering contracts more? Any light you can throw in terms of how your customers are
+                    navigating the supply chain challenges vis-a-vis when they talk to you?
+
+
+J.S. Gujral:        See, on the supply chain challenges, I think which is a good challenge to have in the sense
+                    that while sort of every member in the industry is having this supply chain constraint, the
+                    demand side doesn't show signs of the spike. The automotive sector is very bullish and keeps
+                    increasing its demand quarter-on-quarter or month-on-month or whatever it is. So it
+                    compounds the problem of supply chain constraint.
+
+
+                    Now this naturally results when my supply chain gets constrained, when the delivery lead
+                    times get extended to 36 weeks or 42 weeks or whatever. Obviously the customer and we, we
+                    work in partnership and in tandem.
+
+
+                    The customer would give us a longer visibility, a longer commitment for the longer lead
+                    items. So that sort of assures us that the business going forward would continue to grow at
+                    that pace. Customer also stocks inventory. But since the customer is B2C, whatever is
+                    produced and the demand is going up, it ships.
+
+
+                    So in a B2B, it is a stocking of the inventory. So customer would also be stocking critical
+                    parts on which it is facing supply chain constraints, which essentially are in the electronics
+                    and electronics are being supplied by us.
+
+
+
+                                            Page 11 of 24
+
+                                                                                Syrma SGS Technology Limited
+                                                                                          November 02, 2026
+
+                 On mechanicals and other things, the cost push is there, but supply chain constraints are not.
+                 So the copper may have gone up, but the wire shortage is not there. In electronic
+                 components, it's slightly different because of data center. But then we with the customers
+                 work in partnership in a very close transparent interaction and both of us work in tandem
+                 because the strength is the weakest link.
+
+
+                 If my customer thing is the weakest link, then he suffers; if I'm the weakest link, then he
+                 suffers. So we try to mitigate that. And inventory, despite all these constraints, is still at about
+                 71 days and overall working capital at about 63 days. I think that's a very heartening feature.
+
+
+Mayank Pandey:   Right. So are we not seeing any evidence of any kind of inventory stockpiling as we have
+                 seen in the past, let's say, FY23-'24 sort of era when there was an expectation that inventory
+                 should be stockpiled in anticipation of demand in this case? Are we not seeing any kind of
+                 inventory stockpiling by customers for -- I'm talking specifically to the B2B customers.
+                 They're not looking to stockpile.
+
+
+J.S. Gujral:     See, my inventory from March of '26 has gone up from INR1,000 crores-odd to INR1,570
+                 crores, but number of days it is still 71. March '26 also it was 71 days of inventory and
+                 September '26 also it was 71 days of inventory. Now if you see it in isolation, there's a 50%
+                 increase, but then there's a 70% increase in revenues. So the number of days remains the
+                 same or comes down.
+
+
+                 Quarter-on-quarter, there could be a mismatch that in some quarter, I stock more, I get
+                 something by the end of the quarter and I have to ship it next quarter, the inventory of the
+                 March, September end or June-end and may go up. But on an annualized basis, we will strive
+                 and we are sort of focused on maintaining that fiscal discipline on working capital, and it
+                 could be anything between 60 to 65 days.
+
+
+                 The desire is to be having below 60 days, I don't see that desire to be fulfilled in the coming 6
+                 months. If we can maintain it at about 60-odd days plus/minus 2 days, I think it's a
+                 phenomenally good job.
+
+
+Bijay Agrawal:   And just to add, in this INR1,570 crores of total inventory, still we are maintaining certain
+                 strategic inventories of only critical components, which are having a longer delivery
+                 schedules as of now. And as Mr. Gujral has previously also communicated, the situation may
+                 go on quickly towards -- beyond FY27 also. So till the time the overall situation eases out,
+                 we will continue to maintain this kind of inventory levels.
+
+
+J.S. Gujral:     See, I would rather err on the side of caution and maintaining a higher inventory level versus
+                 not being able to meet my customer requirement. To me that one is -- the second one,
+                 meeting the customer requirement is far, far more important than a couple of INR100 crores
+                 also in inventory because that brings in stickiness with the customer.
+
+
+Mayank Pandey:   Understood, sir. Sir, if I can just ask one more question that your export performance has
+                 been very strong, and it has continued to strengthen like even the monthly run rates have
+                 continued to strengthen for you. Could you just help me understand which verticals are
+                 driving the strong export growth performance, one? And what does our contract on the
+
+                                          Page 12 of 24
+
+                                                                              Syrma SGS Technology Limited
+                                                                                        November 02, 2026
+
+                 export side look like? Is it fixed currency? Or do we get the full benefit of any currency
+                 appreciation that happens? If you can just help me understand that.
+
+
+J.S. Gujral:     See, my exports primarily are in the industrial, medtech and automotive sector, a little bit on
+                 the RFID, consumer application, which may be classified as -- but these 3 verticals constitute
+                 the bulk of the exports. And all these 3 verticals are growing very strong. The engagement
+                 with the customers and the new customers which we are onboarding or the dialogue which
+                 has started with the new customers is primarily in these 3 segments; medtech, industrial and
+                 automotive in that order.
+
+
+                 We believe and we are confident that exports would continue to grow. And when we say we
+                 have grown at 31% in FY25, 41% in FY26, 70%-odd in -- 80%-odd in FY27 half year,
+                 please appreciate this is only because we are onboarding new customers. Neither North
+                 America nor Europe is growing at that rate. So we are onboarding big logos onto our
+                 customer portfolio sort of a thing, and that is yielding the results. And these global customers
+                 being onboarded is a continuous phenomenon.
+
+
+                 So the customers which we onboarded in '23-'24, '24-'25 are giving results now. And the
+                 customers which we have onboarded in '24-'25, '25-'26 will give serious results in '27-'28.
+                 And the customers which you are onboarding today would result into series production,
+                 volume production in '28-'29.
+
+
+                 So this continuous replenishment of the customer portfolio, export customer portfolio with
+                 big logos gives us the confidence that exports would continue to be one of the cornerstones
+                 of our strategy for growth. And exports being margin accretive, it will also help us in
+                 delivering superior margins, which I have said that this year, we expect to deliver anything
+                 between 10% to 10.5%. Going forward, this could be 10.5% to 11% or even greater than
+                 11% in '27-'28.
+
+
+                 And as far as your concern or your question on the forex thing is concerned, these are fixed-
+                 price contracts. I know -- unlike in the garment industry because there's a lot of import
+                 content also, we don't have to sort of calibrate the prices and the forex movement in terms of
+                 export customers.
+
+
+                 Another sort of size advantage is that my export revenue gives me a natural hedge for
+                 imports. So if I export goods worth INR1,600 crores in a year, for example; in the first 6
+                 months, INR900-odd crores has been exported, it provides a natural hedge to the foreign
+                 currency on imports.
+
+
+Bijay Agrawal:   We also have a pass-through mechanism related to the foreign exchange impact for almost all
+                 of our large businesses.
+
+
+J.S. Gujral:     For domestic.
+
+
+Bijay Agrawal:   For domestic business, yes.
+
+
+J.S. Gujral:     I hope that answers your question.
+
+
+                                            Page 13 of 24
+
+                                                                               Syrma SGS Technology Limited
+                                                                                         November 02, 2026
+
+Moderator:       The next question is from the line of Achal Lohade from Nuvama Wealth Management
+                 Limited.
+
+
+Achal Lohade:    Congratulation on excellent show once again. Sir, the first question is in terms of the PCB
+                 revenue, how do we see this for FY28 and '29 in terms of what kind of contribution we can
+                 expect and the margins?
+
+
+J.S. Gujral:     See on the PCB revenue, what we had guided was that PCB would have 1.2X to 1.25X, max
+                 1.5X of the investment as the revenue. So, for the FY27-'28 since we will be having full
+                 production, commercial production only for about 6 to 7 months we expect revenue of
+                 approximately...
+
+
+Bijay Agrawal:   INR200 crores to INR250 crores.
+
+
+J.S. Gujral:     INR250 crores or INR300 crores. Going forward, '28-29, it would see the full impact. So if
+                 we invest about INR800 crores of investment, we should expect about INR700 crores to
+                 INR800 crores in '28-'29 from this revenue. So, it will be directly related to the investment
+                 which I've made. And how much is the investment we are planning to make?
+
+
+Bijay Agrawal:   So by the end of this year, we will be incurring about INR400 crores to INR450 crores kind
+                 of a capex. By the end of next year, we'll be completing it by another maybe another INR400
+                 crores to INR450 crores. So the total investment towards the project could be INR800 crores
+                 to INR900 crores.
+
+
+Achal Lohade:    So this INR800 crores to INR900 crores of investment will come through by March '28?
+
+
+Bijay Agrawal:   Yes.
+
+
+Achal Lohade:    Okay. So that March FY29, we should have a full revenue potential impact from that?
+
+
+Bijay Agrawal:   Considering 1.5x asset turn, the total revenue can be in the range of INR1,200 crores to
+                 INR1,350 crores, assuming a full capacity ramp-up in the year 1, that is FY29. And if there is
+                 maybe 70% to 80% kind of a capacity utilization, the revenue can be in the range of maybe,
+                 as Gujral ji has alluded between INR900 crores to INR1,000 crores.
+
+
+Achal Lohade:    And what kind of margin we should work with, sir?
+
+
+Bijay Agrawal:   So on a steady-state basis, the EBITDA margin at a full capacity ramp-up should be within
+                 the range of 15% to 18%.
+
+
+Achal Lohade:    And this excludes the incentives, right?
+
+
+Bijay Agrawal:   Yes.
+
+
+J.S. Gujral:     It excludes the PLI if you're referring to that.
+
+
+Achal Lohade:    Yes, includes or excludes sir? Sorry, if you could clarify.
+
+
+
+
+                                          Page 14 of 24
+
+                                                                                Syrma SGS Technology Limited
+                                                                                          November 02, 2026
+
+Bijay Agrawal:   Excludes, without it.
+
+
+Achal Lohade:    Without it. Okay. Understood. And if you could help us in terms of the capex at a consol
+                 level, what kind of capex we should budget in which particular segment for FY27 and '28?
+
+
+Bijay Agrawal:   So PCB, we have clarified. Apart from PCB, the normal greenfield cum brownfield capex is
+                 what we estimate somewhere around INR100 crores to INR150 crores per year for next 2
+                 years.
+
+
+Achal Lohade:    And no other adjacency, the camera module or on the other...
+
+
+Bijay Agrawal:   Camera module related, like the special initiatives just like camera module, there is a JV,
+                 Elemaster which we have done. There is a JV -- Kaga JV is also there. So for those JVs, there
+                 will be a different capex. But for Elemaster, it will be in the range of around INR40 crores,
+                 INR50 crores.
+
+
+                 Camera module, again, to start with, it will be around INR30 crores. And gradually as we get
+                 more and more business, we may expand further more capex there. Similar way for Kaga JV
+                 also, it will not be significant. It will be still in the range of INR30 crores to INR50 crores at
+                 max.
+
+
+Achal Lohade:    Got it. Is there any way to get some idea in terms of the new customer contribution in the
+                 quarter or half year revenue?
+
+
+Bijay Agrawal:   So, generally, it is like a mix of everyone. And when we see new customers, new customers
+                 whom we have onboarded in FY25, actually, we are getting a revenue benefit from those
+                 customers in this year.
+
+
+                 So that's where we see -- the customers are technically not a new customers because we
+                 might have at least seen initial revenue volume from them in FY26 also. But this year, we are
+                 getting their full volume -- ramp-up volume. So that's where we see the growth is like across
+                 all the customers that way.
+
+
+Achal Lohade:    Let me put it in another fashion. Is it possible to get some quantification in terms of
+                 customers onboarded in last 18 months kind of a thing? Would that be possible?
+
+
+Bijay Agrawal:   So last year, we onboarded nearabout 32 customers as we have previously also
+                 communicated. This year, I think in total H1, we have onboarded nearabout 18 customers so
+                 far.
+
+
+Moderator:       The next question is from the line of Kishore Kumar from Unifi Capital.
+
+
+Kishore Kumar:   Congrats on the fantastic quarter sir. Sir just have a follow-up to Achal's question on PCB.
+                 This PCB can be used for captive purposes as well as for the external sales. How are you
+                 looking at the output? Are we looking at more towards external sales right now? And as we
+                 get approval, we'll start using it for captive purposes? This is my first question.
+
+
+J.S. Gujral:     kay. Now on the PCB part, we would be using it for both internal consumption and external
+
+                                           Page 15 of 24
+
+                                                                               Syrma SGS Technology Limited
+                                                                                         November 02, 2026
+
+                 sales of PCB. The approval cycle in both cases is by and large the same. For example, if I'm
+                 doing anything for Suzuki, whether I sell it to a vendor of Suzuki or I use it for internal
+                 consumption, the approval process has to be followed. Where the approval process can be
+                 sort of shrunk or reduced is my own design products in the PCB space, where I don't have to
+                 take an approval of the customer because I'm taking the ownership of the design.
+
+
+                 So hence we intend to start with the ODM part of PCBs in the immediate phase. We also will
+                 have to do all the testings and regulatory checks and approval so that the product meets all
+                 the guidelines and the specifications and the parameters. So bulk of the sales over a period of
+                 time will come from external customers. And it will have a content of domestic or in-house
+                 consumption also.
+
+
+Kishore Kumar:   Understood, sir. Clear now. Also, can you give us some insights on the type of the PCB we'll
+                 be doing whether it's single, double or 6-layer PCBs?
+
+
+J.S. Gujral:     See, bulk of the consumption in PCBs is sub 8 layer, bulk of it. Above 8 layers, there are
+                 something in the display modules or the sort of dashboard electronics for the cars where it
+                 could be 12 layer or 14 layer. Bulk of the PCBs are less than 8 layer and will be catered all
+                 those segments.
+
+
+                 We are also putting up a single layer line to cater to the requirement of the consumer
+                 electronic part where the PCBs are typically single layer. So bulk will be 2 layer to 6 layer
+                 and some 6 to 8 layer, little in 8 layer above in terms of volume and value.
+
+
+Kishore Kumar:   Clear Sir. Sir, just a clarification on the revenue growth for this quarter. We did about 70%
+                 growth. You did mention about some orders being front-loaded some of our customers. I just
+                 wanted to understand what percentage of the value growth is coming from the price increase
+                 that we have done on back of the raw material price inflation in comparison to the underlying
+                 volume growth? Is there any numbers that you can quantify us?
+
+
+J.S. Gujral:     See, the cost push typically has been around 5%-odd. So we have shown a material margin
+                 decline of -- material cost increase of about 3%, but that would also be because of the
+                 product mix.
+
+
+                 It is all a pass-through. So, we can assume that if we have done about INR1,900 crores of
+                 revenue in this quarter or INR2,000 crores of revenue this quarter, INR50 crores to INR60
+                 crores, INR70 crores could be attributed to the cost push, 3% to 5%, INR60 crores, INR70. I
+                 have no absolute figure, to be very honest, but that could be attributed to the cost push and
+                 rest is the volume growth.
+
+
+Kishore Kumar:   Clear sir. Got it. And can you just brief us on the performance of recently acquired entities,
+                 Navicom and Elcome, and how is the newly started venture with Elemaster going on?
+
+
+J.S. Gujral:     So on Navicom, Elcome, I think Bijay will throw light. On Elemaster, we commissioned the
+                 factory in September of '26, which is about 60 days ago. Approximately 3rd of September I
+                 think or 2nd of September, we commissioned the factory. Being a new factory, it has to go
+                 through all the regulatory approvals like the ISO, the IRIS certification and the RDSO
+
+
+                                         Page 16 of 24
+
+                                                                                 Syrma SGS Technology Limited
+                                                                                           November 02, 2026
+
+                    certification also.
+
+
+                    We expect to complete all these activities in this year. So this year, we don't expect a sizable
+                    revenue from the Elemaster joint venture in that entity. However, next year, once these
+                    regulatory approvals and certifications are in place, we expect it to deliver anything between
+                    INR150 crores to INR200 crores of revenue. Am I right Bijay?
+
+
+Bijay Agrawal:      Yes.
+
+
+J.S. Gujral:        Elemaster in FY27-'28. On Elcome and Syrma Johari, I think Bijay you can take a shot.
+
+
+Bijay Agrawal:      So Elcome has contributed approximately INR135 crores of revenue during H1 into my
+                    consolidated revenue. And similar way Syrma Johari MedTech Limited contributed
+                    approximately INR140 crores of revenue towards my overall consolidated revenue for this
+                    period.
+
+
+Kishore Kumar:      Sir, any comments on the future outlook for these two acquired businesses?
+
+
+Bijay Agrawal:      Elcome, we had previously communicated we expect this year somewhere between INR300
+                    crores to INR350 crores kind of revenue. This is a good growth business, currently delivering
+                    a growth between 20% to 25%. And we are again targeting how do we at least achieve a
+                    steeper growth from here onwards. based on our new customer additions or maybe certain
+                    market expansions also, which we are currently working upon.
+
+
+                    Similarly, SJML this year has been going good growth. As of now, in H1, we have achieved
+                    INR140 crores. Full year basis, again, we should be targeting somewhere around INR300
+                    crores as against INR220 crores, INR210 crores of last year.
+
+
+J.S. Gujral:        We expect a 45% to 50% growth in Syrma Johari this year. And what is very satisfying in
+                    that is that we have onboarded some very good clients. I should have -- I forgot to share it in
+                    my opening comments. We have commissioned high-grade medical plastic facility in Syrma
+                    Johari. It would be molded, extrusions and blow.
+
+
+                    This should give us good revenues with margins in the coming quarter. That's a new facility
+                    which we have set up in Jodhpur. We are not into the medical-grade plastics. We are now
+                    doing it for internal consumption and third party.
+
+
+Moderator:          The next question is from the line of Indrajit Agarwal from CLSA.
+
+
+Indrajit Agarwal:   My first question is on the PCB business. Is it fair to assume that in FY28 and FY29, it will
+                    be relatively lower margin, and hence, you could have a PAT loss in this business for a
+                    couple of years? And as a result, what kind of tax rate we can see on a blended basis at a
+                    consol level?
+
+
+Bijay Agrawal:      So EBITDA margins still should be in the range of 15% to 18%. Yes, in the initial year,
+                    when the capacity utilization are maybe around 40%, it can be a little lower. Still, we do not
+                    expect a PAT loss for this period as of now.
+
+
+
+                                            Page 17 of 24
+
+                                                                                   Syrma SGS Technology Limited
+                                                                                             November 02, 2026
+
+Indrajit Agarwal:   All right. And of the INR900 crores investment, what is the kind of time frame we can
+                    assume that the government -- how much government subsidy should come in? And what is
+                    the kind of time frame we should expect it to come in?
+
+
+Bijay Agrawal:      The PLI income which is there based on the yearly revenue number once the year is closed
+                    within a certain period, we'll have to calculate and apply for it. We can initially assume at
+                    least 6 to 9 months or maybe a 12-month kind of a time lag for that PLI revenue realization.
+
+
+                    Similarly, on the capex incentive, which is mainly from the state government, again, once the
+                    project is ready by the end of this March '27, we should be compiling all these things, filing
+                    it, which may take another 6 months. And then thereafter, another 6 months maybe for the
+                    realization of the same. That's the initial estimate, but that is what we can target at least.
+
+
+J.S. Gujral:        So to give a quantification, we are investing approximately INR400 crores by March of '27.
+                    So if we file our application by March of '28 at the outside, we should be able to recover the
+                    INR200 crores of capital subsidy. The PLI, whatever revenues we incur in '27, '28, I'll be
+                    eligible to file the application only after March '28. Typically, the windows for the PLI open
+                    somewhere in July, August. So the claims will be filed in July, August of '28 and then
+                    another 3 to 6 months for recovery.
+
+
+Indrajit Agarwal:   Sure, this is helpful. Given the recent rise in some of the input materials like CCL, etcetera,
+                    has the dynamic of this business changed? And are you looking to get into backward
+                    integration further in this PCB.
+
+
+J.S. Gujral:        See, we have plans to enter into the copper clad laminate, but would not like to open too
+                    many fronts simultaneously. Hence, we will put in the copper clad -- sort of going for the
+                    copper clad laminate plant once my PCB plant has stabilized. And I expect the PCB plant to
+                    stabilize somewhere middle of next year because if I power it on in March and start the trial
+                    production, I should be able to stabilize the production processes by middle of next year.
+
+
+                    And then is the time when we'll start planning execution of the CCL plant. And the CCL
+                    plant, if we start planning execution sometime between the third quarter or fourth quarter,
+                    third quarter of FY28, it will get ready by around December '28. It will get series production
+                    in '28-'29.
+
+
+Indrajit Agarwal:   Lastly, what kind of minorities should we like book in the accounts for FY27 and FY28?
+
+
+J.S. Gujral:        Sorry?
+
+
+Indrajit Agarwal:   The minorities that you put in P&L, right? So what...
+
+
+J.S. Gujral:        Bijay will give an answer.
+
+
+Bijay Agrawal:      So minorities is mainly related to this Elcome and SJML. So as of now, for the 6-month
+                    period, my minority profit is like approximately INR14 crores. And full year basis, this can
+                    be around -- in the range of INR30 crores to INR45 crores.
+
+
+Moderator:          The next question is from the line of Sumant Kumar from Motilal Oswal Financial Services
+
+                                             Page 18 of 24
+
+                                                                               Syrma SGS Technology Limited
+                                                                                         November 02, 2026
+
+                 Limited.
+
+
+Sumant Kumar:    Sir my question is regarding IT and railway. Can you talk on the margin profile of this
+                 segment? IT and railway.
+
+
+Bijay Agrawal:   IT and railway; so we are doing memory modules. We are doing assemblies of high-end
+                 gaming laptops, maybe other laptops for MSI and a few other customers there. On the
+                 railway side, we are on this HVAC controls for wagon coating, railway signaling systems,
+                 door controls, those kind of products is what we are manufacturing largely.
+
+
+J.S. Gujral:     See, on the margin profile, IT business is typically a low-margin profile business. Railways is
+                 a superior profile margin business compared to the entire -- it is equivalent or superior to the
+                 industrial segment. IT per se is a low-margin business comparatively. And since we are not
+                 making end-to-end products, when I make a motherboard, my customer gets the PLI because
+                 he is assembling the final computer. So we don't get the benefit of the PLI.
+
+
+                 For the laptops, which you are making for MSI, currently, the volumes being small for the
+                 Indian market, the motherboards are being imported. So hence, we are not eligible for PLI.
+                 We are endeavouring that we should start making the motherboard so that we get the PLIs in
+                 the coming years. But as of date, we are not getting PLI and it's a low-margin business, but a
+                 very low working capital or 0 working capital involvement. The model is that.
+
+
+Sumant Kumar:    Can we say the combination of IT and railway, the margin is better than consumer and in
+                 between auto and consumer?
+
+
+J.S. Gujral:     Railways is equivalent to...
+
+
+Sumant Kumar:    Combination of both. Combination of both I'm talking about, IT and railway because...
+
+
+J.S. Gujral:     It's very tough to quantify because if I do INR80 crores of railways and I do INR300 crores
+                 of IT, the margin gets skewed. The INR300 crores will be a low margin business. So
+                 marketing is, railways is a superior margin business. IT is equivalent to the high-volume,
+                 low-margin consumer business.
+
+
+Moderator:       Next question is from the line of Keshav Lahoti from HDFC Securities.
+
+
+Keshav Lahoti:   Sir, I want to understand one thing. If I see your order book growth, it has been growing by
+                 around 25%, 30%. But if we see the top line growth, that is pretty healthy. Why is there a
+                 mismatch from last couple of quarters? How should we read?
+
+
+J.S. Gujral:     See, order growth when we share the orders, it is the orders which we receive, not the
+                 contracts or the frame of contract or the guidance which we receive. And typically, what
+                 happens if I have received the guidance for a full year, I don't take it as an order. The order
+                 may come in the beginning of the quarter to deliver it in the quarter. Since the guidance is
+                 there, I'm already ready with the production schedules and the material.
+
+
+                 As there could be a slight sort of mismatch, the order growth may not be equivalent to the
+                 revenue growth because we work -- revenues are based on the guidance, the commitments,
+
+                                         Page 19 of 24
+
+                                                                               Syrma SGS Technology Limited
+                                                                                         November 02, 2026
+
+                 the agreements which we have signed up with the customers. They convert into purchase
+                 orders maybe at the beginning of the quarter.
+
+
+                 Automotive industry typically works on a quarterly rolling forecast. So they give a rolling
+                 forecast, which is not considered as order, but they give orders at the beginning of the month
+                 to ship this much. So hence, there could be a slight -- there could be a mismatch because of
+                 this.
+
+
+                 Also, as we are seeing recently due to supply chain constraints, now we are getting orders for
+                 a little longer period also in case of few select customers, specifically in the auto segment
+                 here. So previously, when it was a much lower number beyond 1 year, beyond 12 months,
+                 now we see lot of orders beyond 12 months also there. So of my total INR7,400 crores near
+                 about, now INR1,200 crores is related to a period which is beyond 12 months.
+
+
+Keshav Lahoti:   Understood. Got it. And if we talk about PCB manufacturing, the return ratios are looking
+                 very strong. How should we see it? Because you said INR1,250 crores of top line on INR800
+                 crores of investment. Of that 50% might be recovered by a subsidy of 15% to 18% margin
+                 business and PLI benefit above 18%. So what is the return ratio you are looking in this
+                 business once it will ramp up?
+
+
+Bijay Agrawal:   So, going by the projections number, assuming all capex incentives are there, the return ratio
+                 should be north of 30%, 35% plus. You are right there in that observation. But that gets up --
+                 adds up at least to grow the business faster, target much more maybe other geographies apart
+                 from India also, and that is where one can see a larger growth in that business.
+
+
+Keshav Lahoti:   The reason why I'm asking this question because 30%, 35% return ratio look very attractive.
+                 Possibly what margin we are factoring in our assumption that might be on the slightly higher
+                 side considering the industry dynamics.
+
+
+J.S. Gujral:     No, if you see the margin profile of the unlisted space, which is currently working in India,
+                 the margin profiles are even superior than this. So when we say 15%, we have considered all
+                 the factors into account. And since ours is an automated plant, our operating cost will be
+                 lower. We're very confident that we'll be delivering a 15%-odd margin without the PLI. And
+                 the returns will be higher because of the capital subsidy, but that's part of the investment
+                 policy of the government.
+
+
+Keshav Lahoti:   Understood. Last follow-up on this. So 15% margin plus 4% to 5% PLI benefits, so
+                 approximately 20% margin business. Is that understanding, correct?
+
+
+J.S. Gujral:     We say 17% to 20% because once you have the PLI, the dynamics of the markets and all
+                 that, it all depends on the market dynamics at that point of time, whether we sort of share the
+                 PLI with the customer or not. So that's why I say 17% to 20% margin profile should be
+                 available.
+
+
+Moderator:       The last question for today is from the line of Rahul Maheshwary from Ambit Private
+                 Limited.
+
+
+
+                                         Page 20 of 24
+
+                                                                                   Syrma SGS Technology Limited
+                                                                                             November 02, 2026
+
+Rahul Maheshwary:   Three questions. First, in the annual report you had given about the ARC system, which is
+                    being deployed across the manufacturing for quick decision-making. So can you give, with
+                    some examples and also how much the efficiency drive, which is helping the company?
+
+
+                    Second thing, in terms of the backward integration, which is -- which the main objective is to
+                    make the supply chain more resilient, whether it's towards wire harness, camera modules. On
+                    a long-term basis, how much -- apart from supply chain resilience, how much margins it can
+                    add up to? And the last part on the JVs and the partnerships, especially on the Kaga
+                    Electronics, how much big it can become in terms of the overall scheme of things for next 4,
+                    5 years?
+
+
+J.S. Gujral:        So on the ARC systems, we've started implementing it somewhere last year and we have
+                    implemented it in 3 or 4 of the plants and remaining plants is ongoing. The initial results
+                    have shown a 5% to 6% OEE improvement on the lines, on the SMT lines. I think once the
+                    system is mature, we expect that the OEE should increase by anything between 6% to 10%
+                    across all plants, which I think would result if we have -- just as an example, we have 40
+                    lines and 500 hours is a line which works for a month. So we have 20,000 hours of OEE as
+                    sort of capacity available.
+
+
+                    A 5% increase in OEE would result into 1,000 hours of additional line capacity available,
+                    which is equivalent to approximately 2 lines. So the initial results are very positive. And I
+                    think we have taken the right choice being the first Indian company to implement this ARC
+                    to give us superior performance on the SMT lines.
+
+
+                    Your second question was related to the backward integration. Wire harnesses is the project
+                    which we have started. It is more targeted for high-end applications, not that we'll not be
+                    using it in-house, but I would rather use these capacities for high-end applications in
+                    aerospace, defense and other things to get a superior margin profile. Till such time these
+                    facilities are qualified for that purpose, we will be doing the wire harnesses, which we
+                    consume in-house.
+
+
+                    Now when we consume in-house, if theoretically, I'm giving a 10% or 15% EBITDA margin
+                    to my vendor that gets retained within the company. But since wire harness internal
+                    consumption, I don't have the exact figure what is the sort of value of wire harnesses, which
+                    we buy from outside, I will refrain from putting a figure on the savings which we do. I'll have
+                    it collected. But it's not a very significant portion. It's more targeted towards third-party
+                    external and exports. On the third question of Kaga JV.
+
+
+Rahul Maheshwary:   Mr. Gujral, just to interrupt in between, I meant that overall three backward integration
+                    projects, whether it was towards the wiring harness, magnetics and the camera modules. In
+                    the long run, how much these all can contribute in terms of EBITDA margins improvement
+                    or the supply chain resilience?
+
+
+J.S. Gujral:        See, these businesses would be comparatively low. Even if I do INR100 crores, INR200
+                    crores of wire harness, as an example, and I'm doing INR1 billion of revenue. So even if I get
+                    a 15% EBITDA on this, it will not tilt the needle significantly until this business scales up
+
+
+                                            Page 21 of 24
+
+                                                                                  Syrma SGS Technology Limited
+                                                                                            November 02, 2026
+
+                    over the next 5 years and which we're targeting to a significant INR400 crores, INR500
+                    crores business.
+
+
+                    Same is the case with camera modules. Camera modules are for the automotive industry.
+                    Automotive industry has its margin profile. So with the application, there could be 1% or 2%
+                    increase or decrease in the margin profile. But in a camera module for automotive industry,
+                    we cannot expect a 40% margin. If automotive industry is working at about 25% gross
+                    material margin, camera modules would be plus/minus something.
+
+
+                    On Kaga JV, we just signed-off the agreement with them a couple of months back. And
+                    again, that -- since it's a new company now, it would require the regulatory approval, the
+                    quality approval. We have to take IATF 16949 for automotive sector. And this we cannot
+                    take until we do some 2 months of production, 3 months of production. So this year, we will
+                    not see a significant revenue coming in from this venture. Next year...
+
+
+Bijay Agrawal:      You can see around INR100 crores to INR150 crores.
+
+
+J.S. Gujral:        INR100 crores to INR150 crores of revenue coming in from the Kaga joint venture; INR150
+                    crores to INR200 crores coming in from the Elemaster joint venture; and INR200 crores to
+                    INR300-odd crores coming in from the PCB. So these are the 3 new verticals which will sort
+                    of give revenue in the next year.
+
+
+Rahul Maheshwary:   But in a 5-year tenure -- because I completely agree, it takes time to ramp up, etcetera. But in
+                    a 5-year period, each such kind of strategic partnerships can be at least $100 million type of -
+                    - $50 million to $100 million.
+
+
+J.S. Gujral:        INR500 crores to INR800 crores. INR500 crores to INR800 crores.
+
+
+Rahul Maheshwary:   Sure. And sir, just last question, when you mentioned in Q1 also about the critical
+                    component, you are taking a strategic investment rather than the tactical. How much in your
+                    percentage of your COGS or your operations is the critical component as a rough range
+                    would also be required irrespective of naming the components?
+
+
+J.S. Gujral:        See, typically, in an electronic subassembly or something, electronic components are 60% to
+                    65%, 70% of the total cost. The rest is the PCBs, the mechanicals and other things. So, if I
+                    take the electronic BOM at about 70%, 75%, as we call it, the electronic BOM, the
+                    controllers and all that and all those things would be about 40% of that.
+
+
+                    So, 28% of my total BOM, very rough estimate it could vary from product to product, is the
+                    critical components which we are stocking. Even the passive components have seen
+                    elongation of the supply chain, the lead times. So, it's not that I only have to store the
+                    controllers and not the capacitors.
+
+
+                    Even capacitors and resistors, they also have seen the delivery lead time stretch from 4 weeks
+                    to 8 weeks to 12 weeks to 16 weeks. While the active components, the controllers have seen
+                    it jump up to 36 weeks or whatever. So it's across the family of components in the electronic
+                    BOM where we have to sort of see which is the shortage component and what is the coverage
+
+
+                                            Page 22 of 24
+
+                                                                                    Syrma SGS Technology Limited
+                                                                                              November 02, 2026
+
+                     and stock that.
+
+
+Moderator:           Ladies and gentlemen, this was the last question. I would now like to hand the conference
+                     over to Managing Director, J.S. Gujral, for closing comments.
+
+
+J.S. Gujral:         Thank you, everyone, for attending the call. I conclude by saying that I think we are on a
+                     very firm footing. The efforts which the team and the management under the guidance of the
+                     Board has put in over the last 3 years, 4 years since we came into the public domain have
+                     started yielding results.
+
+
+                     And this will only be further strengthened and the results will only improve on all critical
+                     parameters, I think we are well placed to deliver better than the industry growth rate while
+                     maintaining fiscal discipline, I think that's the underlying statement and with superior profit
+                     margins.
+
+
+                     We are well aware of the market realities, the dynamics. Unfortunately, unstable market
+                     conditions, geopolitical conditions is the new normal, which was not there pre-COVID. So
+                     our organization is being built towards that end that how do we sort of navigate these
+                     turbulent times in terms of global supply chains. While manpower and resources -- human
+                     resources are one of the most critical factors, I think adoption of technology on which I'll
+                     request Jaidit to delve on it in short in his remarks, I think will play a key role in optimizing
+                     our operations over the longer run.
+
+
+                     It is not a quarter-on-quarter thing. All these new adoptions, for example, the ARC which we
+                     have adapted, it's not a one-off thing on one-off quarter. It is a sort of a marathon which we
+                     have to play a long inning which we have to play to improve operational efficiencies, and
+                     that operational efficiencies have improved. I think the figures are speaking for themselves.
+
+
+                     My overhead structure has come down, and I expect it to further come down with adoption of
+                     technology and making the organization future-ready to meet the requirement of the global
+                     customers. Serving a $10 billion company, having the ethos and the mindset to service him,
+                     is entirely different than serving maybe $500 million Indian company. So we are gearing it
+                     up for that.
+
+
+                     With that, I close my comments, and I think we are very confident of what we are building.
+                     And I think over the coming years, you would only see improved performance on all
+                     parameters. Quarterly, again, I sort of -- a word of caution, we don't work under with the lens
+                     or prism of quarters. We work at least for a year, and when you are building an institution,
+                     even a year is a small sort of a time frame. It takes 3 to 5 years to build institutions or longer,
+                     the culture, the DNA, the ethos, everything.
+
+
+                     With this, I hand over to Jaidit and thank you very much. Jaidit, all yours.
+
+
+Jaidit Singh Brar:   Yes. So, I'll just amplify on the point on how we are deploying technology in various aspects
+                     of our business. I think there are 3 parts of it. The first area we're doing it is in improving our
+                     core operations. We already discussed the ARC system, but we also benchmark every plant,
+                     every line. And we are deploying technology, but also capability building at scale of our
+
+
+                                                 Page 23 of 24
+
+                                                                              Syrma SGS Technology Limited
+                                                                                        November 02, 2026
+
+                supervisors and ops managers.
+
+
+                So the intent is that we get the full benefit of the assets we have, as Mr. Gujral had explained.
+                And also we, every quarter become more efficient on all the operating parameters across our
+                plants. This becomes even more important to use technology because we've been growing
+                rapidly, right? So as the manufacturing footprint grows; to maintain that efficiency, both
+                capability and technology is a big enabler.
+
+
+                The second area we're deploying technology is being able to scale up our ability to work with
+                very sophisticated and demanding customers. So be it in our material ordering systems, be it
+                in our trafficking facing systems, be even the way we interact with the customer, EDIs with
+                their kind of inventory, etcetera. So that's the second layer of technology, which is being
+                deployed.
+
+
+                And the third layer of technology we are deploying is -- which I think is a little bit of use of
+                AI right now, if you want to expand that is to deal with the complexity of our business, which
+                is every component has large number of components which go into it. The supply chains are
+                complex. We have to do a lot of RFQs very, very fast. So we have been using technology in
+                handling that complexity.
+
+
+                In particular, we've seen some very good success with using AI tools. So those are 3 layers
+                we are in the middle of deploying, and that's something we are very vigilant on that we have
+                to -- if we have to scale up and maintain our efficiencies, we have to be very, very smart on
+                all of these technological layers.
+
+
+J.S. Gujral:    I think with that, we thank you, everyone, for attending this call.
+
+
+Nikhil Gupta:   Thank you, Saisha.
+
+
+Moderator:      Thank you very much. On behalf of Syrma SGS Technology Limited, that concludes this
+                conference. Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                        Page 24 of 24
+

@@ -1,0 +1,420 @@
+                                                                                                                 www.stl.tech
+
+
+
+ September 07, 2026
+
+ National Stock Exchange of India Limited                   BSE Limited
+ Exchange Plaza, 5th Floor,                                 Phiroze Jeejeebhoy Towers,
+ Plot No. C-1, G Block,                                     Dalal Street,
+ Bandra Kurla Complex, Bandra (East)                        Mumbai - 400 001.
+ Mumbai - 400 051
+
+ Scrip ID - STLTECH                                         Scrip Code - 532374
+
+ Sub.: Transcript of Investor/ Analyst Meet
+
+ Dear Sir/Madam,
+
+ In furtherance of our letter dated August 31, 2026, please find enclosed transcript of investor/ analyst
+ meet held on September 03, 2026.
+
+ The same is also being hosted on the website of the Company and is available under the tab ‘Our Growth
+ Roadmap’ at: https://stl.tech/investor/#growth-roadmap.
+
+ Kindly take this on record.
+
+ Thanking you.
+
+ Yours faithfully,
+ For Sterlite Technologies Limited
+ MRUNAL   Digitally signed by
+          MRUNAL
+ ASAWADEK ASAWADEKAR
+          Date: 2026.09.07
+ AR       12:33:05 +05'30'
+
+ Mrunal Asawadekar
+ Company Secretary & Compliance Officer
+ Membership No.: A 24346
+
+ Encl.: As above.
+
+
+
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.
+CIN - L31300PN2000PLC202408
+
+                      “Sterlite Technologies Limited
+
+                       Investor & Analyst Meeting”
+
+                             3rd September, 2026
+
+
+
+
+MANAGEMENT:   MR. ANKIT AGARWAL – MANAGING DIRECTOR –
+              STERLITE TECHNOLOGIES LIMITED
+              MR. AJAY JHANJHARI – GROUP CHIEF FINANCIAL
+              OFFICER – STERLITE TECHNOLOGIES LIMITED
+              MR. RAHUL DARAK – HEAD, INVESTOR RELATIONS –
+              STERLITE TECHNOLOGIES LIMITED
+
+
+
+
+                                    Page 1 of 8
+
+                                                                                Sterlite Technologies Limited
+                                                                                          3rd September, 2026
+
+Rahul Darak:     Good evening, everyone, and a very warm welcome to STL’s Investor Event. It is pleasure
+                 to have all of you with us today.
+
+                 Before we begin, I would like to draw your attention to the Safe Harbor Statement. Today’s
+                 remark may contain forward-looking statements that are subject to certain risks,
+                 uncertainties, and other factors, which could cause actual results to differ materially from
+                 those expressed or implied.
+
+                 Today, we have an exciting agenda lined up for you. Our Managing Director, Mr. Ankit
+                 Agarwal, will first share an update on the evolving industry landscape and share companies’
+                 strategic priorities. This will be followed by the financial perspective from our group CFO,
+                 Mr. Ajay Jhanjhari. With that, let me now invite Ankit to take us through STL’s growth
+                 roadmap. Over to you, Ankit.
+
+Ankit Agarwal:   Yeah, good day, everyone. We’re very excited to have all of you here. Thank you for taking
+                 the time.
+
+                 We’re bringing everyone together today because STL’s at a pivotal moment in its journey.
+                 The industry around us is changing, the nature of optical demand is changing, and we believe
+                 these changes are opening up a significantly larger opportunity for STL than the one we’ve
+                 historically addressed. More importantly, they are reshaping the quality and nature of our
+                 revenue opportunities.
+
+                 As demand for optical connectivity is increasingly being driven by multiple structural and
+                 secular growth drivers, our business is becoming less dependent on traditional telecom
+                 investment cycles. So today, we would like to take a step back and talk about the nature and
+                 scale of this opportunity, why we believe STL is well-positioned to capture it, and most
+                 importantly, how we see our business and revenue profile going forward into a more
+                 structural, diversified, and less cyclical growth story.
+
+                 Let’s start with the change that is creating this next opportunity for STL.
+
+                 Up until a few years ago, the growth of the optical fiber was driven primarily by one thing,
+                 connecting people. Demand accelerated through broadband, FTTH, 4G, 5G, and large-scale
+                 fiber deployment programs such as Bharat Net in India and BED project in the US.
+
+                 STL’s been part of this journey for decades, building the fiber and cable infrastructure that
+                 has enabled this connectivity. Our traditional telecom markets remain an important part of
+                 STL’s business, and continue to benefit from the ongoing expansion of connectivity. But
+                 along this, a new, rapidly scaling opportunity is emerging, connecting intelligence.
+
+                 As AI adoption accelerates, connectivity is moving deeper inside the data center and closer
+                 to the compute. AI data centers can bring together tens of thousands of compute devices,
+                 creating significantly higher requirements for bandwidth, fiber latency, and high
+                 performance connectivity.
+
+                 So, for STL, we see two important growth engines coming together. The continued
+                 expansion of connectivity between people through telecom, alongside a rapidly growing
+                 need to connect intelligence and compute inside AI data centers.
+
+
+
+                                              Page 2 of 8
+
+                                                                Sterlite Technologies Limited
+                                                                          3rd September, 2026
+
+Together, we are creating multiple growth drivers for optical connectivity. There are now
+more places where optical connectivity is required, and significantly more optical content
+required within each of these places. This is a fundamental shift that’s expanding the
+opportunity for STL.
+
+The shift we just described becomes much more pronounced when you look at the visual on
+this slide. A traditional cloud data center on the left side was primarily to connect servers to
+users. The network was important, but computing was largely happening between the
+individual servers.
+
+An AI factory is completely different. AI workloads are distributed across thousands of
+GPUs, which need to be communicated with each other continuously in real time. As a
+result, the network is no longer simply connecting computers to users, it’s becoming an
+integral part of the compute system itself.
+
+And this visual brings that change to life. The image to the right, as presented by Jensen
+Wang at GTC, shows an AI factory. If you look closely, you can see what happens to an
+ocean of blue running across the racks. This is a fundamental shift. As AI clusters scale the
+bandwidth requirements increase, connections become significantly denser. And the optical
+connector becomes closer and closer to compute. In other words, we are moving from a
+world where fiber is primarily about connecting people, to one where fiber is increasingly
+connecting intelligence. And that is a fundamental new growth opportunity for optical
+connectivity.
+
+As we move closer to the AI data centers, we see two distinct layers of opportunity. The
+first is inside the data center, where increasing compute density is driving dramatic increase
+in optical content. The second is between data centers, where the scale-aware infrastructure
+is creating a growth demand for High-Bandwidth Data Center Interconnect, or DCI. Let’s
+first take a look at what’s happening inside the data center.
+
+At the rack level, the progression is striking. You can see the change very clearly at the rack
+level. If you look at the legacy front-end rack, you would typically require around 1000
+fibers per rack. As an AI infrastructure evolves, that number increases very dramatically.
+With Hopper, we’re talking about roughly 4,000 fibers per AC. With Blackwell, that
+increases to around 16,000 fibers per AC. And now, with the latest VERA Rubin, we’re
+looking at roughly 64,000 fibers per rack. That is a 64x increase in fiber content per rack in
+just a few generations of VR infrastructure.
+
+And you cannot simply be adding more conventional cables. You need high-density
+connectivity, you need better ways to manage these thousands of fiber connections, and you
+need to deploy… you need to be able to deploy them as quickly as possible and reliably
+through a range of pre-terminated solutions.
+
+The second layer of opportunity is what happens between these AI data centers on a campus.
+As AI clusters scale beyond a single facility with multiple data centers needed to operate as
+one connected infrastructure. And as the connectivity requirements increase faster than the
+number of data centers themselves. Two data centers require 1 interconnection, 4 require 6,
+6 require 15, and 10 require 45.
+
+
+
+                              Page 3 of 8
+
+                                                               Sterlite Technologies Limited
+                                                                         3rd September, 2026
+
+So every new data center adds not just one more endpoint, but multiple new interconnection
+paths. As AI data centers scale, interconnections multiply, growing far faster than the
+number of data centers themselves.
+
+Coming to India, as AI infrastructure scales globally, we’re seeing a significant opportunity
+emerging in data centers in our home market in India. India currently has approximately
+1.5GW of data center capacity. And this is expected to increase a whopping 10 gigawatts
+by 2030, implying a 46% CAGR. This growth has been supported by favorable environment
+policy, including a tax holiday to 2047, and strong power availability across multiple sites
+in India. India is also sending its connective infrastructure with four submarine cables under
+commissioning, and another 3 already under planning.
+
+Against this backdrop, leading hyperscalers are making multi-billion dollar investments in
+India across cloud, AI, and data center infrastructure. For STL, this option is particularly
+relevant. A local end-to-end manufacturing footprint, engineering capabilities, and
+established ecosystem serve us very well to manage this growth with proximity and with
+speed.
+
+Importantly, the largest players driving this build-out are customers that STL already serves
+globally. We’re already supplying to all… almost all the major hyperscalers, giving us a
+strong understanding of their requirements and deployment needs. As these customers scale
+in India, we have an option to extend these global relationships into our home market.
+
+What we’re seeing today is a significant expansion of the role of optical connectivity, from
+connecting people and networks to connecting compute, intelligence, and the infrastructure
+around them. For STL, this is a natural extension of the capabilities we’ve built over almost
+38 years.
+
+We’re one of the few companies globally with end-to-end vertical integration across the
+optical value chain. We make our own glass, we manufacture the fiber, we make the cable,
+build the connectivity solutions, all in-house and at scale. This integration has been built
+over decades, plant by plant, technology by technology, with our own IP. This gives STL
+greater control over quality, innovation, cost, and speed of execution, and allows us to
+engineer solutions across the optical stack.
+
+Today, the Foundation has translated to a meaningful global scale. STL has approximately
+9% of the global optical fiber market outside China, supported by a technology portfolio of
+over 785 patents, and more than 10 advanced manufacturing facilities across key markets.
+Our global footprint gives us the manufacturing scale and proximity to serve customers
+across North America, Europe, and in India, where a technology-based allows us to
+continuously extend what we can offer today.
+
+Everything we have discussed brings us to a defining moment at STL now. We are operating
+as structurally expanding optical connectivity market, with demand increasing, being driven
+by multiple secular growth drivers across telecom and AI data centers. This is creating a
+larger, more diversified, and increasingly less cyclical opportunity than the market we have
+historically addressed. We have built the capabilities, technologies, and global scale to
+
+
+
+
+                             Page 4 of 8
+
+                                                               Sterlite Technologies Limited
+                                                                         3rd September, 2026
+
+participate in it. And now we see a clear opportunity to translate that foundation into the
+next phase of STL’s growth.
+
+Today, we are very proud to announce Lakshya, STL’s growth ambition for FY29.
+
+Under Lakshya, we’re targeting 20,000 crore revenue by FY29, while building STL into one
+of the largest global players for digital connectivity. Lakshya’s ambition to transform the
+scale and position of STL, to build on our strength of our core, stronger economics, deeper
+customer relationships, and a larger role in the world’s rapidly expanding digital
+infrastructure. Lakshya is our roadmap for the next phase of STL, and today, we begin this
+journey.
+
+And there are 4 key drivers behind this growth ambition. The first is expanding of the optical
+TAM itself, total addressable market.
+
+The opportunity for the optical is expanding in two dimensions. Optical is moving into more
+parts of the infrastructure, where the optical content within each deployment is also
+increasing. What was once a relatively small optical layer around the network is becoming
+a dense, mission-critical connectivity layer across the data center, the rack, and the broader
+campus. At the same time, as bandwidth and compute density increase, connectivity is
+progressively shifting from copper to optical, further expanding the optical content within
+the infrastructure.
+
+The second is customer co-development. STL is increasingly working with customers
+earlier in the design cycle, moving from being a supplier of components to a partner and
+developing the connectivity architecture. Our teams work closely with customers day in and
+day out to understand the specific performance, density, deployment, and scalability
+requirements, and then engineer solutions around those requirements.
+
+This approach is particularly valuable in the AI infrastructure space, where architectures are
+evolving rapidly, and connective requirements are becoming increasingly complex. For
+STL, earlier engagement… earlier engagement enables deeper relationships and strong
+technical integration. More importantly, it positions us to move up the value stream and
+become embedded in the customer architecture and capture greater share of the optical
+connectivity opportunity.
+
+The third is our integrated connectivity solutions. As STL moves closer to the customer, at
+the architecture level, our opportunity expands beyond the individual components. AI, a
+high-density AI deployment requires integrated connectivity stack, from fiber and cable to
+assemblies, connectors, and the systems that bring them all together. Our strategy is to
+increasingly provide this connectivity as an integrated solution, simplifying deployment for
+customers while allowing STL to capture a greater share of the value across the connectivity
+stack.
+
+And finally, but very, very important, technology-led differentiation. We know that the
+requirements of the optical infrastructure will continue to evolve at a rapid pace, and the
+solutions that work today may not necessarily be sufficient for tomorrow.
+
+
+
+
+                             Page 5 of 8
+
+                                                                                  Sterlite Technologies Limited
+                                                                                            3rd September, 2026
+
+                  That is why STL is investing ahead of the curve. We are developing hollow-core fiber,
+                  multi-core fiber technologies internally, and building capabilities that can address the next
+                  generation requirements from lower latency and faster transmission. We’re also pushing the
+                  boundaries of what can be manufactured today, including our 13,000 fiber count capability,
+                  designed to address the rapidly increasing density requirements on next-generation networks
+                  and AI infrastructure. At the same time, we have initiated in-house development of co-
+                  packaged optics and near-packaged optics as optical connectivity moves progressively from
+                  closer to the compute to the chip level.
+
+                  To enable these multiple growth drivers and capture the expanding opportunity ahead, we’re
+                  now scaling our manufacturing capabilities across the value chain. Let me now hand over
+                  to Ajay, our CFO, who will take you through our capacity expansion plans and financial
+                  perspective behind our next phase of growth. Over to you, Ajay.
+
+Ajay Jhanjhari:   Thank you, Ankit. As Ankit just outlined, STL is entering the next phase of its growth
+                  journey, and today we are translating that opportunity into a clear roadmap, Lakshya.
+
+                  Lakshya set out our ambition for FY29 across two key financial dimensions. One is scale,
+                  another is profitability.
+
+                  On scale, we are targeting revenue of 20,000 crore by financial year 2029, compared with
+                  4,750 crore of revenue in FY26, representing an ambition to grow our business by more than
+                  4x in just 3 years.
+
+                  And equally importantly, this growth will be accompanied by a significant transformation
+                  in our profitability. From an EBITDA margin of 13.2% in FY26, we are targeting an
+                  EBITDA margin of 27% plus by FY29, and improvement of more than 1380 basis points.
+
+                  Together, these targets represent much more than financial aspirations. They reflect our
+                  roadmap to significantly scale STL, strengthen the quality of our earnings, and build a larger,
+                  more profitable, and globally competitive company.
+
+                  What gives us confidence in this trajectory? First, we expect continued growth in our core
+                  optical business, supported by an open order book of more than $2 billion, providing strong
+                  visibility into the opportunity ahead.
+
+                  Second, we are increasing our participation in higher value and integrated connectivity
+                  solutions, allowing us to capture more value from every customer relationship. And finally,
+                  the scale we are building will drive operating leverage through better utilization, a richer
+                  product mix, and a growing contribution from higher-value solutions.
+
+                  The results are already visible. Q1 FY27 marked an important turning point for STL, with
+                  our highest ever quarterly revenue EBITDA impact. More importantly, this reflects a
+                  broader improvement in our quality of the business, with a strong operating base, a healthy
+                  order book providing revenue visibility, and a strengthening balance sheet providing the
+                  capacity to invest.
+
+                  Let me now turn to how we will support Lakshya with right capital allocation. Our approach
+                  is straightforward. We’ll invest behind the opportunities where we see the strongest
+
+
+
+                                               Page 6 of 8
+
+                                                                                 Sterlite Technologies Limited
+                                                                                           3rd September, 2026
+
+                 combination of growth, differentiation, and longer-term returns. Over the next 3 financial
+                 years, we plan to invest approximately 1,000 crores annually, expanding our preform fiber
+                 and cable capacities by 50%, allowing us to scale with demand visibility.
+
+                 This investment will strengthen the foundation of our business, while giving STL the
+                 capacity to participate in the next wave of optical demand across telecom, AI data centers,
+                 and DCI.
+
+                 We are also making targeted investments in downstream connectivity to serve our customers
+                 more effectively. Our new Greenfield Optical Connectivity Facility in India will enable us
+                 to address the rapidly growing demand of data centers and AI infrastructure with higher
+                 density, integrated connectivity solutions, while we also create massive employment
+                 opportunities.
+
+                 Importantly, our capital allocation plan is not only about adding capacity. We will continue
+                 to invest in technology ahead of the market, committing approximately 2% of our average
+                 annual revenue to innovation. This is already visible in the capabilities we are developing
+                 in hollow-core fiber, multi-core fiber, and co-packaged optics. We expect these investments
+                 to translate into higher growth, stronger margins, and better returns on the capital.
+
+                 This is how we intend to invest behind Lakshya and create sustainable long-term value for
+                 our investors and shareholders. We are also at… we have also added a slide on key risk and
+                 assumptions. Please feel free to review it at your convenience. With that, let me hand it back
+                 to Ankit for closing remarks.
+
+Ankit Agarwal:   Thank you, Ajay. Just want to share that, you know, when the company began making
+                 optical fiber in India, you know, several decades back, the question we were asked was
+                 whether India needed it at all. Why do we need this?
+
+                 Fiber was something that the world’s most advanced economies built. India, it was assumed,
+                 would only just buy from them. We disagreed. And for more than 30 years, under the
+                 chairman… under the vision of our chairman, Mr. Anil Agarwal, this company helped build
+                 the fiber backbone that India’s digital economy now runs on. Designed here, engineered
+                 here, manufactured here.
+
+                 I raise it because that… the question in front of us today has the same shape. The world is
+                 building the largest infrastructure program of our generation. It runs on fiber optics. And the
+                 assumption, once again, is that technology at the frontier will come from somewhere else,
+                 some other country, and we disagree again.
+
+                 And this time, we’re not starting from zero. We have the glass, we have the fiber, we have
+                 the cable, we have the connectivity, we have the talent, we have the customers, and we have
+                 the balance sheet. We have a market expanding faster than the industry can supply it, and
+                 we’ve just delivered the strongest quarter in our company’s history. Lakshya is our ambition
+                 for what our position can become.
+
+                 At STL, we’re excited about the immense opportunities that lie ahead, and proud to be an
+                 Indian multinational company, powering the next generation of AI, and enabling the
+
+
+
+
+                                              Page 7 of 8
+
+                                                              Sterlite Technologies Limited
+                                                                        3rd September, 2026
+
+generational transformation that it will bring. We’re proud to do this from India, and proud
+to be Indian. Jai hind.
+
+
+
+
+                             Page 8 of 8
+

@@ -1,0 +1,559 @@
+23 July 2026
+
+BSE Limited                                            National Stock Exchange of India Ltd
+PJ Towers, 25th Floor,                                 Exchange Plaza,
+Dalal Street                                           Bandra-Kurla Complex, Bandra (E)
+Mumbai 400 001.                                        Mumbai-400 051.
+Scrip Code: 532175                                     Scrip Code: CYIENT
+
+
+Dear Sir/ Madam,
+
+Sub: Outcome of Board meeting
+
+Ref: Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+
+Further to our intimation dated 10 July 2026, regarding a meeting of the board of directors pursuant to
+regulation 29(1) of SEBI (LODR) regulations, the Board at their meeting held on Thursday 23 July 2026
+has inter-alia, transacted the following business:
+
+     1. Approved the Un-audited financial results (Consolidated and Standalone) for the quarter ended
+        30 June 2026 is enclosed as Annexure -A
+     2. Appointment of Mr. Muralidhar Yadama (DIN:00034952) as Independent Director of the
+        Company; Information as required under Regulation 30 –Para A of Part A of Schedule III of SEBI
+        (Listing Obligations and Disclosure Requirements) Regulations, 2015 is enclosed as Annexure-B
+
+
+The Meeting of Board of Directors of the Company commenced at 01:45 P.M. IST and concluded at
+04:30 P.M. IST
+
+The above information will also be available on the website of the Company at www.cyient.com
+
+We request you to kindly take the above on record.
+
+Thanking you
+For Cyient Limited
+Sudheendh Digitally signed by
+          Sudheendhra Putty
+
+ra Putty  Date: 2026.07.23
+          16:54:32 +05'30'
+
+
+Sudheendhra Putty
+Company Secretary
+
+
+
+
+Cyient Ltd.           4th Floor, A Wing, 11 Software    CIN: L72200TG1991PLC013134
+                      Units Layout, Madhapur             www.cyient.com
+                      Hyderabad -500 081                 Company.secretary@cyient.com
+                      India                              T +91 40 6764 1000
+                                                         F +91 40 2311 0352
+
+                                                                                                                                                               Annexure -A
+                                                                                                                     CY IENT LIMITED
+                                                                                                         (CIN No.: L72200TG1991PLC013134)
+                                                                Regd office: 4th Fl oor. '"A'" Wing. Plot No. 11, Softwa re Units Layout, lnfocity, Madhapur, Hyderabad - 500 081, India
+                                                                    Statement of Unaudited Consolidated and Standalone Financial Results for the Quarter Ended June 30, 2026
+                                                                                                                                                                                                                                  (i!' in Mill ions)
+                                                                                                                                              Consolidated resu lts                                         Sta ndalone resu lts
+                                                                                                                                            Quarter Ended                    Year Ended                  Quarter Ended                 Year Ended
+SI. No                                                       Particulars                                                     30-Jun-26       31-Mar-26     30-Jun-25         31-Mar-26      30-Jun-26     31-Mar-26      30-Jun-25 31-Mar-26
+                                                                                                                                               Audited                                                       Audited
+                                                                                                                             Una udited                        Unaudited      Audi ted      Unaudited                        Unaudited    Audi ted
+                                                                                                                                            (refer note 8)                                                (refer note 8)
+  1      Income
+         fa) Revenue from contracts w ith cus tomers                                                                            20,757             19,269         17,118         72,682         6,796             6,182          5,485       23,633
+         fb) Other income [refer note 4)                                                                                            69                266            697          1,772           200               172            587        1,389
+         Total in come                                                                                                          20,826             19,535        17,815         74,454         6,996              6,354          6,072       25,022
+  2      Expenses
+         (a) Employee benefits expense                                                                                          ll, 228            10,440          9,633         40,340         3,444             3,2 77         3,206       13,032
+         fb) Cost of material s co nsumed                                                                                        2,929              2,657          1,618          8,128
+         fc) Changes in inventories of finished goods, stock-in-trade and wo rk-in-progress                                          71              (304)            70           (266)
+         fd) Finance costs                                                                                                          217               145            163            608            25                23             29           104
+         (e) Depreciation and amo rtisation expe nse                                                                                767               679            680          2,782           205               204            202           806
+         ff) Im pairment of non-current assets                                                                                                        278                           278
+         fg) Other expenses                                                                                                       3,891             3,961          3,490         15,098         1,411             1,629          1,025         4,881
+         Total expenses                                                                                                         19,103             17,856        15,654         66,968         5,085              5,133          4,462       18,823
+  3      Profit before share of loss from an associate, exceptional items and tax (1-2)                                          1,723              1,679         2,161          7,486         1,911              1,221          1,610        6,199
+  4      Share of loss from an associate                                                                                            (12)               (17)          (25)          fl 13)
+  5      Profit before exceptional items and tax (3+4)                                                                           1,711              1,662          2,136          7,373        1,911              1,221          1,610        6,199
+  6      Exceptional items                                                                                                                            (712)                        (928)                           (712)                      (3,309)
+  7      Profit before tax (5+6)                                                                                                 1,711                950          2,136          6,445        1,911                509          1,610        2,890
+  8      Tax expens e
+         fa) Current tax                                                                                                           614                 726           SR7          2.706           355               310            423         1,654
+         fb) Deferred tax                                                                                                           10                (43 11         (25)          (891)          119              (183)                        (310)
+         Total tax expense                                                                                                         624                295            562          1,815          474                127            423        1,344
+  9      Net Profit for the period/y ear (7-8)                                                                                   1,087                655          1,574          4,630        1,437                382          1,187        1,546
+         Attri butabl e to:
+            Shareholders of the Company                                                                                          1,041                548          1,538          4,279        1,43 7               382          1,187        1,546
+            Non-controlling interests                                                                                                  46              107            36            351
+ 10      Other comprehensive income
+         fa) Other comprehensive income not to be recla ssified to profit or loss in subsequent periods:
+            fi) Re-measurement gain/floss) on defined benefit plans                                                                 (27)                17            (7)            20           (27)                  9           (8)               7
+                Income tax effect on above                                                                                            7                 (6)            1             (7)            7                  (4)           2               (:J]
+            (ii) Fair val ue change on financial instruments                                                                                          (123)                        (161)                              46                          46
+                Incom e tax effect on above                                                                                                            (11)                         (11)          .                  f 11)                       (11 l
+         fb) Other comprehensive income to be reclassified to profit or loss in s ubseq ue nt periods:
+            (i) Exchange d ifferences in translating th e financial statements of for eign ope rations                              188              1,105           828          2,962
+            (ii) Effective po rtion of gain/(loss) o n desig nated port ion of hedging instrum ents in a cash fl ow hedge           264               (242)         ( 124)         (473)          254              (225)          (124)         (452)
+                 Income tax effect on above                                                                                         [64)                61             31           118           [64)               57             31           114
+                                                                                                                                   368                801           729           2,448          170               (128)           [99)         [299)
+         Attributable to:
+           Shareholders of the Com pany                                                                                            366                849           729           2,483          170               (128)           (99)         (299)
+            Non-control ling intere sts                                                                                                 2              [48)                          [35)
+ 11      Total comprehensive income [9+10)                                                                                       1,455              1,456          2,303          7,078        1,607                254          1,088        1,247
+         Attributable to:
+           Shareholders of the Company                                                                                           1,407              1,397          2,267          6,762        1,607                254          1,088        1,247
+
+ 12
+           Non-control ling interests
+         Paid-up eq uity share capital [Face Value of i!' 5 per share]
+                                                                                                  -                                    48               59            36            316
+                                                                                                                                                                                    556                                                          556
+ 13      Other equ ity                                                                            1 Lt                                                                          56,263                                                       35,341
+ 14      Earn ings Per Share fFacc Value of i!' 5 per share]*                              ~                ~
+         (a) Basic fin i!')
+         (b) Diluted fin i!']                                                           I~~                    ~l                  9.42
+                                                                                                                                   9.37
+                                                                                                                                                       4.96
+                                                                                                                                                       4.93
+                                                                                                                                                                    13.95
+                                                                                                                                                                    13.86
+                                                                                                                                                                                   38.78
+                                                                                                                                                                                   38.54
+                                                                                                                                                                                                13.00
+                                                                                                                                                                                                12.93
+                                                                                                                                                                                                                    3.46
+                                                                                                                                                                                                                    3.44
+                                                                                                                                                                                                                                 10.77
+                                                                                                                                                                                                                                 10.70
+                                                                                                                                                                                                                                               14.01
+                                                                                                                                                                                                                                               13.93
+
+*EPS for the interim periods are not annualised.
+                                                                                           *~                  *                                                                                                                           (Page J of3J
+                                                                                               rD£pp.,.'o~<v
+                                                                                                  --
+
+NOTES:
+
+  Th e above stat ement of unaudite d co ns olid at ed and sta nd alone finan cial res ults of Cy ient Limited (th e "H oldin g Co mp a ny" or th e "Compa ny"), its s ubsidiari es (th e Holdin g Co mp any and its
+  s ubs idi ari es togeth er referred to as th e "G ro up ") and a n associat e has been prepa r ed in a ccord ance w ith th e Indi an Acco untin g Sta nd ard s (' Ind AS') prescrib ed und er Secti o n 133 of th e
+  Co mpani es Act, 2013 ("th e Act") rea d w ith releva nt rules iss ued th ereund er, oth er acco untin g prin cip les ge nerally accepted in Indi a and guid elin es iss ued by th e Securities and Exch a nge Boa rd
+  of India ("S EBI "). Th ese res ults w ere reviewed a nd reco mm end ed by th e Audit Co mmittee a nd appro ved by th e Boa rd of Directors at th eir m eetings h eld on Ju ly 23, 2026 . Th e Sta tutory Auditors
+  have carri ed out a limited revi ew of th e unaudited co nso lid at ed and stand a lon e fin ancial res ults and issu ed unmodifi ed reports th ere on.
+2 Th e Co mp any, th ro ugh its s ubsidi ary, Cy ient Cayman Limited, acq uired m ajority stake of 82.9% in Kin eti c Techn ologies on April 8, 2026, upo n sa t isfacti on of th e clos in g co nditi ons fo r a
+  co nsid erati on on 7,9 10 Mn (US$ 85 Mn) , w hich in cl uded fund s retain ed w ith in Cyie nt Cayman Limited to supp ort th e ongo in g operati ons a mountin g t o { 1,023 Mn (US$ 11 Mn) , r es ultin g in net
+  purchase co ns id erati on of { 6,887 (US$ 74 Mn) . Further, th e non- co ntrollin g s hareh old ers have put option towa rd s th eir shareh olding on th e Group, exer cisabl e a ft er four yea rs base d on th e
+  agree d term s. At th e end of each reporting p eri od, liability in res pect of put opti on is r ecogni ze d at present valu e of th e red emption amount, where in th e non-controlling inter es ts s ubj ect t o put
+  opti on is derecognis ed and th e difference betwee n the amount d erecogni sed a nd prese nt va lu e of th e red empti on am ount is acco unted as an eq uity transacti on.
+
+  Th e transaction was acco unted in accordance with Ind-AS 103, 'Busin ess Combination s ' and th e initial a ccounting has be en provis ion ally d etermined. Th e Group recognis ed { 2,79 2 Mn (U S$ 30
+  Mn) to ward s th e fair valu e of net ass ets a cquired, {4,6 54 Mn (US$ SO Mn) toward s goo dwill, non-controlling interest on 465 Mn (US $ 5 Mn) and pre -co mbin ati on e mployee st ock options of { 93
+  Mn (US $ 1 Mn) . Fu rth er, th e Group has r ecognise d a fi nan cial liability in r esp ect of th e put option gra nted to th e non- co ntrollin g sharehold ers, m eas ured at { 2,457 Mn (US$ 26 Mn) as of th e
+  acquis iti on date.
+
+   Fro m th e dat e of acquis iti on, Kin eti c Techn ologies has co ntributed revenu e am ounting t o { 984 Mn (US$ 10.4 Mn) and loss befo re tax amountin g t o { 177 Mn (US$ 1.9 Mn) to th e Group's
+   p erfo rm a nce. The acqu is iti on pertain s to the Gro u p's Semi co nductors Segment.
+
+3 On May 30, 2026, th e Co mpany ente red into a Shar e Purchase Agree m ent (' SPA') to acquire 100% stake in TAO Di gital Solutions In c. an Al-nati ve data and pro du ct engin ee rin g so lu t ions
+  Co mpa ny hea dqu artered in California, USA, fo r a consid e ration of a pprox im ately US$ 218 Mn, co ns istin g of upfront cons id erati on of US$ 130 Mn a nd co ntinge nt co ns id eration base d on futu re
+  perfo rm a nce. The acqu is itio n is su bject to custo mary clos ing co nditions and rece ipt of ap plicable regula tory approvals. Consequently, no impact of thi s transactio n has been consi d ered in the
+  co nsol id ated fi nancial resu lts fo r the qua rter ended June 30, 2026.
+
+4 Other incom e includes:                                                                                                                                          (fin Millions)
+                                             Particulars                                                           Quarter ended                                  Year ended
+   i. Net foreig n excha nge ga in /rtoss)                                                      30-Jun-26           31-Mar-26              30-Jun-25              31-Mar-26
+       Sta ndalone results                                                                            (209)                  (25)                  407                       59 1
+       Consol idated res ults                                                                         (234)                  (18)                  465                       595
+
+   ii. During the qua rte r ended June 30, 2026, the Co mpany received a dividend of { 132 Mn fro m Cyient Austral ia Pty Limi t ed, its wholly owned subsidiary and the sa m e is recognised as 'Other
+   in co me' in the sta nd alo ne fin a ncia l res ults.
+
+5 The Board of Di rectors of the Co mpa ny, at its meeti ng held on April 23, 2026, approve d a pro posal for the Company to buyback up to 6,400,000 fully pa id-up eq uity shares of face value {5 each,
+  comprising 5.76% of the total pa id-up eq uity share ca pital of the Compa ny as of March 31, 2026, thro ugh th e tende r offer rou t e, fro m the eli gible eq u ity share holders of the Co mpany, at a price of
+  '{ 1,125 per eq uity sha re, fo r an aggregate amo unt not exceed ing'{ 7,200 Mn (excl ud ing tra nsactio n cos ts). Th e share holders a pproved th e proposal for buyback of eq ui ty sha res by way of spec ial
+  resol uti on, the res ults of wh ich were an nou nce d on June 10, 2026. The te nde ri ng period for the buyback opened on Jun e 23, 2026 and closed on Ju ne 30, 2026 a nd th e Com pa ny has m ade
+  payment to all the shareholde rs w hose bids were val id and accep ted under t he b uyback on July 06, 2026, thro ugh th e stock exchange settlement mechan ism. The ext in guis hm ent of all accept ed
+  shares held in de material ised form was co mpleted on July 15, 2026, in acco rdance w ith the ap plicable Buyback Regulation s.
+
+  Sin ce the buyback pro cess, in cl udin g th e extin gui shm ent of 6,400,00 0 eq uity s ha res, was co mpl eted subse qu ent to the r ep orti ng date, i.e., Jun e 30, 2026, th e t ra nsaction is co ns idered as a non-
+  adj ustin g event un der Ind AS 10 - Eve nts aft er the Reporti ng Period. Acco rd in gly, no im pact of the buyback has been recognised in thes e financial res ults.
+
+6 Du r in g th e qu arter ended Jun e 30, 2026, th e Co mpany has allott ed 15,616 equity sha r es of { 5 eac h, co nseq uent to the exerc ise of th e st ock opti ons by the associates of th e Com pa ny un de
+  Assoc iate Stock Op tion Plans.
+
+                                                                                                                                                                                                                (Page
+
+7 SEGMENT REPORTING·                                                                                                                              (fin Millions)
+                                                                                                        Quarter Ended                              Year Ended
+                                                                                      30-Jun-26          31-Mar-26              30-Jun-25          31-Mar-26
+                                   Particulars
+                                                                                                             Audited
+                                                                                      Unaudited                                 Unaudited           Audited
+                                                                                                         ( refer note 8)
+  Segment revenue
+  Digital, Engineering & Tech nology (DET)                                                  15.402                14,996               13,925            58,189
+  Design Led Manufacturing (O LM)                                                            3,738                 3,691                2,784            12,615
+  Semiconductors                                                                             1,697                   658                  472             2,283
+  Others                                                                                        81                    78                   74               343
+  Total                                                                                     20,918                19,423              17,255            73,430
+  Less: Inter segment reven ue                                                                  161                   154                  137                748
+  Revenue from contracts with customers                                                     20,757                19,269              17,118            72,682
+  Segment results
+  Digital, Engineer in g & Tech nology (DET)                                                  1,884                 1,854               1,672             6,911
+  Design Led Manufacturing (OLM)                                                                286                   330                 152             1,075
+  Semi co nductors                                                                             (284)                 (327)               (182)           (1,078)
+  Others                                                                                        [13)                 (291)                  (8)            (331)
+  Total                                                                                      1,873                 1,566               1,634             6,577
+  Less:
+  Finance costs                                                                                 217                   145                  163                608
+  Add:
+  Exceptional items                                                                                                  (7 12)                                (928)
+  Other unallocable income/ (expense) (net)                                                      67                   258                  690            1,517
+  Share of loss from a n associate•                                                             (12)                   (17)                (25)            (113)
+  Profit before tax                                                                          1,711                   950               2,136             6,445
+  Tax expense                                                                                   624                   295                  562            1,815
+  Profit for the period /year                                                                1,087                   655               1,574             4,630
+                                                                                                                              Asat
+                                                                                                           30-Jun-26            31-Mar-26           30-(un-25
+                                                                                                           Unaudited             Audited            Unaudited
+  Capital employed (Segment assets - Segment liabilities)
+  Segment assets
+  Digital, Engineering & Tech nology (DET)                                                                        39,560               39,071            38,652
+  Design Led Manufacturing (OLM)                                                                                  17,826               17,236            15,050
+  Semiconductors                                                                                                  12.414                3,661             3,438
+  Others                                                                                                             362                   333              581
+  Unallocabl e                                                                                                    22,654               22 ,943           22,231
+  Total segment assets                                                                                           92,816               83,244            79,952
+  Segment liabilities
+  Digital, Engineering & Technology (DET)                                                                         10,883               10,938             8,613
+  Design Led Manufacturing (OLM)                                                                                   4,007                3,893             3,574
+  Sem iconductors                                                                                                  3,810                  70 3              370
+  Others                                                                                                              36                   47                33
+  Unallocable                                                                                                     12,874                6,030             7.416
+  Total seement liabilities                                                                                      31,610               21,611            20,006
+  • Pertains to Semiconductors segment.
+  Notes:
+  Segment in for ma tion is p resented in acco rd a nce with Ind AS 108 "Operating Segments" for the co nsolidated fin ancial results.
+  The CODM reviews the bus in ess across four operating segments:
+  Digital, Engineering & Technolobry (DET) segmen t co n sists of Group's bus iness of engi n eer ing snl11t•ions r1:cTns..: multiJllE.l in clu<:rrie<: including
+  Transportation & Mobility (such as Aerospace, Rail & Automotive), Networks & Infrastructure [such as Connectivity and Utiliti es) and Strategic
+  un its (such as Mining & Min erals , Energy, Healthca re & Lifescien ces).
+  Design Led Manufacturing (DLM) segment co ns ists of Group' s busi ness of Electronics Manufactu ring Services.
+  Semiconductors segment co ns ists of Group's business of design, development and supply cha in ma nageme nt of se miconductor chips.
+
+  Others segment cons ists of Group's other business operati ons wh ich includes Aerospace Tooling div ision.
+
+
+8 The figures fo r the quarter ended March 31, 2026 are the balan cin g figures between the aud ited figure s in respect of the full financial year e nd ed
+  March 31 , 2026 and published yea r to date fi gures upto third quarter Decembe r 31, 2025 wh ich were sub jected to a limited review.
+
+  Cu rrent quarter numbers may not be stri ctly compa rable w ith com parative numbers due to the acquisitions in the current quarte r end ed June 30,
+  2026.
+
+                                                                                                                        for CYIENT LIMITED
+                                                                       .--:::::--
+                                                                 ,(~           L
+                                                                   ·</·
+
+Place : Hyderabad
+Date: July 23, 2026                                                                                    Executive Vi e Chairman and Managing Director
+                                                                               ,1
+                                                                                                                                                    (Page 3 of 3)
+
+                                                                                                                    THE SKYVIEW 10
+S.R. BATLIBOI & ASSOCIATES LLP                                                                                      18th Floor, "NORTH LOBBY"
+                                                                                                                    Survey No. 83/1, Raidurgam
+Chartered Accountants                                                                                               Hyderabad - 500 032, India
+                                                                                                                    Tel : +91406141 6000
+
+   Independent Auditor's Review Report on the Quarterly Unaudited Consolidated Financial Results of
+   Cyient Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure
+   Requirements) Regulations, 2015, as amended
+
+   Review Report to
+   The Board of Directors
+   Cyient Limited
+
+   I.   We have reviewed the unaudited consolidated financial results of Cyient Limited (the "Holding Company")
+        and its subsidiaries (the Holding Company and its subsidiaries together referred to as "the Group") and its
+        associate for the quarter ended June 30, 2026 included in the accompanying "Statement of Unaudited
+        Consolidated and Standalone Financial Results for the quarter ended June 30, 2026" (the "Statement")
+        attached herewith, being submitted by the Holding Company pursuant to the requirements of Regulation 33
+        of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 20 I 5, as amended (the "Listing
+        Regulations").
+
+   2.   The Holding Company's Management is responsible for the preparation of the Statement in accordance with
+        the recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34)
+        "Interim Financial Reporting" prescribed under Section 133 of the Companies Act, 2013 as amended, read
+        with relevant rules issued thereunder and other accounting principles generally accepted in India and in
+        compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by the Holding
+        Company's Board of Directors. Our responsibility is to express a conclusion on the Statement based on our
+        review.
+
+   3.   We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+        2410, "Review of Interim Financial Infonnation Perfonned by the Independent Auditor of the Entity" issued
+        by the Institute of Chartered Accountants oflndia. This standard requires that we plan and perform the review
+        to obtain moderate assurance as to whether the Statement is free of material misstatement. A review of interim
+        financial information consists of making inquiries, primarily of persons responsible for financial and
+        accounting matters, and applying analytical and other review procedures. A review is substantially less in
+        scope than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+        us to obtain assurance that we would become aware of all significant matters that might be identified in an
+        audit. Accordingly, we do not express an audit opinion.
+
+        We also performed procedures in accordance with the Master Circular issued by the Securities and Exchange
+        Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+   4.   The Statement includes the results of the following entities:
+
+        Holding Company:
+
+        Cyient Limited
+
+        Subsidiaries:
+        I.  Cyient Inc., United States of America
+        2.  Cyient Canada Inc., Canada
+        3.  Cyient Defense Services Inc., United States of America
+        4. CDS Lavender Holdings Inc., United States of America (incorporated w.e.f. February 17, 2026)
+        5. Cyient Insights Private Limited, India
+        6. Cyient Europe Limited, United Kingdom
+        7. Cyient Benelux BV, Netherlands
+        8. Cyient Schweiz GmbH, Switzerland
+        9. Cyient S.R.O., Czech Republic
+        10. Cyient Semiconductors NV, Belgium
+        11. Cyient GmbH, Germany
+        12. Cyient AB, Sweden
+            Cyient K.K., Japan
+            Cyient OLM Limited, India
+
+
+
+                               S.R. Batliboi & Associate!> LLP, a Umlted Liability Partnership with LLP lder,t!ty No, AAB-4295
+                                            Regd. Office: 22, Camac Sheet. Bfock '8', 3rd F!nor, •i.olkata-700 016
+
+S.R. BATL/801 & ASSOCIATES LLP
+Chartered Accountants
+
+
+          15. Cyient Singapore Private Limited, Singapore
+          16. Cyient Austria GmbH, Austria (incorporated w.e.f. November 24, 2025)
+          17. Cyient Israel India Limited, Israel
+          18. Cyient Solutions and Systems Private Limited, India
+          19. Cyient Australia Pty Limited, Australia
+         20. Integrated Global Partners Pty Limited, Australia
+         21. Integrated G loba1 Partners SpA, Chile
+         22. Work Force Delta Pty Ltd, Australia
+         23. Grit Consulting Pte Ltd, Singapore
+         24. Celfinet - Consultoria EM Telecomunicas;oes, S.A, Portugal
+         25. Metemesonip, Unipessoal Lda, Portugal
+         26. Celfinet UK Telecommunications Consulting Services Ltd, United Kingdom
+         27. Celfinet Espaf\a - Consultoria en Telecomunicaciones S.L, Spain
+         28. Celfinet (Brasil) - Consultoria em Telecomunica<;oes, Ltda, Brazil
+         29. Celfinet Mozambique - Consultoria em Telecomunica<;oes, Limitada, Mozambique
+         30. Celfinet Mexico - Consultoria de Telecomunicaciones AS, Mexico
+         31. Cyient Semiconductors GmbH, Germany
+         32. Sentiec Oyj, Finland
+         33. Citec Group Oy Ab, Finland
+         34. Cyient Oy Ab, Finland
+         35. Citec Engineering France Sari, France
+         36. Cyient Engineering AB, Sweden
+         37. Cyient Engineering & Information GmbH, Germany
+         38. Cyient Group France SAS, France
+         39. Akilea Overseas Ltd., United Kingdom
+         40. Cyient Norway AS, Norway
+         41. Cyient Global Captive Solutions Private Limited, India
+         42. Cyient OLM Inc, United States of America
+         43. Cyient Semiconductors Private Limited, India
+         44. Cyient Project Management Consultancy LLC, United Arab Emirates
+         45. Cyient Semiconductors Inc, United States of America
+         46. Altek Electronics, Inc, United States of America
+         47. Abu Dhabi and Gulf Computers LLC, United Arab Emirates
+         48. Cyient Semiconductors Europe Private Limited, United Kingdom
+         49. Cyient Semiconductors Singapore Pte. Ltd., Singapore (incorporated w.e.f. July 04, 2025)
+         50. Cyient Cayman Limited, Cayman Islands (incorporated w.e.f. November 27, 2025)
+         51. Cyient Cayman Merger Sub Limited, Cayman Islands (incorporated w.e.f. December OI, 2025 and
+              merged w.e.f. April 02, 2026)
+         52. Kinetic Technologies, Cayman Islands (acquired w.e.f. April 08, 2026)
+         53. Kinetic Technologies Europe Limited, United Kingdom (acquired w.e.f. April 08, 2026)
+         54. Kinetic Technologies HK Ltd., Hong Kong (acquired w.e.f. April 08, 2026)
+         55. Kinetic Technologies (Shanghai) Ltd, China (acquired w.e.f. April 08, 2026)
+         56. Kinetic Technologies K.K., Japan (acquired w.e.f. April 08, 2026)
+         57. Kinetic Technologies Holdings LLC, United States of America (acquired w.e.f. April 08, 2026)
+         58. Kinetic Technologies International Holdings LP, Canada (acquired w.e.f. April 08, 2026)
+         59. Kinetic Technologies Semiconductor PTE LTD., Singapore (acquired w.e.f. April 08, 2026)
+         60. Kinetic Technologies, Inc., United States of America (acquired w.e.f. April 08, 2026)
+         61. Kinetic Technologies (Wuxi) Ltd, China (acquired w.e.f. April 08, 2026)
+
+         Associate entity:
+         Azimuth AI Inc., United States of America
+
+    5.   Based on our review conducted and procedures performed as stated in paragraph 3 above , nothing has come
+         to our attention that causes us to believe that the accompanying Statement, prepared in accordance with
+         recognition and measurement principles laid down in the aforesaid Indian Accounting Standards ('Ind AS')
+         specified under Section 133 of the Companies Act, 2013, as amended, read with relevant rules issued
+          hereunder and other accounting principles generally accepted in India, has not disclosed the information
+
+S.R. BATLIBOI & ASSOCIATES LLP
+Chartered Accountants
+
+
+          required to be disclosed in terms of the Listing Regulations, including the manner in which it is to be
+          disclosed, or that it contains any material misstatement.
+
+     6.   The accompanying Statement includes unaudited interim financial results and other unaudited financial
+          information in respect of an associate, whose unaudited interim financial results includes the Group's share
+          of net loss after tax of Rs. 12 Mn and Group's share of total comprehensive loss of Rs. 12 Mn for the quarter
+          ended June 30, 2026, as considered in the Statement, whose unaudited interim financial results and other
+          unaudited financial information have been reviewed by its independent auditor. This independent auditor's
+          report on unaudited interim financial results and other unaudited financial infonnation has been furnished to
+          us by the Management and our conclusion on the Statement, in so far as it relates to the amounts and
+          disclosures included in respect of the associate is based solely on the report of such auditor and procedures
+          perfonned by us as stated in paragraph 3 above. Our conclusion on the Statement is not modified with respect
+          to our reliance on the work done and the report of the other auditor.
+
+
+    For S.R. Batliboi & Associates LLP
+    Chartered Accountants
+    ICAI Firm registration number: 10 I 049W/£300004
+
+
+  @;~~
+    per Mitesh K Parikh
+    Partner
+    Membership No.: 225333
+
+    UDIN: 2G12.S333SlKQNfGt 1\2.
+    Place: Hyderabad
+    Date: July 23, 2026.
+
+                                                                                                                    TH[ SKYVIEW 10
+S.R. BATLIBOI & ASSOCIATES LLP                                                                                      18th Floor, "NORTH LOBBY"
+                                                                                                                    Survey No. 83/1, Raidurgam
+Chartered Accountants
+                                                                                                                    Hyderabad - 500 032, India
+                                                                                                                   Tel : +91406141 6000
+
+
+   Independent Auditor's Review Report on the Quarterly Unaudited Standalone Financial Results of Cyient
+   Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+   Regulations, 2015, as amended
+
+   Review Report to
+   The Board of Directors
+   Cyient Limited
+
+     1.     We have reviewed the unaudited standalone financial results ofCyient Limited (the "Company") for the
+            quarter ended June 30, 2026 included in the accompanying Statement of Unaudited Consolidated and
+            Standalone Financial Results for the quarter ended June 30, 2026 (the "Statement") attached herewith,
+            being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing
+            Obligations and Disclosure Requirements) Regulations, 20 I5, as amended (the "Listing Regulations").
+
+    2.     The Company's Management is responsible for the preparation of the Statement in accordance with the
+           recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34)
+           "Interim Financial Reporting" prescribed under Section 133 of the Companies Act, 2013 as amended,
+           read with relevant rules issued thereunder and other accounting principles generally accepted in India
+           and in compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by
+           the Company's Board of Directors. Our responsibility is to express a conclusion on the Statement based
+           on our review.
+
+    3.     We conducted our review of the Statement in accordance with the Standard on Review Engagements
+           (SRE) 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the
+           Entity" issued by the Institute of Chartered Accountants of India. This standard requires that we plan and
+           perform the review to obtain moderate assurance as to whether the Statement is free of material
+           misstatement. A review of interim financial information consists of making inquiries, primarily of
+           persons responsible for financial and accounting matters, and applying analytical and other review
+           procedures. A review is substantially less in scope than an audit conducted in accordance with Standards
+           on Auditing and consequently does not enable us to obtain assurance that we would become aware of all
+           significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+    4.     Based on our review conducted as above, nothing has come to our attention that causes us to believe that
+           the accompanying Statement, prepared in accordance with the recognition and measurement principles
+           laid down in the aforesaid Indian Accounting Standards (' Ind AS') specified under Section 133 of the
+           Companies Act, 2013 as amended, read with relevant rules issued thereunder and other accounting
+           principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+           of the Listing Regulations, including the manner in which it is to be disclosed, or that it contains any
+           material misstatement.
+
+
+  For S.R. BATLIBOI & ASSOCIATES LLP
+
+
+@'.;:'.:~~'"
+  Chartered Accountants
+                                           101049W/E300004------....
+
+
+
+  per Mitesh K Parikh
+  Partner
+  Membership No.: 225333
+
+  UDlN: 2Gll5333L17.CC6\5S36
+  Place : Hyderabad
+  Date : July 23, 2026.
+
+
+
+
+                          S.R. Batliboi & Associ~tes LLP. a Limited Liability Partnership with LLP Identity No. AAB·4Z95
+                                      Regd. Office: 22, Camac Street, Bwck: 'B', 3rd Floor, Kolkata·700 016
+
+                                                                                             Annexure - B
+Information as required under Regulation 30 –Para A of Part A of Schedule III of SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015
+    Sl.               Particulars                                     Details
+   No
+  1      Reason for change viz.              Appointment of Mr. Muralidhar Yadama as Independent
+         appointment, resignation,           Director of the Company.
+         removal, death or otherwise.
+  2      Date of appointment/ cessation      Effective 23 July 2026 for a period of 5 years, subject to
+         (as applicable) and term of         approval of the shareholders of the Company.
+         appointment
+  3      Brief Profile                       Mr. Muralidhar Yadama brings a wealth of experience
+                                             and a successful track record in the building material
+                                             industry. With a dynamic career spanning several
+                                             decades, he has demonstrated his expertise in creating
+                                             and operating successful companies, showcasing a deep
+                                             understanding of the construction materials sector.
+
+                                               Mr. Muralidhar Yadama is currently the Managing
+                                               Director of MYK Laticrete and the Founder & Director of
+                                               MYK Arment. As the Managing Director of MYK
+                                               Laticrete, he leverages his technical proficiency in
+                                               ceramic and cement engineering to provide cutting-
+                                               edge solutions to the construction industry.
+
+                                               Mr. Muralidhar Yadama holds a Degree in Bachelor of
+                                               Engineering in Ceramic & Cement Technology;
+                                               showcasing his strong educational background and
+                                               technical acumen, he has successfully introduced
+                                               advanced products and concepts to the Indian
+                                               construction industry.
+ 4        Disclosure of relationship           Mr. Muralidhar Yadama is not related to any of the
+          between directors                    Directors or Key Managerial Personnel or Promoters and
+                                               Promoter group of the Company.
+
+ 5        Additional Information               1. Mr. Muralidhar Yadama meets the criteria of
+                                                  independence prescribed under the Companies Act,
+                                                  2013 and SEBI (LODR) Regulations, 2015.
+
+                                               2. With reference to NSE Circular - NSE/CML/2018/02
+                                                  dated June 20, 2018, we hereby confirm that Mr.
+                                                  Muralidhar Yadama, is not debarred from holding
+                                                  the office of director by virtue of any SEBI order or
+                                                  any other such authority.
+
+
+
+
+Cyient Ltd.   4th Floor, A Wing, 11 Software             CIN: L72200TG1991PLC013134
+              Units Layout, Madhapur                      www.cyient.com
+              Hyderabad -500 081                          Company.secretary@cyient.com
+              India                                       T +91 40 6764 1000
+                                                          F +91 40 2311 0352
+

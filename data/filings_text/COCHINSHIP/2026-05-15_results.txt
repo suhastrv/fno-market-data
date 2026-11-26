@@ -1,0 +1,2413 @@
+SEC/48/2017-63                                                                      May 15, 2026
+
+ The Manager                                       The Manager
+ Compliance Department                             Compliance Department
+ BSE Limited                                       The National Stock Exchange of India Ltd.
+ Phiroze Jeejeebhoy Tower                          Exchange Plaza
+ Dalal Street                                      Bandra – Kurla Complex, Bandra (East)
+ Mumbai – 400 001                                  Mumbai – 400 051
+ Scrip Code/Symbol: 540678/COCHINSHIP
+
+
+Dear Sir/ Madam,
+
+     Subject: Statement of Audited Financial Results (Standalone and Consolidated)
+                       for the quarter and year ended March 31, 2026
+
+
+1.       This is further to our letter dated May 08, 2026 intimating the date of the Board Meeting
+of Cochin Shipyard Limited. We wish to inform you that the Board of Directors of the Company
+at their meeting held today have approved the Audited Financial Results (Standalone and
+Consolidated) for the quarter and year ended March 31, 2026.
+
+
+2.       In accordance with Regulation 30 read with Part A of Schedule III and Regulation 43
+of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI LODR Regulations”), it is further notified that the
+Board has recommended a final dividend of Rs. 1.5 per equity share of face value of Rs. 5
+each, for the financial year 2025-26 subject to the approval of the shareholders at the ensuing
+Annual General Meeting (AGM) of the Company. The final dividend would be paid within 30
+days from the date of its declaration at the AGM.
+
+
+3.       Pursuant to Regulation 33 of the SEBI LODR Regulations, please find enclosed
+herewith the following:
+
+         (a) Statement showing the Audited Financial Results (Standalone and Consolidated)
+             for the quarter and year ended March 31, 2026;
+         (b) Declaration in respect of unmodified opinion on the aforesaid Financial Results;
+             and
+         (c) Auditors’ Report on the aforesaid Financial Results.
+
+4.     The meeting of the Board of Directors commenced at 15.00 hrs. and concluded at
+17.45 hrs.
+
+
+       Thanking You,
+
+
+                                                        For Cochin Shipyard Limited
+                                                                       Digitally
+                                                                       signed by
+                                                                       SYAMKAMAL
+                                                                       Date:
+                                                                       2026.05.15
+                                                                       18:54:35
+                                                                       +05'30'
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended March 31, 2026
+
+
+       COCHIN SHIPYARD LIMITED
+       Statement of Consolidated Audited Financial Results for the
+       Quarter and Year ended March 31, 2026
+                                                                                                              (Rs in lakhs)
+                                                                             Consolidated
+                                                              Quarter ended                    Year Ended       Year Ended
+
+                                                31-Mar-26      31-Dec-25      31-Mar-25        31-Mar-26         31-Mar-25
+       SI No             Particulars
+                                                Audited        Unaudited       Audited          Audited           Audited
+
+          I     Income
+                                                148427.81       135040.99      175765.09        502186.95         481995.88
+                Revenue from operations
+                                                  15705.61        7114.17       15714.13         40982.42          38906.50
+                Other income
+
+                                                164133.42       142155.16      191479.22         543169.37        520902.38
+                Total Income
+
+
+          II    Expenses
+                Cost of materials consumed        71920.72       59679.57       70133.15         219581.67        213404.08
+
+                Changes in Inventories of                          259.87         (478.17)          721.49           (532.85)
+                                                    564.92
+                Work-in-Progress
+                Sub contract and other direct                    29169.38        37783.44        106324.14         87928.42
+                                                  26846.36
+                expenses
+                Employee benefits expense         12803.50       12332.06        11708.67         47236.62         42436.89
+
+                Finance costs                      3224.57        2804.27         1176.23          9237.61          3857.55
+
+                Depreciation and                                  3291.73         2708.98         12979.33         10317.64
+                                                   3199.27
+                amortisation expense
+                Other expenses                     7479.33       13618.20        18133.48         42678.17         38169.27
+
+                Provision for anticipated                                        11906.61          4506.92         12804.33
+                                                  (2163.03)        1322.32
+                losses and expenditure
+
+
+                Total expenses                   123875.64      122477.40       153072.39        443265.95        408385.33
+
+
+
+                Profit before exceptional                                                                         112517.05
+          Ill                                     40257.78       19677.76        38406.83         99903.42
+                items and tax (1-11)
+          IV    Exceptional Items                       -                -               -                -              -
+          V     Profit beforeTax (lll+IV)         40257.78       19677.76        38406.83         99903.42        112517.05
+
+
+          VI    Tax expense
+                ( 1) Current tax                  (3337.93)       4514.65        12019.43          8851.00         29550.79
+                (2) Income tax of prior years     (1,948.53)             -         875.11         (1,948.53)          875.11
+                (3) Deferred tax                  17895.80          695.89       (3206.49)        21327.00           (641.90)
+                Profit for the period/year                                                                         82733.05
+          VII                                     27648.44       14467.22        28718.78         71673.95
+                (V-VI)
+
+                                                                                   Contd ...
+
+
+
+
+                                                               Page 14
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended March 31, 2026
+
+       Statement of Consolidated Audited Financial Results for the
+       Quarter and Year ended March 31, 2026
+                                                                                                                    (Rs in lakhs)
+                                                                                       Consolidated
+                                                                      Quarter ended                    Year Ended     Year Ended
+
+                                                        31-Mar-26      31-Dec-25        31-Mar-25      31-Mar-26       31-Mar-25
+                           Particulars
+                                                        Audited        Unaudited         Audited        Audited         Audited
+                 Other comprehensive
+          VIII
+                 income
+                 A) Items that will be
+                 reclassified to profit or
+                 loss
+                 i) Effective portion of gains/
+                                                          (8259.73)       2345.91          (3926.31)     (21985.41)        865.28
+                 (losses) on cash flow
+                 hedging instruments
+                 ii) Income tax relating to
+                 items that will be reclassified          (1349.31)       (590.85)          989.39         5548.57        (225.90)
+                 to profit or loss
+                  B) Items that will not be
+                  reclassified to profit or
+                  loss
+                  i) Remeasurements of
+                  defined employee benefit                 (658.81)         73.04           (280.40)       (357.34)        (337.82)
+                  obligations
+                  ii) Changes in fair value of                                                 5.14           3.23            6.71
+                                                              3.23              0.00
+                  FVTOCI equity instruments
+                  iii) Income tax relating to
+                  items that will not be                     83.93          (19.48)           71.35          89.00          86.01
+                  reclassified to profit or loss
+                 Other comprehensive                                                                                       394.28
+                                                         (10180.69)       1808.62          (3140.83)     (16701.95)
+                 income for the period/year
+
+                 Total Comprehensive
+           IX                                             17467.75       16275.84          25577.95       54972.00       83127.33
+                 Income for the period/year
+                 Profit for the period
+           X
+                 attributable to :
+                 Equity holders of the
+                                                          27648.44       14467.22          28718.78       71673.95       82733.05
+                 Parent
+                 Non Controlling Interest                     0.00           0.00              0.00           0.00           0.00
+                                                          27648.44       14467.22          28718.78       71673.95       82733.05
+                 Total Comprehensive
+           XI
+                 income attributable to :
+                 Equity holders of the
+                                                          17467.75       16275.84          25577.95       54972.00       83127.33
+                 Parent
+                 Non Controlling Interest                     0.00              0.00           0.00           0.00            0.00
+                                                          17467.75       16275.84          25577.95       54972.00       83127.33
+                 Paid up equity share
+           XII   capital (Face value - Rs.5               13154.04       13154.04          13154.04       13154.04       13154.04
+                 each)
+                 Reserve excluding
+                 Revaluation Reserves as
+          XIII                                                                                           574121.68      544771.99
+                 per balance sheet of
+                 previous accounting year
+                 Earnings per equity share
+          XIV
+                 of Rs.5 each
+                 (1) Basic (Rs)                              10.51              5.50          10.92          27.24           31.45
+                 (2) Diluted (Rs)                            10.51              5.50          10.92          27.24           31.45
+                 EPS is not annualised except for the
+                 years ended Mar 31,2026 and Mar
+                 31, 2025
+    =--
+                                                                      Page 15
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended March 31, 2026
+
+       Statement of Consolidated Audited Financial Results for the
+       Quarter and Year ended March 31, 2026
+                                                                                                        (Rs in lakhs)
+
+       Additional Disclosures as                                           Consolidated
+
+       per      SEBI     {Listing
+       Obligation and Disclosure                          Quarter ended                   Year Ended      Year Ended
+       Requirements)
+       Requlations. 2015
+                      Particulars           31-Mar-26      31-Dec-25        31-Mar-25     31-Mar-26        31-Mar-25
+
+
+                                             Audited       Unaudited         Audited       Audited          Audited
+
+              Debt Equity Ratio                   0.19           0.17              0.01          0.19            0.01
+
+              Debt Service Coverage                              0.75             17.80          1.05           13.85
+                                                  0.68
+              Ratio
+              Interest Service Coverage                          8.02             33.65         11.81           30.17
+                                                 13.48
+              Ratio
+              Credit rating                        AAA              AAA             AAA          AAA                 AAA
+
+              Capital Redemption                                               12353.76      12353.76        12353.76
+                                              12353.76       12353.76
+              Reserve (Rs Lakhs)
+              Debenture Redemption                                                 0.00          0.00            0.00
+                                                   0.00             0.00
+              Reserve (Rs Lakhs)
+              Networth (Rs Lakhs)            587275.72      575481.72         557926.03     587275.72       557926.03
+
+              Current Ratio                        1.33             1.30           1.33          1.33             1.33
+              Long term debt to working                                                          0.01             0.01
+                                                   0.01             0.01           0.01
+              capital
+              Bad debts to Account                                                               0.01             0.27
+                                                   0.00             0.00           0.25
+              receivable ratio
+              Current liability ratio              0.92             0.93           0.93          0.92             0.93
+
+              Total debts to total assets          0.08             0.07           0.01          0.08             0.01
+
+              Debtors turnover                     2.75             2.27           4.79         14.11            13.86
+
+              Inventory turnover                   0.67             0.63           0.95          2.40             3.30
+
+              Operating margin (in %)               29%             17%             23%           22%                24%
+
+              Net profit margin (in %)              19%             11%             16%           14%                17%
+
+              Assets Cover available & Extent of Securi~ in res!;!ect of Listed Non Convertible Debentures
+
+              Property comprising of total 197.12 ares of land located in Girinagar, Ernakulam
+
+              Asset Coverage Ratio as on 31.03.2026                                                           5.84
+
+
+
+
+                                                          Page 16
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended March 31, 2026
+
+      Accompanying notes to financial results
+
+       1. The above results have been approved by Board of Directors in their meeting held on May 15,
+       2026 and audit of the same have been carried out by statutory auditors of the Company as required
+       under Regulation 33 of the Securities and Exchange Board of India (SEBI) (Listing Obligations and
+       Disclosure Requirements) Regulations, 2015.
+
+
+       2. In the absence of requisite number of independent directors, the Group is not able to constitute an
+       Audit Committee in pursuance of section 177 of the Companies Act, 2013 and Regulation 18(1) of
+       SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, at the time of approval of
+       the financial results. The above audited Consolidated Financial results of the Group for the quarter and
+       year ended 31st March 2026 have been reviewed and approved by the Board of Directors at its
+       meeting held on May 15, 2026 and audit of the same have been carried out by statutory auditors of the
+       Group as required under Regulation 33 of the Securities and Exchange Board of India (Listing
+       Obligations and Disclosure Requirements) Regulations, 2015.
+
+       3. The Group has two wholly owned subsidiaries- Udupi Cochin Shipyard Limited (UCSL) and Hooghly
+       Cochin Shipyard Limited (Hooghly-CSL). The Group does not have any Associates/Joint Ventures
+       during the year.
+       4. Consolidated Segment Reporting
+                                                                                                         (Rs In Lakhs)
+                                                          Quarter ended                   Year Ended     Year Ended
+
+              Particulars                   31-Mar-26      31-Dec-25       31-Mar-25      31-Mar-26       31-Mar-25
+
+                                             Audited       Unaudited       Audited         Audited         Audited
+              Segment Revenue
+              Ship building                  115449.27      101311.67        92123.75      336556.50       295538.68
+              Ship Repair                     32978.51       33729.32        83641.34      165630.45       186457.20
+              Unallocated                     15705.63        7114.17        15714.13       40982.42        38906.50
+              Total                          164133.41      142155.16       191479.22      543169.37       520902.38
+              Segment Result (PBIT)
+              Ship building                   27504.72       21178.84        14407.96       67295.41        46134.73
+
+              Ship Repair                      3178.53        5218.44        33490.67       42941.22        72919.61
+
+              Unallocated                     12799.07       (3915.25)        (8315.57)      (1095.60)       (2679.74)
+
+              Total                           43482.32       22482.03        39583.06      109141.03       116374.60
+
+              Less:
+              Finance cost                     3224.57        2804.27         1176.23        9237.61          3857.55
+
+              Profit before Tax               40257.75       19677.76        38406.83       99903.42       112517.05
+
+              Exceptional Items                    0.00             0.00          0.00           0.00            0.00
+              Less Provision for taxation     12609.34        5210.54         9688.05       28229.47        29784.00
+              Profit after taxation (PAT)     27648.41       14467.22        28718.78       71673.95        82733.05
+              Segment Assets
+              Ship building                 1035330.55      967328.07       869295.75     1035330.55       869295.75
+              Ship Repair                    368949.75      386892.30       348802.99      368949.75       348802.99
+              Unallocated                     48784.80       92988.33       121823.99       48784.80       121823.99
+              Total                         1453065.10     1447208.70      1339922.73     1453065.10      1339922.73
+
+
+
+
+                                                          Page 17
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended March 31, 2026
+                                                                                                    (Rs In Lakhs)
+                                                        Quarter ended                Year Ended     Year Ended
+
+                                           31-Mar-26     31-Dec-25      31-Mar-25     31-Mar-26      31-Mar-25
+             Particulars
+
+                                            Audited      Unaudited      Audited        Audited        Audited
+
+              Segment Liability
+
+              Ship building                 614645.13     623128.04      447070.26     614645.13      447070.26
+
+              Ship Repair                    40322.53      42361.04      101937.09       40322.53     101937.09
+
+              Unallocated                   210821.72     206237.90      232989.35      210821.72     232989.35
+
+              Total                         865789.38     871726.98      781996.70      865789.38     781996.70
+
+
+       5.The holding company is executing shipbuilding contracts with the Andaman & Nicobar
+       Administration (A&N) for the construction of two 1200-passenger vessels (yard nos. SH.0023 and
+       SH.0024). The contractual delivery dates, as extended, have expired for both vessels as on 29 April
+       2023 for vessel SH.0023, and 30 October 2023 for vessel SH.0024.
+
+       The two vessels are customized and designed for specific operations between Andaman Islands and
+       Main Land. Subsequently based on a request from the A&N Administration, the holding company has
+       abated delivery activity, as the Administration has sought reallocation of the vessels to other
+       prospective buyers. However, such reallocation would necessitate significant technical modifications
+       and cost, and the vessels, in their current state, are considered to have no alternative use.
+
+
+
+       Given that the holding company continues to have a valid and enforceable contract with the A&N
+       Administration, and there is no current mutual termination or novation of the contract, no additional
+       provision for Liquidated Damages {LO) has been recognized beyond 29 April 2023 and 30 October
+       2023, respectively, for SH.0023 and SH.0024 for reason of abated delivery at the request of the buyer.
+       In accordance with the terms of the contract and based on prudent estimates, the holding company
+       has recognized provision for LD up to the aforementioned dates.
+
+       The cumulative percentage of completion for the two vessels as on 31.03.2026 is 54.84 percent for
+       SH.0023 and 55.19 percent for SH.0024. The total liquidated damages for SH.0023 is Rs. 11814.08
+       lakhs and for SH.0024 is Rs. 9756.34 lakhs up to the financial year 2025-26. The holding company
+       has recognized revenue to the tune of Rs. 16944.49 lakhs towards SH.0023 and Rs. 17158.03 lakhs
+       towards SH.0024 upto 31.03.2026 after considering the liquidated damages.
+
+       In line with the above, and given that the request for reallocation, the holding company is now actively
+       engaged in discussions with the Andaman & Nicobar Administration (A&N) and the Union Territory of
+       Lakshadweep Administration (UTLA), under the guidance of the Ministry of Ports, Shipping and
+       Waterways. These discussions are focused on modifying the two vessels to suit the present
+       requirements of either administration. Both administrations have confirmed their willingness to take
+       over each vessel in its current under-construction state, subject to the necessary modifications. The
+       holding company continues to monitor developments related to this contract and will review its
+       accounting estimates and provisioning requirements in subsequent periods as more information
+       becomes available.
+
+
+       6. During the financial year, the holding company has further capitalised an amount of Rs. 18,060.36
+       lakhs (Previous Year: Rs. 79,344.26 lakhs) and Rs. 4,462.18 lakhs (Previous Year: Rs. 1,31,938.92
+       lakhs) for the projects 'International Ship Repair Facility' and 'New Dry Dock' respectively.
+
+       7. Assets Cover available & Extent of Security in respect of Listed Non Convertible Debentures and
+       Asset Coverage Ratio as on 31.03.2026 detailed in Annexure A.
+
+                                                         Page 18
+
+Cochin Shipyard Limited
+Statement of Consolidated Audited Financial Results for the Quarter and year ended M arch 31, 2026
+
+
+       8. The financial impact of the new wage codes is primarily confined to gratuity liabilities for on-contract
+       workmen, which have already been recognized in the accounts following actuarial valuations for FY
+       2025-26. No additional provisions are required for Officers, Supervisors, or Workmen, as their current
+       wage components already exceed the 50% threshold for PF and gratuity calculations. Similarly, leave
+       encashment liabilities remain unchanged because existing actuarial provisions sufficiently cover
+       regular staff, while contract employees do not carry forward enough leave to trigger new liabilities. The
+       restructuring of consolidated pay for contract workers is designed to be cost-neutral, ensuring that total
+       gross pay and related financial outgoings remain stable. Consequently, CSL has mitigated potential
+       compliance risks through proactive liability entries and internal committee reviews without incurring
+       significant unprovided expenses.
+
+
+
+
+       9.The holding company has two pilot projects under the R&D initiative of the Ministry of Ports,
+       Shipping and Waterways (MoPSW). Hydrogen Fuel Cell Technology for Marine Application -
+       approved for partial funding of ~1312.50 lakhs. (Project fully executed and vessel completed) and Fully
+       Indigenous Autonomous Surface Vessel (ASV) - approved for partial funding of ~2000 lakhs. (Project
+       under execution; vessel under construction)
+       The holding company had recognized the net cost incurred on these projects (after reducing the grant)
+       as Research & Development (R&D) expenditure in the Statement of Profit and Loss for the year ended
+       31st March 2025. At that stage, the projects were under development and the ownership position was
+       not yet clarified. The MoPSW has now formally clarified that the ownership of these R&D assets rests
+       with the holding company.
+       The Hydrogen Fuel Cell Vessel is being actively marketed for sale with IWAI {which also falls under
+       the administrative purview of MoPSW), and the holding company has transferred possession of the
+       vessel to them. The consideration and the contract are currently being discussed with IWAI under the
+       guidance of the MoPSW. Pending the finalization of these discussions, the asset has been classified
+        as "Asset Held for Sale."
+         The ASV is still under construction and has been reclassified as "Capital Work in Progress" until
+        completion.
+        The holding company will continue to monitor developments and review the valuation and
+        classification of these assets in subsequent periods as necessary.
+
+
+
+        1 0.The holding company while determining the pricing of the vessels, factor the Ship Building Finance
+        Assistance (SBFA) which is generally known to the customers also. Accordingly, during the year the
+        holding company has regrouped the SBFA under 'Sale of product' which was hitherto grouped under
+        'Other operating revenue' to give a more realistic picture. However, it has no financial impact on the
+        revenue from operations.
+
+        11.The Board of Directors of the Company have recommended a final dividend of Rs.1.50 per equity
+        share of face value of Rs.5 at the Board meeting held on May 15, 2026.
+
+        12. Figures for the previous periods/year have been regrouped /reclassified and rearranged wherever
+        considered necessary to conform to the classification of the current period/year.
+
+
+
+
+                                                          Page 19
+
+Cochin Shipyard Ltd
+Consolidated Balance Sheet as at March 31, 2026
+
+     COCHIN SHIPYARD LIMITED
+     Consolidated Balance Sheet as at March 31, 2026
+
+                                                                                 (Rs in lakhs)
+
+                                                                 As at March     As at March
+                                     Particulars                  31,2026         31,2025
+
+
+     ASSETS
+
+     Non-current assets
+      (a) Property, Plant and Equipment                           3, 15,643.54     3,03,410.09
+      (b) Capital Work-In-Progress                                   58,611.36       51,499.36
+      (c) Intangible Assets                                             724.61        1,292.27
+      (d) Intangible Assets Under Development                            68.06           68.06
+      (e) Financial Assets
+          (i) Investments                                           11,300.18            19.26
+          (ii) Loans                                                   625.01           551.52
+           (iii) Other Financial Assets                                190.01           167.03
+      (f) Income Tax Assets (net)                                    2,946.83         2,946.83
+      (g) Deferred Tax Assets (net)                                                  10,964.80
+       (h) Other Non-Current Assets                                    795.61           850.60
+            Total Non-Current Assets                              3,90,905.21      3,71,769.82
+     Current Assets
+       (a) Inventories                                            2,28,836.29       1,89,608.53
+       (b) Financial Assets
+           (i) Trade Receivables                                     42,321.88       22,484.91
+           (ii) Cash and Cash Equivalents                            10,538.70       31,667.12
+           (iii) Bank Balances Other than (ii) above               2,30,055.39     2,79,595.10
+           (iv) Loans                                                   163.99           131.10
+           (v) Other Financial Assets                                10,616.87       27,864.93
+       (c) Current Tax Assets (net)                                  10,346.67              -
+       (d) Other Current Assets                                    5,27,810.60     4, 16,801.22
+            Total Current Assets                                  10,60,690.39     9,68, 152.91
+
+
+      Assets held for sale                                            1,469.50              -
+      Total Assets                                                14,53,065.10     13,39,922. 73
+
+
+
+
+                                                       Page 20
+
+Cochin Shipyard Ltd
+Consolidated Balance Sheet as at M arch 31, 2026
+
+                 Consolidated Balance Sheet as at March 31. 2026                                     Contd ...
+                                                                                                      (Rs in lakhs)
+
+                                                                                  As at March        As at March 31,
+                                        Particulars                                 31,2026                2025
+
+     EQUITY AND LIABILITIES
+     Equity:
+                                                                                      13,154.04           13,154.04
+       (a) Equity Share Capital
+                                                                                    5,74,121.68         5,44,771.99
+       (b) Other Equity
+                                                                                    5,87,275.72         5,57 ,926.03
+           Total Equity
+
+
+     Liabilities :
+     Non-Current Liabilities
+       (a) Financial Liabilities
+                                                                                       2,302.20             2,302.20
+           (i) Borrowings
+                                                                                      53,599.92            46,013.72
+           (ii) Lease Liabilities
+                                                                                          21.81                19.99
+           (iii) Other Financial Liabilities
+                                                                                       5,466.48             5,329.32
+       (b) Provisions
+                                                                                       5,339.38               614.76
+       (c) Deferred Tax Liabilities (Net)
+                                                                                         940.71                 8.08
+       (d) Other Non Current Liabilities
+                                                                                      67,670.50            54,288.07
+           Total Non-Current Liabilities
+      Current Liabilities
+        (a) Financial Liabilities
+                                                                                    1,07 ,583.59            4,599.11
+            (i) Borrowings
+                                                                                       3,689.62             3,125.68
+           (ii) Lease Liabilities
+            (iii) Trade Payables
+           Total outstanding dues of Micro Enterprises and Small Enterprises          11,364.74            10,461.36
+
+           Total outstanding dues of creditors other than Micro Enterprises and       84,877.88            38,948.18
+           Small Enterprises
+            (iv) Other Financial Liabilities                                          36,610.23            23,916.40
+        (b) Other Current Liabilities                                               4,95,874.04          5,41,551.97
+        (c) Provisions                                                                58,118.78          1,02,645.68
+        (d) Current tax liabilities (net)                                                                   2,460.25
+                                                                                     7 ,98, 118.88        7 ,27, 708.63
+            Total Current Liabilities
+
+                                                                                    14,53,065.10        13,39,922. 73
+       Total Equity and Liabilities
+
+
+
+
+                                                          Page 21
+
+Cochin Shipyard Limited
+Consolidated Statement of Cash Flows for the Year ended March 31, 2026
+
+ COCHIN SHIPYARD LIMITED
+ Consolidated Statement of Cash Flows for the Year ended March 31, 2026
+                                                                                              (Rs in lakhs)
+
+                                                                                               For the year
+                                                                           For the year
+                                                                                                  ended
+ Particulars                                                             ended 31.03.2026
+                                                                                                31.03.2025
+
+
+
+ A. Cash flow from operating activities
+
+                                                                                99,903.42         1,12,517.05
+ Profit before tax
+
+ Adjustments for :
+                                                                                 12,979.33         10,317.64
+  Depreciation and amortisation expense
+                                                                                   274.45             192.03
+   Dimunition in value of Loose tools
+                                                                                  9,237.61           3,857.55
+   Finance cost
+                                                                                (16,720.55)        (19,781.17)
+   Interest income
+                                                                                  4,287.61          12,804.33
+   Provision for anticipated losses and expenditure
+                                                                                (20,762.27)        (14,054.34)
+   Provision no longer required
+                                                                                    219.31             662.83
+   Loss allowance for Trade Receivables
+                                                                                   (148.87)            (72.78)
+   Dividend income from Mutual Funds
+                                                                                    112.54               5.65
+   Loss on sale/write off of Property, Plant and Equipment (PPE)
+   Profit on sale of PPE
+                                                                                       -               (23.90)
+                                                                                      (1.14)             (1.14)
+   Deferred Govt. Assistance
+   Loss/(gain) on derivative contracts (net)
+   Net (gain) /loss on foreign currency transactions
+                                                                                  (9,282.18)            86.86
+    Net (gain) /loss on foreign currency/ derivative transactions
+                                                                                        -             8,614.55
+    Bad Debts written off
+                                                                                 80,099.26        1, 15, 125.16
+  Operating cash flow before working capital changes
+
+  Movements in working capital :
+                                                                                 (39,227.76)        (86,999.13)
+    (Increase)/ decrease in inventories
+                                                                               (1,30,034.63)        (97,789.58)
+    (Increase)/ decrease in trade, other receivables and assets
+                                                                                 (21,205.41)        55,864.02
+    Increase/ (decrease) in trade and other payables
+                                                                               (1,10,368.54)        (13,799.53)
+                                                                                 (13,039.47)        (14,621.19)
+    Income tax paid net of refunds
+                                                                               (1,23,408.01)        (28,420.72)
+   Net cash flows from operating activities (A)
+
+
+
+
+                                                             Page 22
+
+Cochin Shipyard Limited
+Consolidated Statement of Cash Flows for the Year ended March 31, 2026
+
+ Consolidated Statement of Cash Flows for the Year ended
+ March 31, 2026
+                                                                                                      (Rs in lakhs)
+
+                                                                                                      For the year
+                                                                           For the year
+                                                                                                         ended
+ Particulars                                                             ended 31.03.2026
+                                                                                                       31.03.2025
+
+ B. Cash flow from investing activities
+
+  Purchase of property, plant and equipment and intangible assets                (7.003~49)   I          (16,469.60)
+
+  (Increase)/ decrease in Intangible assets under development                                                     (7.42)
+
+  (Increase)/ decrease in capital work In progress                               (8,112.84)                (9,295.43)
+
+  (Increase)/ decrease in Other Bank balances                                   49,539.71                 76,164.15
+
+  (Increase)/ decrease in Capital advance                                        (9,475.44)              (19,472.21)
+
+                                                                                    148.87                        72.78
+   Dividend received
+   Investment in NCO of DCI                                                     (11,148.00)
+                                                                                     33.64                    120.63
+   Sale proceeds from PPE
+                                                                                 18,834.71                22,690.37
+   Interest received
+                                                                                   (105.69)                   (43.05)
+   (Borrowings)/ Repayment of loans
+  Net cash flows from investing activities (B)                                   32,711.47                53,760.22
+
+  C. Cash flow from financing activities
+                                                                                 (3,567.97)                (2,970.05)
+   Repayment of lease liability
+                                                                                (25,650.38)               (25,650.38)
+   Dividend paid
+   Proceeds from WCDL/Short term borrowing                                     4,06,957.90                  4,599.11
+
+   Repayment of WCDL/Short term borrowing                                      (3,03,973.43)
+
+                                                                                  (4,198.00)                 (292.36)
+   Finance cost
+
+                                                                                 69,568.12                (24,313.68)
+  Net cash flows from financing activities      (C)
+
+  D. Net Increase in Cash & Cash Equivalents (A)+(B)+(C)                         (21,128.42)                1,025.82
+
+
+  Cash and cash equivalent at the beginning of the year                          31,667.12                 30,641.30
+
+  Cash and cash equivalent at the end of the year                                10.s3s.10        I        31,667.12
+                                                                                                      Contd ...
+
+
+
+
+                                                           Page 23
+
+Cochin Shipyard Limited
+Consolidated Statement of Cash Flows for the Year ended March 31, 2026
+
+ Consolidated Statement of Cash Flows for the Year ended
+ March 31, 2026
+                                                                                                     (Rs in lakhs)
+ Cash Flow Reconciliation:
+
+                                                                                                     For the year
+                                                                               For the year
+                                                                                                        ended
+ Particulars                                                                 ended 31.03.2026
+                                                                                                      31.03.2025
+
+
+ Cash and cash equivalents
+ Balance with Banks
+                                                                                          835.23           1,617.12
+    In current account
+
+    Term deposits with original maturity of less than three months                      9,703.47         30,050.00
+
+ Cash and cash equivalents for the purpose of Statement of Cash flows                10,538.70           31,667.12
+
+
+
+                                                                         c~  '<    _/
+                                                                                                   - -
+
+                                                                            OSEVJ
+                                                                      Director (Finance) &
+                                                           Chairman & Managing Director (Addi.Charge)
+                                                                         DIN - 08444440
+
+
+
+  Kochi, dated May 15, 2026
+
+
+
+
+                                                           Page 24
+
+BABU A. l<ALLIVAYALIL                                   Co.
+Manchu Complex, 2nd Floor, P. T. Usha Road, Ernakulam, Kochi - 682 071, kerata, India.
+Ph: +91 484 2363119, 2380868 Mob: 98460 35333, (994460 66600
+Email: bakca@bakca.in, bakco.ca@gmail.com I ww~.b~k~a.i~ .
+
+Offices at: Kochi I Mumbai I Delhi NCR I Chennai I Kottayam
+
+
+
+
+                                    INDEPENDENT AUDITOR'S REPORT
+                ON THE AUDIT OF CONSOLIDATED ANNUAL FINANCIAL RESULTS
+                                 FOR THE QUARTER ENDED MARCH 31, 2026
+                        AND YEAR TO DATE RESULTS FOR THE YEAR FROM
+                        APRIL 01, 2025 TO MARCH 31, 2026 OF THE COMPANY
+
+
+                 The Board of Directors,
+                  Cochin Shipyard Limited .
+
+                  Opinion
+
+              1. We have audited the accompanying consolidated annual financial results of
+                 Cochin Shipyard Limited ("the Parent") and its subsidiaries (the parent and its
+                   subsidiaries together referred to as "the Group") for the quarter and year ended
+                   March 31, 2026, ("the Statement") attached herewith, being prepared by the Group
+                   pursuant to the requirements of Regulation 33 and Regulation 52 read with
+                   Regulation 63 of the Securities and Exchange Board of India [SEBI] (Listing
+                   Obligations and Disclosure Requirements- LODR) Regulations, 2015 as amended
+                   ("the Listing Regulations") and as prescribed in SEBI operational circular
+                   'SEBI/HO/DDHS/P/CIR/2021/613' dated August 10, 2021, as amended.
+
+
+                2. In our opinion and to the best of our information and according to the
+                    explanations given to us, the aforesaid consolidated annual financial results
+                    include the annual financial results of the following subsidiaries:
+
+                        i. Hooghly Cochin Shipyard Limited and
+                        ii. Udupi Cochin Shipyard Limited (formerly known as Tebma Shipyards
+                           Limited) and;
+
+
+
+
+                                                                                          Pa~
+
+BABU A. l(ALLNAYALIL&Co.
+---LHARTERED ACCOUNTANTS --
+
+
+       a. are presented in accordance with the requirements of Regulation 33 and
+          Regulation 52 read with Regulation 63 of the SEBI (Listing Obligations and
+          Disclosure Requirements) Regulations, 2015 as amended in this regard and as
+          prescribed in SEBI operational circular' SEBI/HO/DDHS/P/CIR/2021/613' dated
+          August 10, 2021, as amended, and
+
+
+        b. gives a true and fair view in conformity with the Indian Accounting Standards
+           prescribed under section 133 of the Companies Act 2013 (the Act) read with the
+           Companies (Indian Accounting Standards) Rules, 2015, as amended, ("Ind AS")
+           and other accounting principles generally accepted in India, of the state of affairs
+           of the Group as at March 31, 2026, the total comprehensive income, and other
+           financial information of the Group for the year ended March 31, 2026.
+
+
+
+           Basis of Opinion
+        3. We conducted our audit in accordance with the Standards on Auditing (SAs)
+           specified under section 143(10) of the Act and other applicable authoritative
+            pronouncements issued by the Institute of Chartered Accountants of India
+            (ICAI). Our responsibilities under those Standards are further described in the
+            Auditor's Responsibilities for the Audit of the Financial Results section of our
+            report. We are independent of the Group in accordance with the Code of Ethics
+            issued by the ICAI together with the ethical requirements that are relevant to
+            our audit of the financial results under the provisions of the Companies Act,
+            2013 and the Rules there under, and we have fulfilled our other ethical
+            responsibilities in accordance with these requirements and the Code of Ethics.
+             We believe that the audit evidence that we have obtained is sufficient and
+             appropriate to provide a basis for our opinion on the consolidated annual
+             financial results.
+
+         4. We have also performed procedures in accordance with the circular issued by the
+            SEBI under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+
+
+                                                                                          ')t->/
+                                                                                        Page 2of 8
+
+BABU A. l<ALLNAYALIL& Co.
+     CHA   TE'RED ACCOUNTANTS~ --
+
+
+           Emphasis of Matter
+       5. Suspension     of Construction of Two Passenger Vessels and Related
+           Uncertainties:
+             In 2016, the Parent entered into a contract with the Administration of a Union
+             Territory of India for the construction of two passenger vessels at a total
+             contract value of Rs.81,900 lakhs (excluding taxes and foreign exchange
+             variation). The vessels were launched in January 2020 and August 2022,
+              respectively.
+              As at the reporting date, approximately 55% of the construction work, up to
+              the fourth stage, has been completed and payments aggregating to
+              Rs.66,503.63 lakhs (Previous year: Rs.66,503.63 lakhs) have been received from
+              the Administration. The fifth and final stage is linked to delivery of the vessels.
+              Subsequently, the Andaman and Nicobar Administration has expressed its
+              intention to take delivery of one vessel, while the other vessel is proposed to
+              be taken over by the Union Territory of Lakshad weep Administration, both
+              subject to certain reconfigurations. However, the scope of modifications and
+               related commercial terms, including reimbursement of costs, are yet to be
+               finalised between the parties. Pending receipt of the necessary approvals and
+               finalisation of the commercial arrangements, further construction activities
+               remain suspended.
+               Accordingly, the Parent is presently unable to determine the financial impact,
+               if any, arising from factors such as ageing of the vessels due to prolonged
+               inactivity, occupation of berthing space, and annual revalidation costs of bank
+               guarantees amounting to Rs.1,12,411.88 lakhs (Previous year: Rs.1,10,936.04
+               lakhs) furnished to the Administration (Refer Note No. 5).
+
+
+           6. Classification of Ship Building Financial Assistance
+                The Parent has represented that while determining the pricing of the vessels,
+                it factor the Ship Building Financial Assistance (SBFA) which is an integral
+                component of the shipbuilding process. Accordingly, during the year the
+                Company has regrouped the SBFA under 'Sale of product' which was hitherto
+                grouped under 'Other operating revenue'. (Refer Note No. 10).
+                Our opinion is not modified in respect of the above matters.
+
+BABU A. l<ALLIVAYALIL{?Co.
+     1   HARTt:RED ACCOUNTANTS- - -
+
+
+         7. We did not audit the financial results of aforesaid two subsidiaries, whose financial
+            results reflects total assets of Rs. 92,384.83 lakhs as at March 31, 2026, total income
+            of Rs. 28,538.29 lakhs and Rs.75,921.00 lakhs, total net profit after tax of Rs.6,032.50
+            lakhs (net) and Rs.7,385.40 lakhs (net) and total comprehensive income of Rs.
+            4,342.93 lakhs (net) and Rs.1,119.76 lakhs (net) for the quarter and year ended
+            March 31, 2026 and total net cashflows of Rs.2,475.58 lakhs for the year ended
+            March 31, 2026 respectively, as considered in the consolidated annual financial
+            results.
+
+         8. These financial results have been audited by the respective auditors appointed by
+            the subsidiaries whose reports have been furnished to us by the Parent's
+            Management and our opinion on the consolidated annual financial results, in so
+             far as it relates to the amounts and disclosures included in respect of these
+             subsidiaries, is based solely on audit reports of the other auditors and the
+             procedures performed by us as stated above.
+
+             Our opinion on the statement is not modified in respect of the above matters.
+
+
+             Responsibilities of Management and Board of Directors for the Consolidated
+             Annual Financial Results:
+
+          9. These consolidated annual financial results have been compiled from the
+              consolidated annual audited financial statements.
+
+           10. The Parent Company's Management and the Board of Directors are responsible for
+              the preparation and presentation of these consolidated annual financial results that
+              give a true and fair view of the consolidated net profit and other total
+              comprehensive income and other financial information of the Group in accordance
+              with the recognition and measurement principles laid down in Indian Accounting
+              Standards prescribed under Section 133 of the Companies Act, 2013 ('the Act") and
+              other accounting principles generally accepted in India and in compliance with
+              Regulation 33 and Regulation 52 read with Regulation 63 of the Listing
+              Regulations. This responsibility also includes maintenance of adequate accounting
+              records in accordance with the provisions of the Act for safeguarding of the assets
+
+                                                                                            .s:
+
+BABU A. l(A11NAYALIL&Co.
+____ r~MRT RED A((QUNTAN
+           0
+                              s---
+         of the Group and for preventing and detecting frauds and other irregularities;
+         selection and application of appropriate accounting policies; making judgments
+         and estimates that are reasonable and prudent; and the design, implementation
+         and maintenance of adequate internal financial controls, that were operating
+         effectively for ensuring accuracy and completeness of the accounting records,
+         relevant to the preparation and presentation of the consolidated annual financial
+         results that give a true and fair view and are free from material misstatements,
+         whether due to fraud or error, which have been used for the purpose of
+         preparation of the consolidated annual financial results by the Management and
+         the Board of Directors of the Parent, as aforesaid.
+
+
+       11. In preparing the consolidated annual financial results, the respective Management
+          and Board of Directors are responsible for assessing the Group's ability to continue
+          as a going concern, disclosing, as applicable, matters related to going concern and
+          using the going concern basis of accounting unless the Board of Directors either
+          intends to liquidate the Group or to cease operations, or has no realistic alternative
+          but to do so.
+
+
+       12. The respective Management and Board of Directors are responsible for overseeing
+          the financial reporting process of each Company.
+
+          Auditor's Responsibility for the Audit of the Consolidated Annual Financial
+            Results:
+        13. Our objectives are to obtain reasonable assurance about whether the consolidated
+            annual financial results a~ ~ ,~h~i~· ~~e free from material misstatements, whether
+           due to fraud or error, and to issue an auditor's report that includes our opinion.
+           Reasonable assurance is a high level of assurance, but is not a guarantee that an
+           audit conducted in accordance with SAs will always detect a material
+           misstatement when it exists. Misstatements can arise from fraud or error and are
+           considered material if, individually or in the aggregate, they could reasonably be
+           expected to influence the economic decisions of users taken on the basis of these
+           consolidated annual financial results.
+
+BABU A. l(A11NAYALIL&Co.
+     CHARTERED ACCOUNTANTS     -- ..       -
+
+     14. As part of an audit in accordance with SAs, we exercise professional judgment and
+        maintain professional skepticism throughout the audit. We also:
+
+        a. Identify and assess the risks of material misstatements of the consolidated
+           annual financial results, whether due to fraud or error, design and perform
+            audit procedures responsive to those risks, and obtain audit evidence that is
+            sufficient and appropriate to provide a basis for our opinion. The risk of not
+            detecting a material misstatement resulting from fraud is higher than for one
+            resulting from error, as fraud may involve collusion, forgery, intentional
+            omissions, misrepresentations, or the override of internal control;
+
+         b. Obtain an understanding of internal control relevant to the audit in order to
+            design audit procedures that are appropriate in the circumstances. Under
+            section 143(3)(i) of the Companies Act, 2013, we are also responsible for
+            expressing our opinion on whether Group has adequate internal financial
+             controls system in place and the operating effectiveness of such controls;
+
+          c. Evaluate the appropriateness of accounting policies used and the
+             reasonableness of accounting estimates and related disclosures made by
+             Management and the Board of Directors of the Group;
+
+          d. Conclude on the appropriateness of Managements and Board of Directors use
+             of the going concern basis of accounting and, based on the audit evidence
+             obtained, whether a material uncertainty exists related to events or conditions
+             that may cast significant doubt on the Group's ability to continue as a going
+             concern. If we conclude that a material uncertainty exists, we are required to
+             draw attention in our auditor's report to the related disclosures in the
+             consolidated annual financial results or, if such disclosures are inadequate, to
+              modify our opinion. Our conclusions are based on the audit evidence obtained
+              up to the date of our auditor's report. However, future events or conditions
+              may cause the Group to cease to continue as a going concern;
+
+
+
+
+                                                                                    Pa~S
+
+
+
+
+                                       ,       ,   .
+
+BABU A. l<ALLIVAYALIL&Co.
+     CHAR    P~ED ACCOUN   ANTS                                                               ~
+        e. Evaluate the overall presentation, structure and content of the consolidated
+           annual financial results, including the disclosures, and whether the financial
+              results represent the underlying transactions and events in a manner that
+              achieves fair presentation;
+            f. Obtain sufficient appropriate audit evidence regarding the financial
+              results/financial statements/financial information of the entities within the
+              Group and its joint ventures to express an opinion on the consolidated annual
+               financial results. We are responsible for the direction, supervision and
+               performance of the audit of financial results/financial statements/financial
+               information of such entities included in the consolidated annual financial
+               results of which we are the independent auditors. For the other entities
+               included in the consolidated annual financial results, which have been audited
+               by other auditors, such other auditors remain responsible for the direction,
+               supervision and performance of the audits carried out by them. We remain
+               solely responsible for our audit opinion. Our responsibilities in this regard are
+               further described in the "Other Matters" paragraph in this audit report.
+
+
+       15. We communicate with those charged with governance of the Parent regarding,
+            among other matters, the planned scope and timing of the audit and significant
+            audit findings, including any significant deficiencies in internal control that we
+            identify during our audit.
+
+
+       16. We also provide those charged with governance with a statement that we have
+           complied with relevant ethical requirements regarding independence, and to
+           communicate with them all relationships and other matters that may reasonably
+           be thought to bear on our independence, and where applicable, related safeguards.
+
+
+              Other Matter:
+
+        17.Non-Compliance of Composition of Board and Other Committees of the Board
+           as required under the Companies Act, 2013 and SEBI LODR Regulations, 2015:
+             During the year, requisite number of Non-Official (Independent) Directors was
+              vacant, leading to non-existence of certain committees of Board of the Parent, as
+                                                                                           '\v/
+                                                                                        Page:1of8
+
+BABU A. l<.ALLIVAYALIL:           Co.
+        required. The Parent continues to be non-complaint with the constitution of Audit
+        Committee and Nomination and Remuneration Committee as per the provisions
+        of the Companies Act, 2013 ~nd SEBI (LODR) Regulations, 2015, as amended from
+        time to time. It was informed that the Company being a Central Public Sector
+        Enterprise, the power to appoint the Directors vests with the Government of India
+         and appropriate requests for appointing sufficient number of independent
+         directors have been forwarded to the Government of India.
+         This consolidated annual financial results for the year ended March 31, 2026, were
+         not reviewed by the Audit Committee of the Parent, in accordance with the
+         provisions of Section 177 of the Companies Act, 2013 and Regulation No.18(3) of
+         the SEBI (LODR) Regulations, 2015.
+         In the absence of the Nomination and Remuneration Committee as required under
+         Section 178 of the Companies Act, 2013 and Regulation 19 of the SEBI (LODR)
+         Regulations, 2015, the Parent is not compliant with the aforesaid provisions
+         relating to corporate governance.
+
+       18. The consolidated annual financial results include the results for the quarter ended
+           March 31, 2026, being the balancing figure between the audited figures in respect
+          of the full financial year ended March 31, 2026 and the published unaudited year
+          to date figures up to the third quarter of the current financial year, which were
+          subject to limited review only. The consolidated annual financial results of the
+          Company for the financial year ended March 31, 2025, were audited by the
+          predecessor auditor, who, vide their report dated May 15, 2025 expressed an
+          unmodified opinion on those audited consolidated annual financial results.
+
+
+          Our opinion is not modified in respect of these matters.
+                                                                 For Babu A. Kallivayalil & Co.,
+                                                                 Chartered Accountants,
+                                                                 Firm Registration No. 05374S
+
+
+
+
+                                                                 Alexandp-tfallanickal Koshy
+                                                                 Partner, Membership No. 007448
+
+
+           Kochi
+           May 15, 2026                                        UOIN: 26007448CZVDJN4142
+
+                                                                                          Page 8 of 8
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended M arch 31, 2026
+
+
+        COCHIN SHIPYARD LIMITED
+        Statement of Standalone Audited Financial Results for the Quarter and
+        Year ended March 31, 2026
+                                                                                                                       (Rs in lakhs)
+                                                                                        Standalone
+                                                                    Quarter Ended                              Year Ended
+
+                              Particulars             31-Mar-26       31-Dec-25         31-Mar-25        31-Mar-26       31-Mar-25
+         SI No
+                                                      Audited         Unaudited          Audited         Audited          Audited
+
+            I     Income
+                  Revenue from operations              121359.83       116537.22         165113.49        430769.07       452784.15
+
+                  Other income                          14944.14         7339.28          15552.03         40457.20         38044.61
+
+
+                  Total Income                         136303.97       123876.50         180665.52        471226.27        490828.76
+
+
+            II    Expenses
+                  Cost of materials consumed            59516.89        49379.09          65159.39        184018.15        198159.38
+
+                  Changes in Inventories of Work-in                           (15.22)        (76.26)           76.26           (76.26)
+                                                          194.53
+                  Progress
+                  Sub contract and other direct                         26068.31          34531.98         94074.86         79265.04
+                                                        23587.84
+                  expenses
+                  Employee benefits expense             12167.57         11502.64         11121.10          44524.52        40373.69
+
+                  Finance costs                          2970.29             2562.83       1060.00           8316.03         3644.93
+
+                  Depreciation and amortisation                              2807.55       2198.71          11083.22         8364.37
+                                                         2752.29
+                  expense
+                  Other expenses                         6938.83         11647.10         17322.59          36846.33        35099.66
+
+                  Provision for anticipated losses                           1322.32      11713.64           3647.09        12613.41
+                                                         (3014.47)
+                  and expenditure
+
+
+                  Total expenses                       105113.77        105274.62        143031.15         382586.46       377444.22
+
+
+
+                  Profit before exceptional items                        18601.88         37634.37          88639.81       113384.54
+            Ill                                         31190.20
+                  and tax (1-11)
+
+            IV    Exceptional Items                             -                -                 -               -                -
+                  Profit beforeTax (lll+IV)             31190.20         18601.88         37634.37          88639.81       113384.54
+             V
+
+
+            VI    Tax expense
+                  ( 1) Current tax                       (3337.93)           4514.65       12019.43          8851.00        29550.79
+
+                  (2) Income tax of prior years         (1,948.53)               -           875.11         (1,948.53)         875.11
+
+                  (3) Deferred tax                      14,836.50             318.50       (3730.00)        17433.00         (1332.00)
+                  Profit for the period/year                             13768.73         28469.83          64304.34        84290.64
+            VII                                         21640.16
+                  rv-vn
+                                                                                             Contd ...
+
+
+
+
+                                                                    Page 1
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended March 31, 2026
+
+        Statement of Standalone Audited Financial Results for the Quarter and
+        Year ended March 31, 2026
+                                                                                                                             (Rs in lakhs)
+                                                                                               Standalone
+                                                                            Quarter ended                           Year Ended
+
+
+                              Particulars                    31-Mar-26        31-Dec-25        31-Mar-25      31-Mar-26        31-Mar-25
+
+
+                                                             Audited         Unaudited          Audited       Audited           Audited
+
+
+          VIII   Other comprehensive income
+
+                 A) Items that will be reclassified
+                 to profit or loss
+                 i) Effective portion of gains/
+                 (losses) on cash flow hedging                 (5997.22)            1734.64      (2654.54)      (13627.44)           65.96
+                 instruments
+
+                 ii) Income tax relating to items that                              (436.42)       668.09        3429.93            (16.60)
+                                                               (1920.53)
+                 will be reclassified to profit or loss
+
+                 B) Items that will not be
+                 reclassified to profit or loss
+
+                 i) Remeasurements of defined                                         87.61        (271.71)       (323.51)         (291.60)
+                                                                 (661.64)
+                 employee benefit obligations
+
+                 ii) Changes in fair value of FVTOCI                                   0.00           5.14           3.23              6.71
+                                                                    3.23
+                 equity instruments
+                 iii) Income tax relating to items that
+                 will not be reclassified to profit or             85.05             (22.05)         68.33          81.49            73.39
+                 loss
+
+
+                 Other Comprehensive Income                                                       (2184.69)     (10436.30)          (162.14)
+                                                                (8491.11)           1363.78
+                 for the period/year
+
+                 Total Comprehensive Income for                                                  26285.14        53868.04         84128.50
+           IX                                                  13149.05         15132.51
+                 the period/year
+                 Paid up equity share capital                                   13154.04         13154.04        13154.04         13154.04
+            X                                                  13154.04
+                 (Face value - Rs. 5 each)
+
+                 Reserve excluding Revaluation
+           XI    Reserves as per balance sheet of                                                               576128.80        547911.16
+                 previous accounting year
+
+                 Earnings per equity share of Rs
+           XII
+                 5 each
+
+                 (1) Basic (Rs)                                     8.23               5.23          10.82          24.44             32.04
+
+                  (2) Diluted (Rs)                                  8.23               5.23          10.82          24.44             32.04
+
+                 EPS is not annualised except for the year
+                 ended Mar 31,2026 and Mar 31,2025
+
+
+
+
+~
+
+                 -----                                                     Page 2
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended March 31, 2026
+
+        Statement of Standalone Audited Financial Results for the Quarter and
+        Year ended March 31, 2026
+                                                                                                                   (Rs in lakhs)
+                                                                                    Standalone
+        Additional Disclosures as per
+        SEBI (Listing Obligation and
+                                                                   Quarter ended                          Year Ended
+        Disclosure      Requirements)
+        Regulations, 2015
+                                                    31-Mar-26        31-Dec-25      31-Mar-25        31-Mar-26       31-Mar-25
+                            Particulars
+
+                                                     Audited         Unaudited       Audited         Audited          Audited
+
+                                                           0.17             0.16          0.00              0.17            0.00
+                Debt Equity Ratio
+
+                                                           0.58             0.71         19.14              1.01           14.32
+                 Debt Service Coverage Ratio
+
+                                                          11.50             8.26         36.50             11.66           32.11
+                 Interest Service Coverage Ratio
+
+                                                            AAA              AAA           AAA                 AAA           AAA
+                 Credit rating
+
+                 Capital Redemption Reserve (Rs                        12353.76       12353.76          12353.76        12353.76
+                                                      12353.76
+                 Lakhs)
+
+                 Debenture Redemption Reserve                               0.00          0.00              0.00             0.00
+                                                           0.00
+                 (Rs Lakhs)
+
+                                                     589282.84        581830.29      561065.20         589282.84       561065.20
+                 Networth (Rs Lakhs)
+
+                                                           1.33             1.32           1.34             1.33             1.34
+                 Current Ratio
+
+                 Long term debt to working                 0.01             0.01           0.01             0.01             0.01
+                 capital
+                 Bad debts to Account                      0.00             0.00           0.26             0.01             0.28
+                 receivable ratio
+
+                                                           0.92             0.93           0.93             0.92             0.93
+                 Current liability ratio
+
+                                                            0.07            0.06           0.00             0.07             0.00
+                 Total debts to total assets
+
+                                                            2.30            2.03           4.68            12.44            13.30
+                 Debtors turnover
+
+                                                            0.59            0.60           0.95              2.21            3.33
+                 Inventory turnover
+
+                                                               28%           18%               23%             23%              26%
+                 Operating margin (in %)
+
+                                                               18%            12%              17%             15%              19%
+                  Net profit margin (in %)
+
+                  Assets Cover available & Extent of Security in respect of Listed Non Convertible Debentures
+
+
+                  Property comprising of total 197.12 ares of land located in Girinagar, Ernakulam
+
+                                                                                                                                5.84
+                  Asset Coverage Ratio as on 31.03.2026
+
+
+
+
+                                                                   Page 3
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended March 31, 2026
+
+        Accompanying notes to financial results
+
+        1. The above standalone financial results of the Company have been approved by Board of Directors in their
+        meeting held on May 15, 2026 and audit of the same have been carried out by statutory auditors of the
+        Company as required under Regulation 33 of the Securities and Exchange Board of India (SEBI) (Listing
+        Obligations and Disclosure Requirements) Regulations, 2015.
+
+        2. In the absence of requisite number of independent directors, the Company is not able to constitute an Audit
+        Committee in pursuance of section 177 of the Companies Act, 2013 and Regulation 18(1) of SEBI (Listing
+        Obligations and Disclosure Requirements) Regulations, 2015, at the time of approval of the financial results.
+        The above audited Standalone Financial results of the Company for the year ended 31st March 2026 have
+        been approved by the Board of Directors at its meeting held on May 15, 2026 and audit of the same have been
+        carried out by statutory auditors of the Company as required under Regulation 33 of the Securities and
+        Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+
+         3. Standalone Segment Reporting
+                                                                                                                  (Rs In Lakhs)
+                                                                   Quarter ended                          Year Ended
+
+                                                    31-Mar-26        31-Dec-25        31-Mar-25     31-Mar-26      31-Mar-25
+                 Particulars
+
+                                                     Audited         Unaudited        Audited       Audited         Audited
+
+                 Segment Revenue
+
+                                                      88381.30         82807.93         81472.15     265138.62      266326.95
+                 Ship building
+
+                                                      32978.53         33729.29         83641.34     165630.45      186457.20
+                 Ship Repair
+                                                       14944.14             7339.28     15552.03      40457.20        38044.61
+                 Unallocated
+                                                     136303.97        123876.50        180665.52     471226.27      490828.76
+                 Total
+
+                 Segment Result (PBIT)
+
+                 Ship building                         16902.66         17022.58        13090.11      47536.79         43421.67
+
+                 Ship Repair                            3178.53             5218.44     33490.67       42941.22        72919.61
+
+                                                       14079.30         (1076.31)       (7886.41)       6477.83          688.19
+                 Unallocated
+                                                       34160.49         21164.71        38694.37       96955.84      117029.47
+                 Total
+                 Less:
+                 Finance cost                           2970.29             2562.83      1060.00        8316.03         3644.93
+                                                       31190.20         18601.88        37634.37       88639.81      113384.54
+                 Profit before Tax
+                                                            0.00               0.00         0.00           0.00            0.00
+                 Exceptional Items
+
+                 Less Provision for taxation            9550.04             4833.15      9164.54       24335.47        29093.90
+
+                                                       21640.16         13768.73        28469.83       64304.34        84290.64
+                 Profit after taxation (PAT)
+                 Segment Assets
+                                                      981929.73        913484.32       822323.58      981929.73      822323.58
+                 Ship building
+                 Ship Repair                          368919.83        386879.56       348784.30      368919.83      348784.30
+
+                                                       57957.92         93887.71       133441.35       57957.92      133441.35
+                  Unallocated
+                                                     1408807.48       1394251.59      1304549.23     1408807.48     1304549.23
+                  Total
+
+
+
+
+                                                                   Page 4
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended March 31, 2026
+                                                                                                               (Rs In Lakhs)
+                                                                Quarter ended                 Year Ended       Year Ended
+
+                Particulars                        31-Mar-26      31-Dec-25     31-Mar-25         31-Mar-26     31-Mar-25
+
+                                                    Audited       Unaudited      Audited          Audited        Audited
+
+                Segment Liability
+
+                Ship building                       599776.60      595476.12     436865.61         599776.60     436865.61
+
+                Ship Repair                          40339.61       42335.78     101917.29          40339.61     101917.29
+
+                Unallocated                         179408.43       174609.40    204701.13         179408.43     204701.13
+
+                Total                               819524.64      812421.30     743484.03         819524.64     743484.03
+
+
+        4. The Company is executing shipbuilding contracts with the Andaman & Nicobar Administration (A&N) for the
+        construction of two 1200-passenger vessels (yard nos. SH.0023 and SH.0024). The contractual delivery dates,
+        as extended, have expired for both vessels as on 29 April 2023 for vessel SH.0023, and 30 October 2023 for
+        vessel SH.0024.
+
+        The two vessels are customized and designed for specific operations between Andaman Islands and Main
+        Land. Subsequently based on a request from the A&N Administration, the Company has abated delivery
+        activity, as the Administration has sought reallocation of the vessels to other prospective buyers. However,
+        such reallocation would necessitate significant technical modifications and cost, and the vessels, in their
+        current state, are considered to have no alternative use.
+
+
+        Given that the Company continues to have a valid and enforceable contract with the A&N Administration, and
+        there is no current mutual termination or novation of the contract, no additional provision for liquidated
+        damages (LO) has been recognized beyond 29 April 2023 and 30 October 2023, respectively, for SH.0023 and
+        SH.0024 for reason of abated delivery at the request of the buyer. In accordance with the terms of the contract
+        and based on prudent estimates, the Company has recognized provision for LD up to the aforementioned
+        dates.
+
+        The cumulative percentage of completion for the two vessels as on 31.03.2026 is 54.84 percent for SH.0023
+        and 55.19 percent for SH.0024. The total liquidated damages for SH.0023 is Rs. 11814.08 lakhs and for
+        SH.0024 is Rs. 9756.34 lakhs up to the financial year 2025-26. The Company has recognized revenue to the
+        tune of Rs. 16944.49 lakhs towards SH.0023 and Rs. 17158.03 lakhs towards SH.0024 upto 31.03.2026 after
+        considering the liquidated damages.
+
+         In line with the above, and given that the request for reallocation, the Company is now actively engaged in
+         discussions with the Andaman & Nicobar Administration (A&N) and the Union Territory of Lakshadweep
+         Administration (UTLA), under the guidance of the Ministry of Ports, Shipping and Waterways. These
+         discussions are focused on modifying the two vessels to suit the present requirements of either administration.
+         Both administrations have confirmed their willingness to take over each vessel in its current under-construction
+         state, subject to the necessary modifications. The Company continues to monitor developments related to this
+         contract and will review its accounting estimates and provisioning requirements in subsequent periods as more
+         information becomes available.
+
+
+         5. During the financial year, the Company has further capitalised an amount of Rs. 18,060.36 lakhs (Previous
+         Year: Rs. 79,344.26 lakhs) and Rs. 4,462.18 lakhs (Previous Year: Rs. 1,31,938.92 lakhs) for the projects
+         'International Ship Repair Facility' and 'New Dry Dock' respectively.
+
+
+         6. Assets Cover available & Extent of Security in respect of Listed Non Convertible Debentures and Asset
+         Coverage Ratio as on 31.03.2026 detailed in Annexure A.
+
+
+
+                                                                Page 5
+
+Cochin Shipyard Limited
+Statement of Standalone Audited Financial Results for the Quarter and Year ended March 31, 2026
+
+
+        7. The financial impact of the new wage codes is primarily confined to gratuity liabilities for on-contract
+        workmen, which have already been recognized in the accounts following actuarial valuations for FY 2025-26.
+        No additional provisions are required for Officers, Supervisors, or Workmen, as their current wage components
+        already exceed the 50% threshold for PF and gratuity calculations. Similarly, leave encashment liabilities
+        remain unchanged because existing actuarial provisions sufficiently cover regular staff, while contract
+        employees do not carry forward enough leave to trigger new liabilities. The restructuring of consolidated pay for
+        contract workers is designed to be cost-neutral, ensuring that total gross pay and related financial outgoings
+        remain stable. Consequently, CSL has mitigated potential compliance risks through proactive liability entries
+        and internal committee reviews without incurring significant unprovided expenses
+
+
+
+
+         8.The Company has two pilot projects under the R&D initiative of the Ministry of Ports, Shipping and
+         Waterways (MoPSW). Hydrogen Fuel Cell Technology for Marine Application - approved for partial funding of
+         ~1312.50 lakhs. (Project fully executed and vessel completed) and Fully Indigenous Autonomous Surface
+         Vessel (ASV) - approved for partial funding of ~2000 lakhs. (Project under execution; vessel under
+         construction)
+         The Company had recognized the net cost incurred on these projects (after reducing the grant) as Research &
+         Development (R&D) expenditure in the Statement of Profit and Loss for the year ended 31st March 2025. At
+         that stage, the projects were under development and the ownership position was not yet clarified. The MoPSW
+         has now formally clarified that the ownership of these R&D assets rests with the Company.
+         The Hydrogen Fuel Cell Vessel is being actively marketed for sale with IWAI (which also falls under the
+         administrative purview of MoPSW), and the Company has transferred possession of the vessel to them. The
+         consideration and the contract are currently being discussed with IWAI under the guidance of the MoPSW.
+          Pending the finalization of these discussions, the asset has been classified as "Asset Held for Sale."
+          The ASV is still under construction and has been reclassified as "Capital Work in Progress" until completion.
+          The Company will continue to monitor developments and review the valuation and classification of these
+          assets in subsequent periods as necessary.
+
+
+
+          9.The Company while determining the pricing of the vessels, factor the Ship Building Finance Assistance
+          (SBFA) which is generally known to the customers also. Accordingly, during the year the Company has
+          regrouped the SBFA under 'Sale of product' which was hitherto grouped under 'Other operating revenue' to
+          give a more realistic picture. However, it has no financial impact on the revenue from operations.
+
+
+          10. The Board of Directors of the Company have recommended a final dividend of Rs 1.50 per equity share of
+          face value of Rs.5 at the Board meeting held on May 15, 2026.
+
+
+          11. Figures for the previous periods/year have been regrouped /reclassified and rearranged wherever
+          considered necessary to conform to the classification of the current period/year.
+
+
+
+
+                                                                 Page 6
+
+Cochin Shipyard Limited
+Standalone Balance Sheet as at March 31, 2026
+
+COCHIN SHIPYARD LIMITED
+Standalone Balance Sheet as at March 31, 2026
+                                                                             (Rs in lakhs)
+
+                                                            As at March      As at March
+                                     Particulars             31,2026          31,2025
+
+
+
+ASSETS
+
+ Non-current assets
+                                                              2,91,868.86      2, 79,303.10
+  (a) Property, Plant and Equipment
+                                                                58,349.16         51,078.79
+  (b) Capital Work-In-Progress
+                                                                  608.04          1,077.91
+  (c) Intangible Assets
+                                                                   68.06             68.06
+  (d) Intangible Assets Under Development
+  (e} Financial Assets
+                                                               47,481.87         35,852.42
+      (i) Investments
+                                                                1,124.98            551.52
+      (ii) Loans
+                                                                   183.15           160.73
+      (iii) Other Financial Assets
+                                                                 2,946.83         2,946.83
+   (f) Income Tax Assets (net)
+   (g) Deterred Tax Assets (net)                                      -           7,295.94
+                                                                 1,176.94         1,234.71
+   (h} Other Non-current Assets
+                                                              4,03,807.89      3,79,570.01
+       Total Non-Current Assets
+ Current Assets
+                                                              2, 14,233.63     1,76,096.42
+  (a) Inventories
+  (b) Financial Assets
+                                                                41,166.30        22,527.71
+      (i) Trade Receivables
+                                                                   678.55        31,083.37
+      (ii) Cash and Cash Equivalents
+      (iii) Bank balances other than (ii) above               2,27,024.39      2,71,038.29
+                                                                   163.99           644.33
+      (iv) Loans
+                                                                 5,978.07        22,829.29
+      (v) Other Financial Assets
+   (c) Current Tax Assets (net)                                 10,230.22               -
+                                                              5,04,054.94       4,00,759.81
+   (d) Other Current Assets
+                                                             10,03,530.09       9,24,979.22
+       Total Current Assets
+
+
+  Assets held for sale                                           1,469.50               -
+                                                             14,08,807.48      13,04,549.23
+  Total Assets
+
+
+
+
+                                                   Page 7
+
+Cochin Shipyard Limited
+Standalone Balance Sheet as at March 31, 2026
+
+                                                                             Contd ...           {Rs in lakhs)
+Standalone Balance Sheet as at March 31, 2026
+                                                                             As at March 31,     As at March
+                                       Particulars                                 2026           31,2025
+
+EQUITY AND LIABILITIES
+ Equity:
+                                                                                   13,154.04         13,154.04
+  (a) Equity Share Capital
+                                                                                 5, 76, 128.80     5,47,911.16
+  (b) Other Equity
+                                                                                 5,89,282.84       5,61,065.20
+      Total Equity
+
+ Liabilities :
+ Non-Current Liabilities
+  (a) Financial Liabilities
+                                                                                    2,302.20          2,302.20
+      (i) Borrowings
+                                                                                   52,386.32         44,755.75
+      (ii) Lease Liabilities
+                                                                                    5,294.64          5,229.78
+   (b) Provisions
+   (c) Deferred Tax Liabilities (net)
+                                                                                    6,625.64                -
+                                                                                      940.12               5.72
+   (d) Other Non Current Liabilities
+                                                                                   67,548.92         52,293.45
+       Total Non-Current Liabilities
+ Current Liabilities
+  (a) Financial Liabilities
+                                                                                   99,246.59                -
+       (i) Borrowings
+                                                                                     3,527.25          3,025.42
+      (ii) Lease Liabilities
+       (iii) Trade Payables
+                                                                                    10,520.16          9,006.09
+      Total outstanding dues of Micro Enterprises and Small Enterprises
+
+      Total outstanding dues of creditors other than Micro Enterprises and          79,939.28         20,291.28
+      Small Enterprises
+                                                                                    28,638.54         28,477.23
+      (iv) Other Financial Liabilities
+                                                                                  4,68,510.53       5,22,613.50
+   (b) Other Current Liabilities
+                                                                                    61,593.37       1,05, 129.26
+   ( c) Provisions
+                                                                                           -           2,647.80
+   (d) Current tax liabilities (net)
+                                                                                  7,51,975.72       6,91, 190.58
+        Total Current Liabilities
+
+                                                                                 14,08,807.48      13,04,549.23
+  Total Equity and Liabilities
+
+
+
+
+                                                        Page 8
+
+Cochin Shipyard Limited
+Standalone Statement of Cash Flows for the year ended March 31, 2026
+
+    COCHIN SHIPYARD LIMITED
+    Standalone Statement of Cash Flows for the year ended March 31, 2026
+                                                                                         (Rs in lakhs)
+
+                                                                       For the year      For the year
+                                                                          ended             ended
+    Particulars
+                                                                        31.03.2026        31.03.2025
+
+
+    A. Cash flow from operating activities
+
+                                                                           88,639.81        1, 13,384.54
+    Profit before tax
+
+    Adjustments for :
+     Exceptional items
+                                                                                                        -
+     Depreciation and amortisation expense                                 11,083.22            8,364.37
+
+     Dimunition in value of Loose tools                                       231.78                 151.97
+                                                                            8,316.03            3,644.93
+     Finance cost
+                                                                          (16,496.17)         (19,203.15)
+      Interest income
+      Provision for anticipated losses and expenditure                      3,429.39           12,613.41
+
+      Provision no longer required                                         (20,762.27)        (14,054.34)
+
+      Loss allowance for Trade Receivables                                    217.70                 659.59
+
+      Dividend income from Mutual Funds                                       (148.87)                (72.78)
+
+      Dividend income from preference shares                                  (348.54)               (331.74)
+
+      Loss on sale/write off of Property, Plant and Equipment (PPE)            112.54                   5.65
+
+      Profit on sale of PPE                                                       -                   (23.90)
+
+      Deferred Govt. Assistance                                                 (1.14)                 (1.14)
+
+      Net gain /(loss) on foreign currency/ derivative transactions         (7,637.26)                 87.62
+
+      Bad Debts written off                                                       -             8,614.55
+
+     Operating cash flow before working capital changes                     66,636.22        1, 13,839.58
+
+     Movements in working capital :
+
+      (Increase)/ decrease in inventories                                  (38,137.21)        (80,202.44)
+
+      (Increase)/ decrease in trade, other receivables and assets        (1,19,961.09)         (85,876.62)
+
+      Increase/ (decrease) in trade and other payables                     (20,759.46)         40,824.55
+                                                                         (1,12,221.54)         (11,414.93)
+      Income tax paid net of refunds                                       (13,062.36)         (14,611.78)
+
+     Net cash flows from operating activities (A)                        (1,25,283.90)         (26,026.71)
+                                                                                         Contd ...
+
+
+
+
+                                                           Page 9
+
+Cochin Shipyard Limited
+Standalone Statement of Cash Flows for the year ended March 31, 2026
+
+    Standalone Statement of Cash Flows for the year ended
+    March 31, 2026
+                                                                                          (Rs in lakhs)
+
+
+                                                                       For the year       For the year
+    Particulars                                                           ended              ended
+                                                                        31.03.2026         31.03.2025
+
+
+
+    B. Cash flow from investing activities
+     Purchase of property, plant and equipment and intangible assets       (5,565.58)         (14,657.89)
+
+     (Increase)/ decrease in Intangible assets under development                 -                     (7.42)
+
+     (Increase)/ decrease in capital work In progress                      (8,271.21)           (9,531.97)
+
+     (Increase)/ decrease in Other Bank balances                           44,013.90           82,773.79
+
+     (Increase)/ decrease in Capital advance                               (9,475.44)         (19,472.21)
+
+     Dividend received                                                         148.87                  72.78
+
+     Loan to UCSL (Subsidiary)                                               (500.00)
+
+     Repayment of Loan by UCSL (Subsidiary)                                    513.22                    -
+     Investment in NCO of DCI                                             (11,148.00)
+
+     Sale proceeds from PPE                                                    33.64                  35.72
+
+     Interest received                                                     18,573.72           22,135.78
+
+     (Borrowings)/ Repayment of loans                                        (105.65)                 (43.24)
+
+    Net cash flows from investing activities (B)                           28,217.47           61,305.34
+
+    C. Cash flow from financing activities
+     Repayment of lease liability                                           (3,461.47)          (2,926.97)
+     Dividend paid                                                        (25,650.38)          (25,650.38)
+     Proceeds from WCDUShort term borrowing                              4,02,861.60
+     Repayment of WCDL/Short term borrowing                              (3,03,615.01)
+     Finance cost                                                           (3,473.13)               (201.18)
+
+
+    Net cash flows from financing activities      (C)                      66,661.61           (28,778.53)
+
+    D. Net Increase in Cash & Cash Equivalents (A)+(B)+(C)                (30,404.82)            6,500.10
+
+                                                                                         Contd ...
+
+
+
+
+                                                         Page 10
+
+Cochin Shipyard Limited
+Standalone Statement of Cash Flows for the year ended March 31, 2026
+
+    Standalone Statement of Cash Flows for the year ended
+    March 31, 2026
+                                                                                                (Rs in lakhs)
+
+                                                                             For the year       For the year
+                                                                                ended              ended
+    Particulars
+                                                                              31.03.2026         31.03.2025
+
+    Cash and cash equivalent at the beginning of the year                        31,083.37          24,583.27
+
+    Cash and cash equivalent at the end of the year                                 678.55          31,083.37
+
+
+
+
+    Cash Flow Reconciliation:                                                                   (Rs in lakhs)
+
+                                                                             For the year       For the year
+    Particulars                                                                 ended              ended
+                                                                              31.03.2026         31.03.2025
+
+    Cash and cash equivalents at the Balance sheet consists of
+    Balance with Banks
+       In current account                                                              678.55         1,483.37
+       Term deposits with original maturity of less than three months                       -        29,600.00
+
+    Total                                                                              678.55        31,083.37
+
+    Cash and cash equivalents for the purpose of Statement of Cash                     678.55        31,083.37
+    flows
+
+
+
+
+                                                                        C~         ~
+                                                                             -
+
+                                                                          JOSE VJ
+                                                                                   -
+                                                                     Director (Finance) &
+                                                          Chairman & Managing Director (Addi.Charge)
+                                                                       DIN - 08444440
+
+
+
+     Kochi, dated May 15, 2026
+
+
+
+
+                                                          Page 11
+
+Cochin Shipyard Ltd
+                                                                                                                                                                                                                                                                                                      Annexure A
+
+                                                                                                                                      Statement of Security Coverage Ratio
+                                                                                                                                                                                                                              Column K        Column L          Column M           Column N           Column 0
+                                                                                                  Column D I Column E                Column F           I Column G I   Column H              Column I       Column J
+                   Column A                           Column B                Column C
+                                                                                                                                                                                             Elimination
+                                                                                                                                                                                                                                            Related to only those items covered by this Certificate
+                                                                                   Exclusive Charge                                Pari- Passu Charge                                        on (amount
+                                                                                                                                                                                             in negative)
+                                                                                                                                                                                                                                                Carrying                             Carrying
+                                                                                                                                                                                                                                              /book value                           value/book
+                                                                                                                                        Assets                                                                                               for exclusive                        value for pari
+                                                                                                                                      shared by             Other                                                                            charge assets                         passu charge
+                                                                                                                                      pari passu          assets on                          Debt amount                                     where market
+                                                       Description                                                                                                                                                                                                                 assets where
+                                                                                                                                                         which there   Assets not             considered                        Market
+                                                       of Asset for                                                                  debt holder                                                            (Total C to                       value is not        Mark.et
+                                                                                                                                                                                                                                                                                  market value is
+                   Particulars                          which this
+                                                        Certificate
+                                                                                Debt for
+                                                                               which this
+                                                                                                    Other
+                                                                                                   Secured
+                                                                                                             I    Debt for
+                                                                                                                 which this
+                                                                                                                 certificate
+                                                                                                                                       (includes
+                                                                                                                                        debt for
+                                                                                                                                                           is pari-
+                                                                                                                                                             Passu
+                                                                                                                                                            charge
+                                                                                                                                                                       offered as
+                                                                                                                                                                        Security
+                                                                                                                                                                                               more than
+                                                                                                                                                                                             once (due to
+                                                                                                                                                                                               exclusive
+                                                                                                                                                                                                                H)
+                                                                                                                                                                                                                               Value for
+                                                                                                                                                                                                                                 Assets
+                                                                                                                                                                                                                              charged on
+                                                                                                                                                                                                                                             ascertainable
+                                                                                                                                                                                                                                             or applicable
+                                                                                                                                                                                                                                                                 Value for
+                                                                                                                                                                                                                                                                 Pari passu
+                                                                                                                                                                                                                                                                                        not
+                                                                                                                                                                                                                                                                                   ascertainable
+                                                                                                                                                                                                                                                                                                          Total
+                                                                                                                                                                                                                                                                                                       Value(=K+L
+                                                                                                                                                                                                                                                                                                         +M+N)
+
+                                                                                              I
+                                                          relate               certificate                                            which this                                                                                                 {For Eg.         charge
+                                                                                                     Debt           being                                                                                                      Exuclusive                                          or applicable
+                                                                                                                                      certificate         (excluding                            pluspari                                           Bank.           Assets
+                                                                              being issued                                                                                                                                                                                         (For Eg. Bank.
+                                                                                                                   issued                                                                         passu                           Basis
+                                                                                                                                      is issued &            items                                                                              Balance,                              Balance,
+                                                                                                                                      other debt          Covered in                            charge)                                            DSRA
+                                                                                                                                                                                                                                                                                   DSRAmarket
+                                                                                                                                    with paripassu        column Fl                                                                           market value                          value is not
+                                                                                                                                         charge                                                                                                    is not                           applicable)
+                                                                                                                                                                                                                                               applicable)
+
+                                                                                                                                                                                                                                                                       Relating to Column f
+                                                                              Book Value I Book Value I           Yes/ No      I      Book Value          Book Value
+                                                                                                                                                                                                                              Rs in lakhs                                                              Rs in lakhs
+                                                                                                                                                                       Rs in lakhs                          Rs in lakhs
+                                                                              Rs in lakhs
+
+    Assets
+
+                                            Property comprising of total                                                                                                                                                                                                                                13,443.00
+                                                                                                                                                                          2,91,865.41                       2,91,868.86 I 13,443.oo
+     Property, Plant and Equipment          197.12 ares of land located in             3.45
+                                            Girinagar, Ernakulam
+                                                                                                                                                                             58,349.16                         58,349.16
+     Capital Work-in- Progress
+     Ri_g_ht of Use Assets
+     Goodwill
+                                                                                                                                                                                    608.04                           608.04
+     lntan_g_ible Assets
+     Intangible Assets under                                                                                                                                                         68.06                            68.06
+     Development
+                                                                                                                                                                             47,481.87                         47,481.87
+     Investments
+                                                                                                                                                                               1,288.97                          1,288.97
+     Loans
+                                                                                                                                                                             41,166.30                         41,166.30
+     Trade Receivables
+                                                                                                                                                                           2,14,233.63                       2,14,233.63
+     Inventories
+                                                                                                                                                                                678.55                            678.55
+     Cash and Cash Equivalents
+     Bank Balances other than Cash and                                                                                No                                                   2,27,024.39                       2,27,024.39
+     Cash Equivalents
+                                                                                                                                                                           5,24,570.15                       5,24,570.15
+     Others
+                                                                                                                                                                          14,07,334.53                      14,07,337.98
+     Total                                                                             3.45
+
+
+     Liabilities
+
+                                            Tax Free Infrastructure Bond
+     Debt securities to which Certificate   Series 2013-14 Rs 2300.00 lakhs                                                                                                                                      2,302.20
+                                                                                  2,302.20
+     pertains                               plus interest accrued Rs.2.2
+                                            lakhs
+
+     Other debt sharing pari-passu charge
+     with above de.Jll-
+
+
+
+                                                                                                                                                                              99,246.59                         99,246.59
+      Bor~T           u\f1~ ROAD\;:'.\\
+
+
+                                                      -----                                                                                                 Page 12
+
+Cochin Shipyard ltd
+
+                                                                                                                                                                            Column I      Column J      Column K        Column L          Column M           Column N           Column 0
+                  Column A                          Column B                Column C        Column D     Column E        Column F           Column G      Column H
+                                                                                                                                                                            Elimination
+                                                                                                                                                                           on (amount                                 Related to only those items covered by this Certificate
+                                                                                 Exclusive Charge                      Pari- Passu Charge
+                                                                                                                                                                           in neeativel
+                                                                                                                                                                                                                          Carrying
+                                                                                                                                                                                                                                                               Carrying
+                                                                                                                                                                                                                        /book value
+                                                                                                                                                                                                                                                             value/book
+                                                                                                                             Assets                                                                                    for exclusive
+                                                                                                                                                                                                                                                            value for pari
+                                                                                                                          shared by            Other                                                                   charge assets
+                                                                                                                                                                           Debt amount                                                                      passu charge
+                                                    Description                                                           pari passu         assets on                                                                 where market
+                                                                                                                                            which there   Assets not        considered                   Market                                              assets where
+                                                    of Asset for                                                         debt holder                                                      (Total C to                   value is not        Market
+                                                                                                          Debt for                                                                                      Value for                                           market value is
+                                                     which this               Debt for                                     (includes          is pari-    offered as         more than                                 ascertainable       Value for                               Total
+                  Particulars                                                                  Other     which this                                                                           H)                                                                  not
+                                                                             which this                                     debt for           Passu       Security        once (due to                    Assets                                                               Value(=K+L
+                                                    Certificate                                                                                                                                                        or applicable       Pari passu
+                                                                                              Secured    certificate                                                         exclusive                  charged on                                          ascertainable
+                                                       relate                certificate                                  which this          charge                                                                       (For Eg.         charge                               +M + N)
+                                                                                               Debt         being                                                             plus pari                  Exuclusive                                          or applicable
+                                                                            being issued                                  certificate       (excluding                                                                        Bank           Assets
+                                                                                                           issued                                                               passu                       Basis                                            (For Eg. Bank
+                                                                                                                          is issued &          items                                                                      Balance,
+                                                                                                                                                                              charge)                                                                           Balance,
+                                                                                                                          other debt        Covered in                                                                       DSRA
+                                                                                                                                                                                                                                                             DSRA market
+                                                                                                                        with paripassu      column F)                                                                   market value                          value is not
+                                                                                                                             charge                                                                                          is not
+                                                                                                                                                                                                                                                              applicable)
+                                                                                                                                                                                                                         applicable)
+
+                                                                                                                                                                                                                                                 Relating to Column F
+                                                                            Book Value      Book Value    Yes/ No         Book Value        Book Value
+
+    Others
+                                                                                                                                                               90,459.44                    90,459.44
+    Trade Payables
+                                                                                                                                                               55,913.57                    55,913.57
+    Lease Liabilities
+                                                                                                                                                               66,888.01                    66,888.01
+    Provisions
+                                                                                                                                                             4,98,089.19                  4,98,089.19
+    Others
+                                                                                                             No
+                                                                               2,302.20                                                                      8,10,596.80                  8,12,899.00
+    Total
+
+    Cover on Book Value                                                             0.00
+
+
+    Cover on Market Value                                                            5.84
+
+
+
+    Assets Cover available & Extent of Security in respect of Usted Non Convertible Debentures: Property comprising of total 197.12 ares of land located in Girinagar, Ernakulam
+    The realisable value of Rs 13443.00 lakhs of the free hold land is on the basis of certified valuation report dated 14 May 2026
+
+
+
+
+                                                                                                                                              Page 13
+
+BABU A. l(ALLIVAYALILl,fCO.
+Manchu Complex, 2nd Floor, P. T. Usha Road, Ernakulam, Kochi - 682 Oll, Kerala, India.
+Ph: +91 LJ8LJ 2363119, 2380868 Mob: 98LJ60 35333, !99LJLJ60 66600
+Emai~: bakca@bakca.in, bakco.ca@gmail.com I www.bakca.in
+
+Offices at: Kochi I Mumbai I Delhi NCR I Chennai I Kottayam
+
+
+
+
+                                      INDEPENDENT AUDITOR'S REPORT
+                     ON THE AUDIT OF STANDALONE ANNUAL FINANCIAL RESULTS
+                                   FOR THE QUARTER ENDED MARCH 31, 2026
+                          AND YEAR TO DATE RESULTS FOR THE YEAR FROM
+                          APRIL 01, 2025 TO MARCH 31, 2026 OF THE COMPANY
+
+
+                     The Board of Directors,
+                     Cochin Shipyard Limited
+
+                     Opinion
+                  1. We have audited the accompanying standalone annual financial results of Cochin
+                                                              '   '   •• ,   'l   .•   ;..   ,,   ~   •   jl   '
+
+
+
+
+                      Shipyard Limited (hereinafter referred to as "the Company") for the quarter and
+                      year ended March 31, 2026, ("the Statement") attached herewith, being submitted
+                      by the Company pursuant to the requirements of Regulation 33 and Regulation
+                      52 read with Regulation 63 of the Securities and Exchange Board of India [SEBI]
+                      (Listing Obligations and Disclosure Requirements) Regulations, 2015 as
+                      amended ("the Listing Regulations") and as prescribed in SEBI operational
+                       circular 'SEBI/HO/DDHS/P/CIR/2021/613' dated August 10, 2021, as amended.
+
+
+                   2. In our opinion and to the best of our information and according to the
+                       explanations given to us, the aforesaid standalone annual financial results:
+                       a. are presented in accordance with the requirements of Regulation 33 and
+                          Regulation 52 read with Regulation 63 of the Listing Regulations, as prescribed
+                                                                      ...... ,··
+                           in SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+                            as amended in this regard and as prescribed in SEBI operational circular
+                            'SEBI/HO/DDHS/P/CIR/2021/613' dated August 10, 2021, as amended, and;
+                                                                                                                   Pag}~s
+
+BABU A. IULLNAYALIL&Co.
+---CHARTERED ACCOUNTANTS---
+
+
+
+
+       b. give a true and fair view in conformity with recognition and measurement
+          principles laid down in the applicable Indian Accounting Standards prescribed
+          under section 133 of the Companies Act, 2013 ("the Act") read with the
+          Companies (Indian Accounting Standards) Rules, 2015, as amended, ("Ind
+          AS") and other accounting principles generally accepted in India, of the state
+          of affairs of the Company as at March 31, 2026, of the net profit and other
+          comprehensive income, and other financial information of the Company for
+          the year ended March 31, 2026.
+
+
+         Basis for Opinion
+      3. We conducted our audit in accordance with the Standards on Auditing (SAs)
+        specified under section 143(10) of· the Act. Our responsibilities under those
+        Standards are further described in the Auditor's Responsibilities for the Audit of
+        the standalone annual financial results section of our report. We are independent
+        of the Company, in accordance with the Code of Ethics issued by the Institute of
+        Chartered Accountants of India (ICAI) together with the ethical requirements
+        that are relevant to our audit of the standalone annual financial results under the
+        provisions of the Act and the Rules thereunder, and we have fulfilled our other
+        ethical responsibilities in accordance with these requirements and the Code of
+        Ethics. We believe that the audit evidence that we have obtained is sufficient and
+        appropriate to provide a basis for our opinion on the standalone annual financial
+        results.
+
+
+         Emphasis of Matters
+      4. Suspension of Construction of Two Passenger Vessels and Related
+         Uncertainties
+         In 2016, the Company entered into a contract with the Administration of a Union
+         Territory of India for the construction of two passenger vessels at a total contract
+         value of Rs.81,900 lakhs (excluding taxes and foreign exchange variation). The
+         vessels were launched in January 2020 and August 2022, respectively.
+
+
+                                                                                   Page~
+
+BABU A. l(ALLIVAYALILt?'Co.
+---CHA'TERED ACCOUNTANTS---
+
+
+
+
+        As at the reporting date, approximately 55% of the construction work, up to the
+        fourth stage, has been completed and payments aggregating to Rs.66,503.63 lakhs
+        (Previous year: Rs.66,503.63 lakhs) have been received from the Administration.
+        The fifth and final stage is linked to delivery of the vessels.
+
+        Subsequently, the Andaman and Nicobar Administration has expressed its
+        intention to take delivery of one vessel, while the other vessel is proposed to be
+        taken over by the Union Territory of Lakshadweep Administration, both subject
+        to certain reconfigurations. However, the scope of modifications and related
+        commercial terms, including reimbursement of costs, are yet to be finalised
+        between the parties. Pending receipt of the necessary approvals and finalisation
+        of the commercial arrangements, further construction activities remain
+        suspended.
+
+        Accordingly, the Company is presently unable to determine the financial impact,
+         if any, arising from factors such as ageing of the vessels due to prolonged
+         inactivity, occupation of berthing space, and annual revalidation costs of bank
+         guarantees amounting to Rs.1,12,411.88 lakhs (Previous year: Rs.1,10,936.04
+         lakhs) furnished to the Administration (Refer Note No. 4).
+
+
+      5. Classification of Ship Building Financial Assistance
+         The Management has represented that while determining the pricing of the
+         vessels, it factor the Ship Building Financial Assistance (SBFA) which is an
+         integral component of the shipbuilding process. Accordingly, during the year,
+         the Company has regrouped the SBFA under 'Sale of product' which was hitherto
+         grouped under 'Other operating revenue' (Refer Note No.9).
+
+         Our opinion is not modified in respect of these matters.
+
+
+
+
+                                                                                   '\~/
+                                                                                  Pa~of8
+
+BABU A. l<ALLIVAYALILt?Co.
+---CH~RTtRED ACCOUNTANTS
+
+
+
+
+           Responsibilities of Management and Board of Directors for the Standalone
+           Annual Financial Results
+        6. These standalone annual financial results have been prepared on the basis of
+           the standalone financial statements.
+
+           The Company's Management and the Board of Directors are responsible for
+           the preparation and presentation of these standalone annual financial results
+           that give a true and fair view of the net profit and other comprehensive income
+           and other financial information in accordance with the recognition and
+           measurement principles laid down in Indian Accounting Standards prescribed
+           under Section 133 of the Act and other accounting principles generally
+           accepted in India and in compliance with Regulation 33 and Regulation 52
+           read with Regulation 63 of the Listing Regulations. This responsibility also
+           includes maintenance of adequate accounting records in accordance with the
+           provisions of the Act for safeguarding of the assets of the Company and for
+           preventing and detecting frauds and other irregularities; selection and
+           application of appropriate accounting policies; making judgments and
+           estimates that are reasonable and prudent; and the design, implementation
+           and maintenance of adequate internal financial controls, that were operating
+           effectively for ensuring accuracy and completeness of the accounting records,
+           relevant to the preparation and presentation of the standalone annual financial
+           results that give a true and fair view and are free from material misstatements,
+           whether due to fraud or error.
+
+
+         7. In preparing the standalone annual financial results, the Management and the
+            Board of Directors are responsible for assessing the Company's ability to
+            continue as a going concern, disclosing, as applicable, matters related to going
+            concern and using the going concern basis of accounting unless the Board of
+            Directors either intends to liquidate the Company or to cease operations, or
+            has no realistic alternative but to do so.
+                                                                                  Pa~S
+
+BABU A. l<ALLIVAYALIL&Co.
+-~~CHARTERED ACCOUNTANTS~~
+
+
+
+
+      8. The Management and Board of Directors are responsible for overseeing the
+         Company's financial reporting process.
+
+
+         Auditor's Responsibility for the Audit of the Standalone Annual Financial
+          Results
+       9. Our objectives are to obtain reasonable assurance about whether the
+          standalone financial results as a whole are free from material misstatements,
+          whether due to fraud or error, and to issue an auditor's report that includes
+          our opinion. Reasonable assurance is a high level of assurance, but is not a
+          guarantee that an audit conducted in accordance with SAs will always detect
+          a material misstatement when it exists. Misstatements can arise from fraud or
+          error and are considered material if, individually or in the aggregate, they
+          could reasonably be expected to influence the economic decisions of users
+          taken on the basis of these standalone annual financial results.
+
+
+       10. As part of an audit in accordance with SAs, we exercise professional judgment
+          and maintain professional skepticism throughout the audit. We also:
+          a. Identify and assess the risks of material misstatements of the standalone
+             annual financial results, whether due to fraud or error, design and perform
+             audit procedures responsive to those risks, and obtain audit evidence that
+              is sufficient and appropriate to provide a basis for our opinion. The risk of
+              not detecting a material misstatement resulting from fraud is higher than
+              for one resulting from error, as fraud may involve collusion, forgery,
+              intentional omissions, misrepresentations, or the override of internal
+              control;
+
+BABU A. l(ALLNAYALILf?,Co.
+~~-CH~RTEREC ACCOUNTANTS-~
+
+
+
+        b. Obtain an understanding of internal control relevant to the audit in order
+           to design audit procedures that are appropriate in the circumstances.
+           Under section 143(3)(i) of the Act, we are also responsible for expressing
+           our opinion on whether Company has adequate internal financial controls
+              system in place and the operating effectiveness of such controls;
+
+         c.   Evaluate the appropriateness of accounting policies used and the
+              reasonableness of accounting estimates and related disclosures in the
+              standalone annual financial results made by the Management and Board
+              of Directors;
+
+         d. Conclude on the appropriateness of the Management's and Board of
+              Director's use of the going concern basis of accounting and, based on the
+              audit evidence obtained, whether a material uncertainty exists related to
+              events or conditions that may cast significant doubt on the Company's
+              ability to continue as a going concern. If we conclude that a material
+              uncertainty exists, we are required to draw attention in our auditor's report
+               to the related disclosures in the standalone annual financial disclosures or,
+               if such disclosures are inadequate, to modify our opinion. Our conclusions
+               are based on the audit evidence obtained up to the date of our auditor's
+               report. However, future events or conditions may cause the Company to
+               cease to continue as a going concern;
+
+          e. Evaluate the overall presentation, structure and content of the standalone
+             annual financial results, including the disclosures, and whether the
+               financial results represent the underlying transactions and events in a
+               manner that achieves fair presentation.
+
+
+
+
+                                                                                    Pagl{s'
+
+BABU A. l<ALLNAYALIL&Co.
+     HART    RED ACCOUNTANTS-~~              -·
+     11. Materiality is the magnitude of misstatements in the standalone annual
+         financial results that, individually or in aggregate, makes it probable that the
+         economic decisions of a reasonably knowledgeable user of the standalone
+         annual financial results may be influenced. We consider quantitative
+         materiality and qualitative'factors as in (i) planning the scope of our audit
+         work and in evaluating the results of our work; and (ii) to evaluate the effect
+            of any identified misstatements in the standalone annual financial results.
+
+
+      12. We communicate with those charged with governance regarding, among other
+            matters, the planned scope and timing of the audit and significant audit
+            findings, including any significant deficiencies in internal control that we
+            identify during our audit.
+
+      13. We also provide those charged with governance with a statement that we have
+          complied with relevant ethical requirements regarding independence, and to
+            communicate with them all relationships and other matters that may
+            reasonably be thought to bear on our independence, and where applicable,
+             related safeguards.
+
+             Other matter
+
+       14. Non-Compliance of Composition of Board & Other Committees of Board as
+           required under the Companies Act, 2013 and SEBI Listing Obligation and
+             Disclosure Requirements (LODR) Regulations, 2015:
+             During the year, requisite number of Non-Official (Independent) Directors
+             was vacant, leading to non-existence of certain committees of Board as
+             required. The Company continues to be non-complaint with the constitution
+              of Audit Committee and Nomination and Remuneration Committee as per the
+              provisions of the Companies Act, 2013 and SEBI (LODR) Regulations, 2015, as
+              amended from time to time. It was informed that the Company being a Central
+              Public Sector Enterprises, the power to appoint the Directors vests with the
+              Government of India and appropriate requests for appointing sufficient
+              number of independent directors have been forwarded to the Government of
+              India.
+
+.BABU A. KALLIVAYALIL~          Co.                                                                ~J
+          This standalone annual financial results for the year ended March 31, 2026,
+          were not reviewed by the Audit Committee in accordance with the provisions
+          of Section 177 of the Companies Act, 2013 and Regulation No.18(1) of the SEBI
+          (LODR) Regulations, 2015.
+
+          In the absence of the Nomination and Remuneration Committee as required
+          under Section 178 of the Companies Act, 2013 and Regulation 19 of the SEBI
+          (LODR) Regulations, 2015, the Company is not compliant with the aforesaid
+          provisions relating to corporate governance.
+
+
+          Our opinion is not modified in respect of these matters.
+
+
+        15. The standalone annual financial results include the results for the quarter
+          ended March 31, 2026, being the balancing figure between the audited figures
+          in respect of the full financial year ended March 31, 2026 and the published
+          unaudited year to date figures up to the third quarter of the current financial
+          year, which were subject to limited review only. The Standalone financial
+          results of the Company for the financial year ended March 31, 2025, were
+          audited by the predecessor auditor, who, vide their report dated May 15, 2025
+          expressed an unmodified opinion on those audited standalone financial
+          results.
+
+
+           Our opinion is not modified in respect of this matter.
+
+
+
+                                                             For Babu A. Kallivayalil & Co.,
+                                                             Chartered Accountants,
+
+
+                                                                       r~/
+                                                             Firm R~ration No. 05374S
+
+
+
+                                                             Alexander ~ickal Koshy
+                                                             Partner, Membership No. 007448
+
+        Kochi
+        May 15, 2026                                     UDIN: 26007448RNFGGU8957
+
+
+
+
+                                                                                     Page 8 of 8
+
+               q,)ift.f ~IQ~IJ ~
+               ('llffil m-ern: '!ii >Mr-1 filf.ffi'!
+                                                                           ~es
+                                                       m, 1@'1, m ~ 3W ~ lffiWl)
+                                                                                                                            COCHIN SHIPYARD LIMITED
+                                                                                                                            (A Government of India Category-I M1rnratna Company, Ministry of Ports, Shipping and Waterways)
+
+
+                         SEC/48/2017-63                                                                                                                                                 May 15, 2026
+
+
+                         The Manager                                                                  The Manager
+                         Compliance Department                                                        Compliance Department
+                         BSE Limited                                                                  The National Stock Exchange of India Ltd.
+                         Phiroze Jeejeebhoy Tower                                                     Exchange Plaza
+                         Dalal Street                                                                 Bandra - Kurla Complex, Bandra (East)
+                         Mumbai - 400 001                                                             Mumbai - 400 051
+                         Scrip Code/Symbol: 540678/COCHINSHIP
+
+
+                          Dear Sir/ Madam,
+
+                          Sub: Declaration in respect of Unmodified Opinion on the Financial Results
+                          (Standalone and Consolidated) for the year ended March 31, 2026 pursuant to
+                          Regulation 33(3)(d) of SEBI LODR Regulations
+
+
+                          1.                We hereby declare that the Statutory Auditors of the Company, M/s. Babu A
+                          Kallivayalil & Co., Chartered Accountants, Kochi (Firm Regn. No. 05374S) have issued Audit
+                          Reports with Unmodified Opinion on the Financial Results (Standalone and Consolidated) of
+                          the Company for the year ended March 31, 2026.
+
+
+                          2.                The declaration is given in compliance with the second proviso to Regulation 33(3)(d)
+                          of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+                          Requirements) Regulations, 2015 ("SEBI LODR Regulations").
+
+
+                          3.                The above is for your information and record please.
+
+
+                                                                                                          Thanking you,
+
+
+
+
+                                                                                                                                                      e
+                                                                                                                 Director (Finance), Chief Financial Officer
+                                                                                                                                     & CMD (Addi. Charge)
+
+
+
+
+    .-•~.,_ ("'"~c,. '                                       ~ ~ • 1a~~ ~,                      m. .m.~ ~ 1653, ~ m. .m., ~ - 682 015
+                                                           Registered Office : Administrative Building, P.O Bag No. 1653, Perumanoor P.0., Kochi - 682 015
+J
+'   0 '!""'"
+               •
+               \.        ONV
+                      rso-:;~
+                                ~
+                                                              m/Phone • +91(484) 2361181 / 2501200 ~/Fax: +91 (484) 2370897 / 2383902
+                                                                ~ /Website• www.cochinshipyard.in, <1'b,$r,i/ CN L63032KL 1972G0I002414
+

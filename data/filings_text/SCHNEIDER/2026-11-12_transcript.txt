@@ -1,0 +1,1052 @@
+SEIL/Sec./SE/2026-27/63                                                          November 12, 2026
+
+The Manager                                                     The Secretary
+Listing Department                                              BSE Limited
+National Stock Exchange of India Ltd                            Phiroze Jeejeebhoy Towers,
+Exchange Plaza, Bandra Kurla Complex                            Dalal Street
+Bandra (East), MUMBAI 400 051                                   MUMBAI 400 001
+Fax # 022-2659 8237/8238/8347/8348                              Fax # 022-2272 3121/2037/2039
+Symbol: SCHNEIDER                                               Scrip Code No. 534139
+
+Sub: Transcript of Earnings Conference Call on Unaudited Financial Results for 2nd quarter and
+     half year ended on September 30, 2026 (Q2 FY27)
+
+Dear Sir(s)/ Madam,
+
+In continuation of our letter no. SEIL/Sec./SE/2026-27/55 dated November 2, 2026 and pursuant to
+Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, regarding schedule of investor conference call, please find enclosed herewith the
+transcript of the conference call held on November 6, 2026, to discuss the unaudited Financial Results
+and earnings performance of 2nd quarter and half year ended on September 30, 2026.
+
+This transcript is available on              the    Company’s       website     at   https://infra-in.se.com/en/
+investor/annual-reports-financials/.
+
+We request you to kindly take the above on record.
+
+Thanking you.
+
+Yours Sincerely,
+
+For Schneider Electric Infrastructure Limited
+                Digitally signed
+                by SUMIT GOEL
+SUMIT GOEL Date: 2026.11.12
+                14:09:22 +05'30'
+(Sumit Goel)
+Company Secretary & Compliance Officer
+
+
+
+
+ Schneider Electric Infrastructure Limited
+ Corporate Office: 15th Floor, DT-4, DLF Downtown, Phase 3, Sector 25A, Gurugram, Haryana – 122002
+ Tel. +91 9228078000
+ Registered Office: Milestone 87, Vadodara-Halol Highway, Village Kotambi, Post Office Jarod,
+ Vadodara-391510 Gujarat, India | Tel. +91 0266866200
+ CIN: L31900GJ2011PLC064420
+   schneider-infra.in
+
+       “Schneider Electric Infrastructure Limited
+       Q2 & H1 FY27 Earnings Conference Call”
+                     November 06, 2026
+
+
+
+
+MANAGEMENT: MR. UDAI SINGH – MD & CEO
+               MR. OMKAR PRASAD – CFO
+               MR. MOHIT AGARWAL – HEAD - INVESTOR RELATIONS
+
+
+
+
+MODERATOR:     MR. NEMISH SUNDAR – ELARA SECURITIES (INDIA) PRIVATE LIMITED
+
+
+
+
+                              Page 1 of 17
+
+                                  Public
+
+                                                                   Schneider Electric Infrastructure Limited
+                                                                                         November 06, 2026
+
+
+
+
+Moderator:       Ladies and gentlemen, good day and welcome to Schneider Electric Infrastructure Limited Q2
+                 and H1 FY27 Earnings Conference Call hosted by Elara Securities (India) Private Limited. As
+                 a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity
+                 for you to ask questions after the presentation concludes. Should you need assistance during this
+                 conference call, please signal an operator by pressing star then zero on your touchtone phone.
+                 Please note that this call is being recorded.
+
+
+                 I now hand the conference over to Mr. Nemish Sundar from Elara Capital. Thank you, and over
+                 to you, sir.
+
+
+Nemish Sundar:   Thank you. On behalf of Elara Capital, we welcome you all to the Q2 and H1 FY27 Earnings
+                 Conference Call of Schneider Electric Infrastructure. We would welcome the management
+                 represented by Mr. Udai Singh, MD and CEO, Mr. Omkar Prasad, CFO, and Mr. Mohit Agarwal,
+                 Head of Investor Relations.
+
+
+                 We will now have the opening remarks from the management, post which we will have a
+                 question-and-answer session. Thank you. And over to you, sir.
+
+
+Udai Singh:      Thank you so very much, and good afternoon to all of you, and thank you so much for joining.
+                 I am sure you would have got the presentation which we had uploaded today morning, and I
+                 would like to take you along those slides which we shared in the morning. And if I may request
+                 to go to Slide number 2, where we have shown you trophies which we are very proud of to share
+                 what your company has been doing and the way the company has been getting recognized in the
+                 quarter which went by.
+
+
+                 Just to tell you about what these awards have been, the extreme left which you see is the Golden
+                 Peacock Award, and I am sure you are aware about the Golden Peacock, which is the Institute
+                 of Directors constituted in 1991, supposed to be one of the very revered set of people who
+                 recognize corporations. There, we won an award for excellence in corporate governance, and
+                 this is something which really speaks about what your company has been doing in this area.
+
+
+                 Second award is equally important, where we got awarded and recognized by Indian Chamber
+                 of Commerce for excellence in sustainability manufacturing. Now, these two awards really is a
+                 true testimonial of how your company has been performing in these areas, and which therefore
+                 has also resulted, and I would like to speak to you about the third image which you see on the
+                 extreme right, is the CRISIL rating on ESG. We have done wonderfully well here. We actually
+                 have got reassessed by CRISIL on ESG, and we emerged as a strong player in this area as well.
+
+
+                 I would also like to take you to the subsequent page, which again speaks about how we have
+                 been getting recognized in the industry. If you look at, there are two pictures which you see. It
+                 is a summit held at Delhi, Bharat Electricity Summit, where we were awarded by two prestigious
+                 awards in the POWERGEN India & Indian Utility Week, which was held in last quarter.
+
+
+
+
+                                          Page 2 of 17
+
+                                                 Public
+
+                                                   Schneider Electric Infrastructure Limited
+                                                                         November 06, 2026
+
+If you see, one award was Digital Transformation Partner in the area of distribution, wherein
+essentially what we have been trying to do is, in West India, we are trying to really modernize
+the grids with one of the best solutions which we have for better resilience, better transparency,
+and better control of the grid.
+
+
+On the right, which is the second recognition, is on the Energy Technology Partner of the Year.
+This is one mega job which we are executing in Gujarat for one of the semiconductor setups. I
+would now take you to the next slide, if I may request you to page four, which tells you as to
+how your company has been seeing the India story, which is panning in front of us, where we
+really see that there is sustained demand despite few headwinds which we have been witnessing.
+
+
+Overall, we have been seeing that this actually has been. The panorama in front of us has been
+good. Few macro snapshots, if you look at the slide at the top left, are primarily which are very
+supportive, is the GDP, which, I'm sure you are aware, we were at 7.8 the quarter which went
+by. The expected projection is anywhere between 6.5 and seven, which tells us that the capex
+infusion will keep on happening, and which is something which is a positive side for the
+company.
+
+
+At the same time, we have been also seeing in terms of the private capex, which stands at about
+INR1 trillion. The good news is that major contributor, which is roughly three-fourth of this, is
+in manufacturing area and electricity, where we come as a major player. Of course, the demand
+of electricity, if you remember in 2014, it was about 950 kilowatt hour. Now is touching close
+to about 1,460, and very soon is expected to go to about 2 megawatt hour per capita in 2030.
+
+
+Now what does it mean? This means that there will be more electricity demanded, there will be
+more electricity produced and distributed, which means that the company is on the right path. I
+would be wrong if I don't speak about few headwinds which the company has been seeing, and
+we are trying to see and trying to use all of our levers, whatever possible, how do we mitigate
+these headwinds which we have been seeing, where the rupee stands devaluated, copper,
+aluminum, steel have all gone double digit up, and also the repo rate has also sort of become
+slightly non-conducive.
+
+
+Nevertheless, what I would like you to focus on are four basic pillars, and these four basic pillars
+are the ones which are really setting up the mega trends in India. I would call them out as energy
+transition, AI and digitalization, urbanization, and Make in India. Why we have picked up this?
+We have picked up this because there is a capital which is getting infused, there are programs
+by Government of India which is actually being launched to support these initiatives.
+
+
+For example, if I take the energy transition, the non-fossil fuel, which actually stands at 300, is
+likely to cross 500 in coming years. I am sure you must have read an article in news day before
+where India wants to put up about 90 GWh of energy storage systems. There are schemes which
+are favoring this growth, like Pradhan Mantri Surya sarovar yojana, the RDSS, the newly
+launched Energy Stack, the Green Energy Corridors, and of course, the viability gap funding for
+energy storage systems, and interstate transmission waivers are these areas where we can really
+see this sector's boom.
+
+                          Page 3 of 17
+
+                                  Public
+
+                                                   Schneider Electric Infrastructure Limited
+                                                                         November 06, 2026
+
+At the same time, if you look at AI and digitalization, we have the 1.5, 1.6 gigawatt of data
+centers, which is already up and working. Now we also see, and the sources tell us, that there
+are plans in the country to take it to about seven and eight in next three to four years, which is
+extremely important for us because a country like we are, we would consume this sort of data.
+
+
+These steps are also being supported and getting mandated by government by Acts like DPDP,
+like the policy which is still in draft stage, but is likely to get rolled out on the national data
+center. The tax incentives and holidays which are being given to people who are actually
+developing these data centers, and so on and so forth.
+
+
+Two another important pillars, as I said before, urbanization. We are talking about more and
+more people moving into towns and cities, which means that more and more ACs, more and
+more infrastructure, more and more hotels, residences, offices, more electricity. Of course, this
+is all being again supported, as I said before, by the government's initiative in terms of making
+smart cities, the infusion in areas of rail infrastructure, where we speak about Vande Bharat
+trains, which is likely to go up from 82 to 400.
+
+
+The EV penetration, which is likely to touch 30%, and the schemes like FAME I and FAME II,
+and also the PM E-DRIVE is all being supported. Last but not the least is the Make in India
+program of government. This is essentially is to drive self-resilience in our sense. This is also to
+boost export out of India.
+
+
+On a long term, we see that the manufacturing sector, which is today contributing to about 15%,
+is likely to go to about 25% in times to come, say, by next about four years. This is again
+important, and government is very much conscious about it, and certain programs which you
+must read on the slide are the ones which are going to drive this. We at the company of yours,
+what we have decided to do is adopt and stick to three strategic pillars.
+
+
+These three pillars are to be a technology leader. Be a technology leader and give those
+technologies to our customers and other stakeholders, which are really a true differentiator.
+Second, to have a very high level of customer differentiation. When I use this term customer
+differentiation, the idea is to keep and do things keeping customer at the core.
+
+
+Whatever is required, desired by customer at their sites, offices, is what we should be doing at
+our best. The last is being really cost competitive. We are the ones which are focusing and trying
+to do more and more things inside of India and making the supply chain pretty effective and
+staying cost competitive.
+
+
+With this, I would also be very happy to share a few wins which we have actually done in the
+quarter which went by. I would like to take your attention to page six, where we are talking about
+how we are working on the new waves of growth, the new emerging segments. New emerging
+segments, in our opinion and everybody opinion, is data centers, is semiconductors, and also
+continued pitch on the renewables.
+
+
+
+
+                         Page 4 of 17
+
+                               Public
+
+                                                  Schneider Electric Infrastructure Limited
+                                                                        November 06, 2026
+
+These three things which you see are essentially semiconductor, where we have supplied the
+entire powertrain, which includes the switchgear, which includes the transformer. The second
+one is data center is a unique thing which we have done, which is a skid-mounted station. Skid-
+mounted stations are becoming the order of the day because it cuts the commissioning time.
+
+
+It is a plug-and-play solution, and that's something which we have uniquely done at this data
+center in West India. Renewables is where I would be not hesitant to say that we have been
+trying to do whatever we could at the distribution, including the inverter duty transformers, and
+this is one of the case like that, where we have been supplying this in the plant run by
+government.
+
+
+I would also take you to the next page, which is page seven, where, if you recall what I said is,
+how do we leverage the Make in India program of government? This is something which you
+do, is where we are seeing and reaching out to these manufacturing setups and plants with the
+products which we are making all by ourselves in India.
+
+
+Few things which I will mention, and if you would notice that this all across, this really
+transverse. We have been seeing and doing and reaching out to people in metal space, in the
+material, which is nothing but people who are making glass, in automotives, in defense, and also
+in the batteries.
+
+
+If you look at what we have been also trying to do is trying to give which way with which we
+can create value, whether it's AIS panels and metals in a plant in north, whether it's an E-house,
+which is nothing but the E-building, where we have actually been doing this in a setup which
+makes glass in south.
+
+
+Whether there's a compact station which we have been supplying to West India, near Bombay,
+and of course, defense, which is to a company which is making and supplying equipment to
+Indian Army. The last being the EV battery manufacturer where we've been supplying all those
+solutions which we manufacture in India by ourselves and supply.
+
+
+Now, nevertheless, just to tell you the last, just to reinforce as to what we've been trying to do
+and trying to be present at all places, is how are we powering the upcoming urban infrastructure,
+and what is the help which we're trying to really modernize and transform this in the country?
+Three cases which we have mentioned, if you look, one is a thermal power plant, other one is a
+metro in Bombay, and the third one is what we are trying to do in terms of uplifting the water
+infrastructure in state of MP.
+
+
+Now, these were, again, you would notice that these are all across where in the thermal power
+plant, we have been supplying the panels, we are supplying the protection systems, including
+relays and other SCADAs. We have been talking about the similar thing where, as I said before,
+automation panels, the entire controls of mass rapid transport in Bombay.
+
+
+The highly technical breakers in this segment, which we are seeing on the extreme right in
+metals, in water. While I have shared this with lot of proud, we would also at the same breath,
+
+
+                         Page 5 of 17
+
+                                 Public
+
+                                                   Schneider Electric Infrastructure Limited
+                                                                         November 06, 2026
+
+we would like to also speak about what we have been doing in terms of enhancing our brand and
+doing work in areas of CSR and sustainability. If you notice what we have been trying to do is
+trying to really drive and sensitize stakeholders in India with our thought leadership programs.
+
+
+If you see, we have been there where we should be there, whether it's Bharat Electricity,
+POWERGEN India, the Semicon Summit held in Yashobhoomi in Delhi, the CII 6th Power
+Conclave, and also engagements and interactions with the European Union Chambers. We have
+been also really trying to drive these thought leadership programs by multiple channels, by either
+releasing, going to the press and making something which is relevant for us and the country, or
+trying to see as to what we can do in terms of driving sustainability.
+
+
+Like, if you look at the picture which is at the center on the bottom row, is where we are trying
+to see as to how we have been trying to do and asking to carry out pilots by some DISCOMs of
+equipment which doesn't have SF6, which is an extremely green gas in terms of having very
+high potential of greenhouse emission.
+
+
+Then what can we do in terms of really modernizing and supporting and diversifying grids,
+because if we are reaching on July, I'm sure you are aware, on 16th of July, the country touched
+270 gigawatts of peak demand. How do the existing grids can be modernized is something which
+is an article which was given in the Business Standard.
+
+
+The idea of me sharing this at this point in time with all of you is that we are trying to be sharing
+the advancements because we are one of the most advanced technology partner of our customers,
+and to telling them as to what India needs. In which ways will it be needed? How will that be
+done, and what use will it bring to the customers and all stakeholders, the users, everyone?
+
+
+I would also like to share one more thing, and I would request you to go on page 11, where we
+launched one of the most advanced breakers made globally. This is the breaker which we are
+now started production in our Kolkata plant.
+
+
+We unveil this breaker in Kolkata, and you see some pictures where we had called our partners,
+stakeholders, some 150-odd people came in, and were part of this launch where we unveil this
+breaker. I would just, on a very summary note, would like to speak about what this breaker is all
+about. This is something which is on Page 12, and why I say that this is one of the most advanced
+globally ever produced is, number one, it is a fully digitalized and sensorized breaker.
+
+
+It has a life which is twice the industry available breakers. It is 2x more operations. Of course,
+because it is super sensorized, it has got 40% lesser maintenance cost. This is a breaker which is
+really a trendsetter, as I would say, in times to come. We are pretty confident that this breaker,
+which is being produced in your plant in Kolkata, will actually drive the trend. I come to the last
+slide of my presentation before I hand over to my colleague, Mr. Omkar, is to tell you about
+what we have been doing in areas of sustainability.
+
+
+If you look at, and I am talking about slide 13, where you see that we are already 100% our
+energy sourced by renewables in the sites. We unfortunately had one accident, minor accident
+
+
+                         Page 6 of 17
+
+                                Public
+
+                                                                    Schneider Electric Infrastructure Limited
+                                                                                          November 06, 2026
+
+                in last month. The gender diversity is something which we have been focusing, because it is
+                important, because it is critical for organizational development, and we have moved the needle
+                to close to 20%.
+
+
+                At the same time, I am very happy and proud to share that we have been trying to work along in
+                state of Gujarat in developing the skill. Just to tell you, in last two years, we have actually trained
+                close to 1,900 youth, which are trained through our 16 skill centers. We have also been trying to
+                help the community centers, the CSCs, the PHCs, and Anganwadis, and we have actually then
+                close to about 320,000 people have been benefited for the programs which we have done.
+
+
+                These numbers which you see is last two and three years number. Of course, as I said before, we
+                have actually been awarded and getting recognized in the forums and platforms which are
+                relevant and pertinent for us in the country. With this, I thank you so very much for patiently
+                hearing, and I would request my colleague, Omkar, to take you through the financial
+                performance of the quarter and the half year which went by. Over to you, Omkar.
+
+
+Omkar Prasad:   Thank you, Udai. Thank you very much. And good afternoon, everyone. I just give the financial
+                update. I will start with highlights in there in the Page number 15. We will start with the order
+                for H1. If you look at the solid growth in terms of 25%, because you must have seen Q1, we
+                were trailing in the orders, and in Q2, we were able to pick up the order, which is like-to-like
+                comparison is more than 50% plus.
+
+
+                So, we have closed the orders in this quarter is INR1,265, and the next one become INR2,180,
+                which is actually the good growth. In this, in solid growth, in effect, the contribution is coming,
+                as Udai highlighted, is emerging segment, with the good contributions in this order backlog.
+
+
+                Moving to the sales, as we discussed in the Q1 earning calls, that we had a lagging in the
+                execution in the Q1 due to the dependency on the customer to be able to accelerate the sales in
+                this quarter. And in this quarter, we able to achieve close to 20% growth Y-o-Y, touching around
+                INR780 crores. And H1, we are close to 12.5%, which is INR1,400 crores.
+
+
+                EBIT, again, I will say from sequential quarter, we have been able to improve. You must have
+                seen the Q1, due to the negative operating leverage, there was a profit, was there only close to
+                4% of the Q1. In Q2, able to do with 7.2%, and overall H1 is 6.2%. In all these, just to also
+                confirm that in KMVC capacity expansion, which we got approved last week from the Board,
+                we started partially the capitalizations.
+
+
+                So, there is an increase in depreciation you will see in the next slide, number 14. Slide number
+                16, where we have a Q2 performance. So, coming to the sales, we said that we grown 20%.
+                Other income, when you look at, this is the income, we also include the income coming from
+                the deposit what we have, the cash we have from the bank. Material cost to be a stress even in
+                this quarter.
+
+
+                While we on top up on all the measures what we are taking it, we try to keep it all the probable
+                protections through our customer pricing. But this continued to be pressure. If you look at like-
+
+
+                                          Page 7 of 17
+
+                                                Public
+
+                                                                Schneider Electric Infrastructure Limited
+                                                                                      November 06, 2026
+
+             to-like, even in preceding quarters, the cost of commodity like copper and transformer oil has
+             increased. There was a slight relief on silver, which is very lesser consumption at our entity.
+
+
+             Copper and the transformer oil continue to be increased even to sequential quarter and also like
+             previous year, same quarter. Employee cost, while you look at the number in terms of 25%
+             growth, let me tell you that in the Q1, which the way we explained, the increase is as per the
+             inflations. Plus, what we have here, the headcount increase coming from the certain engineering
+             cost, engineering people, whether they are working for us and also working for the group, and
+             we are recharging this cost.
+
+
+             That increase is giving, but the overall employee cost is increased only in proportion to the
+             inflations what we have. In other expense, if I tell you the two things, one, while you see 22%
+             increase, again, there is an increase in line with inflations. Plus, we have a certain cost which get
+             recorded in the foreign currency, and foreign currency has impacted, which increased other
+             expense this line. Plus, we have a temporary, or you can say, timing accounting provisions which
+             have been done in other expenses.
+
+
+             We expect that these are the timing temporary difference which are based on the accounting
+             policy we do every quarter. So, that has increased in this Q2 results. Depreciation we talk about,
+             so KMVC plant is the major one we started capitalizing it. Finance cost, again, this is just to
+             confirm you, no incremental borrowing. The finance cost is increased just because the change
+             in the rate what we are paying based on the RBI rate and the declare.
+
+
+             Last year, there was a gain because of RBI modified rate what they charged, and this year there
+             is an impact because 6.1% becomes 6.7% interest rate, what I understand. No exceptional item,
+             tax expense, nothing to call out. Our ETR remains same. Overall, the profit we close, PAT, we
+             close at INR30 crore compared to INR52 crores. Largely, the 43% drop you see, one obviously
+             is coming from material cost, and all the other expenses, we expect that in H2 we will be able to
+             leverage it through the operations and revenue for sure.
+
+
+             Next quarter, when we say the Page number 17, this is the H1 results, where you see the sales
+             grow 12.5%. Material cost, again, because Q1 you saw that it was under stress, Q2 continue to
+             be stress. We try to take all the mitigating actions, how we can pass on this to customer pricing.
+             We also expect that geopolitical, these prices will come down in future. Both will help us in the
+             coming quarter for sure.
+
+
+             Employee costs and other expenses and depreciation, nothing to specific call out, which I
+             explained in Q2. More or less direction in the same regions we have, the cost has increased. We
+             expect that we will be able to leverage trading cost in the H2 for sure, when we increase revenue
+             or we can have some benefit from the operations. So that is all.
+
+
+             And then, I hand over to operator to take your questions. Thank you.
+
+
+Moderator:   Thank you, sir. Ladies and gentlemen, we will now begin the question-and-answer session. The
+             first question is from the line of Mr. Sameer Thakur from Ambit Capital. Please go ahead.
+
+
+                                        Page 8 of 17
+
+                                             Public
+
+                                                                    Schneider Electric Infrastructure Limited
+                                                                                          November 06, 2026
+
+Sameer Thakur:   Hi. Thanks. My first question is, what was the percentage of legacy backlog at old prices in the
+                 current quarter, and how much you have in the backlog now? That's the first one.
+
+
+Omkar Prasad:    Okay.
+
+
+Sameer Thakur:   Am I audible?
+
+
+Omkar Prasad:    Yes, you're audible. While I don't think we'll be able to call out the number, I can give you the
+                 confidence that the way we have an order backlog, we have a phasing. The large orders phase
+                 out in 6-12 months, and some of the orders which has a large order is more than 12 months.
+                 That's the aging.
+
+
+                 Any ETO or any designer-specific customer, its average time is five - six months. That is the
+                 backlog we keep. Then certain orders, obviously, is 5-12 months. So the mix is something, I will
+                 say, 20%-25% of our order backlog generally get moved to the one, more than one year.
+
+
+Sameer Thakur:   Okay. Thank you. Second question is, how much price increases you have taken, and what
+                 percentage of the backlog now is protected by price variation clauses? That is the second one.
+
+
+Omkar Prasad:    See, I will just split into a different segment. One, definitely we do the price up where we have
+                 a more standard product. The price up happened, and then obviously, market has to accept it. So
+                 that is the phase. The moment we increase the price, we increase our standard cost also, and then
+                 we update our customer pricing also. So that is the one, but it takes time to adapt by the customer
+                 because there will be an inventory plus out, and then they will take some time to adopt the new
+                 pricing.
+
+
+                 The second is more on projects and equipment when we talk about is more ETO product and
+                 more projects. These are all projects are like tender-based. When we say tender-based, the
+                 decision happen more on L1 basis and some the competitiveness. Many orders comes with the
+                 prescriptions without variation clause, specifically the PSU or many contracts which comes and
+                 prescribe that no variation clause to be added.
+
+
+                 It has to be there at the firm price. In those cases, we try to have certain contingency for sure.
+                 But sometime the way we see the volatility in the commodity, it is still impacting. So, we intend
+                 to include 100%, but due to the customer's contracts and the expectation of the tender, we are
+                 unable to force the variation clause in all the contract.
+
+
+Sameer Thakur:   What will be the percentage of that, such contracts and projects?
+
+
+Omkar Prasad:    See, if you look at our projects, overall business is almost 60%-65%. In overall, I am talking
+                 about, if you look at mix, we do service, we do also standard product, and projects come to close
+                 to 65%. Out of that, we are close to, I will say, 20%-25% we are able to protect.
+
+
+Sameer Thakur:   Okay, that is it. I will get back in the queue. Thank you.
+
+
+
+
+                                          Page 9 of 17
+
+                                                 Public
+
+                                                                 Schneider Electric Infrastructure Limited
+                                                                                       November 06, 2026
+
+Moderator:    Thank you. The next question is from the line of Mr. Moksh from Niveshaay Investment
+              Advisory. Please go ahead.
+
+
+Moksh:        Hi. So my question is that I wanted to know that in the VCB component circuit breaker
+              [Inaudible 0:32:54], how much revenue is derived from the single pole, double pole, and from
+              the.
+
+
+Moderator:    I am sorry for interrupting. Can you come again with your question, please? Your voice is
+              breaking.
+
+
+Speaker 6:    Hello, am I audible? Hello, hello. Am I audible?
+
+
+Moderator:    You are audible, sir. Can you come again with your question, please?
+
+
+Speaker 6:    I just wanted to know that in your VCB components, how much revenue is derived from the
+              single pole, double pole, and from the locomotive side and from the 60s side? Also, if you give
+              me the rough idea about the industry size of these components. Just a rough idea about it.
+
+
+Udai Singh:   Mr. Moksh, if I heard you right, you were asking whether these are how many poles in these
+              breakers. These are three-pole breakers, and these are medium voltage. That is one. And two is,
+              we do quite a lot, and we serve to locomotives to a great deal. These breakers are also being
+              manufactured in Kolkata, as I said.
+
+
+Speaker 6:    Yes.
+
+
+Udai Singh:   Third, you were asking about the size. Now, the size of the market is in terms of volume, I would
+              say about close to, and I am telling you about medium voltage breakers, which are used in AIS
+              panels, maybe anywhere, say about 55,000-60,000 breakers, is what the size of the market is in
+              11, 24, and 36 KV plus.
+
+
+Speaker 6:    Okay. Got it. Thank you.
+
+
+Moderator:    Thank you. The next question is from the line of Mr. Jay from Ambit Capital. Please go ahead.
+
+
+Jay:          Hi. Thank you for the opportunity. I hope I am audible.
+
+
+Moderator:    Yes, sir.
+
+
+Jay:          My first question is that, I wanted to understand the order intake for this quarter. Do we have
+              any large order or a one-off order basically from any of our emerging end markets? Or is the
+              INR12 billion-INR13 billion order a sustainable run rate, that we can think of for the coming
+              quarters as well?
+
+
+Udai Singh:   See, Mr. Jay, it will be wrong on my part to really call off whether this really a big one-off order,
+              because the business which we are in is always cyclic. It depends on the capex cycle of the
+              country. In few quarters, we do get some large value orders in our own terms, the way we define
+              large value. In others, we do not get those one single or two large value orders.
+
+                                      Page 10 of 17
+
+                                              Public
+
+                                                                   Schneider Electric Infrastructure Limited
+                                                                                         November 06, 2026
+
+                The quarter which went by is, of course, was similar, and therefore, I would not call this quarter
+                separately out. If you talk about future, as I said in the presentation, sitting inside the company
+                and seeing as to how market is evolving, we are seeing that there is a demand which is sustained.
+                We also are conscious of the fact that there are certain headwinds and certain uncertainties
+                around it. If I may have answered your question, then perhaps it is good.
+
+
+Jay:            All right. My next question is, I wanted to understand if you could help us quantify the price
+                increases that we have taken, and how does that pass-through work with a lag? And basis of that,
+                how should we think about the margin recovery in the coming quarters?
+
+
+Omkar Prasad:   Mr. Jay, I think Mr. Sameer had a more or less directionally same questions. The price recovery,
+                obviously when we do the tendering, we always factor the costing, what we have to supply or
+                serve to the customers. On that day, we do recover everything. What happened after the
+                tendering and having order from the customer, it all depends that how the commodity move it
+                when we procure, and that takes time, generally three- six months.
+
+
+                So that make the impact. And where I already clarified to Mr. Sameer that how the variation
+                clause play into our business, and which are the, you can say, we have factors where we can take
+                recovery from the customer or what we have to take a hit in our P&L.
+
+
+Jay:            Okay. Thank you so much and all the best.
+
+
+Omkar Prasad:   Thank you.
+
+
+Moderator:      The next question is from the line of Ms. Bhavna from YES Securities. Please go ahead.
+
+
+Bhavna:         Hi. Congratulations on a good set of numbers, sir. I just wanted to understand one question
+                regarding the macro backdrop of data centers. So there's a lot of negative news about data centers
+                and then your returns on it, how it's going to affect the environment, the scarcity of power, water,
+                and everything. So any light on how the demand is shaping up from the data center side, how
+                the inquiry line is, how do you see the outlook in U.S. and then in India specifically? Thank you.
+
+
+Udai Singh:     Thank you, Bhavna, for asking this. These days, if you really ask me, there's a lot of news in the
+                market. I'm sure you read what happened in some parts of U.S. day before. For us, as we see in
+                India, logically, the data is growing. The data is growing big. I think the country differentiates
+                ourselves as one of the largest data user.
+
+
+                This is also being seen when we actually have not been really using the AI so much, as we call
+                it. It's lesser of AI, lesser large language models. Therefore, we really see, if you ask me, an
+                upward trend in data centers. Why despite we keep reading few articles here and there where
+                people are sort of opposing data centers coming up in certain places, but the country needs it.
+
+
+                The government wants it under DPDP Act and MeitY has issued the guideline. The data has to
+                be kept and held in Indian sovereign land. I would say, just to summarize my response, there is
+                a data requirement which will come. There will be data centers which will be coming. Whether
+                today we are sitting at 1.7, expected to be anywhere between eight by 2030. Whether it's eight
+
+                                        Page 11 of 17
+
+                                               Public
+
+                                                                    Schneider Electric Infrastructure Limited
+                                                                                          November 06, 2026
+
+                 or whether it's 6.5, that is something which only time will tell. Overall, the data center does offer
+                 a very solid, I would say, an upside.
+
+
+Speaker 8:       Thank you, sir. Have a good one.
+
+
+Moderator:       Thank you. The next question is from the line of Mr. Bhalchandra from Motilal Oswal. Please
+                 go ahead.
+
+
+Bhalchandra:     Sir, sorry, I joined in late. This quarter, our inflow is at around INR1,265 crores. If you see, as
+                 compared to last year, and even last quarter, it's like last quarter there was a jump from INR700
+                 crores-INR900 crores and INR900 crores-INR1,265 crores. Is it fair to assume that our new
+                 norm for running quarterly inflows will be in this range, or there was one-off in this quarter?
+
+
+Udai Singh:      Sir, it really depends, because it depends on when customers are deciding. As you would
+                 appreciate, there are certain direct engagements with the customers, there are engagements
+                 through contractors, which we actually do for larger jobs. It is difficult to quantify, but then,
+                 overall, as we see, which you must have also observed, that we are increasing quarter- on-
+                 quarter.
+
+
+                 We are keeping our fingers crossed. At the same point in time, we have been also keeping a bit
+                 of a watch on what sort of exposure do we take in terms of, I think there was a question some
+                 time ago regarding the variations which are built up in the contract, and which Mr. Omkar had
+                 replied that there are certain cases where we have not been able to build it.
+
+
+                 We are conscious of this fact that RM I is going to be slightly volatile in days to come. Better
+                 than what it was, but still it will be an important element and factor to be considered. We are
+                 becoming a bit choosy and perhaps not taking an exposure where we see larger risk. To answer
+                 to you, we are hopeful to continue on this path. How much, sir, time will tell, but then, as we
+                 see, India is on a right path that momentum is getting continued. I think overall, we see
+                 something similar happening. To what extent is something which I will not be able to.
+
+
+Bhalchandra:     Was there any large ticket size order in this quarter?
+
+
+Udai Singh:      Not really, sir. It depends on what you call large, but not really, as I answered this some time
+                 ago.
+
+
+Bhalchandra:     Okay. Thank you, sir.
+
+
+Moderator:       Thank you. Next question is from the line of Sameer Thakur from Ambit Capital. Please go
+                 ahead. Mr. Sameer Thakur, please go ahead with your question. Your line is unmuted.
+
+
+Sameer Thakur:   Can you hear me now?
+
+
+Moderator:       Yes, I can. Please go ahead.
+
+
+
+
+                                         Page 12 of 17
+
+                                                 Public
+
+                                                                   Schneider Electric Infrastructure Limited
+                                                                                         November 06, 2026
+
+Sameer Thakur:   Okay, cool. Just coming back to data centers. Sir, to what stage do they place orders? What are
+                 you seeing on the ground? I think sometime back you had mentioned some 3 gigawatt are under
+                 construction or something. Any number on that would be helpful.
+
+
+Udai Singh:      Yes, Sameer Ji, it is something similar. What I was saying that about 1.6 gigawatt is already up
+                 and running. The country sees and estimates this capacity to go to about 8 GW, as many industry
+                 experts have quantified. What we were also trying to seek information from the same set of
+                 experts is to what stage have these projects, which will take India to 8 GW, are, and what we
+                 were told that about 2.5 GW-3 GW something, which is where the projects are reaching financial
+                 closure or have been financially closed and work is in progress. That stays as is, I would say.
+
+
+Sameer Thakur:   Okay, thank you. The second question is there any target for exports? How should we think
+                 about the mix in revenue probably two, three years down the line from here? Because I think
+                 you are putting up capacities in Kolkata that is also catered to exports as well. Just wanted to
+                 your view on that. Thank you.
+
+
+Udai Singh:      Yes, we do have plans for exports. I mean, there are certain infrastructure which we are building,
+                 keeping in mind exports as well. We are working on those capex programs the way we have
+                 conceived is on track, and we will have that export piece come in as planned.
+
+
+Sameer Thakur:   Okay, thank you. I just wanted to check, is export like 12%-15% of revenue, if I am not wrong?
+
+
+Udai Singh:      So Omkar, will have that information.
+
+
+Omkar Prasad:    Yes. I do not know whether -- see, there are multiple phases, Mr. Sameer. You know that even
+                 in Kolkata, we had a phase I which got approved somewhere three years back. Now we got an
+                 approval of phase II. Okay, so it is all progressively increasing. So when you look at percentage,
+                 it also depends on how domestic market we are increasing.
+
+
+                 So, obviously, we expect the investment in Kolkata will accelerate growth. At the same time,
+                 we also expect the domestic market will also grow. So percentage may vary in future, okay? But
+                 as of now, the mix is close to what you mentioned, the 12%, 13%. And we expect that the mix
+                 is not going to be significantly different, because both market is growing.
+
+
+Sameer Thakur:   Okay, thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Jay Negandhi from Ambit Capital. Please go ahead.
+
+
+Jay Negandhi:    Hi, thank you for the opportunity once again. Sir, my first question was that I wanted to
+                 understand how much potential is still left to be drawn from the RDSS scheme. We understand
+                 that it was extended earlier this year. How much of the funds have already been deployed and
+                 how much of it is yet to be ordered so that we can bid for it and we can win from there?
+
+
+Udai Singh:      First of all, let me congratulate the PIB site, where you can always see these exposures, this
+                 investment, this dispersal online, which is really updated. You are right, the program has been
+                 extended for another two years. The outlay which is under this scheme, if I'm not wrong, is about
+
+
+                                         Page 13 of 17
+
+                                                 Public
+
+                                                                    Schneider Electric Infrastructure Limited
+                                                                                          November 06, 2026
+
+                 INR18,000 crores for the current year, out of INR303,000s crore, which was originally the
+                 scheme was conceived.
+
+
+                 I would not have the exact number, latest number as of yesterday, and you can have a look at
+                 that site. What I remember is about INR18,000 crore is what is going to get consumed. That's
+                 where which offers us the potential to do.
+
+
+Jay Negandhi:    All right. Understood. Just a small follow-up on the exports. So just wanted to understand the
+                 margin differential between domestic and export orders, if you could give us some direction in
+                 that.
+
+
+Omkar Prasad:    It all depends, Jay, because in export, we work on arm's length price, as per transfer pricing rule.
+                 In domestic, it is always competitive. It depends. Obviously, we have a benchmark internal, but
+                 it always goes on L1 basis. The good part is that the export of leaving margin behind, it is giving
+                 you the good edge in the revenue and the operating benefits, operating leverage benefits. That is
+                 a way is always positive to P&L.
+
+
+Jay Negandhi:    All right. Thank you so much, and Happy Diwali to all of you.
+
+
+Omkar Prasad:    Thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Aditya Deorah from Divisha Investments. Please
+                 go ahead.
+
+
+Aditya Deorah:   Good afternoon, Udai sir and Omkar ji. My query is with respect to the Kolkata Medium Voltage
+                 Components capacity or the complex that we have set up. Sir, what made us increase the capacity
+                 of the VI over three months? We had an announcement, if I am not wrong, in the month of July,
+                 where we had announced a capacity expansion from 1.8 lakh - 2.5 lakh. Again, in the month of
+                 October, we have again gone for further capacity expansion to 3.75 lakh units per year. What is
+                 the reason for the same?
+
+
+Udai Singh:      The reason is simple, sir. We are seeing the demand, Aditya.
+
+
+Aditya Deorah:   Okay.s
+
+
+Udai Singh:      We are seeing the demand. We started, if you remember, in Q3 of '23, we initiated this program
+                 of infusing capex and making interrupters. We already used to have, we used to make 85,000
+                 pieces. We started working on a program which was to take the capacity to close to 180,000,
+                 185,000. While we were building up, because it takes time to build up that state-of-the-art
+                 facility, we realized that there is a demand coming in, and we did put some more money and
+                 took it to 2.5, as you were rightly putting it.
+
+
+                 And perhaps what we are trying to be more future-ready, because we see that by the time these
+                 facilities will come up, there would be demand globally of these elements which we are making
+                 in Kolkata. That is the reason why we are, as of now, we have enhanced this by another 1.25
+                 lakh.
+
+
+                                          Page 14 of 17
+
+                                                 Public
+
+                                                                           Schneider Electric Infrastructure Limited
+                                                                                                 November 06, 2026
+
+Aditya Deorah:          And sir, any timeline by which we plan to shift it from the Salt Lake facility to our new facility,
+                        the existing capacity of the VI?
+
+
+Udai Singh:             Yes, in coming quarters, sir. It is as per the plan which we are trying to do, because what we
+                        really want to do is not to disrupt the commitments which we have given to our customers. And
+                        that's the reason we are trying to see the right moment by which we should mobilize this asset
+                        from one location to another within Kolkata.
+
+
+Aditya Deorah:          Yes. My last query is something which I have asked before. Like, after this capacity and
+                        expansion announcement, would we have some more space left in Kolkata MVC for further
+                        expansion, or are we done over here?
+
+
+Udai Singh:             No, we have some space. Kolkata is anyway not short of space, so whatever we want to do, we
+                        can do somewhere else as well.
+
+
+Aditya Deorah:          Perfect. Thank you. Thank you, sir.
+
+
+Moderator:              Thank you. Next question is from the line of Parag Prakash Hemdev from PH Financials. Please
+                        go ahead.
+
+
+Parag Prakash Hemdev:   Hello? Hello?
+
+
+Moderator:              Yes, please go ahead with your question.
+
+
+Parag Prakash Hemdev:   Sir, thank you for giving me an opportunity to speak. I, sir, just wanted some margin guidance.
+                        Our peak margin have fallen from around 37%, 39% to now around 34%, 35%. Going ahead,
+                        what kind of margin expectation one can expect? Since past three, four quarters, our margin has
+                        been contracting.
+
+
+                        So, gross profit margin, when I am talking about margins, I am talking about gross profit margin
+                        due to your escalation cost of various metals. Would like your opinion, what kind of margins
+                        could we expect going forward, sir? Thank you.
+
+
+Omkar Prasad:           So Hemdev ji, I think we can't give the guidance for sure, but what we can assure you that margin
+                        is largely diluting because of the external geopolitical reasons of commodity, largely copper and
+                        transformer oil and steel metals, all. Okay? We see that this is not coming down, unfortunately.
+                        The backlog we had started in this year had a good solid impact. Then again, we move on, the
+                        impact again keep increasing. It's not reducing. Okay? When we embed the price, the recent
+                        price plus certain factoring, still the price go beyond that expectations.
+
+
+Parag Prakash Hemdev:   So then...
+
+
+Omkar Prasad:           Specifically on the material margin, if you just carve it out the commodity price, then our margin
+                        is well on track. We will also try to leverage it to the operating cost, where we can take some
+                        benefit of the higher revenue.
+
+
+
+
+                                                Page 15 of 17
+
+                                                         Public
+
+                                                                          Schneider Electric Infrastructure Limited
+                                                                                                November 06, 2026
+
+Parag Prakash Hemdev:   Sir, the new order booking, what we are doing is at the erstwhile margin or at the margin what
+                        we are.
+
+
+Omkar Prasad:           No, no. I think I clarified before also that my current costing, any tendering what we do, I always
+                        take current price index. Plus, we also consider certain the contingency that what will increase.
+                        All those are factor in the current order. What is happening even, say, for example, I booked in
+                        the month of April, for example, the price which I factored for costing, that was good enough
+                        for the April.
+
+
+                        But unfortunately, if you look at when I come to the execution in June, further increase by 10%.
+                        Okay. So while we are able to mitigate certain contingency, but we are not able to mitigate 100%
+                        because we didn't expect it that it will go quarter- to- quarter also more than 10%. Okay. So
+                        that's the only reason, but just rest assured that the current costing, the tendering we do, always
+                        the latest price we do.
+
+
+Parag Prakash Hemdev:   Okay. The cost escalation clause, do we have it in our order, or how does that operate, sir? Can
+                        you give me some
+
+
+Omkar Prasad:           We do have.
+
+
+Parag Prakash Hemdev:   Clarity?
+
+
+Omkar Prasad:           Yes. This was a question from Mr. Sameer also from Ambit, and we clarified that the cost
+                        escalations, we always push for 100% execution, 100% execution, but we do not succeed
+                        because the tender document itself does not mandate or does not have that clause requirement.
+
+
+                        If I push that in this clause, then I become ineligible because I cannot go against the tender
+                        documents. Okay? Somewhere we have to take a call that, okay, either we bid or not bid because
+                        many PSUs, many large contracts, they say they need a firm price. We try to push most of the
+                        clause, price variations in most of the contract, but success rate is not that encouraging today in
+                        overall.
+
+
+Parag Prakash Hemdev:   Okay. Thank you, sir.
+
+
+Moderator:              Thank you. Ladies and gentlemen, that was the last question for today. I now hand the conference
+                        over to Mr. Nemish sir for closing comments.
+
+
+Nemish Sundar:          Thank you. We would like to thank the management of Schneider Electric Infrastructure Limited
+                        for giving us an opportunity to host this call. Thank you to all the participants for joining. I
+                        would now like to hand the conference to the management for any closing comments. Thank
+                        you.
+
+
+Udai Singh:             Thank you very much for really joining and going through the presentation which was uploaded
+                        today morning. I wish you all the best of health, happiness, and very, very happy Diwali to all
+                        of you. Thank you so much.
+
+
+
+                                                  Page 16 of 17
+
+                                                       Public
+
+                                                               Schneider Electric Infrastructure Limited
+                                                                                     November 06, 2026
+
+Omkar Prasad:   Thank you, everyone, and wish you a happy Diwali. Thank you for your time today.
+
+
+Moderator:      Thank you very much, ladies and gentlemen. On behalf of Elara Securities (India) Private
+                Limited, that concludes this conference. Thank you for joining us, and you may now disconnect
+                your lines. Thank you.
+
+
+
+
+                                         Page 17 of 17
+
+                                             Public
+

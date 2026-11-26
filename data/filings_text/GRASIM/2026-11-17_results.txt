@@ -1,0 +1,1180 @@
+Ref No. GIL/CFD/SEC/27/133/SE                                                                       17th November 2026
+
+
+BSE Limited                                                       National Stock Exchange of India Limited
+Scrip Code: 500300                                                Symbol: GRASIM
+
+
+Dear Sir/Madam,
+
+
+Sub: Transcript of post Earnings Call
+Ref: Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+      Regulations, 2015
+
+
+Please find enclosed the transcript of post Earnings Call held on 13th November 2026
+on the Unaudited Financial Results (Standalone and Consolidated) of the Company
+for the quarter and half year ended 30th September 2026 and the same is also available at
+https://www.grasim.com/Upload/PDF/grasim-earnings-call-transcript-q2fy27.pdf
+
+
+Thanking you,
+
+
+Yours sincerely,
+
+
+For Grasim Industries Limited
+NEELABJA Digitally signed
+         by NEELABJA
+CHAKRAB CHAKRABARTY
+         Date: 2026.11.17
+ARTY     16:03:42 +05'30'
+Neelabja Chakrabarty
+Company Secretary and Compliance Officer
+ACS – 16075
+
+
+Encl.: as above
+
+
+Cc:
+Luxembourg Stock Exchange                   Citibank N.A.                                  Citibank N.A.
+35A Boulevard Joseph II                     Depositary Receipt Services                    Custodial Services
+L-1840 Luxembourg                           388 Greenwich Street,                          FIFC, 11th Floor, C-54 & 55,
+                                            26th Floor, New York                           G Block, Bandra (East),
+                                            NY 10013                                       Mumbai – 400051
+
+
+
+
+                                                 Grasim Industries Limited
+                    Aditya Birla Centre, ‘A’ Wing, 2nd Floor, S.K. Ahire Marg, Worli, Mumbai 400 030, India
+                              T: +91 22 6652 5000 / 2499 5000 | F: +91 22 6652 5114 / 2499 5114
+              E: grasim.secretarial@adityabirla.com | W: www.grasim.com | CIN: L17124MP1947PLC000410
+                                       Regd. Office : Birlagram, Nagda – 456 331 (M.P.)
+
+                            “Grasim Industries Limited
+                               Q2 FY27 Earnings Call”
+                                    November 13, 2026
+
+
+
+  Management:              Himanshu Kapania – Managing Director And Business
+                           Head, Birla Opus Paints
+                           Hemant Kadel – Chief Financial Officer
+                           Vadiraj Kulkarni – Business Head, Cellulosic Fibres
+                           Jayant Dhobley – Business Head, Chemicals, Fashion
+                           Yarn and Insulators (CFI)
+                           Sachin Sahay – CEO, Birla Opus
+                           Sandeep Komaravelly – CEO, Birla Pivot
+
+
+
+
+Disclaimer: E&OE - This transcript is edited for readability purposes, factual and verbatim errors. In case of
+                   discrepancy, the audio recording uploaded on the website on 13th November 2026 will prevail.
+
+
+                                                Page 1 of 20
+
+                                                                                        Grasim Industries Limited
+                                                                                             November 13, 2026
+
+Moderator:          Ladies and gentlemen, good day and welcome to the Q2 FY27 Earnings Call hosted by Grasim
+                    Industries. As a reminder, all participant lines will be in the listen-only mode, and there will be
+                    an opportunity for you to ask questions after the presentation concludes. Should you need
+                    assistance during the conference call, please signal an operator by pressing star and then zero
+                    on your touchtone phone. I now hand the conference over to Mr. Ankit Panchmatia, Head
+                    Investor Relations of Grasim Industries. Thank you, and over to you.
+
+
+Ankit Panchmatia:   Yeah, hi. Good evening and Diwali wishes to everyone. Thank you for joining Grasim's
+                    Second Quarter Financial Year 2027 Earnings Call. The quarterly earnings collaterals are
+                    already uploaded on the website of stock exchanges and our website for your reference. For
+                    safe harbor, kindly refer to cautionary statement highlighted in the last slide of our
+                    presentation. Today, we have with us our management team, which is represented by
+                    Mr. Himanshu Kapania, Managing Director of Grasim Industries Limited & Business Head of
+                    Birla Opus Paints and we have with us Chief Financial Officer, Mr. Hemant Kadel. Also, we
+                    have with us joining Mr. Jayant Dhobley, Business Head of Chemicals, Cellulosic Fashion
+                    Yarn and Insulator Business. Mr. Vadiraj Kulkarni, Business Head of Cellulosic Fibers
+                    Business. Mr. Sachin Sahay, CEO of Birla Opus. And Mr. Sandeep Komaravelly, CEO of
+                    Birla Pivot. Let me now hand over the call to Himanshu sir for his opening remarks. Over to
+                    you, sir.
+
+
+Himanshu Kapania:   Thank you, Ankit. And good evening, ladies and gentlemen. A very warm welcome to all
+                    present on the call and thank you for joining us today. Before we begin, on behalf of the entire
+                    Grasim Industries team, I would like to wish all our investors, analysts, and stakeholders a
+                    very happy Diwali and a prosperous New Year. May the new Samvat bring good health,
+                    happiness, and continued prosperity to all of you.
+
+
+                    As we begin Samvat 2083, let me take a few minutes to share our perspective on prevailing
+                    global and domestic macroeconomic environment. The global economy continues to
+                    demonstrate resilience despite navigating a challenging environment characterized by
+                    geopolitical tensions, energy market disruptions, and evolving trade dynamics. According to
+                    IMF's October 2026 outlook, global GDP growth is projected at around 3.1% in 2026, with
+                    inflation expected to remain elevated at approximately 4.7%. The ongoing tensions in West
+                    Asia have added to energy price volatility and supply chain uncertainties, while concerns
+                    around elevated sovereign debt and tighter financial conditions continue to weigh on the global
+                    outlook. At the same time, investments in artificial intelligence, digital infrastructure, and
+                    technology-led productivity improvements are providing important growth opportunities.
+                    Overall, the global environment remains cautiously optimistic, but uncertainty and volatility
+                    are likely to persist.
+
+
+                    Against this backdrop, India continues to remain one of the fastest-growing major economies,
+                    supported by strong domestic demand, resilient services, activities, infrastructure investment,
+                    and sustained government focus on manufacturing and capital expenditure. The IMF has
+                    revised India's FY27 GDP growth projection upwards to 7%, reflecting stronger-than-
+                    anticipated economic momentum. High-frequency indicators continue to point towards healthy
+                    activities across industry and services, although some moderation in manufacturing growth has
+
+
+                                             Page 2 of 20
+
+                                                                   Grasim Industries Limited
+                                                                        November 13, 2026
+
+been visible. On the inflation front, there is emerging pressure from high energy and food
+prices alongside supply-side uncertainties. The RBI has responded by increasing the policy
+repo rate by 25 basis points to 5.5% in the October policy review, while continuing to balance
+growth and inflation considerations. India's external environment remains challenging,
+particularly given its dependence on imported energy. Our resilient domestic consumption,
+infrastructure development, a strong services sector, and continued policy support provide a
+meaningful cushion against global volatility. Overall, while the global environment remains
+uncertain, we believe India's structural growth opportunity remains intact. The government's
+focus on Viksit Bharat, infrastructure development, manufacturing, urbanization, and rising
+consumption continue to create significant opportunities across our businesses.
+
+
+At Grasim, with our diversified presence across cellulosic fibers, chemicals, building
+materials, paints, B2B, e-commerce, and renewables, we remain focused on strengthening our
+competitive position and creating sustainable long-term growth. This diversified portfolio is
+exactly what is powering our numbers. On a consolidated basis, revenue for Q2FY27 stood at
+the highest ever of ₹50,105 crores, up 26% year-on-year, driven by strong all-round
+performance across our businesses. On a trailing 12-month basis, consolidated revenue stood
+at ₹194,234 crores. Already up 7% compared to FY26 numbers. We are now at a striking
+distance of ₹2 lakh crores. The same story is visible in the standalone business, where portfolio
+works as a balanced engine of core and growth businesses. Standalone revenue for quarter 2
+grew faster by 33% year-on-year, reaching an all-time high of ₹12,747 crores. In a sense, this
+is how our diversified model creates value. Our core businesses provide resilience and steady
+cash flow, while our growth engine adds scale and future earning potential. Together, this
+allows us to deliver consistent performance through cycles and builds sustainable long-term
+value for all our stakeholders.
+
+
+With that, let me now move to the performance and key developments across our businesses.
+Let me now start with our paints business, Birla Opus. In the market shaped by decades of
+brand loyalty and deeply established relationship, presence is the first milestone. Preference is
+the next. Execution is the ultimate game changer. Over the past two years, we have worked
+relentlessly to establish Birla Opus in the market, not just through scale of our manufacturing,
+but by building pan-India distributions, sustained brand investment, expanding our product
+portfolio across each category, and engaging more deeply with dealers, contractors, painters,
+architects, builders, and engineers, and many more. Today, these investments are beginning to
+come together. Our products are reaching more markets, our brand is becoming more salient,
+our distribution network is expanding, our engagement with people who influence purchase
+decisions is getting stronger. We are creating the foundation for business that can compete not
+just on availability, but on consumer preference and trust. The work of the past two years have
+been about establishing our presence. The next phase is about converting that presence into
+stronger market share, accelerating growth, and building a portfolio of profitable, sustainable,
+and enduring business.
+
+
+For H1FY27, the revenue stood at one shot of ₹3,000 crores, growing 50% year-on-year. This
+quarter, Birla Opus recorded a revenue of ₹1,337 crores with a year-on-year growth of 35%.
+The H1 volume grew by 33% and quarter 2 volume by 20% on year-on-year basis. As
+
+                         Page 3 of 20
+
+                                                                  Grasim Industries Limited
+                                                                       November 13, 2026
+
+confidence on brand and product quality grew, we took a bold call to reduce our price versus
+market leader in a step-by-step process. We believe that in the month of September, our prices
+are within 2%-4% distance, excluding 10% impact versus the monopoly player. The company
+intends to fight the market leader, leveraging its own ongoing efforts in distribution, brand,
+product quality, exclusive franchise setup, customer and influencer engagement, and 10P.
+
+
+Quarter 2 is traditionally a softer quarter for decorative paints industry, as the monsoon
+impacts painting activity and dealer stocks higher inventory of existing market leaders rather
+than newcomers. Birla Opus strength is retailing, not whole selling, and therefore company's
+dealer inventory stock is lower than the market leaders. This year was no different, with
+broader industry also witnessing a seasonal slowdown, resulting in intense competitive
+activities on scheme and almost flat QoQ rate realization despite higher dealer price list
+increase. But our focus is not on seasonality of a quarter. Our focus is on the strength of the
+business we're building and on how effectively we convert that strength into growth when the
+market accelerates. We have already demonstrated that we can build a meaningful presence in
+a highly competitive market in a remarkably short time. Combined market share, including
+Birla Opus and Birla White Putty, remains at early teens, bridging the distance with existing
+number two. Our ambition now is to take the progress further with a clear focus on reaching
+double-digit revenue market share in H2FY27 with Birla Opus alone. The work to get there is
+in progress across every part of our business.
+
+
+The first focus area where we have strengthened our competitive position is distribution. In
+paints, you win when your product is available where the consumer wants it, when the dealer
+is confident in your brand, and when your presence is felt in every market that matters. Billed
+dealers continue to strengthen quarter-on-quarter. Our cumulative retail footprint now stands at
+61,000 plus dealers billed at least once across 12,600 plus towns. Even in quarter 2, more than
+44,000 dealers build our products as our presence expands fast across geographies and every
+product in every state of the country. Besides multi-brand outreach, Birla Opus divides its own
+strategy to grow decorative paints retailing consumer experience. Happy to report that Birla
+Opus has the largest exclusive franchise network in India for decorative paints. Our exclusive
+branded franchise network continues to expand with approximately 300 additions during the
+quarter, with our operational franchise network at 1,760 plus stores, strengthening our service
+commitment to market. Every franchise outlet offers additional services, including company-
+promoted painting services, PaintCraft, EMI services, Opus Assurance, and warranties.
+
+
+Every new dealer expands our reach, every franchise store strengthens our visibility, and every
+productive channel partner brings us closer to the consumer. To support this expanding
+distribution footprint, we have built a robust supply chain network of nearly 150 depots across
+the country, offering just-in-time and high-service standards delivery to the dealers. Besides
+strong trade channel, our institutional channel, which took longer to take off, has grown 59%
+year-on-year, with nearly 10,000 project sites built during the quarter. The company has
+60,000 plus project sites at various stages of work, including in pipeline, and we expect
+institutional volume to accelerate in H2. We are not building distribution for numbers alone.
+We are building distribution to win market one dealer, one town, and one customer at a time.
+The next phase is to deepen productivity across this expanding network and ensure that our
+
+                        Page 4 of 20
+
+                                                                  Grasim Industries Limited
+                                                                       November 13, 2026
+
+presence translates into stronger sales, greater consumer pull, and profitable growth.
+Distribution gets us to the market, but it is our product that must win the consumer's
+confidence, which brings us to our second focus area, which is product innovation. During
+quarter 2, we introduced 11 new products and 360 plus SKUs, taking our portfolio to 239
+products and 2,300 plus SKUs, almost filling most gaps across categories of trade and
+institution channel, including emulsion, enamel, waterproofing, wood finish, wallpaper, et c,
+range of products. Our pipeline continues to develop with focus on differentiated offering,
+superior product performance, and premiumization. Importantly, our growth is not limited to
+few categories. We are seeing encouraging traction across the portfolio, with premium and
+luxury portfolio still contributing approximately 63% of our sales value despite a weak quarter.
+Our waterproofing portfolio has been particularly strong, delivering 2x revenue growth this
+year. We are building a portfolio that can serve a wider range of consumer needs, applications,
+and price points. The objective is not simply to have more products on the shelf. It is to give
+dealers, painters, and consumers compelling reasons to recommend, experience, and choose
+Birla Opus. We want to move beyond being a new brand on the shelf to become a brand that
+consumers actively seek and recommend.
+
+
+That brings me to the third focus area, building Birla Opus brand as a consumer first choice
+preference while painting their homes. A strong brand is not built through a single campaign. It
+is built through a consistent presence, and we maintain an uninterrupted advertising presence
+every single day, building not only on sales, but consistently building unique brand
+proposition, the brand proposition of ‘Naye Zamane Ka Naya Paint’ and ‘Duniya Ko Rang
+Do’. We continue to invest aggressively in strengthening brand Birla Opus with aided brand
+awareness reaching enviable 92% and unaided brand awareness at 59% in quarter 2, a
+satisfying outcome for the last two years' enduring campaigns. As per internal studies, Birla
+Opus, in a very short period of time, rose to the second most loved brand in the decorative
+paints industries. Our advertising is now shifting from brand advertising to blend of product-
+led campaigns and brand-led campaigns, like the recent “Main Bhi”. We promoted our first
+product-led campaign using Style, our sub-brand of economy, which is deployed across Hindi
+heartland, especially for markets of U.P., Bihar, Rajasthan, and Madhya Pradesh. This
+campaign demonstrates the power of Birla Opus superior coverage in interior economy range
+of products.
+
+
+Also, to build cultural connect with community, we chose to associate the power of Birla Opus
+colors strongly with festivals of India. In quarter 2, we launched emotionally endearing
+campaigns for Onam, Ganpati, and Durga Puja. These are deepening consumer connect by
+bringing the brand closer to local festivities and celebrations. We also decided to advertise
+10% free paint proposition, reinforcing our strong value proposition for consumers and
+influencers, and confirming that this promotion will be done for a longer period. We are now
+taking the next step in our communication journey from establishing the brand and its promise
+to showcasing our products and their benefits to the consumer. In this series, second campaign
+has just been introduced in November 2026, the Opus Alldry sub-brand campaign. Series of
+three different advertising promoting wide range of interior, exterior, and roof waterproofing
+products and solutions. Advertising reinforces Birla Opus is now a full waterproofing solutions
+
+
+
+                        Page 5 of 20
+
+                                                                   Grasim Industries Limited
+                                                                        November 13, 2026
+
+company. This is an important evolution. You can expect more sub-brand advertising in H2.
+First, we wanted consumers to know Birla Opus. Now we want them to know why they should
+select Birla Opus. Moving on to PaintCraft, which I mentioned is available through our
+exclusive franchise outlets. Our painting services platform is now present across 7,700 plus
+PIN codes on a pan-India basis. Revenues from PaintCraft has grown 1.5x over last quarter.
+PaintCraft not only brings us closer to consumers but also boosts our confidence in our R&D
+efforts and superior quality as we have direct contact with consumers. Nearly 12,000 plus
+PaintCraft sites have been executed not only in the metros and larger towns, but also in mid
+and small towns, giving a whole new experience to small-town citizens.
+
+
+Last but not the least is our fourth focus area, the influencers, our contractors and painters, as
+they have the power to shift consumers' final choice. In the paint industry, the final decision is
+shaped not only by what consumer sees, but also by whom consumer trusts. The painter's
+recommendation can make a real difference to the brand that ultimately gets applied on the
+wall. That is why contractor engagement is central to our strategy. Using product
+demonstrations, on-ground interactions, events, and sustained engagement, and through our
+digital-first, contractor-friendly platform, Opus ID, we are working to make Birla Opus more
+familiar, more trusted, and more frequently recommended by this community. We are happy to
+report that nearly 1 million contractors and painters have applied Birla Opus products at least
+once from the time Opus launched. In quarter 2, over 3 lakh of these contractors have applied
+the Opus paint, and the reported secondary volume through contractor-painter scans grew by
+34% year-on-year versus primary sales volume, which grew by only 20%, as reported in
+revenue briefing earlier. This indicates that the inventory of our dealers is fast depleting, and
+the same was therefore reflected in a strong October sales.
+
+
+We want Birla Opus to be more than a brand that consumers recognize. We want it to be a
+brand that painters recommend with confidence. When our distribution reaches the dealer, our
+brand reaches the consumer, our products deliver value, and contractors advocate for us, the
+entire growth engine begins to work together. That is the business we are building, and we are
+beginning to see encouraging signs that these efforts are translating into market momentum.
+The capabilities that we have been building are meeting a more favorable market environment,
+and October is giving us strong reasons to be optimistic about quarter 3. Volume growth this
+October is far higher than the average Y-o-Y growth in H1. Our focus now is execution,
+making our products widely available by activating more dealer and contractor networks,
+sustaining consumer engagement, and converting the festival season opportunity into business
+performance. We want to carry this momentum through the quarter and hope to deliver a
+strong quarter 3, both in volume and value terms. Because winning market share matters, but
+winning market share ultimately leads to building a sustainable, profitable business, and the
+same matters even more.
+
+
+Let me leave you with three thoughts. First, we built the foundation of a serious challenger.
+Our distribution network is expanding, our brand is gaining recognition, our product portfolio
+is developing, and our engagement with contractor painters is deepening. Second, we are
+moving from building capabilities to extracting greater value from them. The next stage is
+about turning reach into productivity, then to awareness into preference, and scale into
+
+                         Page 6 of 20
+
+                                                                   Grasim Industries Limited
+                                                                        November 13, 2026
+
+profitable growth. Third, the early signals from October give us confidence as we enter H2.
+We have an opportunity to build on the momentum, execute with greater intensity, translate
+the work of the last two years into stronger business performance. Our ambition remains
+unchanged, to become India's second-largest decorative paints company and build ₹10,000
+crores brand by exit of FY28. We know the scale of that ambition. It will be earned through
+the choices we make every day in our product, in our distribution, in our brand, our customer
+relationship, and above all, quality of our execution and operational excellence. We are
+building more than paints business. We are building a brand with ambition to lead, capabilities
+to compete, and a determination to win.
+
+
+Now, coming to B2B e-commerce business. Let me start with a question. When you think
+about the biggest shift in how India does business over the next 15 years, what comes to your
+mind? Maybe it is UPI, maybe it is manufacturing. Today, I want to talk about something that
+sits underneath all of it, and that most people are still underestimating how businesses in India
+buy and sell from each other. That is right, online. I would share why we think that B2B
+e-commerce is one of the great opportunities of this decade, and why Birla Pivot is built to be
+part of it. India's B2B trade pool is about USD4 trillion. That is USD4 trillion of business
+buying from other businesses. How much of that happens online today? Roughly 2% in fiscal
+2026. Now look at where others are. Online share of B2B sales is 25% in China, 20% in U.K.,
+18% in U.S.A. We believe that India is at the very beginning of this curve, and the beginning
+of that curve is exactly where Birla Pivot is standing. We expect India to cross 5% by year
+2030. That alone is USD200 billion of B2B e-commerce market.
+
+
+Birla Pivot is steadily evolving into a scaled digital B2B commerce platform, connecting
+businesses with a growing ecosystem of suppliers and enabling procurement through a more
+organized technology-led experience. Importantly, the focus is increasingly shifting from
+customer acquisition to improving customer engagement, transaction frequency, and share of
+wallet. The platform is working towards strengthening repeat purchases, increasing the number
+of active transacting buyers, and improving the breadth of products purchased by existing
+customers. On the supply side, deeper brand and seller partnerships are enhancing product
+availability, pricing competitiveness, and fulfillment capabilities. Continued improvement in
+operational execution, particularly on-time, in-full deliveries, in short, OTIF, supply chain
+reliability, and customer experience are expected to support the stronger customer retention
+and higher transaction volumes. The platform is witnessing increasing traction across its
+customers and supplier ecosystem, supported by a rapidly expanding product portfolio, deeper
+customer relationship, and growing participation across the building material and industry
+supply chain. Its growth is being driven by a combination of project-led and manufacturing
+demand, alongside an expanding retail proposition.
+
+
+Today, the platform is seeing meaningful transaction activity across both projects and retail,
+with month-on-month growth in orders. The business has built a sizable customer and supplier
+ecosystem, which continues to strengthen execution and working capital discipline as it scales.
+Importantly, we are beginning to see the benefits of a more diversified platform model. Retail
+is developing as an attractive complementary growth engine, broadening Birla Pivot's
+participation beyond larger project-led transactions and creating opportunities for more
+
+                        Page 7 of 20
+
+                                                                                   Grasim Industries Limited
+                                                                                        November 13, 2026
+
+                frequent customer engagement. The retail business is already profitable at the EBITDA level,
+                providing an encouraging validation of the underlying model. Another important differentiator
+                is the integrated financing ecosystem being developed through Pivot Vault and partnerships
+                with leading banks and NBFCs. By combining credit-linked commerce with procurement and
+                fulfillment capabilities, Birla Pivot is addressing one of the key constraints faced by dealers,
+                contractors, and MSME customers: access to working capital.
+
+
+                These financing solutions are expected to improve purchasing capacity, facilitate large
+                transactions, enhance customer stickiness, and unlock incremental business opportunities
+                across the ecosystem. Revenues for Q2 FY27 grew by 66% Y-o-Y to ₹2,785 crores. The
+                business annualized revenue run rate crossed ₹11,000 crores this quarter and aims to cross
+                ₹12,000 crores of revenue for full year FY27. That is nearly 50% year-on-year growth on a
+                reasonably large base. Sustained customer acquisition, healthy repeat engagement, superior
+                fulfillment strength are growth flywheel. They give us the scalable platform for sustained
+                growth. With the scale now established, Birla Pivot is ready for its next phase of growth. The
+                focus will be increasingly on translating the scale into stronger economics through deeper
+                customer engagement and expanding supplier ecosystem, improved margins, tighter working
+                capital management, and greater operating leverage. Gross margin continued to improve.
+                However, Q2 FY27 EBITDA was affected by one-time employee-related expenses. The
+                business remains on track to reach break-even in H2 FY27. The progress achieved so far
+                provides a strong foundation for Birla Pivot to move from rapid scale creation towards
+                sustainable profitable growth and long-term value creation.
+
+
+                Let me now hand over to Hemant, our Grasim CFO, for updates on cellulose fibers, chemicals,
+                other businesses, and on overall financials.
+
+
+Hemant Kadel:   Thank you, Himanshu sir. Good evening, everyone, and thank you for joining us today. Before
+                I go through the business-wise performance, let me first explain the exceptional charge related
+                to AV Group NB, our dissolving grade pulp joint venture in Canada. It has affected our
+                reported PAT, and we have given the details in the notes to accounts in reported results. After
+                a careful review of market conditions and plant running, the Board of the joint venture entity
+                has decided to idle the operations of the pulp mill located at Nackawic. As a result, in quarter 2
+                of FY27, we have recognized a total charge of ₹825 crores in standalone results and ₹767
+                crores in consolidated results, shown as an exceptional item. Excluding this charge,
+                consolidated PAT was ₹536 crores, and standalone PAT was ₹3,132 crores. Consolidated PAT
+                was also affected by tax on dividend income. While consolidated PBT grew 34% year-on-year,
+                adjusted PAT declined 10%. Also to share that standalone business now contributes 24% of
+                overall consolidated revenue earnings.
+
+
+                We believe for the current quarter, standalone results reflect actual underlying performance.
+                The dividend from UltraTech of nearly ₹4,000 crores is cash received, which is accounted in
+                standalone, however, gets eliminated in consolidated results. Talking about standalone
+                numbers. Revenue for the quarter stood at all-time high of ₹12,747 crores, up 33% year-on-
+                year, outpacing the consolidated revenue growth. The main drivers of this growth were
+                cellulosic fibers, chemicals, and textiles. EBITDA was higher by 2.6x at ₹4,615 crores, led by
+
+
+                                        Page 8 of 20
+
+                                                                     Grasim Industries Limited
+                                                                          November 13, 2026
+
+dividend income from UltraTech. Also to share that cash profit for the quarter stood strong at
+₹3,968 crores, up 2.5x on year-on-year basis.
+
+
+Now let me start updating on business-wise performance. Starting with the cellulosic business,
+let me begin with global cellulosic fibers market. China's CSF market in quarter 2 FY27
+remained strong, with operating rates of 93% and inventory days now at six days, signaling a
+healthier demand-supply balance. Subsequently, global CSF price has now risen for four
+consecutive quarters, with the Q2 FY27 average at USD1.85/ kg, up 23% year-on-year. The
+structural opportunity here is that cellulosic fibers are the fastest growing part of textile basket.
+Cotton constraints have created a gap. The cellulosic fibers are the best placed to fill it.
+Cellulosic fibers are also biodegradable and environmental friendly, which makes them one of
+the most sustainable option. Given its growth opportunities, we are expanding here, especially
+in specialty fiber segment with a planned capacity of 165,000 tons per annum in two phases.
+Phase I of 55,000 tons per annum has nearly completed all the procurement deliveries. For
+phase II of 110,000 tons per annum, the environmental clearance application is at advanced
+stage of submission. Overall, cellulosic fiber segment revenue grew by 29% year-on-year to
+₹5,344 crores, supported by volume growth, favorable product mix, and stable domestic
+realization, despite geopolitical issues and higher input and logistics cost.
+
+
+Coming to chemicals business segment, which has three parts: caustic soda, chlorine
+derivatives, and specialty chemicals. Revenue grew 15% year-on-year to ₹2,759 crores. The
+growth was broad-based across all the three parts. We are India's leading pan-India chlor-alkali
+player with total capacity of nearly 2.6 million tons per annum, split between 1.5 million tons
+of caustic capacity and 1.1 million tons of chlorine derivatives. The caustic business serves
+varied manufacturing segments like alumina, organic and inorganic chemicals, textiles,
+FMCG, and others. In chlorine derivatives, two key projects at Vilayat came on stream
+recently. The 50,000 tons of CPVC plant was commissioned in August 2026, and 50,000 tons
+epichlorohydrin plant was commissioned in October 2026. As capacity ramped up across these
+projects, our chlorine integration is expected to improve to 67%. Caustic prices were soft this
+quarter. CFR Southeast Asia prices stood at five-year low levels of USD390/ ton. However,
+stable domestic demand and rupee depreciation resulted in some firmness in domestic prices.
+
+
+Coming to cement business. UltraTech witnessed higher-than-industry volume growth, posting
+total sales volume of 38.2 million tons, up nearly 13% year-on-year, despite challenges around
+seasonality, higher fuel and input cost. UltraTech demonstrated resilience with stable pricing
+and efficiency gains on power. While fuel and raw material costs remained elevated, UltraTech
+delivered strong performance with EBITDA growth of 17% year-on-year, supported by
+healthy volume growth, improved capacity utilization, and operating efficiencies. The business
+remains firmly on track to achieve 242.9 million metric tons of capacity by exit of March
+2028.
+
+
+Financial services subsidiary, Aditya Birla Capital, delivered a strong performance during
+quarter 2 of FY27, with revenue as consolidated in Grasim was higher by 32% year-on-year to
+₹13,990 crores. The growth was broad-based across lending, insurance, and asset management
+businesses, which underscores the strength of ABC's diversified franchise and its ability to
+
+
+                         Page 9 of 20
+
+                                                                                      Grasim Industries Limited
+                                                                                           November 13, 2026
+
+                    capitalize on expanding opportunities in India's financial service sector. The business is
+                    accelerating investments in distribution, technology, data, and AI, which are increasingly
+                    become integral to its operating model across underwriting, customer engagement, risk
+                    management, and operational efficiency.
+
+
+                    Talking of other businesses, brings together textiles, insulators, and renewables that benefit
+                    from structural tailwinds, premiumization in apparel, and India's push on electrification, clean
+                    energy, and rooftop and C&I solar adoption. The segment revenue grew by 16% year-on-year,
+                    and EBITDA grew by 14% year-on-year. The renewable business capacity expanded by 269
+                    megawatts on year-on-year basis, and total capacity now stands at 2.2 GWp. Happy to share
+                    that we have got CCI approval on acquisition of Sprng, and we remain committed to close the
+                    transaction in the current calendar year. Post-acquisition, the total capacity, operational and
+                    under construction, would reach about 10 gigawatts of peak capacity. The business now aims
+                    to reach 20 gigawatts of capacity, and we would be happy to share more information on this
+                    once the Sprng deal is consummated.
+
+
+                    Sustainability remains a key strategic priority for Grasim, with a continued focus on reducing
+                    dependency on conventional energy sources, improving resource efficiency, and strengthening
+                    responsible manufacturing practices across its businesses. Our renewable power share has
+                    increased significantly from 11% in FY25 to 26% in H1 FY27, reflecting the progress made in
+                    transition towards cleaner energy. We are also driving greater water efficiency, with recycled
+                    and reused water continuing to remain above 50% of freshwater withdrawal in H1 FY27. On
+                    the capex front, we continue to make strategic investments to strengthen our core and growth
+                    businesses. At the same time, we remain opportunistic while investing in our key subsidiaries
+                    to maintain our shareholding and maximize long-term value creation. For FY27, we earmarked
+                    a standalone capital expenditure of ₹3,157 crores, of which ₹1,022 crores were invested in H1
+                    FY27. Now we open the floor for question and answer:
+
+
+Moderator:          Thank you. We'll now begin the question-answer session. We have the first question from the
+                    line of Rahul Gupta from Morgan Stanley. Please go ahead.
+
+
+Rahul Gupta:        Yeah. Hi. Thank you for taking my questions. Two questions, both on paints. First, you talked
+                    about October revenues are trending better than the growth that we saw in the first half. Now
+                    can you help us understand what kind of revenue growth are you targeting in the second half
+                    when you say you look to get a double-digit market share in second half? Is it fair to say that
+                    your revenue growth would be more than 50% like we saw in the first half? That is my first
+                    question.
+
+
+Himanshu Kapania:   I am going to give it to Sachin now. He is going to reply.
+
+
+Sachin Sahay:       Okay. Thanks, Rahul. Historically, when you look at paints business, H2 is obviously favoring
+                    the season on the back of monsoons having gone awa. So, we do expect H2 to be significantly
+                    better than H1, and that should help us reach our targeted business numbers for the year. As of
+                    now, to my mind, we see a very healthy H2 performance trending up, and October is, from
+                    what we have seen, October is certainly making us believe that H2 should perform in place.
+
+
+
+                                           Page 10 of 20
+
+                                                                                         Grasim Industries Limited
+                                                                                              November 13, 2026
+
+Himanshu Kapania:   Rahul, your second question.
+
+
+Rahul Gupta:        Yeah. Just a follow-up. I understand that sequentially second half is better, but do you expect
+                    the growth to accelerate in second half? I am just trying to understand how seasonally adjusted
+                    growth is looking in the second half.
+
+
+Himanshu Kapania:   I will just repeat what had been our guidance. We have said on a year-on-year basis, we will
+                    deliver 50% growth. We maintain that guidance, and you can do the maths based on that.
+
+
+Rahul Gupta:        Got it. My second question is there some slippage in paints capex? Because we see that earlier
+                    you had earmarked ₹10,000 crores, and by the end of the year, you were already clocking
+                    around that number, but there is another ₹4 billion-₹5 billion earmarked for this year. Just
+                    trying to understand if there is any change over here.
+
+
+Hemant Kadel:       Our overall capex spend was ₹10,000 crores. I think we have little, short, ₹3 billion-₹4 billion,
+                    a little short we have spent up till now. The current capex is primarily for building our
+                    franchise model and tinting machines to certain part. Those are the broad capex. The overall
+                    number remains at ₹10,000 crores, 1% this side or that side.
+
+
+Rahul Gupta:        Got it. Thank you so much. I wish you all the best.
+
+
+Moderator:          Thank you. We have the next question from the line of Jay Doshi from Kotak. Please go
+                    ahead. Jay Doshi, can you hear us? As there is no response, we move on to the next speaker. I
+                    now invite our next speaker, Sanjeev Singh from Motilal Oswal. Please go ahead.
+
+
+Sanjeev Singh:      Thank you for the opportunity, sir. My first question is on VSF business. We have seen that
+                    there has been a steep decline in profitability on a sequential basis, and you have mentioned
+                    that there was a steep increase in cost item. So now I believe that there have been the reduction
+                    in sulfur prices, VSF prices are also trending a bit higher. So how do you see the profitability
+                    moving into Q3 or second half of FY27?
+
+
+Vadiraj Kulkarni:   Yeah, the sequential drop in profitability from Q2 to Q1 was primarily because of surge in the
+                    sulfur prices and some increase in the pulp prices too. While we have been able to pass on
+                    significant part of that increase into the prices, there is a certain limit to how much we can
+                    increase because the value chain has to absorb and pass it on to the next stage. As you know,
+                    textile value chain has multiple value chain players, and it is very difficult to pass on the prices
+                    this time increasing the costs. As far as Q3 is concerned, I can safely say that yes, the prices
+                    have been In fact, the entire Q2, we maintained price stability. Q3 also we believe we will be
+                    able to maintain, and we have seen a slight moderation in the sulfur prices from October
+                    onwards. I think we are trying to just hold on to Q3 as good as Q2.
+
+
+Himanshu Kapania:   But on a year-on-year basis, there have been significant profitability improvements.
+
+
+Vadiraj Kulkarni:   Yeah.
+
+
+Himanshu Kapania:   I hope, Sanjeev, you noticed that.
+
+
+
+                                            Page 11 of 20
+
+                                                                                      Grasim Industries Limited
+                                                                                           November 13, 2026
+
+Sanjeev Singh:    Yes, sir. Yes, I have seen that. Second question is on capex. Our full year capex guidance is
+                  around ₹3,000 crores, and in first half, we have spent around ₹1,000 crores. Do you maintain
+                  that capex guidance of ₹3,000 crores plus in FY27?
+
+
+Hemant Kadel:     Yeah, we maintain this guidance. Normally, first half is slower because we get approvals and
+                  the work starts, and also monsoon effect. Second half, this will be done.
+
+
+Sanjeev Singh:    Okay, sir. Thanks a lot. I will come back in the queue. Thank you.
+
+
+Moderator:        Thank you. We have the next question on the line of Nirav Jimudia from Anvil Wealth. Please
+                  go ahead.
+
+
+Nirav Jimudia:    Yeah, sir. Thanks for the opportunity. Two questions, both on the chemical side. Sir, when we
+                  see our segmented revenue breakup, I think VAP has seen a substantial growth of close to
+                  around 40% on a Y-o-Y basis, and with ECU almost same, and we have mentioned that the
+                  power cost also being on the higher side. Which of the products on the VAP side has done well
+                  for us, thereby improving the profitability, and how do we see this momentum continue in the
+                  coming quarters? Also, if you can share your thoughts on the chlorine, like we have seen the
+                  prices forming up. Is it because of the fact that it becomes relatively easy to increase the
+                  chlorine prices given its domestic nature than the caustic prices, which is more governed by
+                  the international prices? So this is the first question.
+
+
+Jayant Dhobley:   Thanks, Nirav. I will take your second question first because that is more straightforward.
+                  Look, chlorine does not travel easily, right? Not only internationally, but it also does not travel
+                  easily in India. It costs a lot of money to move it. We have seen an improvement in chlorine
+                  prices, particularly in the Gujarat market, where you could even argue that it is almost not
+                  negative anymore or maybe just slightly negative or slightly positive. Across India, that is a
+                  different picture because of local market conditions, right? Basically, chlorine prices have
+                  improved and possibly will remain improved because of local demand and supply. Of course,
+                  it is not possible to have international chlorine prices in India. By the way, international prices
+                  are higher, right? If you look at domestic market in China or U.S. Caustic, as you correctly
+                  pointed out, internationally continues to remain under pressure. This is mainly because of two
+                  reasons. One is because of the outage of many aluminum refineries in the Middle East, which
+                  have been affected by the war, taking away a large source of caustic demand, and more
+                  production out of China because they came off of their turnaround cycle, etcetera, right? That
+                  is why caustic has been under pressure. Equal then the, I think, resulting net balance of all
+                  these dynamics. I would not say it is easier to increase chlorine prices because, Nirav, if that
+                  was the case, we would have done it many years ago, no? Why would we wait till this quarter
+                  to increase chlorine prices? It is ultimately supply and demand, how it is playing out globally
+                  and locally.
+
+
+                  Now, the second question you asked on chlorine derivatives is frankly very complicated. I will
+                  try and tell you one or two major factors. For example, CPW, chlorinated paraffin wax, is a
+                  large chlorine derivative market, right? We make our own, we also supply to a lot of
+                  chlorinated paraffin wax manufacturers. But there, the dynamics is mainly driven by paraffin
+
+
+
+                                           Page 12 of 20
+
+                                                                                     Grasim Industries Limited
+                                                                                          November 13, 2026
+
+                  availability, paraffin price, and at what price would the plastic industry be ready to buy CPW.
+                  Now, this industry has its own seasonality. Typically, it is used less before the monsoon,
+                  demand picks up after the monsoon. That is one chlorine derivative that is directly connected
+                  to international markets. Then if you look at another one, for example, the entire water
+                  treatment chemistry, which is a very big part of what we do, that is very much linked to the
+                  monsoon cycle, right? That demand picks up during the monsoon period. Once monsoon goes
+                  off, that demand goes down. Then if you look at the chloromethane family, a lot of it depends
+                  upon what happens in methanol. As you know, Middle East has affected methanol quite a bit.
+                  Across the chlorine derivative portfolio, there are many moving parts, if I am very frank. It is
+                  very difficult to give one answer at chlorine derivative level. I have to actually look at it at
+                  individual product level.
+
+
+Nirav Jimudia:    Correct. My question was more specific to whether phosphoric acid, food-grade phosphoric
+                  acid, and hydrogen peroxide, I think the prices were firmed up during the quarter. So, it was
+                  because of this, our profitability was better. And B, on the specialty chemical side, we have
+                  been seeing the profitability getting impacted, probably because of finished products not
+                  increasing in line with the feedstock prices. So, what could be our strategy, A, in terms of
+                  improving volumes, B, improving the specialty mix, and C, either targeting new geographies
+                  or applications where possibly we would have a lesser presence? Thank you.
+
+
+Jayant Dhobley:   Yeah. I'll again take your second question first. The epoxy value chain is under compression of
+                  margin because BPA ECH prices have gone up and demand is sluggish, right? For multiple
+                  reasons, across different sectors, which means that if we try to pass through the price increases,
+                  we are not necessarily getting the demand in the market. So we are busy trading off volume
+                  margin at this stage. I would not call this a long-term topic to worry about. This is typical at
+                  this point of time in the cycle. As far as growth is concerned, we have two major elements of
+                  growth, right? We continue to focus on the specialty side of our epoxy resins. We believe that
+                  we have a much higher percentage of epoxy sales in specialty compared to many other players
+                  in the industry. You know that we are very careful, we don't disclose the exact percentage, but
+                  that forms a significant portion of our sales. We are also, of course, continuing to focus on the
+                  export market, but we see this as a part of the nature of the commodity cycle. There will be a
+                  time when epoxy base resin demand will also pick up pretty quickly. Some of it was
+                  constrained because of availability of carbon fiber from China for our end users and things like
+                  that, right? So, it's very cyclical. There is no structural change actually in the end industry.
+                  Automotive demand is growing, wind turbine installations will grow from, I think, something
+                  like 50 gigawatt now to 100 gigawatts in the next four years. So the demand drivers have not
+                  changed. It's just that you get a particular quarter when demand is sluggish, and then you have
+                  to play this price volume game. In the meanwhile, our specialty share is still higher compared
+                  to our competitors.
+
+
+Nirav Jimudia:    Yeah. Thank you so much, sir.
+
+
+Jayant Dhobley:   Thank you.
+
+
+Moderator:        Thank you. We have the next question on the line of Raashi from Citi. Please go ahead.
+
+
+                                          Page 13 of 20
+
+                                                                                       Grasim Industries Limited
+                                                                                            November 13, 2026
+
+Raashi:             Thank you. I think the line was a little unclear in the beginning when you were giving your
+                    paints commentary. Just to understand, on a sequential basis, your revenues have declined
+                    20%. How would you break this up between volumes and realizations, one? Second is that the
+                    competitive intensity that you've talked about in the second quarter, how is that changing in
+                    October, and how is that changing going forward to give you the confidence of the increase in
+                    market share going forward? That's one question on paints. And second is, how should we
+                    think about the chemical’s margins going forward?
+
+
+Himanshu Kapania:   Jayant, do you want to talk about chemicals margins going forward?
+
+
+Jayant Dhobley:     Yeah. Going forward, it is always difficult to estimate. Caustic pricing remains under pressure.
+                    We do believe that chlorine demand-supply dynamics will improve. I do not see the epoxy
+                    value chain changing significantly this quarter, but I suspect that fourth quarter will be a bit
+                    better. But who am I to forecast? Something may happen somewhere geopolitically, and it will
+                    change the dynamics of the industry, right? Please take any kind of statement here with a big
+                    dose of caution. Some of these drivers are not in the hands of manufacturers, right? There are
+                    bigger factors at play.
+
+
+Himanshu Kapania:   Raashi, as far as paints is concerned, we had mentioned on a year-on-year basis, our growth is
+                    35%, which is broken into 20% by volume. You can do the maths; it will come to a 9%-10%
+                    on a rate basis. Your question specifically was on a quarter-on-quarter basis. As we mentioned
+                    in our commentary, even though the dealer selling price has been increased, the net realization
+                    was flat on a quarter-on-quarter basis. You can do the math on the decline of revenue, on the
+                    volume decline on a quarter-on-quarter basis. But the larger question is, how does it go going
+                    forward? This is our second year where we have done quarter 2, and last year also we had a
+                    weak quarter, and this year also has been a weak quarter. Our ratio is very unique to the
+                    industry. We do about between 57%-58% of our revenue in H2 and 42%-43% of our revenue
+                    in H1. Why does that unique revenue come in? Because we are a hardcore retail organization.
+                    There are, in quarter 2, by and large, consumer demand is low, but primary sales could be high
+                    for companies who have ability to stock up the dealers through models and schemes, which we
+                    are not very good at, on an overall basis there.
+
+
+                    One of those reasons are why the rate is flat for us, and we could see also for number of
+                    industries, as we could see from the commentary, either flat rate in spite of dealer prices being
+                    going up. Given this as a model, the season started in October, and consumer came in with
+                    large force, so did contractors came in, and that is why we saw volumes growing faster than
+                    the volumes that we have seen in the past. And we gave us the confidence of reminding you
+                    that our guidance on a year-on-year basis is we will grow revenue by 50% against last year
+                    revenues. I hope I have answered your question. I am going to hand over to Sachin for
+                    incremental segment.
+
+
+Sachin Sahay:       Yeah, I just wanted to...
+
+
+Himanshu Kapania:   Yeah, go ahead.
+
+
+Raashi:             No, you go ahead.
+
+                                              Page 14 of 20
+
+                                                                                        Grasim Industries Limited
+                                                                                             November 13, 2026
+
+Sachin Sahay:       Okay. I just wanted to give you a better perspective from, in addition to what Himanshu just
+                    said. While there has been a 20% volume growth in quarter 2, one of the other elements which
+                    he talked about in the beginning in his address was the fact that there has been a very strong,
+                    solid work which has been done with the influencers, which is the contractor ecosystem. And
+                    that has led to our secondary volume, which is volume sell-out from the dealers to the
+                    consumers, which is 34%, which really indicates a very strong growth in consumer acceptance
+                    of the brand. And that puts us in a very, very solid footing with respect to as we enter into
+                    quarter 3 and then moving on to quarter 4.
+
+
+Himanshu Kapania:   Yeah, go ahead.
+
+
+Raashi:             Just following up, your revenue market share was about 10% or so, right, in the last quarter? Is
+                    that correct, that number? And if so, what was that number in this quarter?
+
+
+Himanshu Kapania:   So, it is a revenue market share has to be measured, it depends on what all do you take as the
+                    number of players. You can measure a revenue market share of all listed players; you will get
+                    one number. There are no regulatory bodies around which gives an absolute number. We have
+                    to split the revenue into decorative and industrial revenue. What has happened as far as
+                    industrial revenue is concerned is, you know, their input costs have gone up. Industrial
+                    revenues have been able to pass on the input cost increase to the end consumer. They are more
+                    B2B by nature, and the nature of competition, while there is a large number of players, but
+                    within individual segments, there are lower competitive intensity around there. They were able
+                    to pass on the rate increase. If you could see from all the commentaries that came in quarter 2
+                    of a very good industrial growth. Now, we have our overall revenue available, we have overall
+                    industrial revenue available. Decorative is a derived number. So we have an internal derived
+                    number, which we can share on an outside this call. We also have to also add those companies
+                    who currently don't report revenues on overall basis.
+
+
+                    So, if your question is, more question is, did we gain revenue market share in quarter 2?
+                    Answer is no, we did not gain revenue market share, which is one of the reasons is that the
+                    primaries of certain companies were higher than we anticipated. But we remain confident in
+                    our guidance that we will be a double-digit revenue market share in the H2 on a standalone
+                    basis only with Birla Opus. Also with Birla White, including we already had teams, and that
+                    will continue to grow. But this is not a clean answer, but this is the reality of the information.
+                    It's not something in certain industries regulator provides information or there is much more
+                    clearer information available. Here, it is too much of a derived information. I hope...
+
+
+Raashi:             Understood. Yes. Thank you. Institutional sales on a sequential basis, could you share that
+                    number? Year-on-year it's gone 59%, but sequentially?
+
+
+Himanshu Kapania:   It has again fallen. If you said overall revenue falls, so that is institutional fallen. And
+                    institutional, as you understand, is more exterior painting. So, the same logic applies. There
+                    will be less builders who will be doing painting during the monsoon season. So, it may be that
+                    may not be valid. So certain businesses valid on a quarter-on-quarter basis, this may not be
+                    valid. That is why we are giving you on a year-on-year basis. It has fallen.
+
+
+
+                                            Page 15 of 20
+
+                                                                                       Grasim Industries Limited
+                                                                                            November 13, 2026
+
+Moderator:          Thank you. We have the next question from the line of Navin Sahadeo from ICICI Securities.
+                    Please go ahead.
+
+
+Navin Sahadeo:      Yeah, thank you. Thank you for the opportunity. My question was around this AV Nackawic
+                    provision, which I understand is made. I wanted to understand the rationale for the additional
+                    ₹625 crores fund infusion. And if you could also remind what is the benefit that Grasim
+                    receives in terms of pulp, either in percentage terms or cost? And how exactly does this fund
+                    infusion going to help Grasim as an entity? If you could just throw some light on that. Thank
+                    you.
+
+
+Hemant Kadel:       Thank you, Navin, for the question. This Nackawic mill we have bought in 2007 as a paper
+                    grade pulp, and then we converted into the DG grade pulp. The mill has served its purpose for
+                    a very long time. Post or around COVID period, we are seeing there are issues in terms of
+                    reliability, plant maintenance, as well as the cost is increasing, which is giving a negative cash
+                    flow in the pulp mill. We have also studied the future prospects and estimates of this mill.
+                    Then the decision is to keep the plant in an idle capacity. The operations are started closing
+                    from October 2026, the plant will be idle. That will reduce the operating cost of the plant.
+                    Also, the fixed cost will reduce. There are certain liabilities in this plant because in last two,
+                    three years, there were cash losses, there were borrowings, there are certain closing costs
+                    which are to be incurred. For that, this entity will raise the capital from its shareholders.
+                    Grasim is having 45% stake in this entity, so we have to contribute our stake. This provision is
+                    towards estimated liability for meeting our contribution to the entity. The contribution should
+                    give a payback of within four years.
+
+
+Vadiraj Kulkarni:   And in addition to that, Grasim was sourcing around 20% of the pulp from this mill. And to
+                    that extent, we have pulp security covered from other sources, which have come up in the
+                    recent past. It is more about cutting down the losses for future for equivalent to Grasim's
+                    shares.
+
+
+Navin Sahadeo:      Right. Just to summarize, four years...
+
+
+Moderator:          Sorry to interrupt you, Mr. Navin. Request you kindly come back in the queue for follow-up
+                    questions.
+
+
+Himanshu Kapania:   Okay. Let him summarize. Go ahead, please summarize.
+
+
+Navin Sahadeo:      Yeah, sorry. I understand we are past the time. My simple point was, to summarize, ₹625
+                    crores to be spent over four years for winding up and no further cash infusion required. That's
+                    it?
+
+
+Hemant Kadel:       No, four years is a payback for this investment of ₹625 crores, so that we don't keep on
+                    incurring losses. This investment will help us to pay off the liabilities and cut down the losses.
+                    So this is a payback period.
+
+
+Navin Sahadeo:      Okay.
+
+
+
+
+                                            Page 16 of 20
+
+                                                                                       Grasim Industries Limited
+                                                                                            November 13, 2026
+
+Hemant Kadel:       If you continue to operate the mill at this level, you will continue to have losses. So to avoid
+                    those losses, we are taking a one-time contribution and closing the mill.
+
+
+Moderator:          Thank you. We have the next question from the line of Amit Purohit from Elara Capital.
+                    Please go ahead.
+
+
+Amit Purohit:       Yeah, sir. Thank you for the opportunity, and Happy Diwali to you all. Sir, just I wanted to
+                    know your thoughts on the industry growth, because the assumption, the big ask rate for the
+                    50% growth in the second half seems to be pretty high. So what is your view on industry
+                    growth, and what segments will help you to achieve that? If you could, given the price increase
+                    taken by the industry is almost like 15%, so what do you expect the industry growth to be?
+
+
+Himanshu Kapania:   Thank you. I will give my view, and then I will hand it over to Sachin to get his view. The first
+                    half has surprised us as far as the industry is concerned. It is between 16%-17% industry is
+                    growing on a H1 this year versus last year H1, which has a constituent support 8%-9% by rate
+                    and remaining 7%-8% by volume. We are expecting there is a general very strong demand for
+                    decorative paints. In our view, there are two reasons for that. Higher marketing activities by
+                    organized paint sector has resulted in, there is almost a 25% of the decorative paints was with
+                    the unorganized sector. That ratio is changing over the years, and there is a fast unorganized
+                    sector volume, some of that is coming to organized sector. This is the first part. There is
+                    obviously a rate improvement. No doubt on the listed price increase is 14%-15% announced at
+                    various stages but retained price increase is between 9%-10%. We expect the industry to
+                    continue to have this degree of growth between 15%-18%, or I will give a slightly wider range
+                    of 15%-20% in H2, and out of that, we are planning or estimating to grow by 50%. That is the
+                    reason why we are also giving an estimate that we will reach a double-digit market share at the
+                    end of H2. Sachin, you want to add?
+
+
+Sachin Sahay:       The entire proposition of why we believe Birla Opus will continue to grow in the H2 part of
+                    the year is really built up on three broad pillars. As we continue to grow our availability, the
+                    entire reach expansion and throughput expansion that we are seeing from the existing dealers
+                    who have been working with us is certainly enabling that belief in us. When we look at the
+                    contractor ecosystem, which is a very, very large set of influencers, with more advocacy and a
+                    continuous increase in the coverage for not only the brand Birla Opus, but also the product
+                    range within Birla Opus, which is continuing to grow. Finally, when we look at the consumer
+                    proposition of not only driving top of mind, but also a very strong regional connect that we
+                    have rolled out, be it the Durga Puja, Praner Para, or the Pookkalam activity which we did in
+                    Kerala. These are just some examples which I am quoting. Or even the Ganpati Bappa activity
+                    that we carried out in Maharashtra. We have a very, very strong regional cultural buildup,
+                    which we strongly believe that the brand is continuing to gain momentum, and that holds us
+                    the promise and the belief that H2 should be equally good as compared to H1.
+
+
+Moderator:          Thank you. We have the next question on the line of Prateek Kumar from Jefferies. Please go
+                    ahead.
+
+
+
+
+                                           Page 17 of 20
+
+                                                                                          Grasim Industries Limited
+                                                                                               November 13, 2026
+
+Prateek Kumar:         Hello. Yeah, good evening. My question is on the paints and B2B commerce. Birla Opus, as
+                       you said, which has relatively a slower sales trajectory in Q2 versus Q1 versus peers, can you
+                       explain the reason? Despite that, you are maintaining a strong guidance for '27. Can you also
+                       tell about how do you think about profitability trajectory as business enters into second half,
+                       including the impact of price hikes which industry has taken in October, November? What is
+                       the quantum of ESOP expense impact in B2B commerce segment?
+
+
+Himanshu Kapania:      I am going to give it to Sandeep. He will talk about B2B plus.
+
+
+Sandeep Komaravelly:   Yeah. Prateek, the impact is around ₹10 crores.
+
+
+Himanshu Kapania:      Okay. Got it. Prateek, let me move on to paints. You are asking about, one question is about
+                       the confidence. Why would H2 be different from quarter 2? Is that the broad question? Just to
+                       clarify.
+
+
+Prateek Kumar:         H2 different in quarter 2, plus your profitability expectation compared to the price hike impact.
+
+
+Himanshu Kapania:      I will repeat what we said. This is our second quarter 2. We had a low quarter 2 as a
+                       percentage of our overall revenue in last year, and we witnessed the same this year. We have
+                       also tried to analyze the sale, and analysis shows that in quarter 2, primarily the consumer
+                       demand is low, but there is a primary sale which the organized sector is able to do because
+                       they have a larger ability to wholesale and get the dealers to stock up. Newcomers are not so
+                       good in getting the material stocked up by the dealers. We rely more on throughput to the
+                       consumers and to the contractors, where the volumes and secondaries are lower there, which is
+                       the reason why we always keep quoting the October example, where once the season has
+                       started, we are seeing our throughput faster than the 50% norm that we are suggesting. That is
+                       why it gives us the confidence that as the retail season will continue through the next five
+                       months, we will be able to achieve the guidance.
+
+
+                       As far as profitability is concerned, the profitability factor has got dramatically impacted by
+                       products which are linked to crude. Crude has had a scenario which has moved from 65%,
+                       70% pre-war to as high as 110%, and then has been toggling between 90%, 95% to 110%. The
+                       raw material companies have not been changing their prices after having reached to levels at
+                       110%. So, we are being buying our raw material at a much higher price than what we had
+                       originally anticipated. But we are making lot of efforts to be able to improve our profitability.
+                       One of the summaries that we made in my commentary was we have reduced the price gap that
+                       existed with the market leader as much as down to 2%-4%, and which will help us improve
+                       our overall profitability. A lot of other efforts are ongoing at this point of time within R&D
+                       and optimization teams to improve profitability. We have given a guidance that as a company,
+                       we will be profitable once we reach that ₹10,000 crores mark, and we remain committed
+                       towards that. I hope that answers both the questions.
+
+
+Prateek Kumar:         Yes, perfect. Thank you.
+
+
+Moderator:             Thank you. We have the next question online of Harsh Mittal from Emkay Global. Please go
+                       ahead.
+
+
+                                              Page 18 of 20
+
+                                                                                        Grasim Industries Limited
+                                                                                             November 13, 2026
+
+Harsh Mittal:         Yeah, thank you for the opportunity. Sir, my first question is on the VSF margin. We did
+                      around ₹22 per kilo this quarter. Assuming given that the polyester prices should fall down on
+                      lower crude prices, assuming your VSF realization prices remain range-bound, and given your
+                      inventory of sulfur and wood pulp, do you see margins to remain in the similar range as
+                      quarter 2, in quarter 3 and quarter 4?
+
+
+Vadiraj Kulkarni:     Yeah, see, you know how dynamic the situation has been. When we started the year, we didn't
+                      expect the cotton prices and polyester fiber prices to really shoot up by 30%-40%. That also
+                      helped us. If you see the global operating rates of VSF plants have gone up because of that.
+                      The demand has been pretty good. But India has seen a slightly muted demand because of a lot
+                      of other factors in terms of the final consumption that is not really increasing. So, of course,
+                      the attempt is to keep good margins, but I think it should be around, I mean, given that margins
+                      should be around range-bound, as we have experienced in Q2. Q4, I don't want to give any
+                      guidance or any promises because I'm not very sure how the situation changes. If the crude
+                      prices really significantly come down, polyester fibers will come down, the global freight next
+                      quarter will come down, pulp prices are not showing any moderation. There is sulfur
+                      inventory. Normally, our inventories are not very large. They've been less than two weeks of
+                      inventory, so that should get corrected from December onwards. So, I think I would say
+                      quarter 3 would be also range-bound, but I can't give you an exact number.
+
+
+Harsh Mittal:         Understood. Thank you. Just one small question on the MoU with Suzlon.
+
+
+Moderator:            Sorry to interrupt you, Mr. Harsh. Request you to come back in the queue for follow-up
+                      questions.
+
+
+Harsh Mittal:         Sure.
+
+
+Moderator:            We have the next question from Siddharth Mehrotra from Kotak Securities. Please go ahead.
+
+
+Siddharth Mehrotra:   Thank you for the opportunity. Just a small question, sir. We alluded that there were certain
+                      issues at the power plant in Vilayat. So it seems that the volumes have recovered in both our
+                      legacy segments. So are we largely past the power issues there? Just wanted some clarity on
+                      this.
+
+
+Vadiraj Kulkarni:     Yes. What we have done is, one is we have improved the reliability practices, working with the
+                      OEMs to fix some issues in the power plant. That has certainly helped. So in quarter 2, we had
+                      very limited impact. There was a minor impact in terms of production quantities, both for
+                      chemicals and cellulosic fibre. We are also commissioning another boiler now for redundancy,
+                      which has just got commissioned as we speak. That should give us further improvement in
+                      terms of power plant availability. We also got the grid line connection, a significant capacity
+                      through that. I think most of the power plant issues are resolved, and we are in a much better
+                      situation now.
+
+
+Siddharth Mehrotra:   So nothing in 2H, right?
+
+
+Himanshu Kapania:     Sorry, can you repeat the question?
+
+
+                                              Page 19 of 20
+
+                                                                                         Grasim Industries Limited
+                                                                                              November 13, 2026
+
+Siddharth Mehrotra:   No impact anticipated in 2H on volumes at least, right?
+
+
+Vadiraj Kulkarni:     No, not significant.
+
+
+Siddharth Mehrotra:   Okay. Thank you, sir. I will come back in the queue.
+
+
+Moderator:            Thank you. We have the next question from Jay Doshi from Kotak. Please go ahead.
+
+
+Jay Doshi:            Hi, thanks for the opportunity. Back of the envelope calculation indicates there is about 100
+                      basis point drop in market share from Q1 to Q2. The question is, have you deliberately
+                      attempted to reduce channel inventory, or is there any meaningful reduction in trade schemes
+                      or discounts that you give, which has probably resulted into this? You responded to one
+                      question earlier where you mentioned QoQ basis realization is flat, even though you have
+                      increased dealer price list or narrowed the gap versus market leader. Does it mean that trade
+                      discounts and schemes are actually higher in Q2 versus Q1? Broadly, if you can help us
+                      understand these two aspects. Thank you.
+
+
+Himanshu Kapania:     Jay, first and foremost, I would like to confirm that if you were to read the results of top two
+                      and three organized player operators, you will see almost for everybody, and you can do the
+                      maths based on their annualized volume growth and rate growth that they have said, that the
+                      rate has been flat for most of the industry players around there. So, your deduction is, has that
+                      competitive intensity resulted in higher trade discounts? Answer is yes. Now, we give lesser
+                      trade discount than what the market has given, has been the second point, and that can be
+                      indicated by my commentary saying we started the year with a much higher difference, and by
+                      around September, the difference was brought down to 2%-4%. Our discounts have been
+                      lower, and on overall basis, the discounts in quarter 2 was on the higher side, which brings me
+                      to the whole commentary of the logical deduction that we have given. Reason for high
+                      discounting is when you give to certain large dealers for storing larger inventories and
+                      wholesaling, that you tend to do larger schemes for the market, which is not the model that we
+                      operate. We operate a model which is more retail-led, widespread consumer and contractor-led
+                      model, which was much lower as far as secondary is concerned. And we are, as a company,
+                      not worried about it because this is not the first time that we are seeing it. This is the second
+                      year running on what we see, that is the model which industry runs, and we are now reconciled
+                      to the fact that quarter 2 will not be great whenever the wholesaling model happens. Okay. So,
+                      outcome of that is a derivative of market share, but we are not over-worried about it. These are
+                      blips in our longer-term journey around there. That is why our commentary is not to focus on
+                      quarter-on-quarter but focus on a long-term program. And all effort is there to build brand, to
+                      build distribution, to make product available, ensure quality, and to have engagement with
+                      influencer.
+
+
+Jay Doshi:            Thank you very much. Very clear. Thank you very much.
+
+
+Moderator:            Thank you. Ladies and gentlemen, due to time constraints, that was the last question. On
+                      behalf of Grasim Industries Limited, that concludes this conference. Thank you for joining us,
+                      and you may now disconnect your lines.
+
+
+
+                                             Page 20 of 20
+

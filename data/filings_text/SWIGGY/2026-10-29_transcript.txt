@@ -1,0 +1,916 @@
+       REF: SWIGGY/SE/2026-27/63
+
+       October 29, 2026
+
+       To                                                                 To
+       The Deputy Manager                                                 The Manager
+       Department of Corporate Services                                   National Stock Exchange of India Limited
+       BSE Limited                                                        Exchange Plaza, Plot No. C/1, G Block
+       PJ Towers, Dalal Street                                            Bandra-Kurla Complex, Bandra (E),
+       Mumbai -400001                                                     Mumbai 400051
+       Scrip Code: 544285                                                 Symbol: SWIGGY
+
+       Dear Sir/ Madam,
+
+       Sub: Transcript of the Earnings Conference Call for Analysts and Investors held on Thursday,
+            October 22, 2026
+
+        Ref: Disclosure pursuant to Regulation 30 read with Part A of Schedule III of the SEBI (Listing
+        Obligations and Disclosure Requirements) Regulations, 2015.
+
+        Pursuant to the provisions of Regulation 30 read with Part A of Schedule III of the SEBI (Listing
+        Obligations and Disclosure Requirements) Regulations, 2015, we hereby submit the transcript of the
+        Earnings Conference Call for Analysts and Investors held on Thursday, October 22, 2026.
+
+        The said transcript is enclosed herewith and has also been hosted on the website of the company. The link
+        for accessing the transcript is provided below:
+
+        https://www.swiggy.com/corporate/investor-relations/financial-results/
+
+       This disclosure is being submitted in compliance with the aforementioned regulations and is for your
+       information and records.
+
+       Thanking you,
+
+       Yours faithfully,
+
+       For Swiggy Limited
+        Cauveri       Digitally signed
+                      by Cauveri Sriram
+
+        Sriram        Date: 2026.10.29
+                      15:03:53 +05'30'
+
+       Cauveri Sriram
+       Company Secretary & Compliance Officer
+
+
+
+
+SWIGGY LIMITED
+CIN: L74110KA2013PLC096530 | www.swiggy.com | support@swiggy.in | T: 080-68422422
+
+Registered & Corporate Office: Sumadhura Capitol Towers, 3rd- 6th Floor – Tower 1, Sy. No. 14 & 158, Pattanduru Agrahara, K R Puram Hobli, Bengaluru East
+Taluk, Bengaluru, Karnataka – 560066
+
+                                      Swiggy Limited
+                   Q2 FY27 Earnings Conference Call
+                                     October 22, 2026
+
+
+
+
+MANAGEMENT:
+SRIHARSHA MAJETY – MANAGING DIRECTOR AND GROUP CHIEF EXECUTIVE OFFICER – SWIGGY LIMITED
+RAHUL BOTHRA – CHIEF FINANCIAL OFFICER – SWIGGY LIMITED
+ROHIT KAPOOR – CHIEF EXECUTIVE OFFICER, FOOD MARKETPLACE – SWIGGY LIMITED
+NANDITA SINHA – CHIEF EXECUTIVE OFFICER, INSTAMART – SWIGGY LIMITED
+SUMANT SHARMA – GENERAL MANAGER, INVESTOR RELATIONS – SWIGGY LIMITED
+
+
+
+
+                                               Page 1 of 15
+
+Moderator:          Ladies and gentlemen, good day, and welcome to Swiggy Limited Q2 FY27 Earnings
+                    Conference Call. All participant lines will be in the listen-only mode and there will be an
+                    opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                    during the conference, please signal an operator by pressing star and then zero on your touchtone
+                    phone. Please note that this conference is being recorded.
+
+
+                    I now hand the conference over to Mr. Sumant Sharma from the Investor Relations team. Thank
+                    you, and over to you, sir.
+
+
+Sumant Sharma:      Thank you, Operator. Hello, everyone, and welcome to the Q2 FY27 earnings conference call
+                    for Swiggy. Our financial results and shareholders’ letter have been published on the exchanges
+                    and the information pack has been placed in the Investor Relations section of our website,
+                    www.swiggy.com.
+
+
+                    We would like to inform you that the management may make certain comments on the call that
+                    one could deem forward-looking statements. Specifically, the financial guidance and pro forma
+                    information that we will provide on this call are management estimates based on certain
+                    assumptions and have not been subjected to any audit review or examination procedures. Swiggy
+                    does not guarantee these statements and is not obliged to update them at any time.
+
+
+                    Joining us on the call today are Sriharsha Majety – MD and Group CEO; Rahul Bothra – CFO ,
+                    Rohit Kapoor – CEO of Food Marketplace and Nandita Sinha – CEO of Instamart
+
+
+                    With this brief preamble, let us start the Q&A. Operator, you can please go ahead.
+
+
+Moderator:          Thank you very much. We will now begin with the question-and-answer session. Your first
+                    question comes from the line of Gaurav Malhotra with Axis Capital.
+
+
+Gaurav Malhotra:    Just a couple of questions on food and quick commerce. So firstly, on food, if you can give us
+                    some sense on what you're seeing in terms of emerging competition from Rapido, we see Flipkart
+                    Minutes also doing something in food. So how are you sort of seeing the landscape?
+
+
+Sriharsha Majety:   Hi Gaurav, Harsha here. I'll take that first question. Actually, as of now, only Rapido is live to
+                    the general public and Flipkart has opened to the public at scale even in Bangalore yet. We are,
+                    of course, closely watching the market. We happen to be participating in this in the value market
+                    through our pilots with Toing.
+
+
+                    And we've talked about it extensively in our shareholders’ letter as well. I think over the last 4-
+                    5 quarters, we are closely monitoring the business health, the product market fit. And we're quite
+                    excited by what we are seeing as of now. Competition has begun, but we're able to respond pretty
+                    strongly both from the Swiggy asset platform as well as the Toing asset.
+
+
+                    Our sense, however, as of now, and that's the reason why we're investing in Toing also right now
+                    is that we do believe that the market can expand if the right proposition offering value to
+                    consumers while being sustainable can be cracked. For us, it's a specific interest also because
+                    Toing in some sense for us insurance of a large profit pool at its worst and in addition to a large
+                    profit pool at its best.
+
+
+                                               Page 2 of 15
+
+                    And that is the reason why we continue to play for it. We continue to monitor all the health
+                    metrics and are continuously revising our plans and iterating on the business based on everything
+                    we know.
+
+
+Gaurav Malhotra:    Got it. In the shareholders’ letter, even in food, you have sort of mentioned about investments
+                    towards the affordability trust. So, Toing, is where the affordability focus is. So, is there some
+                    sort of an overlap happening between the food and Toing from an affordability focus
+                    perspective?
+
+
+Sriharsha Majety:   There is some overlap, but we've also talked about the extent of the overlap and how it's been
+                    changing with time. Every passing month as we get scale, we're seeing the overlap actually
+                    improve as in reduce, which is what gives us confidence that it is the opening of a new market.
+
+
+                    There is going to be some, but we monitor it closely, and it is a very healthy right now as we
+                    see. And as it scales, it's starting to get better. The overlap percentage is reducing, which for us
+                    increases our confidence that this is the opening of a new market.
+
+
+Gaurav Malhotra:    Got it. And just one question on quick commerce. Some of the underlying metrics in quick
+                    commerce were decent, right in terms of the MTU additions, your throughput per store, those
+                    sort of moved up. But the delta change in losses seems a little bit on the higher side. So, if you
+                    could just help us understand that. I understand in the shareholders’ letter, you've given us some
+                    sense on where the extra margin compression has come from.
+
+
+                    But if you can give us some sense on, how should we think about these losses going forward?
+                    Also, now that you started to sort of refocus on growth, would that also mean that you will be
+                    getting back into focusing on the Tier-2 markets?
+
+
+Nandita Sinha:      Nandita here. This quarter, we've got back on the growth trajectory. We've had a good quarter
+                    with a 13.4% QoQ NOV growth. What makes us excited about this growth is the fact that the
+                    quality of growth has been very good. We've seen our retention metrics go up and our frequency
+                    metrics have go up by 4% QoQ. We've added 1.3 million MTUs, as you said.
+
+
+                    We've built this on the back of habit building, which has been on the back of cohortized user
+                    bases on which we have done habit building, and we have invested behind our differentiated
+                    assortment proposition. This makes us confident on the quality of growth that we've been adding.
+
+
+                    As a result of this, we believe that as we continue to build the quality of growth, both on the user
+                    side, which is on building our frequency, habits building our differentiated assortment, which
+                    has actually given us great results in terms of the retention that we see on the platform and also
+                    increase the productivity that we have on the throughput of each pod.
+
+
+                    This will actually take us towards sustainability and profitable growth. So, this is our journey
+                    that we will continue to make. We are confident of the quality of growth that we've added in this
+                    quarter.
+
+
+Gaurav Malhotra:    Got it. And the second question in terms of the Tier 2 markets and how are you thinking about
+                    it now?
+
+
+                                             Page 3 of 15
+
+Nandita Sinha:      We believe that we have laid out our network in terms of T1 and T2 markets. We will continue
+                    to focus on markets where we are seeing growth in the same manner of building back our
+                    habituated users and reaching out to them through both the habit building categories like fresh
+                    and staples as well as extending our differentiated assortment category.
+
+
+                    This is how we will build business and the focus will be to continue to build user quality across
+                    the market as we go forward.
+
+
+Moderator:          The next question comes from the line of Vijit Jain with Citi.
+
+
+Vijit Jain:         In the letter, you mentioned that Toing's success can basically get the food overall marketplace
+                    growth to 25-30% from the current range of 18-20%. At the moment, would you be closer to the
+                    lower end of that number, 25% odd? In general, that 7-10% extra growth in GMV terms
+                    translates to maybe 10-15% higher volumes. Am I roughly in the right ballpark when I look at
+                    those numbers in that lens?
+
+
+Sriharsha Majety:   I can't answer the specifics of the second part, but to the first part of your question, we would be
+                    closer to that lower end of that range that we talk. We mentioned in the shareholders’ letter as
+                    well, we're also learning and getting even more proof points about the business at this time. And
+                    that's where we are going to have investments range bound while we get even more discovery
+                    of some key questions that we have.
+
+
+Vijit Jain:         Got it. Harsha, just a related question to that. Now is therefore Toing now at a point where
+                    shutting this down, calling it an experiment is now not likely at all? Would you be comfortable
+                    to make that assessment of Toing at this point of time? And if you can talk also about the
+                    retention cohorts that you're seeing on Toing.
+
+
+                    You've mentioned retention cohorts on Instamart at 60% month 1 and so on. So, any colour you
+                    can give on how the retention cohorts of Toing are doing right now based on whatever the right
+                    benchmarks for it should be? That will be super helpful. That was my second question.
+
+
+Rahul Bothra:       Hi Vijit, Rahul here. As your question it's an experiment or how it's ready to be scaled, I think
+                    we have asked for maybe another quarter or two. With enough green shoots we are seeing to be
+                    able to also call out that this investment is showing the frequency growth that we are hoping for,
+                    the category extension in terms of new user acquisition to the platform. And more importantly,
+                    some of the earlier cities turning unit economic positive for the repeat users.
+
+
+                    Now you can imagine that in an affordable offering where the average of basket sizes are a
+                    fraction of, say, the main platform it is extremely hard to build the business because it requires
+                    significant density. It requires the cost to serve to match the revenue, which is also a fraction of
+                    the main platform. So our ability to navigate many of this also comes from the fact that we are
+                    building in the back of the original chassis that is fully expressed in the main platform.
+
+
+                    So the incremental overhead that we incur is just on user acquisition. The fixed cost is very, very
+                    low in this business. It's all discretionary. Therefore, our ability to scale up or dial down is very
+                    agile in the segment. So you should probably give us another quarter or two before we call out
+
+
+
+                                             Page 4 of 15
+
+                     whether this experiment has worked. But enough we see to be able to give you that direction is
+                     the right direction.
+
+
+Rohit Kapoor:        Rohit here, just to add to what Rahul said, another notable point is that what you see is mentioned
+                     in the letter is that a sizable number of restaurants are seeing Toing volumes contribute
+                     meaningfully to their platform, their restaurant share. So it is not just on the consumer side, but
+                     also in the cities we are present. If you go and talk to restaurants today, they will talk about the
+                     two existing players and Toing quite regularly. It's becoming meaningful for restaurants as well.
+
+
+Rahul Bothra:        Just to answer your second question on the retention metrics. One thing we can call out is that
+                     we are seeing better retention metrics than the core app. Not only the retention metrics are better,
+                     but the frequency of even the dual appers is 25% higher than the singular app. As I said, the
+                     metrics look in the right direction. At the same time, we need to continue to scale the business
+                     with the right business market economics is where the current focus is.
+
+
+Sriharsha Majety:    Building on top of the Swiggy platform and the Swiggy pipes is one of the things that we are
+                     generally very excited about. That's what he said by saying that it is discretionary and optional
+                     and even to this quarter or in general, most of our spending is in new user acquisition and
+                     activation as opposed to any other loaded cost that traditional new business would have to take.
+
+
+                     This and the ability to constantly be able to open up the market at a fraction of the cost that new
+                     insurgence might have is something that motivates us to continue to play and find even better
+                     answers over the next two quarters.
+
+
+Moderator:           Your next question comes from the line of Sachin Salgaonkar with Bank of America.
+
+
+Sachin Salgaonkar:   I have three questions. First question, what steps, Harsha, Rohit, you guys are taking to avoid
+                     Toing cannibalizing Swiggy? And I'm asking that because when we look at the growth rates of
+                     Swiggy and compare that with Zomato, one gets a sense that for the last couple of quarters, they
+                     are a bit slower. Any specific thing to watch out for, but I would love to understand how you're
+                     looking at it from that point of view.
+
+
+Rohit Kapoor:        Rohit here. Let me take the question in two parts. On the growth rate, if you see what we’ve
+                     called out in the letter, that in Sep-26 we were back on 20% plus growth just talking about
+                     Swiggy. And we see us maintaining the 18-20% stand-alone guidance on Swiggy. On Toing, 2
+                     out of 3 users that we're seeing are new to platform.
+
+
+                     As Rahul mentioned, even on the users who are using both, we are seeing 25% higher orders per
+                     user. It is doing two or three jobs for us clearly the combined strategy. One is open up the market
+                     to a new set of consumers who either have very low frequency on food delivery or they're not
+                     on food delivery.
+
+
+                     Point number two is give more choices to consumers on what occasions, which app they want
+                     to use, and they are showing that they are rewarding that strategy with a higher orders per user
+                     frequency. And third, obviously, there's a competitive shift in landscape.
+
+
+
+
+                                              Page 5 of 15
+
+                     As Harsha said, that clearly, we see there a robust strategy to participate in the market where
+                     there is 10 years of legacy of building a food delivery business and new entrants entering. So it's
+                     insurance we feel, but on the upside, it has significant potential to unlock value in the future.
+
+
+Sachin Salgaonkar:   Clear on that, Rohit. Second question on quick commerce. I see in shareholders' letter, you guys
+                     have mentioned contribution margin to remain in the range of 0 to -100 bps with sequential
+                     improvement there on. Is this subject to better retention and maturity of cohorts? I'm asking this
+                     question because competition is still intense. What points we should look to see that you guys
+                     will go down and start improving the contribution margin versus contribution margin remaining
+                     at these levels only?
+
+
+Rahul Bothra:        Yes. What we had called out even in the previous quarter was that we need a bit of reset in terms
+                     of our growth. And the 0 to -100 basis points guidance that we have given was keeping that
+                     flexibility in mind. As you have seen, we have grown at a healthy pace of 13% plus in the
+                     previous quarter and our guidance for the current quarter is also to be able to deliver double-
+                     digit growth on a sequential basis. We will obviously operate within those tight guardrails.
+
+
+                     It is important that the users that we have churned out which were unprofitable and the quality
+                     that we have hence acquired and continue to show better behaviours both from a retention
+                     frequency delta is something that we want to maintain. And that will ultimately give us a positive
+                     contribution margin from the existing users that we will operate with.
+
+
+                     While the competition intensity remains high, I think as a platform, we have made various steps
+                     towards getting better customer experience in the market. Therefore, we are very confident of
+                     being able to do that without worrying about the competition in the market.
+
+
+Sachin Salgaonkar:   Got it. So what you're saying is we should expect an improvement in the revenue as well as
+                     contribution losses or contribution margin improving going ahead?
+
+
+Rahul Bothra:        So, as I said, it's hard to give a specific number, but what we have guided is for 100 basis points
+                     improvement in Adjusted EBITDA in the current quarter.
+
+
+Sachin Salgaonkar:   Okay. And that 100 basis points of Adjusted EBITDA has no benefit coming from the move to
+                     inventory model, right, because the move to inventory model happens mid of next quarter.
+
+
+Rahul Bothra:        That's correct. So we will start the process in the middle of current quarter, and it is expected to
+                     fully transition over the next two to three quarters.
+
+
+Sachin Salgaonkar:   My last question is and sorry to harp on this, I asked you guys this question in the past also. How
+                     should we think about the dark store additions and the growth? Because clearly, one of your
+                     peers had guided to reach 5,000 dark stores. You do see their growth also accelerating and
+                     outperforming the growth of others in the industry out there. You guys have a decent amount of
+                     cash on balance sheet. So what would make you guys to change the strategy in terms of adding
+                     more dark stores and hence, in a way, benefiting from a slightly better growth out there?
+
+
+Rahul Bothra:        I think Sachin, at the cost of repeating, I think we do maintain the fact that store addition is going
+                     to be a factor of growth, right, because we are present in the 130 plus cities that we are. We don't
+
+
+                                              Page 6 of 15
+
+                    have a near-term expectation to increase the geographical coverage. So therefore, the store
+                    addition, which competition may be doing store city addition is therefore not to be considered
+                    in our case.
+
+
+                    Wherever there is going to be growth and which is maxing out of capacity, we are adding stores.
+                    So, you will continue to see us expanding the number of stores even in the current quarter as the
+                    growth continues in those hyper local zip codes. As you can also see from the overall capacity
+                    utilization, last quarter, we increased it by close to 10% on an orders per day per store. But it
+                    still leaves sufficient room to continue the growth journey without having to necessarily increase
+                    the pace of store expansion. From a coverage standpoint in these cities, we are well covered.
+
+
+                    So even if you look at the speed metrics, we are best-in-class compared to some of the
+                    competition out there. From the assortment standpoint as a combination of our larger stores,
+                    which are the mega stores as well as the hyperlocal normal stores, we are able to provide the
+                    assortment that is required to get the growth that we are on. So we don't see the need to
+                    necessarily add a lot many more stores. And as growth continues, you will see that store
+                    expansion continuing.
+
+
+Moderator:          Your next question comes from the line of Abhisek Banerjee with ICICI Securities.
+
+
+Abhisek Banerjee:   Just on the store expansion, you just spoke about how you are adding stores wherever you are
+                    maxing out in terms of capacity. Now could you give us some colour on what that maxing out
+                    of capacity looks like in terms of orders per dark store per day? So what number do you hit and
+                    then you have to put up a new store? And what proportion of your total stores would be at that
+                    kind of a level, if you can give some colour on that.
+
+
+Rahul Bothra:       We typically start the decision to open a new store in that zip code when the store crosses around
+                    2,000 orders a day. And by the time the store is up, which typically takes 2-3 months, those
+                    stores start doing roughly 2,300-2,500 orders per day. Every quarter, the pace of expansion, as
+                    you see if you are adding 5-7% stores, that's the number that are maxing out on capacity, if the
+                    pace of growth continues at this level.
+
+
+Abhisek Banerjee:   Understood. The proportion of stores where you have that 2,500-odd throughput of your overall
+                    store universe.
+
+
+Rahul Bothra:       As I mentioned, every quarter, roughly 5-7% of network is close to that.
+
+
+Abhisek Banerjee:   Okay. So this is not a cumulative number, right?
+
+
+Rahul Bothra:       No, it changes every quarter. So if you are delivering the growth, say, sequentially on the double-
+                    digit side, you will see more stores getting out of capacity and therefore, the store addition
+                    becomes a natural outcome.
+
+
+Abhisek Banerjee:   Understood. The market leader is now talking about expansion into Tier 3 cities. What is your
+                    experience there? So do you think that there is some more juice to kind of get in? One thing we
+                    are kind of noticing right, that whoever kind of acquires the customer first seems to kind of get
+                    the benefit of some sort of a loyalty rather than trying to acquire second and then you are
+
+
+                                             Page 7 of 15
+
+                    basically also searching for the highest quality users. Does it not make sense for us to explore
+                    that at this point of time?
+
+
+Nandita Sinha:      I think we have growth, which is near term largely, in the large cities. So that is where we are
+                    focused. Like I said, we are building the business and the focus towards execution on building
+                    on our habituated users. We do see a large part of our growth in the large cities.
+
+
+                    Therefore, we will continue to focus there. And like I said, we are not looking at geographical
+                    expansion beyond where we are today, and we will continue to focus on the all the cities that we
+                    are present in, and we will do that via the habituation that we have built by taking the users
+                    through this journey. That's where we will focus on.
+
+
+                    Our playbook for focusing on this journey remains the differentiated assortment that we are
+                    building. 1 in 8 orders today is of Noice, and that gives us a much higher retention. Similarly, as
+                    we build our pod productivity, that will give us a much higher advantage in terms of how we are
+                    growing. So these will continue to be our focus areas in the large cities that we are.
+
+
+Abhisek Banerjee:   Understood. In terms of this quarter, there was obviously a timing difference in the festive season
+                    vis-a-vis last year. So would it be correct to think that the next quarter should see a much faster
+                    kind of growth or would you not rather kind of commit a higher number at this point of time?
+
+
+Nandita Sinha:      Right now, we won't comment as we are in the beginning of the quarter.
+
+
+Abhisek Banerjee:   Understood. And just one last question on food delivery. You are obviously sticking to the
+                    guidance of 18-20% YoY growth for the full year in the core business. Now one thing that I
+                    would like to understand is one way of doing that would be just to keep the margin flat and
+                    reinvest into growth. Is there a margin target that you have in mind where you start doing that
+                    or r would you just rather allow it to kind of continue the way it has been expanded ?
+
+
+Rahul Bothra:       As you have seen, we've added close to INR50 crores on an absolute Adjusted EBITDA for the
+                    quarter and in a market where competition from all forms is only going higher. 5% of GOV
+                    trajectory is an outcome which is what we have stated. And you should continue to see operating
+                    leverage in our business, which we continue to accrue.
+
+
+                    At the same time, you may have seen our monetization, it is at the highest ever with take rate
+                    exceeding 26%. So there are sufficient levers which are available to us to be able to continue
+                    this journey to 5% and that's something that we are committed to.
+
+
+                    Beyond that, I think we start making choices around reinvesting back for growth because I don't
+                    think the margin journey necessarily stops at 5%. There is continued densification that happens
+                    , cost synergies that come through as well as operating leverage that you should expect in the
+                    results.
+
+
+Abhisek Banerjee:   Got it. And just one last thing. Could you give any demographic profiles of the Swiggy core
+                    users versus the Toing users, if there is any differential that can be noted?
+
+
+
+
+                                              Page 8 of 15
+
+Rohit Kapoor:    We don't collect that much demographic data. But from our consumer dipsticks and
+                 understanding, the Swiggy platform caters to a pretty much a wide demographic starting right
+                 from the adolescents for whom the order is made by maybe the parent or elder sibling to right
+                 up to senior citizens.
+
+
+                 Our sense is that for Toing, the audience is far younger. And probably 70-80% of the users are
+                 sub 30 years of age and many of whom are coming into either they are in the final years of
+                 college or coming into employment and first-time jobbers and who will form the consuming
+                 class 3-5 years out, right, in a significant way. I think that's the difference that we see.
+
+
+Moderator:       Your next question comes from the line of Jignanshu Gor with Bernstein.
+
+
+Jignanshu Gor:   I had two questions. One for Nandita on quick commerce. So, one of the things that I see which
+                 is markedly different between our performance and the performance of the other listed peer is
+                 the monetization rate. I wanted to understand your plan to improve this and where do you think
+                 is the key issue because this rate has not really moved in the last 3 quarters.
+
+
+                 And I would sort of also expect that this is a project or effort which can run in parallel to the
+                 scale up, right, while there is some dependency. So I just want to understand how you are
+                 thinking about improving monetization for our quick commerce orders.
+
+
+Nandita Sinha:   Thanks for the question. This is something that we are actually quite focused on in terms of
+                 building on two counts. I think as we look at our strategy in terms of engaging with brands on
+                 differentiated assortment, it allows us the opportunity to co-create with brands and that increases
+                 our engagement with them.
+
+
+                 On the other hand, I would say that also our ability to have a better set of users and more
+                 productivity on our pods, puts us in the flywheel with growth, especially for users and
+                 geographies, which we can then actually build together with brands.
+
+
+                 So, if you look at the loop that we are creating with differentiated assortment as well as by
+                 creating a high habit user, it allows us to engage better with our brands and therefore, take up
+                 our monetization rates. We've made some movement in this quarter. And we will continue to
+                 work on this stream because this allows us to give a great assortment to our customers as we
+                 work together with brands. So, this is something we focus on.
+
+
+Jignanshu Gor:   So, there are two parts to this monetization, right, or three parts rather. There is commissions,
+                 there is ads simplistically and then there is income from consumers or charges. Where do you
+                 think we have the maximum leeway in these three and maybe the lower-hanging fruit as well?
+
+
+Nandita Sinha:   I spoke about how we are co-creating with our brand partners. And that allows us to build the
+                 base for ensuring that monetization leads this growth. Over a period of time, we will ensure we
+                 will continue to evolve the consumer fees. The two parts that I would really focus on is
+                 monetization. The second thing is how are we evolving the consumer fee structure as we are
+                 evolving the habituated user. Monetization will need it and our co-creation with brands will help
+                 us actually build a more stickier user base, which we can then build habit over a period, which
+
+
+
+                                           Page 9 of 15
+
+                    allows mix impact to be favourable for us as users become sticky. So this is where we will build
+                    this journey on.
+
+
+Jignanshu Gor:      I think my second and last question is on Toing. And I think either Harsha or Rohit, I want to
+                    understand what's your framework for deciding, as you said, maybe in the next few quarters,
+                    whether Toing is an experiment, whether it's supposed to be scaled. Like what are the metrics
+                    you're looking for? And what are you willing to compromise on? So is it the growth and the size
+                    of the market that you see which makes you attractive?
+
+
+                    Is it consumer behaviour? Is it the unit economics and is there a threshold for that? Are you
+                    willing to accept dilution to the margin profile of the food delivery business when you add the
+                    two businesses together? How are you thinking about your framework for decision-making on
+                    Toing? I think that will be helpful to understand.
+
+
+Sriharsha Majety:   Harsha here. I think it is not just one thing, it is a set of the few. We've talked about how some
+                    of the early cities are showing what they are in unit economics for repeat users. We would like
+                    to see how that sustains. As we go and expand the user footprint, how does customer acquisition
+                    cost evolve. There are also continuous learnings that we are making in terms of propositions that
+                    can bring delivery costs even lower. And those are things that is some more advertisement push
+                    that will really help us get a more robust sense of the steady-state economics.
+
+
+Jignanshu Gor:      Okay. So is it fair to say that we have a sort of an answer of what this can lead to, but we just
+                    need a few quarters to get there? Or is it that we are still discovering? So how early are we in
+                    that journey? I think that's the only second thing which would be helpful.
+
+
+Sriharsha Majety:   As we mentioned, I think at this stage, with the state of the business that is four quarters old,
+                    we're quite happy with the progress that it's made. As Rahul mentioned, majority of the spend is
+                    in marketing user activities, which means it is discretionary.
+
+
+                    And we are in a competitive market. We want to really understand more about the stuff that we
+                    are already building conviction on, I'd say because we will know if it can be profitable over the
+                    next few quarters, that we'll get a better sense of the levers that we originally envisaged for the
+                    steady-state economics getting more information on that. Things will be competitive, but we'll
+                    still be able to get a good sense of how the model can work.
+
+
+Rohit Kapoor:       Adding on to what Harsha said, there is clear evidence in the food delivery we have used in the
+                    past that scale turns into margins and EBITDA over a period of time, and we have demonstrated
+                    that successfully. We see no reason why that same thing will not play out in Toing. Of course,
+                    there's an investment needed to create a business of this size and to push the growth rates from,
+                    let's say, 18-20%, which was envisaged earlier to 25-30% what we have seen.
+
+
+                    As we have said even in the shareholders’ letter, we expect the investments will be range bound.
+                    And we'll operate with all three guardrails in terms of building the business. One is, is it opening
+                    up new TAM, which it is at this point in time. Second, is the consumer showing the right amount
+                    of retention frequency, which is there at this point in time.
+
+
+
+
+                                            Page 10 of 15
+
+                  And third is shaping the economics towards what becomes a hopefully very profitable business
+                  over a period of time. There will be a bit of a curve for sure. But I think there's nothing that we
+                  see at this point in time, which discourages us from just pushing ahead of this.
+
+
+Moderator:        Your next question comes from the line of Gaurav Rateria with Morgan Stanley.
+
+
+Gaurav Rateria:   My first question is on quick commerce. Coming back to the point around quality of growth. So,
+                  there is a lot of goodness that we drove in the business in the form of private brands, in the form
+                  of improving delivery timelines, in the form of fruits and vegetables that you talked about
+                  retention increasing there.
+
+
+                  But at the same time, I also saw the pricing intervention that we have done in the business, which
+                  implies NOV to GOV ratio coming down for the current quarter. How to segregate our pickup
+                  of growth between these two factors, one which is inherently structurally positive for us and the
+                  one which is kind of discretionary in nature, which may remain or which may not remain in the
+                  coming quarter?
+
+
+Nandita Sinha:    Like you pointed out yourself that the quality of growth is looking very, very encouraging. And
+                  the way that we've done it has actually been very focused on the cohorts that we are driving
+                  growth for. We will continue to drive growth to build habit for all of the cohorts. That habit is a
+                  positive move because this takes us into a higher category mix with users, and that helps us in
+                  profitability as we go forward.
+
+
+                  The second piece that we know that we will continue to build on is our differentiated assortment
+                  led growth, both on Noice, Nectr as well as the other work that we are doing with brands. Nearly
+                  20% of our orders today are on differentiated assortment. This gives us higher retention. And
+                  therefore, this helps us in our profitability and our Adjusted EBITDA journey.
+
+
+                  Lastly, as we build on this journey of ensuring that we build habit, our pod productivity also
+                  goes up. And therefore, the goodness that we have on the other underlying metrics start to show
+                  up for us. So I would say that going deeper into cohorts and building habit with different
+                  categories, building on our category mix by increasing the category penetration and therefore,
+                  compounding that growth and finally, compounding on the differentiated assortment, which
+                  allows us for both retention as well as growth in the future.
+
+
+                  All of this results in our pod productivity going up, which ultimately takes us down the Adjusted
+                  EBITDA improvement path. So I think this is where we feel confident on the flywheel that we
+                  are building for ourselves and the green shoots that are coming in terms of both the adoption of
+                  differentiated assortment, Noice and Nectar as well as the retention that we are seeing.
+
+
+Gaurav Rateria:   Just a follow-up on this. So should we think about these pricing interventions as one of the levers
+                  for driving the habit formation, which effectively will improve retention of the cohorts over
+                  time?
+
+
+Nandita Sinha:    We are going after very, very focused cohorts, and that's what is helping us improve the
+                  frequency. And we are going after frequency use cases, fresh staples. This is where we are going
+                  after to ensure that we continue to build frequency and retention of these cohorts.
+
+
+                                          Page 11 of 15
+
+Gaurav Rateria:     Got it. My second question is on food delivery. Your competition talked about capping the
+                    margins at a certain level and driving incremental investment back in the business to accelerate
+                    the growth. So do you think that strategy could have a rub-off effect on us in our margin
+                    improvement journey and our margin improvement should be largely now a function of the
+                    operating leverage on the overhead cost and less on the contribution margin in future?
+
+
+Rahul Bothra:       No, I don't think so. As I mentioned previously, our trajectory of like 5% GOV margin continues,
+                    and you have seen some progress already made of 30 bps in the previous quarter. That will be
+                    sequentially achieved. We do not see that we will need to take any pricing actions or reduce our
+                    margin structure here because as we've already pointed out, the affordability play for us is the
+                    Toing vehicle.
+
+
+                    And there, again, we have our job set out in terms being able to get more category users and
+                    grow the overall market 25-30% CAGR growth for us overall. On the core business, both the
+                    top line growth of 18-20% as well as the steady state margin of 5% GOV margin stays protected
+                    without us having to go through any dilutive route in the near term.
+
+
+Gaurav Rateria:     Got it. Last question on Toing. So very clearly articulated on the metrics that you are looking at
+                    to decide on the scalability of the business. But is it also going to be a function of the external
+                    factors, let's say, if the competition decides to completely scale down this and not pursue this, it
+                    will probably not have any impact on our strategy because this is more of a TAM creation that
+                    we are doing rather than any reaction to competition in any case?
+
+
+Sriharsha Majety:   As I mentioned even earlier, I think there are two sides of the coin. There's a bare minimum,
+                    which is insurance in a market that can expand. But at its best, it is a market that can really grow
+                    and be a sustainable one. So every day we show up, we are actually driving the category forward
+                    and how it can grow and be sustainable.
+
+
+                    And if we find out that can't be done and competition is not interested, sure. I mean it can
+                    continue running without investments. But when we wake up, we're hungrily figuring out how
+                    to make this model succeed, how do we think about making it sustainable.
+
+
+Moderator:          We will take last two questions. Our next question comes from the line of Kunal Vora with BNP
+                    Paribas.
+
+
+Kunal Vora:         First one, again on Toing. It looks like it's making annualized loss of about INR4 billion, revenue
+                    of INR5 billion. How should we think about the trajectory? Have the losses peaked and at what
+                    level of revenue like something like that breakeven?
+
+
+Sriharsha Majety:   I think, we already talked about the investments being range bound in the short term. That also
+                    will offer us the opportunity to look into how the platform is working, how leverage comes with
+                    the investments that we're making and the quality of the product market fit. So, in the short term,
+                    as we've mentioned, we continue to iterate the investments, continue to be range bound, but we
+                    do expect growth.
+
+
+Kunal Vora:         Losses could remain at this level and revenues will continue to scale up. That's the template
+                    which you are looking at ?
+
+
+                                            Page 12 of 15
+
+Sriharsha Majety:   That's the template. And it’s also, one of the things that we want to demonstrate for ourselves
+                    and for everyone
+
+
+Kunal Vora:         Understood. Second one, how should we think about the NOV per store per day in the coming
+                    quarters? There is a 50% gap between Blinkit and Instamart, which is persistent. Like what can
+                    be done to address that? I mean megapod strategy is something which should have helped, but
+                    it has not really narrowed the gap. So like what else can be done?
+
+
+Nandita Sinha:      We have a double-digit guidance for growth. How we are looking at the growth and as we look
+                    at productivity, part of it will come from our category mix. Part of it will come from our store
+                    productivity going up. Leverage will kick in, and we are not looking at changing any
+                    configuration on how we have opened our stores, etc.
+
+
+                    We are looking at increasing the productivity of the store. This allows us to give a higher
+                    category mix to customers as well as it has a double benefit of giving a better category mix to
+                    customers as well as ensuring that we are more productive on these stores. So that's where we
+                    will focus. We are not looking at changing anything around our network.
+
+
+Rahul Bothra:       It’s a pure math question, right. Because last quarter, we grew 13% and our store network grew
+                    6% so that necessarily adds to NOV per dark store. So we want to maintain a similar trajectory,
+                    and we are not working backwards from a store count addition because it's not going to get us
+                    new distribution. So the efficiency metrics of this will continue to be seen in our performance.
+
+
+Kunal Vora:         Just one last one. In the shareholders’ letter, you mentioned that competitive intensity in the
+                    sector remains high and you do not expect it to ease in the near term. Like my observation is that
+                    the competition has eased slightly. Minimum order values have moved up, discounting levels
+                    seem to have reduced. Do you agree with this?
+
+
+Nandita Sinha:      There is high competition in the sector. This is also the quarter of the festive season and there is
+                    festive season that is playing out. And I think it is important to actually look at this as an
+                    expanding market and focus on our own strategy. We are very focused on ensuring that we build
+                    the habit loop with the user and the productivity loop with the pods and continue to build our
+                    differentiation.
+
+
+                    This puts us in good stead versus competition because we can see our users retain better on all
+                    of these metrics. We see this as a growing market. There will be competition that is going to
+                    play, and there is a festive quarter which has intense competition, but we will be focused on our
+                    own strategy.
+
+
+Kunal Vora:         Has the competition eased at all? I mean through the last 6-9 months, or nothing has changed.
+
+
+Nandita Sinha:      There is some part of some months which are there where we could see some competition easing
+                    off. But I do think that it is very early to call this in, which is whether it has eased out or not. I
+                    think there are new players who have come in.
+
+
+
+
+                                             Page 13 of 15
+
+                    Therefore, we will have to continue to focus on our strategy because the volatility around how
+                    competition will react will continue to be there. There may be some addition and some
+                    calibration on some ends, but overall, there will be competition.
+
+
+Sriharsha Majety:   Building on what Nandita here. The next milestone for us is to get to that profitability at an
+                    Adjusted EBITDA level and demonstrate that. Even in a competitive market, which is
+                    competitive, we want to focus on the strategy that we've picked up, pick up the basics, serve
+                    consumers every day in an even better way, get the right kind of consumers and differentiate to
+                    be able to get closer and closer to that.
+
+
+                    That is our guiding light as we make decisions every passing quarter. Are we making the
+                    business stronger and closer to the ambition by building resilience in the business and resilience
+                    in the business will have to come from doing some things greatly and some things differently,
+                    again, in a market of seven players.
+
+
+                    I know there are various versions saying, should you do Noice, should you do something. I think
+                    that if everyone is going to do exactly the same things because they have good ideas, that's also
+                    not the sure shot part to Adjusted EBITDA zero. When you find success in a few shoots, which
+                    are harder to replicate for other competitors, I do think it's responsible for us to double down and
+                    find even more differentiation because that is the road to resilience in users sticking for a longer
+                    while the incentives are outside, and that is what will help us get closer to managing the growth
+                    and Adjusted EBITDA profile of the business over the next few years.
+
+
+Moderator:          Your next question comes from the line of Aditya Soman with CLSA.
+
+
+Aditya Soman:       So, I mean a more fundamental question, Harsha. So just if I take a step back, compared to
+                    Eternal which is valued at more than five times what Swiggy is for a business that is largely
+                    similar, the gap in every metric I see is widening. Even at a store level, say, if I look at something
+                    like Instamart, even at a store level, orders per store for Blinkit grew 7% and yet profitability
+                    has improved.
+
+
+                    This is despite them adding new cities, which could be less profitable. So, I think, the market is
+                    attributing a different expectation of execution from Eternal and from Swiggy.
+
+
+                    Now one can say that you just look at your own path and not look at theirs, which is fair. But
+                    from a Swiggy perspective, for this market perception of a gap in execution to change, one needs
+                    to see this gap narrow. With you sitting on cash, why not look at expanding new cities given that
+                    two of the other players are already around similar number of stores, there's another player that's
+                    catching up on the number of stores.
+
+
+                    Would it not mean that if you all focus on the same cities, I understand a different strategy again
+                    on assortment, but we are talking only about 1 in 8 orders having these SKUs. And even that 2
+                    to 3 items per order somewhere around 16 to 24 being Noice. How will that change the story
+                    long term?
+
+
+Sriharsha Majety:   Thanks for asking that, Aditya. I think firstly, I think our competitor, Blinkit enjoys a pretty
+                    strong flywheel that has been compounding over the years. That is the reason why we've been
+
+
+                                             Page 14 of 15
+
+                able to build a resilient business. For us, the next step is actually going to build that more resilient
+                business before just using cash because it exists in the bank to set up new flanks.
+
+
+                As I mentioned even in the previous answer, our first job is to build a stable, resilient business
+                that has clear line of sight to Adjusted EBITDA zero and the optionality's come after that. And
+                the most important thing for us to build that, again, to make the business resilient. And for that,
+                we need to do 3-4 things that Nandita talked about already.
+
+
+                Anything straight from that is the opportunity, potential lost opportunity, but we think that not
+                not making the business resilient in the areas where we are will be a bigger lost opportunity
+                because we still need to grow. As we mentioned, we need to get to roughly 2x the current size.
+                We need to improve the contribution. To be able to do this is the most important thing for us.
+
+
+                As the market evolves, I'm sure we'll find newer and newer ways to grow the market even more
+                than we are able to in the very short term. But I think it's just to prove that execution, to prove
+                that focus, we need to double down on the specific areas as of now.
+
+
+Aditya Soman:   Understand. And maybe just to drill a little bit more. So in this quarter, for example, we've seen
+                gross margins maybe reduced by about 110 bps or so or 120 bps quarter-on-quarter. Now with
+                the reduction in gross margins with more private label, we should, in theory, see an acceleration
+                in growth. But why is that missing at, let's say, growth at a store level. If we think of orders per
+                store, we have only a slight improvement.
+
+
+Rahul Bothra:   Orders per day per store have actually gone up by close to 9%. If you look at even the average
+                NOV per store has gone up by 9% sequentially.
+
+
+Aditya Soman:   I thought it's closer to sort of 6-7%.
+
+
+Rahul Bothra:   Yes, we're close to 1,200 orders per day per store. This is the best we have ever seen. And as I
+                said, you will continue to see traction on this line, which is an important metric for also store
+                level profitability as well as overall platform level Adjusted EBITDA profitability.
+
+
+Aditya Soman:   Understand. And so, the thought process right now is that the lost gross margin gets made up in
+                leverage as you leverage these stores as the frequency continues to improve on these stores?
+
+
+Rahul Bothra:   Yes, so scale gets along its own operating leverage. Even in the previous quarter, we added 60
+                bps. Some of it got reinvested getting back into the healthy growth. I think that's discretionary
+                in spending, and we will take an appropriate time when we will start harvesting that back again.
+                But the operating leverage as long as the growth continues is going to get delivered.
+
+
+Moderator:      Thank you very much, ladies and gentlemen. That will be the last question. On behalf of Swiggy
+                Limited, that concludes this conference. Thank you for joining us, and you may now disconnect
+                your lines. Thank you.
+
+
+
+
+                                         Page 15 of 15
+

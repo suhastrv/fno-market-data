@@ -1,0 +1,809 @@
+            November 02, 2026
+
+            BSE Limited                                                            National Stock Exchange of India Limited
+            Phiroze Jeejeebhoy Towers,                                             Exchange Plaza, C-1, Block – G, Bandra Kurla
+            Dalal Street, Mumbai - 400001                                          Complex, Bandra (E), Mumbai - 400051
+
+           Ref.: Indus Towers Limited (534816/ INDUSTOWER)
+
+            Sub.: Transcripts of the Earnings Call on the Company’s performance for the second quarter (Q2) and
+                  half year ended September 30, 2026
+
+            Dear Sir/Ma’am,
+
+            Please find attached the transcripts of Earnings Call conducted on October 28, 2026 on the Company’s
+            performance for the second quarter (Q2) and half year ended September 30, 2026.
+
+            Kindly take the same on record.
+
+           Thanking you,
+
+           Yours faithfully,
+
+           For Indus Towers Limited
+            SAMRIDH Digitally signed by
+                    SAMRIDHI RODHE
+
+            I RODHE Date: 2026.11.02
+                    13:59:55 +05'30'
+
+            Samridhi Rodhe
+            Company Secretary & Compliance Officer
+
+            Encl.: As above
+
+
+
+
+                                                             Indus Towers Limited
+Registered & Corporate Office: Building No. 10, Tower A, 4th Floor, DLF Cyber City, Gurugram - 122002, Haryana I Tel: +91-124-4296766 Fax: +91-124-4289333
+                          CIN: L64201HR2006PLC073821 I Email: compliance.officer@industowers.com I www.industowers.com
+
+                “Indus Towers Limited
+ Second Quarter Ended September 30, 2026 Earnings
+                      Call”
+                   October 28, 2026
+
+
+
+
+MANAGEMENT: MR. PRACHUR SAH – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – INDUS TOWERS
+            LIMITED
+            MR. ABHISHEK MAHESHWARI – CHIEF FINANCIAL
+            OFFICER – INDUS TOWERS LIMITED
+            MR. DHEERAJ AGARWAL – HEAD, INVESTOR
+            RELATIONS – INDUS TOWERS LIMITED
+
+
+
+
+                        Page 1 of 13
+
+                                                                                         Indus Towers Limited
+                                                                                             October 28, 2026
+
+Moderator:     Good afternoon, ladies and gentlemen. I'm Michelle, the moderator for this conference.
+               Welcome to Indus Towers Limited Second Quarter Ended September 30, 2026 Earnings Call.
+               For the duration of the presentation, all participant lines will be in the listen-only mode.
+
+
+               After the presentation, the question-and-answer session will be conducted for all participants on
+               this call. In case of a natural disaster, the conference call will be terminated post an
+               announcement. Present with us on the call today is the senior leadership team of Indus Towers.
+
+
+               Before I hand over the call, I must remind you that the overview and discussions today may
+               include certain forward-looking statements that must be viewed in conjunction with the risks
+               that we face.
+
+
+               I now hand the conference over to Mr. Prachur Sah. Thank you, and over to you, sir.
+
+
+Prachur Sah:   Thank you, Michelle, and a very warm welcome to everyone joining us today. I have Abhishek
+               Maheshwari, our Chief Financial Officer; and Dheeraj Agarwal, our Head of Investor Relations,
+               on the call. Today, I will take you through our operational and financial performance for the
+               quarter ended September 30, 2026.
+
+
+               We are happy to share that we recorded a strong growth in co-location additions in Q2. This has
+               translated into an improvement in our tenancy ratio from 1.62 to 1.63, following a period of
+               stability. Growth during the quarter was driven by continued network expansion from our
+               customers, alongside a pickup in rollouts by a major customer.
+
+
+               With healthy order book visibility and accelerating rollout activity, we expect the growth
+               momentum to continue. Importantly, we continue to be the preferred infrastructure partner for
+               our key customers, capturing a substantial share of their incremental rollouts. Our extensive
+               footprint, superior network management capabilities, stringent SLA commitments and
+               collaborative approach continue to reinforce customer trust and position us well to capture the
+               next phase of industry growth.
+
+
+               Our consistent performance and strong customer trust are underpinned by a deep sense of
+               ownership of our frontline teams. During the quarter, our teams across Northeast, Bihar &
+               Jharkhand and UP East, once again demonstrated exceptional resilience in the face of severe
+               floods that disrupted network operations, restricted site access and caused prolonged power
+               outages. Despite these challenges, our team responded with agility, proactive planning and close
+               local coordination to accelerate restoration efforts and ensure service continuity across most of
+               the affected networks. Their dedication in such challenging circumstances reflects the strength
+               of our execution culture and our commitment to delivering reliable services to customers.
+
+
+               The favorable regulatory environment has been supporting the seamless deployment of telecom
+               infrastructure. Government support for smart meter deployment on telecom towers has further
+               reinforced telecom infrastructure as a priority consumer category. Over the last three years, we
+               have deployed smart meters on approximately 140,000 sites. This development provides
+               improved visibility of consumption patterns and creates opportunities for energy optimization,
+               operational efficiency and data-driven decision making.
+
+
+
+                                        Page 2 of 13
+
+                                                                        Indus Towers Limited
+                                                                            October 28, 2026
+
+Coming to the 5G networks. According to the recent TRAI data, India's 5G subscriber base grew
+by 36 million in the first quarter, exceeding 463 million subscribers. This secular demand curve
+is driving sustained operator investment in coverage and capacity. With the industry adding
+approximately 30,000 5G BTSs during the second quarter, taking the total installed base to
+around 593,000. As these networks mature, deployment focus is shifting towards network
+densification to support higher traffic loads and emerging digital use cases. Given our
+comprehensive portfolio and strength of customer relationships, we are structurally well
+positioned to support this steady infrastructure expansion.
+
+
+Infrastructure expansion and sustained 5G adoption trends are validated by robust consumption
+trends. In Q1, total data volume increased by 30% year-on-year, supported by an 18% rise in
+average monthly usage per subscriber. Notably, 5G networks are accelerating this trend, with
+5G usage alone growing 79% year-on-year, representing 44% of total data consumption, up from
+32% in the prior year. This ongoing shift highlights the necessity for sustained investments in
+network capacity, which supports long-term utilization rates and tenancy growth on our passive
+shared infrastructure.
+
+
+Our operational performance witnessed strong order bookings led by sustained customer rollouts
+and increased network expansion by a major customer. We added approximately 2,900 macro
+towers and robust co-locations of 7,900, marking year-on-year growth of 5.6% in towers and
+5.9% in co-locations. Our total macro tower and co-location base reached approximately
+270,500 and 440,200, respectively. Our industry-leading tenancy ratio has also improved from
+1.62 to 1.63, driven by substantial rollout through sharing of our existing towers. Including
+leaner sites, we concluded the quarter with approximately 454,200 co-locations, reinforcing our
+market-leading operational scale.
+
+
+We remain committed to supporting our customers' network expansion through our shared
+portfolio. We are actively collaborating with one of our major customers to facilitate its planned
+network rollouts, which is reflected in our consistent performance. Given our ready-to-deploy
+asset base, optimized geographical footprints and competitive value proposition, we remain
+confident in our ability to serve as a key long-term infrastructure partner for their network
+deployment plans.
+
+
+Our strategy of operating a low-cost shared infrastructure model provides the best solution to
+customers and Indus by way of improving asset productivity. With a large portfolio of towers
+designed to support multiple tenants, Indus remains the preferred partner for operators seeking
+rapid network expansion at an efficient cost. The company is equally well positioned to support
+existing customers in strategically important locations, where finding alternative infrastructure
+options may be difficult or less economical, particularly for a second and a third tenant. As a
+result, we remain confident to expand and retain co-locations at Indus from all the major
+customers.
+
+
+In addition, we remain committed to serving our customers with best-in-class service delivery
+and uptime, lower operating costs through tenancy profile and lower unit energy cost compared
+to other providers, which is critical for our customers' operations.
+
+
+
+                         Page 3 of 13
+
+                                                                         Indus Towers Limited
+                                                                             October 28, 2026
+
+Indus continues to create bespoke solutions that provide customers with options to offer
+connectivity in public infrastructure such as airports, metros, tunnels, etcetera. During the
+quarter, Indus provided solutions for India Mobile Congress and enabled connectivity at Vizag
+Airport, and it is actively participating in similar projects. Supported by a specialized team
+focused on design and execution, the company has led incremental market share gains in new
+IBS deployments for two consecutive years and remains focused on expanding its presence in
+this segment while enhancing the end user connectivity experience.
+
+
+I would like to highlight that our determination to deliver superior service delivery resulted in
+sequential improvement in our network uptime from 99.955% to 99.97% despite challenging
+seasonal weather. Continuous technology deployments have enhanced our real-time network
+visibility, driving superior diagnostic and preventive capabilities that keep our customers
+seamlessly connected.
+
+
+Let me now provide an update on our energy management measures and the progress we have
+made. Our energy margin performance was driven by an 11% year-on-year reduction in diesel
+consumption. Our efforts for enabling digital energy management at our sites through remote
+connectivity, system-driven diesel planning, installation of fuel sensors and smart meters have
+started yielding positive results, while we believe there is still a long way to go. We optimized
+energy costs by deploying solar solutions across approximately 3,000 sites during Q2, increasing
+the solar site portfolio to 49,000 sites. Our planned transition from diesel to lithium-ion battery
+storage is progressing well and we are on track to meaningfully reduce dependence on diesel.
+
+
+Our ongoing digital transformation remains a key enabler for network reliability and operating
+efficiency. Deployment of AI-native digital solutions is enhancing field productivity and
+analytics. Implementation of AI-led image analytics is strengthening governance, vendor
+accountability and maintenance quality. Furthermore, office digitalization through a
+combination of automated energy billing, digital twin capabilities and real-time dashboards is
+streamlining decision-making and reducing manual effort. These strategic initiatives are
+successfully transitioning Indus Towers towards a predictive data-driven operating model,
+continuously improving organizational efficiency and customer experience.
+
+
+Our commitment to sustainable growth continues to drive meaningful ESG and value chain
+outcomes. In environmental stewardship, we accelerated our decarbonization journey,
+expanding our renewable energy footprint to an installed solar capacity of 297 megawatts in Q2
+from 259 megawatts in Q1.
+
+
+Safety remains a core priority. During the quarter, we launched Safety Shield Awards to
+recognize exemplary safety performance across our teams and partners, further strengthening
+our culture of safety and accountability.
+
+
+Through our flagship CSR initiatives, Saksham and Pragati, we positively impacted over 11
+million lives this quarter, while actively supporting communities affected by natural disasters
+and humanitarian challenges in Assam, Arunachal Pradesh and UP.
+
+
+
+
+                         Page 4 of 13
+
+                                                                                              Indus Towers Limited
+                                                                                                  October 28, 2026
+
+                       Our ESG assessments and capability building initiatives continue to strengthen a more resilient
+                       value chain. During the quarter, ESG maturity assessments across 70 partners resulted in an 8%
+                       improvement in average ESG maturity scores. We are pleased to report that our CRISIL ESG
+                       rating improved from 57 to 63, complemented by recognition at Mahatma Awards and Business
+                       World Sustainable World Awards. Together, these milestones underscore our focus on creating
+                       long-term value through responsible and resilient operations.
+
+
+                       Coming to Africa. Our Africa foray is gaining strong traction, proving the competitiveness and
+                       the cost leadership of Indus' operating model. By achieving considerable capex savings per tower
+                       compared to competitors, we are delivering lower cost solutions for our anchor customer.
+                       Rollouts have successfully commenced with initial tower deployments as planned and are
+                       scheduled to ramp up in H2. We have also initiated engagements beyond our anchor customer
+                       to leverage our tenancy-led business model. Africa expansion is a long-term strategy, and we
+                       strongly believe we have a right to win.
+
+
+                       I would now request Abhishek to take you through our financial performance, and I look forward
+                       to your questions. Thank you, and over to you, Abhishek.
+
+
+Abhishek Maheshwari:   Thank you, Prachur. Good afternoon, everyone. I'm pleased to present our financial results for
+                       the quarter ended September 30, 2026.
+
+
+                       We witnessed a strong addition of co-locations during the quarter on the back of continued
+                       network expansion by our customers. The operational momentum has supported steady revenue
+                       growth and robust cash generation, reinforcing the strength of our infrastructure sharing model.
+
+
+                       Talking about financial performance for Q2. Revenue for the company grew at 1% quarter-on-
+                       quarter and the revenue absolute value stands at INR85.2 billion. Core revenue for the rental is
+                       up by 1.3% quarter-on-quarter, stands at INR54.5 billion, driven by steady co-location addition
+                       and asset loading. This was further supported by acceleration of network rollout by major
+                       customers during the quarter. On year-on-year performance, our reported revenue and core
+                       revenue grew by 4% and 3.9%, respectively.
+
+
+                       Moving on to profitability. Reported EBITDA increased by 2.5% quarter-on-quarter and stands
+                       at INR46.3 billion for the quarter. Our EBITDA margin also improved by 80 basis points
+                       quarter-on-quarter and stands at 54.4% for the quarter. Please note that Q2 of last fiscal year
+                       included write-backs of approximately INR2 billion, relating to collection of overdue
+                       receivables from a major customer. Adjusting this one-off, our EBITDA grew at 5.2% year-on-
+                       year.
+
+
+                       Our energy margin was negative 3.6% in Q2 compared to negative of 4.6% in Q1 and negative
+                       4.8% in the corresponding quarter of last year, reflecting a significant improvement during the
+                       reported quarter. Our structured energy efficiency measures are yielding positive results, and
+                       diesel consumption is further reduced by 11% year-on-year. Our continued focus on technology-
+                       led energy management, including diesel optimization, enhanced visibility into electricity
+                       consumption and adoption of advanced battery solutions is lowering energy cost while
+                       strengthening our competitive position and energy performance.
+
+
+                                               Page 5 of 13
+
+                                                                                              Indus Towers Limited
+                                                                                                  October 28, 2026
+
+                     Profit after tax was up by 2.7% quarter-on-quarter and stands at INR17.9 billion, driven by
+                     significant growth in EBITDA. Adjusting for the earlier mentioned write-back, PAT for the
+                     company grew at 6.4% year-on-year.
+
+
+                     Our capital productivity remains very efficient. From the trailing 12 months, we delivered a
+                     pretax return on capital employed of 25.3% and post-tax return on equity of 19.2%. The capital
+                     efficiency is reflected in our cash generation, with the free cash flow remaining robust at INR14
+                     billion for the quarter. The liquidity profile provides us with financial flexibility to support
+                     sustainable, value-accretive capital expenditure.
+
+
+                     Turning to Africa. We have successfully deployed towers in Zambia and Uganda in Q2 and also
+                     started generating revenue. In line with our phased rollout plan, we are set to begin deployment
+                     in Nigeria during the current quarter and our early capex performance per tower remains within
+                     the plan, validating our cost model during the initial phases. As the portfolio reaches to a more
+                     representative scale, we intend to share more detail on operational and financial metrics in
+                     subsequent quarters. By leveraging our disciplined and cost-efficient shared infrastructure model
+                     and robust network management, we are confident in our ability to become credible player and
+                     actively support Africa long-term digital infrastructure demand.
+
+
+                     To conclude, our Q2 performance underscored the resilience of our business model, underpinned
+                     by healthy order book and sustained customer rollout. Looking ahead, our focus on operating
+                     efficiency, structure energy cost optimization and technology integration will continue to
+                     support profitability. Further, our expansion into Africa progresses on schedule, representing a
+                     measured extension of our core competencies. We remain committed to executing profitable
+                     growth opportunities and driving sustainable long-term value for shareholders.
+
+
+                     With that, now I hand it back to Michelle to open the floor for questions.
+
+
+Moderator:           Thank you very much, sir. Ladies and gentlemen, we will now begin with the question-and-
+                     answer session. The first question is from the line of Sachin Salgaonkar from Bank of America.
+
+
+Sachin Salgaonkar:   I have a first question. Question number 1, I wanted to understand the mix of a tenancy growth.
+                     Now Prachur, in your opening remarks, you did mention that there is a good amount of 5G
+                     tenancy, which is coming. And there's also a mention about one customer who has incrementally
+                     started to roll out. So we are trying to understand the mix going ahead. How should we think
+                     about 5G growth versus growth coming from this customer, which may not necessarily be all
+                     5G tenancies?
+
+
+Prachur Sah:         Yes. So Sachin, I'll just clarify. So 5G was a reference only for 5G network in India. So whenever
+                     we talk about towers and tenancies, I'm not referring to 5G or 4G. It is actually a tower and
+                     tenancy for us. It may be a 4G or 5G. So 5G is actually loading on the same tower. So I think
+                     the question that you're trying to ask is the mix of tower and tenancy. Actually, this quarter, we
+                     added 2,900 towers and 7,900 tenancies, which is basically a second tenant on an existing site
+                     when we talk about a tenancy.
+
+
+                     So I think the mix will depend on the order book, as we said. And as I said, the major customer
+                     -- the second customer on our site is rolling out, is doing its network expansion. So I believe the
+
+                                              Page 6 of 13
+
+                                                                                              Indus Towers Limited
+                                                                                                  October 28, 2026
+
+                     ratio of tenancy would continue to be considerably meaningful. And what will be the ratio
+                     between towers and tenancies that is to be seen on a quarter-to-quarter basis. But I believe that
+                     ratio will remain quite healthy given the nature of expansion, given the fact that we have a large
+                     1T tower base that is available for a second tenant to come.
+
+
+Sachin Salgaonkar:   Got it. Second question, I just wanted to understand one of your towers agreement has expired.
+                     Did we hear back in terms of any incremental update? And one of your other customers, as is
+                     public info, is looking to raise some money, particularly debt from banks. It looks like we don't
+                     have any incremental update on that. So I'm trying to understand the kind of the business what
+                     you will get. So irrespective of whether this entity raises debt or not, how should one think about
+                     the incremental business coming to you guys?
+
+
+Prachur Sah:         So Sachin, I think I would not speculate on behalf of the customer. But what I can tell you, as I
+                     mentioned in my commentary as well, I think we do have a visibility of a strong order book.
+                     And I think we will keep executing based on that order book. So you'll continue to see our
+                     delivery in the line with what the orders we have. So I think that's where I would say our
+                     visibility is. So I think Q3 and for the next coming quarters, we do see that we have a strong
+                     order book from the major customers that we have.
+
+
+                     As far as the tenancy renewal is concerned, I think we have discussed this earlier as well. As of
+                     now, we continue to operate the tenancy portfolio with all our customers. And our objective
+                     remains to provide them the leading services so that we continue to provide them as the third
+                     tenant as well. So I think from a cost efficiency and service delivery point of view, we remain
+                     very competitive and comparatively at much lower operating costs than a single tenant would
+                     be. However, that is something that is in discussions, and I don't have any incremental updates
+                     to share on that aspect.
+
+
+Sachin Salgaonkar:   Got it. And last question, I wanted to have an update on Africa. Any numbers you could share
+                     in terms of number of towers deployed? What is the target? And what kind of capex should we
+                     expect, let's say, by the end of this fiscal year?
+
+
+Prachur Sah:         So Sachin, Africa, as Abhishek mentioned in his commentary, I think late part of Q2 is when we
+                     have started seeing the towers being rolled out and come in service. So in the subsequent
+                     quarters, you will see us putting out the meaningful metrics out there for you to see. But as of
+                     now, it is not at scale. So we will just wait for the subsequent quarters to start giving you more
+                     flavor on the exact numbers that have been rolled out.
+
+
+Sachin Salgaonkar:   Got it. And is it fair to say that Airtel is currently the only anchor customer? I understand you
+                     are in touch with some of the other customers, but have you signed any agreements with any of
+                     the other telcos in that market?
+
+
+Prachur Sah:         No, I think Airtel remains our primary anchor customer in Africa.
+
+
+Moderator:           The next question is from the line of Kunal Vora from BNP Paribas.
+
+
+
+
+                                                Page 7 of 13
+
+                                                                                                 Indus Towers Limited
+                                                                                                     October 28, 2026
+
+Kunal Vora:            So the first one is the rental revenue growth has been around 4%, 5% in recent quarters, and
+                       that's despite VIL additions, loading, rental escalation, etcetera. Do you see this accelerating?
+                       And what will drive this? This is for India only, not Africa.
+
+
+Prachur Sah:           I think the revenue growth is always driven by our tower and tenancy growth. And of course,
+                       we have certain aspects of loading and the other escalations, which are muted by the renewal
+                       impact. So I think the growth will remain, as I mentioned earlier to Sachin as well, there is a
+                       strong order book. So I think as we keep deploying towers and tenancies according to the order
+                       book, the growth will be commensurate to that. I mean, unless you would add something else,
+                       Abhishek?
+
+
+Abhishek Maheshwari:   Yes. I think, Kunal, I think only incremental point to add, which is worth noting that last year
+                       Q2 in the same fiscal year, we had reported one-off benefit of around 0.8% on the overall
+                       revenue. That is also impacting the YoY performance for this quarter.
+
+
+Kunal Vora:            Understood. But even with strong -- let's say, strong co-lo additions, this is the revenue growth
+                       which we are looking at. Are you seeing an acceleration in the coming quarters? Any triggers
+                       for that? Or this is where it will remain?
+
+
+Prachur Sah:           Kunal, I think -- see, sometimes -- I mean, I will not draw exact correlation, but what I can tell
+                       you is sometimes the co-location additions for a quarter don't see the full quarter of revenue. So
+                       I think the full quarter revenue comes in the subsequent quarter. So I think there is always a
+                       timing mismatch. And if there is a one-off impact in the previous quarter, it also has an impact.
+
+
+                       So I would say I don't think it's fair to comment that whether it's going to be at the same rate or
+                       higher rate. I think it depends on a couple of factors. And as you see the full quarter impact of
+                       the revenue, I think we will see the real meaningful impact. There is always an overflow of the
+                       revenue for which the tenancies were deployed in this quarter.
+
+
+Kunal Vora:            Understood. Second one, your power and fuel expenses have increased by only 3% year-on-
+                       year, which is lower versus tower growth of 6%, implying that energy cost per tower is down at
+                       a time when there is high energy inflation. I heard that diesel consumption has reduced by 11%.
+
+
+                       Can you help us understand the energy usage mix? What is driving this deflation? And if it is
+                       structural due to renewable energy investment? Also if there is any change in thought process
+                       regarding energy margins?
+
+
+Prachur Sah:           Yes. So I think, Kunal, the 11% diesel reduction and the cost reduction, I think it is primarily
+                       driven by the operational initiatives that we have taken. I think there has been a substantial work
+                       on the solar. As you saw in my commentary, we have already deployed by end of September,
+                       close to 49,000 solar sites.
+
+
+                       Secondly, there's a lot of work that is currently ongoing in terms of how we manage our
+                       operations through infusion of digital and AI in our planning of fuel operations. Thirdly, I think
+                       over the last few years, as we have started to transition from traditional lead acid batteries to
+                       lithium-ion batteries, it is also starting to contribute because now it has reached a scale, where it
+                       can start making a meaningful impact on the cost reduction.
+
+
+                                                Page 8 of 13
+
+                                                                                          Indus Towers Limited
+                                                                                              October 28, 2026
+
+                So I would say these are structural cost initiatives that have been taken that are making an impact.
+                Of course, at the scale, we have more room to go. So I think I will focus more on the cost
+                initiatives and less discussion about the margin because there are certain other factors that impact
+                the margin.
+
+
+                But from a cost perspective, we remain very confident that these initiatives that we are taking
+                are there long term and sustainable to make a meaningful impact on a cost per unit that we take
+                for energy from our customers.
+
+
+Kunal Vora:     But the cost does not have any implications on margin, does it?
+
+
+Prachur Sah:    I think there is. Of course, there is. I think revenue and cost both have an impact on the margin,
+                but it also depends on seasonality. It depends on what kind of efficiency we are operating at.
+                What I'm saying is the initiative that we are trying to take is to make sure that the cost and the
+                efficiency improves, and that will eventually show up in the margin. We saw some impact on
+                the margin already this quarter.
+
+
+                There is a meaningful impact, about close to 1% compared to last year Q2 because that is the
+                right comparison to make. But as I said, there is still more to be done, and there are certain other
+                elements that can further make the margin better or worse.
+
+
+Kunal Vora:     Understood. Just one last question. Can you talk about how inflation and currency depreciation
+                are impacting your opex and capex? And is there a way you can pass on the additional burden
+                to the customers if the high inflation persists? Also I wanted to understand that in the past, we've
+                not really seen the 2.5% annual rental escalation coming through. So how inflation and currency
+                depreciation will impact?
+
+
+Prachur Sah:    See, I think there are two parts to that question. I think first is the escalation that we have that
+                takes care of the inflation impact when it comes to opex. As far as capex is concerned, based on
+                our MSA, whichever rates are to be revised on capex, wherever we have that flexibility, that is
+                accordingly adjusted for the customers. But by the way, the escalation is also on the standard
+                rate of the tower. So the escalation does cover majority of the inflation that is coming through.
+
+
+Kunal Vora:     My point was that like right now, we are seeing very high inflation, but like escalation still
+                remains where it is. I mean you don't have any additional pass on additional burden that you
+                could take.
+
+
+Prachur Sah:    No, but I think, Kunal, we have to look at a little bit longer term. I think no customer will just
+                give you the inflation at the time of increase and not at the time off. So I think we have to look
+                at a little bit of a longer horizon on how that escalation revenue helps us manage the inflation
+                over a longer period.
+
+
+Moderator:      The next question is from the line of Bineet Banka from Nomura.
+
+
+Bineet Banka:   I have a question on the capex. So if you look at growth capex, it increased on a QoQ basis,
+                whereas your new tower additions declined. And if I just divide the growth capex by the number
+
+
+
+
+                                         Page 9 of 13
+
+                                                                                                    Indus Towers Limited
+                                                                                                        October 28, 2026
+
+                       of towers added in this quarter, the number comes out INR67 lakhs and the guidance for new
+                       tower capex is around INR20 lakhs, INR25 lakhs. So what is causing this sharp difference?
+
+
+Abhishek Maheshwari:   Yes. Let me take this question. Bineet, thank you for the question. I think if you -- the answer
+                       lies in the CWIP. If you follow our balance sheet, there is an increase of around INR250-odd
+                       crores on the CWIP value quarter-on-quarter, which is a reflection of what Prachur was alluding
+                       on the very healthy order book what we have.
+
+
+                       We continue to roll out tower in the subsequent quarter. Further to this, I think if you look at the
+                       profile of growth and operational capex, it's not very different in Q2 versus what we had in Q1.
+                       It's broadly in the same ratio.
+
+
+Bineet Banka:          Even if you address...
+
+
+Prachur Sah:           In addition, whenever we do the additional tenancies as well, they also come -- whenever we do
+                       a tenancy or upgrade of a 5G or install solar, so all these are also the components of capex that
+                       impact growth, but it is not reflected by the growth from the tower count per se. So I think the
+                       division of the overall growth capex just by tower count may not be the way to look at the cost
+                       per tower situation.
+
+
+Bineet Banka:          Sir, the same number is going up every quarter. So just trying to understand if the gross addition
+                       of tower was much higher than the net addition that we see in the reported numbers.
+
+
+Prachur Sah:           Sure. Maybe, again, I think it's not just -- as I said, it is not just a function of tower. It is always
+                       a function of what kind of towers as well are being put, right? Whether if it's a rural tower, urban
+                       tower, how many 5G upgrades have been done, how many loading have been done, how many
+                       sharing sites. When we add a tenancy as well, it comes at an upgrade cost. It's not a zero-capex
+                       solution. So, I think the growth capex is not just one component, right. There are multiple
+                       components that make up the growth capex.
+
+
+Bineet Banka:          Sir, any number you can share of upgrading the same tower. So maybe adding more BTS from
+                       the same tower, what is the incremental capex per tower? Any number you can share?
+
+
+Prachur Sah:           It depends on that. It's a site-specific discussion because some sites will require a larger amount
+                       of upgrade in terms of whether you install more mounts or batteries or whatever will be the case.
+                       It depends on each site. So we have a bespoke solution.
+
+
+                       Whenever a request comes, we go site by site and it can range anywhere. I mean, I don't even
+                       want to give a range because it can be with minimal capex or it can be a significant amount of
+                       capex. So it depends on what that site is currently at and what kind of site it is currently being
+                       looked at. So it's a site-by-site decision.
+
+
+Bineet Banka:          Okay. And on the new tower additions, I think this quarter, around 2,900, last quarter was around
+                       3,000. So is this the run rate that we are working at for the future? Or you can see some upside
+                       from there?
+
+
+
+
+                                                Page 10 of 13
+
+                                                                                                 Indus Towers Limited
+                                                                                                     October 28, 2026
+
+Prachur Sah:           I think as I said, I mean, I don't want to give a forward-looking number, but I said that we have
+                       a strong healthy order book for both towers and tenancies. So I think the growth will remain
+                       robust, but it's something that you have seen for the last couple of quarters. I think that inference
+                       you will have to draw. But I think the order book remains very strong, both on tower and
+                       tenancies.
+
+
+Bineet Banka:          Okay. Sir, lastly, one more question on Africa. So can you give any number on capex per tower
+                       for Africa?
+
+
+Prachur Sah:           I think, as I said, we have just started to deploy the towers. I think the later part of Q2 is when
+                       we saw the first deployments coming through. So as Abhishek mentioned, probably in the
+                       subsequent quarters, you will start getting some meaningful direction on the KPIs and the count.
+                       So I would just hang on for a quarter or so when we can start showing some numbers around
+                       that.
+
+
+Moderator:             The next question is from the line of Ritvik Agrawal from 3P Investment Managers.
+
+
+Ritvik Agrawal:        Sorry, my questions got answered. I'll go back in the queue.
+
+
+Moderator:             I'm sorry to interrupt you. Your audio is low, sir. Can you please increase the volume a little bit?
+
+
+Ritvik Agrawal:        My question got answered in the last question. So I'll go back in the queue.
+
+
+Moderator:             The next question is from the line of Satinder Singh Bedi from Eon Infotech Limited.
+
+
+Satinder Singh Bedi:   First and foremost, congratulations on a very healthy co-location count. I think that's excellent
+                       news. Related to that, Prachur, you said that you see good visibility in terms of co-locations,
+                       which is very understandable. In terms of towers, so while we've done good in terms of co-
+                       location and there's no discomfort on that side, Towers, we've done about 2,800. This is the
+                       lowest in last 4 years for the Q2, okay? So do we consider this a healthy count in terms of towers,
+                       going forward, okay? So is that our definition of healthy? Should we model that kind of count
+                       in our models?
+
+
+Prachur Sah:           So I would not comment on the model that you want to build in. I think the whole point is, I
+                       think FY24 was the peak of the rollout when you would see a much larger number. But as a
+                       country, if you are deploying these many towers, I think it's a robust count. When I say healthy
+                       order book, healthy order book is what happened this quarter and what happens in subsequent
+                       quarters.
+
+
+                       So I would not comment whether the next quarter will be higher or lower than this. But I think
+                       the numbers are driven by what the customers are doing for the network expansion. I think -- so
+                       3,000 towers, whether it's high or low, I'm not going to comment on that one, but it's still higher
+                       than the rate that a lot of deployments are happening. So I think that's where the comment
+                       remains that it's a strong order book.
+
+
+Satinder Singh Bedi:   And some flavor on the leaner towers. So what we've seen is that March'25, we added about
+                       2,400 leaner towers. And thereafter, the counts dropped to double-digit counts. So we've added
+
+
+                                               Page 11 of 13
+
+                                                                                                   Indus Towers Limited
+                                                                                                       October 28, 2026
+
+                       13. So just wanted to understand what is the challenge around leaner towers? Is it that there are
+                       smaller, less organized players who are able to probably offer a more cost-efficient solution? Or
+                       just wanted to understand why has the count dropped to almost negligible?
+
+
+Prachur Sah:           I think the deployment of leaner towers is less dependent on whether we are deploying it not.
+                       It's dependent on how the customer is planning their networks, right? I think in general, what we
+                       have seen a few years ago, there was a large network expansion plan, which was based on the
+                       leaner towers. However, it is more and more moving towards the macro or bigger towers. So I
+                       don't think it's a function of what we are able to deploy. It's more a function of how the customers
+                       are planning their networks.
+
+
+Satinder Singh Bedi:   Third, finally, just a suggestion, okay, for your consideration. So the suggestion is, I think finally,
+                       the primary goal of the management is to maximize shareholder wealth, which, in our case,
+                       translates into optimization of the stock price, okay, which has not been moving even though
+                       you have a good franchise, you're executing well.
+
+
+                       And a possible reason for that could be that we need to have probably a more optimal capital
+                       structure. We are an annuity kind of business, typically should fall into a structure of an InvIT,
+                       okay, and should take on leverage. So we are sitting on a net cash position, okay?
+
+
+                       And when we juxtapose this with the fact that we don't have much of visibility. So in terms of
+                       are there large capex plans, which are holding us back from optimizing the capital structure as
+                       also the corporate structure. So some visibility on that would help. So a 3-year roadmap, okay?
+
+
+                       So what is our stretch target for, let's say, FY29 or '30 in terms of where we want to get, I think
+                       that will add to a lot of clarity for investors and will help build greater confidence because
+                       currently, we are kind of living quarter-by-quarter in terms of what has happened historically,
+                       but there's no view as to where we are getting in terms of what are the goals, okay?
+
+
+                       So that's the suggestion. In terms of corporate structure, do we look at moving into an InvIT
+                       okay, over a period of time in terms of capital structure, should we not be taking optimal gearing
+                       okay, rather than being in a net cash position, can't we use this excess cash that we are sitting on
+                       to do a buyback and hence, maximize shareholder wealth. So these are some situations for the
+                       management, kind of, for your consideration, please.
+
+
+Moderator:             We'll take the next question from the line of Kunal Vora from BNP Paribas.
+
+
+Kunal Vora:            A couple of follow-ups. So in Africa, how is your capex per tower lower versus the other tower
+                       companies in Africa? What are you doing differently as you are like still at an early stage and
+                       you will have a scale disadvantage?
+
+
+Prachur Sah:           I think capex per tower, to be honest, in our industry doesn't depend on scale advantage. It
+                       depends on what kind of engineering setup you have, what kind of experience you have, what
+                       kind of vendor ecosystem you have. So I think based on our footprint in India, we have learned
+                       over the last few years how to look at every single line item in the BOQ and see how we can
+                       optimize the cost and the leadership of our team in terms of understanding how to look at every
+                       cost.
+
+
+                                                Page 12 of 13
+
+                                                                                                 Indus Towers Limited
+                                                                                                     October 28, 2026
+
+                       So I think that's where the -- and the engineering capabilities. So I think that is the leverage that
+                       we are using because if you look at the industry in general, across the world, Indus is one of the
+                       companies that has been rolling out the maximum over the last few years. So keeping that
+                       expertise in mind and engineering skill set that we have and the vendor ecosystem that we have,
+                       we are trying to look at how we can optimize the cost. So that is our differentiation we want to
+                       create when we are deploying towers in Africa.
+
+
+Kunal Vora:            Understood. And what's the level of difference right now? Any sense which you can throw in?
+
+
+Prachur Sah:           As I said, I think let us build some materiality in the deployment and then we'll start giving you
+                       some flavor around that.
+
+
+Kunal Vora:            Understood. Last question now. Average residual service contract period and minimum lease
+                       rental receivables is down quarter-on-quarter despite a fairly strong co-lo additions. Is the
+                       duration of the new contracts which you signed similar about 10 years or these are lower duration
+                       contracts?
+
+
+Prachur Sah:           No, I don't think there is any contract that we are signing, which is just against the standard term
+                       of the contract. I think the annuity remains 10 years, it's not lower than that. Maybe you can...
+
+
+Abhishek Maheshwari:   Yes. All new onboarding of a customer or the renewal is minimum for the 10 years, and we
+                       continue to onboard new customer at a minimum tenure of 10 years, Kunal.
+
+
+Kunal Vora:            Okay. That is clear. Thank you. That is it from me.
+
+
+Moderator:             We'll take the next question from the line of Bineet Banka from Nomura.
+
+
+Bineet Banka:          One more question I had. Any number you can share on the revenue from IBS, maybe as a
+                       percentage of total revenue will work?
+
+
+Abhishek Maheshwari:   Bineet, we generally don't share revenue for IBS separately. The count and the tenancy are
+                       broadly in line with what we have for the overall portfolio. We have not declared the IBS
+                       revenue, but it's a very small part of the overall rental revenue we have in the business.
+
+
+Moderator:             Ladies and gentlemen, that was the last question for today. I now hand the conference back to
+                       Mr. Prachur Sah for closing comments. Thank you, and over to you, sir.
+
+
+Prachur Sah:           Thanks, Michelle. The planned expansion by major customers represents structured growth
+                       opportunities for Indus Towers. We remain fully engaged with the customers to support their
+                       rollout plans. Our focus on turning Indus Towers into a technology-enabled enterprise is
+                       progressing well, and it will enhance our competitive position, customer delivery and capital
+                       efficiency. We are seeing positive results in Africa through our cost disciplined approach and
+                       are well placed to build a strong geographical presence for long-term growth. I thank you again
+                       all for joining this call, and have a good day.
+
+
+Moderator:             Thank you, sir. Thank you, members of the management. On behalf of Indus Towers, that
+                       concludes this conference. We thank you for joining us, and you may now disconnect your lines.
+                       Thank you.
+
+                                               Page 13 of 13
+

@@ -1,0 +1,843 @@
+19 November 2026
+
+National Stock Exchange of India Limited                                                          BSE Limited
+“Exchange Plaza”,                                                                                 Phiroze Jeejeebhoy Towers,
+Bandra - Kurla Complex,                                                                           Dalal Street,
+Bandra (E),                                                                                       Mumbai – 400 001
+Mumbai – 400 051
+
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 - Transcript of Earnings Call
+
+Ref: “Vodafone Idea Limited” (IDEA / 532822)
+
+Dear Sir/Madam,
+
+In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed transcript of the Earnings Call held by the
+Company on Friday, 13 November 2026 at 2:30 p.m. for the second quarter and half year
+ended 30 September 2026.
+
+
+The same is also uploaded on Company’s Website at www.myvi.in.
+
+The above is for your information and dissemination to the members.
+
+Thanking you,
+
+Yours truly,
+
+For Vodafone Idea Limited
+
+Pankaj Digitally signed
+       by Pankaj Kapdeo
+
+Kapdeo 12:55:49 +05'30'
+       Date: 2026.11.19
+
+
+Pankaj Kapdeo
+Company Secretary
+Encl: As above
+
+
+
+
+     Vodafone Idea Limited
+     An Aditya Birla Group & Vodafone partnership
+     Birla Centurion, 10th to 12th Floor, Century Mills Compound, Pandurang Budhkar Marg, Worli, Mumbai - 400030.
+     T: +91 88287 66000
+     Registered Office: Suman Tower, Plot No. 18, Sector 11, Gandhinagar - 382011, Gujarat.
+     T: +91 79667 14000 | F: +91 79 2323 2251 | CIN: L32100GJ1996PLC030976
+
+                “Vodafone Idea Limited”
+
+
+          Q2 FY27 Earnings Conference Call”
+
+
+                   November 13, 2026
+
+
+
+
+MANAGEMENT: MR. ABHIJIT KISHORE – CHIEF EXECUTIVE OFFICER –
+            VODAFONE IDEA LIMITED
+            MR. TEJAS MEHTA – CHIEF FINANCIAL OFFICER –
+            VODAFONE IDEA LIMITED
+
+
+
+
+                         Page 1 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+
+
+
+
+Moderator:                    Ladies and gentlemen, good day and welcome to Vodafone Idea Q2 FY27 Earnings Conference
+                              Call. This conference call may contain forward-looking statements about the company which
+                              are based on the beliefs, opinions, and expectations of the company as on date of this call. These
+                              statements are not the guarantees of future performance and involve risk and uncertainties that
+                              are difficult to predict.
+
+
+                              As a reminder, all participant lines will be in the listen-only mode, and there will be an
+                              opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                              during the conference call, please signal an operator by pressing star then zero on your touchtone
+                              phone. Please note that this conference is being recorded.
+
+
+                              I now hand the conference over to Chief Executive Officer of Vodafone Idea, Mr. Abhijit
+                              Kishore. Thank you, and over to you, Mr. Kishore.
+
+
+Abhijit Kishore:              Thank you, Renju.
+
+
+                              Good afternoon, and a very warm welcome to all of you. Thank you for making the time to be
+                              here today. On 12th November 2026, our Board of Directors adopted the unaudited results for
+                              the quarter ending September 30, 2026. All the results related documents are available on our
+                              website, and I hope you have had a chance to go through the same.
+
+
+                              Before I move to the developments in this quarter, I would like to welcome Manoj Murali to the
+                              leadership team as the new Chief Operating Officer. I am confident that his experience and
+                              perspective will further strengthen our leadership team as we execute on the next phase of our
+                              journey.
+
+
+                              Q2 has been a quarter of continued progress, and we are encouraged by the traction we have
+                              seen across key operating and financial parameters. Some of those highlights - we added 1.3
+                              million subscribers, ARPU grew 9.7% year-on-year to Rs 198, while revenue and Cash EBITDA
+                              grew by 6.2% and 11.2% respectively.
+
+
+                              We will talk more about these in the call today, but I want to start by reinforcing that these trends
+                              reflect continued success of our focused efforts to strengthen our network, improve customer
+                              experience and drive better monetisation.
+
+
+                              Let me now take you through the key developments on the strategic initiatives, after which I
+                              will hand over to Tejas, our CFO, who will share details of the Company's financial
+                              performance.
+
+
+                              As we had guided last quarter, FY27 is the year of execution. Our execution agenda is centered
+                              on strengthening our ability to add and retain customers through three key levers: expanding
+                              network coverage, brand reappraisal and creating differentiated product and service propositions
+
+
+
+C2 – Vodafone Idea Internal
+                                                          Page 2 of 14
+
+                                                                                               Vodafone Idea Limited
+                                                                                                  November 13, 2026
+                              that enhance customer relevance and engagement. During Q2FY27, we made meaningful
+                              progress on all three fronts.
+
+
+                              We accelerated our network investments during the quarter, and I am delighted to share that we
+                              have added nearly 9,000 new broadband towers bringing the total unique broadband tower count
+                              close to 214,000. The quarter witnessed the highest quarterly addition in tower count since we
+                              embarked on our investment journey post FY24. We remain on track to conclude our 4G network
+                              rollout by FY28 to gain coverage parity with our peers in 17 key circles. Our 5G services are
+                              now available in 400 Indian cities and towns, and our 4G population coverage has increased to
+                              88%.
+
+
+                              During the second quarter, our capex increased to Rs. 3,946 Crore, more than twice the run-
+                              rate of Q1FY27, taking our H1FY27 capex to nearly Rs. 6,000 Crore. We have also placed capex
+                              orders worth over Rs. 13,200 Crore against our three-year capex guidance of Rs. 45,000
+                              Crore. This acceleration demonstrates the robust progress we are making and our commitment
+                              to strengthening the network and delivering superior customer experience.
+
+
+                              We undertook several initiatives during the quarter to strengthen customer relevance and
+                              engagement. Our focus continues to be on customer upgrades and differentiated propositions
+                              that provide greater value. This will help us attract and retain customers, as we deepen
+                              engagement and monetise them further to support the long-term ARPU trajectory.
+
+
+                              In end of September this year, we launched an industry-first initiative by making international
+                              roaming free on our key plans across both postpaid and prepaid. International roaming has
+                              traditionally been a high-friction part of the customer journey, with customers often
+                              underestimating the hassles associated with alternate connectivity options while travelling.
+
+
+                              By integrating international roaming into our plans, we aim to remove this friction and enable
+                              our subscribers to stay connected seamlessly and securely while retaining the convenience of
+                              their Vi number. More importantly, we believe this can also expand the international roaming
+                              category by encouraging adoption among travelers who have traditionally not used roaming
+                              services and have opted for rental services with different numbers.
+
+
+                              In another industry-first initiative, we also launched India’s first prepaid family plan, enabling
+                              customers to share data among family members across country.
+
+
+                              We continued to broaden our entertainment proposition. During the quarter, we introduced the
+                              Rs. 200 Vi Movies & TV prepaid pack, offering content across 20 OTT platforms along with
+                              data benefits. We also extended Spotify Premium to select prepaid plans. We continue to
+                              improve the Vi App, including AI-driven search and simpler management of plans and services.
+
+
+                              Alongside these propositions, we unveiled our refreshed brand identity and welcomed Shah
+                              Rukh Khan as our brand ambassador. Vi's distinctive dot has moved to the top, reflecting the
+                              brand's upward momentum and its ambition to deliver a stronger network and a more rewarding
+                              customer experience. While the evolution of the logo is subtle, the symbolism behind it is
+                              powerful. More than a visual refresh, it signals the progress Vi is making as it transforms into a
+
+C2 – Vodafone Idea Internal
+                                                       Page 3 of 14
+
+                                                                                                   Vodafone Idea Limited
+                                                                                                      November 13, 2026
+                              future-ready telecom brand. Supporting this promise is Vi's AI-powered network, which is
+                              enabling smarter, more consistent experiences while strengthening trust and confidence among
+                              customers.
+
+
+                              The 'Vi pe sab hain VIP' platform brings this transformation to life through a simple and
+                              inclusive belief: every customer is important for us and deserves equal attention and equitable
+                              network      experience. We     are    encouraged     by   the   response we    have       received to
+                              these campaigns and refreshed identity.
+
+
+                              We see our enterprise segment, Vi Business, as a key growth engine. Our enterprise strategy is
+                              to   move     beyond     traditional   connectivity   towards    a   broader   portfolio    of   IoT,
+                              connectivity, cloud and intelligent digital infrastructure. We are leveraging our strong enterprise
+                              mobility position to deepen customer relationships and capture growth in IoT. We aim to
+                              serve as an end-to-end digital transformation partner for enterprises and build the nation’s digital
+                              infrastructure with hyper-scalers.
+
+
+                              Our partnership with AWS is an important step in our evolution from a connectivity provider to
+                              a broader digital transformation partner for enterprises. We are bringing together our 5G-ready
+                              network, AI capabilities and a growing ecosystem of partnerships with global technology leaders
+                              such as Cisco and Meta.
+
+
+                              Parallelly, we are also evolving our connectivity strategy towards a build-and-sell approach.
+                              Together, these capabilities will help us deepen customer engagement and contribute to the
+                              growing enterprise technology sector.
+
+
+                              During the quarter, we also launched many innovative propositions for our enterprise customers
+                              including iD+ for verified business calling to let subscribers see a verified brand name and the
+                              reason for the call before answering. Next, we launched Vi Business WhatsApp, an enterprise-
+                              grade WhatsApp solution, with AI-powered chatbots, voice calling and premier Meta
+                              support. We have also expanded capacity in our data centers and in the NLD segment to support
+                              the growing enterprise demand.
+
+
+                              Another important development during the quarter was our collaboration with Hindalco
+                              Industries. Vi Business deployed a dedicated, full-stack private network at Baphlimali Bauxite
+                              Mine in Odisha. This multi-year managed-services engagement covers spectrum, core, RAN and
+                              managed services and demonstrates the potential for private networks to enable digital
+                              transformation in industrial environments.
+
+
+                              Now, moving to the seven critical business parameters that we have consistently guided. The
+                              overall trajectory remains encouraging, with the increased investment intensity becoming visible
+                              across network coverage and experience, customer acquisition, customer engagement and
+                              financial performance.
+
+
+                              Our revenue for Q2FY27 improved by 6.2% year-on-year to Rs. 11,884 Crore and grew by 1.7%
+                              sequentially. Cash EBITDA increased by 11.2% year-on-year to Rs. 2,498 Crore, while our Cash
+                              EBITDA margin was 21.0%
+
+C2 – Vodafone Idea Internal
+                                                        Page 4 of 14
+
+                                                                                               Vodafone Idea Limited
+                                                                                                  November 13, 2026
+                              We also continued to build subscriber momentum, with our customer base increasing to 194.4
+                              million from 193.1 million in the previous quarter. Our 4G and 5G subscriber base increased to
+                              131.0 million from 127.8 million in Q2FY26.
+
+
+                              Let me provide some context on the composition of this growth.
+
+
+                              While the significant driver of the 1.3 million net subscriber addition during the quarter was
+                              M2M and postpaid segment, I am pleased to report that our sequential net subscriber churn for
+                              prepaid has reduced significantly from 1.5 million in Q1FY27 to 0.6 million this quarter. This
+                              translates into a positive swing of almost a million prepaid subscribers in a quarter.
+
+
+                              We also recorded the highest sequential postpaid subscriber growth since FY24 with subscriber
+                              base including M2M now standing at 33.9 million. We continue to see positive momentum
+                              across postpaid data, and the 4G/5G subscribers’ cohort indicating an improvement in the quality
+                              and mix of our subscriber base. While our focus continues to be on extracting the benefits of our
+                              network deployment in terms of retaining our customers, we are also conscious of the base we
+                              are acquiring.
+
+
+                              Our Customer ARPU stood at Rs. 198, representing a healthy growth of 9.7% YoY. Customer
+                              ARPU continues to improve sequentially, though the organic growth was moderated compared
+                              to prior quarters, primarily due to seasonality characteristics of the second quarter and
+                              segmental interventions deployed to support them.
+
+
+                              We expect the ARPU growth trend of previous quarters to resume from next quarter as the
+                              underlying customer engagement and premiumisation trajectory remains intact. Our customers
+                              continue to engage with us deeply with overall data usage increasing by 27.1% year-on-year to
+                              93.6 petabyte per day, compared with 73.6 petabyte per day in Q2FY26.
+
+
+                              As stated earlier, our capex trajectory and network rollout continues to progress in line with our
+                              guided roll-out pace of 3,000 to 3,500 unique 4G towers per month. Building on top of this we
+                              are also adding 5G sites supported by fiber rollout.
+
+
+                              Moving on to funding and its mobilization through capex
+
+
+                              We have secured a total funding of over Rs. 10,500 Crore till H1FY27 including warrants, fund
+                              & non-fund based facilities of which over Rs. 4,000 Crore of incremental bank funding was
+                              arranged in Q2FY27.
+
+
+                              As guided earlier, we are engaged with banks for funding across the three cohorts: a public sector
+                              bank consortium led by SBI, Indian private banks, and ECB funding through foreign banks.
+
+
+                              On the public sector bank consortium front, the process continues to progress well. While the
+                              involvement of multiple lenders has resulted in the overall process taking longer than we had
+                              earlier anticipated, we remain confident in our engagement with the consortium. Meanwhile, the
+                              incremental funding secured in H1FY27 from Indian private banks and foreign banks is
+                              sufficient to maintain our capex momentum. We continue to engage with all three cohorts to
+
+
+C2 – Vodafone Idea Internal
+                                                       Page 5 of 14
+
+                                                                                              Vodafone Idea Limited
+                                                                                                 November 13, 2026
+                              conclude the overall funding plan while ensuring that our planned network rollout continues
+                              smoothly.
+
+
+                              This quarter’s performance clearly demonstrates that our priorities remain clear: sustaining the
+                              capex momentum, building on subscriber growth and converting our differentiated propositions
+                              into stronger engagement and growth.
+
+
+                              With that, I will hand over the call to Tejas, for the financial commentary. Thank you.
+
+
+Tejas Mehta:                  Thank you, Abhijit. Good afternoon, everyone.
+
+
+                              This quarter’s performance reflects sustained execution momentum and continued progress
+                              across key operating metrics. Revenue for the quarter was Rs. 11,884 Crore, improving 6.2%
+                              YoY and 1.7% sequentially.
+
+
+                              EBITDA for the quarter was Rs. 4,981 Crore, improving by 6.3% YoY. The EBITDA margin
+                              was stable on a YoY basis at 41.9%. On a sequential basis, the margin was slightly subdued due
+                              to phasing of personnel costs and higher marketing expenses associated with brand refresh
+                              initiatives in Q2FY27. Such campaigns are a sustained effort and thus we expect the marketing
+                              cost to remain at these levels for the remainder of FY27. EBITDA for H1FY27 stood at Rs.
+                              10,015 Crore, improving 7.7% YoY.
+
+
+                              The Cash EBITDA for the quarter was Rs. 2,498 Crore, representing a YoY growth of 11.2%.
+                              The Cash EBITDA margin improved by over 95 bps to 21.0% despite the rollout of over 22,500
+                              unique broadband towers during the last twelve months and an increase in the network cost,
+                              reflecting our focus on overall cost management.
+
+
+                              Depreciation & Amortisation expenses and Net Finance costs for the quarter were Rs. 5,505
+                              Crore and Rs. 4,975 Crore respectively. Excluding the impact of Ind AS 116, the Depreciation
+                              & Amortisation expenses and Net Finance costs for the quarter were Rs. 3,894 Crore and Rs.
+                              3,684 Crore respectively.
+
+
+                              Additionally, an adverse impact of Rs. 462 Crore was recorded in exceptional items on account
+                              of due to adverse impact of mark-to-market treasury assets. which translated into a higher
+                              reported loss for the quarter. As explained previously, this remeasurement of fair value will be
+                              undertaken each quarter with the resulting impact recognised under exceptional items until the
+                              shares are liquidated.
+
+
+                              Loss adjusted for exceptional items during the quarter was marginally lower at Rs. 5,513 Cr
+                              compared to Rs. 5,562 Cr for Q2FY26.
+
+
+                              The capex for the quarter was Rs. 3,946 Crore, reflecting a material step-up in investments as
+                              guided last quarter, with the run-rate more than doubling compared to Q1FY27. This significant
+                              acceleration was achieved on the back of the incremental funding secured, together with our
+                              existing cash resources and operating cash flows.
+
+
+
+
+C2 – Vodafone Idea Internal
+                                                       Page 6 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+                              Our bank debt stood at Rs. 943 Crore as of September 30, 2026. The free cash and bank balance
+                              stood at Rs. 5,470 Crore as of September 30, 2026. As of today, our legacy bank debt has been
+                              fully repaid. The current drawdowns represent incremental funding secured by the company.
+
+
+                              I would like to highlight that, alongside more than doubling our quarterly capex, we have also
+                              paid spectrum dues of over Rs. 4,300 Crore which were due in October 2026. With this, we have
+                              paid over Rs. 6,000 Crore against approximately Rs. 7,000 Crore spectrum obligations due in
+                              FY27. Taken together, the acceleration in quarterly capex and the payment of a substantial
+                              proportion of our FY27 spectrum obligations demonstrate that our current funding mix and cash
+                              flows are enabling us to sustain network investment and meet scheduled commitments, even as
+                              we continue to progress the balance of our long-term financing plan.
+
+
+                              Before I hand over, I would like to conclude by stating that this quarter’s performance reflects
+                              continued execution across our key priorities, with sustained revenue and subscriber growth
+                              alongside a significant acceleration in network investment.
+
+
+                              With this I hand over the call back to the moderator. Thank you.
+
+
+Moderator:                    Thank you. We will now begin the question-and-answer session. The first question comes from
+                              the line of Sanjesh Jain with ICICI Securities. Please go ahead now.
+
+
+Sanjesh Jain:                 Hey, good afternoon, sir. Thanks for taking my questions. I got few of them. First, on the
+                              subscriber, now we have done a decent progress in the prepaid category where the loss has
+                              significantly reduced.
+
+
+                              My question is, how are we planning to see that we move to more sustained positive territory on
+                              the prepaid side? On the postpaid side, now that competition is inching up with priority service,
+                              converged package, converged offering, and all, how do we plan to compete in that category
+                              where our ARPU and customer quality is the highest?
+
+
+Abhijit Kishore:              Yes. Thanks, Sanjesh. Thanks for asking that question. Let me first take the prepaid part of it.
+                              The churn number on the prepaid part has been significantly reduced. There are a couple of
+                              levers that we are working on. Obviously, the prepaid part of the business works on couple of
+                              fundamentals, which starts from the network availability and the network experience.
+
+
+                              As we are rolling out the network, we are seeing its clear advantage in two folds. One, in the
+                              acquisition part of it, which has significantly increased in Q2FY27 over Q1FY27. Second is on
+                              the mobile number portability from a port-in point of view. As the customers are utilizing the
+                              services, they are finding the service to be good, and hence, they are porting into Vodafone Idea
+                              Limited. That is the second part of it.
+
+
+                              The third part of it, from a sustained growth, is also the retention part, which is a critical agenda
+                              for us. As you know, a large proportion of our customers are still not on a smartphone, and the
+                              smartphone customers are mostly using our voice-based services.
+
+
+                              This gives us an unparalleled opportunity to upgrade both these cohort of customers while
+                              retaining them at the same time. All put together, on the back of a network, the refreshed brand,
+C2 – Vodafone Idea Internal
+                                                       Page 7 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+                              the new proposition on the prepaid unlimited, and the network experience, I think prepaid is on
+                              a good trajectory, and we are confident that in the coming months the trend will be positive. So,
+                              while our net subscriber addition for the segment is still negative, you have seen the significant
+                              reduction. That trend will sustain.
+
+
+                              The second part is on the postpaid. We have always been a differentiated player as far as the
+                              postpaid business is concerned. The latest one being the International Roaming proposition for
+                              postpaid. All of that, including the Family plans and REDX, give a clear differentiation on the
+                              offering part as far as the postpaid customers are concerned. We are very confident that this is
+                              yielding result.
+
+
+                              Again, between a Q2FY27 and a Q1FY27, there has been a significant increase in the net add as
+                              far as the human postpaid is concerned. Both prepaid and postpaid subscribers, backed by
+                              network rollout, the new brand refresh, the propositions that we have launched, and the progress
+                              that we see over the last few months, we are very confident that these trends, are all sustained
+                              and moving in the right direction.
+
+
+Sanjesh Jain:                 Thanks, Abhijit. When do we expect, with this all-network effort, to finally show that non-M2M
+                              SIMs start showing decent growth for us?
+
+
+Abhijit Kishore:              Yes. Sanjesh, that's what I said. Even if you only take the non-M2M part of it and look at only,
+                              the prepaid and postpaid part of the human SIM, you still see a massive swing of more than 1
+                              million customers in the Q2 over Q1.
+
+
+                              That's a big swing and that's the reason I called it out specifically in my speech. Postpaid net
+                              addition as I have indicated earlier, is well into the positive territory. Prepaid addition is only
+                              marginally negative, and we expect to get that as a standalone into a positive territory soon.
+
+
+Sanjesh Jain:                 Do we think reducing churn could be one of the factors for us to show a better growth? Because
+                              we have a sticky churn at 4%.
+
+
+Abhijit Kishore:              Yes inQ2FY27, we've got a churn which has increased by 0.2%. But if you really look at a churn
+                              year on year over the Q2FY26, we've made an improvement of 0.5% as far as the base churn is
+                              concerned. So, we have really improved.
+
+
+                              We are also seeing, if I could qualify that the places that we are rolling out network, the churn
+                              is substantially lower than the places where we are still catching up. So yes, retention and churn
+                              are a big part of it, more important than the acquisition part of it. So, while an acquisition engine
+                              is in place, but the retention part - retaining those who are already our customers is a larger and
+                              a more critical part.
+
+
+Sanjesh Jain:                 Got it. I do not know if you want to share this data, but can you tell us from a purely human
+                              subscriber basis, how many circles we have today out of the seven critical circles where we have
+                              a positive net add?
+
+
+Abhijit Kishore:              We have 17 circles. We do not share the circle-wise data, but we have 17 key circles. As per the
+                              last TRAI report, we had 11 out of the 17 which were positive net adds. While it is positive,
+C2 – Vodafone Idea Internal
+                                                       Page 8 of 14
+
+                                                                                               Vodafone Idea Limited
+                                                                                                  November 13, 2026
+                              because of the seasonality, it kind of keeps swinging, but it is largely getting into a positive
+                              domain.
+
+
+Sanjesh Jain:                 Okay. That will be a fair representation because that also includes M2M. That is why I wanted
+                              to particularly check.
+
+
+Abhijit Kishore:              Even if you take the M2M out in the TRAI, you can still make that.
+
+
+Sanjesh Jain:                 Got it.
+
+
+Abhijit Kishore:              Thank you.
+
+
+Sanjesh Jain:                 My next question is on the ARPU side, ARPU increase or a tariff increase for next one, two
+                              quarters look little challenging. In that scenario, we are at a significantly lower than our
+                              competition on the ARPU. How do we plan to still continue to grow the ARPU in the absence
+                              of the tariff increase?
+
+
+Abhijit Kishore:              Yes. The first thing is that the tariff increase, and we have always maintained when there is a
+                              structural tariff increase which the industry needs, we are more than keen to participate in that
+                              and nothing in the transactional one.
+
+
+                              What you see as an increase in ARPU, not only in this quarter, but in the last four, five quarters,
+                              and even today, our year-on-year ARPU growth is 9.7%, which is a pretty healthy growth. The
+                              quarter two growth that you see is a little muted from our expectation as well, is more because
+                              of the seasonality. I don't think there is anything fundamentally missing in that.
+
+
+                              The other part which is very important is the opportunity that we have of upgrading from a
+                              limited data quota subscriber to an NSH subscriber, which is a Nonstop Hero, and we are doing
+                              a very strong work on that. Second is the opportunity to upgrade smartphone customer using
+                              only unlimited voice proposition to the data customer, and we see that growth to be robust.
+
+
+                              So irrespective of the tariff increase timeline because that's not in our hands alone, we are
+                              working on ARPU upgrade and premiumization across these cohorts, and not only in prepaid
+                              but also in postpaid.
+
+
+Sanjesh Jain:                 Abhijit, how much do you think is it possible organically to increase the ARPU or reduce the
+                              gap versus competition in the ARPU?
+
+
+Abhijit Kishore:              The way I look at it, Sanjesh, is that over the next few quarters, you will likely see a 10% ARPU
+                              increase. Our sense is that we will be able to maintain this momentum organically over the next
+                              few quarters as well.
+
+
+Sanjesh Jain:                 Got it. Thanks, Abhijit, for all those answers and best of luck for the coming quarters.
+
+
+Abhijit Kishore:              Thank you.
+
+
+Moderator:                    Thank you. Next question comes from the line of Vivekanand Subbaraman, Ambit Private
+                              Limited. Please go ahead.
+C2 – Vodafone Idea Internal
+                                                        Page 9 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+Vivekanand Subbaraman: Yes. Hi. Thanks for the opportunity. Couple of questions. The first one is on the revenue growth.
+                              Abhijit, I see that on the B2B side also there is considerable traction and the revenue run rate is
+                              now almost INR 15 billion per quarter.
+
+
+                              I heard your opening comments on monetizing B2B more effectively. Just trying to understand
+                              here, how much more headroom or capacity do you have to monetize this segment in terms of
+                              revenue scale?
+
+
+                              Also, if you can outline maybe some sort of a TAM which we could assess for the B2B segments
+                              that you are able to serve with your current investments. That's my first question. The second
+                              one is on the fundraising. The bank funding that you mentioned, which is the incremental
+                              funding you've secured in 1H of INR 40 billion, by when will it get operationalized in terms of
+                              hitting your bank account?
+
+
+                              I see that at the end of the September quarter, you didn't have that in your bank debt discussion,
+                              right? I mean, that INR 943 crores doesn't include this number. So, by when will you be able to
+                              utilize these funds and carry out capex?
+
+
+                              On a related note, if you can help us understand whether the total fundraise that you have, the
+                              INR 25,000 crores plus, INR 10,000 crores non-fund-based credit facilities, what will it look
+                              like? Will it be one mega loan that you will get over the next, let's say, six months or so? Or will
+                              it happen in phases, like you got INR 4,000 crores sanctioned in 1H, and maybe you will expect
+                              this to come in dribs and drabs? How to think about it? Thank you.
+
+
+Abhijit Kishore:              Yes, thanks, Vivek. Let me take the enterprise question first. You see, our enterprise strategy is
+                              really centered around how we really move from the traditional connectivity provider into an
+                              intelligent connectivity and a digital solution, like I said. Our key focus area is to strengthen the
+                              core enterprise connectivity business along with the IoT and the digital infrastructure and the
+                              managed services business.
+
+
+                              The traction that you see in the enterprise is currently at the back of the connectivity part of the
+                              business. As you heard, we have augmented our capacity to a large extent for the enterprises. Is
+                              it good enough? Obviously, we are working on it, and it is a long journey for us. But enterprise
+                              being a clear focus and a growth opportunity, a lot of our focus is moving towards the enterprise
+                              segment
+
+
+                              You will keep seeing us addressing the different initiatives we are undertaking in the coming
+                              quarters. Some of these initiatives are still underway, and we should be able to share these in the
+                              next quarter. There is a large focus on enterprise and the four verticals we have within the
+                              segment, which are IoT connectivity, digital infrastructure, and the managed services of security
+                              and cloud.
+
+
+                              From a TAM point of view, we are not a significant player as far as the non-mobility connectivity
+                              and the other part of the business are concerned. But we are a significant player as far as the IoT
+                              in certain segments is concerned.
+
+
+
+C2 – Vodafone Idea Internal
+                                                      Page 10 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+                              But the large proportion of opportunity, which is there, and probably we need to participate a
+                              little more aggressively there, is the fixed line connectivity part of the business. This is where
+                              our strategy, which used to be earlier of ‘sell and build’, has now changed to ‘build and sell’.
+                              That is where the investments are going in. So that is from the enterprise point of view.
+
+
+                              On the fundraising, while I will ask Tejas also to add to my comments, but couple of parts to
+                              what, Vivek. First is that, on this whole INR 35,000 Crore which comprises of INR25,000 Crore
+                              of funded and INR10,000 of non-funded, obviously this whole conversation is going together.
+
+
+                              But do I need the money, all of that in one go? The answer is no.
+
+
+                              That is exactly what you see, that whatever money is required to maintain the capex intensity,
+                              which is where you see that we sort doubled the capex intensity, and this intensity is going to
+                              continue over the next coming quarters as well.
+
+
+                              But at the same time, as I said, there are the three cohorts. The largest part of the cohort, which
+                              is the Indian, the public sector banks, that conversation is the large kitty. I hope that when I meet
+                              the next time, I am able to share the good news on that. But yes, that is very close to a closure.
+                              So, we will draw down as and when required. We do not need the entire INR 35,000 Crore
+                              upfront, and hence we don’t need to wait for the entire thing to tie up.
+
+
+                              That is exactly what we are doing to maintain the intensity.
+
+
+Vivekanand Subbaraman: There was another question for Tejas.
+
+
+Tejas Mehta:                  I will take that. Nothing more to add, Abhijit, on your third point.
+
+
+                              On the second question you had, Vivek, why do the loans not show up in the outstanding bank
+                              debt? So, we have also always maintained, there are two parts to our bank funding and
+                              investments.
+
+
+                              Initially, we need more non-funded facilities, and we have existing credit terms with the capex
+                              deployment as well. So, what we have deployed has largely been credit and letters of credit,
+                              which do not show up in the bank loan. The drawdowns that we have started are part of the new
+                              facility. So, what you see, almost all of it now, INR 800 plus Crores is a part of the new
+                              drawdown. This will continue to increase as we exhaust our LCs and make payments towards
+                              them.
+
+
+                              Hence, you don't see the entire loan amount that Abhijit mentioned in outstanding bank debt
+                              because it's a combination of funded and non-funded, and we utilize the non-fund-based part
+                              first, and then later we will follow it with the funded drawdowns. But you will see higher
+                              drawdown in Q3FY27.
+
+
+Vivekanand Subbaraman: Right. Got it. Thank you. Yes, it's very elaborate, the explanation. Thank you very much.
+
+
+Moderator:                    Thank you. Next question comes from the line of Balaji Subramanian with IIFL. Please go
+                              ahead.
+
+C2 – Vodafone Idea Internal
+                                                      Page 11 of 14
+
+                                                                                                 Vodafone Idea Limited
+                                                                                                    November 13, 2026
+Balaji Subramanian:           Good afternoon, all. Thanks for taking my question. I have two. The first question is on the voice
+                              and SMS-only plans that the entire industry has launched, which I believe is at INR 185 for the
+                              28-day plan, which is about 7% lower than the entry-level bundled plan that you used to offer.
+                              Considering your relatively higher 2G subscriber base, is there a risk that, do you see any
+                              negative impact on account of down trading? That is number one.
+
+
+                              The second question is on the spectrum renewals in 2026 December. I believe in a few circles
+                              like Bihar and all, you have spectrum coming up for renewal. With the auctions not happening,
+                              how should one think about Bihar and how will you continue operating in these circles on this
+                              spectrum? So those would be my two questions.
+
+
+Abhijit Kishore:              Thanks, Balaji, for asking. On the first question, yes, we have as per the TRAI mandate, we've
+                              made the changes of INR 185. At this stage, it's too early to make any assumptions, but our sense
+                              in the initial days is minimal disruption. We will continue to watch this space to observe how
+                              the consumer behaviour changes, and then we'll look at this.
+
+
+                              As we speak today, over the last at least two weeks, we have not seen any significant downgrade,
+                              and rather, we have three plans with different validity. We rather see a little bit of an upside with
+                              people migrating to a higher plan of a INR 199. So, we don't see that as a major impact at this
+                              point in time.
+
+
+                              On the second one, on the spectrum, which is due in the month of December, there are eight
+                              circles where the spectrum is due. As you rightly pointed out, the auction dates are not there, but
+                              as the normal norm is that till the time the auctions are not there, we continue. We have already
+                              represented ourselves to the Department of Telecommunications of our interest in continuing
+                              with that. So, we'll wait and watch on that, but our services are not going to be disrupted at all.
+
+
+Balaji Subramanian:           Thanks a lot, Abhijit, and all the best.
+
+
+Abhijit Kishore:              Thank you.
+
+
+Moderator:                    Thank you. The last question comes from the line of Aditya Bansal with Motilal Oswal Financial
+                              Services Limited. Please go ahead.
+
+
+Aditya Bansal:                Sure. My question is on the network opex. Some of it is sitting above EBITDA, and some of it
+                              is below. This time, it is more about the lease part of the network opex. Despite such a sharp
+                              acceleration in rollout, we are seeing a decline on a Q-o-Q basis, and this again remains low
+                              compared to the rollouts that have happened. So, what explains this?
+
+
+Abhijit Kishore:              Yes, Aditya, I will hand it over to Tejas, but I mean, I will just add a line here that our network
+                              rollout intensity is absolutely going as per plan, and that we will see an impact of that on the
+                              EBITDA as the opex will increase. But let Tejas explain it to you on the numbers.
+
+
+Tejas Mehta:                  Yes. Hi, Aditya. Thanks for the question. Just for clarity if you see the reported P&L, the network
+                              cost shows an increase. So absolute is an increase. If the question is this rate of increase similar,
+                              as we continue the rollout, of course, you will see an inflation. If you remember, so far, we have
+                              been able to manage that with our cost-saving measures.
+C2 – Vodafone Idea Internal
+                                                      Page 12 of 14
+
+                                                                                              Vodafone Idea Limited
+                                                                                                 November 13, 2026
+                              Going forward, we will absolutely continue to do that. But with the rollout, you will probably
+                              see an increase in network cost as we have seen this quarter. Just check the numbers, but we
+                              have seen an INR 99 Crores increase quarter-on-quarter in the network cost line.
+
+
+Aditya Bansal:                My question was on the below EBITDA, the difference between reported and the pre-EBITDA.
+                              So that part has gone down on a Q-o-Q basis.
+
+
+Tejas Mehta:                  Okay, we can do that offline, but even if you calculate on a cash EBITDA level, also the network
+                              cost has gone up. So, we can do a calculation offline with you and explain, but there is no
+                              decrease of network cost, whether we do it at a cash EBITDA or reported EBITDA level.
+
+
+Aditya Bansal:                Sure. Just continuing on that voice-only plan, given the kind of subscriber mix that we have, do
+                              you believe this premiumization you mentioned that should pick up from Q3, the
+                              premiumization benefits should outweigh this voice-only plan, any drag that is there? Any
+                              quantification you can give, like how should we look at the near-term ARPU? Obviously, tariff
+                              hike remains to be seen. But near term, would you see this as a drag, or the premiumization
+                              should be able to outdo this?
+
+
+Abhijit Kishore:              Yes, I mean, see, we would distinguish between optimizing specific entry-level packs and the
+                              broader opportunity for the ARPU improvement. The premiumization journey, to my mind, is a
+                              broader one than a particular specific price point.
+
+
+                              On a voice-only plan, like I said, we had a INR 179, we had a INR189, and we had a INR 199
+                              plan. Now there's a new price plan which is at INR 185, which is a voice only.
+
+
+                              Traditionally, the fear was that a INR 199 guy might downgrade, but that's what I was telling
+                              Vivekanand as well, that we've not really, or Balaji, sorry, that we have not really seen a
+                              downward trend right now. Rather, the INR 179 guy is migrating. We are putting in all effort to
+                              migrate the guys to the INR 185 plan.
+
+
+                              Probably in Q3, when a month or two has passed, we'll be in a better position to assess that. But
+                              initial results are not concerning at all.
+
+
+Aditya Bansal:                Sure. Thanks a lot, and all the best.
+
+
+Moderator:                    Thank you. Ladies and gentlemen, that was the last question for today. We have reached the end
+                              of question-and-answer session. I now hand the conference over to Mr. Abhijit Kishore for
+                              closing comments.
+
+
+Abhijit Kishore:              Thanks, Renju. To conclude, Q2FY27 has been another quarter of progress for us. We are
+                              encouraged by the continued improvement in our subscriber trajectory, growth in the ARPU and
+                              revenue. Our cash EBITDA also reflects the improving quality of our operating performance.
+                              The accelerated pace of investment and network expansion this quarter signals that we are
+                              entering the next phase of execution with the intent to sustain this intensity in the coming
+                              quarters.
+
+
+
+
+C2 – Vodafone Idea Internal
+                                                       Page 13 of 14
+
+                                                                                           Vodafone Idea Limited
+                                                                                              November 13, 2026
+                              Going forward, our priorities remain clear: sustaining network investment, building on
+                              improving subscriber trend, and translating our differentiated proposition into customer
+                              engagement. We remain confident in our strategy and focus on execution. Thank you for joining
+                              in, and we meet again in the next quarter.
+
+
+Moderator:                    Thank you. On behalf of Vodafone Idea, that concludes this conference. Thank you for joining
+                              us. You may now disconnect your lines.
+
+
+
+
+C2 – Vodafone Idea Internal
+                                                     Page 14 of 14
+

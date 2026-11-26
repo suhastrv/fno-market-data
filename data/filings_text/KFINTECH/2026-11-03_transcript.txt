@@ -1,0 +1,1150 @@
+November 03, 2026                                                            CS&G/STX/DQ2026/14
+
+1) National Stock Exchange of India Limited               2) BSE Limited
+   Exchange Plaza, C-1, Block G,                             Phiroze Jeejeebhoy Towers,
+   Bandra Kurla Complex, Bandra (E),                         Dalal Street,
+   Mumbai – 400 051                                          Mumbai – 400 001
+   Scrip Symbol: KFINTECH                                     Scrip Code: 543720
+
+ Sub.     :   Transcript of Earnings Conference Call
+ Ref.     :   Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+              and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)
+
+
+ Dear Sir / Madam,
+
+ Further to our previous intimation bearing reference no. CS&G/STX/DQ2026/02 dated October 07,
+ 2026, pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please
+ find enclosed herewith the transcript of the Earnings Conference Call held on October 27, 2026, in
+ respect of the standalone and consolidated unaudited financial results of the Company for the quarter
+ and half year ended September 30, 2026.
+
+ The transcript can also be accessed on the Company’s website at the following link:
+
+ Financials and Presentations – Investor Support
+
+ This is for your information and records.
+
+ Thanking you,
+
+ Yours faithfully,
+
+ For KFin Technologies Limited
+ ALPANA Digitally
+        by ALPANA
+                  signed
+
+ UTTAM Date: 2026.11.03
+        UTTAM    KUNDU
+
+ KUNDU 18:30:58 +05'30'
+ Alpana Kundu
+ Company Secretary and Compliance Officer
+ ICSI Membership No.: F10191
+
+ Encl.: a/a
+
+   “KFin Technologies Limited Q2 FY '27 Earnings
+                 Conference Call”
+
+                   October 27, 2026
+
+
+
+
+MANAGEMENT: MR. SREEKANTH NADELLA – MANAGING DIRECTOR &
+            CHIEF EXECUTIVE OFFICER, KFIN TECHNOLOGIES
+            LIMITED
+            MR. VIVEK MATHUR – WHOLE-TIME DIRECTOR &
+            CFO, KFIN TECHNOLOGIES LIMITED
+            MR. RAM GATTANI – HEAD - INVESTOR RELATIONS,
+            KFIN TECHNOLOGIES LIMITED
+MODERATOR: MR. DEVESH AGARWAL – IIFL CAPITAL SERVICES
+            LIMITED
+
+
+                       Page 1 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+Moderator:           Ladies and gentlemen, good day and welcome to KFin Technologies Limited Q2 and FY '27
+                     Earnings Conference Call, hosted by IIFL Capital Services Limited.
+
+
+                     As a reminder, all participant lines will be in the listen-only mode, and there will be an
+                     opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                     during the conference call, please signal an operator by pressing “*” then “0” on your touchtone
+                     phone. Please note that this conference is being recorded.
+
+
+                     I now hand the conference over to Mr. Devesh Agarwal from IIFL Capital Services Limited.
+                     Thank you, and over to you, sir.
+
+
+Devesh Agarwal:      Thank you, Shaurya. Good morning, everyone, and welcome to the Q2 FY '27 Earnings Call of
+                     KFin Technologies Limited.
+
+
+                     Today from the company, we have with us Mr. Sreekanth Nadella – MD and CEO, Mr. Vivek
+                     Mathur – CFO, and Mr. Ram Gattani – Head of Investor Relations.
+
+
+                     I will now hand over the call to Sreekanth for his opening remarks and thereafter open the floor
+                     for Q&A session. Thank you, and over to you, Sreekanth.
+
+
+Sreekanth Nadella:   Thank you, Devesh. Very good morning and good evening if you are dialing in from outside of
+                     India and a very warm welcome.
+
+
+                     Well, I will bring to you yet another quarter of a certain sense of consistency. As the saying goes,
+                     patience, consistency, and hard work. I think that's pretty much the need of the hour. That's pretty
+                     much what sets organizations that have a long-term vision to stay dogged at it and to ensure that
+                     we deliver to the promises we make.
+
+
+                     As your organization continues to make strident steps in the forward direction, our market share
+                     expansion, our growth in terms of our client wins, and steadfast focus on innovation-driven
+                     productivity, not arbitrarily, not based on the vagaries of the market, but in a scientific and a
+                     clinical fashion of driving technology-driven productivity is pretty much the sum and substance
+                     of what we could do in the previous quarter. And we will continue to stay on course in terms of
+                     making sure that it is, we deliver quantitative and qualitative results over a period of time.
+
+
+                     From a glance, overall, if you see where KFin Tech stands today, by and large, many of the
+                     metrics that we typically speak to you are in the similar range in terms of we continue to be the
+                     largest registrar and transfer agent in India and among the largest in the world in terms of the
+                     number of human beings we service, whether it is in India or abroad. Between the capital
+                     markets, the securities market and the mutual funds, it has now crossed over 12.5 crores in India
+                     and roughly about 75 lakhs outside of India. So, that makes us probably one of the largest, maybe
+                     ex-China.
+
+
+
+
+                                           Page 2 of 20
+
+                                                                  KFin Technologies Limited
+                                                                          October 27, 2026
+
+In terms of our growth on the individual business lines, very heartening to see and hear and tell
+you that nearly every business line we have grown, albeit in an extremely challenging
+environment in the form of macros, whether it is our win rates in the form of new client
+mandates, whether it is mutual funds, whether it is issuer solutions, alternatives, international so
+on and so forth, had been one of the most striking features of this quarter. AUM growth and
+revenue growth in an environment where the markets have been significantly down, but
+obviously hints at the direction of net new wins. And hopefully, in time to come, when the
+markets do recover, we should have a compounding effect of significantly additional clientele
+and volumes than with some help of market-to-market again that we may get.
+
+
+In terms of our market share in issuer solutions had been one of the big turnaround over the last
+18 months, even excluding Jio Platforms IPO, which is happening real time as we speak. And
+we have completed the entire activity 12 hours ahead, considering it is the world's largest IPO.
+One, we are extremely honored and privileged to have been chosen as the RTA. Two, to have
+delivered significantly beyond much of the expectations in terms of the timelines and including
+the allotment statuses that the investors are checking where the latency time has been less than
+40 milliseconds.
+
+
+Now, that obviously is going to be for the upcoming quarter, but by and large, I am very happy
+with the progress we've made in terms of the wins in the case of issuer solutions. Same is the
+case with our international. We have added 18 new clients, which are in the transition and they
+are expected to go live into the coming quarter to two, depending upon the transition timelines,
+which will then go on to add, hopefully, additional AUM and consequent revenue soon after
+that.
+
+
+Our acquisition of Ascent and its integration is one of the most strategically important initiatives
+that we have embarked on. Happy to inform you that we continue to grow the business again,
+against an extremely challenging macro, especially given that 25% of our revenues come from
+the Middle East for Ascent and given the situation that one would have imagined, maybe the
+growth could have been tepid.
+
+
+But again, thanks to some really wonderful work by the business development teams. In each of
+the operating geographies, we continue to grow 30% plus on Ascent. And again, with a
+committed focus on cost optimization, the margin profile continues to expand. We hope to hit
+double-digit EBITDA numbers in the next couple of quarters or so.
+
+
+Pensions too, entire of last year, we grew 3x of the pace of the industry. Industry grew at about
+12. KFin grew at 36. This year, we have grown faster than that, I think 42% as against similar
+12% to 13% growth of the industry. So, again, it is a long haul when it comes to pensions, it
+tends to compound. But not only have we broken even about three quarters back, growth
+continues to be significantly higher than that of the industry.
+
+
+
+
+                      Page 3 of 20
+
+                                                                 KFin Technologies Limited
+                                                                         October 27, 2026
+
+Now, all of this gives us a fairly well-rounded growth across business lines. And again, product
+transformation driven productivity gains and new feature rollout has been one of the most
+important focus areas that we have had. The overall AUM for KFin Tech clients this quarter had
+grown at 15%, whereas industry grew at 13%. So, that is very heartening.
+
+
+Now, it is also, however, true that the share of the passives for our clients seem to be on the
+higher side as compared to that of industry. And so again, some of these dispositions tend to
+change. And if it were to come back towards more actively focused, again, that would be
+something that will add additional revenue bump up into the coming quarters and years.
+
+
+Overall market share has grown in the last two quarters for KFin Tech in the form of overall
+moving beyond 33% and the equity inching close to 33% as well. Our market share on the SIPs,
+which I continue to believe is the bellwether in terms of where long-term averages could be at,
+continues to be close to about 37%, which means that there is a 100 basis points of bridge that I
+expect to happen in order to build over the next three to five years, as the SIP is a sticky retail
+book, and the overall AUM tend to gravitate and precipitate towards the overall market share on
+the SIPs.
+
+
+We have launched a couple of very important platforms in the mutual fund space. Aria.AI is
+India's and probably world's first generative AI intelligence platform, not just for purchase and
+redemption and commercial transactions, but also for all non-commercial transactions, which
+means that you can literally speak to your phone and then ask your agent to change your bank
+account, add a bunch of nominees, buy and sell a bunch of things, all of this through natural
+language processing and just talking to the application. And the beta stage has gone live and we
+are doing a public launch into the later part of this month.
+
+
+Now, that marks the first of the consumer facing AI tech rollout by KFin Tech even as there are
+several inward-looking AI transformational solutions we have implemented, which were
+principally one of the important reasons for the margin expansion. If you saw the overall margin
+moving from about 34% to 40% thereabout on EBITDA profile, part of that is the scale benefits
+in the form of our international business and part of it is productivity again driven through large
+scale RPA and AI native solutions.
+
+
+These are in early stage in terms of implementation. There are several more, as I have called out
+in the previous quarters too. Nearly every business line and the underlying platform in our
+organization is under massive rework and rebuild given many of these are a couple of decades
+old.
+
+
+So, we will be live with the issuer solutions, pensions, and wealth in the next three months. So,
+by January we should have gone live with many of these next generation AI native, cloud native
+platforms, which should help us with significant faster go-to-market and productivity as well.
+
+
+
+
+                      Page 4 of 20
+
+                                                                  KFin Technologies Limited
+                                                                          October 27, 2026
+
+For mutual funds, it is a little bit more challenging and much more complex given the size and
+scale of it, but we have already deployed about 30% to 35% of the total use case and have seen
+some benefits associated with that. Again, by end of Q4 this fiscal year, we would have rolled
+out nearly all of the transformational platforms that we have been working on.
+
+
+Our growth on issuer solutions I have already called out. We continue to have a significant
+market share expansion on the IPOs and especially the large ones. Nearly all the largest IPOs
+have been orchestrated by KFin Tech in terms of both volumes and value. And there are several
+more in the pipeline, which I guess should the prevailing market conditions improve, should see
+a tangible progress from there.
+
+
+We have been at the forefront in terms of expansion in the GIFT City because it falls right in the
+alley of our international business. And again, happy to inform you that our market share, there
+have been, you know, we are currently the single largest provider for solutions for GIFT City
+funds, in addition to several digital solutions that we have been working on.
+
+
+I will just add a little bit of color in terms of our international pipeline. The pipeline itself
+currently stands at roughly US$47 million dollars. Now, that used to be roughly around 20
+million about 12 months back. Now it speaks about increasing a pipeline of several new deals
+where the deal size is substantially larger than a typical GFS deal that we have seen thus far.
+
+
+There are at least six deals which are over four to five million dollars in the total contract value.
+Some of them are in advanced stages. Some of them are progressing in that direction. We have
+had several successful RFP and client presentations in our operating geographies in the last three
+to four weeks. Again, we have been downselected to the final two in many of those. And in time
+to come, hopefully, there will be closure on some of those.
+
+
+One of the earlier projects on the Philippines-based pension that I have kind of called out, there
+may be questions around that. So, that deal is still under works. It neither has been awarded nor
+has been cancelled. It is something that we are discussing with the local authorities in terms of
+the next steps. And I am still very confident that we should be able to turn it around in the coming
+few weeks or so.
+
+
+Overall, in terms of the productivity gains, our total count in terms of the headcount has come
+down to a certain extent, but we have used that opportunity to scale up our faster growing
+businesses, given the number of net new clients addition had been substantial, whether it is
+wealth or whether it is alternatives, whether it is pension, so on and so forth, which are still
+subscale in order to from the standpoint of driving significant operating leverage.
+
+
+We have from a pure transformation and AI-led platform rollout into the coming weeks and
+months, we should be seeing an immediate rollout of the Aria.AI 2.0. As I said, that is one of
+the most important ones, followed by our platform rollout of FinEx, which is for mutual funds.
+And the GFS, that is the International Business Replatforming is something that is on the way
+
+
+
+
+                      Page 5 of 20
+
+                                                                                  KFin Technologies Limited
+                                                                                          October 27, 2026
+
+                as well, something that we believe will add substantial might in terms of our progress towards
+                winning new deals elsewhere in the world.
+
+
+                Our total share of the international business now is 20%. And I think I called out mutual funds
+                share of revenue purely from the standpoint of AUM driven revenue is just under 52%. I expect
+                this number to get to 50% into the next two to three quarters, which in some sense had been an
+                internal target to get that far over a five-year period. But I have to inform you that we are getting
+                there in under three years.
+
+
+                We would also be working on obviously expanding the total pie so that the concentration risk of
+                any one single client does not go beyond 2.5% to 3%. And that is also something that I believe
+                could be accomplished in the next probably about six quarters, if not earlier. So, that is probably
+                the update at my end into the coming quarter.
+
+
+                We foresee some headwinds, obviously, given the way the markets have been the past 10-odd
+                days. But as I said, our growth, we are not necessarily hoping and praying for the markets to turn
+                around, but do everything that we can do to close the contraction conversions real quick, focus
+                on productivity so that our margin commitments remain sacrosanct.
+
+
+                And so far, this quarter gives us a lot of heart that strategy had been on the right path. And even
+                as I look at our upcoming forecast for this quarter and the subsequent quarter, despite the
+                headwinds, I am still confident that we do not have to change any of the estimates at this point
+                in time, unless there is a continual protracted downturn from here on as well.
+
+
+                So, we have enough buffers to cushion any kind of a blow like this tactical market correction
+                over the last 10 days. But of course, anything that persists significantly longer, given our capital
+                markets will impact. But at this point in time, we continue to stick with our estimates.
+
+
+                I will now request Vivek to cover the financials, and then we will leave the floor open for
+                questions.
+
+
+Vivek Mathur:   Thank you, Sreekanth. On the financial performance, the revenue from operations has gone up
+                sequentially, including Ascent by 30%. And excluding Ascent, it has gone up by 10%. Expenses
+                were pretty much controlled in terms of the cost optimization initiative. Sequentially, expenses
+                have gone up only by 3% quarter-on-quarter, while the revenue quarter-on-quarter went up by
+                about 13%. And we believe that this will continue to play out in Q3 and Q4 as well.
+
+
+                As a result of that, the EBITDA improved by about sequential basis about 18.7% against last
+                year, same quarter 32% growth. Half year ended FY '27, there is a 13.4% growth year-on-year
+                for the half year. EBITDA margins for Q2, excluding Ascent were 45.8%, and including Ascent
+                were 40%. That is the aim that we are targeting that we will end the year including Ascent with
+                a consolidated EBITDA margin of 40%. And that is where it gets demonstrated from Q2
+                onwards. So, there is integration of Ascent in Q2, but also the margins are maintained at the
+                guidance level.
+
+
+                                      Page 6 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+                     PAT has touched Rs. 100 crores for the quarter and has gone up by 7.5% year-on-year, 33% as
+                     compared to the same quarter last year. For the half year, it is about 3% growth year-on-year.
+                     PAT margins have improved in Q2, including Ascent at 25% and excluding Ascent at little more
+                     than 30%.
+
+
+                     For H1 FY '27, consolidated margins are at 23%, including Ascent. We maintain healthy cash
+                     and equivalent situation of about Rs. 550 crores after the dividend was paid out. And the diluted
+                     EPS at the end of H1 stands at Rs. 10.12. Happy to take questions now.
+
+
+Moderator:           Thank you very much. We will now begin with the question-and-answer session. The first
+                     question is from the line of Karthik Chellappa from Indus Capital Advisors Limited. Please go
+                     ahead.
+
+
+Karthik Chellappa:   Just three quick questions from my side. The first question is, we have seen the domestic MF
+                     yields, this business stabilizes and probably even grow a bit sequentially. How much of this is
+                     coming from mix and how much of this is basically any other factor? And can we reasonably
+                     conclude that from here on, the yields will more or less stabilize sequentially? That is my first
+                     question.
+
+
+                     The second one is on the issuer solutions, we have seen a very good quarter this quarter, both on
+                     margins as well as growth. Given the visibility you have on pipeline, can we extrapolate this
+                     resilience to the rest of the year as well?
+
+
+                     And my third question is, in the beginning of the year, our aspiration was to grow our earnings
+                     in low double digit. And it's heartening to see that Sreekanth, you actually reiterated that that is
+                     pretty much on track. You also mentioned you have some buffers in case if capital markets were
+                     to turn for the worst. What would some of those buffers be, if you could give us some additional
+                     color?
+
+
+Sreekanth Nadella:   Thanks, Karthik. Always great to hear from you. So, I will take the first one in terms of the yield
+                     and it is in a marginal expansion, roughly about 2% sequentially. As I always say, there are three
+                     important factors. If I were to put a weightage, the weightage may change depending upon
+                     quarters and times of the year. But roughly about half of the reason in terms of the instability or
+                     otherwise is owing to the pricing discipline, and about 30-odd percent more than maybe even a
+                     little more than that towards which particular asset manager is growing. And the third one, of
+                     course, is the asset mix itself.
+
+
+                     Depending upon which of these three levers work in favor, against, or neutralize each other is
+                     usually how the yield moves. The quarter that had gone by in some sense has had all of the three
+                     positive effects in the sense that obviously the pricing discipline was maintained. As we have
+                     confirmed in the previous year, those contracts have been closed and negotiated, and hence,
+                     there is a consistency on the pricing.
+
+
+
+
+                                            Page 7 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+                     But definitely, we had positive tailwinds in the form of both asset mix as well as in the form of
+                     the AMC's growth as to which AMC has grown depending upon the size and scale. As we all
+                     know, there are differentiated rates. So, will it remain similar into the coming quarters? On the
+                     pricing front, yes.
+
+
+                     But of course, on the asset class mix and the AMC mix, as we all know, it is how the
+                     manufacturers grow as against what we grow. So, given there is no substantive reason for
+                     anything to change at this point in time, in the sense that we had a improvement in the form of
+                     metal ETFs may be getting way too active and that was the reason why the asset class mix and
+                     younger, faster growing AMCs growing, continuing to grow faster.
+
+
+                     Six out of the 10 fastest growing AMCs are currently with KFin. And that obviously has been
+                     having a little bit of positive help. Now, it can even get better into the coming quarter if
+                     depending upon which AMCs grow. But I do believe that given we are already in near end of
+                     October and we have some visibility into the last 20 days of October that has gone by, I believe
+                     that yields will remain largely consistent.
+
+
+                     On the issuer solutions, I think, we are looking at a 20% total year-on-year growth. And again,
+                     with a little bit of luck from the market and depending upon how some of the other larger IPOs
+                     are also around the corner, including the Jio one, of course, I believe that we should get to a 20%
+                     plus top-end growth, which means that, by and large, we can assume that our current numbers
+                     can be accomplished in the coming quarters as well.
+
+
+                     And that then leaves us with the third question, which is in the form of the buffers. The buffers
+                     are, these are basically a couple of items. One, in terms of the discretionary versus the non-
+                     discretionary spend, as I have always maintained, there is a certain element of our expenditure,
+                     which is something that we will incur if and only if our financials permit.
+
+
+                     Now, these are obviously for the future benefit. So, transformational items, discretionary IT
+                     projects, discretionary automation, discretionary expansion of probably a particular geography,
+                     which we have planned for so on and so forth, or even launch of certain products, which cost
+                     certain amount of business development dollars.
+
+
+                     So, if we see an ongoing market downturn, those are the things that, from a leverage standpoint,
+                     we will pull so that it will release some amount of additional expenditure that we may have
+                     budgeted into the next five months, which we will not incur. And that is what I am referring to,
+                     Karthik. And should we get that far, then definitely we will probably withhold or at least
+                     prioritize the most important ones and still do it and probably defer some of those into the coming
+                     quarters, at which point in time, should the markets permit, we will then spend that money.
+
+
+Karthik Chellappa:   Excellent. Thank you for the detailed responses. Wish the team all the very best for the rest of
+                     the year. I will come back in the queue for more questions, if any.
+
+
+Moderator:           The next question is from the line of Sanil from Dymon Asia Capital Limited. Please go ahead.
+
+
+                                           Page 8 of 20
+
+                                                                                        KFin Technologies Limited
+                                                                                                October 27, 2026
+
+Sanil:               I have two questions. So, firstly, sir, if I look at your presentation, this quarter, we are seeing a
+                     good increase in your value-added services revenue. So, as a percentage also, it has increased.
+                     Now, how do we look at this? Is it seasonal or what has driven this growth?
+
+
+                     And secondly, this value-added services is majorly related to the mutual fund business or where
+                     does this lie in the revenue breakup, if you can give me some clarity about this revenue?
+
+
+Sreekanth Nadella:   I think I should answer the second question first, so that it is easier for the first one. So, the VAS
+                     is not just mutual fund alone. It is both issuer solutions and mutual funds. And Q2, typically,
+                     you will see a rather large spike in the value-added solutions because included in the VAS for
+                     the issuer solutions is our entire platform-based revenue solutioning around EAGMs, e-votings,
+                     and any large corporate, not the regular corporate actions like dividend declarations and
+                     buybacks, but there are other items where our platforms and solutions are used, including insider
+                     trading platforms on and so forth.
+
+
+                     So, Q2 typically is also a good quarter in terms of VAS. So, that is what you have seen given
+                     the issuer solutions related many of these annual general meetings etc., happening to the second
+                     quarter. That said, in spite and in spite of it, it is also a good show in terms of the overall revenue
+                     pool itself. It is now 7.5% of the total revenue of the organization.
+
+
+                     Again, I remember probably three or four quarters back talking about one of the other internal
+                     goals, sub-goals we have is to get the value-added solutions to double-digit figure in the next
+                     three to four quarters. We are working in that direction. Again, it is very important for us to look
+                     at such avenues of revenue because they do not depend on the vagaries of the market, but adds
+                     a certain amount of predictability and consistency in our revenue earnings and the quality as
+                     well.
+
+
+Sanil:               That was helpful. So, just circling back, the increase which we see on a quarter-on-quarter basis,
+                     the major increase would be driven by the issuer solution at a quarter-on-quarter level.
+
+
+Sreekanth Nadella:   That's correct.
+
+
+Sanil:               Is that the correct understanding? Okay. Yes, that is helpful. That is helpful. And secondly, if I
+                     look at your Ascent business, so, as you know, in your opening remark also you said there are a
+                     lot of headwinds in the Middle East where 25% of the revenue is coming.
+
+
+                     So, if I look at the PPT disclosure this quarter, if you see, there are no new client additions. So,
+                     is it mainly because of the Middle East issue? And how are you tackling it? Because if this war
+                     continues for, let's say, next six months or a year, how are we looking at Ascent as a business?
+                     What are the strategies we have for this macro event?
+
+
+Sreekanth Nadella:   Yes, so we model in worst-case scenarios and obviously have calibrated and purposeful
+                     responses for each one of them. And one of that was obviously to look at geographies which are
+
+
+
+
+                                            Page 9 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+                     rather unperturbed by such events and drive growth in those areas. Not to say that we should be
+                     pushing, we should be putting some of the stress geographies on the sidelines.
+
+
+                     But obviously, all we can do in that scenario is just keep the client conversations live and warm
+                     and continue to solution, continue to engage. And as and when things turn around, it will and
+                     had traditionally been positioning us in the right way then to go on to win deals.
+
+
+                     Now, what have we done to combat given large presence in over 18 geographies? It is quite
+                     possible there are always some local events that happen, whether it is the market movements or
+                     local politics or anything at all. And that offers the risk diversification. So, if you saw the last
+                     quarter, especially in the U.S., we have one pretty large number of deals. We went about five
+                     deals and two of them are reasonably larger up north of or rather close to half a million plus.
+                     And as the numbers, as the deal sizes of some of these funds increase, so will the intent of several
+                     medium and large fund managers as well.
+
+
+                     So, what you have seen is, in spite and despite of the challenging times, even in Middle East
+                     also, we have seen growth, but we could have grown more, if not for the situation, but it got
+                     largely overcompensated by much faster growth in the Americas, as well as in Singapore.
+
+
+Sanil:               That was it. But just lastly, why was the client addition in a way flat this quarter? Was it any
+                     reason for that? Are they in pipeline or how do we look at that?
+
+
+Sreekanth Nadella:   So, that metric is not the number of deals we have already won which are yet to launch. What's
+                     happening is that given a sense core business is largely on the alternate investment funds and in
+                     many of the geographies, again, whether it is AI trade or a whole bunch of things, a lot of fund
+                     managers have held back in terms of launching their funds. But we have, even today, a little
+                     around 80 plus funds, 80 or 90 funds, which have been already contracted, but the fund manager
+                     is yet to launch and or is expected to launch in the coming weeks or a month or so. So, that is
+                     pretty much it.
+
+
+                     There is nothing untoward in, if anything, the repeat business from the same clients who are
+                     launching new funds or their referrals to many of their network in terms of the new fund
+                     managers who are coming, that had been on the steady rise. Our net retention rate had been
+                     higher than ever before.
+
+
+                     So, by and large, we are very satisfied with the growth. And typically, Q3, Q4 tends to be or the
+                     H2 tends to be a better season for Ascent, as you might have seen into the last couple of years
+                     as well. So, we are waiting for probably a better set of results in the coming few quarters.
+
+
+Sanil:               It was very helpful.
+
+
+Moderator:           The next question is from the line of Swarnabh Mukherjee from 360 One Capital Market Private
+                     Limited. Please go ahead.
+
+
+
+
+                                            Page 10 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+Swarnabh Mukherjee:   Sir, I have questions on Ascent business in terms of the cost. So, when I look at our consolidated
+                      cost structure, I think even at an employee expense level, the delta is coming from Ascent.
+
+
+                      Given that, I think the expectation was that Ascent should now gradually start to see ramp up in
+                      margin, just wanted to understand why at the employee cost level, this cost is continuing to
+                      increase. And given that margin, at least from the data that we have in hand, it appears that
+                      margins have been reasonably flattish quarter-on-quarter. So, how should we think about the
+                      trajectory of margin for Ascent over the next two, three years, if you could give some color on
+                      it? That is the first question.
+
+
+                      And secondly, I also wanted to understand, as you mentioned that you are expecting to maintain
+                      a similar run rate in the issuer solutions business in the subsequent quarters. So, if you could
+                      give some color on what would be the share of folio-based revenue this particular quarter and
+                      corporate action driven revenue this quarter?
+
+
+                      Because if I understand correctly, I think there is a seasonality in corporate action revenue and
+                      the folio-based revenue is dependent on the IPO pipeline and at what time it flows through. So,
+                      just wanted to understand that how should we expect that, there could be some visibility for third
+                      quarters, but then in the subsequent quarter, how should we expect this to happen? These will
+                      be my two points.
+
+
+Sreekanth Nadella:    So, there are two ways to look at Ascent, right? One, it is a five-year-old organization, okay,
+                      founded by young entrepreneurs, who also had a similar vision as KFin Tech does, which is to
+                      create a large global fund administrator and be in that $40 billion addressable market time space.
+                      And there are very few or no one who have done from this part of the world and hope and hence,
+                      together we can join our hands to grow this business over a period of time into that space.
+
+
+                      Now, they specialize on one specific asset class, which is largely private mandates, okay? That
+                      includes AIFs, PMSs, private equity, hedge funds, venture capital, digital currency funds, so on
+                      and so forth, which are largely non-public like mutual funds and pensions and insurance, so on
+                      and so forth.
+
+
+                      Now, the disposition of that business, by and large, as you have seen, even with KFin Tech’s
+                      own AIF business, it is small mandates and several of them. I have 30 mutual fund clients and
+                      you could see the revenues are closer to $100 million, and we have 758 alternate investment
+                      funds and yet the revenues are very small.
+
+
+                      So, that kind of a nature of work requires a certain amount of scale, which is more than what we
+                      have, by the way. It may look like having 1,000-odd clients for us and having another 2,000 odd-
+                      clients.
+
+
+                      Overall, including Ascent is a very large number, but you would be surprised with the amount
+                      of bespokeness that exists in alternate investments in general. And for us to be able to draw
+
+
+
+
+                                            Page 11 of 20
+
+                                                                 KFin Technologies Limited
+                                                                         October 27, 2026
+
+synergies and drive operating leverage, we need to horizontalize the business processes.
+Otherwise, it tends to be one-to-one relationship, that is client-server kind of a relationship.
+
+
+Now, that does not render itself to significant operating leverage at a certain base. But as the
+scale increases, the operating leverage tends to be much, much larger. And given much of what
+we also deal with are public market funds, and given there had been no mark-to-market gains at
+all in most of the operating geographies, the overall AUM continued to be a little tepid.
+
+
+And in that context, so combination of both operating leverage to be at a much larger scale to
+kick in and the fact that there have been absolutely no AUM growth because of the mark-to-
+market is one of the reasons why and what it is.
+
+
+But if you see the overall Ascent specific cost optimization, and hence where the productivity
+stands, yes, the overall EBITDA margin had been similar to that of last quarter. And last quarter,
+it was around 7%-7.5%. This quarter, it is around 8%. But last year, this time, it was minus 12%,
+right. And for us, we have to look at such optimizations in a purposeful manner, where we have
+to drive in a methodical manner, rather than just taking arbitrary decisions around it, which will
+be counterproductive for a fast-growing company.
+
+
+For a fast-growing company, what it needs is capital, what it needs is flexibility, what it needs
+is SG&A spend so that we capitalize on all the markets we have started, having spent money
+and this is a certain amount of intangible assets sitting on the CAPEX at this point in time. No
+point in building geographies and tying the local CEOs down without the necessary support,
+which is largely a SG&A site to grow.
+
+
+So, in spite and despite of that, for us, this is nearly minus 10%, minus 12% to plus 8% in about
+four quarters. And as I have already given in my commentary, we are looking at getting into
+double digits as well sooner than expected. So, this acquisition, again, by no means is going to
+get to KFin margin levels in the next three or four quarters. It is a very different business, but a
+business that has significantly long-term compounding gains.
+
+
+As per our base case, we will touch double digits, and we are looking at about 20% plus
+thereabouts into the next fiscal year. And the next two years after that, we will work towards
+getting it somewhere closer to KFin's overall margins, by which time both the things would have
+fallen in place, hopefully, that is the scale and the transformation we are doing, which is largely
+around the re-platforming of the current solution they have with KFin's proprietary platform, in
+addition to having horizontalized many of the business processes.
+
+
+So, that is broadly the Ascent story. So, the overall, when you add the overall cost of Ascent,
+obviously, this is a full YTD, and hence the first two quarters where they were loss-making to
+that extent, obviously, the cost addition was probably looking to be higher than the revenue
+addition.
+
+
+
+
+                     Page 12 of 20
+
+                                                                                       KFin Technologies Limited
+                                                                                               October 27, 2026
+
+                      But even if you look at standalone Ascent numbers, the overall EBITDA has run positive. The
+                      overall gap from turning cash positive is roughly about Rs. 3.5 crores to Rs. 4 crore, which isn't
+                      substantial and something that we should be able to turn EPS positive as well to the coming
+                      quarters.
+
+
+                      On the issuer solutions, what I had called out was that we should look at our overall Y2 year-
+                      on-year numbers to about 20% and so on. This quarter, of course, the percentage was higher.
+                      But if you take a look at it again on an year-on-year basis, I would like to believe that we should
+                      continue to grow. Corporate actions are predominantly a Q2 phenomenon with some spillover
+                      into Q3. It won't be as large, but there will still be some.
+
+
+                      But given we have just done the largest IPO in the world and some more to come, and the folio
+                      expansion, most largely also because of the net new IPOs that we have done in the last 12 months
+                      or so, will mean that there would be a year-on-year revenue growth, both on the account of folio-
+                      based revenue and some more on the form of corporate actions. Corporate actions of the net new
+                      IPO clients we have added, not just the old ones we have had.
+
+
+                      It is with that confidence that I am saying that we should be able to still look at 20% year-on-
+                      year revenue growth. Again, in a year where there has been a reasonable exodus of retail
+                      investors from the existing companies. So, our total folios grew, but that is because we won a
+                      lot more clients, not because the shareholders of the existing clients actually grew. They actually
+                      have de-grown.
+
+
+Swarnabh Mukherjee:   This is very clear. Just one thing I additionally wanted to ask was, on our legacy international
+                      business, I think if I look at the revenue numbers for last three quarters, there seems to be some
+                      volatility that last quarter it went down and then this quarter it has bounced back.
+
+
+                      So, just wanted to check if there was some kind of a one-off in last quarter's number and adjusting
+                      for that, and then actually a linear growth.
+
+
+Sreekanth Nadella:    I am sorry, I missed the first part. Was that for alternatives, your question or mutual funds?
+
+
+Swarnabh Mukherjee:   No. So, our legacy international business, so ex of Ascent, the international partn.
+
+
+Sreekanth Nadella:    So, that is again two important factors. One was the go-live of some of the deals which were
+                      under transition. And second, fortunately Malaysian markets actually looked good in the last
+                      quarter, compared to India at least.
+
+
+                      So, those both the factors basically, successful transitioning and hence going live, and hence the
+                      revenue kicking in, in conjunction with the mark-to-market gains that we have gotten in
+                      Malaysia. Those were the two reasons why the numbers have gone up. And as I have called out,
+                      there are still 18 more transitions underway. And as they go live, there will be incremental
+                      revenue coming from that, in addition to the organic AUM growth for the existing clients.
+
+
+
+
+                                           Page 13 of 20
+
+                                                                                        KFin Technologies Limited
+                                                                                                October 27, 2026
+
+Swarnabh Mukherjee:   Yes, that is very clear.
+
+
+Moderator:            The next question is from the line of Supratim Datta from Jefferies Group. Please go ahead.
+
+
+Supratim Datta:       My first question is, again, with respect to the Ascent business. You indicated that Ascent has
+                      started winning large contracts. Wanted to understand that what has changed or what is changing
+                      at Ascent that is allowing them now to win these large contracts? And how does the economics
+                      of these contracts differ with the smaller contracts in terms of yield or profitability? If you could
+                      give us some color there, that would be helpful.
+
+
+                      Secondly, on the tax rate, the tax rate seems to be increasing over the last two quarters. Wanted
+                      to understand that is there anything that is there and how would the full year tax rate look like?
+                      And is there something that we need to take into consideration here? So, those are my two
+                      questions.
+
+
+Sreekanth Nadella:    Thank you, Supratim. On the Ascent, when I say large contracts, again, everything is relative to
+                      the size of the deals that that entity had been traditionally winning. Basically, in the last 12
+                      months, there were two deals which are worth a little over $1 million each.
+
+
+                      And U.S. market, a single alternate investment deal giving you anywhere around half a million
+                      to million means reasonably sizable. Otherwise, typically, the funds, as you know, are
+                      reasonably small. Even if you look at India, a Rs. 2,000 crore, Rs. 3,000 crore fund itself is
+                      considered reasonably large in the alternative side of it. So, in that context, anything around $1
+                      million for a single deal is reasonably lucrative. And those are the deals we are winning.
+
+
+                      The economics, they work better for the very simple reason that the fund size does not
+                      necessarily dictate the underlying effort. There will be some variabilization, obviously, in the
+                      form of probably additional, volumes and hence, there is a little bit more effort, given much of
+                      it is tech-based solutions that we have. And obviously, large fund size comes with large risks.
+                      So, there is a certain amount of risk premium that we have to bake in, which translates in the
+                      form of additional quality control costs, so on and so forth.
+
+
+                      But all of them put together still does not necessarily mean the cost will go commensurate with
+                      the size of the deal. The large deals, anything around $1 million typically tends to give you
+                      nearly 2x the margin profile of that of five different deals together, basically having a similar
+                      revenue profile.
+
+
+                      I guess what I am saying, Supratim, is, one deal a million dollars versus five deals with $200,000
+                      each, both of them will translate to the exact same AUM, probably the same revenue, but the
+                      efforts would be nearly probably just about half of what it would be for five different deals
+                      otherwise. So, that is the focus area in terms of winning large deals as to how it impacts operating
+                      leverage.
+
+
+
+
+                                            Page 14 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+                     On the tax rate part, I would request Vivek to cover that in addition to one of the other things
+                     about our plan to move into GIFT City, the entire international business, which has certain tax
+                     benefits associated. But Vivek, would you want to cover the tax rate part?
+
+
+Vivek Mathur:        Basically, there are some new businesses like KFin services, the GIFT City entity, and some of
+                     the, like, KFin Thailand. So, these entities are basically still not profitable. And therefore, we
+                     are not recognizing the deferred tax on these entities, which is resulting in a slightly higher tax
+                     rate than 25.64 for KFin India.
+
+
+                     Ascent itself is currently loss making in Singapore. And therefore, whatever they pay as tax in
+                     India, we can't take foreign tax credit. So, as a result of that combined impact, you will look at
+                     tax rate being slightly higher than normal.
+
+
+                     We are looking at moving over a period of time to the GIFT City, which should give us the
+                     advantage of 20 year tax holiday. So, it is a process that has been initiated, but it will take some
+                     time. So, we can't give you guidance on when we will optimize in terms of the tax rates. But that
+                     is a strategy which is in the pipeline. But as of now, it is largely to do with the loss making
+                     entities deferred tax not being accounted for.
+
+
+Supratim Datta:      That is very clear. And just one follow up on the Ascent business. So, when you were acquiring
+                     this asset, you had indicated that certain roles from Singapore would be transitioned to India.
+                     Where are we in that process? Has that been completed?
+
+
+Sreekanth Nadella:   Yes, Supratim. So, that is the rationalization topic that I spoke on two important counts. One
+                     was the payroll level rationalization, which means basically do department-to-department
+                     mapping between both the independent entities and look for those departments which can be
+                     done by a singular unit.
+
+
+                     For example, two separate finance functions, two separate HR functions, two separate tech
+                     functions, so on and so forth. As you could imagine, as you consolidate, you would have certain
+                     amount of redundancy. And that job has already been completed.
+
+
+                     For example, much of the finance function is managed by Amit Murarka, who sits in India. And
+                     likewise, aspects around tech and HR, and even certain aspects on operations also given Ascent
+                     has its operations in India, in Hyderabad, in Mumbai, so on and so forth, many of the locations
+                     that we are ever since organically be part of. So, both in terms of movement into the same
+                     physical location, and wherever there are roles that could easily be handled by a single person
+                     instead of two different people, that amount of rationalization has already been secured.
+
+
+Moderator:           The next question is from the line of Lalit Mohan Deo from Equirus Securities Private Limited.
+                     Please go ahead, sir.
+
+
+
+
+                                             Page 15 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+Lalit Mohan Deo:     Sir, just two questions. One, on a clarification, sir, like when we have mentioned that the overall
+                     margins will be around 40% by FY '27, does it mean the exit quarter or should we assume 40%
+                     for the full year?
+
+
+                     And the second question is more on the issuer solution business. So, now, could you just explain
+                     the unit economics over in terms of during the IPOs, what kind of revenue which we make in
+                     terms of new value creation or in terms of applications over there?
+
+
+Sreekanth Nadella:   So, on the IPO, let me just cover that first. The IPO itself as an event or an episode does not
+                     necessarily generate any significant revenue. Much of, again, it is largely the competitive
+                     dynamics. Many of these get tagged at just a few lakhs of rupees. But of course, the larger ones,
+                     we probably would earn a little bit more.
+
+
+                     But by and large, it is the annuity that we focus on, right.
+
+
+                     So, for example, if you would have, you know, any of the more retail focused stocks, some of
+                     them can go, have as large as 30, 40, 50 lakh individual holders. And that is the broad revenue
+                     model. It isn't as much about the individual IPO itself. So, I wouldn't factor more than, say, 2%
+                     of the total issuer solutions revenue in a year because of the IPOs. Rest of it is all the portfolio
+                     maintenance, the corporate actions, and the value-added solutions revenue that we drive.
+
+
+                     I am sorry, I think I missed your first question. What was that about?
+
+
+Lalit Mohan Deo:     Yes, so that was on the clarification part on the EBITDA margins. So, whether that 40% is for
+                     the full year or is it like…
+
+
+Sreekanth Nadella:   Yes, I will cover that. So, no, it is average. It is not the run rate on Q4. As you have seen, this
+                     quarter itself, it is already at 40.6, right. So, what we have to do is expand these numbers into
+                     the coming quarters to basically compensate for the Q1 EBITDA, which was only 34%. So, we
+                     are working towards basically having a full year average of 40% and not just the running quarter.
+
+
+Moderator:           The next question is from the line of Dipanjan Ghosh from Goldman Sachs. Please go ahead.
+
+
+Dipanjan Ghosh:      A few questions from my side. First, in terms of your core ex-Ascent international business or
+                     the legacy international business, just wanted to get some sense of the client concentration in
+                     terms of revenues, top 5, top 10, if you can give some color on that, and how that would have
+                     changed, let's say, over the past few years.
+
+
+                     The second question is on your ex-Ascent EBITDA margins. Would it be possible to break it up
+                     between the mutual fund business and the issuer solutions business and maybe the rest, which
+                     would probably be a little bit subpar, for example, the pension business?
+
+
+
+
+                                           Page 16 of 20
+
+                                                                                       KFin Technologies Limited
+                                                                                               October 27, 2026
+
+                     And the third question is in terms of the mutual fund margin business. I mean, how much more
+                     scope do you see in terms of efficiency realization or cost rationalization in that portion of the
+                     business?
+
+
+Sreekanth Nadella:   The exact numbers, I think it is probably better for Ram or Vivek to get back to you separately
+                     one-on-one. But by and large, the numbers are there, published for each of the businesses.
+
+
+                     And in terms of the overall margin profile, if you take a look at the mix of the revenues, 52%
+                     for mutual funds, 13% for issuer solutions, 20% international, including Ascent, 7% other
+                     businesses like alternatives, pensions and so on and so forth. So, that's been the revenue mix.
+                     And it will, as I said, will be more skewed towards the remaining non-mutual funds business,
+                     which will continue to grow faster than a mutual fund business. And hence, the overall revenue
+                     and the margin profile, shakeup will still be there.
+
+
+                     Our intent and commitment towards 18% to 20% top line growth and about 40% to 45% broad
+                     range of EBITDA numbers continue to hold good despite a change in the mix in terms of which
+                     one gives you more operating leverage versus the other. The reason why the operating leverage
+                     or the margins for other businesses is just transient simply because it is very important to
+                     understand the nature of those revenues and margins.
+
+
+                     At the individual contract level, including the GFS, they are far more profitable than most of the
+                     Indian contracts we have. However, you will see a consolidated margin percentage lower
+                     however. It is for the very simple reason that there are constantly transitions that are happening
+                     and hence there is always certain element of cost that is currently being incurred, the revenue
+                     for which will be coming into the coming quarters.
+
+
+                     So, my position that should we not win anything, for example, in a quarter or two, you will
+                     actually see the margins of the other businesses to be at par or even higher than our traditional
+                     core businesses, so to speak. So, you will see this anomaly of reported profits lower than that of
+                     the core businesses profit till such time we continue to grow. But obviously, as the scale
+                     increases, the margin will reduce because the transition driven cost as a percentage of the revenue
+                     will continue to drop as the overall pie itself expands, right? So, that is the point.
+
+
+                     And in terms of the core the GFS businesses, largely, the concentration risk is substantively
+                     lower as compared to that of the domestic mutual funds. Our top five clients contribute around
+                     23% to 24% in total with the largest client, probably around 5% thereabouts.
+
+
+                     Even in India, if you see, there has been a substantive reduction in the overall concentration risk
+                     with the top client contributing to around 5.5% to 6% and the second one probably around 3.5%
+                     to 4%. I would expect these numbers to come down close to 2% to 2.5% in the next 18 to 24
+                     months latest.
+
+
+Dipanjan Ghosh:      And just one last question on the possible efficiencies in the core mutual fund business. How
+                     much do you think the margins can improve?
+
+
+                                          Page 17 of 20
+
+                                                                                      KFin Technologies Limited
+                                                                                              October 27, 2026
+
+Sreekanth Nadella:   So, margin, as you know, is a factor of both the price and the cost. I will talk about the
+                     productivity and you know price. I mean, the unit price as I told you itself is a factor of asset
+                     class which AMC is growing and the pricing.
+
+
+                     So, given there is a certain amount of non-controllable item in it, we focus on the controllables,
+                     which is effectively the productivity and hence the cost takeout associated with that. I have called
+                     out the planned rollout of FinEx, which is basically rebuilding the entire mutual funds platform
+                     bottom up based on the latest and greatest technologies that we have available at this point in
+                     time. And that is about roughly a third done and deployed.
+
+
+                     A certain bit of the gains associated with that productivity you could see is part contributing to
+                     the basis point expansion. We have the rest of the program to be concluded into the next six to
+                     seven months, at which point in time, I would like to see there is going to be a little bit more
+                     productivity gains that we will get. Of course, there had been compensatory offsetting because
+                     of cloud costs, infra costs, as we all know, the memory and the compute space, and energy and
+                     all of these costs have doubled and tripled.
+
+
+                     So, a good part of what we are doing, however, is also getting negated because of the market
+                     forces. Should they get benign, which means that with the AI trade etc., if it slows down a bit
+                     and the memory compute costs come down a bit, we will see benefit at that point in time.
+                     Otherwise, a large part of what we are trying to accomplish is also getting offset because of the
+                     absolute uncontrollable items beyond our hand.
+
+
+                     But I believe that pound to pound, the human element into our services is coming down, and it
+                     is getting more and more on the non-payable cost. So, I guess, what I am trying to say is that
+                     you will see headcount optimization because of the straight through that we are doing. However,
+                     a part of that is getting compensated by large-scale cost increases in the case of cloud and non-
+                     cloud computing costs.
+
+
+Moderator:           The next question is from the line of Mohit Mangal from Centrum. Please go ahead.
+
+
+Mohit Mangal:        I have got two questions. First is on the AIF and the wealth management business. So, we have
+                     seen the number of funds, they have kind of consistently increasing even though the revenue
+                     growth was good and the yields expanded. But if I look at the AUM growth, it was kind of
+                     flattish to marginally negative on a sequential basis. So, just wanted to know what are your views
+                     on this business growth and yields going forward.
+
+
+                     My second question is basically we have spoken about our new offices in the past couple of
+                     calls. So, just wanted to know when the depreciation expense will come into the picture and
+                     what would be the quantum of it.
+
+
+Sreekanth Nadella:   I will take the question and I will request Vivek to cover that second question in terms of the
+                     depreciation effect. See, nearly about 80% plus of all the funds that we manage are category 3
+                     funds. Okay? And of course, by definition, they are all exposed to public markets.
+
+
+                                          Page 18 of 20
+
+                                                                                  KFin Technologies Limited
+                                                                                          October 27, 2026
+
+                Now last quarter mark-to-market gains obviously had been tepid. In the case of mutual funds
+                too, it had been tepid, but it got offset by the net flows being slightly higher. Whereas in the case
+                of alternatives based on the commitments and that schedule, the net flows did not compensate
+                for the loss of mark-to-market gain. So, it was a very tactical blip on the radar, something that I
+                won't read too much into it.
+
+
+                The fact that the number of clients, the yield and the revenue has grown, despite a dip in AUM,
+                I think actually augurs well, as I said, because as the markets turn around, you will have a
+                compounding effect of net new clients being there, their revenue coming as well as the organic
+                growth of the individual client themselves.
+
+
+                Vivek, if you could address the point on the depreciation effect.
+
+
+Vivek Mathur:   Sure, Sreekanth. Yes, on the new office, new Hyderabad office, that is likely to become
+                operational effective 1st of December, and we expect two kind of increases. One is in the
+                increase in the rent, which will be about 80 lakhs per month, and on the operating lease for the
+                asset build out, this will also start from 1st of December.
+
+
+                This year for FY '27, there will be an impact of about Rs. 7 crores. Next full year it will be about
+                Rs. 18 crores, and then you can say every year it will keep coming down by 7% because of the
+                discounting. So, starting this year Rs. 7 crores, next year, which is FY '28, Rs. 18 crores, and
+                then you can reduce it by 7%. The total lease period is 9 years.
+
+
+Mohit Mangal:   Just one follow up on this. Basically, the Rs. 80 lakhs rent you said, so basically for the next two
+                to three years, at least we should expect the rent to be of Rs. 10-odd crores for the entire year,
+                right?
+
+
+Vivek Mathur:   This is Rs. 80 lakhs per month for the next 15 years. That is the additional rent over and above
+                what we are already paying for Selenium because of the larger space that we have taken. So, that
+                is the hit to the P&L for the rental lease impact, which you will see in the depreciation
+                amortization, lease, the part of it, and the CAPEX build out, which is through operating lease, is
+                the other piece which I talked about.
+
+
+Mohit Mangal:   That is very clear.
+
+
+Moderator:      Thank you. As there are no further questions from the participants, I now hand the conference
+                over to Mr. Vivek Mathur for closing comments.
+
+
+Vivek Mathur:   Thank you. As you would have seen, the results have consistently been improving in Q2 over
+                Q1 where we have regained the EBITDA margin of 40%, and we have been giving the guidance
+                that we want to end the full year with 40% EBITDA margin. The growth in revenue will continue
+                to be in the range of 18% to 20% with EBITDA margins in the range of 40% to 45%, and PAT
+                margins in the range of 25% to 30%.
+
+
+
+
+                                      Page 19 of 20
+
+                                                                             KFin Technologies Limited
+                                                                                     October 27, 2026
+
+             We remain buoyant about the Indian market, and as the market plays out in terms of mark-to-
+             market and net inflows with the fundamentals being intact, corporate actions are back on track,
+             and that is why you see issuer solutions business doing well. Q2 is typically a great quarter. Q3,
+             Q4 comes down a little bit on corporate action, but our overall guidance remains where we stand.
+
+
+             Thank you very much for attending the call today.
+
+
+Moderator:   Thank you. On behalf of IIFL Capital Services Limited, that concludes this conference. Thank
+             you for joining us, and you may now disconnect your lines.
+
+
+
+
+                                  Page 20 of 20
+

@@ -1,0 +1,1110 @@
+November 6, 2026
+
+
+
+To
+BSE Limited                                      The National Stock Exchange of India Ltd
+Phiroze Jeejeebhoy Towers,                       Exchange Plaza,
+25th Floor, Dalal Street,                        Bandra Kurla Complex
+Mumbai – 400 001                                 Bandra (E), Mumbai – 400 001
+
+Scrip Code: 524558                               Scrip Code: NEULANDLAB; Series: EQ
+
+Dear Sir/Madam,
+
+Sub: Transcript of the Earnings call conducted on November 3, 2026
+
+Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, please find enclosed the transcript of the Earnings call for the
+quarter and half year ended September 30, 2026, conducted on November 3, 2026. Also please note
+that this transcript of the call has been uploaded on our website.
+
+The weblink to access it:
+https://www.neulandlabs.com/en/investors/investor-meetings/transcripts
+
+This is for your information and records.
+
+Thanking you,
+
+Yours faithfully,
+For Neuland Laboratories Limited
+SARADA      Digitally signed by
+            SARADA BHAMIDIPATI
+
+BHAMIDIPATI Date: 2026.11.06 17:11:09
+            +05'30'
+Sarada Bhamidipati
+Company Secretary
+
+Encl: As above
+
+          “Neuland Laboratories Limited
+       Q2 & FY27 Earnings Conference Call”
+                  November 03, 2026
+
+
+
+
+Management:   Mr. Saharsh Davuluri - Chief Executive Officer &
+              Managing Director
+              Mr. G.V. Bhardwaj – Assistant Vice President
+              (Finance)
+              Mr. Sajeev Medikonda - Head of Corporate Planning
+              & Strategy
+              Ms. Runjhun Jain - Ernst & Young
+
+
+
+
+                         Page 1 of 21
+
+                                                                     Neuland Laboratories Limited
+                                                                               November 3, 2026
+
+Moderator:       Ladies and gentlemen, good day, and welcome to the Neuland Laboratories Limited’s Q2 and
+                 H1 FY27 Earnings Conference Call. As a reminder, all participant lines will be in the listen-
+                 only mode. There will be an opportunity for you to ask questions after the management’s
+                 commentary concludes. Please note that this call is being recorded. I now hand the conference
+                 over to Miss. Runjhun Jain from Ernst & Young. Thank you and over to you, Madam.
+
+
+Runjhun Jain:    Thank you, Inba. Good evening, everyone. To take us through the results and to answer your
+                 questions, we have with us the top management represented by Mr. Saharsh Davuluri, CEO
+                 and Managing Director; Mr. G.V. Bhardwaj, AVP Finance; and Mr. Sajeev Medikonda, Head
+                 of Corporate Planning and Strategy. Mr. Abhijit Majumdar, CFO of the Company, could not
+                 join us today due to some personal exigencies.
+
+
+                 We will start the call with a brief overview of the financials by Mr. Bhardwaj, and then
+                 Saharsh will give you the broad highlights of the business trends and what he is seeing in the
+                 market. Post that, we will open the call for Q&A session. The standard safe harbor clause
+                 applies as we start the call. With that said, I now hand over the floor to Mr. Bhardwaj. Over
+                 to you, Sir!
+
+
+G.V. Bhardwaj:   Thank you very much, Runjhun and a good evening to everyone joining our call. I will
+                 quickly run through the financials before Saharsh shares his thoughts on the performance and
+                 the business.
+
+
+                 The total income for the quarter stood at Rs.457.2 Crores compared to Rs.516.1 Crores in the
+                 corresponding previous last year. For the H1FY27, the total income stood at Rs.1107.2 Crores
+                 compared to Rs.816.7 Crores in H1 FY26. Commercial CMS molecules continued to make
+                 meaningful contribution to revenues during this quarter while GDS business saw
+                 contributions from our prime as well as specialty portfolio. As we have consistently indicated
+                 earlier, the timing and product mix of a business can result in variability between individual
+                 quarters. We therefore continue to believe that the progression of the business is better
+                 evaluated over longer periods of time.
+
+
+                 Gross margin for the quarter stood at 59.4% compared to 60.1% in Q2 FY2026. As always,
+                 gross margin includes manufacturing expenses and other costs directly attributable to the
+                 product. EBITDA for the quarter stood at Rs.104.6 Crores, representing a margin of 22.9%
+                 compared to Rs.156.9 Crores and a margin of 30.4% during the corresponding period last
+                 year. Profit after tax for the quarter was Rs.51.1 Crores compared to Rs.96.5 Crores in Q2
+                 FY2026. EPS for the quarter stood at 39.85 per share.
+
+
+
+
+                                         Page 2 of 21
+
+                                                                          Neuland Laboratories Limited
+                                                                                    November 3, 2026
+                    During the first half of the financial year, we also experienced increase in input costs. The
+                    geopolitical environment and the ongoing conflicts in different parts of the world have led to
+                    volatility in certain raw material prices and escalation in freight and logistics costs.
+
+
+                    Working capital for the quarter stood at 104 days of sale compared to 84 days in the previous
+                    quarter. Optimal utilization of cash continues to remain an important priority for us.
+
+
+                    We continue to focus on inventory management, customer collections and aligning working
+                    capital requirements with the changing scale and composition of our business. Our ongoing
+                    capital investment continued to progress in line with our plans. As we also have indicated
+                    earlier, the nature and scale of this investment will continue to be evaluated against customer
+                    requirements and the opportunities we see across our businesses.
+
+
+                    Our capex outflow during the first half of FY2027 was Rs.261 Crores, and free cash flows
+                    for the period stood at Rs.99 Crores while net debt stood at negative Rs.208 Crores. While
+                    we remain conscious of external environment and near-term cost pressures, we continue to
+                    take long-term view for the business and remain disciplined in the way we deploy capital.
+
+
+                    As in the past, our investor presentation, which has been shared along with the press release,
+                    contains further details on the financial performance. With that, I would like to hand over the
+                    call to Saharsh for his remarks. Thank you very much.
+
+
+Saharsh Davuluri:   Thank you, Bhardwaj. Good evening, everyone, and welcome once again to the call. As the
+                    numbers show this quarter has been below the trend that we have seen over the last few
+                    quarters; however, if we consider the first half of the year it was largely consistent with our
+                    expectations.
+
+
+                    Before getting into further details, I think it is important to once again emphasize the
+                    underlying dynamics of our business, particularly for those of you who may have started
+                    following Neuland more recently. So, as a CDMO, Neuland’s business follows the
+                    development and commercial requirements of individual customer molecules. In
+                    development, not every molecule advances through clinical trials or reaches
+                    commercialization, and project timelines also can shift. Commercial molecules also
+                    contribute unevenly as customer requirements, shipment schedules also vary sometimes
+                    between quarters. As individual commercial shipments become larger, a shift in timing can
+                    have a greater impact on quarterly revenues, and that is why we keep saying lumpiness, quite
+                    often in our earnings calls and conversations. This makes growth uneven from a quarter-to-
+                    quarter basis, and that is why we keep saying that we need to assess our business over longer
+                    periods.
+
+
+
+
+                                             Page 3 of 21
+
+                                                       Neuland Laboratories Limited
+                                                                 November 3, 2026
+Over the last several years, Neuland has evolved considerably as a CDMO supporting
+innovators developing new chemical entities. FY2026 was the first year where we actually
+had greater revenues contributing from CMS in comparison with GDS. We believe the
+increasing contribution from CMS will remain an important part of Neuland’s evolution over
+the coming years. Coming specifically to this quarter, revenues were predominantly driven
+by the commercial molecules in CMS, along with products from the Prime portfolio within
+GDS. While this quarter has seen sequential moderation, we continue to see a steady flow of
+new proposals. Our commercial NCEs will continue to drive the business in the near term,
+while newer projects progressing through the pipeline will support our long-term growth. One
+development that has been particularly encouraging is the level of RFP activity that we have
+seen in this financial year, and it has been the strongest to date.
+
+
+We are seeing multiple opportunities stemming from relationships that have been built and
+nurtured over several years. This reflects the continuous efforts of our teams and lends further
+credibility to the importance we have placed on long-term customer engagement. As we have
+indicated in previous conversations, the diversification of the customer base has been a
+priority over the last few quarters. We have made meaningful headway in establishing
+relationships with big pharma, and we are continuing to make steady progress in this
+direction. At the same time, several of the proposals coming through have been a result of
+sustained efforts to build new customer relations.
+
+
+Turning to GDS, the business navigated unforeseen disruptions from geopolitical turbulence
+limiting the impact on the overall business. We have filed 2 DMFs during this period one is
+Fezolinetant and the other is Ivacaftor, strengthening our GDS portfolio. The first half of the
+year has also marked several developments on the investment and capability front. We have
+commissioned our new peptide block at Unit One, which has seen encouraging traction and
+has given us greater confidence and visibility as we plan the next modules of our peptide
+expansion. We are also planning to inaugurate our new process R&D center at Genome
+Valley in Hyderabad, which we expect to be fully operational by early next year.
+
+
+During the quarter, we took another long-term step through the acquisition of approximately
+134 acres of land at Kakinada in Andhra Pradesh. This provides us with a sizable base for
+future expansion. As our customer discussions broaden and the nature of opportunities
+evolve, it is important that infrastructure does not become a constraint to our ability to
+respond. Kakinada gives us greater flexibility as we assess our long-term capacity
+requirements while remaining focused on building capabilities aligned with customer needs
+rather than adding capacity in isolation. I would probably urge investors to look at the
+investment in Kakinada more from a long-term return perspective rather than something that
+will give us returns in the immediate timeframe. We believe these investments help us build
+and broaden our customer base. We also see encouraging responses in conversations with
+
+
+
+
+                         Page 4 of 21
+
+                                                                         Neuland Laboratories Limited
+                                                                                   November 3, 2026
+                    new customers. They are returning quickly with second and third projects supported by the
+                    work we are doing and capabilities such as peptide, API development and manufacturing.
+
+
+                    As we look at the second half of FY2027, we remain vigilant and are closely watching
+                    movements across raw materials, freight, and the wider supply chain. Our teams continue to
+                    work on sourcing strategies, inventory planning, and operational efficiencies to manage these
+                    pressures while ensuring continuity of supply to our customers and to the patients. There are
+                    also risks intrinsic to the development of our programs. Molecules can progress differently
+                    from initial expectations, customer timelines can move, and the increasing value of individual
+                    commercial shipments can amplify the impact of timing movements between quarters. We
+                    have become increasingly familiar with these characteristics as the business has evolved. At
+                    the same time, the breadth of capabilities that the breadth of customer conversations, the
+                    opportunities emerging from the relationships developed with a clear focus on human health
+                    over the years gives us confidence in the direction in which the business is moving. Our focus
+                    remains straightforward, execute consistently, deepen customer relations, and continue
+                    strengthening the capabilities required to support our customers. The first half was largely in
+                    line with expectations we had set for ourselves. As we enter the second half of the year,
+                    expectations of growth remain intact for this as well as the following financial year. We
+                    remain focused on delivering against those expectations while continuing to build the
+                    foundation for Neuland’s longer-term growth. So on that note, Runjhun, I would request you
+                    to open it up for Q&A.
+
+
+Runjhun Jain:       Inba we can start taking the questions.
+
+
+Moderator:          Thank you. Ladies and gentlemen, we will now begin the question-and-answer session.
+                    Anyone who has a question may click the raise hand icon located at the bottom toolbar on
+                    your screen. When called upon you will receive a prompt to unmute. To ensure we provide
+                    space for as many participants as possible, we request you to limit yourselves to two questions
+                    per turn. We will wait for a moment while the question queue assembles. We take the first
+                    question from Sajal Kapoor of Antifragile Thinking. Please go ahead.
+
+
+Sajal Kapoor:       Good evening, team, and thank you for doing this on Zoom. It makes a real difference, for
+                    sure. Congratulations on inaugurating the peptide facility. It is also good to see the working
+                    capital down from 155 days to 104 and phase 3 projects moving up from 8 to 13 that kind of
+                    speaks to the pipeline question I raised earlier this year. I have two questions both on the
+                    peptide investment. First, if the peptide plant sits empty for three years who bears that cost
+                    Neuland or your customers and what in your contracts determines that?
+
+
+Saharsh Davuluri:   Thanks for your wishes. I think with regards to the peptide facility, which has been just
+                    commissioned the way our relationships with our peptide customers are is that we enter into
+                    MSAs for producing PPQ batches, which is the validation batches and upon successful
+
+
+
+                                             Page 5 of 21
+
+                                                                          Neuland Laboratories Limited
+                                                                                    November 3, 2026
+                    completion of validation, concurrently we will also enter into commercial supply agreements.
+                    Typically, in our experience in the CDMO business, our deals have been typically about
+                    completing validation and then pivoting from validation development going into the
+                    manufacturing. So, we start with the CDMO work, which is leading up to PPQ and then once
+                    you are completing validation successfully and if their drug is going as per track, then you
+                    pivot from MSA that is focused on PPQ to a supply agreement. During this transition and
+                    post this transition, typically idle capacity, cost of running the plant does not get into
+                    discussions with the customer unless it is a plant that has been built for a specific project. So,
+                    the peptide facility, as we mentioned earlier, also has been built keeping in mind a portfolio
+                    of projects, and we are fortunate that a couple of those projects are moving forward and we
+                    expect this facility to be used by these couple of projects and therefore, if there is any idle
+                    time that happens to occur, which will happen for sure in the next one and one-and-a-half
+                    years, then that will be borne by Neuland and it will be idle cost.
+
+
+Sajal Kapoor:       That is helpful, Sir. Thank you. Second question is we have a fair bit of concentration, so
+                    your top 5 customers are contributing 68% of revenues today, if for some reason,
+                    unfortunately, we happen to lose one of them, which investment will you reconsider in that
+                    kind of a scenario, will it be phase 2 peptide or the Kakinada? Thank you.
+
+
+Saharsh Davuluri:   Good question, Sajal. I think again it is a theoretical question for us. The Module 2, Module
+                    3, Module 4, which is the peptide investment, will get triggered if Module 1 gets occupied
+                    and if we have some kind of negative impact in our current CMS business or commercial
+                    business, we would still continue with those investments because we believe that there is a
+                    sustained demand for peptide API and therefore we will continue that investment, but then
+                    even if you look at the Kakinada question, if there is impact on our commercial products, the
+                    question we will ask ourself is what is going to be the impact from a short to medium term
+                    and we will probably modulate our move to Kakinada accordingly. So, as I think through
+                    this, maybe the immediate answer, which maybe we will have to think through further will
+                    be not hold back on peptides, but maybe slow down a little bit on Kakinada and also keep in
+                    mind that we also have land around Unit I, which we are also expanding. Our Board had
+                    today approved investment to add some more land, which will expand our Unit I footprint.
+                    So, Kakinada would be slightly long term, so I guess that can be the one that can be deferred
+                    a little bit.
+
+
+Sajal Kapoor:       That is very reassuring, Saharsh. Thank you for all the answers and all the very best. Thank
+                    you.
+
+
+Moderator:          We will take a next question from Chirag Shah of White Pine Investment Management.
+
+
+Chirag Shah:        Thanks a lot for the opportunity. Sir, three questions from my side. Question one is, again,
+                    on the peptide side, so where are we in the stage of recognizing the revenue because even
+
+
+
+                                             Page 6 of 21
+
+                                                                          Neuland Laboratories Limited
+                                                                                    November 3, 2026
+                    when you do PPQs there would be some revenue, even when you do MSAs there would be
+                    revenues, so where are we in the stage of recognizing some revenue from peptides, is it two-
+                    and-a-half years away, based on your understanding of the development stage of that
+                    particular molecule or the two molecules that you are talking about? So that is question one.
+
+
+Saharsh Davuluri:   Maybe 6 to 9 months away, Chirag, to see like PPQ-related revenues coming from peptides.
+                    We already bill peptide revenues around development, but they are not substantial.
+
+
+Chirag Shah:        Okay and then pivot towards MSA if everything goes correct, is another 6 months, correct
+                    that would be the right way to think about it?
+
+
+Saharsh Davuluri:   Yes, I think 6 to 9 months because there is also timing, documentation, customer decision-
+                    making, everything. So, we expect that at least you should start seeing some PPQ finishing,
+                    maybe the first batch shipping out and stuff like that in the next 6 to 9 months from PPQ.
+
+
+Chirag Shah:        Second, coming back to our CMS revenue now, last quarter you indicated there are three
+                    molecules which are big driver of the commercial CMS revenue can you talk a bit about it,
+                    was there any major launch quantity the last two quarters, in fact not just last quarter
+                    sequentially I am talking about, which is not there, and what is that can you call out some
+                    number on that to understand the extent of drop that we have seen and how to look at it going
+                    around sustainable basis?
+
+
+Saharsh Davuluri:   Yes, Chirag, I tried to address that in my commentary. There has been no launch in the last
+                    two, three quarters. I think the last launch we had was maybe about a year ago. I think we
+                    expect some more launches to happen in the next one, two years. So what you have seen in
+                    the last three, four quarters is only just the lumpiness associated with commercial shipments
+                    and the fact that the shipments are not happening, evenly, is why there is perhaps the
+                    unevenness that you are observing. It is not necessarily associated with there was some launch
+                    quantity and now there is not. Also, from a salience point of view, we also split the
+                    development and commercial. So, if you would notice, the commercial revenues are whatever
+                    revenues we have been clocking majorly has been commercial only, so, that is also indicates
+                    that what I have said is consistent.
+
+
+Chirag Shah:        No, that is why I was asking is there that you had a big order of supply in the Q4 and Q1
+                    which is not there now, either in some molecules or in one major molecule that is what I was
+                    trying to understand.
+
+
+Saharsh Davuluri:   Yes. That is evidently the case because it is not even, so we have some orders which are more
+                    in quantum and then obviously the orders are lesser here, so it is directly a reflection of that,
+                    but unfortunately we do not give color on individual molecule level, so we will not be able
+                    to describe it in more vivid detail for you.
+
+
+
+                                             Page 7 of 21
+
+                                                                         Neuland Laboratories Limited
+                                                                                   November 3, 2026
+Chirag Shah:        Lastly, of these nine molecules on the commercial stage I am saying intermediates including
+                    19 if I have to look at this Rs.214 Crores of Q2 revenue on the CMS side how the split would
+                    be like top five molecules would be like 80%, 90% of it?
+
+
+Saharsh Davuluri:   I think we have given that split.
+
+
+Sajeev Medikonda:   Within the commercial molecule, Chirag, this quarter, I think we have recognized revenues
+                    probably around from 5 or 6, so I think that would be the case because there are a lot of other
+                    smaller intermediates and others which in certain cases even come maybe once in 2, 3 years
+                    because they are for an ophthalmic product or things like that.
+
+
+Moderator:          We will move to our next question from Karan Vora from Goldman Sachs..
+
+
+Karan Vora:         Thank you for taking my question. The first question is with respect to peptides. Just wanted
+                    more color on, I think when we look at your peptide press release we have mentioned that we
+                    have put 3 DAC columns out of which 2 are of 60 cm, etc., so just can you contextualize like
+                    how important is it in the whole peptide process, whole-integrated peptide manufacturing
+                    process where does purification stand, what is more complex or more important and when
+                    should we expect the inflection in peptide revenue? So just some technical and overall color
+                    on the peptide piece.
+
+
+Saharsh Davuluri:   Sure, Karan. I will first answer the configuration-related question and then also give the
+                    broader context. See, if you look at peptide manufacturing, there is an upstream component
+                    and there is a downstream component. The upstream component is where you are making the
+                    crude and the fragments, etc., and then as you are getting into the downstream, which is closer
+                    to the final peptide that is where you need column for purifying the crude, and then you need
+                    a lyophilizer or a spray dryer to isolate the peptide. So essentially, a peptide API maker
+                    requires these downstream equipments like they need columns, they need lyophilizers. If we
+                    are just in the manufacturing of crude peptide or fragments which are upstream, more like
+                    intermediates of peptides, then we only need SPPS reactors and LPPS reactors. Neuland’s
+                    play in peptides have always been that, okay, we want to make peptide APIs, and we are a
+                    peptide CDMO, which means we want to design the synthesis of the sequence of the peptide
+                    and we also want to manufacture it, and we have the ability to make the API and we can
+                    supply commercial quantities. So therefore, the column and the lyophilizer comes into play.
+                    Now, when it comes to the columns, why we have two columns or why these columns are of
+                    this size, what is the size of our lyophilizer? I think these are answered by based on what is
+                    the need of the peptides that we currently have in our portfolio. I think we have been
+                    mentioning that we have a couple of projects. We are not being very specific because these
+                    projects have not gone through PPQ. So these projects require a certain kind of purification,
+                    so, they require certain kinds of columns with certain kind of dimensions, they require
+                    isolation in the form of lyophilizing, and that is why we have designed this Module 1 to match
+
+
+
+                                             Page 8 of 21
+
+                                                                          Neuland Laboratories Limited
+                                                                                    November 3, 2026
+                    the requirements of these projects. Similarly, the SPPS configuration we have and the LPPS
+                    configuration we have in the Module 1 is also for these projects. Now, Module 2, Module 3
+                    and Module 4 will get configured by appropriate sizes of equipment as we start seeing
+                    visibility of projects that will go into Module 2, 3, 4 and the way to look at it very
+                    simplistically, Karan, we do not want to have two big vessels or we do not want to have two
+                    small vessels and we want to have appropriate-sized vessels because ultimately we want to
+                    make the final product and here maybe I will just say one last thing, from a broader context
+                    what was the database we saw yesterday, Sajeev?
+
+
+Sajeev Medikonda:   Global data.
+
+
+Saharsh Davuluri:   So, we were looking at some database yesterday, and it shows that between IND and
+                    commercial, today there are 1000 synthetic peptides. 1000 synthetic peptides between IND
+                    and commercial. Now, not all of these 1000 peptides are multi-metric ton peptides. A lot of
+                    them would be in 100 of grams, perhaps some of them would be in 10 of grams, many of
+                    them will be in kilos, 10 of kilos, etc. Our goal is to be a dominant, recognized player in
+                    making the APIs of these peptide therapeutics and in order for doing that we need to have the
+                    right kind of configuration and therefore, as we are looking at building our modules, we are
+                    trying to see what kind of configuration would be the best fit for that and therefore for us, the
+                    configuration we have chosen is appropriate for the current portfolio we have. Maybe as we
+                    get into other projects or other projects move through the clinic or we are able to attract some
+                    new projects, we may kind of design our Modules 2, 3, and 4 accordingly. Sorry, I just wanted
+                    to give an extended response because I think it is also a question that others might be
+                    interested in understanding.
+
+
+Karan Vora:         Thanks, Sir. So just one clarification here before I move on to the second question. So, you
+                    mentioned that it is according to the projects which you have in hand, so say if you would
+                    have put a 120 cm or diameter or DAC column then does it increase the cost unnecessarily,
+                    what is the drawback in putting a larger column instead of the one which you have put?
+
+
+Saharsh Davuluri:   It would basically be that you would have two wider columns and then you would need to
+                    make much larger batch size than what the customer needs. So, therefore, it is kind of like
+                    having a customer needs a 1000-liter reactor and you say you have a 5000-liter reactor then
+                    you are almost forced to make a bigger batch because you have a larger equipment. The idea
+                    is to have the right sized equipment, so that is why this column size is right for the projects
+                    that we are currently executing.
+
+
+Karan Vora:         Got it and secondly, the three large CMS or CDMO products, which we have like anything
+                    which you would like to highlight with respect to their patent cliffs, so, I recognize that maybe
+                    the most recent or the third product will have a long patent life, but the first and the second
+                    products which we commercialized in the CDMO business what is their patent cliff looking
+
+
+
+                                             Page 9 of 21
+
+                                                                            Neuland Laboratories Limited
+                                                                                      November 3, 2026
+                    like and when should we expect that revenue to draw down versus when should we expect
+                    the peptide inflection, will the peptide inflection fill in that hole or will there be a gap? So
+                    just trying to get those things right.
+
+
+Sajeev Medikonda:   Karan, in terms of the patent cliff for these molecules which are key, I think in the meaningful
+                    markets and markets which contribute significantly to our customers, we do not see any
+                    expiries happening before 2030 I think that is the way that we look at it. In terms of the
+                    peptide inflection I will let Saharsh answer that.
+
+
+Saharsh Davuluri:   I think the idea would be to ensure that the dip that will come post 2030, will have absolutely
+                    no impact on our growth trajectory. So I think we are fairly certain that there will be no impact
+                    because of the dip from these molecules on the growth that is going to come, which Karan
+                    will not just be from peptides, there will also be complex small molecules, there will be other
+                    products as well. So, at an aggregate level, the business will continue to grow despite some
+                    molecules falling off the cliff or rather tapering off the cliff.
+
+
+Karan Vora:         Got it. Really helpful. Thank you.
+
+
+Moderator:          Our next question is from Gourav Bhama of JM Financial.
+
+
+Gourav Bhama:       Thank you for the opportunity and thank you for the clarification that you provided so far. I
+                    had a couple of questions. The first and foremost a bit of a clarification on the peptide. You
+                    said that 6 to 9 months before you start seeing MSA revenues coming in and beyond that
+                    when can we expect the commercial revenues to come in from another 6 to 9 months post
+                    that, so roughly one-and-a-half to two years before actual commercial revenues start coming
+                    in for the peptide facility, right?
+
+
+Saharsh Davuluri:   Yes. I think that is a reasonable expectation.
+
+
+Gourav Bhama:       Understood and secondly any particular reason why the specialty segment performance was
+                    a bit muted this quarter both Y-o-Y and Q-o-Q basis?
+
+
+Sajeev Medikonda:   Yes. So Gourav, I think we have had a few molecules contribute significantly in the past
+                    through the specialty segment. I think in some of those molecules we have had customers
+                    have difficulties in terms of them being able to manufacture the product, and that has led to
+                    the impact on these products. We expect that the thing will be done probably by Q4 we should
+                    be able to start seeing more revenues from the products, which contribute significantly both
+                    to the topline as well as the bottomline from those specialty products.
+
+
+Gourav Bhama:       Understood. The business should normalize by Q4?
+
+
+
+
+                                             Page 10 of 21
+
+                                                                             Neuland Laboratories Limited
+                                                                                       November 3, 2026
+Sajeev Medikonda:      Yes. That is our expectation based on what the customers tell us.
+
+
+Gourav Bhama:          If you may allow me one more question. So, as you said that the growth expectations remain
+                       intact for FY2027 and the following year, so if you can provide a rough specific number well
+                       otherwise a rough range of what to expect, some sort of guidance on the growth part at least?
+
+
+Saharsh Davuluri:      It is difficult Gourav. I think, just please stick to the previous commentary only that we had
+                       made. I think 2027 will grow and then 2028 will also grow, but yes, I do not think we are
+                       precise enough to go into more clarity there.
+
+
+Gourav Bhama:          Even a rough range will be difficult like high teens, that kind of thing, but okay, I understand
+                       the lumpy nature of the business itself.
+
+
+Saharsh Davuluri:      Yes. It is not that we do not know we just do not want to share.
+
+
+Gourav Bhama:          No, that is understandable. Thank you for the opportunity. That is all. Last one, in terms of I
+                       saw that there is another, in our pipeline we have supported one more NDA and 9 IND filings.
+                       If some sort of visibility like some color on that particular product, the NDA filing is it
+                       something meaningful we are expecting, by when are we expecting that particular product to
+                       come up?
+
+
+Sajeev Medikonda:      I think, Gourav, in that case, I think it is still something which is small and I think it is
+                       something which we will have more clarity because I think, again, we work with some of
+                       these biotech companies where their expectation may be a little I think it is difficult for us to
+                       judge, so we are just waiting for things to pan out before we are able, we can comment
+                       significantly on that.
+
+
+Gourav Bhama:          Understood. That is all from my side. Thank you.
+
+
+Moderator:             Our next question is from Prateek Shrivastava of Nivesh Wisdom.
+
+
+Prateek Shrivastava:   Again, thanks for the opportunity. Sir, my question is more related to all the new usage of AI
+                       in the drug discovery. So, the thesis is that the AI raises the number of candidates that in
+                       entering the clinic and it pushes the bottleneck more on the development and manufacturing
+                       and that possibly benefits the Indian CDMO that is the thesis. I have actually want to hear
+                       from you that what is your thesis because I directly want to hear from you, so what do you
+                       see as such, is AI more sort of, I would say, a tailwind for you or is it like a more headwind
+                       for you because, it also sort of takes away some of the differentiation, the Chinese players, so
+                       what do you see and are you in touch with any of these new AI native biotechs or large pharma
+                       AI bio programs, are you in touch with them and what is your thoughts on that, Sir?
+
+
+
+
+                                                Page 11 of 21
+
+                                                                                Neuland Laboratories Limited
+                                                                                          November 3, 2026
+Saharsh Davuluri:      It is an interesting question. I am not sure if I have a lot of insight to contribute, but I will just
+                       share a little bit of what I think and Sajeev, if you have anything to add, please do that. We
+                       have come across a few AI-driven discovery companies. I think even very recently I met a
+                       Company where the CEO is AI guy from Google and his entire team is only AI people they
+                       have hardly a few CMC experts and they are a complete, fully focused drug discovery
+                       Company and everything including IND filing they are doing it using AI, so there is not a lot
+                       of human, I think even second-level review is being done by AI. Now, for us as a Company,
+                       we see as a development-focused player, as a Company that focuses more on IND onwards,
+                       as you know we are not in the discovery services and therefore we are not really in that space
+                       of pre-IND we do not see a direct threat of AI taking away our work because most of our
+                       work is actual work that goes into generating material or designing and demonstrating a
+                       process that generates material and that is something that we at least for the foreseeable future
+                       do not see AI taking away. Obviously as a Company that is trying to embrace AI we are going
+                       through our own AI journey on how do we become more efficient, etc. I think the only
+                       correlation I can draw is that as I mentioned in our opening remarks we are seeing a very high
+                       flow of RFPs, but is that attributable to AI powered candidates moving faster into the clinic
+                       I do not have any concrete evidence to say that. It just seems like it is a combination of China
+                       plus one, a combination of maybe favorable funding, India being seen in favorable light. I
+                       think these factors at play more than AI alone, but I do not know, Sajeev, you have anything
+                       to add?
+
+
+Sajeev Medikonda:      Yes. So, I think Prateek, as Saharsh was saying, that we are more involved in this stage from
+                       IND onwards, and if we look at a lot of the work which these AI companies are doing are
+                       more at a discovery stage and I think that is definitely it should act as a tailwind for us, but
+                       when it comes to what it should help in terms of where we believe AI could also be used more
+                       is probably in, say, clinical trial design, but the one limiting factor will always be that clinical
+                       trials are in human beings, and there is a particular time that we need to give for it. So I think
+                       that is one factor and also, I think us being able to gear up the number of projects which are
+                       likely to come our way is also something that we are increasingly looking at and trying to
+                       model even in terms of how do we plan for the future.
+
+
+Prateek Shrivastava:   Yes, Sir. I also see that, that probably the bottleneck could become more in the development
+                       and commercial molecule, but also one more thing follow up to this, but let us say AI produces
+                       more candidates, but the failure rates would be higher does that mean that you will have more
+                       developmental revenue but not necessarily more commercial molecules How do you think
+                       about that mix, Sir?
+
+
+Saharsh Davuluri:      Yes, I think if we have more candidates coming out as a result of that we would have more
+                       developmental revenue for sure. I think strategically, does that benefit us? I am not quite sure
+                       because Neuland’s core competence is GMP Manufacturing and our ability to produce drugs
+
+
+
+
+                                                Page 12 of 21
+
+                                                                             Neuland Laboratories Limited
+                                                                                       November 3, 2026
+                       for Phase 3 and commercial, so if you are going to see a lot of activity at early stage, but
+                       theoretically stuff not moving forward then we do not really see that as a favorable place to
+                       be in.
+
+
+Prateek Shrivastava:   Got it, Sir. Thank you. Thank you for your honest answers, Sir and all the best for you in the
+                       future.
+
+
+Moderator:             Our next question is from Mr. Mehul Panjuani of 40 Cents.
+
+
+Mehul Panjuani:        Thank you so much for the opportunity. I am new to CDMO companies. My basic question
+                       is if you can put in very layman terms why is Neuland’s revenue numbers and profits lumpy
+                       while we do not see that as a trend in other CDMO players, this is a very high-level
+                       observation and I am happy to be wrong and corrected by yourself? That is my first question.
+
+
+Saharsh Davuluri:      I think fair question Mehul. Like, the reason for our lumpiness is that we have a pipeline of
+                       molecules where only a handful of molecules contribute disproportionately to our commercial
+                       revenue and when we only have a handful of molecules that are contributing to our revenue,
+                       and these molecules are of the nature that they are not produced on a continual basis by our
+                       customers and therefore, the orders are not necessarily throughout the year. They come across
+                       maybe one quarter, 2 quarters, 3 quarters, not across all 4 quarters. They create a sort of a
+                       lumpiness, which is also not very easy to predict and I think that is a very simplistic way of
+                       explaining why we are lumpy. Why others are not lumpy I do not know if I can answer that
+                       question I have to go back and check, but I think all these companies are very unique and
+                       they are in different lifecycle stages of their pipeline, so maybe different scale. If you are
+                       more in the early stage, discovery services, maybe it is less lumpy. I am not quite sure if I can
+                       answer that part, but yes, please go ahead. You said you had another question.
+
+
+Mehul Panjuani:        Yes. So, just follow up on this and I appreciate your answer on lumpiness. So, is there any
+                       timeframe like after 12 months or 24 months this lumpiness is, will come down considerably
+                       or this will remain as a core of our business?
+
+
+Saharsh Davuluri:      I think it is a great question and I think we have been in this CDMO business for almost 15
+                       years now and I remember even like, maybe the old investors will recall, even like 10 years
+                       back we used to see lumpiness, at that time our biggest product used to be Rs.40 Crores a
+                       year, and our total CMS business was Rs.100 Crores, so therefore that Rs.40 Crores used to
+                       create a lumpy environment for Rs.100 Crores business. Today, fortunately or unfortunately,
+                       everything has gone up by 10x, so, the CMS business has grown, but the contributors of the
+                       larger size have also increased in size and therefore that lumpiness is continuing. So, to
+                       answer your question, lumpiness would go away if the size of the contributors remain the
+                       same, but the number of contributors dramatically increased. So let us say I have a handful
+                       of contributors. Let us say I only have 3 contributors or 4 contributors that are giving me
+
+
+
+                                               Page 13 of 21
+
+                                                                         Neuland Laboratories Limited
+                                                                                   November 3, 2026
+                    majority of my CMS revenue. Assuming that the contribution per molecule does not change,
+                    but I have from 3 to 4 this number becomes 30 over the next 5, 10 years. Then for sure you
+                    can be assured that the lumpiness would reduce because the spread is smaller. What we find
+                    challenging to predict is will we keep finding similar-sized opportunities or will we attract
+                    perhaps even larger opportunities and if that happens, then the lumpiness will be there and I
+                    do not necessarily see it as a bad thing also because it would be good to have big contributors.
+                    Even some of the largest innovator companies like you take Eli Lilly for example, their largest
+                    drug contributes to 50, 60% of their revenues. So, sometimes big products do carry a business
+                    and they create the opportunity for the businesses to diversify and grow. So the goal is to
+                    keep attracting molecules, some of the bigger ones will probably bring in lumpiness, and it is
+                    hard for us to indicate that all this lumpiness will go away in 18 months from now.
+
+
+Mehul Panjuani:     Right.
+
+
+Mehul Panjuani:     This is a very small basic question because it was just a follow-up the last one. The one
+                    question is that we are expecting FY2027 and FY2028 to be quite robust and FY2026 has
+                    also started on a decent note, so, can we say that FY2027 is a inflection year?
+
+
+Saharsh Davuluri:   I guess it is a subjective word I think maybe like I said, 2026 was the year where CMS
+                    outgrew GDS, so, in that context, I would say yes, it is an inflection year, but 2027-2028 I
+                    think it will just be years of good growth and I think I would not add too much more to that
+                    those are subjective, so I would leave it to you to make that interpretation.
+
+
+Mehul Panjuani:     Thank you so much.
+
+
+Moderator:          Our next question is from Dr. Kartik Bane of Bajaj Life.
+
+
+Kartik Bane:        Thank you very much for the question. I want to understand how easy or difficult is it to goof
+                    up the peptide manufacturing at the scale at which Neuland does it and, like, in terms of API
+                    degradation or amino acid sequence change, how much time would we be able to take to
+                    notice it, and how much time would we require to correct it?
+
+
+Saharsh Davuluri:   Yes, it is a good question, Kartik. I think unfortunately it is quite easy to goof up peptide
+                    manufacturing and I see a doctor in your name, so I do not know if you are a process chemist
+                    or an organic chemist, but what happens is peptide synthesis is considered to be irreversible.
+                    In small molecule chemistry if you get an impurity that is not desirable you still have a
+                    recourse you can reprocess it, take it back into a solution and figure out a way of getting rid
+                    of the impurity. In peptides, many times you might have to junk the entire reactor and if you
+                    are talking about these large value peptides then there is a lot at stake. So, precision becomes
+                    very important especially as you go into downstream manufacturing of peptides. Neuland has
+                    a lot of years under its belt doing peptides process development and peptide synthesis at small
+
+
+
+                                            Page 14 of 21
+
+                                                                                Neuland Laboratories Limited
+                                                                                          November 3, 2026
+                           scale. We are now slowly getting into larger scales. Our largest reactor used to be 50 liter
+                           SPPS in GMP now we have 500 liters we are looking at 1000 liters and we are going to make
+                           APIs. We are not making fragments. We are making fragments, but we will use the fragments
+                           for APIs. So, if we take any missteps, especially in the downstream, the challenges will be
+                           quite important and therefore we need to fortify ourselves, we need to have the right kind of
+                           talent, we need to have the right kind of systems, we need to have the right kind of controls
+                           and that is where we will build our core competence.
+
+
+Dr. Kartik Bane:           Thank you.
+
+
+Moderator:                 We will take our next question from Shrikant Akolkar of Nuvama.
+
+
+Shrikant Akolkar:          My first question is on the R&D center that you all opened up. Would it be possible to talk
+                           about it like what kind of new modalities you are working
+
+
+
+
+at the moment and the potential inflection point for those modalities to become commercial?
+
+
+Saharsh Davuluri:          Right now, the R&D center is going to be current capabilities, which is peptides and small
+                           molecules, but what will be different is not in terms of platforms so we are not really going
+                           to do, say, oligonucleotides or ADCs or HPAPIs, which are all newer modalities compared
+                           to what we have. That is not the immediate plan, but the plan is to be able to do the small
+                           molecules and peptides a lot more effectively because this will be a process development
+                           center. We are not going be doing med chem, we are not going to be just doing route scouting
+                           we will be doing process design and what will make this center very effective is that it will
+                           be integrated, so we can be doing process engineering, quality by design, flow chemistry and
+                           integrated development that can actually generate even small volumes of API from this
+                           facility. Earlier, we would have to do process design in the R&D facility and then take it to
+                           one of our 3 manufacturing sites and find a pilot plant and produce material there, but this
+                           will enable us to not only design the process using more modern instrumentation and
+                           equipment, but we will also be able to use the same facility for generating material which can
+                           go into experimentation at larger scale. So that creates a very strong value offering for our
+                           customers because they often find it very convenient if companies can do everything
+                           integrated in a paperless, highly automated environment, which is what this will do. The
+                           platform addition, which is, okay, adding HPAPIs or adding oligos, etc., I think those are
+                           things that will follow up later because again, as a Company, we have mentioned that we are
+                           now hyper-focused on ramping up our small molecule peptide capabilities first before we
+                           start getting into other areas. So, the focus remains, but the ability to deliver value will get
+                           amplified because of this new facility.
+
+
+
+
+                                                   Page 15 of 21
+
+                                                                          Neuland Laboratories Limited
+                                                                                    November 3, 2026
+Shrikant Akolkar:   Understood. Last question is on the staff cost so where Q2 staff cost had substantially moved
+                    up I understand that possibly will be for the peptide unit, but now, is this the base that we
+                    should work on or there will be further additions going forward?
+
+
+G. V. Bhardwaj:     Certainly, there will be certain additions in terms of our headcount to cater one in the regular
+                    R&D but also on a longer note there will be additions not only at the R&D center, but also at
+                    the manufacturing site for the peptides or other APIs.
+
+
+Shrikant Akolkar:   Understood. Thank you so much for answering my questions.
+
+
+Moderator:          We will take our next question from Ritika Agarwal of Value Quest.
+
+
+Ritika Agarwal:     Thank you for taking my question. My question is a follow-up on the earlier answer that you
+                    gave that we are mostly on the downstream part of peptide process would that be correct,
+                    wanted to understand that we have heard a few of the players talking about creating an
+                    integrated platform on for peptides, which is upstream as well as purification and otherwise
+                    which is downstream as well, so could you help us understand how we should place Neuland
+                    in the peptide frame, why only downstream and why not integrated, or if there is anything
+                    otherwise?
+
+
+Saharsh Davuluri:   Ritika. See, I think what we were saying is that Neuland is focused on making the complete
+                    peptide API and that is why there was the emphasis, it was Karan’s question about why
+                    column, why Lio, which is all part of the downstream equipment. Having said that I do want
+                    to clarify that we also make the upstream. So, for us, the idea is not to say we will only do
+                    downstream. In fact, we will do the fragments and then we will do the crude, and then we
+                    will do the purification and then we will isolate the final peptide API that is the capability we
+                    offer to clients and where Neuland stands out, Ritika, is not only our ability to offer the
+                    equipment that is needed to make these peptides, but also the scientific talent to design the
+                    process to make this peptide. In many of the peptide projects that Neuland has in our portfolio
+                    today are projects which have started as process design projects when we never even had
+                    manufacturing facility. So we were doing the peptide sequencing and design of the sequence
+                    in small scale, we were making grams of the peptide and because our clients were really
+                    satisfied with the process we designed, now they are committing to Neuland to become a
+                    manufacturer of these peptides. So, point number one is that we want to make the whole
+                    peptide does not mean we want to make only the downstream of the peptide, so I hope that
+                    part is clear. I think with regards to integrated peptide, I am not quite sure what your
+                    understanding of that is. See, ultimately for us, we want to be able to create value as an API
+                    maker. We do not necessarily see ourself as someone who wants to make everything
+                    associated with peptides like, see, peptides have so many components. You have these amino
+                    acids, unnatural amino acids. You have resins, you have then the fragments and then the
+                    crude, etc. I think we will have to play to our strengths, which is our ability to design
+
+
+
+                                            Page 16 of 21
+
+                                                                         Neuland Laboratories Limited
+                                                                                   November 3, 2026
+                    processes, our ability to manufacture API, our ability to do GMP. Where those strengths are
+                    valuable, those are the components that we will make. Where the strengths are not valuable
+                    we will probably not make those components. So, there is no strategic intent that everything
+                    associated with the peptide has to be made, but making fragments is a core part of peptide
+                    making and that is something that we will do and it will be a capability that we intend to
+                    capitalize on.
+
+
+Ritika Agarwal:     Sure. Understood. Thanks for the explanation. Second question was on capex part in one of
+                    our press releases we came out saying we are doing the second module for peptide what kind
+                    of capex would the second module involve and what is our capex guidance for the next three
+                    years?
+
+
+Saharsh Davuluri:   I think capex guidance for the next three years, we mentioned approximately I think around
+                    1700 Crores, 1800 Crores is what we had indicated, which is a broad number. We keep
+                    revisiting that number. I think Kakinada brings in certain factor over there, and then there are
+                    other things that are at play. With regards to Module 2 investment, I think we have not really
+                    crystallized on what exactly that configuration is. I think that would be the goal for us to
+                    finalize and move forward in the next 3 to 6 months. I think once we have that number we
+                    will let you know, but I think so far we spent maybe around Rs.250 Crores just for Module
+                    1, so you can probably do some approximate math.
+
+
+Ritika Agarwal:     Understood. Thank you so much for answering.
+
+
+Moderator:          Our next question is from Sajal Kapoor of Antifragile Thinking.
+
+
+Sajal Kapoor:       Thank you for the opportunity again. Saharsh, your answer to Mehul was really a scaling law.
+                    So 10 years ago, your largest molecule was 40 Crores out of 100 Crores CMS business today
+                    everything is roughly 10 times bigger, but the ratio has not really moved and that, of course,
+                    looks like self-similarity in the sense that the lumpiness is growing with the business rather
+                    than averaging away and this is not a defect or a flaw, it is called Geoffrey West’s scaling
+                    law, nothing else and it may actually be the signature of a business that grows through a few
+                    large hits, so, the question that I have is, are you scaling primarily by adding more molecules
+                    or by making the individual molecules bigger and is the number of new meaningful
+                    contributors increasing faster than the size of the existing ones?
+
+
+Saharsh Davuluri:   Thanks, Sajal. I think the question you asked, is the number of new molecules increasing
+                    faster than the size of the existing molecules? Did I correct, did I paraphrase you correctly?
+
+
+Sajal Kapoor:       No, exactly that. Yes, absolutely.
+
+
+
+
+                                            Page 17 of 21
+
+                                                                           Neuland Laboratories Limited
+                                                                                     November 3, 2026
+Saharsh Davuluri:   I think it is a good question. I have to go back and check on this. I will explain the intent, and
+                    I do not want to seem like I have the exact answer. The intent is to add more molecules. The
+                    intent is to increase the basket, but we have obviously been a lot more selective today than
+                    we were 10 years ago. We used to even do like generic CDMO like some guy would come
+                    and say he needs some generic API to be done exclusively for him and we would pitch for
+                    that business, but today we do not even get into those discussions. So I think there is a certain
+                    level of screening that comes in. The pedigree of the clients has changed. Today there is a lot
+                    of big pharma in the conversations. I mentioned this earlier, I hardly used to see 100 Crores
+                    molecule until five years ago. Today I see numerous 100 Crores molecules. We have even
+                    seen 1000 Crores molecules. So, the point I was telling Mehul was that as the business has
+                    scaled, the size of these large opportunities has also increased almost in proportion and
+                    therefore it seems like we are kind of stuck with the lumpiness, but having said that, the intent
+                    of the organization is to break away and add more and more projects I think that is why we
+                    are creating the span. The idea of having our three manufacturing sites together, Unit I, Unit
+                    II, Unit III are 60 acres, and the facility in Kakinada alone is 134 acres. So, the intent is to be
+                    able to create a wider span so you are able to take on more molecules. Unfortunately, in our
+                    business you are not able to foresee whether a project I am going to get today will be a 40
+                    Crores molecule or a 400 Crores molecule and therefore, there is a certain uncertainty, which
+                    also creates a little bit of a challenge for us in answering the question that Mehul posed or
+                    what you said, so does it make sense?
+
+
+Sajal Kapoor:       Yes, it does Sir. Just to clarify on the Kakinada, you said 132 acres I think we also have the
+                    first right of refusal on the additional 60 odd acre right?
+
+
+Saharsh Davuluri:   Yes.
+
+
+Sajal Kapoor:       If necessary or if required depending on the business growth plans we can go up to close to
+                    200 acres?
+
+
+Saharsh Davuluri:   Yes and the idea is to be rather get into a commitment right now, we thought we were able to
+                    negotiate something, so, right now what we have committed to is 134, but yes, it could be
+                    200 over the next two years.
+
+
+Sajal Kapoor:       Perfect. That is all. That is all from my side. Thank you so much.
+
+
+Moderator:          Our next question is from Chetan Kiyal, a retail investor. Please go ahead. Chetan, you may
+                    go ahead with your question..
+
+
+Chetan Kiyal:       Thanks for the opportunity. I am a retail investor. I have been associated for Neuland from
+                    long time. Still it is difficult for me to understand the business and all technicalities, but I
+                    believe whatever you are doing is best and best of luck for the future, whatever is coming for
+
+
+
+                                            Page 18 of 21
+
+                                                                           Neuland Laboratories Limited
+                                                                                     November 3, 2026
+                    Neuland in long term, but by now, I can understand that business is lumpy, the word that it
+                    can go through various cycles. So, from my end, just a smaller question like what we see as
+                    a vision for Neuland in coming 5 to 10 years, which we can rely on as a retail investor, without
+                    going through very technical depth and all?
+
+
+Saharsh Davuluri:   Thank you for your question. I think what you can expect Neuland is to continue on this
+                    focused journey of being CDMO that is really focused on human health. CDMO that will
+                    really keep building on unique technologies and will be highly customer-obsessed. I think
+                    that is the way we are looking at it. You will also expect Neuland to be agile, to move with
+                    the needs of the customer, so we do not position ourself as a large volume player or a small
+                    volume player or a mid volume player, but see ourself as someone who can really kind of
+                    evolve with the molecule and I think with that way we also see that there is a snowball effect
+                    in terms of the work we have been doing. I think if you followed some of the conversations
+                    we have been having earlier, I think today we are attracting far more larger opportunities than
+                    we did earlier which is also a testimony that as a Company we are able to attract more exciting
+                    opportunities and therefore, as long as we are able to stay focused and execute well, which is
+                    what we have been doing, we will keep adding more molecules and that should give good
+                    returns to all investors. I think my only personal caution to retail investors is that ultimately
+                    our business has a certain level of opacity because we do not disclose which molecule is doing
+                    well, etc., so when there is a poor quarter there might be a certain stress that is created as to
+                    why is this quarter so bad? For which we might not be able to answer as transparently as an
+                    FMCG Company or a branded Company and therefore, retail investors who have the appetite
+                    to be able to manage that kind of uncertainty I would definitely recommend looking at
+                    Neuland as a long-term investor, but that is just my personal advice, but yes, thank you for
+                    the comments and it is good to know that you are a long-term investor.
+
+
+Chetan Kiyal:       Thank you and best wishes, Sir.
+
+
+Moderator:          We take our last question from Mitesh Shah, an Individual Investor.
+
+
+Mitesh Shah:        Thanks for taking my question. I think this will be a lumpy, but I can understand about that
+                    you have given good return to the investors. I just have a one macro level question about the
+                    peptide. I think I heard about the peptide most of the time with the Neuland, but now post the
+                    GLP-1, I think so I heard the peptide manufacturing increasing, manufacturing from almost
+                    all the CDMO players, including not only in India across the world, do you think so that
+                    suddenly most of the companies are interested to be manufacturing of the peptide, and that
+                    would be easy process I heard about that it would not be that easy process so what is your
+                    call that it would be oversupply in a few years of time or it would be not that the case?
+
+
+Saharsh Davuluri:   I think it is a good question. I think in terms of peptides, yes, you are absolutely right. I think
+                    there is a lot of talk around peptides especially last few years since the GLP-1 has exploded.
+
+
+
+                                            Page 19 of 21
+
+                                                                           Neuland Laboratories Limited
+                                                                                     November 3, 2026
+                    See, this global data that I was talking about which where I had mentioned earlier that we
+                    found that there are 1000 peptides, synthetic peptides today between IND and commercial
+                    that is the number of synthetic peptides that are there. The same number in January 2025 it
+                    was only 500, so the world of drug discovery and development is also changing. More and
+                    more peptides are coming into the mainstream because peptides are considered to be natural
+                    molecules. They are friendly therapeutics unlike small molecules which are considered to be
+                    chemicals and it is always preferred if you can deliver a therapy through a peptide and
+                    therefore, there is a lot of energy focus from innovator companies to develop peptides so
+                    therefore, it is natural that peptide CDMO demand has gone up, but nothing goes lock in step
+                    there is always going to be some overcapacity because of the euphoria created because of
+                    these GLP-1s that euphoria creates excess capacity. There will be some testing and then again
+                    there will be a correction and I think that happens in any thriving industry and I expect the
+                    same with peptides as well. I believe the players who will stick out are players who are very
+                    focused, players who have the ability to do process development. Lot of players who are just
+                    putting in reactors and expecting customers to come and do the technology transfer, I believe
+                    that they may face more challenges because the moment that customer goes away they only
+                    are sitting with equipment and not necessarily capabilities, but if you have strong R&D
+                    capabilities in peptides, then you are also able to cater to these other 1000 molecules. The
+                    goal of our investments is always to cater to those 1000 peptide drugs. It is never to cater to
+                    one weight loss drug or to this one next GLP-1 it is to cater to a diverse portfolio of molecules
+                    so that there will be some success that we can get and in that way, if you look at India, in
+                    aggregate, I think we still have very less capacity if you ask me, so I do not think there is
+                    overcapacity, at least in India. Maybe there is overcapacity in China that is what I have been
+                    told, but, I think India, it is not just Neuland. I think all these companies we all need to invest
+                    in peptides. That is my personal take.
+
+
+Mitesh Shah:        True, Sir, but if it would be overcapacity in China that would be impacting for global
+                    including India as well right?
+
+
+Saharsh Davuluri:   Yes and therefore, the point I made earlier that there will be some pains because of
+                    overcapacity, etc., it is there. I think my comment with regards to, is there overcapacity in
+                    India? Absolutely not because for small molecules, the kind of capacity we have in India for
+                    CDMO we do not have that kind of capacity when it comes to peptides.
+
+
+Mitesh Shah:        Sir, we have enough talent in India that a sudden surge of the peptide demand would be filled
+                    by the talent available in India or it will be an issue?
+
+
+Saharsh Davuluri:   I do not think we do. I think it is a challenge. Not for CDMO. I think we have talent for
+                    generic, but not for CDMO.
+
+
+
+
+                                            Page 20 of 21
+
+                                                                            Neuland Laboratories Limited
+                                                                                      November 3, 2026
+Mitesh Shah:        Got it and just the last question about that how long you can go on the peptide on the chain-
+                    wise it would be a small chain of peptide you are manufacturing or?
+
+
+Saharsh Davuluri:   We have done 40 plus amino acids so far.
+
+
+Mitesh Shah:        Okay. Got it. Thanks. Thanks a lot, and all the best.
+
+
+Moderator:          I now hand over the floor back to the management for closing comments. Over to you, Sir.
+
+
+Sajeev Medikonda:   Once again, we would like to thank everyone for your interest and for your questions. I think
+                    in case you have anything further, please reach out to Runjhun Jain of EY. Wishing you all a
+                    good evening and also Happy Diwali. Thank you.
+
+
+Moderator:          Thank you. Ladies and gentlemen, on behalf of the leadership team, I would like to thank you
+                    for your time and your continued interest in Neuland Laboratories Limited. Should you have
+                    any follow-up queries that were not addressed, feel free to reach out to the investor relations
+                    team. Thank you all for your participation. Goodbye.
+
+
+
+
+                        (This document has been edited to improve readability)
+
+
+
+
+                                           Page 21 of 21
+

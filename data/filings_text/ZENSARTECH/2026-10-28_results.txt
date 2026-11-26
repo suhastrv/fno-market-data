@@ -1,0 +1,719 @@
+     zensarTM
+ October 28, 2026
+
+ BSE Limited                                           National Stock Exchange of India Limited
+ Corporate Service Department,                         Exchange Plaza, 3rd floor,
+ 1st Floor, P. J. Towers,                              Plot No. C/1, ‘G’ block,
+ Dalal Street,                                         Bandra Kurla Complex, Bandra (E),
+ Mumbai 400 001                                        Mumbai 400 051
+ Scrip Code: 504067                                    Symbol: ZENSARTECH
+
+ Sub.: Outcome of Board Meeting held on October 28, 2026
+
+ Dear Sir/Madam,
+
+ This is to inform you that the Board of Directors (“the Board”) of the Company at its meeting held today, i.e.
+ Wednesday, October 28, 2026, inter-alia , unanimously approved/recommended Unaudited (Standalone &
+ Consolidated) Financial results of the Company for the quarter ended September 30, 2026, along-with the
+ Limited Review Report thereon.
+
+ The Board meeting commenced at 6.30 p.m. (IST) and concluded at 10:02 p.m. (IST).
+
+ This is for your information.
+
+ Thanking you,
+
+ Yours sincerely,
+ For Zensar Technologies Limited
+ ANAND          Digitally signed by
+                ANAND CHAMPALAL
+ CHAMPALAL      DAGA
+                Date: 2026.10.28
+ DAGA           22:06:03 +05'30'
+
+
+ Anand Daga
+ Company Secretary
+
+ Encl.: As above
+
+
+
+
+                                                                                     An <->» RPG Company
+
+
+CIN: L72200PN1963PLC012621            www.zensar.com                  Zensar Technologies Limited, Zensar
+                                                                      Knowledge Park, Plot No. 4, MIDC Kharadi,
++(20) 6607 4000, 2700 4000            investor@zensar.com
+                                                                      Off Nagar Road, Pune 411014
+
+                                                                                                                    Ground floor, Tower C Unit 1,
+SR BC & COLLP                                                                                                       Panchshil Tech Park One, Loop road,
+                                                                                                                    Near Don Bosco School, Yerwada
+ Chartered Accountants
+                                                                                                                    Pune - 411 006, India
+
+                                                                                                                    Tel: +91 20 6603 6000
+
+
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Standalone Financial Results of the
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+as amended
+
+Review Report to
+The Board of Directors
+Zensar Technologies Limited
+
+  1.      We have reviewed the accompanying statement of unaudited standalone financial results ofZensar Technologies Limited
+          (the "Company") for the quarter ended September 30, 2026 and year to date from April OI, 2026 to September 30,
+          2026(the "Statement") attached herewith, being submitted by the Company pursuant to the requirements of Regulation 33
+          of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 , as amended (the "Listing
+          Regulations").
+
+  2.     The Company's Management is responsible for the preparation of the Statement in accordance with the recognition and
+         measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) "Interim Financial Reporting"
+         prescribed under Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued thereunder and
+         other accounting principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+         The Statement has been approved by the Company' s Board of Directors. Our responsibility is to express a conclusion on
+         the Statement based on our review.
+
+  3.     We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410,
+         " Review of Interim Financial Information Performed by the Independent Auditor of the Entity" issued by the Institute of
+         Chartered Accountants of India. This standard requires that we plan and perform the review to obtain moderate assurance
+         as to whether the Statement is free of material misstatement. A review of interim financial information consists of making
+         inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and other review
+         procedures. A review is substantially less in scope than an audit conducted in accordance with Standards on Auditing
+         and consequently does not enable us to obtain assurance that we would become aware of all significant matters that might
+         be identified in an audit. Accordingly, we do not express an audit opinion.
+
+  4.     Based on our review conducted as above , nothing has come to our attention that causes us to believe that the
+         accompanying Statement, prepared in accordance with the recognition and measurement principles laid down in the
+         aforesaid Indian Accounting Standards ('Ind AS') specified under Section 133 of the Companies Act, 2013 as amended,
+         read with relevant rules issued thereunder and other accounting principles generally accepted in India, has not disclosed
+         the information required to be disclosed in terms of the Listing Regulations, including the manner in which it is to be
+         disclosed, or that it contains any material misstatement.
+
+
+
+For S R B C & CO LLP
+
+                                 . 24982E/E300003
+
+
+
+
+per Tri
+Partner
+Membership No.: 501160
+
+UDIN:2.65 011. ,ou f>t'I D Qie
+Place: Pune
+Date: October 28, 2026
+
+
+
+
+                                         SR BC & CO LLP, a Lim ited liabilit y Part nersh ip wit h LLP Identity No. AAB-4318
+                                             Regd. Office: 22, Camac St ree t. Block 'B', 3rd Floor, Kolkata-700 016
+
+                                                                                                             ZensarTechnolo11ies limited
+                                                       Re11istered Office: Zensar Knowled11e Park, Kharadl, Plot# 4, MIDC, Off Nagar Road, Pune - 411014, India. CIN: L72200PN1963PLC012621
+                                                                    Statement of Standalone Unaudited Flnancla l Results for the Quarter and Half Year ended September 30, 2026
+
+                                                                                                                                                                                                       " In MIiiion e11cept earnings per share
+                                                                                                                    Quarter Ended                                                 Half Year Ended                          Year End ed
+                                        Particu lars                                        September30,2026        June 30, 2026          September 30, 2025       September 30, 2026       September 30, 2025           March 31, 2026
+                                                                                               Unaudited              Unaudited                Unaudited                Unaudited                 Unaudited                  Audited
+
+  1      Revenue from operations                                                                           8,097                  7,632                    6,734                 15,729                    12,956                      27,388
+         Otherincome(net)                                                                                    603                    734                      619                  1,337                     1,569                       3,27 1
+         Total Income                                                                                      8,700                  8,366                    7,353                 17,066                    14,525                      30,659
+
+  4      Expenses
+         a. Purchase of traded goods
+         b. Employee benefit s expense                                                                     4,524                  4,453                    4,421                    8,977                     8,542                    17,300
+         c.Subcontractingcosts                                                                             1,216                    909                      387                    2,125                       715                     2,242
+         d. Finance costs                                                                                     12                     13                       19                     25                          38                        54
+         e. Depreciation and amortisation ex.pense                                                           237                    148                      us                     385                       218                         389
+         f. Othere1<:penses                                                                                  499                    498                      457                    997                       929                       1,808
+         Total e1<:penses                                                                                  6,491                  6,022                    5,403                 12,513                    10,447                      21,802
+
+  5      Profit before exceptional Item and ta x (3-4)                                                     2,209                  2,344                    1,950                    4,553                     4,078                     8,857
+
+
+  6      Exceptional item
+         - Statutory impact of new Labour Codes (refer note 5)                                                                                                                                                                             235
+
+  7      Pro fit before tax (5-6)                                                                          2,209                  2,344                    1,950                    4,553                     4,078                     8,622
+
+
+  8      Tax expense
+         a. Currenttax                                                                                       430                    493                      412                      923                       794                     1,666
+         b. Deferr ed tax                                                                                     57                     16                       10                       73                        38                        96
+
+  9      Net profit after tax for the period (7-8)                                                         1,722                  1,835                    1,528                    3,557                     3,246                     6,860
+
+  10     Other comprehensive Jncome/(loss), net of Income ta x
+         A. Items that will not be reclassified to profit or loss                                             61                    (26)                     (20)                      35                       (13)                        25
+         B. ltems that will be reclassified to profit or loss
+         Total other comprehensive income/floss), net of Income tax                                           61                    (26)                     (20}                      35                       (13)                        25
+
+
+  11     Total comprehensive Income for the period (9+10)                                                  1,783                  1,809                    1,508                    3,592                     3,233                     6,885
+
+
+  12     Paid-up equity share capital (Face value t: 2 eac h)                                               454                     454                      455                      454                       455                        453
+
+  13     Other equity excluding revaluation reseNes as per balance sheet                                                                                                                                                               34,756
+
+ 14      Earnings per share (Face value" 2 each) (not annualised):
+         a)Basic                                                                                            7.55                   8.09                     6.73                    15.61                     14.29                     30.22
+         bl Diluted                                                                                         7.50                   7.97                     6.65                    15.53                     14.14                     29.84
+
+
+
+Statement of Asse ts & Liabilitles
+
+                                                                                                                                                                                                                   Asat
+                                                                              Particulars                                                                                                     September 30, 2026          March 31, 2026
+                                                                                                                                                                                                  Unaudited                  Audited
+Assets
+
+Non-current assets
+(al Property, plant and Equipment                                                                                                                                                                             1,050                       886
+(bl Right of use assets                                                                                                                                                                                          284                      325
+(c) Capital work -in-progress                                                                                                                                                                                     20                       10
+(d) Goodwill                                                                                                                                                                                                    956                       956
+(e) Otherlntangiblea5sets                                                                                                                                                                                     1, 944                       51
+(fl Intangible assets under development                                                                                                                                                                                                 1,750
+(g) Financial assets
+        i) Investments                                                                                                                                                                                        4,032                     5,050
+        ii)Other financialasse ts                                                                                                                                                                               419                     2,184
+(h) lncometaxassets(netl                                                                                                                                                                                        261                       25 1
+(i)Other non-current assets                                                                                                                                                                                      32                        44
+Tota l • Non-current assets                                                                                                                                                                                   8,998                    11,507
+
+
+Current assets
+(a) Financia l assets
+        i) Investments                                                                                                                                                                                     14,486                      14,660
+        ii) Tra de receivables                                                                                                                                                                              7,081                       7,339
+         iii) Cash and cash equ ivalents                                                                                                                                                                      749                         941
+         iv)Otherb alanceswith banks                                                                                                                                                                        5,752                       4,857
+         v) Other financial assets                                                                                                                                                                          2,415                       1,685
+(b) Other current assets                                                                                                                                                                                    1,502                         705
+Total - Current assets                                                                                                                                                                                     31,985                      30,187
+Total - Assets                                                                                                                                                                                             40,983                      41,694
+
+                                                                                                                                                                                                                    Asat
+                                                                           Particulars                                                                                                         September 30, 2026          March 31, 2026
+                                                                                                                                                                                                   Unaudit ed                 Audited
+
+
+Equity And Habllitles
+
+
+Equity
+(a) Equity share capita l                                                                                                                                                                                        454                        453
+(b) Other equity                                                                                                                                                                                            35,832                      34,756
+Total - Equity                                                                                                                                                                                              36,286                      3S,209
+
+
+Non-current liabilities
+(a)Financialliabilities
+         - Lease liabilities                                                                                                                                                                                     221                        259
+(b) Provisions                                                                                                                                                                                                    61                         59
+(cl Employee benefit obligations                                                                                                                                                                                 199                        195
+(d) Deferred tax liabilities (net)                                                                                                                                                                               188                        114
+Total • Non-<urrent IJablllties                                                                                                                                                                                  669                        627
+
+
+Current llabUitles
+(a) Financial liabilities
+         i) Lease liabilities                                                                                                                                                                                    107                        109
+         ii)Tradepayables                                                                                                                                                                                       1,342                     890
+         iii)Otherfinancial liabilities                                                                                                                                                                          762                     3,25 1
+(b) Employee benefit obligations                                                                                                                                                                                 389                        578
+(c) Other current liabilities                                                                                                                                                                                    888                        657
+(d) Income tax liabilities (net)                                                                                                                                                                                 540                        373
+Total - Current trabil ltles                                                                                                                                                                                    4,028                    S,8S8
+Tota l - Equity and liabilities                                                                                                                                                                             40,983                      41,694
+
+Notes:
+    1 These unaudited results have been prepared in accordan ce with the recognition and measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial ReportingHr Ind AS 34n), prescribed under Section 133
+      of the Companies Act, 2013 read with relevant rules issued there under as amended from time to time. The above financial re sults were reviewed and re commended by the Audit Committee and taken on record by the Board of
+      Directors at their meetings held on October 27, 2026 and October 28, 2026 respectively.
+
+    2 Standalone Statement of Cash flows is attached as Annexure I.
+
+    3 The Company publishes these standalone financia l results along with the consolidated fi nancial results. In accordance with Jnd AS 108, Operating Segments, the Company has disclosed the segment information in the consolidated
+       financi al results.
+
+    4 The Company has created 2ensar Employees Wel fare Trust (the 'ESOP Trust') for providing share•based payments, as a vehicle for distributing shares 10 employees under Employee Stock Option Scheme 2025. The Company has
+      treated ESOP Trust as its extension. As at September 30, 2026, ESOP Trust holds 637,875 Equity shares which are purchased from open market and it is treated as Treasury Shares by the Company. The paid-up Equity Share Capital
+       has been disclosed net of Treasury Shares and while computing the basic and diluted earnings per share, the weighted average number of equity shares held by trust have been reduced.
+
+    5 On November 21, 2025, the Government of India notified the four Labour Codes - the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Hea lth and Working
+      Conditions Code, 2020 • consolidating 29 existing labour laws. The Company has assessed and disclosed the incremental impact of these changes on the basis of the best information available and guidance provided by the Institute
+      of Chartered Accountants of India. Considering the materiality and regu latory-driven, non-recurring nature of this impact, the Company has presented such incremental impact as "Statutory impact of new Labour Codes" under
+      "Exceptional Items" in the standalone statement of profit and loss for the year ended March 31, 2026. The incrementa l impact on provisions for employee benefits expenses of" 235 Millfon primarily arises due to change In wage
+      definition. The Company continues to monitor the finali sation of Central/ State Rules and clarifications from the Government on other aspects of the Labour Code and would provid e appropriate accounting effect as and when such
+       clarifications are issued/rules are notified.
+
+    6 As approved in board meeting dated October 28, 2026 M3BI Ind la Private Limited will be merged with 2ensa r Technologies limited w.e.f. April 1, 2027 subject to necessary approvals .
+
+
+
+
+                                                                                                                                           ... . ,. -~·
+                                                                                                                                           !
+                                                                                                                                                          ..... •·· ··•·~:   ...... .
+                                                                                                                                           \
+                                                                                                                                                                                        i
+Mumbai
+Date: October 28, 2026
+
+                                                                                                                                                                                           Annexure I
+                                                                                                 Zensar Technologies Li mited
+                                                                                             Standa lone Stateme nt of Cash Flows
+
+                                                                                                                                                  Half Year Ended                    Year Ended
+                                                                Particul ars                                                        Seotember 30 2026        Seotember 30 2025      March 31 2026
+                                                                                                                                        Unau dited                Unaudited            Audit ed
+Cash fl ow from operating activit ies
+Profit before tax                                                                                                                                 4,553                   4,078                    8,622
+Adjustments for:
+Depreciation and amortisation expense                                                                                                               385                     218                      389
+Emp loyee share based payment expense                                                                                                               203                     314                      679
+Profit on sale of investments                                                                                                                      (240)                    (54)                    (149)
+Net (ga in) / loss in fai r va lue of financial assets/liab ilities measured at fa ir value through profit and loss                                  27                    (186)                    (283)
+Dividend from subsidiaries                                                                                                                         (352)                   (666)                  (1,391)
+Interest in co me                                                                                                                                  (587)                   (498)                  (1,028)
+Income on financia l assets measured at amortised cost                                                                                              (63)                    (58)                    (115)
+Finance costs                                                                                                                                        18                      36                        50
+(Profit)/ loss on sale of property, plant and equipment (net)                                                                                       (11)                      (5)                       (8)
+Bad debts and advances written off, allowance for expected credit losses and doubtful advances (net)                                                  5                       (4)                       (2)
+Provis ions no longer required and credit balances written back                                                                                                               (0)                   (130)
+Foreign exchange (gain)/ loss (net)                                                                                                                 (57)                    (481                      (78)
+                                                                                                                                                   (672)                   (951)                  (2,066)
+Operating profit before working capita l changes                                                                                                  3,881                   3,127                   6,556
+Change in assets and llabillties
+(Increase}/ decrease in trade receivables and unbill ed revenues                                                                                   (423)                    (94)                     105
+(Increase)/ decrease in other assets                                                                                                               (550)                   (153)                    (120)
+Increase/ {decrease) in t rade payables, other li abilities and provisions                                                                          177                     (77)                     365
+Increase/ (decrease) in employee benefit obligations                                                                                               (138)                    104                      332
+Cash generated from operating activities                                                                                                          2,947                   2,907                   7,238
+Income taxes paid (net of refunds received)                                                                                                        (766)                   (591                   (1,502)
+Net cash generated from / (used in) operati ng activit ies                                                                                        2,181                   2,316                   5,736
+Cas h fl ow from investing act ivit ies
+Purchases of property, pla nt and equipment, intangib le assets and Intangib le assets under development                                          (2,434)                  (202)                    (483)
+Proceeds from sa le of property, plant and equipment                                                                                                  22                      6                     11
+Ba nk deposits placed                                                                                                                             (3,473)                (2,603)                (6,308)
+Bank deposits redeemed                                                                                                                             4,084                  1,252                  4,383
+Purchase of mutual funds and other investments                                                                                                  (25 ,474)               (15,057)              (33,568)
+Proceeds from sa le/ redempt ion of mutual funds and other investments                                                                           26,879                  16,712                32,086
+Interest income received                                                                                                                             583                    590                  1,252
+Dividend from subsidiaries                                                                                                                           353                    666                  1,391
+Net cash flows from/ (used in ) investing activit ies                                                                                               540                   1,364                   (1,236)
+Cash flow from financing activities
+Proceeds from issue of equity shares                                                                                                                   1                       1                        2
+Dividend paid (net)                                                                                                                              (2,857)                 (2,499)                  (3,043)
+Interest paid                                                                                                                                         (0 )                    (O)                      (0)
+Payment of lease liabi lities                                                                                                                       (55)                   (122)                    (159)
+Payment for purchase of Treasury shares by Zensar Employees Welfare Trust                                                                                                                           (566)
+Net cash flows from/ (used in) financing activities                                                                                              12,9111                 12,6201                  (3,766)
+
+Net increase/(decrease) in cas h and cash equiva lents                                                                                             11901                 1 060                      734
+Effect of exchange differences on translation of cash and cash equivalents                                                                            (2)                                             19
+Cas h and cash equiva lents at the beginning of t he year                                                                                           941                     188                      188
+Cas h and cash equiva lents at the end of the year/period                                                                                           749                   1,248                     941
+
+                                                                                                                      Ground floor, Tower C Unit 1,
+SR BC & COLLP                                                                                                         Panchshil Tech Park One, Loop road ,
+                                                                                                                      Near Don Bosco School, Yerwada
+ Chartered Accountants
+                                                                                                                      Pune -411 006, India
+
+                                                                                                                     Tel: +91 20 6603 6000
+
+
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Consolidated Financial Results of the
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+as amended
+
+Review Report to
+The Board of Directors
+Zensar Technologies Limited
+
+ I.   We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results ofZensar Technologies Limited
+      (the ·'Holding Company") and its subsidiaries (the Holding Company and its subsidiaries together referred to as " the Group"),
+      for the quarter ended September 30, 2026 and year to date from April OI, 2026 to September 30, 2026 (the "Statement")
+      attached herewith, being submitted by the Holding Company pursuant to the requirements of Regulation 33 of the SEBI
+      (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the "Listing Regulations").
+
+2.    The Holding Company's Management is responsible for the preparation of the Statement in accordance with the recognition
+      and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) "Interim Financial Reporting"
+      prescribed under Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued thereunder and other
+      accounting principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. The
+      Statement has been approved by the Holding Company' s Board of Directors . Our responsibility is to express a conclusion on
+      the Statement based on our review.
+
+3.    We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, ·'Review
+      of Interim Financial Information Performed by the Independent Auditor of the Entity" issued by the Institute of Chartered
+      Accountants of India. This standard requires that we plan and perform the review to obtain moderate assurance as to whether
+      the Statement is free of material misstatement. A review of interim financial information consists of making inquiries,
+      primarily of persons responsible for financial and accounting matters, and applying analytical and other review procedures. A
+      review is substantially less in scope than an audit conducted in accordance with Standards on Auditing and consequently does
+      not enable us to obtain assurance that we would become aware of all significant matters that might be identified in an audit.
+      Accordingly, we do not express an audit opinion.
+
+      We also performed procedures in accordance with the Master Circular issued by the Securities and Exchange Board of India
+      under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+4.    The Statement includes the results of the entities mentioned in Annexure I.
+
+5.    Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing has come to our attention
+      that causes us to believe that the accompanying Statement, prepared in accordance with recognition and measurement
+      principles laid down in the aforesaid Indian Accounting Standards ('Ind AS ' ) specified under Section 133 of the Companies
+      Act, 2013 , as amended, read with relevant rules issued thereunder and other accounting principles generally accepted in India,
+      has not disclosed the information required to be disclosed in terms of the Listing Regulations, including the manner in which
+      it is to be disclosed, or that it contains any material misstatement.
+
+
+
+For SR BC & CO LP
+Chartered Account
+ICAI Firm regi trati n              324982E/E300003
+
+
+
+
+per Tride •   handelwal
+Partner
+Membership No.: 501160
+
+UDIN:26501160U OLOBZ 1961
+Place: Pune
+Date: October 28, 2026
+
+                                           S RB C & CO LLP, a limi te d liability Pa rtnership with LLP Identity No. AAS-43 18
+                                                Regd. Office: 22, Camac Stree t, Block 'B' , 3rd Floor, Kolkata-700 016
+
+SR BC & COLLP
+Chartered Accountants
+
+
+
+
+Annexure I
+
+Independent Auditor's Review Report on the Quarterly Unaudited Consolidated Financial Results of the Company
+
+List of entities whose financial results are included in the Statement along with Holding Company
+
+             Name of entity
+ Sr No.
+ I.          Zensar Technologies Inc, USA
+ 2           Zensar Technologies (UK) Limited, United Kingdom
+ 3.          Zensar (Africa) Holdings Proprietary Limited, South Africa
+ 4.          Zensar (South Africa) Proprietary Limited, South Africa
+ 5.          Zensar Technologies (Singapore) Pte Limited, Singapore
+ 6.          Foolproof Limited, United Kingdom
+ 7.          Keystone Logic Mexico, S. DE R.L. DE C.V, Mexico
+ 8.          Zensar Technologies Gmbh, Germany
+ 9.          Zensar Technologies (Canada) Inc., Canada
+ 10.         Zensar Information Technologies B.V., Netherlands
+ 11.         Zensar Colombia S A S, Colombia
+ 12.         M3BI LLC, USA (Merged with Zensar Technologies Inc, USA w.e.f. September 01 , 2026)
+ 13.         M3BI India Private Limited, India
+ 14.         Bridge View Life Sciences LLC, USA (Merged with Zensar Technologies Inc, USA w.e.f. August 01 , 2026)
+ 15.       Zensar Technologies doo Beograd, Serbia
+
+                                                                                                          2ensar Technologies Limited
+                                                     Registered Office: Zensar Knowledge Park, Kharadi, Plot# 4, MIOC, Off Nagar Road, Pune • 411014, Ind la. CIN: L72200PN1963PLC012621
+                                                                 Statement of Consolidated Unaudited Flnanclal Results for the Quarter and Half Yea r ended September 30, 2026
+
+
+                                                                                                                                                                                                        "In MIiiion exceot eamln s ner share
+                                                                                                                    Quarter Ended                                                     Half Year Ended                       Year Ended
+                                                                                           September 30, 2026       June 30, 2026          SE!pteri'lber 30, 2025     Sept em·ber 30, 2026      September 30, 2025       March 31, 2026
+ Particulars                                                                                   Unaudited             Unaudited                  Unaudited                 Unaudit ed               Unaudited                Audited
+
+  1      Revenue from operations                                                                        15,852                 15,083                      14,213                  30,935                    28,063                   56,874
+  2      Otherincome(net}                                                                                    423                    573                       491                       996                    1,058                   2,339
+  3      Total Income                                                                                   16,275                15,656                       14,704                  31,931                    29,121                   59,213
+
+  4      Expenses
+         a. Purchase of traded goods                                                                          189                    108                      119                        197                     197                     388
+         b. Employee benefits expense                                                                      9,336                 9,223                      9,252                  18,559                    18,013                   36,312
+         c. Subcon tracting costs                                                                          2,777                 2,448                      1,839                      S,22S                   3,693                   7,385
+         d. Finance costs                                                                                     33                     35                        37                        68                       73                     121
+         e. Depreciation and amortisation elCpense                                                           368                    185                       152                        653                     483                     913
+         f. Othereicpenses                                                                                 1,0S3                 1,095                        803                      2,148                   1,854                   3,628
+      Total eicpenses                                                                                   13,7S6                13,194                       12,302                  26,9SO                   24,313                    48,747
+
+  5      Profit before ellceptlonal item and ta1t (3-4)                                                    2,519                 2,462                      2,402                   4,981                      4,808                  10,466
+
+  6      Ellceptional Item
+         - Statutory impact of new Labour Codes (refer note 5)                                                                                                                                                                           149
+
+  7      Profit beforetax(S-6)                                                                             2,519                 2,462                      2,402                   4,981                      4,808                  10,217
+
+
+  8   Tax expense
+      a. Current tax                                                                                         534                    654                       549                      1,188                   1,111                   2,239
+      b. Deferred tax                                                                                         83                    (30)                       31                         53                      55                     232
+
+  9   Net profit after t all for the period (7·8)                                                          1,902                 1,838                      1,822                   3,740                      3,642                   7,746
+
+  10 Net profit attributable to;
+      -Owners                                                                                              1,902                 1,838                      1,822                   3,740                      3,642                   7,746
+
+  11 Other comprehensive income/(loss), net of Income tax
+      A. Items that will not be reclassified to profit or toss                                                64                    (26)                       (10)                      38                      (11)                     29
+      B. Items that will be reclassified to profit or loss                                                   198                     45                       354                       143                      591                   1,376
+      Tota l other comprehensive lncome/(loss), net of Income tax                                            262                     19                       334                       281                      580                   1,405
+
+  12 Total comprehensive Income for the period (10+11)                                                     2,164                 1,857                      2,156                   4,021                      4,222                   9,151
+
+
+  13 Total comprehensive Income attrlbutable to:
+      -Owners                                                                                              2, 164                1,857                      2,156                   4,021                      4,222                   9,151
+
+  14 Paid-up equity share ca pital (Face value!( 2 each)                                                     454                    454                       455                       454                      455                     453
+
+  15 Other equity excluding revaluation reserves as per balance sheet                                                                                                                                                                 46,738
+
+ 16 Earnings per share (Face value'< 2 each) (not annualis@d):
+    a) Basic                                                                                                8.33                    8.11                     8.02                   16.41                      16.03                   34.12
+      b)Diluted                                                                                             8.28                    7.99                     7.93                   16.33                      15.86                   33.69
+
+
+Statement of Assets & Liabilities
+
+
+                                                                             Particulars                                                                                                             Asat                   Asat
+                                                                                                                                                                                               Septembe r 30, 2026      March 31, 2026
+                                                                                                                                                                                                   Unaudited                Audited
+Assets
+
+Non-current assets
+(a) Property, plant and equipment                                                                                                                                                                              1,235                   1,051
+(bl Right of use assets                                                                                                                                                                                        530                       667
+(cl Capital work-in-progress                                                                                                                                                                                    19                        10
+(d) Goodwill                                                                                                                                                                                                10,134                    10,038
+(el Other intangible assets                                                                                                                                                                                    2,254                    470
+(fl Intangible assets under deVi!lopment                                                                                                                                                                                               1,750
+(g)Financial assets
+       i) Investments                                                                                                                                                                                          1,S95                   2,613
+         II) Other financial assets                                                                                                                                                                             461                    2,254
+(h) Income tax assets (net)                                                                                                                                                                                     336                     317
+(ii Deferred taxassets(net)                                                                                                                                                                                    1,134                   1,101
+(j) Other non-current assets                                                                                                                                                                                     38                       61
+Total• Non-current assets                                                                                                                                                                                   17,736                    20,332
+
+Current assets
+(a)Financla l assets
+         i) Investments                                                                                                                                                                                     16,073                    16,594
+         ll)Trade receivables                                                                                                                                                                                8,004                     9,242
+         iil)Cash and cash eq uivalents                                                                                                                                                                      3,905                     4,163
+         iv)Otherbalanceswithbanks                                                                                                                                                                           6,670                     5,1S2
+         v)Otherfinancia l assets                                                                                                                                                                            6,481                     3,723
+(b)Olhercurrentassets                                                                                                                                                                                          2,484                   1,629
+Total • Current assets                                                                                                                                                                                      43,617                    40,503
+Total-Assets                                                                                                                                                                                                61,353                    60,835
+
+                                                                                                                                                                                          Asat                  Asat
+                                                                         Particulars                                                                                               September 30, 2026       March 31, 2026
+                                                                                                                                                                                       Unaudited               Audited
+Equity And llabllltles
+
+
+Equity
+(a) Equity share capita l                                                                                                                                                                            454                    453
+(b) Other equity                                                                                                                                                                                 48,243                  46,738
+Total • Equity                                                                                                                                                                                   48,697                  47,191
+Uabllities
+Non-current llabllltles
+(a)Financial liabilities
+         i) Lease liabilities                                                                                                                                                                        356                     442
+         ii) Other fi nancial liabilities                                                                                                                                                          1,032                     939
+(bl Provisions                                                                                                                                                                                        61                     ,59
+(c) Employee benefit obligations                                                                                                                                                                     593                     589
+(d) Deferrnd ta x liabilities (net)                                                                                                                                                                  188                     115
+Total· Non-cu rrent llabilltl es                                                                                                                                                                   2,230                   2, 144
+
+
+Currentliabilltles
+(a) Financial liabilities
+         i) Lease liabilities                                                                                                                                                                        289                     351
+         ii)Trade payables                                                                                                                                                                         4,524                   3,674
+         iii) Other financial liabilities                                                                                                                                                          1,649                   4,520
+(bl Employee benefit obligations                                                                                                                                                                     713                     853
+(c) Other current liabilities                                                                                                                                                                      2,618                   1,649
+{d) Income tax llabilities (net)                                                                                                                                                                    633                      453
+Tota l• Current 1/abllltles                                                                                                                                                                      10,426                  11,500
+Total· Equity And liablllUes                                                                                                                                                                     61,353                  60,835
+
+Segmental reportin g for the Quarter and Year ended September 30, 2026
+                                                                                                           Quarter Ended                                               Half Year Ended                        Year Ended
+Segment result s                                                                   September 30, 2026      June 30, 2026          September 30, 2025      September 30, 2026       September 30, 2025       March 31, 2026
+
+                                                                                       Unaudited            Unaudited                 Unaudited               Unaudited                Unaudited               Audited
+
+Segment revenue
+Digital and Application Services                                                                12,446                11,672                   11,061                 24,118                     21,990                  44,259
+Cloud Infrastructure and Security                                                                  3,406                3,411                     3,152                   6,817                    6,073                 12,61S
+Revenue From Operations                                                                         15,852                15,083                   14,213                 30,935                     28,063                  56,874
+
+
+Segment results
+Digital and Application Services                                                                   1,936                1,734                     1,872                   3,670                    3,70 2                  7,616
+Cloud Infrastructure and Secu rity                                                                  627                    701                     637                    1,328                    1,225                   2,609
+Segment result s                                                                                   2,563                2,435                     2,509                   4,998                    4,927                 10,225
+
+Less: Fina nce costs                                                                                 33                     35                      37                      68                        73                     m
+Less: Unallocable expenditure net of unallocable income                                               11                   (62)                     70                      (SIi                      46                   (113)
+Profit before ta x                                                                                 2,519                2,462                     2,402                   4,981                    4,808                 10,217
+
+                                                                                      Seatember 30, 2026          June 30, 2026         Seotember 30, 202S         March31,2026
+                               Segment assets & llabllltles
+                                                                                           Unaudited                Unaudited                Unaudited                 Audited
+
+  1     Segment assets
+        Traderecelvabtes
+        Digital and Application Services                                                               6,198                    6,226                    6,075                    6,938
+        Cloud Infrastructure and Security                                                              1,806                    2,653                    1,903                    2,304
+        Total trade receivables                                                                        8,004                    8,879                    7,978                    9,242
+
+        Unbilled revenue
+        Digital and Application Services                                                               4,757                    3,837                    3,640                    3,043
+        Cloud Infrastructure and Security                                                              1,568                      915                      976                     945
+        Total unbllled revenue                                                                         6,325                    4,752                    4,616                    3,988
+
+
+        Goodwill
+        Digital and Application Services                                                               8,335                    8,245                    7,820                    8,258
+        Cloud Infrastructure and Security                                                              1,799                    1,777                    1,667                    1,780
+        Total goodwill                                                                               10,134                  10,022                      9,487                   10,038
+
+
+        Unallocable assets                                                                           36,890                  38,186                    32,042                    37,S67
+
+
+        TOT AL ASSETS                                                                                61,353                  61,839                    54,123                    60,835
+
+
+
+  2     Segment liabilities
+        Unearned Revenue
+        Digital and Application Services                                                                 438                      235                      291                     150
+        Cloud Infrastructure and Security                                                                267                      450                      235                       61
+        Total unearned revenue                                                                           705                      685                      526                     211
+
+        Unallocable llablliUes                                                                       11,951                  11,836                    10,807                    13,433
+
+
+        TOTAL LIABILITIES                                                                            12,656                  12,521                    11,333                    13,644
+
+
+Notes:
+   1 These unaudited results have been prepared In accordance with the recognition and measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting"("lnd AS 34"), prescribed under Section
+     133 of the Companies Act, 2013 read with relevant rules issued there under as amended from time to time. The above financial results were reviewed and recommended by the Audit Committee and taken on re cord by the Board
+        of Directors at their meetings held on October 27, 2026 and October 28, 2026 respectively.
+
+      2 Consolidated Statement of Cash flows !s attached as Annexure I.
+
+      3 Standalone Flnanctal Information
+                                                                                                                  Quarter Ended                                                  Half Year Ended                        Year Ended
+                                           Particulars                                September 30, 2026          June 30, 2026         September 30, 2025       September 30, 2026       September 30, 2025         March 31, 2026
+                                                                                           Unaudited               Unaudited                 Unaudited                Unaudited               Unaudited                  Audited
+        Revenue from operations                                                                        8,097                    7,632                    6,734                   15,729                 12,956                     27,3B8
+        Profitbeforee)(ceptionatitemandtax                                                             2,209                    2,344                    1,9SO                   4,553                    4,078                    8,857
+        Profit before tax                                                                              2,209                    2,344                    1,950                   4,553                    4,078                    8,622
+        Net profit for the period                                                                      1,722                    1,835                    1,528                    3,557                   3,246                    6,860
+        Results of Zensar Technologies Limited on a standalone ba sis are hosted on its website www.zensar.com.
+
+      4 The Company has created 2ensar Employees Welfare Trust (the 'ESOP Trust') for providing share-based payments, as a vehicle for distributing shares to employees under Employee Stock Option Scheme 2025. The Company has
+        treated ESOP Trust as its extension . As at September 30, 2026, ESOP Trust holds 637,875 Equity shares which are purchased from open market and it is treated as Treasury Shares by the Company. The paid·up Equity Share Capital
+        has been disclosed net of Treasury Shares and while computing the basic and diluted earnings per share, the weighted average number of equity shares held by tru st have been reduced.
+
+
+   5 On November 21, 2025, the Government of India notified the four Labour Codes - the Cod~ on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health and Working
+     Conditions Code, 2020 - consolidating 29 existing labour laws. The Group has assessed and disclosed the increment al Impact of these changes on the basis of the best Information available and guidance provided by the Institute
+     of Chartered Accountarits of India . Considering the materiality and regulatory-driven, non-recurring nature of this impact, the Group has presented such incremental impact as "Statutory impact of new Labour CodesM under
+     "Exceptional Items" in the consolidated statement of profit and loss for the year ended March 31, 2026. The incremental impact on provisions for employee benefits expenses of Il : 249 Minton primarily arises due to change in wage
+     definition. The Group continues to monitor the flnaUsation of Central/ State Rules and clarifications from the Government on other aspects of the Labour Code and would provide appropriate accounting effect as and when such
+        clarifica tions are issued/rules are notified.
+
+   6 During the quarter, BridgeView Life Sciences, LLC and M3BI LLC have been merged with Zensar Technologies Inc. effective August l, 2026 and September 1, 2026 respP.ctlvely. Since the entities were within the Group, the mergers
+        do not have any impact on the consolidated financial results of the Group.
+
+   7 As appro ved in board meeting dated October 28, 2026 M3B1 India Private Limited will be merged with Zensar Technologies Limited w.e.f. April 1, 2027 subject to necessary approvals.
+
+
+
+
+                                                                                                                                                                                                                              •    andon
+Mumbai                                                                                                                                                                                                                 Managing Director
+Date: October 28, 2026                                                                                                                                                                                                     OIN:07559939
+
+                                                                                                                                                                                               Annexure I
+                                                                                                Zensar Technologies Limited
+                                                                                            Conso lid ated Statement of Cash Flows
+
+                                                                                                                                                   Half Year Ended                       Year Ended
+                                                               Particu lars                                                          Se1Jtember 30, 2026      SeDtember 30, 2025       March 31, 2026
+                                                                                                                                          Unaudited               Unaudited               Audited
+Cash flow from operating act ivities
+Profit before tax                                                                                                                                   4,981                    4,808                  10,217
+A~justments for:
+Depreciation and amortisation expense                                                                                                                 653                      483                     913
+Employee share based payment expense                                                                                                                  341                      369                     950
+Profit on sa le of investments                                                                                                                       (278)                     (92)                   (233)
+Net (ga in) /loss in fair value of financial assets/liabi li ties measured at fair value through profit and loss                                        65                    (115)                   (292)
+Income on financial assets measured at amortised cost                                                                                                  (64)                    (58)                   (115)
+Interest income                                                                                                                                      (676)                    (570)                 (1,175)
+Finance costs                                                                                                                                           53                      63                     103
+(Profit)/ loss on sa le of property, plant and eq uipment (net)                                                                                        (10)                     (4)                    (10)
+Bad debts and advances written off, al lowance for expected credit losses and doubtful advances (net)                                                   30                      (5)                     14
+Provision no longer required and credit balances written back                                                                                           (0)                     (3)                   (138)
+Foreign excha nge (gain) / loss (net)                                                                                                                (244)                     160                    (109)
+                                                                                                                                                     (130)                     228                     (92)
+Operating profit before working capita l changes                                                                                                    4,851                    5,036                  10,125
+Change in assets and liabilities
+(lncrease)/decrease in trade receivables and unbilled revenues                                                                                     (1,145)                    (699)                  (1,333)
+(Increase)/ decrease in other assets                                                                                                                 (945)                    (368)                    (163)
+Increase/ (decrease) in trade payables, other liabi li ties and provisions                                                                            927                     (154)                     633
+Increase/ (decrease) in emp loyee benefit obligations                                                                                                  (84)                    184                      391
+Cash generated from operating activities                                                                                                            3,604                    3,999                    9,653
+Incom e taxes paid (net of refunds received)                                                                                                         (891)                    (930)                  (1,945)
+Net cash generated from/ {u sed in) operating activities                                                                                            2,713                    3,069                    7,708
+
+
+
+Cash flow from investing activities
+Purchases of property, plant and equipment, intangible assets and Intangible assets under development                                              (2,498)                    (228)                    (537)
+Proceeds from sale of property, plant and equipment                                                                                                    22                      (12)                      16
+Payment for business acquisition                                                                                                                                                                        (12)
+Disposa l of investments                                                                                                                                                        6
+Bank deposits placed                                                                                                                               (4,417)                 (2,823)                   (6,774)
+Bank deposits redeemed                                                                                                                              4,436                   1,493                     4,852
+Pu rchase of mutual funds and other investm ents                                                                                                  (37,687)                (27,671)                  (57,930)
+Proceeds from sale/ redemption of mutua l funds and other investments                                                                              39,500                  29,217                    56,575
+Interest income received                                                                                                                              658                     663                     1,404
+Net cash flows from/ (used in) investing activ ities                                                                                                   14                     645                    (2,406)
+Cas h flow from financing activities
+Proceeds from issue of equity shares                                                                                                                     1                        1                        2
+Dividend paid {net)                                                                                                                                (2,857)                  (2,499)                  (3,043)
+Interest paid                                                                                                                                           (1)                      (0)                      (0)
+Payment of lease liab ilities                                                                                                                        (171)                    (251)                    (403)
+Payment for purchase of Treasury shares by Zensar Emp loyees Wel fare Trust                                                                                                                            (566)
+Net cash flows from/ (used in) fi nancing activities                                                                                               (3,028)                  (2,749)                  (4,010)
+
+Net increase/(decrease) in cas h and cas h equiva lents                                                                                              13011                    965                     1292
+Effect of exchange differences on t ranslation of cash and cas h eq ui vale nts                                                                        43                      68                       163
+Cash and cas h equ iva lents at the beginning of the year                                                                                           4,163                   2,708                     2,708
+Cash and cash ea uivalents at the end of the year/period                                                                                            3,905                   3,741                     4,163
+

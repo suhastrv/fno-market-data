@@ -1,0 +1,1360 @@
+SEC/SE/092/2026-27
+Chennai, November 16, 2026
+
+ To                                                    To
+ National Stock Exchange of India Limited              BSE Limited
+ Exchange Plaza, Bandra Kurla Complex,                 25th Floor, P.J. Towers,
+ Bandra(E),                                            Dalal Street,
+ Mumbai – 400051                                       Mumbai – 400 001
+ NSE Symbol - DATAPATTNS                               Company Code: 543428
+
+
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+      2015 – Transcript of Earnings Conference Call
+
+Dear Sir/ Madam,
+
+Further to our earlier letter no. SEC/SE/084/2026-27 dated November 03, 2026 intimating the schedule of
+Earning Conference call on the financial results for the quarter and half-year ended September 30, 2026, please
+find enclosed herewith the transcript of the Earnings Conference Call held on Monday, November 09, 2026 at
+11.00 A.M. IST.
+
+The transcript of the earnings call is also available on the website of the company.
+
+We request you to take the above record and oblige.
+
+Thanking You.
+
+For Data Patterns (India) Limited
+        Digitally
+R
+        signed by R
+PRAKASH PRAKASH
+Prakash R
+Company Secretary and Compliance Officer
+Membership No. F13620
+
+Encl: As above
+
+             “Data Patterns (India) Limited
+         Q2 FY27 Earnings Conference Call”
+                    November 09, 2026
+
+
+
+
+MANAGEMENT: MR. S. RANGARAJAN – CHAIRMAN & MANAGING
+            DIRECTOR – DATA PATTERNS (INDIA) LIMITED
+            MR. VENKATA SUBRAMANIAN – CHIEF FINANCIAL
+            OFFICER – DATA PATTERNS (INDIA) LIMITED
+
+MODERATOR:   MS. PRAYASI PATEL – GO INDIA ADVISORS
+
+
+
+             Page 1 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+
+
+
+Moderator:       Ladies and Gentlemen, Good day, and welcome to Data Patterns India Limited Q2 FY '27
+                 Earnings Conference Call hosted by Go India Advisors LLP. As a reminder, all participants line
+                 will be in the listen only mode and there will be an opportunity for you to ask questions after the
+                 presentation concludes. Should you need assistance during this conference call, please signal an
+                 operator by pressing star then zero on your touchtone phone. Please note that this conference is
+                 being recorded. I now hand the conference over to Ms. Prayasi Patel from Go India Advisors.
+                 Thank you, and over to you, ma'am.
+
+
+Prayasi Patel:   Thank you. Good morning, everyone, and welcome to Data Patterns India Limited earnings call
+                 to discuss Q2 FY '27 financial performance. Before we begin, I would like to wish everyone a
+                 very happy Diwali. May this festival bring happiness, prosperity and success to all.
+
+
+                 We have the senior management of the company on the call, Mr. S. Rangarajan, Chairman and
+                 Managing Director; and Mr. Venkata Subramanian, chief financial officer. We must remind you
+                 that the discussion on today's call may include certain forward-looking statements and must be
+                 therefore viewed in conjunction with the risks that the company may face.
+
+
+                 May I now request Mr. Rangarajan, sir, to take us through the company business outlook and
+                 financial highlights, subsequent to which we will open the floor for Q&A. Thank you, and over
+                 to you, sir.
+
+
+S. Rangarajan:   Thank you, Prayasi. Good morning, ladies and gentlemen. A very warm welcome to the Q2 FY
+                 '27 earnings call of Data Patterns India Limited. I join Prayasi and take this opportunity to wish
+                 everyone a very happy Diwali and hope that the festive occasion brings happiness, prosperity,
+                 and success to all of you and your families.
+
+
+                 We sincerely appreciate your continued trust, support, and participation. I hope all of you have
+                 had the opportunity to review our earnings presentation and financial results, which have been
+                 rolled on the stock exchanges and our company website.
+
+
+                 As we reflect on the first half of FY '27, we are encouraged by the significant progress made by
+                 the company, particularly in the order inflow front and the substantive investments being made
+                 in the development of complete products and sensors to address the growing scale of
+                 opportunities, fuelling our increasing participation in larger and more complex defence
+                 programs.
+
+
+                 At Data Patterns, we have consistently invested in developing indigenous technologies,
+                 strengthening our engineering capabilities, and expanding our manufacturing infrastructure.
+                 These investments are now creating a strong foundation for the next phase of our growth.
+
+
+                 We're increasingly seeing customers engage with us for complete systems and integrated
+                 solutions rather than individual parts and subsystems, which provides us with opportunities to
+                 participate in larger programs and enhance our value creation proposition.
+
+
+
+
+Page 2 of 22:
+
+                                                                                Data Patterns (India) Limited
+                                                                                        November 09, 2026
+
+                Our order inflows during H1 FY '27 have been particularly encouraging. We secured fresh orders
+                worth INR1,046 crores during the first half, including INR929 crores in Q2 FY '27, compared
+                with INR167 crores in the corresponding quarter last year.
+
+
+                This reflects the growing confidence of customers in our technological capabilities, execution
+                strength, and ability to deliver complex defence electronic solutions. Our order book has also
+                strengthened considerably. As of April 1, 2026, our order book stood at INR927 crores. As of
+                date, orders on hand are at INR1,742 crores.
+
+
+                In addition, we have successfully concluded negotiations for orders worth INR956 crores, which
+                are awaiting formal receipt. Including these negotiated orders, our overall order book visibility
+                stands approximately at INR2,698 crores.
+
+
+                Our international order book stood at INR32 crores as of September 30, 2026, which we believe
+                will grow during this financial year. We continue to engage with international customers and
+                explore opportunities to expand our presence in global markets, leveraging our indigenous
+                technologies and established product capabilities.
+
+
+                Looking ahead, we see significant opportunities across key business areas, including radar,
+                electronic warfare, avionics, and other defence electronics programs. We're also witnessing
+                increasing opportunities for larger complete system contracts, which we believe can play an
+                important role in driving our growth substantially over the coming years.
+
+
+                On the technology front and product development front, we continue to invest in developing
+                new products and expanding our existing portfolio. During the period, we made progress in the
+                development of drone defence systems, including different kinds of radars, passive RF detection
+                and jamming, maritime and airborne radars for small and large UAVs and helicopters, long-
+                range radars with advanced beamforming, and completing the development of jammer pods,
+                development of next generation COMINT and ELINT and Radar Warning Receivers, among
+                others.
+
+
+                We have a large engineering team consisting of more than 1,100 engineers and continuing active
+                recruitment of fresh engineering talent. We've also initiated design and development of advanced
+                optronics for varied applications as well as agile defence microsatellites.
+
+
+                These initiatives are aimed at strengthening our technological differentiation, addressing
+                emerging customer requirements, and positioning the company to participate in a wider range
+                of defence programs. We believe that continuous investment in indigenous product development
+                will remain an important driver for our long-term growth.
+
+
+                Another important strategic development during the quarter was the acquisition of 100% stake
+                in ST Advanced Composites Private Limited, which became a wholly-owned subsidiary
+                effective September 17, 2026. This acquisition strengthens our advanced composite design
+                manufacturing capabilities, enhances our ability to offer integrated solutions and create
+                opportunities across radars and other defence programs.
+
+
+
+
+Page 3 of 22:
+
+                                                                                        Data Patterns (India) Limited
+                                                                                                November 09, 2026
+
+                       Coming to financial performance, revenue from operations stood at INR133.3 crores in Q2
+                       FY27, registering a sequential growth of 14.8 % over INR116 crores in Q1 FY27. For H1 FY27,
+                       revenue from operations stood at INR249.3 crores.
+
+
+                       Revenue from operations for Q2 FY27 was lower on a year-on-year basis, primarily following
+                       the exceptionally strong execution achieved in Q2 FY26, which had resulted in a significantly
+                       higher revenue base.
+
+
+                       During the current quarter, several program milestones are progressing, with deliveries expected
+                       to pick up in the second half of FY27. Accordingly, we expect H2 FY27 to be stronger than H1
+                       FY27, supported by a healthy order book and execution momentum.
+
+
+                       Looking ahead, we remain confident about our growth trajectory and maintaining our FY27
+                       guidance of 20% to 25% revenue growth and EBITDA margins in the range of 35% to 40%. Our
+                       confidence is supported by strong order inflows during the first half, substantial orders in hand,
+                       negotiated orders awaiting formal receipt, and growing opportunity across our key business
+                       segments.
+
+
+                       As we move to H2 FY27, we remain focused on accelerating execution, driving innovation, and
+                       leveraging our technology capabilities to expand our product portfolio to capitalize on the
+                       growing opportunities in Indian defence, global defence aerospace sectors, while creating
+                       sustainable long-term value for all our stakeholders.
+
+
+                       With that, I would like to now hand over the floor to our CFO, Mr. Venkata Subramanian, to
+                       take you through the financial performance in greater detail.
+
+
+Venkata Subramanian:   Thank you, sir. Good morning, ladies and gentlemen, and thank you all for joining us today. Let
+                       me take you through the financial highlights for the second quarter and first half of FY27.
+                       Revenue from operations for Q2 FY27 stood at INR133 crores, compared to INR116 crores in
+                       Q1 FY27.
+
+
+                       For H1 FY27, the revenue stood at INR249 crores. Profit before tax for Q2 FY27 stood at INR30
+                       crores, while profit after tax stood at INR22 crores. For H1 FY27, PBT stood at INR59 crores
+                       and PAT stood at INR44 crores. On a year-on-year basis, the revenue and profitability were
+                       lower compared to Q2 FY26, primarily reflecting the higher execution base in the corresponding
+                       quarter last year.
+
+
+                       However, our overall performance remained broadly in line with the preceding quarter. The
+                       company continues to maintain a strong balance sheet with cash and bank balances and
+                       investments of more than INR500 crores as on September 30, 2026, providing us with the
+                       financial flexibility to support our growth initiatives and strategic investments.
+
+
+                       Our closing order book as of September 30, 2026, stood at INR2,698 crores, including orders
+                       negotiated, providing a healthy visibility for execution over the coming period. Our international
+                       order book stood at INR32 crores, and we expect it to grow in the current financial year.
+
+
+
+
+Page 4 of 22:
+
+                                                                                         Data Patterns (India) Limited
+                                                                                                 November 09, 2026
+
+                       We remain focused on disciplined execution, maintaining operational efficiencies, and ensuring
+                       that our investments in technology and engineering capabilities support sustainable growth and
+                       profitability.
+
+
+                       With this, I would like to open the floor for question and answers. Thank you.
+
+
+Moderator:             Thank you. We will now begin with the question-and-answer session. Anyone who wishes to
+                       ask a question may press star and one on their touchtone telephone. If you wish to remove
+                       yourself from the question queue, you may press star and two. Participants are requested to use
+                       handsets while asking a question and in order to ensure that the management is able to address
+                       question from all the participants in the conference, please limit your question to three per
+                       participant. Ladies and Gentlemen will wait for a moment while the question queue assembles.
+                       The first question is from the line of Abhijeet Singh from Systematix. Please go ahead.
+
+
+Abhijeet Singh:        Yes, thank you for the opportunity. Sir, first question is on the orders that we have negotiated
+                       and we are awaiting final close for that. So what is the outlook on that? It seems to be that those
+                       are getting delayed to an extent, because even the last quarter, we were talking about those
+                       orders. Now in this quarter, we have about INR1,000 crores under negotiation. So what is the
+                       reason for the delay? And when can we expect those INR1,000 crores of orders to flow in the
+                       order book?
+
+
+S. Rangarajan:         Whatever we told you last call, number of orders that have already been realized, and that is
+                       added to the orders on hand situation. As of April 1, you see it's INR900-odd crores. It's about
+                       INR1,700-odd crores now. So the number of orders have been received.
+
+
+                       Some more orders have been negotiated, and that is what we're talking about, nearly INR1,000
+                       crores of orders to be completed. I believe that in the next maybe a month or 2, the contract
+                       should happen from what my sales team is telling me.
+
+
+                       These are things which is beyond our control. The processing of the order takes some time.
+                       Maybe it has to go to some reference and then come back. But the orders have been negotiated
+                       and these are approved programs. So we expect probably another month or 2, most of the orders
+                       should get fructified.
+
+
+Abhijeet Singh:        Sir, is there a risk of these orders getting cancelled as well, some part of it or no?
+
+
+S. Rangarajan:         No. There is no risk of orders getting cancelled. These are Central Government orders. Tenders.
+                       And tenders have been opened, negotiated and funded programs, so there won't be any
+                       cancellation of the tenders.
+
+
+Venkata Subramanian:   The delay is on account of internal processes. Because it has to go through some different
+                       approval processes, and that's the reason for the delay.
+
+
+Abhijeet Singh:        Right, sir. So then, in 1H, our revenue growth run rate has been slower than what we have guided
+                       for of 20% to 25% on an annual basis. I think we have -- revenue has fallen about 20% on a Y-
+                       o-Y basis. So in H2, of course, our revenue execution run rate has shot up substantially. So are
+
+
+
+Page 5 of 22:
+
+                                                                                     Data Patterns (India) Limited
+                                                                                             November 09, 2026
+
+                  we in a position to maintain our guidance for the full year or there's a risk of execution delaying
+                  beyond the H2 into the next year maybe?
+
+
+S. Rangarajan:    Yes. We've never given revenue growth quarter-to-quarter. We've never done it ever since we
+                  went public. This is a normal business. It tends to become a Q4 heavy. This is how it has always
+                  been. And we've been a bit successful in navigating some of the contracts to be executed because
+                  we had the orders in hand, and one didn't get executed. We could execute the others in
+                  maintaining a different kind of a profile to see that quarter-to-quarter profitability is maintained.
+
+
+                  But this is a yearly business. It's a program-based, project-based business. So -- and it's not a
+                  monthly revenue growth. This is what we are aiming for in terms of interactive contracts we get.
+                  And we had a 5-year contract, then we can do quarter-to-quarter sales. But that is what we're
+                  aiming for in terms of building products for long-term contracts visibility. But as it is our existing
+                  business is going to be Q4 heavy.
+
+
+                  Last year it happened because we executed a very large contract as a program. So it's 2 years
+                  back, we got the order 3 years back. We executed it in second quarter. So the bump was there,
+                  the quarter 2. But I see this is a normal way our business will happen. It is not a quarter-to-
+                  quarter kind of a sale process. That's the first question you asked.
+
+
+                  Second is, we've already mentioned that we have orders in hand. Though the execution didn't
+                  take place in Q1 and Q2, we've already started producing these products for Q3 and Q4. So we
+                  expect that in the next 5 months we will accelerate the production and see that the programs are
+                  delivered. As of now, I don't see any change in our guidance, what we've given last time and
+                  also this time.
+
+
+Abhijeet Singh:   And sir last question on the hawk radar that, we were mentioning last quarter that there was a
+                  software integration that you were evaluating. The hardware part you completed for MiG and
+                  Sukhoi. So what is the update on that? Is there a decision taken on the software integration as to
+                  where you need to procure it from or still you're evaluating the choices that you have?
+
+
+S. Rangarajan:    There is still some delays in that of trying to integrate software into our Hawk, whatever we did,
+                  the development of the hardware. The hardware is ready. It's still not processed the progressed
+                  on the software.
+
+
+                  The other point is, the second area is what we talked about is the pod, the Sukhoi-30 pods, self-
+                  protection jammer. That is going well. There are no dependencies on any other organization
+                  there. The complete software and hardware and mechanicals are done, designed in-house. So
+                  that is going well. Air Force is quite happy with the progress.
+
+
+                  And I think that we should be able to fly it in the next few months to see that operational
+                  readiness is also shown. So that is happening. Similarly, we intend to develop on
+                  communications. That's also going on very well. Since we have platform for all army, navy, air
+                  force. That's also going well. We expect to integrate with the other platform radios in the next
+                  coming months to see that compatibility is established. So a lot of work has happened, but that
+                  is going a bit slow than what we expected. The rest are happening the way we planned.
+
+
+
+Page 6 of 22:
+
+                                                                                    Data Patterns (India) Limited
+                                                                                            November 09, 2026
+
+Abhijeet Singh:   Right. Sir, this communication product, what is that? Sorry, I didn't get it. That you will integrate
+                  on...
+
+
+S. Rangarajan:    It's called software-defined radios. These are radios or communication equipment handled by
+                  the army in the ground, and the airborne systems in helicopters and aircraft. So there is a naval
+                  systems also, ship and airborne systems. So we've been designing our radios….
+
+
+S. Rangarajan:    This will be directly to MoD. See, so what we're trying to do now is, till now we've been trying
+                  to build parts and subsystems with DRDO and then do technology transfer to Bharat Electronics
+                  or any other organization, and then we give subcontractors then. That continues to happen. But
+                  to scale the organization, we decided a few years back that we'll do complete systems. And these
+                  are initiatives taken by the company to build those complete systems. So directly we'll address
+                  MoD requirements.
+
+
+                  Recently, MoD requirements are largely delivered by DPSUs. And now large companies,
+                  multinationals are quoting here and tying up with the Indian companies to quote against the large
+                  requirements of MoD.
+
+
+                  We are doing an alternative thing. And we're trying to develop these in-house in India with
+                  indigenous technology and compete with all of them. So that is where the large resources are
+                  being spent, in terms of money and manpower, building those technologies and products to
+                  address the large opportunities.
+
+
+                  So that is what I think will scale the company to the next level. The large kind of scaling can
+                  happen in the next couple of few years to build complete products. And that's what the company
+                  is aiming to do.
+
+
+Abhijeet Singh:   Great. And do we have...
+
+
+Moderator:        Sorry to interrupt you, Mr. Singh. Can you please rejoin for our follow-up question? There's a
+                  long queue.
+
+
+Abhijeet Singh:   Sure.
+
+
+Moderator:        The next question is from the line of Amit Dixit from Goldman Sachs.
+
+
+Amit Dixit:       My first question is essentially on a couple of areas that we were actually consciously, I think,
+                  not concentrating on earlier, such as space, which has gathered momentum in the industry. So
+                  just wanted to get your thoughts, whether we are reconsidering the space segment and the
+                  counter-drone segment. So that is the first question.
+
+
+S. Rangarajan:    I think in the opening remarks itself I stated that we've invested substantially on the counter-
+                  drone segment. We built various kinds of radars for active detection of drones. Very, very small
+                  drones for 0.001 square meter RCS, as well as larger drones. So we're successfully building it. I
+                  think the next 1 to 2 months the product should be ready for demonstration and participation in
+                  tenders or with other OEMs.
+
+
+
+Page 7 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+                 Second is the passive detection of RF detectors. Since we have a complete range of products for
+                 EW, signal COMINT. We are really addressing -- we are remapping these products for counter-
+                 drone applications. And then the third is active jamming.
+
+
+                 So all of them, we're in various stages of completion and demonstration. This we're already
+                 doing. We also suggested that the last few years we didn't go ahead for building the complete
+                 satellite, so we've a competency map. We have designed a satellite, and the satellite is going to
+                 be in there 4 years in space. Fully designed in-house. And with the normal correction, all of them
+                 from the ground. And including down station, everything has been designed by us.
+
+
+                 We refrained from going into it because there are a lot of startups who are actually building
+                 satellites, a number of contracts are going to almost no value. We didn't want to take it up at that
+                 point in time, because it will have a very clear dip in our revenue and bottom line. But today
+                 we've taken a decision to go ahead and start building our own satellites, systems and satellites
+                 for various applications.
+
+
+                 Accordingly, we have started staffing ourselves, from ex-ISRO scientists, senior scientists to
+                 join us, to build both the satellites and all the payloads in-house. Complete design will be done
+                 by us, and we are actually looking at building the satellite and launching it, then go to market.
+
+
+                 So that decision has been taken internally. The details are being worked out. Initial staffing is
+                 happening. Initial development will happen. And once it happens, maybe 6 to 8 months from
+                 now, maybe we'll be able to talk more about it.
+
+
+                 Today, a decision internally is taken to go ahead with the development. At the present moment,
+                 I can only comment on that. Let's see how the next 6 to 8 months goes, and then we can be able
+                 to give you more clear directives on those areas, what we've done.
+
+
+Amit Dixit:      Thanks Sir, that's quite helpful. The second question is essentially on the overall ordering in the
+                 defence ecosystem. What we have seen that you have received, of course, some good orders in
+                 Q2. But a lot of other players, the ordering has kind of dried up.
+
+
+                 Just wanted to understand from your perspective -- again, I'm not talking from quarter-to-quarter,
+                 but we have seen that the first half has been quite, I would say, low in terms of the pace of
+                 ordering. Some of the orders are delayed, etcetera. So just wanted to get your thought on how
+                 you see the overall ecosystem. Where are the constraints, if any?
+
+
+S. Rangarajan:   I don't see ecosystem constraints. I think the budget allocations are becoming bigger. The
+                 Acceptance of Necessity, AoNs are getting released every 2 months, which is going to be much
+                 higher than what was the previous year's numbers. The opportunities are growing.
+
+
+                 I won't be able to comment on the ordering portion per se because that depends from tender to
+                 tender and contract-to-contract, depending on the need of the customer and what it has to go
+                 through. But the overall order book visibility is much higher, and that is what exciting us to build
+                 larger, to get the products developed to address the market, to increase our TAM, to substantially
+                 scale the company's revenue.
+
+
+
+Page 8 of 22:
+
+                                                                                    Data Patterns (India) Limited
+                                                                                            November 09, 2026
+
+                 That's what we are trying to do. But one difference is that we are not relying on foreign
+                 technology for doing this. We're also trying to differentiate the products as a company integrated
+                 systems with respect to competition, how they address the market. We want to see that
+                 differentiated product offerings gives you a slightly more value-added approach to give you a
+                 better revenue and a bottom-line business. This is what we're doing, and we're trying to develop
+                 this much in advance so that we are ready when the tender comes up. So that is what we're doing.
+
+
+                 I don't see any reduction in the opportunities or this ordering. Of course, we have had delays in
+                 our orders, but that is very specific to our contracts. I don't think there is a general kind of
+                 anything that says that it is going to be a delay for everybody. I don't think so. Probably from
+                 whatever little I know, I don't think that's a right statement. Maybe I don't know all the things
+                 which other people are talking to you.
+
+
+Amit Dixit:      Got it, sir. The third question is essentially on the exports. So after PAR, are we -- what are some
+                 of the programs or systems that we are targeting for the export markets? I mean, to the extent
+                 you can disclose, if possibly you can broadly highlight the programs or whether it's EW system,
+                 radar we are engaged in as far as the export market is concerned.
+
+
+S. Rangarajan:   We are experiencing some more contracts in the PAR acquisition for radar. We have quoted for
+                 some more, I think some more business to happen. We also have some orders for radar front
+                 ends from Europe. We'll start executing probably by December to March, we'll execute some of
+                 those contracts. We're expecting some different kind of radar -- modern radar components and
+                 subsystems, large subsystems from Europe.
+
+
+                 Enquiries are coming. We expect that we should be able to address in the next 1 year. Deliver
+                 it, which can become the basis for our volume business thereafter. These are initially approved
+                 prototypes and qualification units. Based on numbers should happen in the coming years. That
+                 is one.
+
+
+                 We are also co-investing in some radars with a British company. We see that we can look at
+                 worldwide markets. We're also trying to make offers for civil aviation avionics and sensors. If
+                 that happens, I think there can be a large revenue post-qualification.
+
+
+                 We're trying to grow a bit to see what is it we can do. And we're trying to also put in an active
+                 export marketing team to take what we have. In the present geopolitical environment, we believe
+                 that our offers on time lines which we can deliver contracts, and as well as the world-class
+                 technology we're building, can give us a competitive edge over others.
+
+
+                 And especially there's a need in the existing political scenario, geopolitical system. I think there's
+                 a need for people like us to give some very serious products offerings for other countries' defence
+                 needs. I can't talk about more of what we do exactly now. when fructified, we could probably
+                 talk about later, but the initiative is on. We're going to put a lot of initiatives in the coming years
+                 to see that we get large export revenue. That also is on.
+
+
+Amit Dixit:      Wonderful sir. Thank you so much. And all the best.
+
+
+
+
+Page 9 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+Moderator:       Thank you. The next question is from the line of Dipen Vakil from PhillipCapital. Please go
+                 ahead.
+
+
+Dipen Vakil:     Hi, sir. Thank you for this opportunity and congratulations on great order inflow during the
+                 quarter. Also wish you a very happy Diwali to you and your team. Sir, my first question is to
+                 you, basically this quarter when we see at your order inflow break up, you have received some
+                 very strong production orders. So can you help us understand, what are the difference between
+                 like the execution schedule between production orders and developmental orders? So that would
+                 be my first question.
+
+
+S. Rangarajan:   Actually I don't have an exact split of production and development orders. But maybe I can send
+                 the data to Go India in the coming week, and maybe she can address this. I really don't have it
+                 off the cuff on exactly what is the production and this development order differentiation. What
+                 I can tell you is -- I can tell you one thing is what are the products we have developed for DRDO,
+                 they've been successfully executed.
+
+
+                 These are all some of the large program requirements were delivered, very very large systems.
+                 We expect that in the coming 1 to 1.5 years' time, they should become a production order,
+                 because the size of business is very large. Hopefully, that will take shape, and then do this. So
+                 number of products we have developed have been delivered, and we expect repeat business out
+                 of that. So those are the first things.
+
+
+                 And second is also with the new development programs like the pod and other things we are
+                 getting involved in, which is an obligatory development without contracts and self-investment.
+                 I think that is also going in a good feasible way, where there is a lot of differentiation between
+                 us and competition.
+
+
+                 So we should be able to see that those orders also get into production more in the 5 to 6-year
+                 visibility and production line. So I'm trying to focus on such programs while keeping the
+                 company revenue and the bottom-line business, we have promised the market.
+
+
+                 Trying to see that is addressed with smaller orders and some production orders is happening.
+                 And the large production orders and large scale value is what will bring us scale and take us to
+                 a large corporate. So we are working on such products and programs where there are key
+                 differentiator, key openings in the market and the need is very high.
+
+
+                 So we're trying to address and build our own products in those areas. It will take time to get a
+                 production order, but that will be the main scale of building a larger organization as we go along.
+                 So we're trying to address that also.
+
+
+Dipen Vakil:     Got it, sir. So when you receive a production order, what is the usual execution within which
+                 you have to deliver the product?
+
+
+S. Rangarajan:   See, that varies again. If it's a program order, for example, if Bharat Electronics gets an order,
+                 we have to deliver in 2 years. Then back-to-back, our delivery also becomes back-to-back every
+
+
+
+
+Page 10 of 22:
+
+                                                                                   Data Patterns (India) Limited
+                                                                                           November 09, 2026
+
+                 quarter. After the first 6 months, we start delivering quarterly or monthly, depending to meet
+                 their time lines.
+
+
+                 So these are project and program orders. Then there are orders which is, let's say, for HAL, we
+                 get a contract, and they have 8-year window of delivery. They will want to have a 6 or 7-year
+                 window on year-on-year delivery commitment from us, so they can build onto the aircraft.
+
+
+                 So that varies on the end application. Its best that we have a combination of both to give us what
+                 we want as we go along. But we should have a 3 to 5-year order book in this business, which is
+                 tender-based. To see that stability and scalability is possible and sustained scalability is possible
+                 with visibility of future.
+
+
+                 So we're trying to address how to bring in the scale and what kind of products and technology
+                 we can have, which can be competitively placed in the market to get us the scale. That's what
+                 we're working on. But it depends on your question -- to answer your question, it depends on the
+                 kind of contract contracts we get.
+
+
+Dipen Vakil:     Got it.
+
+
+S. Rangarajan:   We are addressing -- both the markets we are addressing.
+
+
+Dipen Vakil:     Got it. So the second question is on your order inflow and the negotiated contract. So during
+                 previous quarter also, we were discussing about very strong order pipeline, which included some
+                 orders from HAL, single vendor contract orders from HAL, as well as BrahMos seeker order.
+                 So any update on those orders, whether they have gotten into negotiation stage or whether they're
+                 included in the INR900 crores of negotiated orders? Can you help us understand that?
+
+
+S. Rangarajan:   No. They're not part of the negotiated contracts. That continues to be part of pipeline. We started
+                 negotiation with HAL on some of large contracts. The other ones is under trial. So once we finish
+                 the trial, maybe the contracts for vehicles should happen. But these are part of the pipeline, which
+                 is not mentioned in our negotiated values. That is negotiated is tender published and we are at
+                 one, the negotiations being completed.
+
+
+                 The pipeline which you're talking about, there are further INR800 crores to INR2,000 crores.
+                 We expect to get that before end of March, is what we are expecting. So that order book should
+                 be there for the subsequent year, is what we're thinking. Those things cannot be accelerated.
+
+
+                 Part of it can be accelerated depending on when the order comes and the need of the customer,
+                 we can ship part of the order. We are getting ourselves prepared for all of this and buying
+                 material components, keeping it in stock in case we need a faster turnaround.
+
+
+                 Once the contract comes, we are in a position to address the market. So we are actually planning
+                 ahead of materials and inventories, but the contract is -- we still not got the contracts. Those are
+                 all part of pipeline at the present moment.
+
+
+
+
+Page 11 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+Dipen Vakil:     Got it, sir. Sir, thank you so much for answering my questions and very encouraging new product
+                 portfolio you have showcased. So all the best for development of those and all the best for second
+                 half, sir. Thank you so much.
+
+
+S. Rangarajan:   Thank you very much.
+
+
+Moderator:       Thank you. The next question is from the line of CA Garvit Goyal from Serene Alpha.
+
+
+Garvit Goyal:    Hi. Am I audible?
+
+
+S. Rangarajan:   Yes.
+
+
+Moderator:       Yes.
+
+
+Garvit Goyal:    Thanks for the opportunity. Sir, first question is on Tejas Mk2 program, which is getting delayed
+                 by 1 year due to technical issues related to undercarriage. So is it going to any way impact our
+                 growth in this financial year and as well as the next financial year?
+
+
+S. Rangarajan:   These anti-drone systems were never part of our projections for this financial year. These are all
+                 being built for future programs because a drone is an essential part of warfare today, and we
+                 need to have products in that category to address the large market opportunities which is coming
+                 up. But these are all early stage markets on drone detection.
+
+
+                 A number of trials are happening across India and across the world, and large businesses have
+                 not been still, they are all experimenting in what is the right kind of anti-drone systems. That is
+                 what is happening, and that's what's happening in India also.
+
+
+                 So we are trying to put in together our -- since we have a competency in radars and electronic
+                 warfare, we are trying to put our competencies and build a product which suits the customer
+                 requirements. I think they're already there.
+
+
+                 So within next few months, we should start getting some contracts in this. We're also winning
+                 bids against open tenders and MoD. We're also looking at how to export these contracts once it
+                 is completely tried and tested here. We can also export it to other businesses and markets outside
+                 India. But they are not part of our projections, negotiations nor pipelines. These are all future,
+                 which can bring in separate revenue outside of what we have actually projected to the market.
+
+
+Garvit Goyal:    No. Sir, actually, I was asking about a particular program of HAL, which that is Tejas Mk2?
+
+
+S. Rangarajan:   Mk2, not the anti-drone. I thought it was an anti-drone. Tejas Mk2, we do all the avionics, we
+                 do the cockpit display. We do the mission computers. We do the data processor. We do a number
+                 of important things on Tejas. They are not Tejas, but Mk2. LCA Mk2.
+
+
+                 Tejas Mk1A, we are under negotiation with HAL. That should probably happen in the next
+                 couple of months or so, which is what PhillipCapital, the gentleman is asking, whether it's part
+
+
+
+
+Page 12 of 22:
+
+                                                                                    Data Patterns (India) Limited
+                                                                                            November 09, 2026
+
+                 of the negotiated contracts or that is part of pipeline, which has to happen. We're also trying to
+                 address other sensor requirements of Tejas, of Mk2.
+
+
+                 Hopefully, we'll be successful, but we have a competency and a product model for all of them.
+                 But it depends on how the user or customer addresses the particular requirement. We have
+                 technological superiority, but that doesn't mean that we can land on a contract. So we need to
+                 navigate ourselves properly to see if the contract also happens. But we have a lot of other
+                 products which can be positioned within the Mk2 and also AMCA.
+
+
+                 But they are not -- I've not projected any of them to the market yet because there's a lot of clarity
+                 which needs to be obtained before we can project it to the market. So these are all we're working
+                 on numbers. There are a lot of WIP which we're working on, number of programs we're working
+                 on, which presently I can't disclose, nor is it in a stage where we can tell you that I have an order
+                 or negotiations happened or a tender has happened. So these are all product development
+                 happening in parallel.
+
+
+Garvit Goyal:    My second question is on the order inflow. Last time you mentioned we will be receiving
+                 additional INR2,000 crores order over and above the negotiated and already received order at
+                 that point of time, which was approximately INR2,650 crores. Where are we on that, sir? Are
+                 we still in touch with the INR2,000 crores order inflow in rest of the 5 months in this financial
+                 year?
+
+
+S. Rangarajan:   Yes. Other than that -- other than the INR2,600-odd crores, we're talking about negotiated orders
+                 as well as the contracts on hand. We still expect another INR1,500 crores to INR2,000 crores
+                 order before March. Those are all in the pipeline, where some are under negotiation, some the
+                 inquiry is supposed to happen.
+
+
+                 I hope it happened before March, but the time lines are not in my control. But these are specific
+                 programs where we have specific opportunities, without competition. So that's why I'm able to
+                 talk about it. If there's competition, it is 01 situation. I'll never bring it up to the market. We do
+                 not know what will happen.
+
+
+                 The resulting vendor, we do not know who has scored. But here is something that since we're
+                 unique in this, it's only timelines we can't control. But yes, there is a pipeline of another
+                 INR1,500 crores or INR2,000 crores over and above what has been stated right in this morning
+                 earnings call.
+
+
+Garvit Goyal:    Got it, sir. And my last question is on the satellite front. While you mentioned that we will be
+                 designing the payloads and stuff inhouse only, I remember in one of the earlier con calls, you
+                 were speaking about the monetization part of it, and that is why you were refraining to enter in
+                 this market. So can you help us to understand how we are planning to monetize this particular
+                 capability going forward?
+
+
+S. Rangarajan:   Today, we are not looking at getting a contract. We may get a contract, we don't know. But we
+                 are trying to build a product ourselves, launch it at our cost with local investment, with in-house
+
+
+
+
+Page 13 of 22:
+
+                                                                                   Data Patterns (India) Limited
+                                                                                           November 09, 2026
+
+                 investment. Get our space heritage, which meets and exceeds Indian requirements in terms of
+                 specifications. But these will be global products, not necessarily only for Indian market.
+
+
+                 There's a global requirement of whatever we are designing. So that's what we're designing. We're
+                 building our own capability to build all of it in-house. That brings the cost model down. We
+                 have capability to build everything, including optics, including all of those electronics, the
+                 sensors, the satellite platforms.
+
+
+                 So we have the bus structures designed inhouse. Everything is designed in-house with our
+                 competency model, which we already have. Since we're already working with ISRO in number
+                 of such programs, we have a lot -- already delivered a lot of these parts to them on subsystems.
+                 We plan to reuse some of them, modify some of them, redesign or design the new areas to build
+                 the entire satellites.
+
+
+                 We've been associated with satellite programs for many years, so we understand this area. And
+                 we also launched a satellite and made it operational for 3 years in space. So there's a lot of
+                 competency in this. We expect that we will build on the competency and build real 100 kg to
+                 500 kg class satellites, which is required around the world.
+
+
+                 Not in one-off, but in cluster satellite applications, but very security and sensitive areas. So that
+                 work has started. We've already started staffing our people for this to build an organization which
+                 can develop the overall satellite systems. So we're quite serious. I hope we're able to sustain this
+                 and build the product. But these are all for future.
+
+
+Garvit Goyal:    Got it sir. That's helpful. All the best for the future. Thank you.
+
+
+Moderator:       Thank you. The next question is from the line of Sagar Krithikkumar Gandhi from Invesco
+                 Mutual Fund. Please go ahead.
+
+
+Sagar Gandhi:    Congratulations, sir, on a great set of numbers. Sir, my question is on the order inflow. While
+                 we've seen very encouraging order inflows in H1 FY27, and you've talked about number of
+                 programs, but some of the programs, as you rightly highlighted, that you cannot speak a lot
+                 about. So sir, from a 3 year to 5-year perspective, can we believe that this is a company which
+                 has horsepower to do INR2,000 crores of order inflow every year, give or take, with some
+                 slippages here and there?
+
+
+S. Rangarajan:   Our aim is to reach much higher numbers than you are mentioning.
+
+
+Sagar Gandhi:    Okay. So sir, from a 5-year...
+
+
+S. Rangarajan:   Products we are designing is each individually capable of this kind of numbers you're talking
+                 about or multiple times that number. So we're looking at large markets to scale the operation.
+                 That's why investments are very heavy. We have, like I said, 1,100 engineers working in
+                 development and program management.
+
+
+
+
+Page 14 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+                 So that's a large number for a company our size. We are investing ahead as we continue to do
+                 with all the years ahead. Everything, this is today working on a complete product and program
+                 and complete systems rather than part of the system, which we were doing with DRDO earlier,
+                 to address the gap available in the existing capability map in India and the requirements which
+                 India wants to have, our own Indian defence initiatives and defence products.
+
+
+                 Towards that, I think we're building a whole lot of capabilities and products to address that. The
+                 size of business we have tried to address is much, much larger, so that we have a scalable
+                 business model, and then go global. And all the products we design is all global standards, not
+                 just to meet India requirements, but also global, compete with the OEMs across the world in
+                 these areas of product technology which we are developing.
+
+
+Sagar Gandhi:    And sir, given your long experience in this domain, what will be the single biggest risk to this
+                 assumption that we can do or we can capitalize or capture this large opportunity?
+
+
+S. Rangarajan:   Risk is always there in any development, and to achieving getting a contract, because it's not
+                 everything is in our control. It's a government-driven business, so it's going to be very difficult,
+                 and we don't know the competition, how they're going to come up. We know the competition as
+                 they are to a large extent in India.
+
+
+                 But some foreigner may try to invest or they finally give a lower support price, which we may
+                 not be able to be even in. So those are the complications. But by looking at that -- but what is
+                 the risk? If the risk of development, since you're doing the building block model, we reduce the
+                 risk of development and overall cost of development much, much lower.
+
+
+                 Because we're already reusing some of the parts already we have designed. And going ahead
+                 also, we're designing in building blocks, so that we can do it from one program to another. So
+                 one fails, we can always move to the other program. So a lot of knowledge and as well as the
+                 product, which is spent on is really good out. So we reduce the development risk.
+
+
+                 Second is we also reduce the timeframe for introducing new products into the program. Since
+                 we're reusing parts and systems, the timeframe to new development is also lower. But yes, there
+                 is a risk of whether we win the contract or not. And we also risk whether we end up meeting the
+                 end specification through our design. Those risks has been assessed internally.
+
+
+                 We believe it's worthwhile to take the risk because overall requirement map is large. And we
+                 believe that even if we lose 1 or 2, we are capable of building a better product as we go along.
+                 And learning from mistakes, we can be better positioned next time. But if we don't do that, we
+                 can never scale the business.
+
+
+                 Especially since India is starting with almost 0 base in products in defence. We say we don't
+                 address the large market which is being imported into India, and all of us say it's a risk, then
+                 there's no question of scaling. Because then we will be relegated to what parts and subsystems,
+                 which we win tenders on L1 basis with DRDO.
+
+
+
+
+Page 15 of 22:
+
+                                                                                        Data Patterns (India) Limited
+                                                                                                November 09, 2026
+
+                       And a very clear -- not very clear time lines of when the production orders will happen, and that
+                       will be controlled with DPSUs. So this model we worked on for many years. Now the order
+                       book is -- the market is opening up to complete systems. There is a global market demand from
+                       the geopolitical environment.
+
+
+                       So we must look at these opportunities, build on our capabilities -- believe in our capabilities
+                       and build further where the gaps are there, address the gaps locally before going to market. So
+                       this is what we are trying to do. We are continuously in develop and more. But these are all
+                       quality products. Since we have done all the process, we have an extremely strong process.
+
+
+                       We are more than 100 engineers in QC. So we continue to build from our knowledge base. With
+                       all the opening of AI and other things coming up, we believe that we can do much faster
+                       development. And we are taking the modern technologies, modern processes. So that's what we
+                       are doing. I believe the risks are worth taking. I believe we can scale the business. We need to
+                       do this.
+
+
+Sagar Gandhi:          Thank you so much sir for your fantastic explanation.
+
+
+Moderator:             Thank you. Ladies and Gentlemen, in order to ensure that the management is able to address
+                       questions from all the participants in the conference, please limit your question to two per
+                       participant, should you have follow-question, please re-join the queue.
+
+
+                       The next question is from the line of Keyurkumar Vadaliya from Niveshaay. Please go ahead.
+
+
+Keyurkumar Vadaliya:   Hello. Congratulations on your good facts of numbers, sir. So my question is, in like we have
+                       mentioned that for the next 2 years, we are planning INR150 crores of the capex. So just wanted
+                       to understand, like, this capex is going for a product which can be dual use, like the export and
+                       the domestic? Or it would be very specific in nature, like for the export country only?
+
+
+S. Rangarajan:         No, no. Building blocks is for the capabilities we build for many range of products, but it has to
+                       be customized for meeting specific requirement because finally the end product varies from
+                       person to person and market to market. The building blocks can be similar, but the customization
+                       engineering required will also be there. So whatever end products we are trying to build for the
+                       markets I foresee. We foresee in India, we try to build building blocks smart, which can get
+                       reused is what we're doing.
+
+
+                       And the other one is INR150 crores of this -- is not just in development. A whole lot of capex is
+                       going to be also putting. We're building up another building and factory. That's also in place. It's
+                       already going on, and building has started. We need to -- we're also putting production
+                       infrastructure in case the contracts will become fructified and we get a production order. I should
+                       also have a capability to produce it in volumes. So we need to have space and infrastructure and
+                       test equipment.
+
+
+                       So that is also in parallel going, because we are very confident that the orders will happen in the
+                       next year or so. A large order should come, and we should be ready to address and deliver on
+                       those contracts. So we are not waiting for the contract to come, we are investing in advance.
+
+
+
+Page 16 of 22:
+
+                                                                                          Data Patterns (India) Limited
+                                                                                                  November 09, 2026
+
+                       As advanced products, we are also doing investments in infrastructure. And that's not just
+                       INR150 crores. I think it will be substantially more than that. The kind of product roadmap we
+                       are trying to put in the last 6 to 8 months we have planned. It will probably involve a substantial
+                       investment. We can't talk about numbers presently.
+
+
+                       We will take it to the Board and then get an approval before we can talk about how to make the
+                       -- then talk to the market. But this is a lot of thinking within our management to see that we do
+                       substantial investment in product development as well as infrastructure, which exceed the
+                       INR150 crores you're talking about.
+
+
+Keyurkumar Vadaliya:   And the second question is, so the satellite business that we have just mentioned on this call...
+
+
+S. Rangarajan:         Can you speak a bit louder, please?
+
+
+Keyurkumar Vadaliya:   Yes. So the satellite vertical that we have spoken of right now, so would it be like a downstream
+                       services or like a satellite manufacturing, or it would be both?
+
+
+S. Rangarajan:         We aim to develop the satellite and the payloads ourselves, launch it and get the experience of
+                       launch operation, and then look at address the market for similar satellite requirements in India
+                       and outside India. Where we will design the particular satellite as they want, manufacture it in-
+                       house.
+
+
+                       So once it comes to a certain stage, we also plan to put in infrastructure for manufacturing
+                       multiple satellites in a year. So that also requires infrastructure. It takes time to build
+                       infrastructure. So we want to start ahead and start building on infrastructure as we go along.
+
+
+                       There are enough markets. India is a good country to be in to address markets where it's not mass
+                       produced, but it is customized to end requirements. We have the engineering capability to
+                       address that, but at much lower cost than Western markets would do.
+
+
+                       And we have a knowledge base which is prevalent within India. So we should tap on both to see
+                       that we invest in this market, build the products, get the lineage, heritage, and then address
+                       markets outside India and within India. This is the idea. So we'll do the full systems ourselves.
+
+
+Moderator:             Thank you. The next question is from the line of Neil Ostwal from PGIM India Asset
+                       Management.
+
+
+Neil Ostwal:           Hi Sir, Thanks for the opportunity. While you did mention that the execution cycle will differ
+                       across different programs, but if you can give us some better sense on whether a bulk of these
+                       would be executable over the next few months or large part of these is longer-term, let's say over
+                       a 2 to 3-year period from execution cycle standpoint.
+
+
+S. Rangarajan:         You're talking about the existing contracts or negotiated contracts?
+
+
+Neil Ostwal:           Current INR1,700 crores order book is what I'm talking about, sir.
+
+
+
+
+Page 17 of 22:
+
+                                                                                     Data Patterns (India) Limited
+                                                                                             November 09, 2026
+
+S. Rangarajan:     Yes. Some of them will be executed this year. Some will go to next year and year after next.
+                   And also, the same thing happens to the negotiated contracts, another INR900 crores you talked
+                   about. A few of them, a very little portion of that will get executed this year, but largely it'll go
+                   to year, and year after next. So, all of them cannot be executed this year, because the customer
+                   doesn't require them this year.
+
+
+                   There are scheduled delivery times given by the customer. As per that, we will have to confirm
+                   to that. That is why I'm saying 20% to 25% revenue growth. If we are planning this, execute
+                   everything, then our revenue growth will be substantial.
+
+
+Neil Ostwal:       Sure sir, sure sir. This is helpful. Thank you.
+
+
+Moderator:         Thank you. The next question is from the line of Harshit Kapadia from Elara Capital, please go
+                   ahead.
+
+
+Harshit Kapadia:   Hi, Thanks for the opportunity and Congratulations for a good set of results, sir. Just one question
+                   from my side. Since the Government is now focusing on private sector, where they are giving
+                   larger integrated orders to private companies, and Data Patterns has largely worked with the
+                   PSU set of companies.
+
+
+                   This transition, how do you look at? Is it -- or if you can share some example that where you
+                   have worked with a private sector. Is it easy to work with it? Are the PSUs better in terms of
+                   execution, in terms of even payments or how it is?
+
+
+S. Rangarajan:     Okay. First thing is it's not a transition, it's an add-on. We continue to work with our PSUs, they
+                   are our large customers today. We don't intend to replace this market. We continue to work with
+                   DRDO, address their requirements because they are very large, and new technology
+                   requirements is coming up in the country. And investments within DRDO and further contracts
+                   with PSUs also are there.
+
+
+                   We will continue to look at our markets the way we are. But in continuation to that, in addition
+                   to that, is what the MoD tenders are coming. We need to address that tender because directly
+                   DRDO is not a DRDO-based tender. It is a global tender. So to address the Indian vendors in
+                   probably in cooperation with foreign OEMs. And that is a large part of the business.
+
+
+                   We want to address the large part of the business. But there -- the difference is that we have to
+                   have the end product ourselves. Either you do it yourself or have a collaboration with a foreign
+                   OEM who has a product, and then offer it for trial here, go through the validation process and
+                   meet the indigenous content requirement, which comes as part of the tender.
+
+
+                   So till now, what we are thinking is, we are trying to focus on areas of large business possibilities
+                   and large contracts with competency available in-house. We are expanding the competencies
+                   where there are grey areas to do the development in-house to see that the end product can be
+                   designed and built. Again like I was telling you earlier, we are trying to build a building block
+                   concept, so the reuse of the development models is available to reduce the development cost,
+                   and thereafter the risk of not coming in time for the program, for the trials, which is mandated
+
+
+
+Page 18 of 22:
+
+                                                                                 Data Patterns (India) Limited
+                                                                                         November 09, 2026
+
+                 by the government. So this is all we are doing. This is an addition tool so that the scaling can
+                 happen. We don't want to be a INR1,000 crores company all along.
+
+
+                 We want to make it much, much, much bigger. So, towards that, we're trying to build a next
+                 larger TAM, which is coming, which will come out of export as well as MoD businesses on full
+                 products. So, we are trying to you know, carve out certain areas where we have existing
+                 competency and we can address the current market requirements, and basing ourselves on the
+                 foundation already built. So that gives us the strength.
+
+
+                 We are not really looking at building completely a new business, because that will take time to
+                 build. Yes, we are looking at optics today. We're trying to design our own things. We believe
+                 we have -- we can do the overall system engineering ourselves and all the software engineering
+                 necessary for imaging and things like that. Already we've done the 10 years of work in that.
+
+
+                 Now we want to build the overall optical systems and optoelectronic systems. So certain areas
+                 of expansions we are doing, but largely on programs whatever we have existing knowledge base
+                 and make it current. Today's indigenous -- today's world-class systems we're trying to address
+                 and make the products similar to that.
+
+
+Moderator:       Thank you. Ladies and Gentlemen, in the interest of time you are requested to restrict your
+                 question to one per participant.
+
+
+                 The next question is from the line of Akshay Jogani from Xponent Tribe. Please go ahead.
+
+
+Akshay Jogani:   Thank you for the opportunity, sir. And really appreciate the depth with which you explained
+                 the plans for the business. Sir, can you give some color or if you can give color on where
+                 BrahMos...
+
+
+S. Rangarajan:   I'm not able to hear you clearly. Can you come near the phone and talk, please?
+
+
+Akshay Jogani:   Yes. Is it better now?
+
+
+S. Rangarajan:   Yes.
+
+
+Akshay Jogani:   Yes. Thank you. Thank you for the opportunity, sir. And really appreciate the color you gave on
+                 where the development of products is heading. Sir, can you spend some time on helping us
+                 understand where the BrahMos seeker program is progressing? We've spoken about testing
+                 being complete and we are setting up the manufacturing line as well. So can you give us an
+                 update on when do we start manufacturing and how should we look at that business from a
+                 recurring order perspective?
+
+
+S. Rangarajan:   Again, answering the same question, we have not put the BrahMos as a negotiated contract. It is
+                 only in pipeline at the present moment because our seeker which we designed for BrahMos is
+                 undergoing qualification test. Only subsequent to finishing the qualification test, we expect that
+                 an inquiry can come for production orders, and then we start addressing production orders.
+
+
+
+
+Page 19 of 22:
+
+                                                                                 Data Patterns (India) Limited
+                                                                                         November 09, 2026
+
+                 We hope we can do this in the next few months. This is our expectation. And also depending on
+                 how the customer reacts when they contract. We have no control over that. But we are keeping
+                 our end of the bargain to see as fast as possible we do this, so that we can get into production
+                 mode or the export production mode as early as possible.
+
+
+                 So we are on the job. We've already bought some very expensive equipment which will be used
+                 by us during the production run. We need to build a production assembly line with all the stage
+                 test equipment and all that. We've not started investing in that at the present moment because
+                 we want to see that the contract happens.
+
+
+                 We do not make custom lines, which will be done now, and it could get delayed usage. So we
+                 want to be very prudent in what we do. So let us finish the qualification, look at customer
+                 markets, and listen to them as to when they want the production order to happen and what
+                 timelines they want it to happen.
+
+
+                 Based on which, we'll always set up a line. Since this can be done by us ourselves because we
+                 have the complete knowledge. Every design is done by us. The test systems, automated test
+                 equipment, customer test equipment is all designed in-house. We started Data patterns with that
+                 capability. So we have everything in-house.
+
+
+                 So for us to put this together can be quite fast. And we can use the building blocks already done
+                 for the test equipment’s. So, our engineering is going to be that much more easier for us to build
+                 it, and the timelines required is much smaller. Since everything is inhouse, we think we can
+                 address the requirement quite quickly. So this is where it is today. Until things become very
+                 clear, I may not be able to talk about it.
+
+
+Moderator:       Thank you. The next question is from the line of Ayush Sharma from Nirmal Bang Securities
+                 Private Limited. Please go ahead.
+
+
+Ayush Sharma:    Hello, sir. Am I audible?
+
+
+S. Rangarajan:   Yes.
+
+
+Ayush Sharma:    Sir, thank you for the opportunity. Sir, I just have one question that based on the current order
+                 book of around INR1,723 crores, if we based on your revenue guidance, are you expecting
+                 around 50% of the order book to be executed by FY27, sir? Is that -- I'm just trying to roughly
+                 calculate on my base, on my behalf, sir.
+
+
+S. Rangarajan:   Somewhere around that we need to execute in the next 2 quarters to achieve our guidance. So
+                 we plan to do that. Some more orders are expected. The products are already developed for those
+                 anticipated contracts. Components have been ordered for those things. That's also available. If
+                 some more orders comes up, which can be executed quickly, we need to include that also in case
+                 some delays are there in some of the existing programs. So we can compensate that to see the
+                 guidance are met. We're working both ends anyways.
+
+
+
+
+Page 20 of 22:
+
+                                                                                  Data Patterns (India) Limited
+                                                                                          November 09, 2026
+
+Moderator:        Thank you. Ladies and gentlemen, due to time constraint, we'll take the last question from
+                  Abhijeet Singh from Systematix. Please go ahead.
+
+
+Abhijeet Singh:   Yes, thank you for the opportunity, again. Sir, just wanted to understand our progress on counter-
+                  drones. I mean, you mentioned briefly that we have developed radars across the 3 functions of
+                  active, passive, and jamming. So when do we expect the tendering to happen and our
+                  participation in the tenders in the counter-drones?
+
+
+S. Rangarajan:    We're already participating in some tenders on Make II programs which will come now. We're
+                  also looking at working with large OEMs to give this part of the anti-drone capabilities on the
+                  vehicle platforms, which they are doing. So a number of activities we are doing in this area. The
+                  product come out well. I think we're meeting and exceeding all the specification which the
+                  customer wants. And we're trying to build a complete domain on anti-drone. We're also trying
+                  to build the electro-optics for the anti-drone.
+
+
+                  We have already tested the car band that is 35-gigabit radar. We have tested single panel, multi-
+                  panel configurations of static and rotating radars for our X-band. So we have a smaller one, we
+                  have larger ones. So there are quite a few kind of building blocks which we have done, and the
+                  software is being validated now.
+
+
+                  Once we test the complete capability, then we'll be in a position to actually customize based on
+                  requirement using our building blocks. Based on weight and distance, etcetera, we can do that.
+                  And similarly, the power amplifiers and the jamming we are doing. We are also doing extending
+                  the COMINT and decoding functions of the UV decoding in all of them. Continuous work is
+                  happening by very large teams to see that they address all of those opportunities.
+
+
+                  I think the opportunities will happen as we go along. There are a few we are addressing now,
+                  and initial development orders we should get. Once we execute development orders, and that
+                  goes in the field and tested, the production order will happen a year from now or few later than
+                  that. But we have a number of these development contracts is what we're expecting. And these
+                  are all, once it's proven, these are going to be large contracts going ahead on a year-on-year
+                  basis. An annuity business which we're looking at, plus project business. Both we are looking
+                  at.
+
+
+Moderator:        Thank you. Ladies and gentlemen, we'll take this as the last question. I would now like to hand
+                  the conference over to the management for closing comments. Over to you, sir.
+
+
+S. Rangarajan:    Thank you all for joining me in this call. I know it's a holiday. At least in South India it's a
+                  holiday. And we're working on holiday. Thank you for joining me on this call and the enthusiasm
+                  which you shown in the company. We know this quarter 2 has been muted with respect to
+                  expectations, but that is part and parcel of how the program runs. It's a yearly business which
+                  we are in, so we don't take too much cognizance in the quarter.
+
+
+                  Yes, we would like to do a better quarter as we go along. The order book is reasonable. I believe
+                  we have capability to getting more orders as we go along. The third area which we are really
+                  excited about is new products we're developing. That's where the real business is. We believe
+
+
+
+Page 21 of 22:
+
+                                                                                   Data Patterns (India) Limited
+                                                                                           November 09, 2026
+
+                 that that business can be substantively larger than what we are addressing today. And what you're
+                 seeing our revenue and the order book which you're seeing now, which is a smaller part of what
+                 we expect it to go as we go along.
+
+
+                 We're building for large programs, large systems and program requirement being very large. We
+                 believe that if we are successful in a few of them, this will scale the company substantively in
+                 the coming years.
+
+
+                 This is our intent, and we are building an organization to see that this is done. A lot of technology
+                 is being designed. A lot of infrastructure is being put inside in-house. So the complete product
+                 design and manufacturing is done in-house. And we can reduce the cost with this competition.
+
+
+                 And what India is not doing is what we want to do, or India is importing is what we want to
+                 address. So towards that, there's a lot of activity happening, which presently is not showing the
+                 revenue model, but this is an investment model which we're doing in writing off most of the
+                 investment in as part of the revenue expenses, except whatever few projects we've taken up
+                 based on the QIP.
+
+
+                 The rest is being actually developed, and they turn off as part of the revenue expenses. That's
+                 happening in quarter-to-quarter. It will happen as we go along. So, we believe that we have a
+                 large business, and we can scale it to a very large corporate as we go along. Thank you for
+                 listening to this call. And if there are any further questions, please send the questions to Go India
+                 Advisors. We'll be happy to address all your questions going ahead. Thank you very much.
+
+
+Moderator:       Thank you. On behalf of Go India Advisors LLP, that concludes this conference. Thank you for
+                 joining us, and you may now disconnect your lines.
+
+
+
+
+Page 22 of 22:
+

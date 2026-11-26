@@ -1,0 +1,1397 @@
+II<S
+HEALTH
+                November 12, 2026
+
+                BSE Limited                                                          National Stock Exchange of India Limited
+                The Listing Department                                               The Listing Department
+                Phiroze Jeejeebhoy Towers                                            Exchange Plaza, Plot No. C/1, G Block,
+                25th Floor, Dalal Street                                             Bandra Kurla Complex
+                Fort, Mumbai 400 001                                                 Bandra (East), Mumbai 400051
+                Maharashtra, India                                                   Maharashtra, India
+                BSE Scrip Code: 544309                                               NSE Symbol: IKS
+
+                Dear Sir/Ma’am,
+
+                Sub: Transcript of the Q2 FY 2026-27 Earnings Conference Call.
+
+                Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+                please find enclosed the transcript of the earnings conference call held on Friday, November 6, 2026, with
+                respect to the Company’s financial results for the quarter and half year ended September 30, 2026.
+
+                The said transcript has also been uploaded on the Company’s website and can be accessed through the
+                following link:
+
+                https://ikshealth.com/ir/2027/q2/transcript-q2.pdf
+
+                This is for your information and records.
+
+                Thanking you.
+
+                Yours sincerely,
+                For Inventurus Knowledge Solutions Limited
+                Sameer S Digitally signed by
+                         Sameer S Chavan
+
+                Chavan Date:   2026.11.12
+                         14:38:51 +05'30'
+                Sameer Chavan
+                Company Secretary and Compliance Officer
+                Membership No. F7211
+
+                Encl: As above
+
+
+
+
+Inventurus Knowledge Solutions Limited
+
+Registered Address: 801, Building No. 5, 8th Floor, Mindspace Business Park (SEZ),
+Thane-Belapur Road, Airoli, Navi Mumbai – 400708, Thane, Maharashtra, India
+Ph.: +91 22 3071 1100 | W: www.ikshealth.com | CIN: L72200MH2006PLC337651
+
+                             II<S
+                             HEAL TH
+
+
+        “Inventurus Knowledge Solutions Limited
+             Q2 FY27 Earnings Conference Call”
+                       November 06, 2026
+
+
+
+
+                                                     C   H   O   A   L   L"
+
+    II<S
+    HEALTH
+                        i IC/Cl Securities
+
+
+MANAGEMENT:     MR. SACHIN K. GUPTA – FOUNDER AND GLOBAL CHIEF EXECUTIVE
+                OFFICER
+                MS. NITHYA BALASUBRAMANIAN – WHOLE-TIME DIRECTOR &
+                CHIEF FINANCIAL OFFICER
+                MR. SARANSH MUNDRA – HEAD, INVESTOR RELATIONS
+
+
+
+
+MODERATOR:      MS. SEEMA NAYAK – ICICI SECURITIES
+
+                                                                      Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                 November 06, 2026
+
+Moderator:        Ladies and gentlemen, good day and welcome to the IKS Health Limited Q2 FY27 Earnings
+                  Conference Call hosted by ICICI Securities Limited. As a reminder, all participant lines will be
+                  in the listen-only mode and there will be an opportunity for you to ask questions after the
+                  presentation concludes. Should you need assistance during the conference call, please signal an
+                  operator by pressing star, then zero on your touchtone phone. Please note that this conference is
+                  being recorded.
+
+
+                  I now hand the conference over to Ms. Seema Nayak from ICICI Securities. Thank you and over
+                  to you.
+
+
+Seema Nayak:      Thank you. Good morning, everyone. Thank you for joining us today on the Q2 FY27 earnings
+                  call of IKS Health. On behalf of ICICI Securities, I would like to thank the management of IKS
+                  Health for giving us the opportunity to host this call. Today, we have with us Mr. Sachin Gupta,
+                  Founder and CEO, Ms. Nithya Balasubramanian, CFO, and Mr. Saransh Mundra, Head of
+                  Investor Relations. I turn it over to Mr. Saransh for his brief statement and to take the proceedings
+                  forward. Thank you, and over to you, Saransh.
+
+
+Saransh Mundra:   Hi. Hi, everyone. Good morning. Welcome to our investor call. It's a big one, the first one after
+                  our TruBridge acquisition. Before I hand over to Sachin and Nithya, just a disclaimer. As part of
+                  our prepared remarks, we may make certain statements which are forward-looking in nature. We
+                  take no responsibility to update such forward-looking statements, and your discretion is
+                  warranted while making any investing decisions. Over to you, Sachin and Nithya.
+
+
+Sachin Gupta:     Hi. Thank you, Saransh. Hi, everyone. Good morning, good evening, depending on where you
+                  are. Earnings release for our eighth quarter since we have been public is now with you. It came
+                  out last night. I hope you all have had a chance to go through it and glance through it at least a
+                  little bit.
+
+
+                  Without further ado, I will kick things off. I know this is a busy festive season for everybody, but
+                  happy to report that we have continued strong momentum in the fiscal Q2 of fiscal year 2027 or
+                  2026/2027. What I will do is I will kick it off with a few remarks on the state of the union of the
+                  business, and then we will start dig into the financials. I have provided a little bit of financial
+                  summary, Nithya will provide some more details, and we will turn it into Q&A.
+
+
+                  With that, I think given that this is the eighth quarter of public company earnings, I don't need to
+                  introduce IKS to you all. You know we are in the business of enabling providers to deliver better,
+                  safer care, predominantly impacting their cost of care, quality of care, and access to care
+                  positively.
+
+
+                  So, that's the business that we are in. As you all know, we had started in the ambulatory and
+                  physician space. We are starting to build an offering in the hospital or acute market, and then
+                  with the acquisition of TruBridge and the integration that is underway, we are now firmly across
+                  the continuum of care, ambulatory to acute. So, excited to report that evolution. Again, I think
+                  you guys are all familiar with the TAM and stuff like that.
+
+
+                  One of the things that we continue to take pride in, we believe that the ultimate care enablement
+                  platform will be the right combination of AI and human in the loop. I think the way IKS has, the
+
+                                                              Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                          November 06, 2026
+
+          new IKS has come together, I think we have the best combination of those two key levers for
+          success within the care enablement world, and also in an approach that is a true end-to-end
+          platform-based approach versus a point solution-based approach.
+
+
+          With that, I will just move on to really talking about how the business is trending. You are aware
+          of the five pillars of our strategy. We have spoken about that extensively, so I will leave that on
+          the screen for you all to read. I think the most interesting part of that everybody is interested in,
+          is the TruBridge integration.
+
+
+          Really happy to note that the TruBridge integration is well underway and going well. I measure
+          the TruBridge integration across five or six dimensions, and what I will try to do is give you all
+          some color. First, I will say that over the last three odd months since we closed TruBridge, I have
+          had the privilege of being on the road and meeting more than 50 TruBridge customers. In fact,
+          we are just coming off a conference two weeks ago where we had 75 of the senior executives of
+          some of the largest IKS and TruBridge customers in a room for two and a half days. It has been
+          a very interesting set of conversations.
+
+
+          Big headline I have for you all is that I think our message around the only company in the world
+          that is a true deep integration between a system of record and a platform system of action, that
+          message is resonating dramatically. Certainly with the TruBridge install base, which is where
+          that value proposition will primarily manifest itself, and then with the legacy IKS install base,
+          that platform system of action manifest is really starting to come through well.
+
+
+          The dimensions on TruBridge that I think about from an integration perspective, when you
+          acquire a large asset like this, you are obviously looking at it outside in, and you have certain
+          hypothesis. Then, three and a half, four months later, you are able to truly have a view of how
+          that's trending.
+
+
+          I will start with the people and culture dimension first, because no matter whether it's AI or not,
+          it's the people that make everything happen. Happy to note that we went in knowing that the
+          people and culture dimension of TruBridge was a scenario where this was a company that was
+          moving from a lifestyle company to truly an execution-oriented, intense organization.
+
+
+          That transition was underway, but not complete. I think looking in, I think that has gotten
+          validated, and I think there has also been some very interesting developments as we started
+          integrating. Three of the top five executive leaders of TruBridge have now assumed executive
+          leadership roles in the combined entity. Chris Fowler, who is one of their senior most executives,
+          was CEO of TruBridge, has been there 25+ years.
+
+
+          Now is the Chief Strategy Officer of the combined IKS, but also continues to mentor the
+          TruBridge book that is now part of the acute business unit or the hospital business unit within
+          IKS. He certainly believes in our vision. Many of you got a chance to meet with him when we
+          did our last quarter's earnings release.
+
+
+          He was in India, and so continues to be a key pillar for driving success in the joint platform.
+          Amaris, who now is our Global CHRO, was the CHRO of TruBridge, and so that was a very
+          important decision to make her Global CHRO of the combined entity. As you can imagine, that
+
+                                                              Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                          November 06, 2026
+
+          gives the TruBridge people tremendous confidence on their representation and importance in the
+          combined entity.
+
+
+          David Harse, who used to run the TruBridge EHR business, which I think is the crown jewel of
+          this acquisition for many reasons, has continued to assume the role of the GM of the EHR
+          business, which also sits in our acute business unit.
+
+
+          So, three of the top five executives have committed to the long- term, are now part of the larger
+          executive leadership team at the combined IKS, and I think that's going to bode well for this
+          continued transformation of the legacy TruBridge business and its integration into IKS. One of
+          the other key dimensions that we had as an assumption going in was that the EHR business is
+          highly sticky. Very happy to report that I think the business is even stickier than we had imagined.
+
+
+          Through these 50+ conversations with TruBridge EHR customers, I have to say that they are
+          almost pleading for us to both modernize that EHR and to really start to integrate our system of
+          action to make it even more functional and accretive for them. So, beats expectations on that
+          stickiness front from an EHR perspective.
+
+
+          The next one was, I think, a very key strategic dimension of acquiring TruBridge was the fact
+          that with TruBridge, we would get access to a whole bunch of data that we could then convert
+          into a context layer and make it an AI training moat. We had gone in with the assumption that
+          we would have access to about 5 million patient records. Very happy to note that actually the
+          access to patient records is even greater. I think the number is 3.5x- 4x of that.
+
+
+          With that kind of treasure trove of data, our ability to accelerate the training of our own models
+          and build our proprietary AI moat is significantly enhanced. So, certainly beats expectations on
+          that front. The other dimension was that we had a thesis around margins and the potential
+          synergies that existed in the TruBridge book.
+
+
+          I have to say that we firmly beat expectations on that front. Our initial review reveals that there
+          is a whole bunch of opportunity, certainly without compromising any of the customer satisfaction
+          needs of TruBridge. So our ability to drive synergies while improving the performance of the
+          TruBridge financial health business appears to be stronger than we saw from the outside in. Last
+          but not the least, the resonance of our system of action message in the TruBridge EHR customer
+          base.
+
+
+          Remember, there are 600+ hospitals on the EHR, and probably not more than 200 of them have
+          the financial health offering in there. There's a huge white space, and in our conversations over
+          the last few months, it's apparent that there is a robust demand environment in that installed base
+          for our financial health offering, which is the RCM offering, but then also our larger system of
+          action.
+
+
+          I think our thesis that we will be able to transform TruBridge from a steady to declining revenue
+          asset to eventually a highly profitable growth asset still has merit, and there's more to follow on
+          that front. All in all, good learnings. Obviously, there's a lot of work to do as it relates to
+          modernizing the EHR and building that integrated system of record and system of action.
+
+
+          I think the initial report from our perspective seems to be solid. As I think about what we are
+
+                                                               Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                           November 06, 2026
+
+          really going to do with everything that we are learning, I'd like to lay out a little bit of a thesis
+          that will define what we're going to do. Also, this will serve as sort of the AI update, the dimension
+          of AI update that I think everybody's looking for.
+
+
+          If you really think about the logical architecture, not the physical architecture, but the logical
+          architecture of what the care enablement platform will look like once it's truly AI first and human
+          in the loop, the way to think about it is you always have the EHR, which is a system of record,
+          which is a longitudinal data repository and the single source of truth.
+
+
+          Remember, the data in that system of record is transactional and somewhat disconnected. While
+          it captures what is happening in the patient journey, it is transactional, and hence, you can't just
+          take that data and have these highly sophisticated LLMs start to reason with that data. The data
+          is not organized.
+
+
+          It does not have the context built in. No matter how you do it, you have to transform that data
+          into a context layer, which is what we call the system of intelligence. That essentially starts to
+          bring semantic interoperability in the data. That's where you start to then build the knowledge
+          graphs and the ontologies that enable the semantic interoperability, and then you can start to really
+          use AI, ML, and cognitive compute for predictive insights. That layer, that system intelligence
+          layer, is a very important alpha.
+
+
+          Of course, the system intelligence layer cannot be built meaningfully without the system of record
+          data, but what we're doing is we're starting to build this system of intelligence layer in a relatively
+          agnostic manner. By that I mean, obviously there's millions of patient records that will be used
+          to build the system intelligence layer from the TruBridge data, but also there's all these in our
+          legacy IKS business. We get access to data as we are delivering the care enablement platform
+          across other EHRs.
+
+
+          We are building the system of intelligence such that it can receive data across EHRs, including
+          TruBridge, and become that context layer that then enables the system of action platform that we
+          have, which really then sort of does all the workflow optimization, automation, orchestration, and
+          includes the human in the loop for the safety and oversight and the complex transactions or the
+          non-deterministic outcome transactions that the AI cannot process autonomously.
+
+
+          I think it's very important to sort of internalize this architecture and know that we now have
+          already begun the effort of building the system of intelligence in a manner where the system of
+          record, where we're agnostic to the system of record that is driving the system of intelligence,
+          and then that system of intelligence is really what is feeding AI agentic autonomy into the IKS
+          platform system of action.
+
+
+          That essentially leads to two offerings, one for the legacy IKS market and the other for the rural
+          and community market that we now have access to through TruBridge. If you look at the existing
+          IKS legacy market, that's the one that we will continue to build on the existing architecture, where
+          there'll always be the EHR system of record at the base.
+
+
+          It could be TruBridge or anybody else. We will have our proprietary system of intelligence that
+          is constantly getting trained largely through TruBridge data, but also data that's coming off our
+
+                                                              Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                          November 06, 2026
+
+          other EHRs that we integrate with, and then that's feeding the platform system of action that we
+          built over the last 20 years.
+
+
+          So that's going to be the platform system of action offering for our traditional IKS large physician
+          group market, both health system owned as well as large single and multi-specialty groups. Then
+          for the actual rural and community market, that's where we're really going to be building this
+          game-changing future operating system of healthcare. That's a true AI-native platform that will
+          What it will essentially do is it will physically integrate the system of record and the system of
+          intelligence layer such that that becomes that AI-native substrate that we will build from the
+          ground up, right?
+
+
+          So now you have a truly integrated versus a transactional database from a legacy EHR. We will
+          actually combine that system of intelligence and system of record into an AI-native substrate, and
+          that then integrates deeply in the native workflows with the system of action that then leads to
+          this whole zero-latency data flows with no middleware interfaces needed and allows true real-
+          time, without context switching, end-to-end clinical and financial automation.
+
+
+          These are the two parallel paths that we will be pursuing to truly AI-enable this care enablement
+          platform that I think is going to be a significant opportunity for us and for the industry going
+          forward. You already know that these are the 16-odd features of our platform on the ambulatory
+          side and five features of our system of action platform in the acute side.
+
+
+          By the way, with the acquisition of TruBridge, we have now launched already two extensive
+          customer assessments of legacy TruBridge customers where they have indicated interest to take
+          our full platform system of action. So excited to report that.
+
+
+          As a part of that, what will happen is you will see that this bottom row of the system of action for
+          the in-acute settings, the features of that will get expanded because obviously in the hospital
+          setting, there are additional tasks that the providers and the administrators should not be doing.
+
+
+          We will now start pulling those tasks into the acute platform system of action. Obviously, these
+          five features that you see for the in-acute settings will grow, and that will continue to expand our
+          TAM for the in-acute setting. Now, as we are going about building this AI-native operating
+          system for the rural and community care market, what became evident as we met these 50-odd
+          customers over the last few months is that there are certain features of our current platform system
+          of action that have very high appeal today to the TruBridge customer base.
+
+
+          What we did is after a whole bunch of survey, we prioritized these three broad offerings from our
+          IKS legacy system of action, and we are now bringing these offerings first, integrating them into
+          the current TruBridge EHR. Think about it like a smelting process, right? We are building that
+          system of intelligence layer.
+
+
+          Through that system of intelligence, first we will focus on the system of intelligence layer for
+          these three features: denial prediction and prevention, coding, and all things that drive clinical
+          productivity or time back to providers, including clinical documentation and virtual care assistant.
+
+
+          For these three features, we are prioritizing building that system of intel, and through that system
+          of intel, we will first bring these three features into the TruBridge customer base, because these
+
+                                                             Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                         November 06, 2026
+
+          three features have the maximum demand and the maximum ROI in the TruBridge customer base.
+
+
+          Our objective is that these three features will be live in the legacy TruBridge EHR, the old
+          COBOL-based legacy TruBridge EHR, through this smelting process in the TruBridge customer
+          base sometime by Q1 of FY 2028. By Q1 of FY 2028, these three features are integrated into the
+          TruBridge EHR and are available for release to the TruBridge customer base, that's what we are
+          prioritizing.
+
+
+          By that time, in parallel, we would have launched the effort of what we call Project Endeavor,
+          which is building from the ground up. This AI-native operating system will be an absolute one-
+          of-a-kind for the entire industry. That' s going to be our strategy on how we, even as we are
+          stabilizing the current churn in the TruBridge financial health customer base, we start to build the
+          engines that will actually drive growth. Going into FY 2028 and beyond.
+
+
+          That' s generally the strategy that we have. That's an update on the TruBridge integration and the
+          strategy that we have to both stabilize the TruBridge customer base from an FH delivery
+          perspective, but also start to integrate growth in that customer base, and to do it in a way where
+          whatever we build through the system of intelligence is applicable in an EHR-agnostic manner
+          into the legacy IKS customer base as well. That' s a brief update on the TruBridge integration.
+
+
+          Obviously, any quarter like this is exciting because while we were doing the TruBridge
+          integration, we were still able to drive a whole bunch of deal wins and customer expansions into
+          the legacy IKS business. Generally, going forward, at least for the next few quarters, when I say
+          legacy IKS, think of legacy IKS as the original combined business of IKS and AQuity, right?
+
+
+          If you remember, when we sort of announced the deal, when we closed the deal, I had said that
+          the way to think about it from a revenue run rate perspective is that the legacy IKS business is,
+          give or take, about a $385 million run rate business, and the legacy TruBridge business, after
+          eliminating the things that we don't want to keep, is about a run rate $300 million business.
+
+
+          When I say legacy TruBridge, I am referring to that $300 million annualized run rate business,
+          and when I say legacy IKS, I am referring to that $385 odd million legacy IKS business. Happy
+          to report four wins in the legacy IKS business, one of which was a major cross-sell into Augusta
+          Health, which is part of the broader Mayo Clinic network. It was a nice cross-sell win in the
+          AQuity customer base.
+
+
+          The other three are new logos that we have added within the IKS business, the traditional IKS
+          business. White-Wilson and Evolve being multi-specialty and single-specialty freestanding
+          medical groups. Then, of course, UMass Memorial being the big health system in the greater
+          Massachusetts area. Then, of course, TruBridge added a new customer called MISH, which is a
+          specialty surgical hospital.
+
+
+          I guess the other question in your mind is, how should you think about combined growth in the
+          business? I think while you have seen the numbers, and we have come in through a strong quarter
+          as it relates to our overall performance with INR1,592 crores odd in revenue, and about INR442
+          crores odd in EBITDA, which, coming out of the gate is already a 28% EBITDA. Which is right
+          in line with our expectations.
+
+                                                               Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                           November 06, 2026
+
+          We have had no leakages either on the legacy IKS EBITDA side, where if you remember, Q1 FY
+          2027 legacy IKS had hit an EBITDA of about 34.5%. I am happy to report that we are able to
+          maintain those margins in spite of significant acquisition expenses, of which there were about
+          nearly INR25 crores of acquisition expenses in this quarter.
+
+
+          Then on the legacy TruBridge side, the EBITDA continues to be right in line with what we had
+          expected, which was sort of that annualized $68 million run rate. This is obviously the pre-
+          synergy EBITDA. All that resulted in, like I was saying, INR1,592 crores of revenue, which is
+          about 104% year-on-year growth in rupee terms. Obviously, and at about a 78% growth QoQ in
+          rupee terms. But obviously, you all are interested in the constant currency growth and want the
+          breakup.
+
+
+          The way to think about it is, the constant currency revenue or the U.S. dollar revenue was about
+          $169 million. The way to think about it is, of that, the IKS business grew a little bit better than it
+          did in Q1.
+
+
+          Year-on-year, the growth in the IKS business was a little over 13% in U.S. dollar terms, coming
+          in at about $101 million. So better than improved growth over Q1 on a year-on-year basis. Then
+          on the legacy TruBridge business, we came in right around $68 million. Give or take, like I had
+          said, the run rate of the legacy TruBridge business was about $75 million a quarter, $300 million
+          a year. We had 82 days of consolidation in this quarter, so when you do 82 by 90 odd or 91 odd,
+          you come right around that $68 million.
+
+
+          That' s the way to think about the constant currency growth. How do you think about growth
+          going forward in revenue? The way to think about it is this. We continue to believe that in spite
+          of the fact that our execution bandwidth is now spread across a much larger book, we feel like
+          we can continue to drive better than industry growth in the legacy IKS business.
+
+
+          I have always said that business, the industry is growing at 12%. We will continue to do better
+          than that on a constant currency basis. We feel like in spite of our bandwidth being stretched, we
+          will be bold enough to say that we should be able to maintain that. Of course, it's not always
+          exact, but we feel optimistic about our ability to do that.
+
+
+          The legacy TruBridge business, the way to think about it is, this is a year of consolidation and
+          stabilization. We have already had almost a full quarter. We have two more full quarters left. This
+          year, we will focus on truly integrating the TruBridge business and stemming and stabilizing the
+          customer base. If I were you, I would not be modeling any significant growth in the TruBridge
+          business this fiscal year. But starting fiscal 2028, I think we should start to see significant green
+          shoots of growth.
+
+
+          I am talking about net growth in the TruBridge business, which then, going into late FY 2028 and
+          early FY 2029, that legacy TruBridge business should really start to edge towards- In the system
+          of action component, the industry growth, that 10%-12% that the industry is growing at, the rural
+          and community market for system of action is growing at that.
+
+
+          I would say that our aspiration, and I am not giving guidance again at all, but our aspiration is
+          that we get to that 10%-12% growth in the TruBridge system of action business. Obviously, the
+
+                                                                                Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                           November 06, 2026
+
+                           TruBridge system of record business, our ambition is to keep it relatively flat.
+
+
+                           So I wouldn't model too much growth, at least for FY 2028 and FY 2029, in the TruBridge system
+                           of record business, because the idea is that's the platinum mine. That's what helps us build our AI
+                           system of intelligence layer and eventually the system of action. That is also that platinum mine
+                           that allows us to cross-sell our system of action into that install base. Our ambition is to keep that
+                           relatively flat.
+
+
+                           Then once Project Endeavor is launched, where we have this true operating system of healthcare,
+                           which is the truly integrated system of record and system of action for the rural and community
+                           market, which probably is going to be FY 2029 onwards, hopefully we can drive some moderate
+                           growth at that point in the TruBridge EHR business. So that's the way to broadly think about
+                           growth. I know everybody is wondering.
+
+
+                           I will repeat that we are not giving guidance at all as it relates to growth. So please, please be
+                           mindful of that. This is the ambition, and obviously, we want to be the best company in the
+                           business. I feel like we've put together the right assets to be the best company in the business, and
+                           now it's about executing to those assets going forward.
+
+
+                           Obviously, the other question is, what should we think about EBITDA? We've already come in
+                           at 28% EBITDA this quarter. I've always maintained that at the other side of this acquisition, we
+                           should be able to get back to our traditional margins of early to mid-30s. I reiterate that we should
+                           be able to get that.
+
+
+                           Whether that's happened sooner rather than later, time will tell. I already mentioned to you all
+                           that our early analysis on synergies is that we have the opportunity to beat our own expectations
+                           on synergies from the acquisition than meet them. Optimistic about margin.
+
+
+                           At the confluence of all that, I feel like we feel, while there is a lot of execution ahead of us, that
+                           general True North target of INR3,000 crores that we've given for FY 2030, we continue to be
+                           optimistic about that while continuing to reduce our leverage. You must have seen that on INR442
+                           crores of EBITDA, our net leverage is already under 3x EBITDA, and hence we feel optimistic
+                           about taking that leverage down to near zero levels by the end of FY 2030.
+
+
+                           So that's a broad summary of our Q1 performance, the TruBridge update, how we're thinking
+                           about growth going forward, and our ability to continue to deliver to our True North objectives
+                           for FY 2030.
+
+
+                           All this while building for the rural and community market the most exciting and relevant
+                           operating system of the future, and for the legacy IKS market, which is a large physician group
+                           market, a true AI-enabled human-in-the-loop system of action that is EHR agnostic. With that, I
+                           will pause and I will turn over to Nithya to talk through other aspects of our financials.
+
+
+Nithya Balasubramanian: Thank you, Sachin. Good morning, everyone, and advance Diwali wishes. Sachin, if you don't
+                           mind going to the next slide.
+
+
+Sachin Gupta:              Yes.
+
+                                                                                Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                           November 06, 2026
+
+Nithya Balasubramanian: PBT in this quarter came in at INR273 crores, which represents almost a 20% year-on-year
+                            growth. PAT in the quarter was INR217 crores. Adjusted PAT, where we have removed the non-
+                            cash items, including ESOP as well as amortization of intangibles, came in at INR273 crores,
+                            which is about 17% of revenues. Again, representing a very healthy 36% year-on-year growth.
+
+
+Sachin Gupta:               One comment I just wanted to make, Nithya, if you allow me, is that if you see our EBITDA of
+                            INR442 crores, when we adjust that EBITDA for our ESOP expenses, it actually comes to about
+                            INR459 crores. So there is nearly about INR17.5 crores of ESOP expenses in this quarter.
+
+
+                            One thing I do want to note is, as you can now see, we are nearly a $700 million annual run rate
+                            company, and we have gone to this number from, what were we, just three years ago in October
+                            2023, prior to our IPO, we were about $150 million run rate company, right? So we have grown
+                            nearly 5x in three years. Of course, a significant part of that has been inorganic, but also remember
+                            we have achieved that inorganic growth with absolutely no dilution of equity.
+
+
+                            It has also created post-IPO pretty large employee base, and to execute on the vision of the future,
+                            I think it is really important that we align some of our key leaders towards the success of the
+                            future financially. In line with that, as it was approved by the shareholders in the AGM, by all of
+                            you should anticipate that there will be an ESOP grant to about the top 60, 65 leaders of the
+                            company that amounts to, give or take, 4% of the total equity of the company.
+
+
+                            As that gets granted, we will give you specific impact to model on the non-cash part of the
+                            EBITDA, and hence that adjusted EBITDA number will continue to become more and more
+                            relevant, and we will give you the specifics.
+
+
+                            But I did want to say that that 4% ESOP grant is going to obviously impact this adjustment of
+                            expenses in arriving at the adjusted EBITDA number.
+
+
+Saransh Mundra:             Thank you, sir.
+
+
+Nithya Balasubramanian: If you can give-
+
+
+Sachin Gupta:               By the way, I do want to say, sorry, one more thing that on that ESOP, nearly 80% of that ESOP
+                            is attached to performance targets that are linked to our $320 million or INR3,000 crores EBITDA
+                            True North target. This ESOP grant is essentially geared towards aligning the entire organization
+                            to achieve and beat our True North of FY 2030. Sorry, Nithya. Thank you.
+
+
+Nithya Balasubramanian: Thank you. Talking about cash flow, cash generation continues to remain very, very strong. I do
+                            want to call out two items that are appearing in OCF and FCF this quarter. If you look at the
+                            adjusted OCF that came in at INR393 crores, which represents a very healthy conversion of up
+                            to 90% of EBITDA.
+
+
+                            The numbers you will see reported in the cash flow are about INR96 crores lower, and this INR96
+                            crores went towards TruBridge's acquisition expense. Of course, we got commensurate cash as
+                            well when we acquired the company, but since the payment was made after the cutoff for
+                            consolidation, the INR96 crores appears in my operating cash flow. As you can imagine, this is
+                            fully covered by the cash that we got, which is sitting in my financing activities, and this is, of
+                            course, a non-recurring item.
+
+                                                                 Inventurus Knowledge Solutions Limited
+11<.S
+HEAL TH                                                                             November 06, 2026
+
+          If you look at FCF, other than the item that I already mentioned, we also ended up paying slightly
+          higher tax to the tune of about INR30 crores this quarter. Again, this is only a timing issue. When
+          we acquired TruBridge, we took a rather conservative view on tax.
+
+
+          We paid slightly higher tax than was necessary, and this additional tax that we paid will anyway
+          be consumed towards the tax that is owed in the rest of the two quarters in the year, and therefore,
+          this also is a one-time impact this quarter. Adjusting for both of these items, cash conversion
+          remains at 90%, and this, we hope, will only keep going up in the future as well. If you look at
+          net debt, we had assumed a gross debt of about $611 million at the time of TruBridge acquisition.
+
+
+          The net debt number at the end of the quarter stands at INR5,280 crores, or approximately $550
+          million. With continued extraction of synergies and cash generation, we hope to be able to
+          continue to pare this down in the future quarters. EPS came in at INR13 in the quarter, and growth
+          was in line with the PAT growth that was discussed earlier at about 20% year-on-year.
+
+
+          I do want to call out that this deal, as discussed in the last quarter, is EPS accretive. You will find
+          that the PAT growth quarter-on-quarter is stronger than the underlying IKS revenue growth. This
+          is PAT accretive this quarter and will continue to remain so as we continue to work and improve
+          on the TruBridge business model.
+
+
+          Return on equity was at 27%, again, continues to remain healthy, and we hope to remain around
+          these levels. A lot of these numbers have been discussed. I will just call out a few highlights.
+          Employee benefit expense, other expense, all these numbers on the slide do include 82 days worth
+          of TruBridge expenses and revenue as well.
+
+
+          The underlying employee count for IKS remained rather flattish quarter-on-quarter, and the
+          increased number of total employees that you see are the new employees that we inherited as we
+          closed the transaction. EBITDA came in at INR442 crores, or almost 28%. The finance cost of
+          INR101 crores in the quarter includes about $9 million of interest expense, which is only for the
+          period that was accounted for. You should expect about $10 million of interest expense every
+          quarter going forward at the current interest rates.
+
+
+          Of course, as our leverage goes down, which we hope it will, our interest expense will keep
+          coming down. Depreciation and amortization is again higher because, again, looking at the
+          balance sheet, you will find that we have booked about $123 million in intangibles and about $50
+          million in technology, and this amount on the balance sheet will continue to get amortized over
+          a period of time.
+
+
+          You should again assume a proportionate number for the next quarter as well. Tax came in at
+          INR60 crores. The ETR for the quarter was 22.1%. For the combined TruBridge and IKS entity,
+          ETR should remain in the 22%-23% range in Q3 and Q4 as well. There was also losses that are
+          attributable to minority shareholders of the WWMG MSO, which is about INR4 crores that you
+          see on the face of the P&L.
+
+
+          Net of that, our profit came in at INR217 crores. The MSO is loss-making. However, the losses
+          continue to shrink as we scale up our implementation of the platform and the productivity of the
+          doctors continue to increase. That's it on this slide. If we can maybe quickly look at the next slide.
+
+                                                                    Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                               November 06, 2026
+
+                 Adjusted EBITDA per employee is now a very healthy INR1.29 million in the quarter. This
+                 represents the incremental revenue and the additional employees that we have now inherited from
+                 TruBridge. Revenue from top 10, revenue top five, all of this obviously now includes TruBridge
+                 revenue in the base as well. Our vintage with top 10 and top five continues to remain very, very
+                 healthy. Sachin, back to you.
+
+
+Sachin Gupta:    Thank you, Nithya. Again, just to round it off, you can see this, the business model continues to
+                 be solid, and I think in the process, we have built this really unique care enablement platform for
+                 the U.S. healthcare market that transcends the ambulatory and the acute setting and has the right
+                 optimized mix of global human in the loop execution in an AI-first model that we are building
+                 based on proprietary data and proprietary models that we are creating based on that data.
+
+
+                 All that to bring to a relatively sticky customer base across both our traditional market of large
+                 physician groups as well as the rural and community hospital market. All in all, excited about
+                 where we are and look forward to everybody's questions.
+
+
+Moderator:       Thank you very much, sir. We will now begin the question- and- answer session. The first
+                 question is from the line of Ruchi Mukhija from ICICI Securities. Please go ahead.
+
+
+Ruchi Mukhija:   Thank you. Congratulations on a good Q2 number. Two questions. First, Sachin, you mentioned
+                 that an examination of TruBridge, you see large scope for-
+
+
+Sachin Gupta:    Ruchi, I am sorry to interrupt. You are not coming through clearly. Ruchi, so sorry to interrupt.
+                 You are not coming through clearly.
+
+
+Ruchi Mukhija:   Is it better?
+
+
+Sachin Gupta:    Yes, this is much better. Thank you.
+
+
+Ruchi Mukhija:   Yes. On TruBridge, when you called that the scope for margin improvement looks better, could
+                 you help us, what are the labor and the cost areas we are thinking of for margin improvement in
+                 TruBridge?
+
+
+Sachin Gupta:    Yes, obviously. There are several areas, but I would say that there are areas within operating
+                 costs, and obviously there has been areas within the overhead costs, the SG&A. On operating
+                 costs, the two prime levers are to leverage our technology-first, human-in-the-loop model within
+                 their financial health customer base. As you know, that is nearly 2/3 of the TruBridge book.
+
+
+                 One of the challenges and opportunities of TruBridge's execution was that they were not
+                 necessarily being totally successful in optimizing the use of the global model and driving the
+                 technology interventions. I think that continues to be the biggest area of opportunity across both
+                 traditional back office rev cycle as well as medical coding-related execution.
+
+
+                 And then, of course, as you know, TruBridge has a very significant technology footprint, and so
+                 there continues to be opportunity to sort of right-size, and more than right-size, right-locate that
+                 technology investment in a manner where we can get more bang for the buck. We don't intend to
+                 necessarily reduce the technology investments, but we will cost-optimize how they are spent in a
+                 way that we can get more bang for the buck on that front.
+
+                                                                      Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                 November 06, 2026
+
+                 Then on just purely on the SG&A, one, of course, with the public company expenses that are now
+                 already gone, but there is a whole bunch of other SG&A synergies that we are working through
+                 as well as we integrate the two organizations holistically.
+
+
+                 There was obviously some redundancy in leadership, which is why of their top five executive
+                 leaders, three have actually made it into the integrated organization. Then there are redundancies
+                 like that in SG&A across several levels that have been channeled as well.
+
+
+Ruchi Mukhija:   Got it. Second on growth, organic growth, Sachin. This is a third quarter where we are in very
+                 early teens or very close to the industry growth versus our target to be materially ahead of industry
+                 growth of 12%. How should we think about organic growth going ahead?
+
+
+                 Now, the base also becomes favorable for a few quarters. The base was, I would say, high. Going
+                 forward, how should we think about the organic growth trajectory for IKS native business?
+
+
+Sachin Gupta:    Yes. Like I said, I think I tried to lay that out in the original commentary. I think we continue to
+                 feel confident that we will drive better than industry growth in the legacy IKS book, which we
+                 have done consistently over the last eight quarters of being a public company.
+
+
+                 Outside of that, as it relates to the legacy TruBridge book, I was saying earlier that this fiscal year
+                 is a year of integration and consolidation. I would not model any significant net growth in the
+                 TruBridge book this year. As we go into FY 2028, we are starting to expect some growth coming
+                 from the system of action within the TruBridge customer base. You saw the three features that
+                 we are rolling out first into the TruBridge customer base, integrating them into the EHR.
+
+
+                 There is obviously the traditional RCM offering that still has white space in the EHR install base.
+                 So, we will start to see early signs of growth in the TruBridge customer base in FY 2028. Then
+                 towards the end of FY 2028, our ambition would be that $300 million book, of which $200
+                 million is system of action and $100 million is system of record, that $200 million starts to go
+                 towards industry-leading growth, right? So that same sort of, in the rural market, that 12% is
+                 maybe 10 odd percent.
+
+
+                 So somewhere in that 10%-12% would be our ambition, starting towards the end of FY 2028 and
+                 then going into FY 2029 and beyond. Again, on the EHR book, which is about $100 million, we
+                 don't have an ambition of trying to grow that. That is the platinum mine that we continue to mine.
+
+
+                 But once we have rolled out the new integrated AI-first operating system, perhaps going into FY
+                 2029 and beyond, there might be some moderate growth in the EHR business. So those are the
+                 three ways to think about growth. Again, this is not a guidance, but this is an ambition that we
+                 think, if we execute well, we should be able to achieve.
+
+
+Ruchi Mukhija:   Okay. Thank you and all the best.
+
+
+Sachin Gupta:    Thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Mayank Babla from Carnelian Capital. Please go
+                 ahead.
+
+                                                                                 Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                            November 06, 2026
+
+Mayank Babla:               Hi. Thank you for taking my question. Congratulations on a good set of numbers and a successful
+                            integration of TruBridge to the team. My first question is towards Nithya. I am not sure if you
+                            have given a split. If you have already earlier, then apologies. If you could give us a split between
+                            IKS and TruBridge for the quarter on the revenue front. How much is from IKS and TruBridge
+                            in this INR1,592.5 crores? On the EBITDA front, if you could give us a split for the same.
+
+
+Nithya Balasubramanian: The revenue, Sachin did talk about this earlier. We had guided that TruBridge is at a run rate of
+                            $75 million for the full quarter. However, we have only 82 days this quarter, so that represents
+                            about $68 million from TruBridge. The rest is, of course, from IKS, and that represents a little
+                            more than 13% organic growth for IKS year-on-year.
+
+
+                            In terms of EBITDA, again, we came right alongside what we had guided, which is TruBridge's
+                            EBITDA run rate is at about $68 million for the year, and that's what you will see proportionately
+                            reflected in the numbers as well. IKS's underlying margins remains at very similar healthy levels
+                            as you saw in Q1, around the 34.5%-35% mark.
+
+
+Mayank Babla:               Sure. Thank you. Thank you so much.
+
+
+Nithya Balasubramanian: The EBITDA does have one-time integration expenses of INR25 crores, which you should adjust
+                            for.
+
+
+Mayank Babla:               Okay, INR25 crores. Okay. Got it. Thank you. Second question is towards Sachin. Sachin, you
+                            did mention briefly in the opening remarks about the transactional database and how you want to
+                            stack up the system of intelligence over that. If you could just double-click on that and give us a
+                            little more detail on what you intend to do over here, please.
+
+
+Sachin Gupta:               Yes. I think the way to think about it, that's a great question. I think that's Mayank. Appreciate it.
+                            The best way to illustrate it is through an example, and I'll try not to get too technical. I'll keep it
+                            simple. Think about it, if there is an orthopedic injury that a patient has, right? The orthopedist
+                            orders an MRI to investigate that orthopedic injury as a precursor to the surgery from the payer.
+                            What will happen is you have to apply for a prior auth from the insurance company to be able to
+                            do the MRI to make sure that they will actually pay for the MRI.
+
+
+                            Now, what you will do is you will go to the rules in the payer prior auth, and you will understand
+                            that the rules are that the payer says you should have gone through six weeks of some
+                            conservative treatment before you go down a surgical intervention path. So they will not pay for
+                            the MRI unless there has been some conservative treatment.
+
+
+                            Conservative treatment or something like that is physical therapy. So now the physician orders
+                            physical therapy, the patient starts the physical therapy. Eight weeks later, the pain still has not
+                            subsided. So you would think that eight weeks later, if it says pain has not subsided, the patient
+                            has gone through the therapy, you have got to a point where you are able to now apply for the
+                            prior auth for the MRI and get it successfully.
+
+
+                            Now, the reality is, all of these data points, some of them are lying in the EHR in disconnected
+                            encounters. Some would be available. A very simple pitfall could be that the patient did start
+                            physical therapy, but after two sessions, the patient fell off. They didn't go for the other physical
+                            therapy sessions. And the attendance tables for the physical therapy are not available in the EHR.
+
+                                                                                  Inventurus Knowledge Solutions Limited
+  11<.S
+  HEAL TH                                                                                            November 06, 2026
+
+                            So if you have not built that AI substrate, the system of intelligence layer, that truly interprets
+                            which all data sources to tap to get a comprehensive view of what is needed as evidence to pass
+                            the payer's prior auth request, you might have a system that tries to take what's in the EHR, submit
+                            it, thinking that it will get a highly confident authorization, but you will actually get a rejection
+                            because the attendance log was not factored in.
+
+
+                            So this is a very simple example of the type of relationships that the system of intelligence builds
+                            for tasks like prior auth, which will never be available in the EHR or if you just built an agentic
+                            system of action. It' s those type of relationships between the data entities by task that are called
+                            knowledge graphs that bring the context and drive.
+
+
+                            So again, it comes back to the EHR captures what happens, what actually happened. The system
+                            of intelligence makes sense of it, interprets it, and prioritizes this is what needs to happen, and
+                            then the system of action actually orchestrates it. hopefully this illustrates it better, Mayank.
+
+
+Mayank Babla:               That was amazing and insightful. Thank you so much, and best of luck for the future. A great set
+                            of numbers. Thanks.
+
+
+Sachin Gupta:               Thank you.
+
+
+Moderator:                  Thank you. Next question is from the line of Chirag Kachhadiya from Motilal Oswal. Please go
+                            ahead.
+
+
+Chirag Kachhadiya:          Hi, Sachin and team. Can you hear me?
+
+
+Moderator:                  Yes, please go ahead.
+
+
+Chirag Kachhadiya:          Yes. I just want to know what the debt repayment trajectory on quarter on quarter and annually,
+                            as we stated that we want to reach to a December 2025 level in terms of net debt by FY 2030.
+                            Can you share that roadmap? Yes.
+
+
+Sachin Gupta:               I am sorry, Chirag, you will have to repeat it. You didn't come through clearly, though.
+
+
+Chirag Kachhadiya:          I am asking, what is the debt repayment plan annually and quarterly? If you can throw some light
+                            on that part. Yes.
+
+
+Nithya Balasubramanian: What we have in the facility agreement is it's a five-year loan. Interest payments, as I mentioned
+                            earlier, at the current prevailing interest rate levels are likely to be around $10 million per quarter.
+                            We have an 18-month moratorium on the principal repayment, so that should start end of next
+                            calendar year. The current interest rate at the existing leverage levels is SOFR plus 2.75, which
+                            will slide down to SOFR plus 1.75 as my leverage comes down to 1.7x levels.
+
+
+Chirag Kachhadiya:          Okay. Second, you mentioned about performance link, I mean, to hit the target of INR3,000
+                            crores EBITDA. From which quarter the impact would be there in P&L?
+
+
+Sachin Gupta:               Second half of this quarter.
+
+
+Chirag Kachhadiya:          Okay.
+
+                                                                            Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                       November 06, 2026
+
+Sachin Gupta:           There will be a disclosure that will come out. Sorry?
+
+
+Nithya Balasubramanian: Q3.
+
+
+Sachin Gupta:           Q3. Second half of Q3. There will be a disclosure that will come out when the grant is actually
+                        approved.
+
+
+Chirag Kachhadiya:      Okay. And third question, in this integration of TruBridge, I mean, for about 82 days, just want
+                        to know what immediate synergy in terms of margin has played out since we took the charge of
+                        the entity?
+
+
+Sachin Gupta:           Yes. Chirag, honestly, other than the removal of the public company cost that was actually already
+                        factored into the $68 million run rate, our ambition was to not touch anything for the first at least
+                        three months.
+
+
+                        To be honest, our idea was first let's absorb. Now, there might have been some non-material
+                        synergies that have gotten realized as a result of some natural rationalization of staff that left in
+                        the SG&A side or in the operating side that might be slightly higher than anticipated. Some
+                        reduction in costs associated with advisors that were being used, but nothing material has been
+                        realized yet. The bulk of the synergies lie ahead of us. That is by design.
+
+
+Chirag Kachhadiya:      Should we expect that in Q3 and Q4 we see gradual improvement in this acquired asset?
+
+
+Sachin Gupta:           Absolutely, Chirag. Absolutely.
+
+
+Chirag Kachhadiya:      Okay. And near-term trigger could be like employee cost rationalization, correct?
+
+
+Sachin Gupta:           Near-term triggers will be around restructuring their operating model on the financial health RCM
+                        business to the right operating model of global execution plus the technology interventions that
+                        we have, the similar interventions on the medical coding side. Then obviously, as we integrate
+                        the two G&A organizations, there will be some synergies realized for that. So all those three
+                        vectors will start playing out second half of Q3 onwards.
+
+
+Chirag Kachhadiya:      Thank you, all the best.
+
+
+Sachin Gupta:           Thank you, Chirag.
+
+
+Moderator:              Thank you. Next question is from the line of Vibhor Singhal from Nuvama Equities. Please go
+                        ahead.
+
+
+Vibhor Singhal:         Yes. Hi. Thanks for taking my question, and congrats, Sachin and the team, for a very successful
+                        integration and solid performance. So two questions from my side. On the growth part, you
+                        mentioned that we should look at the growth as basically our legacy IKS business, which you are
+                        calling out, to continue to grow at higher than the industry average when industry grows at 12%.
+
+
+                        So we are probably growing at 13%-14% is what we can look at. And the TruBridge business to
+                        be kind of flattish till, let's say, next year end, and thereafter, we will probably try to pick up
+                        growth in that business. Is that the right way to look at it?
+
+                                                                                Inventurus Knowledge Solutions Limited
+  11<.S
+  HEAL TH                                                                                          November 06, 2026
+
+Sachin Gupta:               I think you are right on the legacy IKS business. On the TruBridge business, flattish till the end
+                            of this fiscal. Next fiscal onwards, start to see moderate growth. And by the end of next fiscal and
+                            going into FY 2029, get to a point where we are starting to hopefully drive industry-leading
+                            growth in that, in the system of action part of the book, not in the system of record.
+
+
+                            So remember, it's 1/3 system of record, 2/3 system of action. In the system of action part of the
+                            book, going into late FY 2028, early FY 2029, start to edge towards industry-leading growth there
+                            as well.
+
+
+Vibhor Singhal:             Got it. So in FY 2029, we can probably expect the TruBridge business, though it will be very
+                            much integrated, TruBridge business to come close to the legacy IKS business though?
+
+
+Sachin Gupta:               Yes, but only 2/3 of it, because remember, 1/3 of it is.
+
+
+Vibhor Singhal:             2/3 of it.
+
+
+Sachin Gupta:               is not on record. We don't intend to grow that all the way even towards FY 2030, maybe late FY
+                            2029.
+
+
+Vibhor Singhal:             Got it. I think that's very clear. Just one more question for Nithya. Nithya, if I just look at the
+                            numbers that we mentioned, $68 million of revenue from TruBridge in this quarter and around
+                            34.5% EBITDA margins for the legacy IKS business.
+
+
+                            If I calculate the margins for the TruBridge business in this quarter, it comes out to be around
+                            17.5% EBITDA margin. I am talking about adjusted EBITDA, removing the ESOP cost. How to
+                            look at this number? I think from when we acquired, we were probably looking at 14% margins.
+                            It's already at 17.5%.
+
+
+                            Do we expect a gradual ramp-up in these margins going forward in the next coming quarters, or
+                            is it going to be slightly long tail and maybe flattish at these levels for the next few quarters, and
+                            then probably pick up from there?
+
+
+Sachin Gupta:               Actually, the number is even better.
+
+
+Saransh Mundra:             Mayank, when you take that up, the number is going to be 21, 22.
+
+
+Nithya Balasubramanian: The TruBridge margins are higher. I think the first thing you should do is adjust the INR25 crores
+                            of one-time integration expenses that we called out, add it back to EBITDA, and then use the
+                            guidance I had given you in terms of $68 million annual run rate for TruBridge and IKS coming
+                            in at 34.5%, 35%. Why don't we take this offline? We will walk you through the split of the
+                            numbers.
+
+
+Vibhor Singhal:             Got it. That would be helpful. Sure. Okay. That's all from my side.
+
+
+Nithya Balasubramanian: But your other question, we do expect more synergies in the next couple of quarters and going
+                            into FY 2029 as well.
+
+
+Vibhor Singhal:             Got it. Any margin level that you're targeting for the TruBridge business, let's say, one year down
+                            the line, FY 2028?
+
+                                                                                 Inventurus Knowledge Solutions Limited
+  11<.S
+  HEAL TH                                                                                           November 06, 2026
+
+Nithya Balasubramanian: I don't think we're talking about specific margin guidance in FY 2028, 2029. I think what we had
+                             said was by FY 2030, we hope to bring both books of business to healthy margin levels, which
+                             is the early to mid-30s.
+
+
+Vibhor Singhal:              Got it. Sure. I think that number stays from pretty much. Got it. Great. Thank you so much for
+                             taking my questions. I'll take this math offline. Wish you all the best.
+
+
+Nithya Balasubramanian: Thank you so much.
+
+
+Moderator:                   Thank you. Next question is from the line of Madhuchanda Dey from MC Pro. Please go ahead.
+
+
+Madhuchanda Dey:             Hi. Good morning, and congratulations on TruBridge integration. I have a question on this
+                             revenue from top client. While I understand that the percentage would have declined because of
+                             TruBridge in the denominator, but why is there a decline from, say, INR480 crores in Q1 to
+                             INR342 crores in Q2? If you could That is the same pattern for top five and top 10. If you could
+                             please help me understand that number. Thank you.
+
+
+Nithya Balasubramanian: The top 10, the last few quarters, we had a short-term project from one of our top five customers,
+                             and that's why you see the decline quarter-on-quarter. However, that has been effectively replaced
+                             by other customers which are not in the top 10, which is why you find that the overall growth
+                             remains at the healthy level.
+
+
+Sachin Gupta:                Actually, what you should expect is that there are certain areas in which we are anticipating more
+                             and more one-time work that will be relevant to certain quarters, and it will be at the confluence
+                             of using some of our technology and our human capital to drive some short-term alleviations for
+                             them. You might see some spikes like that going forward of one-time revenue in the upcoming
+                             quarters.
+
+
+Madhuchanda Dey:             Okay, so that much had been quite a substantial one-time contribution, right? Because the decline
+                             is quite meaningful. Is it from one client or two clients, if you could quantify that?
+
+
+Nithya Balasubramanian: I don't think we are guiding for it. I think as and when these projects materialize, we will talk to
+                             you in future quarters about it.
+
+
+Madhuchanda Dey:             No, I understand that fully. My question is, you mentioned that the spike was because of some
+                             short-term projects. Was it pertaining to one particular client or multiple clients? That's my
+                             question.
+
+
+Nithya Balasubramanian: Multiple clients.
+
+
+Madhuchanda Dey:             Okay. Thank you.
+
+
+Moderator:                   Thank you. Next question is from the line of Hiren Desai, an individual investor. Please go ahead.
+
+
+Hiren Desai:                 Yes. Actually, my question was, my understanding, I don't know if it is correct or not, but we
+                             will try and acquire or cross-sell our IKS solutions to TruBridge guys, and that sounds pretty
+                             intuitive. Will we be able to do the other way around? I mean, because I am sure the stickiness
+                             of records may be higher, and every customer may be already in some database somewhere.
+
+                                                                                 Inventurus Knowledge Solutions Limited
+  11<.S
+  HEAL TH                                                                                           November 06, 2026
+
+Sachin Gupta:                Yes, that is not part of the plan. The EHR market, as you know, in the U.S. is highly saturated.
+                             Also, the TruBridge EHR is a specialized EHR for the rural and community market. Its
+                             applicability to our legacy IKS customer base, which is a physician group market, large physician
+                             group market, is somewhat limited.
+
+
+                             I wouldn't take the cross-sell of the TruBridge EHR business into the legacy IKS physician group
+                             market. Having said that, TruBridge's hospital RCM capabilities, those are definitely translatable
+                             into the hospital owners of our large health system-owned physician groups.
+
+
+                             To that extent, there might be some cross-sell opportunity that will come about, which is why
+                             what we've done is we've taken all of that hospital market, rural and community, as well as large
+                             health system-owned hospitals, as one segment from a go-to-market perspective. No cross-sell of
+                             EHR into the legacy customer base, but acute RCM could sell into the legacy customer, IKS
+                             customer base that owned hospitals.
+
+
+Nithya Balasubramanian: In addition to, just to add to that, in addition to acute RCM, TruBridge also has a fantastic product
+                             called Encoder, which is an automated coding tool. We do believe that there is significant cross-
+                             sell potential into the IKS's customer base because that is not specific to the rural or the acute
+                             market. This is a product where we will be investing behind it and taking it to a larger customer
+                             base as well.
+
+
+Moderator:                   Thank you. Next question is from Varun Gandhi from Finavenue. Please go ahead.
+
+
+Varun Gandhi:                Hi, Sachin and Nithya. Thanks for the opportunity. Sachin, my question is to you. To set the
+                             stage, I find the acquisition really fascinating, and I am enamored by the story you are presenting.
+                             From a business standpoint, if you could just walk me through the next immediate steps in trying
+                             to extract the most possible synergies from this acquisition, right?
+
+
+                             I heard the earlier comments on the margin efficiencies, but we could put the margins aside for a
+                             minute, and we could just talk on the business and the revenue growth and extracting synergies
+                             from both products.
+
+
+Sachin Gupta:                The biggest strategic synergy really is the treasure trove of the millions of patient records that are
+                             in the TruBridge EHR that we have the ability to translate into the AI training moat. Actually,
+                             the biggest driver of this acquisition has been that ability so that then we can train our proprietary
+                             models, leveraging the context layer that we will build from this data and not be dependent on
+                             external frontline commercial models for everything, right?
+
+
+                             That' s the biggest strategic rationale. From a revenue growth perspective, like I said, the rationale
+                             is the system of action that we have built over the last 20 years is pretty directly translatable into
+                             the TruBridge customer base.
+
+
+                             It creates a pretty significant revenue growth opportunity, and that's why we are looking at this
+                             TruBridge acquisition not just as something that creates very significant margin synergies, but
+                             eventually it's a growth acquisition that we want to drive growth, and industry-leading growth at
+                             that, into the TruBridge customer base through the IKS system of action.
+
+
+                             Like Nithya just said, they also have a couple of other interesting products. For example, the
+
+                                                                      Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                 November 06, 2026
+
+                Encoder product, which really has applicability across both the customer bases. We will
+                obviously want to put that go-to-market on steroid and harness its true potential.
+
+
+Varun Gandhi:   Sachin, as a follow-up, what would be the immediate steps in trying to extract those synergies?
+
+
+Sachin Gupta:   From a revenue growth perspective?
+
+
+Varun Gandhi:   Revenue growth perspective and just a general business standpoint. How do you wish to proceed
+                with
+
+
+Sachin Gupta:   So like I said, there is three categories of our system of action, if you can still see the slides, that
+                we have initially decided to take from the IKS system of action and integrate it into the TruBridge
+                EHR. These will become the three big areas, in addition to the traditional RCM offering, that we
+                will bring into the TruBridge customer base.
+
+
+                These are the ones, along with Encoder, that will drive the initial phase of growth of the IKS
+                system of action into the TruBridge customer base. Then obviously, we are transforming their
+                operating model on the revenue cycle side through our technology and our global execution
+                model that will drive a lot of the financial synergies or the operating margin opportunities.
+
+
+                Revenue growth coming from driving these three, denial prevention and prediction, rather denial
+                prediction and prevention, medical coding, which parts of it will become autonomous, and then
+                clinical documentation, ambient clinical documentation, and virtual clinical assistant.
+
+
+                These are the three that will drive initially. Eventually, what we are learning is the entire IKS
+                system of action will be applicable, which is why I also said there are two TruBridge clients that
+                have already begun assessments of what it will take to bring the entire IKS system of action to
+                their rural and community settings.
+
+
+Varun Gandhi:   Interesting. I hear you. On the system of intelligence bit where you mentioned that you are going
+                to train your proprietary models, where exactly are we today? Are we still in the ideation stage
+                or are we in the development phase? When do you think the product would be ready for
+                commercialization?
+
+
+Sachin Gupta:   No, like I said, we are building this system of intelligence layer in a manner where it's somewhat
+                EHR agnostic. We have come up with a data architecture that actually brings the data from the
+                EHR into a staging area, that that staging area starts to be leveraged to start to create the system
+                of intelligence.
+
+
+                That system of intelligence, as you can imagine, is being created by task. So the system of
+                intelligence for prior auth is different than the system of intelligence for denial prevention and
+                prediction, and then eventually we are going to build an interconnected system of intelligence
+                because there are cross-synergies across these tasks.
+
+
+                At this point, we are in the process of building that system of intelligence for certain tasks, and
+                those, for example, there is a system of intelligence being built for coding where a lot of
+                knowledge graphs have already been built. Even for that coding, there are different knowledge
+                graphs for different specialties that we are in the process of building.
+
+                                                                   Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                              November 06, 2026
+
+                We are building the system intelligence for prior auth. We are building the system intelligence
+                for denial prediction and prevention. So, it's a journey. The entire comprehensive system of
+                intelligence for an entire ambulatory system of action will be a good one-year journey. As we
+                keep building that up, we can make more and more of those systems of actions reliably agentic
+                so that the human in the loop keeps coming down.
+
+
+Moderator:      Thank you. Next question is from the line of Dev Thacker from iThought. Please go ahead.
+
+
+Dev Thacker:    Yes. Thank you for the opportunity, sir, and congratulations on the integration. Sir, I just wanted
+                to understand that with TruBridge, we also now get a clearing house as well. Could you just walk
+                us through, like, are we planning to integrate TruBridge clearing house into IKS new clients or
+                into the MSO deals?
+
+
+Sachin Gupta:   Absolutely. I think that we are in the process of examining how well the TruBridge clearing house
+                works. It's called TruBridge RCM, is what they call the product. And we are in the process of
+                examining. Now, there are some legacy IKS clients, or many legacy IKS clients, that are already
+                committed to other clearing house relationships for the medium to long- term.
+
+
+                So we won't be able to replace those, because they have already made those commitments. But
+                for all our new deals, we are absolutely considering leveraging the TruBridge clearing house.
+                And in fact, there are at least two or three proposals out where the TruBridge clearing house is
+                included as a part of our proposal.
+
+
+Dev Thacker:    Got it. Given that this is apart from the RCM vertical, can we expect more growth coming from
+                it and becoming more margin accretive as well?
+
+
+Sachin Gupta:   Look, the clearing house is a very integral part of RCM. Yes, maybe it expands the TAM a bit
+                because traditionally, our clients were contracting directly for an industrial clearing house, and
+                then we were working with that clearing house to drive the outcomes. Now, in some cases, we'll
+                be able to include clearing house in our offering, which obviously makes the TAM somewhat
+                better.
+
+
+                But again, these are very incremental numbers, and between what you're going to face in
+                incremental price compression, competitive intensity, it's very hard to model that out as an
+                additional significant growth vector. But yes, I think the fact that we will be able to use our own
+                clearing house that is deeply integrated into our RCM workflow, which we call Optimix, will
+                drive efficiency for sure from a margin perspective.
+
+
+Dev Thacker:    Got it. Thank you so much, and all the best for the future. Thank you.
+
+
+Sachin Gupta:   Thank you.
+
+
+Moderator:      Thank you. Next question is from Pranaya Jain from Banyan Tree Advisors . Please go ahead.
+
+
+Pranaya Jain:   Am I audible? Okay. Hi, good morning. Thank you for the opportunity. I had two questions. One
+                is, when we listen to IT services companies, they say that they are having to pass on AI
+                productivity benefits to the clients. Are we also sort of facing any pressure on those lines?
+
+                                                                        Inventurus Knowledge Solutions Limited
+ 11<.S
+ HEAL TH                                                                                   November 06, 2026
+
+                  While I understand that on the productivity side, we have done reasonably well, but is there any
+                  bit of passing on those benefits that is also playing out? That is question number one. Question
+                  number two was related to the one-time projects that you spoke about for the top clients. Can you
+                  just give us some more clarity on what is the nature of these projects? That would be my two
+                  questions.
+
+
+Sachin Gupta>     I will answer the second part first. Think about, there are seasonal projects that come up around
+                  value-based cares, for example, HCC coding and retrospective review of patient charts before
+                  you submit them to CMS with a certain code. Typically, those projects come up between calendar
+                  Q3 and Q4 of any fiscal year. So that could be a big driver of one-time projects, just as an
+                  example.
+
+
+                  To your question number one, as we have always said, one of our biggest differentiators is we
+                  are an outcome-based pricing model. The bulk of what we pick up in productivity comes to our
+                  bottom line, which is why we have been able to drive industry-leading margins over all these
+                  years. That generally is the outcome of the productivity.
+
+
+                  Now, over a period of time, I have always said that as we make our model more and more AI-led
+                  and agentic, we are going to see that there will be, in general, incremental price compression. We
+                  are bracing ourselves for that price compression, but that price compression is more than offset
+                  by our ability to drive productivity benefits and keep the bulk of those benefits so that we are able
+                  to retain our margins.
+
+
+                  Our biggest differentiator from an IT services perspective is that we are an outcome-driven
+                  company, and our customers pay us for the outcome of what we are doing versus paying us for
+                  the effort that traditional IT services companies get paid for.
+
+
+Pranaya Jain:     Right. That's helpful. Thank you, and all the best.
+
+
+Sachin Gupta:     Thank you.
+
+
+Moderator:        Thank you. Ladies and gentlemen, that was the last question for today. I would now like to hand
+                  the conference over to Mr. Saransh for closing comments. Over to you, sir.
+
+
+Saransh Mundra:   Thank you, everyone, for joining the conference. Please do reach out if you have any more
+                  additional questions. Thank you.
+
+
+Sachin Gupta:     Thank you, everyone. Good luck.
+
+
+Moderator:        Thank you very much. On behalf of ICICI Securities Limited, that concludes this conference.
+                  Thank you all for joining us today, and you may now disconnect your lines.
+
+
+
+
+                    Please note that this transcript has been edited for readability.
+

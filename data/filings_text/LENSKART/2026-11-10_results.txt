@@ -1,0 +1,972 @@
+Lenskart Solutions Limited
+(Earlier known as Lenskart Solutions Private Limited)
+
+
+
+
+Date: November 10, 2026
+
+National Stock Exchange of India Limited                     BSE Limited
+The Listing Department,                                      Department of Corporate Services,
+Exchange Plaza,                                              Phiroze Jeejeebhoy Towers,
+Bandra Kurla Complex,                                        Dalal Street, Fort,
+Mumbai - 400 051                                             Mumbai - 400 001
+
+Scrip Symbol: LENSKART                                       Scrip Code: 544600
+
+Sub.: Transcript of Earnings Call with respect to Financial Results for the quarter and half-year
+ended September 30, 2026
+Dear Sir/ Ma’am,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, please find enclosed transcript of the Earnings Call
+conducted on November 4, 2026.
+The above information will also be hosted                               on     the     Company’s        website     viz.
+https://www.lenskart.com/corporate/investorrelations.
+Kindly take the same on record.
+
+
+Thanking you,
+
+
+Yours Sincerely,
+For Lenskart Solutions Limited
+(Formerly known as Lenskart Solutions Private Limited)
+                   Digitally signed by
+Ashish Kumar Ashish Kumar Srivastava
+Srivastava   Date: 2026.11.10
+             19:59:06 +05'30'
+
+Ashish Kumar Srivastava
+Company Secretary and Chief Compliance Officer
+Membership No.: F5325
+
+Place: New Delhi
+
+
+
+
+        Registered & Corporate Office: 6 Worldmark, 8th Floor, Gateway District, Delhi Aerocity, New Delhi 110037
+           Website: www.lenskart.com | Email: compliance.officer@lenskart.com | Phone: 0124 – 4293191
+                                          CIN: L33100DL2008PLC178355
+
+                    Lenskart Solutions Limited
+
+               Q2 FY27 Earnings Conference Call
+
+                          November 04, 2026
+
+
+
+
+MANAGEMENT:   Peyush Bansal – Co-Founder and Chief Executive Officer – Lenskart Solutions
+              Limited
+              Abhishek Gupta – Chief Financial Officer – Lenskart Solutions Limited
+              Vaibhav Sachdeva – Investor Relations – Lenskart Solutions Limited
+
+
+
+
+                                     Page 1 of 16
+
+                                                                                                      Lenskart Solutions Limited
+                                                                                                            November 04, 2026
+
+
+
+
+Moderator:          Ladies and gentlemen, good evening and welcome to Lenskart Q2 FY27 Earnings Conference Call. To present
+                    the results, we have with us Mr. Peyush Bansal, Co-Founder and Chief Executive Officer, Mr. Abhishek Gupta,
+                    Chief Financial Officer, and Mr. Vaibhav Sachdeva, Investor Relations.
+
+
+                    Please note that this call is being hosted on Zoom with the presentation on display. For participants who
+                    would like to view the presentation alongside the discussion, please join via a Zoom link shared in advance.
+
+
+                    As a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to
+                    ask questions after the presentation concludes. Should you need assistance during the conference call, you
+                    may use the chat option to interact with the moderator. Please note that this conference is being recorded.
+
+
+                    I now hand the conference over to Mr. Vaibhav Sachdeva, Investor Relations from Lenskart. Thank you, and
+                    over to you.
+
+
+Vaibhav Sachdeva:   Thank you. Good evening, everyone, and thank you for joining Lenskart's Earning Call for the second quarter
+                    of Fiscal Year 2027. Before we begin, I would like to remind you that some of the statements we make today
+                    may be forward-looking in nature and are subject to risks and uncertainties. The conference call may contain
+                    forward-looking statements about the company which are based on the beliefs, opinions, and expectations
+                    of the company as on the date of this call.
+
+
+                    These statements are not a guarantee of future performance and involve risks and uncertainties that are
+                    difficult to predict. We have uploaded our Quarter 2 results and a detailed shareholder letter on our website
+                    and stock exchanges. Please note that consistent with our IPO prospectus, the numbers we present today
+                    are on a pro forma basis for like-to-like comparison unless stated otherwise.
+
+
+                    Pro forma financials consider Dealskart, Meller and GeoIQ as if they had always been part of the company,
+                    whereas reported financials include them only from their acquisition dates. From Q3 Fiscal 2026 onwards,
+                    the two are identical; the difference exists, only, in the prior year comparatives, Q2 Fiscal 2026 and H1 Fiscal
+                    2026.
+
+
+                    We will begin today's session with opening remarks from Peyush and Abhishek. During this time, everyone
+                    will be on mute. Following the presentation, we will open up for Q&A. With that, I would like to hand over to
+                    Peyush.
+
+
+Peyush Bansal:      Good evening, everyone, and thank you for joining us. As always, we are grateful for the trust you place in us
+                    with your capital and with your eyes. The size and depth of the vision care problem are far greater than we
+                    can imagine. Last quarter I touched upon this, and numbers this quarter only reinforce our belief in the scale
+                    of the problem and opportunity.
+
+
+                    To begin with, let me take you through the key financial highlights of the quarter. Revenue grew 32.5% year-
+                    on-year to ₹2,845 crores. EBITDA grew to ₹624 crores, a 46.6% jump year on year. EBITDA Pre-Ind AS grew
+                    65%, twice as fast as revenue, with margin expanding from 11.1% to 13.8%. PAT more than doubled to ₹232
+                    crores.
+
+
+
+                                                      Page 2 of 16
+
+                                                                                     Lenskart Solutions Limited
+                                                                                           November 04, 2026
+
+For the half year, revenue of ₹5,559 crores increased 1.3x year-on-year. EBITDA Pre-Ind AS increased 1.8x
+year-on-year to ₹753 crores. PAT of ₹461 crores is already 87% of the whole of FY26. And on a trailing 12-
+month basis, we have now crossed ₹10,000 crores of revenue, ₹2,200 crores of EBITDA, ₹1,300 crores of Pre-
+Ind AS EBITDA, and close to ₹800 crores of PAT on 40 million eyewear units.
+
+
+Like I always say, measure us over years, not quarters. Behind the financials, this quarter we conducted 80
+lakh eye tests globally, up 40% year on year. In India, around 70 lakhs, that is 78,000 Indians a day. Units grew
+27.1% year on year. We added 165 net new stores globally, taking the network now to 3,624 stores.
+
+
+In Q2, India delivered same-store sales growth of 20.8%. With same pin code growth of 27.1%. We have said
+too little about Hustlr Club. A face scan on the app and a complete pair, frame, lenses, and warranty, all for
+₹500. Lakhs joined this quarter, many owning glasses for first time. It is one of the ways how we hope the
+next 100 million Indians find us.
+
+
+Also, this quarter, Lenskart Gold crossed 1 crore active members in India, up 39% year-on-year, with ₹73
+crores of gold fees collected in the quarter, up 55% from last year. It is the quietest and most powerful thing
+we are building. Our brands are also learning to speak the culture.
+
+
+This quarter we have launched John Jacobs with Masaba. We also launched Shunya, which brings Indian
+classical music into a frame, a beautiful collection right down to details inspired by the sitar and flute. We
+brought it to life with Sounds of Shunya, 10 artists across 5 evenings including classical vocalists, sitarists,
+and popular musician duo The Backstage Siblings.
+
+
+In Singapore, we launched a Game of Thrones collection. From the iconic emblems of the great houses,
+temples shaped by swords and armor, to the 3 words every fan knows Winter is coming - every detail of that
+world is captured on the frame.
+
+
+And this week only, we have launched John Jacobs with designers Shantanu and Nikhil. If you look closely,
+you will see the intricate details - the S&N mark on the frame, a thin metal line along the temples, and their
+signature navy and cherry red colors tucked into the hinges. This is the kind of craft we are building into our
+frames, and Meller’s unique take on Diwali is launching today.
+
+
+And now the number we watch most closely. Our Net Promoter Score. Opening a store a day while holding
+our standard is hard. India NPS, as you are aware, dipped to 77.6 in June, but we assured you that we have
+been working hard to get back to our NPS levels. I'm happy to share with you that in this quarter it is back at
+79.6. That recovery, on a ship this size, is what we are proudest of this quarter.
+
+
+Last quarter we told you Indians - India has not bought its glasses yet. By 2030, 94 crore Indians will require
+glasses, and this is the goal. It is why we say India needs at least 10,000+ Lenskart stores. It is only fair that
+we tell you what kind of company it will take to change that. And show you where we are on building it.
+
+
+We believe it needs 4 things this industry never had. First, it will be an engineering company. The hardest
+problem in eyewear, the eye test above all, will not be solved by hiring more or spending more. 100 million
+pairs a year needs 80 million eye tests. So, we are engineering the eye test. Remote optometry now in 934
+stores, and also Drysh, the AI-assisted eye test, is in pilot.
+
+
+                                    Page 3 of 16
+
+                                                                                                      Lenskart Solutions Limited
+                                                                                                            November 04, 2026
+
+                  Similarly, one needs engineering for myopia control lenses, just-in-time manufacturing, supply chain, and
+                  more. Second, it will own its supply chain end-to-end. That is why - that is the only way to make a ₹500 pair
+                  profitably and give it the experience of a ₹50,000 one. A complete pair at that price will be only possible if
+                  the frame, the lens, the fitting, and the store are all ours. And I believe in time the same will be true for smart
+                  glasses too.
+
+
+                  Third, it will build brands people want to wear. Brands that speak the culture for everyone at every price. The
+                  same platform that gives India Hustlr also gives it John Jacobs, Meller, and OWNDAYS. That range is not a
+                  side effect of the model, it is what makes it work. The Hustlr brings the volume that keeps the factories
+                  running at scale, and that scale lets us make a designer pair to the same standard, standard at a compelling
+                  price.
+
+
+                  And fourth, it will never believe its customers are satisfied enough. It will keep innovating and keep surprising
+                  them. That is the company we are trying to build. It is easier said than done. It has to push harder, think like
+                  founders and builders, and change as fast as the world.
+
+
+                  If one word holds all 4, it is Evolve. We named our new concept store Lenskart evolv for that reason. It opened
+                  in Utopia City, Worli, Mumbai, on a belief that the future of eyewear will be shaped not just by the products
+                  we create, but by how people discover and experience them. It brings design, culture, and technology into
+                  one immersive space, the first expression of what an eyewear destination and the Lenskart brand can aspire
+                  to.
+
+
+                  Walk in, spend an hour, and you will get a flavour of the culture we are building and the bar we hold ourselves
+                  to. Raising the standard, refusing the status quo, thinking from first principles. With that, let me hand over
+                  to Abhishek for the segment results.
+
+
+Abhishek Gupta:   Thank you, Peyush. Good evening, everyone. Let me first talk about the India business. India revenue grew
+                  35.3% year on year to ₹1,668 crores. First half revenue grew 33% to ₹3,199 crores. And as we keep saying, in
+                  our business, growth and profitability are positively correlated.
+
+
+                  EBITDA pre-IND-AS 116 reached ₹267 crores, up 61.5% from last year, which translates to a margin of 16%, up
+                  2.6 percentage points from 13.4% that we did last year. Product margin was 64.0% against 63.4% last year,
+                  and most of the gains from in-house manufacturing were actually consumed by the rupee’s depreciation this
+                  quarter.
+
+
+                  In terms of operational highlights, India eye test grew 44% to 70 lakhs with remote optometry now live in 934
+                  stores, up from 303 a year ago, powering the volume-led growth. Eyewear units up 26.5% to 86 lakhs. The
+                  same-store sales growth was 20.8%, up from 14.8% a year ago, broad-based across the tiers.
+
+
+                  Same pin code sales growth of 27.1% ran 6 percentage points ahead of the SSG. Densification continues to
+                  add demand, not divide it. We added 143 net new stores, 94 in Tier 2+ towns, entering 61 new cities, taking us
+                  to 2,868 stores as of 30th September.
+
+
+                  Now coming to the international business. International revenue grew 29.5% to ₹1,201 crores and about 23%
+                  growth in constant currency terms, growth across all our markets. EBITDA pre-Ind-AS reached ₹127 crores,
+                  up 87% from last year, which translates to a margin of 10.6%, up from 7.3% last year.
+
+                                                    Page 4 of 16
+
+                                                                                                 Lenskart Solutions Limited
+                                                                                                       November 04, 2026
+
+                 Product margins expanded to 77.1% versus 75.5% last year on deeper supply chain integration of OWNDAYS
+                 and Meller and higher sunglasses mix. Growth was volume-led and largely same-store-led. Eyewear units
+                 grew 29.7% and transacting customers were up 22.7%, with 22 net new stores added during the quarter.
+                 Sunglasses grew strongly, led by Meller, and a flat sequential revenue after Q1 seasonal peak is the normal
+                 shape of the year.
+
+
+                 Now coming to cash flow, operating cash flow was ₹388 crores for the first half of the year after working
+                 capital buildup as inventory was rebuilt ahead of the festive season, like we had indicated in our quarterly
+                 earnings report. This funded the store capex of ₹187 crores for the 297 net new stores that we added.
+
+
+                 And after including the ₹108 crores of other income and inflows, covered the plant and other capex of ₹297
+                 crores, leaving net cash inflow of ₹12 crores before M&A. Return on capital employed was 22.5% for H1 of the
+                 year versus 19% last year. And 14.6% for full year FY26. Improving profitability and disciplined capital
+                 allocation is evident in the numbers. With that, let me hand back to you Peyush.
+
+
+Peyush Bansal:   Thank you, Abhishek. One question comes up in our investor conversations lately more often than any other:
+                 why we believe a 25% EBITDA pre-Ind-As margin is possible in the long term. This quarter we have added a
+                 note on this in our letter. Let me also take you through it here.
+
+
+                 Our margin comes from one thing above all - how much of the chain we own. Seven things decide the profit
+                 on a pair of glasses: who owns the brand, who makes the frame, who makes the lens, who edges and fits the
+                 pair, who sells it, who does the R&D on materials, and how the whole operation is run.
+
+
+                 Lenskart chose to own all seven from factory to face. We did it so that one party answers to the customer
+                 for the whole pair, a single throat to choke, and each of these seven also becomes a pool of profit.
+
+
+                 With Vincent Chase, John Jacobs, OWNDAYS, and Meller, we own the name of the pair and the margin behind
+                 it. Licensed collections are also exclusive to our markets. Part of this quarter's rise in India ASP came from
+                 customers choosing OWNDAYS premium lenses. We will keep expanding our brands portfolio.
+
+
+                 Second, we mould the frame ourselves in our factories in India, China, and now also in Thailand. In-house
+                 frames went from 44 lakh units in FY23 to 78 lakh units in FY26, a 20% CAGR, and growth has now stepped
+                 up to a different pace. This quarter, we manufactured 72% more frames from last year. Every frame moulded
+                 in India no longer moves with the dollar, and every step we bring in-house is one less margin we pay outside.
+
+
+                 Owning the mould and the process was the first leg. Tooling and plating comes next. More of it in-house and
+                 more of it in India, and the mould cost per piece keeps falling with scale. Similarly, lens manufacturing -
+                 progressives, complex powers, premium coatings, including OWNDAYS premium lenses We now make more
+                 and more of them in India.
+
+
+                 In-house lenses went from 21 lakh units in FY23 to 56 lakh units in FY26, and 52% more this quarter than a
+                 year ago. Some of these India-made lenses already reach our international markets. Making more of lenses
+                 in-house, sending more of them to our international markets, manufacturing sun lenses, and more are big
+                 opportunities here.
+
+
+
+
+                                                  Page 5 of 16
+
+                                                                                               Lenskart Solutions Limited
+                                                                                                     November 04, 2026
+
+             Similarly, a pair has to be made to measure. It does not have to be made by hand in a shop. Nearly every pair,
+             every India pair, is made centrally in Bhiwadi or Manesar, and Bhiwadi runs at 75% automation. Fitting, quality
+             control, and packaging are still largely manual, and that is the headroom. Scale is the biggest lever.
+
+
+             On top of it sit automation, robotics, and pre-making the most common pairs in bulk. Data tells us what will
+             be ordered. Hyderabad, built for 50 million pairs a year under one roof, and around 12 months from
+             commissioning takes all of this to the next level. We own the stores and the customer relationship. The retail
+             margin is ours, and so is every eye test on record. That record trains our technology.
+
+
+             Since stores' team and rent are largely fixed, large part of the same-store growth will flows through. India
+             rent fell to 5.7% of revenue from 6.1%, with same-store growth of 20.8% running well ahead of roughly 5%
+             annual cost escalations. Add better conversion and more efficient marketing, and more of that growth
+             becomes profit. And now we do not just make a pair cheaper, we make it better.
+
+
+             Air frames weigh almost nothing and do not break, and customers pay a premium for that comfort. Night
+             drive lenses went from lab to store in months. Myopia management lenses for children are a category we are
+             building. Because we are direct-to-customer, each of these is designed to what customers actually need.
+
+
+             We have only just started here. But we believe R&D will become one of the largest generators of both value
+             and profit in the long term. And seventh, we are building a company that can make 100 million pairs a year
+             and run 10,000 stores increasingly through systems and automation. Being an engineering company at heart,
+             we build the entire operating system ourselves.
+
+
+             Our stores run on our own point of sale. Our eye test machines on our own software, our factories on our own
+             software NEX’s, replenishment on Argus, site selection on GeoIQ. This year, CRM, call handling, and talent
+             acquisition outsourced for years also came in-house, and OWNDAYS and International are moving on to the
+             same platform. The more runs on one system, the more powerful it gets.
+
+
+             AI is not a separate project here. It is how we run the business. That is the path to 25%. There is still more to
+             build in every pool, and every pool we deepen makes the others worth more. But to be clear, we have a small
+             percentage of the global eyewear market. Growth always comes first.
+
+
+             Profitability is running ahead of where we expected it to be. And we intend to use that room. More marketing
+             in the right places, more of Bharat, and scaling internationally while the unit economics play out. We will not
+             put a timeframe on 25%. Read our margins over years, not quarters. The quarterly numbers might move, the
+             direction will not.
+
+
+             Before I close, a thank you. Last quarter, I invited you to walk with us. You walked 800 million steps, 15 times
+             around the Earth, and 30,000 underprivileged people got glasses from Lenskart. It is still day zero. Wishing
+             you and your families a very Happy Diwali. With that, we'll open the floor for questions.
+
+
+Moderator:   Thank You very much, Ladies and gentlemen, we will now begin the question-and-answer session.
+             Participants connected on zoom may please use the raise hand option, participants connected through
+             audio may please press star and one on their phone now. We’ll wait for a moment while questions to
+             assemble. We'll take our first question from Devanshu Bansal. Devanshu, please introduce your company
+             name and go ahead with your question, please.
+
+                                              Page 6 of 16
+
+                                                                                                    Lenskart Solutions Limited
+                                                                                                          November 04, 2026
+
+Devanshu Bansal:   Yes, sir. Hi, good evening. I'm Devanshu from Emkay Global. Thanks for the opportunity and congrats on very
+                   good set of numbers. Peyush, I just wanted to better understand your margin trajectory. So, you have
+                   indicated the focus is on growth, which will require strategic marketing investments, while the long-term
+                   margin potential is pretty healthy at 25%.
+
+
+                   So wanted to better understand if we will continue to see margin gains on an annual basis in the near term,
+                   or the gains will be more back-ended. If you could just throw some light here.
+
+
+Peyush Bansal:     Hi, Devanshu thanks for asking the question. See, you have seen that, and as Abhishek said, in our business
+                   revenue and profits are quite positively correlated, and from that perspective, the more volumes we grow in
+                   the long term, the margins will continue to grow. However, we need to make investments ongoingly quarter
+                   on quarter like we have so far in creating, opening up the market for Bharat, also in creating a brand that can
+                   outlast the campaign because we at Lenskart have not necessarily believed in transactional level marketing.
+
+
+                   We always believe that we need to do marketing just like we did Lenskart evolv which can build the brand for
+                   a very long term and create that pull. That is the reason why we have seen so much leverage come over time.
+                   So, year-on-year margins should expand, but I would urge people to look at 12-month trailing versus quarter-
+                   on-quarter.
+
+
+Devanshu Bansal:   Fair enough, sir, that's pretty clear. Secondly, just a bookkeeping thing. So, there was a GST cut last year
+                   which may have led to some shift of demand to Q3. So wanted to check if the base is sort of high for H2 and
+                   whether we should take a note of this while we are sort of estimating for current H2.
+
+
+Peyush Bansal:     Yes, great, thanks. So overall, look, my view is that quarter will always move with the campaigns, product
+                   mix, and base effects. The number at least we work on internally is on the volume growth. If you look at our
+                   volume growth over last 12 months, it is about 26%. In this quarter also, we did 26.5%. That is unit growth.
+                   Right? And that is the number that we work towards most importantly.
+
+
+                   The second number that is very important is the quality of that growth, and are we really opening the market?
+                   The 44% gain in eye tests in India is another number that tells us that we are opening the market. And the
+                   SSG of 20%i shows the quality of this growth. So, I would say that look at a trailing 12-month volume number
+                   as how we build the business. Rest premiumization happens. We are opening Bharat, so quarterly numbers
+                   fluctuate.
+
+
+Moderator:         We take our next question from the line of Nihal Mahesh Jham from HSBC. Please go ahead.
+
+
+Nihal Jham:        Yes, Hi, Peyush and Abhishek. Good evening and congratulations on the strong performance. Two questions.
+                   One is your ASP is obviously being discussed and you've always focused on the fact that you want to obviously
+                   keep introducing value options. And despite that we've seen a good uptick if you compare versus last quarter
+                   or last year. So just wanted to understand, is it a case of premiumization that is outstripping the value
+                   launches?
+
+
+Peyush Bansal:     Yes, Hi Nihal. See, overall, this we are working on both ends of the spectrum. The ASP increase comes at the
+                   back of people choosing more progressive and premium lenses at Lenskart. We do not manage the ASP. One
+                   of our top goals right now is to build the next 100 million Indians into the Lenskart ecosystem.
+
+
+                                                    Page 7 of 16
+
+                                                                                                      Lenskart Solutions Limited
+                                                                                                            November 04, 2026
+
+                 So, ASP is coming increased because of introduction of products like John Jacobs with Masaba, Shantanu
+                 and Nikhil and customers really actually welcoming the OWNDAYS lenses that we have launched. But we do
+                 not manage the ASP. Of course, there are quarters where volumes can take over the ASP, but that I think will
+                 change with every quarter.
+
+
+Moderator:       Thank you. Next question is from Mihir Shah. Mihir, kindly introduce your company name and go ahead with
+                 your question, please.
+
+
+Mihir Shah:      Hi team good evening. This is Mihir Shah from Nomura. Thank you for taking my question and congrats on a
+                 good set of numbers, especially on sustaining margins despite the high volatility in currency and raw
+                 materials.
+
+
+                 Two questions here. One, how should one think about the realization per piece going forward? In the last
+                 year, in the second half, it was higher. And of course, I understand that more designer products and
+                 Progressive is driving that up. But I think it was also a function of the free lens offer that was offered that
+                 time, which had some kind of influence as well on the second half of last year.
+
+
+                 So, on that higher base, how should one think about realizations going forward? And will the work around
+                 premiumization help you tide over that? So that's one. Second thing I wanted to check was on the
+                 international business.
+
+
+                 On the international, the volume growth also since 3Q of last year, volume growth has actually materially
+                 stepped up. Can this growth sustain over the time? And even that 8% margin on international, will it be the
+                 new normal going forward? So, these are my two questions.
+
+
+Peyush Bansal:   Yes, Hi Mihir, thanks for asking the question. So firstly, on the realization, I would say again, we continue to
+                 stay focused on the volume number. Progressives, we have invested a lot in improving the eye test
+                 experience of our customers. We have been digitizing measurement, and that has caused it.
+
+
+                 Of course, when you run a campaign like New Lens Replacement, it would normalize. But we are also running
+                 Hustlr, which is a ₹500 glasses in a massive way right now, and we, we would see more and more coming
+                 from there. So, it's very difficult for me to guide on that, I would say that this is our core priority.
+
+
+                 It definitely remains on volume, and it comes on both ends of the spectrum. I'm not saying that we are only
+                 looking at volume at the sub-2,000 price point. We're also looking at making sure that our existing customers
+                 continue to buy more and more. If you see, there is an interesting data that our units per customer has
+                 actually grown this quarter from 1.8 to 1.9. That shows us that the customers that we acquired through new
+                 lens replacement, were actually high-quality customers.
+
+
+                 And it is very important for us to keep balancing the two. On one hand, we acquire customers, whether it's
+                 through new lens replacement or now increasingly from Hustlr Club. Will these customers repeat at the
+                 cohort? And we need to manage that. And just like we want to manage people at both ends of the spectrum
+
+
+                 I would just say at this stage where Lenskart is right now, particularly in India, it is a market to build. It is not
+                 a market to just capture right now. And we clearly feel this is the time, this is too early in our journey in India,
+
+
+
+                                                   Page 8 of 16
+
+                                                                                                    Lenskart Solutions Limited
+                                                                                                          November 04, 2026
+
+                 and that's what we tried to communicate in the last shareholder letter, that the opportunity is so large and
+                 we are seeing the depth with every quarter that goes by.
+
+
+                 We should right now be figuring out more and more, and that is why so much more focus on widening the
+                 funnel which creates the biggest opportunity for us as we improve conversion. It gives us the opportunity to
+                 scale. That remains the top priority.
+
+
+                 Coming to the second question on international, look, I think the market that we are operating in this problem
+                 in myopia is not just in India. There are two things that are happening globally. One is particularly in Southeast
+                 Asia, myopia rates are right now growing very rapidly.
+
+
+                 Second, people are looking at alternate D2C brands globally, you can check. So, I think the volume growth
+                 there is coming as a result of primarily that because people are looking at - we are not playing the game there
+                 again to raise the ASP. In fact, ASP has largely been flattish there and we have not even started our journey
+                 for market creation there.
+
+
+                 We are still slowly and steadily building the, the model there. I think margins, product margins, we had anyway
+                 said that as we integrate more and more the India supply chain with the international supply chains, we would
+                 see margin, product margin expansion.
+
+
+                 And we obviously continue to see a lot more opportunity there. And so, the more growth will happen and
+                 product margin getting streamlined, the EBITDA should come in line. But it is difficult to guide, to a particular
+                 number at this stage. It's too early, even more early than India and international.
+
+
+Mihir Shah:      Fair point, Peyush. We completely understand that and we take that. Thank you and wishing you all the very
+                 best.
+
+
+Peyush Bansal:   Thank you.
+
+
+Moderator:       Thank you. Next question is from Amit, kindly unmute
+
+
+Amit Purohit:    So, Amit here from Elara Securities. Thank you for the opportunity and congrats on good numbers. I just
+                 wanted to understand more on this Lenskart evolv. I know it's a new thing but if you could provide some more
+                 insights in terms of how do you think about it over the next 1 or 2 years, what the rationale - I understand that
+                 it would be a differentiated experience from the consumer perspective, but from a store economics, or how
+                 do we think about that?
+
+
+                 And even the kind of ASPs in this kind of a store would be on an average, if you could highlight this. And just
+                 one added to it is just insights on - you talked about this quarter OWNDAYS also helping into the realization
+                 increase in the India business, but how has been Meller and Progressive lenses qualitatively? If you could
+                 provide some insights, that will be helpful.
+
+
+Peyush Bansal:   Thanks for asking the question. So, the first question Amit, I think you asked was on Lenskart evolv. So, see
+                 I think overall, I think if I look at the global ecosystem in consumer experience and retail, both things need to
+                 evolve, no pun intended the product and also the buying experience. And this is a pattern you would see
+                 globally everywhere.
+
+
+                                                  Page 9 of 16
+
+                                                                                                   Lenskart Solutions Limited
+                                                                                                         November 04, 2026
+
+                 And globally I've seen especially the kind of brand that we're trying to build at Lenskart, most of people just
+                 know Lenskart as a great place to buy high-quality specs at affordable prices and good customer experience.
+                 I think our idea was to take this to a completely different level with the consumers and raise the brand
+                 aspiration. So, it is a pilot, it was a pilot in many senses.
+
+
+                 I would say that I've got a very positive response in the first month we have launched, although it is too soon.
+                 We haven't really planned that we will open these many Evolv stores yet at this stage. But one thing is for sure
+                 that as a Lenskart brand we do want to keep raising the bar on customer experience.
+
+
+                 If I look at the last decade of journey that is what has always worked for us, to not stay static at any level
+                 because we are in some ways in this category trying to compete with ourselves and in other categories.
+                 Because in most of the categories, you go to a Nike Town in London, and you go to all other lifestyle
+                 categories, the experience is far ahead.
+
+
+                 We have unfortunately never seen eyewear in the same way. And our job at Lenskart from the very beginning,
+                 earlier when we did buy one get one or when we made eyewear fashionable and brought these concepts of
+                 eyewear for Diwali, eyewear for fashion, and now we want to do the same in experience. I think that is all
+                 we're trying to do right now and create that experience.
+
+
+                 And to be honest, we're very, very happy with the response that we're getting. It is not an initiative right now
+                 to say, okay, let's build a store with higher ASP. That is not the goal here. The idea is to innovate on the
+                 customer experience, and there's a lot of learning to take here which you will see us adopting in all our other
+                 stores.
+
+
+                 And maybe we will open more of such stores also, but it is too early to comment on that. What I would
+                 definitely take from Lenskart evolv is the overall mindset that we want to build Lenskart on. Not just here,
+                 because to build a global consumer brand out of India will require doing things in raising the bar beyond the
+                 status quo. And I think that is what I would take away from it.
+
+
+Amit Purohit:    The second question was around progressive lenses, which you indicated OWNDAYS has been one of the
+                 drivers for ASP increase this quarter.
+
+
+Peyush Bansal:   Yes OWNDAYS, so I think overall we have shared in the last quarterly report that we have seen a large number
+                 of consumers adopting our premium lenses and in progressive increases because we have been spending a
+                 lot of time in bringing consistency in our buying experience and in our eye test experience.
+
+
+                 We have been digitizing the whole customer journey for Progressives, which conventionally and traditionally
+                 has been very manual where you put two dots on a frame and somebody takes the measurement. And so, we
+                 have been - we have moved a large part of that digitally already.
+
+
+                 And as you go into the Lenskart store, you will see more and more of it digital. We have also been using a lot
+                 of AI to streamline our overall eye -test accuracy in the ecosystem. So that is what Progressive is doing.
+
+
+Moderator:       Thank you.
+
+
+Amit Purohit:    Happy Diwali.
+
+
+                                                   Page 10 of 16
+
+                                                                                                   Lenskart Solutions Limited
+                                                                                                         November 04, 2026
+
+Peyush Bansal:   Happy Diwali, Thank you.
+
+
+Moderator:       Next question is from Arnab Mitra. Arnab, kindly introduce yourself and go ahead with your question, please.
+
+
+Arnab Mitra:     Hi, this is Arnab from Goldman Sachs. Thanks, Peyush and Abhishek, for taking the question. Congratulations
+                 on a very strong quarter. I had actually two questions. First was if you could just help us appreciate the AI eye
+                 test, how big of an unlock will this be versus let's say remote optometry, which has of course been a big
+                 unlock for increasing eye tests.
+
+
+                 And as you go forward, does remote optometry and AI-assisted eye testing go together or the AI-assisted
+                 thing can fill the gap because there is still a large number of stores where the remote optometry doesn't
+                 operate? That was my first question.
+
+
+                 And the second was just on international store expansion. Do you think the capacity addition in Hyderabad is
+                 a critical level requirement for significantly upping the store expansion in international, or are there other
+                 things that you're waiting for?
+
+
+Peyush Bansal:   So firstly, if you look at the problem, we have at hand here is that there are just way too many people who
+                 need eye tests, right? And there is possibly no other way but to engineer this, in my view. We are not creating
+                 more optometrists. We need to make sure that our optometrists have the tools to do a lot more eye tests per
+                 optometrist. And that is the belief that we are working with.
+
+
+                 Definitely remote optometry unlocks this for us, and that is the reason why we have been able to open almost
+                 a store per day this quarter in Tier 2+. This was not possible a year ago. What Drysh does, which is - is take it
+                 to the next level, because if an optometrist could do 2x more eye tests with the current model, with this odd
+                 model, possibly they could do 20 times more eye tests. So, from that perspective, is it going to be a big
+                 breakthrough? Yes.
+
+
+                 And are we seeing very positive outcomes? Yes, it is already live and piloted in a few stores. We have
+                 customers doing this, eye test. We are constantly measuring. Of course, we are dealing with a very sensitive
+                 area. We have optometrists that log on to the call while this is happening. We are putting more data into the
+                 SLM, which is training it further to higher levels of accuracy.
+
+
+                 We are using our optometrists more and more for complex cases. So yes, in my view, this is going to be a big
+                 breakthrough, but there is still time before we perfect it. But I don't think we have a choice. I mean, we have
+                 a billion people who will need to learn and grow, and we will have to figure out ways to do that.
+
+
+                 For international store expansion and the capacity release. So, look, we are increasing our capacity in our
+                 existing plants also every quarter that passes by to meet the demand. Hyderabad we showed the video during
+                 the presentation, it's coming up well. I think we are trying to accelerate that as much as possible, but we'll be
+                 able to manage the growth.
+
+
+                 And on international store expansion, we have been slowly and steadily accelerating it. If you see overall, we
+                 have opened in H1, 38 new stores versus 22 last year. And as unit economics are playing out, the playbook
+                 remains the same. We are, and like we did in India, just slowly and steadily accelerating it. We don't want to
+                 be rushing to give support.
+
+                                                   Page 11 of 16
+
+                                                                                                    Lenskart Solutions Limited
+                                                                                                          November 04, 2026
+
+Moderator:        Next question is from the line of Harit from Investec. Please go ahead.
+
+
+Harit:            Yes, hi, good evening. So, I just had one question, when I look at your gross margins both in India and
+                  international, you've seen expansion across both and obviously you've mentioned several factors here,
+                  whether it's the backend sourcing improvements, or in your case this time in India, even a higher ASP. I know
+                  you're not working towards that, but that's how it's played out.
+
+
+                  I just wanted to understand what have been the negative factors on the gross margin this time, especially on
+                  the cost side. You've seen a significant cost inflation overall in different elements. Just wanted to get either
+                  quantified or qualitatively give a sense of what would have been the down elevator, if any, to the gross
+                  margin, or what challenges you've been kind of working with this time around.
+
+
+Abhishek Gupta:   Thank you, Harit for asking this question. This is a major focus that we have here at Lenskart. So, if you see
+                  last 2-3 years, we've been increasing our product margins both in India and international. In international, we
+                  have added from 75% to now to 77% product margin, and India 63.4% has gone to 64%.
+
+
+                  So, there are two or three tailwinds as we work towards this product margin line, and then there are a couple
+                  of headwinds, right? The tailwinds in this are more and more insourcing of backward integration, which
+                  means producing more frames in-house, whether it is in India or in our factories in China and Thailand, and
+                  producing more lenses in-house.
+
+
+                  And then the other thing is making more and more in India. And finally, the volume and scale economics, as
+                  we are doing, let's say, double of what we were doing four years ago, then we are able to negotiate better
+                  costs with our vendors. So, all of that are the productivity benefits that come with scale and backward
+                  integration.
+
+
+                  The challenge that we've been grappling with is largely around FX. The raw material on this is largely
+                  imported, right? So, if you see the INR versus RMB exchange rate, if you look a few quarters back, it used to
+                  be around ₹11 or ₹12 to RMB. Now it is ₹14.2 as of today. So that is one challenge that we have been working
+                  with our vendors and scale to offset it. And we have done some structural solutions to it, right?
+
+
+                  We have invested more in our capacities in Thailand, long-term investments that we have made by increasing
+                  our stake in our joint venture in China. And then finally, more and more of it which gets made in India will
+                  ultimately offset the volatility that comes with imported input. At a Group level, I want to be very clear that
+                  at a consolidated business level, we have a natural hedge in our business because we also have almost 40%
+                  of our revenues coming from non-INR countries.
+
+
+                  So overall, the P&L has a natural hedge and currency protection, but from an India product margin line
+                  currency continues to be one thing that we solve for structurally and long-term orientation basis. The other
+                  effects that we see, whether it is on packaging, on logistics, on oil price-led input cost inflation, that effect
+                  is very minimal because our products are third-order derivatives of oil and therefore there is less impact on
+                  costs on that side, but currency remains the major impact.
+
+
+Harit:            Great, thank you. Wish you all the best.
+
+
+Abhishek Gupta:   Thank you.
+
+                                                  Page 12 of 16
+
+                                                                                                      Lenskart Solutions Limited
+                                                                                                            November 04, 2026
+
+Moderator:        Next question from Ashish Kanodia. Ashish, kindly introduce the company name and go ahead.
+
+
+Ashish Kanodia:   Yes, thank you. This is Ashish Kanodia from Citi. My questions were firstly on Hustlr in terms of how big
+                  currently it is in terms of volume in India and what kind of opportunity you have seen it opening in terms of
+                  maybe getting customers from much deeper, smaller markets or maybe getting more frames per customer?
+
+
+                  So just trying to understand how Hustlr's experience has been in terms of new customer acquisition or in
+                  terms of getting more pairs per person. And also on the international part, the question is around, are you
+                  also looking to enter into any other larger markets such as maybe US, Europe, etc.?
+
+
+                  And also given the kind of cash-rich balance sheet you have plus the operating cash you are generating, if
+                  you have to do, get into any larger markets, will the thought process be more organic or inorganic? Thank
+                  you.
+
+
+Peyush Bansal:    Yes, thank you. Thank you, Ashish. Yes, Hustlr right now is our most exciting project, I would say. It is still
+                  very early in the journey. I would say it's nascent. It has taken us many years to crack a pair of high-quality
+                  glasses affordably at ₹500. It's not an easy - been an easy journey, but now that we have worked on it for so
+                  many years, I think we have to give it a little bit of time for it to show the impact it can create.
+
+
+                  And I think, yes, so far, I would say lakhs of people are coming. They have started their journey online. They
+                  scan their face, and then they can go collect a pair of glasses at a store. They can change the size, they can
+                  add a prescription lens, and we are learning every day more and more. And we are also innovating on more
+                  colors. We are now manufacturing a lot more of Hustlr's in India.
+
+
+                  But I would see this more as an initiative directionally of what we will do more and more of, whether it is Hustlr
+                  or whether it is something else, it is one of our ways. We are quite obsessed about taking our 30 million to
+                  100 million. And we want to get to get there because we are serving the ambition is to give vision to a billion
+                  people. So those step jumps need to be taken and I think, Hustlr, so far, I would say we have been happy with.
+
+
+                  That being said, we have a lot of work to do in it to manage this kind of scale, to manage logistics for it to
+                  reach Tier 2, Tier 3 cities, to make all of it work profitably, to manufacture such large volumes of frames as
+                  well as lenses because what we're dealing with is a prescription business. So yes, I would say it's an early start
+                  but a lot of work to do.
+
+
+                  On international, so far yes, we have - we are sitting on a healthy balance sheet right now. We continue to
+                  keep our priority as investing in Hyderabad right now, accelerating our store opening slowly and steadily in
+                  international, which we have done so far in H1. In India, we are now almost open, in the last period, we have
+                  opened 1.8 stores a day right now if you put India and global.
+
+
+                  And we want to make sure we do this with an experience which is long-term and lasting. And that is the part
+                  we want to continue to balance. Cash definitely gives us the room, but it is the execution that is slowly
+                  earning us the right to use it judiciously. There are a lot of opportunities. I have said we are adding more and
+                  more to our brand portfolio also right now. So yes, too early.
+
+
+Moderator:        Next question is from Latika Chopra from JP Morgan. Please go ahead.
+
+
+
+                                                   Page 13 of 16
+
+                                                                                                     Lenskart Solutions Limited
+                                                                                                           November 04, 2026
+
+Latika Chopra:   Thank you for the opportunity. Questions that I have firstly is on the Tier 2+ cities. This is seeing aggressive
+                 scale-up coming from you. Wanted to get some flavor on what are you observing in these markets in terms
+                 of consumer purchase behavior, in terms of repeat purchases, propensity for number of pairs?
+
+
+                 And of course, are the unit economics still at par with what you see in metro cities? And the second bit would
+                 be helpful if you could share some qualitative color on how same-store sales growth trends are behaving in
+                 your key international markets? Thank you.
+
+
+Peyush Bansal:   Thanks, Latika. Tier 2+ so far the fact that we have been scaling that aggressively is because we are seeing
+                 very positive outcome. I think largely whether it is international, when we entered, we entered with the belief
+                 that what kind of value creation we are doing. I mean, to enter a market like Singapore wasn't an easy
+                 decision, but when you look at the gap, the problem of myopia there, the price which customers paid that
+                 told us that we will be creating 10x value for customers, so it will become sustainable sooner or later.
+
+
+                 I think in Tier 2+, what we still continue to observe is that the value creation we do for our customers is more
+                 than what we do in Metro and Tier 1. In some sense because the optionality of eyewear that we are able to
+                 give them. I mean, you are even able to give night drive lenses, we are able to give OWNDAYS lenses, we are
+                 able to give Progressives. And we have been investing so much in our logistics to reach these people faster
+                 and faster without compromising on customer experience.
+
+
+                 You can visit any of our Tier 2 cities, it's not like you will see a different store than a Tier 1 city. We are not
+                 differentiating in those customers, and I don't think customers are differentiating in how they buy from
+                 Lenskart. At the end of the day, we are quite affordable, I would say, at a certain segment. We are becoming
+                 more and more affordable, not just for tier 2 but for Tier 1 and metros also, to open up the Bharat.
+
+
+                 And then there's the premium segment. We are still, although only 2 years into the journey of scaling this up,
+                 maybe we will begin to see certain trends which will keep you boosted. Right now I would say we see similar
+                 same similar sense of growth, a lot more opportunity and value creation in these. And in international, I think
+                 the question on SSG, because the store addition is very while accelerating, it is still 22 on a base of 700+
+                 stores.
+
+
+                 So, from that perspective, almost all of the growth is in SSG at this stage. But we are very clear on our
+                 strategy on international. We will continue to play the playbook of volume expansion because I think that is
+                 our USP comes by offering the largest variety at the best possible price with at a 79-80 NPS and even more.
+
+
+                 And that is the playbook we continue to run. And we haven't even started expanding market in international
+                 through all of these other initiatives we are doing in India.
+
+
+Moderator:       Thank you. Next question from the line of Aditya Soman from CLSA. Please go ahead.
+
+
+Aditya Soman:    Hi, thanks for the opportunity. So firstly, can you give us some sense of on when you sort of plan launch of
+                 smart glasses? Now one of the things I was noticing on a lot of e-commerce sites right now is very aggressive
+                 push across price points.
+
+
+                 So, I was wondering what sort of the wait was in launching at this point. And second, from a perspective of
+                 store additions, any change to sort of store addition guidance, yes, in India?
+
+                                                  Page 14 of 16
+
+                                                                                                      Lenskart Solutions Limited
+                                                                                                            November 04, 2026
+
+Peyush Bansal:   Aditya, thanks for asking the question. So, we, as we have been guiding, we have been taking a very slow and
+                 steady approach in it in terms of getting capability, getting feedback. We first launched the glasses around
+                 April this year. With a signup list, we got it to a few hundred thousand people.
+
+
+                 They gave us a lot of feedback on what they're looking for. Then we have been making software and firmware
+                 releases almost, I would say, every two weeks or so to optimize the experience. We have been - there's a lot
+                 of stuff customer has been asking - nutrition tracking, daily reminders, calendar integration, health
+                 integration - but some of the more SaaS features, we have been rolling them out.
+
+
+                 People have also been requesting they want more battery life. So, we are constantly optimizing the algorithm
+                 to update it. A better case for batteries also on the way. We just made - and we got a slightly higher demand
+                 than what we anticipated, so then we had to go back and increase our production. We have just now managed
+                 to put this in 500 of our stores.
+
+
+                 Maybe just a week or two back it started being available in all the stores, trainings are going on. What we are
+                 noticing so far is that about 90% of people are buying it with prescription and with an eye test.
+
+
+                 And I think that has been our thesis that at the end of the day smart glasses are going to be glasses and that
+                 is the moat that Lenskart brings in terms of distribution and making sure it is prescription and post-order
+                 service is going to be. I think just like phones, you will see a flood in the market. There are all different levels.
+
+
+                 We are taking our approach to make sure that we play at a certain quality level of what we want to build, and
+                 we want to own the ecosystem. We have been building our capabilities on both software, firmware,
+                 hardware, and there is a lot more pilots that you will see coming along the way. But yes, we are beginning to
+                 see adoption in the product every day that passes by.
+
+
+                 And soon it will be available in more and more stores. On the FY27, we continue to go with the same that we
+                 will try and deliver what we delivered last year. We want to make sure that a new store expands access but
+                 does not dilute the experience at any level and we need to keep managing that.
+
+
+                 At any point we feel that the experience is even becoming better from an NPS perspective and we can
+                 manage, we'll keep you posted in the process. So, you're definitely seeing that we're expanding more and
+                 more in Tier 2+.
+
+
+Aditya Soman:    Very clear, thanks, Peyush. Maybe if I can just follow up on the smart glasses one, just a quick one. Unlike the
+                 rest of your range, here you don't seem to be undercutting majority of the players. Would that be the right
+                 idea?
+
+
+Peyush Bansal:   No, that's not what we are - we are so early, we totally believe this is - we are so early in the journey and it is
+                 a multi-year journey. So, we are not in a rush here to undercut on pricing, etc. Our goal right now is to just
+                 keep learning about the form factor, keep building our software layer, making sure that we build that fast
+                 iterative loop where we can make changes and understand.
+
+
+                 And then use the opportunity to launch features that people will, people will love us for. And then we can give
+                 an experience and access which is unmatched with prescription. We are not right now trying to over-
+                 accelerate this at all.
+
+                                                     Page 15 of 16
+
+                                                                                                                                            Lenskart Solutions Limited
+                                                                                                                                                  November 04, 2026
+
+Aditya Soman:                         Thanks.
+
+
+Moderator:                            Thank you, ladies and gentlemen. That's the last question for today. I now hand over the call to Mr. Vaibhav
+                                      Sachdeva for closing comments. Over to you.
+
+
+Vaibhav Sachdeva:                     Thank you everyone for joining the call today. If you have any further questions, please feel free to reach out
+                                      to our Investor Relations team at investor.relations@lenskart.in, and we look forward to seeing you next
+                                      quarter. Thank you.
+
+
+Moderator:                            Thank you, members of the management. On behalf of Lenskart, that concludes today's conference call. We
+                                      thank you for your participation.
+
+
+Note: Any reference to ’pre-AS EBITDA’ or ’pre-IND AS EBITDA’ or ’post-rent EBITDA’ across the document should be read as EBITDA (pre-IndAS 116). Any reference to ‘SSS’ or
+“SSSG’ across the document should be read as ‘Same Store Sales Growth’. We have also refined the syntax and streamlined speech fillers to enhance readability, while strictly
+preserving the context and intent of the discussion.
+
+i
+    Q2 FY27 SSSG has been inadvertently stated as 20% instead of 20.8%
+
+
+
+
+                                                                             Page 16 of 16
+

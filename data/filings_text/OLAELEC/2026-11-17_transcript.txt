@@ -1,0 +1,576 @@
+                                                                                            OLA ELECTRIC MOBILITY LIMITED
+                                                                                                      CIN - L74999KA2017PLC099619
+                                                                                   (Formerly known as Ola Electric Mobility Private Limited)
+
+November 17, 2026
+
+To,                                                                 To,
+National Stock Exchange of India Limited                            BSE Limited
+Address: Exchange Plaza, C-1, Block G, Bandra                       Address: Phiroze Jeejeebhoy Towers
+Kurla Complex, Bandra (E), Mumbai-400051,                           Dalal Street Mumbai- 400001,
+Maharashtra, India.                                                 Maharashtra, India.
+NSE Scrip Symbol: OLAELEC                                           BSE Scrip Code: 544225
+
+Subject: Submission of Transcript of Earnings Conference Call held on November 12, 2026.
+
+Dear Sir/ Madam,
+
+Pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), please find
+enclosed herewith the transcript of the earnings conference call with analysts and investors held on
+November 12, 2026, in respect of the unaudited standalone and consolidated financial results of the
+Company for the second quarter and half-year ended September 30, 2026.
+
+The above intimation will also be hosted on the website of the Company i.e., www.olaelectric.com.
+
+We request you to take the above on your record.
+
+Thanking you,
+For Ola Electric Mobility Limited
+            Digitally signed
+DEEPA by S
+           DEEPA BANSAL
+
+BANSAL S Date: 2026.11.17
+            13:02:07 +05'30'
+
+
+
+Deepa Bansal
+Company Secretary and Compliance Officer
+Membership No. A37579
+Place: Bengaluru
+Encl: As above
+
+
+
+
+    Registered Address: Wing C, Prestige RMZ Startech, Hosur Road, Municipal Ward No.67, Municipal No. 140, Industrial Layout, Koramangala,
+             Bengaluru – 560095, Karnataka, India | Landline: 080-35440050 | companysecretary@olaelectric.com | www.olaelectric.com
+
+                                                   ​
+                               ​
+                               ​
+                 Ola Electric Mobility Limited
+
+              Q2 FY27 Earnings Conference Call
+
+                       November 12, 2026
+
+
+                             Management:
+
+    Mr. Bhavish Aggarwal – Founder, Chairman and Managing Director, ​
+                      Ola Electric Mobility Limited
+
+              Mr. Deepak Rastogi – Chief Financial Officer, ​
+                      Ola Electric Mobility Limited
+
+
+
+
+​                                     ​                             Page 1 of 11
+
+                                                                             Ola Electric Mobility Limited​
+                                                                                      November 12, 2026
+
+
+Moderator:​            Hello everyone, good day. Welcome to Ola Electric’s Q2 FY27 Earnings
+                       Conference Call. As a reminder, all participants will be in listen-only mode, and
+                       there will be an opportunity for you to ask questions after the opening remarks
+                       conclude. Please note that this conference is being recorded. Before we
+                       begin, a few quick announcements for the attendees. Anything said on this
+                       call which reflects our outlook for the future, or which could be construed as a
+                       forward-looking statement, may involve risks and uncertainties. Such
+                       statements or comments are not guarantees of future performance, and actual
+                       results may differ from these statements. Now, I would like to request Shri
+                       Bhavish Aggarwal, Chairman and Managing Director, and Shri Deepak Rastogi,
+                       CFO, Ola Electric, to begin the conference. To start with, I would request
+                       Deepak to start with the opening remarks.
+
+Deepak Rastogi:​       Thank you, and good afternoon, everyone. Thank you for joining us. I am
+                       Deepak Rastogi, CFO of Ola Electric. Today’s discussion may include
+                       forward-looking statements and non-GAAP measures, so please refer to the
+                       disclaimer in our shareholders’ letter. Over the last few quarters, we have been
+                       transitioning our business to rebuild it in a more sustainable model for growth.
+                       If there is one headline for Q2, or even going forward, it is this: demand is no
+                       longer our constraint. What sets our pace now is the ramp-up of our supply
+                       chain, and we are scaling that rapidly.
+
+                       Let me start with the numbers. Before that, I want to mention that in Q2 we
+                       transitioned our company-store model to a dealership model, and our first
+                       dealer went live on 4 September, Janmashtami.
+
+                       Revenue from operations for the quarter was ₹421 crores, versus ₹455 crores
+                       in Q1 of this year. Gross profit was ₹126 crores, or around 30%, compared with
+                       ₹139 crores, or around 30.5%. Margins therefore held stable despite higher
+                       commodity costs.
+
+                       Operating expenses were ₹369 crores, versus ₹330 crores in Q1. However, Q1
+                       included a one-time positive adjustment of approximately ₹57 crores. Adding
+                       that back, we are comparing ₹369 crores with ₹390 crores, which is a
+                       meaningful improvement in operating cost. Adjusted operating EBITDA was
+                       negative ₹246 crores, against negative ₹195 crores in Q1. Similarly, PAT was a
+                       loss of ₹362 crores, against ₹336 crores. Cash flow from operations was
+                       negative ₹188 crores, an improvement over negative ₹215 crores in Q1.
+
+                       Turning to the balance sheet: as you are aware, we completed our QIP in Q1
+                       and our rights issue recently, which has strengthened our liquidity and
+                       deleveraged our financials. Total consolidated borrowings have come down
+                       from ₹3,132 crores in December 2024 to ₹1,800 crores in September 2026, a
+
+
+                   ​                                 ​                                        Page 2 of 11
+
+                                                                               Ola Electric Mobility Limited​
+                                                                                        November 12, 2026
+
+
+                         reduction of almost ₹1,400 crores. We have had two cycles here. We reduced
+                         the Auto and OEM debt, while, purely from a cell perspective, because it was
+                         getting into the implementation phase, borrowings have gone up from ₹714
+                         crores to ₹1,482 crores. Most of the cash we have raised has gone either into
+                         adding capacity or into paying down debt during this period.
+
+                         This brings me to the dealer transition, which we have just started and which
+                         has progressed strongly. As on 8 November, we had 255 dealer partners and
+                         319 stores. We plan to reach 450 stores by December and 700-plus by March
+                         2027. We stopped orders from our D2C stores from 1 November, and they will
+                         be largely closed by December, except a few that we will continue to operate.
+                         As we shut down our company store network, operating expenses will reduce
+                         further and meaningfully. The early signs are encouraging. Channel inventory
+                         is only about 15 days, and in many markets where our dealers opened early
+                         and have stabilised, our market share has gone up well above where it was
+                         before the transition.
+
+                         Moving to the cell business: we achieved COD on 23 September, adding 3.5
+                         GWh of capacity and taking the total to 6 GWh. The government has extended
+                         our ACC PLI until 2031. As we are already ahead of our PLI milestones, we
+                         expect PLI incentives to start coming in from next quarter.
+
+                         Let me come back to the headline. Demand is ahead of supply, and we can
+                         sell every vehicle we produce. In September, about 5,000 vehicles with paid
+                         orders had their deliveries delayed by a week into October because of
+                         charger unavailability. We are now running a paid-order backlog, which we
+                         intend to clear quickly as we ramp production.
+
+Bhavish Aggarwal:​       If I can come in here, I want to underline that in the last few quarters the
+                         company has gone through a lot of evolution, transition and transformation,
+                         and this quarter many of those things have come together. Our opex, which
+                         we have been working on for the last year or so, has stabilised. Gross margin
+                         has stayed around the 30% mark. Most importantly, the dealer ramp-up has
+                         been very encouraging: in two months alone, 300-plus stores. Demand is no
+                         longer a constraint. We are running an order backlog with dealers, and even
+                         though our factory has large manufacturing capacity, we are now working with
+                         our suppliers to ramp up their supply chains to supply to us. We are looking at
+                         a very optimistic scenario for our Auto business. Dealer feedback, dealer
+                         experience and dealer sell-through are all very strong.
+
+                         In the shareholders’ letter you will see some data on that. Inventory in the
+                         dealer channel is minimal right now, only 15 days, and for dealers who went
+
+
+
+                     ​                                ​                                         Page 3 of 11
+
+                                                                               Ola Electric Mobility Limited​
+                                                                                        November 12, 2026
+
+
+                         live early it is below a week. Dealer reordering is also ramping up. The focus
+                         of the company on the Auto business is now on the supply side, to scale it up.
+
+                         Over the last year, as Deepak said, we have also transformed the balance
+                         sheet of the Auto business, and debt has come down to very low levels. We
+                         expect, with demand pull-in, gross margin stability, a cost structure that has
+                         reduced meaningfully and will reduce further with the shutdown of our own
+                         company stores, and the working capital cycle inflecting under the dealer
+                         model, that the Auto business is looking at a near-to-mid-term free cash flow
+                         generation scenario. We used to carry inventory on our books in our own
+                         stores. With the dealer model, as you know, working capital turns negative.
+
+                         On Cell, as Deepak said, last quarter was an important quarter. We achieved
+                         commissioning of 6 GWh on time. In the middle of all the transformation in the
+                         Auto business, the Cell team did a great job, and this is the only Gigafactory
+                         commissioned in the country at this scale. It is a very meaningful achievement.
+                         The government was also supportive in extending the PLI timeline, so we are
+                         in time for the milestones and should start getting the benefits from next
+                         quarter.
+
+                         The broader point I want to make is that both the EV industry and the cell
+                         industry are seeing very strong macro pull-in and tailwinds, and we are in both.
+                         In both, the business, the balance sheet and operations have stabilised, and
+                         we are looking optimistically at next year to ramp up growth in a sustainable,
+                         margin-accretive way. There is more detail in the shareholders’ letter, but we
+                         will let you ask your questions.
+
+Moderator:​              Thank you, Deepak and Bhavish. We will now begin the Question and Answer
+                         session. Anyone who wishes to ask a question may use the raise-hand option.
+                         If you wish to remove yourself from the question queue, you may select the
+                         raise-hand option once again. Participants are requested to unmute
+                         themselves before asking a question. Before asking your question, please
+                         introduce yourself with your full name and organisation. We will wait for a
+                         moment while the question queue assembles.
+
+                         We will take the first question from Mr. Arvind Sharma of Citi.
+
+Arvind Sharma:​          Hi, good evening, sir, and thank you for taking my question.
+
+Bhavish Aggarwal:​       Hi, Arvind.
+
+Arvind Sharma:​          Hi, Bhavish. On the volumes front, I could not see them in the shareholders’
+                         letter or the release. Could you share what volumes we sold this quarter?
+
+
+
+                     ​                                 ​                                        Page 4 of 11
+
+                                                                                 Ola Electric Mobility Limited​
+                                                                                          November 12, 2026
+
+
+Bhavish Aggarwal:​       Revenue was around ₹421 crores, and volumes were around 35,000–36,000.
+                         About 4,000–5,000 vehicles could not be booked as revenue because, as we
+                         said, the vehicles were ready for delivery but the chargers could not come in.
+                         Otherwise, volumes would have been around 40,000–41,000. Those got
+                         booked in the first week of October, so you will find a little extra volume in Q3,
+                         but that is where volumes were.
+
+Arvind Sharma:​          Got it. On a quarter-on-quarter basis, there has been a slight decline in the
+                         contribution margin. Is that almost entirely due to commodities, or is there a
+                         mix effect as well?
+
+Bhavish Aggarwal:​       You mean the gross margin, going from 30.5% to 29.6%? That is largely due to
+                         commodities. In fact, the commodity effect was slightly higher than that, but
+                         we were also able to raise prices a little, which nullified part of it. Going
+                         forward, as we said in the shareholders’ letter, gross margin will come down a
+                         bit in Q3 and Q4 because the business model transitions to the dealer model,
+                         and dealers take a certain commission. Our operating margin, however, will
+                         improve meaningfully from Q3 onwards. Commodities have stabilised; gross
+                         margin will come down a bit, but operating margin will improve meaningfully.
+
+Arvind Sharma:​          Got it. One numerical clarification. In the rights issue that happened after the
+                         quarter, there was a partly paid-up share at ₹6. Will the remaining ₹4 come
+                         later? I want to understand the diluted share count.
+
+Bhavish Aggarwal:​       I don’t know the technicality of it, but I will give you the broader point. The QIP
+                         happened in June; this was the rights issue earlier this month.
+
+Arvind Sharma:​          Yes, the rights share. Correct.
+
+Bhavish Aggarwal:​       It is 60:40. 60% has come in, and 40% will come in when we make the next
+                         call. We have not announced a date yet. On the share count, I don’t know how
+                         accounting treats that, but it is a separately traded ISIN.
+
+Arvind Sharma:​          So the remaining 40% would come? Or can it be a scenario where you don’t
+                         require that 40%?
+
+Bhavish Aggarwal:​       No, we will take it at the right time.
+
+Arvind Sharma:​          Got it. Sure. That’s all from my side. Thank you so much for answering my
+                         questions.
+
+Bhavish Aggarwal:​       Thank you, Arvind. On that note, our cash flows are definitely stabilising and
+                         improving. Consolidated operating cash flow is only about negative ₹188
+                         crores. The delta between operating and free cash flow is largely Gigafactory
+
+
+                     ​                                  ​                                         Page 5 of 11
+
+                                                                                 Ola Electric Mobility Limited​
+                                                                                          November 12, 2026
+
+
+                         capex, which is finishing now that it has been commissioned, plus perhaps a
+                         few more months of tail-end payments. All of that is backed by the project
+                         finance from SBI. Operating cash flows are stabilising and improving every
+                         quarter.
+
+Arvind Sharma:​          Got it, Bhavish. Thanks for the clarification. That’s all from my side.
+
+Moderator:​              Thanks, Arvind. We will take the next question from Mr. Chintan Jain of Sagun
+                         Capital. Chintan, can you please unmute yourself?
+
+Chintan Jain:​           Hi, sir. Thank you for taking my question. I am Chintan Jain from Sagun Capital.
+                         My first question is on the 2 to 3 GWh of cell consumption you have guided for
+                         FY28. What auto numbers are you looking at? What is the average battery
+                         pack capacity, and what delivery numbers would that imply in our own
+                         vehicles?
+
+Bhavish Aggarwal:​       Chintan, for FY28 you should assume an average of about 5 kWh per vehicle.
+                         Right now it is about 3.8 kWh, because our vehicles have higher battery
+                         capacity and higher range, and as we bring in the 4680 vehicles, those are
+                         higher capacity and customers are flocking to them. So for your calculation,
+                         assume 5 kWh, and at 2 to 3 GWh it can be 400–500K orders for FY28.
+
+Moderator:​              Okay, thank you, Chintan. Up next, we will have Akshay Satija of Alpha
+                         Invesco. Akshay, can you please unmute yourself?
+
+Akshay Satija:​          Hi. Thank you for the opportunity, and congratulations on the quick ramp-up
+                         on the dealer side, Bhavish. What I wanted to understand is this: if I look at our
+                         bill of materials, it ranges around ₹80,000 to ₹85,000 per vehicle. If I look at
+                         what competitors’ numbers show, this number goes pretty high, around our
+                         average selling price. So I just wanted to understand the gap.
+
+Bhavish Aggarwal:​       You are saying others have a higher bill of material?
+
+Akshay Satija:​          Yes. I think Ather is around ₹1,20,000 versus us at ₹80,000. So the 50% gap is
+                         huge.
+
+Bhavish Aggarwal:​       Yes, ours is not at ₹80,000; it is slightly higher than that. But yes, there is a
+                         meaningful gap still. I would say our bill of materials is maybe 15–20% lower,
+                         despite higher functionality, spec, battery and range in our vehicle. The reason
+                         is our strong technology and vertical integration in manufacturing. Our vehicle
+                         has fewer components, more integrated across components, and we do much
+                         more engineering of components in-house instead of buying them from tier-1
+                         suppliers. That structurally gives us a higher gross margin and a lower BOM.
+                         Gross margin is also a function of price, but we have a lower BOM. I am very
+
+
+                     ​                                  ​                                          Page 6 of 11
+
+                                                                                 Ola Electric Mobility Limited​
+                                                                                          November 12, 2026
+
+
+                         glad, Akshay, that you noticed this. Now that demand and dealer volume are
+                         ramping up, this will be one of our core, sustained differentiators: a better
+                         product at a lower bill-of-material cost, because of our technology and
+                         manufacturing work.
+
+                         If I can add one more point, Akshay, it is in the letter. Going forward, while
+                         there is a cyclical upswing in commodities for the whole industry, we will
+                         structurally bring this bill of material down further through LFP cell integration
+                         and our Gen 4 platform, which comes in from Q4 onwards.
+
+Akshay Satija:​          One clarification. My inquiry tells me that we are offering dealers roughly
+                         ₹11,000 per vehicle. Will this be directly subtracted from a gross margin per
+                         vehicle of ₹35,000? Is this how we should look at it?
+
+Bhavish Aggarwal:​       I will not corroborate the ₹11,000, Akshay, but whatever we offer will be
+                         subtracted from the gross margin.
+
+Akshay Satija:​          So our margins should be slightly lower from here.
+
+Bhavish Aggarwal:​       Yes, gross margins will come down a bit, but operating margins will improve
+                         meaningfully. What we are giving dealers right now is more of an introductory
+                         commission or margin structure, which will also reduce as dealers stabilise
+                         over the next two to three quarters.
+
+Akshay Satija:​          Next, on the cell business: is the facility fully running at the moment? And you
+                         have mentioned targets of achieving 90% yields. What gives us the
+                         confidence that we can achieve that in such a short time, because Tesla took
+                         three years and the Korean players took a couple of years? What gives us
+                         confidence that we can ramp up in six months, eight months, a year?
+
+Bhavish Aggarwal:​       We are not saying six months, eight months or a year, Akshay. We have been
+                         at it for six years. The cell business started when this company started, in
+                         2020. We know what we are doing, and we are the only ones who have been
+                         able to do it in India. These are very fair questions, which is why my
+                         commentary in the shareholders’ letter includes an FAQ on this. We are
+                         already at very reasonable yields, mid-70s for our NMC production, and we
+                         have a very clear, itemised roadmap to go up to 90%. We know which machine
+                         needs what kind of fix, and we know exactly what quality tests help us track
+                         and improve it. It is not hocus-pocus or hand-waving; it is a clear
+                         yield-improvement roadmap backed by proper engineering and manufacturing
+                         detail.
+
+
+
+
+                     ​                                 ​                                          Page 7 of 11
+
+                                                                               Ola Electric Mobility Limited​
+                                                                                        November 12, 2026
+
+
+                         NMC yields will go up to the mid-80s over the next couple of months. Last
+                         year we were also working on yields at lower capacity, when only one-third of
+                         the plant was commissioned.
+
+                         On capacity utilisation, there is a full paragraph on this in the cell section. We
+                         have commissioned everything and are now ramping up production. Utilisation
+                         will ramp up as we integrate cells into different products: first our own Auto
+                         business, and second the Shakti portfolio, in that sequence. It starts with NMC
+                         integration. In Q3 you will see a meaningful jump in cell production. When I
+                         report Q3 results in January, you will see meaningful cell production and a
+                         meaningful increase in cell company revenue, although it will come from our
+                         own Auto business because NMC production will go into our Auto products.
+                         Next quarter we will start ramping up production of our own LFP cells, which
+                         will come into our vehicles towards the end of Q4 or early Q1. Roughly 30% of
+                         our Auto business will use our NMC cells and 70% will use our LFP cells.
+
+                         Capacity utilisation will grow step by step along this roadmap. We have to
+                         scale utilisation, yield and raw-material cost reduction together as we scale the
+                         Gigafactory. Now that the Auto business is stabilising, the cell ramp-up will run
+                         through next year, along with the whole flywheel of manufacturing and supply
+                         chain.
+
+Akshay Satija:​          My final question: you mentioned that with the dealer network expanding, we
+                         should reduce our working capital. With the recent GST announcement, can
+                         the input credit difference now be refunded? I wanted to understand what
+                         impact it could have for us, because I believe we have a significant receivable
+                         from the government as GST refunds.
+
+Bhavish Aggarwal:​       Akshay, you are asking all the right questions. GST used to be a bigger
+                         challenge for us than for the rest of the industry because of our own D2C
+                         channel. In D2C, inventory stood on our books, and until I sold it I could not
+                         get a GST refund. Inventory was a working capital issue, and the GST on it
+                         added to that. Through our own internal operational excellence, we have
+                         already been improving GST receivables from the government over the last
+                         quarter or two. From 1 November there are two further positives. First, earlier
+                         we could get an inverted-duty refund only for the raw material part of costs,
+                         not for services. Second, there is a 90% auto-approval, so hopefully the
+                         timeline reduces from three to four months to one to two months. You will start
+                         seeing a meaningful positive in our Auto business cash flows. It is partly
+                         government policy help, and partly the transition from D2C to the dealership
+                         model, which also improves our GST receivables.
+
+
+
+
+                     ​                                 ​                                        Page 8 of 11
+
+                                                                                    Ola Electric Mobility Limited​
+                                                                                             November 12, 2026
+
+
+Akshay Satija:​          Great. Is there anything on what we could receive for the period before the
+                         announcement? I think it was some ₹1,000 crores that we were supposed to
+                         receive.
+
+Bhavish Aggarwal:​       In the whole ₹1,000 crores, not all of it is liquid receivables. Some of it will
+                         have to be consumed in the future as we do more business, and some is part
+                         of the inverted duty structure. You should assume 30–40% is part of the
+                         inverted duty structure, and the remaining we will have to consume as future
+                         business. For the 30–40%, we are working with different state governments.
+                         Typical automotive companies, since they have dealers, work with only one
+                         state government on GST receivables. Since we had a D2C business, we had
+                         to work with every state government on our GST receivable, with all the
+                         challenges of that. The past will slowly reduce, but going forward there is a
+                         meaningful cash flow benefit.
+
+Akshay Satija:​          Got it. Thank you so much. That’s all my questions. Good luck to you and the
+                         team.
+
+Moderator:​              Thank you, Akshay. Next up, we have Siddhant Dand from Goodwill. Siddhant,
+                         please unmute yourself.
+
+Siddhant Dand:​          Hello. What is the total equity raised by Ola till date?
+
+Bhavish Aggarwal:​       Siddhant, we don’t have it off the top of our head; we will have to check.
+
+Siddhant Dand:​          What is the approximate number?
+
+Bhavish Aggarwal:​       I don’t want to hazard a guess on a public call like this. It is easy for me to add
+                         it up for you. Pre-IPO, we had around ₹2,500 crores. The IPO was around
+                         ₹5,000 crores, and then we raised the QIP and the rights issue last week.
+                         Those are the main equity events, but I don’t want to be 20% off on this
+                         number.
+
+Moderator:​              Thank you, Siddhant. We will take the next question from Mr. Purveshchandra
+                         Patel of Acacia Capital. Purvesh, can you please unmute yourself?
+
+Purveshchandra Patel:​ Hi, Bhavish.
+
+Bhavish Aggarwal:​       Hi, Purvesh.
+
+Purveshchandra Patel:​ Congratulations, and thank you for the opportunity. Will the S1Z delivery be on
+                         time, or should I anticipate any delays due to battery integration, testing or
+                         regulatory approvals?
+
+
+
+
+                     ​                                  ​                                            Page 9 of 11
+
+                                                                               Ola Electric Mobility Limited​
+                                                                                        November 12, 2026
+
+
+Bhavish Aggarwal:​       We mentioned it will be in Q4. A lot of the testing is underway, so we will take
+                         a call on when to put it out in Q4. Our focus right now is not to accelerate
+                         deliveries, because we have not really taken orders for it; they are only ₹500
+                         or ₹1,000 reservations. We are actually seeing an excess of demand. The
+                         focus is first to scale up the supply chain to meet the demand, and we are
+                         adding dealerships, so a lot more demand is coming in. Our whole and sole
+                         focus is to meet the demand for the current products. This product will get
+                         ready. Whether we launch it in January or March, it might shift by a month or
+                         so either way. We will take a call as our demand scenario evolves.
+
+Purveshchandra Patel:​ Can        you quantify the expected cost advantage of using in-house
+                         manufactured battery cells compared with the currently used 2170 cells?
+                         Specifically, what is the current battery pack cost per kWh using 2170 cells and
+                         using in-house manufactured LFP cells?
+
+Bhavish Aggarwal:​       There is a meaningful cost advantage in using our own cells. You should
+                         assume that if I make my own cells, I will get about a 20% cost advantage at
+                         the right scale of production of my cells.
+
+Purveshchandra Patel:​ And how many cells do I need to make a 1 kWh battery pack using 46160 LFP
+                         cells?
+
+Bhavish Aggarwal:​       It depends on the size of the battery pack, Purvesh, but the 46160 cell count
+                         will be much lower than even the 4680, because it is only one module in the
+                         battery pack.
+
+Moderator:​              Thank you, Purvesh. We can probably take a couple more questions. Chintan,
+                         you had raised your hand again. We are happy to come back to you if you
+                         have a follow-up question.
+
+Chintan Jain:​           Hi Bhavish, thank you for taking my question once again. Just one more
+                         clarification. In the previous quarter we spoke about taking cell capacity from 6
+                         GWh to 20 GWh once it was commissioned, and also about the partnership
+                         tie-up with Axis Energy. What is the guidance on that? Are we looking at
+                         expanding to 20 GWh, or do we want to first stabilise 6 GWh?
+
+Bhavish Aggarwal:​       We want to first stabilise 6 GWh, but in our mid-to-long-term roadmap, going to
+                         20 GWh is absolutely on the cards. We have PLI up to 20 GWh anyway. Once
+                         we stabilise 6 GWh, over the next couple of quarters, we will definitely look to
+                         go to 20 GWh, and we will do that by bringing external equity into the cell
+                         company. The good thing is that our cell Gigafactory is already designed for
+                         20 GWh, so the building and so on are already set up for 20 GWh, and the
+                         capex we need to go from 6 to 20 GWh will be much smaller than what we
+
+
+
+                     ​                                 ​                                       Page 10 of 11
+
+                                                                               Ola Electric Mobility Limited​
+                                                                                        November 12, 2026
+
+
+                         spent going from 0 to 6. We will do it at some point, but not in the next couple
+                         of quarters.
+
+Chintan Jain:​           Just to follow up on that, what would be the average capex per GWh, since
+                         you have said that major capex has already been done?
+
+Bhavish Aggarwal:​       When I look at a fully capacitised plant of ours at 20 GWh, our capex per GWh
+                         would be below ₹400 crores at that point, because many of the things have
+                         already been built for the 20 GWh scale.
+
+Chintan Jain:​           Understood. Could you also talk a bit more about the Axis Energy partnership?
+                         What is it exactly about?
+
+Bhavish Aggarwal:​       That is a partnership because we are coming up with the Mahashakti product.
+                         It is not out there yet, but as we bring it out, they have been very keen on
+                         using it. The broader strategic perspective is that last week the government
+                         came out with a policy that domestic grid-scale battery installations need 40%
+                         domestic value-add. At some point, the only way to meet that is with Indian
+                         cells. We will be making Mahashakti with our own Indian cells, and we expect
+                         not just Axis but the whole industry deploying grid battery solutions to
+                         consider our products.
+
+Chintan Jain:​           Understood. Thank you so much.
+
+Moderator:​              Thank you. With this, we come to the conclusion of the session. We appreciate
+                         your time and all your questions during the call today. Thank you for joining us,
+                         and we look forward to meeting all of you during our next Earnings
+                         Conference Call. You may now log off the conference call. Good evening.
+
+
+
+
+                     ​                                ​                                        Page 11 of 11
+

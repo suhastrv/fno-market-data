@@ -1,0 +1,1231 @@
+Ref. No: PEL 73/2026-27
+Date: November 11, 2026
+
+ To                                          To
+ The Secretary                               The Manager,
+ BSE Limited                                 Listing Department
+ Phiroze Jeejeebhoy Towers,                  National Stock Exchange of India Limited
+ Dalal Street,                               Exchange Plaza, C-1, G Block, Bandra-Kurla
+ Mumbai – 400001                             Complex, Bandra (East), Mumbai – 400 051
+ Scrip Code: 544238                          Trading Symbol: PREMIERENE
+
+Dear Sir/Madam,
+
+Sub: Transcript of Earnings call on Financial Results for the quarter and half year ended
+September 30, 2026 (Q2 FY27)
+
+
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we hereby enclose the transcript of the Earnings Call on the Company's
+Financial Results for the quarter and half year ended September 30, 2026 (Q2 FY27).
+
+This is for your information and records.
+
+Thanking you,
+
+Yours truly,
+For Premier Energies Limited
+              Digitally signed by
+HITESH     HITESH KUMAR JAIN
+KUMAR JAIN Date: 2026.11.11
+           16:57:03 +05'30'
+
+Hitesh Kumar Jain
+Company Secretary & Compliance Officer
+
+               “Premier Energies Limited
+          Q2 FY27 Earnings Conference Call”
+                  November 05, 2026
+
+
+
+
+MANAGEMENT: MR. CHIRANJEEV SINGH SALUJA – MANAGING
+            DIRECTOR – PREMIER ENERGIES LIMITED
+            MR. SUDHIR MOOLA – CHIEF STRATEGY OFFICER –
+            PREMIER ENERGIES LIMITED
+            MR. NAND KISHORE KHANDELWAL – CHIEF
+            FINANCIAL OFFICER – PREMIER ENERGIES LIMITED
+            MR. VINAY RUSTAGI – CHIEF BUSINESS OFFICER –
+            PREMIER ENERGIES LIMITED
+
+
+
+
+                         Page 1 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+Moderator:           Ladies and gentlemen, good day and welcome to the Premier Energies Limited Q2 FY27
+                     Earnings Conference Call hosted by ICICI Securities. As a reminder, all participant lines will be
+                     in the listen-only mode, and there will be an opportunity for you to ask questions after the
+                     presentation concludes. Should you need assistance during this conference call, please signal an
+                     operator by pressing star, then zero on your touch-tone phone. Please note that this conference
+                     is being recorded. I now hand the conference over to Mr. Mohit Kumar from ICICI Securities.
+                     Thank you, and over to you, sir.
+
+
+Mohit Kumar:         Thank you, Alaric. Good morning. On behalf of ICICI Securities, I welcome you all to Premier
+                     Energies Q2 FY27 earnings conference call. Today, we have with us from the management, Mr.
+                     Chiranjeev Singh Saluja, Managing Director, Mr. Nand Kishore Khandelwal, Chief Financial
+                     Officer, Mr. Vinay Rustagi, Chief Business Officer, and Mr. Sudhir Moola, Chief Strategy
+                     Officer. Now, I would like to hand over the floor to the management for the opening remarks,
+                     post which we will open the floor for Q&A. Thank you, and over to you, sir.
+
+
+Chiranjeev Saluja:   Thank you, Mohit. Am I audible?
+
+
+Mohit Kumar:         Yes, sir, you are. Please go ahead.
+
+
+Chiranjeev Saluja:   Good morning, everyone. Thank you for joining us today for our Q2 earnings call. I am
+                     Chiranjeev Saluja, Managing Director at Premier Energies, and I am joined today by my
+                     colleagues, Mr. N.K. Khandelwal, Group CFO, Sudhir Reddy, Director, and Vinay Rustagi,
+                     Chief Business Officer. The company has reported another sterling quarter with total revenue
+                     increasing by 38.2% Y-o-Y to INR2,656 crores on a consol basis.
+
+
+                     EBITDA and PAT have grown by 17.8% and 30.8% Y-o-Y to INR760 crores and INR462 crores
+                     respectively. EBITDA and PAT margins in the solar manufacturing business came in at 29.3%
+                     and 17.9% respectively. The PAT margin has moderated slightly because of increase in
+                     depreciation and reduction in other income. Transcon, our subsidiary, has reported another good
+                     quarter with revenue and PAT of INR122 crores and INR18 crores respectively. EBITDA and
+                     PAT margins came in at 15% and 8%.
+
+
+                     Amongst key business update, our 7 GW TOPCon cell line has been commissioned. Trial runs
+                     are currently underway, and commercial production is expected to start later this month. Our
+                     operational cell plants delivered a record capacity utilization in the quarter, showcasing our all-
+                     round operational excellence. A highlight of the quarter was new order wins totaling INR4,001
+                     crores for cells and modules in a highly competitive market, taking our total order book to
+                     INR16,260 crores.
+
+
+                     The transformer business also saw a healthy intake, reflecting higher capacities, taking the total
+                     order book in the transformer company to INR330 crores. I am happy to update that all our
+                     expansion initiatives, including battery energy storage, are on track. Solar capacity addition has
+                     been steady throughout this year, with growth in PM Surya Ghar Yojana compensating for slight
+                     weakness in the utility scale segment.
+
+
+                     We expect project commissioning progress to accelerate over the next six months, taking the
+                     annual capacity addition to around 50 GW AC territory, surpassing last year's numbers. More
+
+                                              Page 2 of 19
+
+                                                                                           Premier Energies Limited
+                                                                                                November 05, 2026
+
+                     importantly, the long-term outlook for the sector remains compelling, with the government
+                     looking to reduce dependence on fossil fuel imports and fighting climate change.
+
+
+                     Recent policy announcements on bolstering transmission and storage capacity additions are
+                     expected to unlock the next cycle of growth for the solar sector. Commodity price inflation in
+                     wake of the Middle East war has hit the solar sector with material increases in prices of key raw
+                     materials and delay in delivery timelines. However, I am pleased to say that we are navigating
+                     this period successfully with careful supply chain management and investments in scale and
+                     technology. As new capacity ramp up over the next few quarters, we expect a major step up in
+                     financial performance of the company.
+
+
+                     At the same time, we are also evaluating several new primary and secondary growth
+                     opportunities. Our balance sheet strength, as reflected in low cost of capital and an A+ credit
+                     rating, is a key pillar of our business competitiveness. We remain focused on disciplined growth,
+                     leveraging our key operational strength alongside prudent risk allocation. Thank you. We are
+                     now open for questions.
+
+
+Moderator:           Thank you. We will now begin the question- and- answer session. The first question comes from
+                     the line of Shubham Borade with ICICI Securities. Please go ahead.
+
+
+Shubham Borade:      Yes. Hi. Thank you for the opportunity, and congratulations on a good set of numbers. I have
+                     two questions. First being, where are we in battery manufacturing, and what we will be able to
+                     localize in the near term to achieve the 40% DCR requirement? Second would be, what is the
+                     status of our approval of new 7 GW capacity from MNRE, and has it stabilized?
+
+
+Vinay Rustagi:       Sorry, Shubham, we can't hear you. Can you please repeat the second question again?
+
+
+Chiranjeev Saluja:   Yes, the first question was clear. Just repeat the second question.
+
+
+Shubham Borade:      Yes, sure. What is the status of our approval of new 7 GW capacity from MNRE, and has it
+                     stabilized? I hope I was audible.
+
+
+Chiranjeev Saluja:   Sure. Okay, I'll let Sudhir Reddy answer the first question on our battery manufacturing plans
+                     and localization plans, and the second question, I will take it after him. Sudhir.
+
+
+Sudhir Moola:        Thank you. On the Battery Energy Storage System, we expect to operationalize the Battery
+                     Energy Storage System in Q2 2027. With respect to localization, we are working out on
+                     localizing the container manufacturing. We are trying to localize some of the fire suppression
+                     systems inside it to achieve the 40% localization that is being asked by the government for the
+                     various subsidy programs. Also, on the software part also, we have tied up for providing Indian-
+                     made EMS for the Battery Energy Storage System. So that's our plan on the Battery Energy
+                     Storage. I hope that's clear.
+
+
+Chiranjeev Saluja:   Yes. So our plan is to do cell to pack and pack to container. This is what the manufacturing plant,
+                     what we are setting up. On your second question on 7 GW cell line at Naidupeta, we have already
+                     made our application to the National Institute of Solar Energy for the inspection of our plant and
+                     to get it enrolled in the ALMM. We are expecting the inspection to happen anytime in the third
+
+
+                                               Page 3 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+                     week of November. The plant is, as we already said, is already commissioned, and trial runs are
+                     going on. I hope that answers your question.
+
+
+Shubham Borade:      Yes, sir. Yes. Thank you. Just if I can squeeze in one more. What is the status of wafer and ingot
+                     manufacturing, and have you placed the orders for equipment, and what would be the total cost
+                     for the project? Thanks.
+
+
+Chiranjeev Saluja:   Yes. Sudhir will answer this question.
+
+
+Sudhir Moola:        Yes. We have started working on the ingot-wafer plant. In fact, the land has been already
+                     procured quite some time back. Also, the license and permitting for that place, which is in
+                     Naidupeta, very next to our 7 GW plant, have been in position for that plant. Water allocation
+                     has been done. Electricity power approval also has been done, and we have laid the power lines
+                     to the plant in 169 acres.
+
+
+                     We hope to commission the Phase 1 by December 2027, and Phase 2, which is additional 5 GW,
+                     taking the total capacity about 10 GW, by June 2028, which is to more align with the ALMM-
+                     3, and we will look for guidance from government on that if there is any timing changes.
+
+
+Shubham Borade:      Sure, sir. Thank you. Thank you. That would be very good. Thank you.
+
+
+Moderator:           The next question comes from the line of Apoorva Bahadur with IIFL Capital. Please go ahead.
+
+
+Apoorva Bahadur:     Hi, sir. Thank you for the opportunity. Sir, on this battery manufacturing, I just wanted to double-
+                     click a little bit more, especially on our partnership with RCT. It would be very helpful if you
+                     can explain what would RCT bring to the table? Does the JV have access to its proprietary tech
+                     from Wärtsilä?
+
+
+Chiranjeev Saluja:   Sudhir will take this question.
+
+
+Sudhir Moola:        Yes. I mean, just to give a background, RCT is a German company, and they have been in the
+                     Battery Energy Storage business for quite some time, and they have placed a lot of their Battery
+                     Energy Storage solutions both in Europe and in U.S. as well. So they have both CE and UL-
+                     certified products in their thing.
+
+
+                     That said, our partnership with RCT is going to give us this reach for us into those markets with
+                     the Battery Energy Storage solutions going to be manufactured in India. It also gives us access
+                     to some of their EMS solutions that they already have and have been using it for their European
+                     and U.S. customers as well.
+
+
+                     So it gives us both the product access to the product portfolio as well as their customer base that
+                     they're currently serving in these two markets. We hope to replicate some of their learnings from
+                     their already established products in the market into the Indian market.
+
+
+Apoorva Bahadur:     Okay. Also, sir, the LFP cell imports for these plants, have we tied up for those? Which vendor
+                     and which geography? Who from China, basically?
+
+
+
+
+                                                Page 4 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+Chiranjeev Saluja:   Yes. Apoorva, we have been working with the tier 1 manufacturers of cell in China. We have
+                     not have a firm tie-up as on date. But as the plan progresses, we will enter into a firm supply
+                     arrangement.
+
+
+Apoorva Bahadur:     Understood, sir. Very helpful. Secondly, also wanted to know your thoughts on the inventory
+                     buildup and sort of the depletion in cash conversion that we are seeing in over the last couple of
+                     months. How does it resolve? I understand that because we are building new capacity, so we
+                     would be needing some of the materials, but I think there's a buildup in finished goods inventory
+                     as well. Would love to know your thoughts on this.
+
+
+Vinay Rustagi:       Yes. Hi, Apoorva. This is Vinay here. The buildup is largely on the raw material side. There is
+                     no major change in the finished goods inventory. The buildup is mainly because of two reasons.
+                     One, of course, there is a ramp-up happening in Seetharampur and now with the Naidupeta plant
+                     also getting commissioned. There is expected to be a big scale-up in operations of the company,
+                     both on the cell and the module side.
+
+
+                     In advance of this ramp-up, we have to have all the inventory position and the stocks kept up
+                     with the company. When you look at the inventory position and compare it with the historic
+                     revenue performance, the number seems artificially higher. The second thing which has
+                     happened in the quarter is that, particularly with the war situation, some of the delivery timelines
+                     have been impacted.
+
+
+                     Shipping lines, there is some congestion in some of the ports. We have basically also been
+                     maintaining some extra buffer on the raw material inventory, which has led to this slightly
+                     inflated position. I would say this is temporary in nature. As these new plants stabilize, revenue
+                     starts coming into the numbers, you will see the numbers fall back to the normal scenario.
+
+
+Apoorva Bahadur:     So we should expect this by March quarter, or do we expect a little bit more time for this?
+
+
+Vinay Rustagi:       I would say latest by March quarter, yes.
+
+
+Apoorva Bahadur:     Okay. And lastly, sir, if you can also share the latest DCR ALMM-2 price trends. I believe that
+                     the C&I demand is also around the corner. It is around the corner.
+
+
+Chiranjeev Saluja:   Yes, Apoorva, I can take this question. In the DCR segment, we have got three markets which
+                     we address. One is the retail market where we have the highest selling point. There, the price
+                     prevailing in the market is anywhere between INR23- INR24 per watt on a DCR module. Then
+                     the next segment is the KUSUM C and the C&I market, where we expect realizations to be
+                     around INR21.5.
+
+
+                     At the bottom, maybe INR21. Then you have the IPP segment, which is now coming in, which
+                     is a large IPP. There, we see prices going to as low as about INR20.5 or even INR20, if you are
+                     talking about up to March 2027. Now, when you average out all these prices, you get an average
+                     of around close to INR21.5-INR22 on the DCR module.
+
+
+                     When you talk of cells, it is ranging between $0.12- $0.14, which is Mono PERC around $0.12-
+                     $0.125, and TOPCon at about $0.14, $0.145. If you talk of non-DCR module, we are seeing a
+
+
+                                              Page 5 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+                     lot of aggressive pricing there. But as a company, with our high-quality BOM and highly
+                     automated manufacturing lines, we are able to get a price premium there. So there, we are
+                     looking at prices anywhere between INR12.75- INR13.
+
+
+Apoorva Bahadur:     Thank you, sir. Just one more thing on this. I think on the DCR price, you said up till March
+                     2027. So for these larger projects, maybe for C&I and IPP, the delivery timelines could be further
+                     beyond that. Is there a difference in pricing, say, for year-end C1 and C7?
+
+
+Chiranjeev Saluja:   Yes, so for the pricing for IPP, which I stated is all for next year, because IPP would not want
+                     modules immediately. Their planning is well in advance. So there, we are looking at around
+                     INR20 for IPP and not C&I. But then there is a mix. You have retail, you have KUSUM C, and
+                     you have C&I and IPP. So when you average out, we are getting a better realization. And the
+                     demand at the retail level is quite strong.
+
+
+Apoorva Bahadur:     Understood. Thanks a lot, sir. All the best.
+
+
+Moderator:           The next question comes from the line of Sumit Kishore with Axis Capital. Please go ahead.
+
+
+Sumit Kishore:       Good morning. Thanks for the opportunity. My first question is, it is still early days on China's
+                     proposed technology export controls, but do you see this, or how do you comment on the
+                     perceived risk of delay or deferment in implementation of ALMM for C&I and ALMM-3 later
+                     by June 2028?
+
+
+Chiranjeev Saluja:   Morning, Sumit. I will ask Sudhir to take this question. Sorry, Vinay is taking it.
+
+
+Vinay Rustagi:       Let me just step in. Yes. Hi, Sumit. I think on the China policy front, this is obviously a draft
+                     announcement right now. It is going through a consultation process, and we will know the final
+                     outcome, I would say, in the next three to four weeks. We kind of should reserve in terms of
+                     comments on what is going to really happen there.
+
+
+                     Obviously, we are anticipating some kind of controls, and we are kind of working with our
+                     technology and vendor partners as to finding the best way around some of these restrictions.
+                     Bear in mind also that if you look at the Chinese machinery suppliers, for them, the domestic
+                     business is almost completely shut down, given that China is now trying to reduce capacity
+                     instead of increasing capacity.
+
+
+                     All the business for these machinery suppliers is basically coming from the export market, and
+                     India being the largest of these export markets. These machinery suppliers are working very
+                     closely with the government to try and get some relaxations in terms of the technologies, in
+                     terms of orders which have been placed already, and other possible areas. I think we are very
+                     hopeful that notwithstanding these restrictions, we will be able to find a way around. But like I
+                     said, let us wait for the final policy announcement before we can make any conclusive judgment
+                     on this.
+
+
+Chiranjeev Saluja:   Yes. Just to add what Vinay said, even the policy is not clear as of now, as it is talking about
+                     some high-end, high-technology, or new technology equipment. Luckily for Premier, we have
+                     imported those new-age and high-technology equipment for our Naidupeta cell line. So, we are
+
+
+                                              Page 6 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+                     at an advantageous situation where those machines are already in our manufacturing line, which
+                     have been kind of proposed for a ban.
+
+
+                     On cell line, we are fully covered. On ingot-wafer, we will be waiting to hear from the Chinese
+                     government after the November 15th, but we are quite hopeful that there would be a solution
+                     and that we would be able to get our equipment well on time.
+
+
+Sumit Kishore:       Sure. My second question is, you commented on realizations across DCR, non-DCR. Could you
+                     also sort of give some color on the EBITDA spread in Rupee per watt peak that you are making
+                     on cell module, and non-DCR module? How has that moved, say, on a quarter-on-quarter or
+                     year-on-year basis?
+
+
+Vinay Rustagi:       Yes, Sumit. Hi. Unfortunately, we do not give out the spread information on a product-by-
+                     product basis. But of course, we have given you indication of the prices. If you look at just the
+                     pricing, the cell and module pricing has been largely stable on the DCR side. Non-DCR pricing
+                     obviously has come down quite sharply.
+
+
+Sumit Kishore:       Yes.
+
+
+Vinay Rustagi:       From about INR14+ , INR14, INR15 last year, to about INR12.5 right now. So, that has
+                     obviously impacted the NDCR margin. Equally, the BOM cost in terms of the cell remains
+                     largely stable, with the wafer pricing from China going up and down a little bit. But then the
+                     silver prices again have kind of softened after they went up about three to six months ago. Then
+                     we have seen some changes, recent increases in cost of commodities like aluminum, copper,
+                     polymer films, et cetera, which has impacted profitability again on the module assembly
+                     business. Beyond that, I cannot give you, unfortunately, any specific numbers.
+
+
+Sumit Kishore:       Sure. Just one clarification. When you said that, how do the localization rules on BESS really
+                     work? So, with your existing capex earmarked for BESS assembly, would that be enough to
+                     meet the 40% localization guideline, or would you have to do more capex on the manufacturing
+                     side?
+
+
+Chiranjeev Saluja:   No, I think Sudhir wants to comment on this. Yes.
+
+
+Sudhir Moola:        See, I think to achieve the 40% localization, certain components have to be localized within
+                     India. We will work with those other component manufacturers to localize it. It is not necessary
+                     that we have to go ahead and manufacture all these components within India. Some of these,
+                     there are manufacturers in India. We just have to qualify their product to our designs.
+
+
+Chiranjeev Saluja:   But on an overall basis, the cell to pack and pack to container will qualify for the 40% easily.
+
+
+Sumit Kishore:       Okay, got it. Thank you. Thank you so much for answering that.
+
+
+Chiranjeev Saluja:   We would not need to do any. We would not need to do any additional capex.
+
+
+Sudhir Moola:        Manufacturing is not required at this level. For 40% localization, we can manage with other
+                     components aside to the BMS and the cells.
+
+
+
+                                              Page 7 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+Sumit Kishore:       Got it. Thank you, and wish you all the best.
+
+
+Sudhir Moola:        Thank you.
+
+
+Moderator:           The next question comes from the line of Kunal Shah with DAM Capital. Please go ahead.
+
+
+Kunal Shah:          Yes. Hi, sir. First of all, with the 7 GW line now in place, how do you see the ramp-up schedule
+                     over here for the second half of FY 2027? Basically, any guidance on the quantum of production
+                     that we can do here on the 7 GW line?
+
+
+Sudhir Moola:        Hi. Thanks. I will take this question. I think our plan is, considering that we will be getting our
+                     MNRE inspection, we have applied for it, and we should be getting our ALMM inspection done
+                     and the approval soon. We expect to do about 25%-30% CUF ramp-up in December on the
+                     Naidupeta plant, and gradually move towards about 70% CUF by end of March.
+
+
+Kunal Shah:          Okay, 70% by end of March. So, that is the exact rate that you are guiding for, right?
+
+
+Sudhir Moola:        Yes.
+
+
+Kunal Shah:          Understood. Secondly, sir, on the total order book now, what proportion here would be the DCR
+                     piece? Because in the module mix shown in the PPT, there would be some component of DCR
+                     modules as well, right? So, out of the 16,500-odd order book, what is the DCR proportion here?
+
+
+Chiranjeev Saluja:   So, yes, Vinay can take this.
+
+
+Vinay Rustagi:       Yes. Hi, Kunal. So we have given you the breakup between the cell and module business, which
+                     is about 48% each of the total order book. And then within the module business, very roughly, I
+                     would say about 20% is also for the DCR business. So in total, I would say about 68%-70% of
+                     the total order book is for the domestic manufacturing business. The DCR business.
+
+
+Kunal Shah:          Got it. And sir, do we sort of retain the guidance of maintaining stable margins when we execute
+                     this current order backlog?
+
+
+Chiranjeev Saluja:   So I will take this question, Kunal. The orders have been won at the prevailing current price
+                     environment. And we are hopeful that we will be able to maintain margins subject to cost
+                     environment volatility. But as of today, while we speak, all the orders are at current pricing
+                     environment.
+
+
+Kunal Shah:          Understood. And lastly, sir, having acquired the transformer piece for a couple of quarters now,
+                     could you provide some concrete guidance on the scale-up or any sort of milestones here? Like,
+                     how do we sort of see this business scaling up and sort of adding to the overall consol piece?
+
+
+Chiranjeev Saluja:   Sure. Vinay will take this question.
+
+
+Vinay Rustagi:       Kunal, hi. I think we have said that the 4 GVA part of the new transformer capacity is already
+                     being commissioned. The company has completed all the type testing for all the full range of
+                     power transformers, except for the EHV segment. For the larger transformer category, customer
+
+
+
+
+                                              Page 8 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+                     acceptance and type testing usually take some time. I would say about anything between 8-12
+                     months, depending on different product sizes.
+
+
+                     The conversion to export orders also usually is a long drawn process. I would say that we, in
+                     addition to this new transformer expansion, are expecting a gradual ramp-up over the next three
+                     years to about 80%-90% of the total capacity, with the current capacity and the other 4.5 GVA
+                     capacity on the IDT and the other range of power transformers ramping up, I would say, over
+                     the next one year or so. In general, we are expecting the business to, like we said last time, more
+                     than treble in revenues over a period of three years.
+
+
+Kunal Shah:          Understood. This is very helpful, sir. Thank you so much and all the best.
+
+
+Vinay Rustagi:       Thank you.
+
+
+Moderator:           The next question comes from the line of Bharani with Avendus Spark. Please go ahead.
+
+
+Bharani:             Yes. Good morning. Can I get the proportion of…
+
+
+Moderator:           I am sorry to interrupt, Bharani. You are not quite audible. I would request you to use your phone
+                     on the handset mode in case if you are using a hands-free device.
+
+
+Bharani:             Is it better now?
+
+
+Moderator:           Yes, go ahead.
+
+
+Chiranjeev Saluja:   Yes, Bharani, we can hear you.
+
+
+Bharani:             Okay. Yes. Sorry for that. Wanted to check the proportion of sales done in the DCR market in
+                     the second quarter in the modules segment.
+
+
+Vinay Rustagi:       Bharani, I could not hear you, but I think your question was about the percentage of DCR sales
+                     in the quarter.
+
+
+Bharani:             Correct.
+
+
+Vinay Rustagi:       We don't give out any mix between DCR and non-DCR business on a quarterly basis,
+                     unfortunately, Bharani.
+
+
+Bharani:             My second question is, in the opening remarks, there was mention of growth prospects both
+                     organically and inorganically. Would like to have some color on what are these inorganic area
+                     segments that we are looking at?
+
+
+Vinay Rustagi:       I think in general, what I really want to say is that the fundamentals of the sector are extremely
+                     attractive, with several growth opportunities present, both in the solar technology space as well
+                     as all the other adjoining areas, whether you look at battery technologies, inverters, green
+                     hydrogen, electrolyzers, et cetera. Largely, the focus of the company going forward is going to
+                     be leveraging our core strength in solar manufacturing and trying to focus on organic growth.
+
+
+
+
+                                               Page 9 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+                 Having said that, we will look at acquisitions very selectively, wherever we feel that we can use
+                 these acquisitions to cut our time to market, particularly when the valuations are also very
+                 attractive. I think in general, we are looking at a multiple, a lot of these opportunities both in
+                 India and even internationally, but the focus is on organic growth and closely linked to the solar
+                 sector.
+
+
+Bharani:         Okay. When you're telling internationally, does this involve the erstwhile plan we had to have
+                 capacities in U.S.A., or is it outside U.S.A., like in Europe or other geographies?
+
+
+Vinay Rustagi:   Sorry, Bharani. There is a lot of disturbance in the call. We cannot hear you.
+
+
+Bharani:         Sorry.
+
+
+Vinay Rustagi:   Operator, is the disturbance only our line or is it for all the lines?
+
+
+Moderator:       No, sir. It is his line. He is speaking a little distant from the microphone and probably not on the
+                 hands-free mode.
+
+
+Bharani:         Is it better now?
+
+
+Moderator:       Yes, please go ahead.
+
+
+Vinay Rustagi:   Can you please try now?
+
+
+Bharani:         No. I was just checking when you said the international geographies, is it the U.S. plan we had
+                 earlier that we are restarting, or is it a completely new geography, like in Europe or some other
+                 area?
+
+
+Vinay Rustagi:   I think we have been pretty open that U.S. and Europe remain geographies of interest to us. Both
+                 these markets, there is a very strong policy push towards domestic manufacturing, and we are
+                 focusing, we are looking at both these markets and evaluating several opportunities. I think that
+                 those are the two main international areas of interest to us.
+
+
+Bharani:         One last question. You mentioned that we had already placed orders and got the high-tech
+                 equipment for the cell line. How about for the ingots and wafers?
+
+
+Vinay Rustagi:   For the ingots, we still haven't placed the orders for the ingot and wafer. Only for the wafers, we
+                 had earlier tied up with a vendor, and we had put in a small deposit with them. Those agreements
+                 are being registered with the Chinese government under the export control, so that these are
+                 considered as pre-existing agreements.
+
+
+Bharani:         Okay. Thank you so much, and all the best.
+
+
+Moderator:       The next question comes from the line of Kunal Shah with DAM Capital. Please go ahead.
+
+
+Kunal Shah:      Yes. Hi, sir. Just one thing, just recently, right now, there is a news flash about a potential block
+                 of GEF at a 7%-10% discount to the current price. Could you clarify the stance over here?
+                 Because one of the investor complaints typically have been around the noise around these
+
+
+                                          Page 10 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+                     liquidity events, etcetera, and fundraising, etcetera. Could you just provide some thought over
+                     here?
+
+
+Chiranjeev Saluja:   Yes. Kunal, we have also seen some messaging going on. These are all rumors. There is no
+                     block, nothing from the promoters, and there is also a rumor, I think, going on that GEF, the
+                     private equity player who has invested in us, has appointed Citi as the banker, which is also false
+                     information. I think these rumors just create confusion. There is no block from the promoters.
+                     There is no block planned even in the next couple of quarters or even the couple of years. From
+                     promoter side, we are very clear, no block. And from GEF also, we verified with them, they
+                     have not appointed Citi, and there is no block.
+
+
+Kunal Shah:          Understood, sir. This is very helpful. And sir, on the potential QIP also, could you just provide
+                     some clarity there, whether it's just an enabling resolution or we are actively looking there as
+                     well?
+
+
+Chiranjeev Saluja:   Yes, we have time and again stated this, that it was just an enabling resolution. We have enough
+                     cash flow from operations to fund our capex plans, which we have announced. There is no QIP
+                     planned in the near future.
+
+
+Kunal Shah:          Understood. This is very helpful, sir. Thank you so much for the clarity.
+
+
+Moderator:           The next question comes from the line of Praveen Sahay with PL Capital. Please go ahead.
+
+
+Praveen Sahay:       Yes. Thank you for the opportunity. Sir, related to the DCR pricing, there is some order from
+                     the SECI for the next year as a very discounted rate. So, where do you see this INR20 realization
+                     by the next year? Will it going to go down to the order which we had seen at the pricing
+                     happened?
+
+
+Chiranjeev Saluja:   I think you are talking about the order which one of the companies won in the SECI bid, right?
+
+
+Praveen Sahay:       Yes, sir.
+
+
+Chiranjeev Saluja:   Yes. This, I think, was clarified earlier also. Let me clarify again. That cannot be treated as a
+                     base to arrive at the market pricing because this company is setting up their cell line, which
+                     would be getting commission, I think, this quarter or next quarter. They had participated in this
+                     bid almost a year ago, and the bid got finalized about, I think, three months ago. They had given
+                     this introductory pricing to get credentials in the market.
+
+
+                     SECI tender, I would say, was to be treated as an IPP tender. I said IPP pricing in the market for
+                     next year are around INR20, and I think they have taken this order at about INR17 or INR18,
+                     which was at a discount to be able to get credentials, and that is not reflective of the market
+                     prices. It was more as an introductory offer to fill up about 10%-15% of the line capacity.
+
+
+Praveen Sahay:       Thank you for the clarification. Next question is related to the inventory. As you had explained,
+                     there is two reason why the inventory level has increased. These inventories are also built up,
+                     also depends on your order book. We are not going to see, with these kind of inventory built up,
+                     any impact on the margin profile.
+
+
+                                             Page 11 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+Chiranjeev Saluja:   Just hold on. Just hold on. Moderator:, can you come in? We are not able to hear. Line is pretty
+                     bad. Do you think we should log off and log in again?
+
+
+Moderator:           Just give me one moment, sir. I will just double-check.
+
+
+Chiranjeev Saluja:   Whenever somebody is speaking, there is a lot of background noise.
+
+
+Moderator:           Praveen Sahay, could you please say something now?
+
+
+Praveen Sahay:       Yes, okay. My question related to the inventory, sir, because the inventory increase you had well
+                     explained. My question is whether this inventory buildup also depends on the order book, so we
+                     will not see an impact of this high order inventory buildup in the future margin profile?
+
+
+Vinay Rustagi:       Yes, I mean, all our production, both cell and module, is linked to orders. We produce goods in
+                     the factories based on firm orders from customers. So, inventory buildup is definitely against
+                     expected orders from our customers based on the exact delivery and production timelines. As
+                     these orders, as the factories ramp up and production starts coming through the gates, the
+                     inventory position in relation to sales will normalize.
+
+
+Praveen Sahay:       Okay. Sir, last question related to the capex. Can you give the FY 2027, what would be the
+                     number we are looking for?
+
+
+Vinay Rustagi:       So, in the bulk of our capex for the cell and module expansion has already been completed. Now
+                     we are mainly looking at some marginal leftover payments for the Naidupeta cell plant, and then
+                     the battery and the aluminum plant. Plus we are undertaking open access captive projects. I think
+                     on the whole, the capex for the next two quarters should be moderated, I would say, to about
+                     INR700 crores territory, which means the total capex for the financial year should be around
+                     INR2,400 crores.
+
+
+Praveen Sahay:       Thank you, sir, and all the best.
+
+
+Vinay Rustagi:       Thank you.
+
+
+Moderator:           The next question comes from the line of Sahil Sheth with Anand Rathi. Please go ahead.
+
+
+Sahil Sheth:         Hi, sir. Congratulations on a good set of numbers. My first question is on our cell order book. If
+                     I see on a quarter-on-quarter basis, our order book has declined by about INR8 billion, while our
+                     execution on the revenue side, we have booked revenue of around INR4.7 billion. Just wanted
+                     to know why is the decline in order book greater than what revenue we have booked for the
+                     quarter?
+
+
+Vinay Rustagi:       Sorry, Sahil, are you talking specifically about the cell order book?
+
+
+Sahil Sheth:         Yes, sir.
+
+
+Vinay Rustagi:       Yes, so I think there the difference is mainly coming because in the last quarter, for example, if
+                     you see, we did not take any new cell orders. All the orders were for DCR or non-DCR modules.
+
+
+
+
+                                             Page 12 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+                     So obviously, as more production and dispatches were made, the total outstanding cell order
+                     number has come down.
+
+
+Chiranjeev Saluja:   Yes, also because our module line capacity has increased.
+
+
+Sahil Sheth:         Sir, you were not audible. Could you repeat?
+
+
+Chiranjeev Saluja:   Yes, I am Chiranjeev here. Was just clarifying that our cell order book has decreased and DCR
+                     module has gone up because we commissioned our new 5.6 GW module line, right? With more
+                     module capacity coming in-house, we would prefer to use the cells for our own captive
+                     consumption and gradually reduce our solar cell sales.
+
+
+Sahil Sheth:         Okay. Sir, apart from any executed cell orders, is there a movement where the order have moved
+                     from your cell order book to a module order book, or are there any order cancellations for the
+                     merchant cell sales?
+
+
+Vinay Rustagi:       No, no, there are no order cancellations at all.
+
+
+Sahil Sheth:         Okay, got it. Sir, my second question would be, on the U.S. side with the changing political
+                     scenario, how do you now see the outlook for the solar industry in India, and how are we
+                     assessing the opportunity? Are we looking in terms of export or setting up any manufacturing
+                     facility in U.S. itself?
+
+
+Chiranjeev Saluja:   See, there are two ways to look at it. One is with the changing environment there, it is a big, big
+                     positive for the renewable side. If you talk of MIP, we are clear that Make in America is the
+                     answer, and hence we are at advanced stages to finalize our factory location in the U.S. We
+                     already have a JV partner, so we are progressing well on that side. We would set up cell
+                     manufacturing as announced earlier in the U.S.
+
+
+Sahil Sheth:         So sir, by when are we looking to finalize this? Is there any timeline you have in mind?
+
+
+Chiranjeev Saluja:   Yes, about 12-18 months is what we're looking at.
+
+
+Sahil Sheth:         Okay, got it, sir. My last question would be, on the transformers business, in the previous quarter,
+                     we recorded margins of around 22%, while in the current quarter, it came down to 12%. What
+                     is the normalized level of margins we can expect going on in this business?
+
+
+Chiranjeev Saluja:   So yes, I think we have been clear on this, that the normalized margins on this business is about
+                     15%. Last quarter, we had a higher number because the steel and the copper costs went up, so
+                     we got a variable increase in those orders, whereas we had enough inventory which we had
+                     hedged for. That gave us a little bit of an edge in terms of the margins. But on a normal basis,
+                     we expect this to be a 15% margin business going forward.
+
+
+Sahil Sheth:         Okay, got it, sir. That was very helpful and honest.
+
+
+Chiranjeev Saluja:   Thank you.
+
+
+Moderator:           The next question comes from the line of Mayur Patel with 360 ONE Capital. Please go ahead.
+
+
+                                                Page 13 of 19
+
+                                                                                           Premier Energies Limited
+                                                                                                November 05, 2026
+
+Mayur Patel:         360 ONE Asset. Thanks for the opportunity. Sir, just two things. Given the mix, I think this
+                     quarter, a margin of around 28% is also a function of more modules, like you explained. Going
+                     forward, as the Naidupeta cell facility gets ramped up over next six months' time to 70%, you
+                     say, and demand obviously after December, C&I picking up in a big way because of the DCR
+                     regulation kicking in.
+
+
+                     And this BESS big thrust from the government side, IPP hopefully should also pick up. KUSUM,
+                     you're saying, reading some news around from the ministry, there's a final leg of finalization of
+                     KUSUM 2.0. Do you think, again, the mix will start favoring us from the blended margins point
+                     of view going forward? Number one, and the 10 GW order book which you have, that will be
+                     executed over next 12 months' time, I assume?
+
+
+Chiranjeev Saluja:   Yes, about 12- 14 months.
+
+
+Vinay Rustagi:       Okay. But Mayur, hi, this is Vinay here. On the government policy and the demand front, I think
+                     the government is completely seized of the matter in terms of trying to diversify the energy mix
+                     and grow the share of renewable energy. I think we are going to see a lot of initiatives that even
+                     in the last one or two months, we have seen a very large Green Energy Corridor scheme.
+
+
+                     Now you have seen the BESS initiative with the VGF scheme, and the KUSUM and Surya Ghar
+                     Yojana, the second version of both these schemes is also due for announcement, I would say,
+                     over the next one or two months. I think we do expect the overall macro for the demand side is
+                     very, very attractive, and we do expect a lot of favorable policy announcements from the
+                     government. That should obviously tilt the business focus and the mix of product towards the
+                     DCR modules, and that will help us to maintain and increase our margins.
+
+
+Chiranjeev Saluja:   Just to add what Vinay said, Mayur, that government is quite positive. If you look at the
+                     indications from them on Surya Ghar 2.0 and KUSUM 2.0, both these projects give us a better
+                     margin in terms of realization. We are quite confident that if Surya Ghar 2.0, KUSUM 2.0 comes
+                     in, the mix what we have today will only get better.
+
+
+Mayur Patel:         Got it. Just last question, Chiranjeev-ji, sir. For the wafer ingot upcoming facility, if I recollect
+                     correctly, we have a technology tie-up with Taiwan-based Sino-American SAS, which is a very
+                     renowned company. Given the technology tie-up, still, how can you deal with this uncertainty
+                     around sourcing plant and machinery from China? Having this tie-up with SAS, does it help in
+                     some form?
+
+
+Chiranjeev Saluja:   This uncertainty is still not clear. November 15, we get more details on this. There is fine print
+                     in the draft which has been shared that a certain kind of ultra-thin wafers, manufacturing
+                     equipment would not be allowed, but maybe normal ingot wafer machines will be allowed. We
+                     will get more clarity.
+
+
+                     If you look at the Chinese equipment manufacturers, most of them have set up shop also in
+                     Southeast Asia, where they are assembling the equipment. We do not see this as a big risk in
+                     terms of our ingot wafer equipment sourcing. Coming to our partnership with SAS in Taiwan,
+                     that is more of a technology partnership. They have got deep knowledge and tech know-how on
+
+
+
+                                              Page 14 of 19
+
+                                                                                           Premier Energies Limited
+                                                                                                November 05, 2026
+
+                     semiconductor wafers, and that will help us in choosing the right equipment, ramping up the
+                     line, and being able to produce world-class wafers.
+
+
+Mayur Patel:         Sure. Just one last thing, sir. Beyond next five years growth journey, does this SAS tie-up help
+                     us, say, going forward once we are fully operating at, including wafer ingot, everything is
+                     running steadily? After that, can we look at entering semiconductor wafers also, given your
+                     relationship and partnership with SAS? In future, I am not saying your next one.
+
+
+Chiranjeev Saluja:   Yes. That is on our wish list, but it is too early to say or commit anything there. We as a company
+                     would want to grow in the semiconductor space. When we would do this, with whom we would
+                     partner is something which we do not have an answer today. We first want to set our capex plans,
+                     which we already announced, the execution timelines, everything to be completed as per what
+                     we had committed, and we would be looking at various opportunities.
+
+
+Mayur Patel:         Sure. Thank you so much. All the best to you and the team. Thank you.
+
+
+Vinay Rustagi:       Thank you, Mayur.
+
+
+Moderator:           The next question comes from the line of Amit with UBS. Please go ahead.
+
+
+Amit:                Yes. Hi, sir. Congratulations on the stable set of results, despite current headwinds. Sir, I think
+                     I have one question which somebody in the previous questions tried to ask. On BESS now,
+                     Chinese companies, most of them are in losses. They are not able to lift prices.
+
+
+                     The regulation in China, even on the BESS side in the entire solar value chain, we have a point
+                     where the China government is very clear that U.S. and India can't be shared a lot of
+                     technologies. This 40% threshold for indigenization, right? I am sure there is a lot of thinking
+                     that has gone behind. Do you think this is enough for us and the sourcing of BESS capabilities
+                     beyond the current dynamics will help us?
+
+
+                     Because the operating cash flow assumptions in the next, say, two to three years when we expand
+                     capacities, looking at the profitability pressure, do you think it has a serious risk of slowing down
+                     the entire renewable capacity framework in India? I just wanted your thoughts on this current
+                     deadlock in BESS framework, because minus BESS, the renewable growth is going to be a
+                     challenge.
+
+
+Chiranjeev Saluja:   Yes. So let me take this question, Amit. See, on Battery Energy Storage System, what we are
+                     doing is cell-to-pack and pack-to-container, and there is no problem with China in terms of
+                     supplying equipment for cell-to-pack and pack-to-container lines. It is more on the cell
+                     manufacturing on the BESS side, and that is the reason why we have been cautious in not
+                     announcing large investments into cell manufacturing on the battery energy storage side.
+
+
+                     To answer your question on the 40% value addition, we will comfortably achieve that with cell-
+                     to-pack, pack-to-container, and the software bit of the battery energy storage system. And there
+                     is enough support from China for setting up these lines. There is nothing which is banned on
+                     that front.
+
+
+
+
+                                             Page 15 of 19
+
+                                                                                         Premier Energies Limited
+                                                                                              November 05, 2026
+
+                     On prices in China and BESS companies and solar companies making a loss there, that is because
+                     of huge overcapacity, which we are aware of, and there is an anti-involution policy which is
+                     being implemented to try and stabilize prices. We are seeing polysilicon prices, wafer prices on
+                     the upward trend because of that. I think we would see that also, a stabilization on the battery
+                     cell side, I think, going forward.
+
+
+                     But as far as we are concerned, we feel that the time to invest in BESS business, what we are
+                     doing is the right time. And we, having our reputation and the brand which we carry in the
+                     market with our customers and the history of 32 years which Premier has, we will be able to win
+                     BESS business from our IPP customers and C&I customers, and we will qualify for the 40%
+                     local content.
+
+
+Amit:                Sure. I'm sure. Second and quick question is on the ongoing, the current demand in India and
+                     the capacities that are going to be activated now. Do you think the consolidation here, where a
+                     lot of marginal players go out of business or stop impacting the incumbents on P&L, it's going
+                     to be a longer drawn race, and hence the incremental returns on incremental investments,
+                     whether it's ingot-wafer, BESS, etcetera, will be materially lower for us in the next, say,
+                     particularly after, say, one and a half, two years? Do you have any sense on that? I know it is
+                     still wait and watch, but still your insights on this. Thank you.
+
+
+Chiranjeev Saluja:   You're talking about people who have just module business compared to backward integration?
+                     Is that your question?
+
+
+Amit:                No, even cell capacities. Module anyways is a passe. Even with cell capacities by CY 2027 and
+                     CY 2028, India will have more than 100 GW, right? Or at least 80, 90. I just wanted to
+                     understand.
+
+
+Chiranjeev Saluja:   Yes.
+
+
+Amit:                Yes.
+
+
+Chiranjeev Saluja:   Sure. Pure play module business, it's a very difficult time, right? I do see problems coming up
+                     on pure play module manufacturers in terms of standalone manufacturing for modules. That's
+                     going to be really, really difficult. Backward integration is required. Your question on cell
+                     manufacturing, even if we reach 100 GW with an average industry output of about 70 GW per
+                     annum, we are still looking at demand being quite strong.
+
+
+                     As we speak, the demand is almost about 50, 60 GW. With the growth rate we are expecting
+                     every year, we see this demand to mostly equal or surpass the supply, at least for another 12- 18
+                     months, whereas if cell manufacturing reaches about 100. Then again, between the cell
+                     manufacturers, you need to carve out manufacturers who have scale and who are getting into
+                     ingot-wafer.
+
+
+                     Somebody setting up a 1 or 2 GW cell line, competing with somebody who has got a large cell
+                     line five times the size, is going to be a different game. We feel that players which are going to
+                     be at scale, who have the financial bandwidth and execution skill to set up ingot-wafer, that is
+                     backward integration, will be the ones which will be the difference between men and boys.
+
+
+                                              Page 16 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+Amit:                Okay, sir. Thank you and good luck to you.
+
+
+Vinay Rustagi:       Thanks, Amit.
+
+
+Moderator:           Thank you. Ladies and gentlemen, due to time constraints, we would take that as the last question
+                     for today. I would now like to hand the conference over to the management for the closing
+                     remarks.
+
+
+Chiranjeev Saluja:   All right. No, I think we can take one more question. We are still at 10:57 A.M. We can take
+                     one more question.
+
+
+Moderator:           Sure, sir. A reminder to all participants, you may press star and one to ask a question. The next
+                     question comes from the line of Amit Bhinde with Axis Capital. Please go ahead.
+
+
+Amit Bhinde:         Yes.
+
+
+Moderator:           Amit, please go ahead with your question and kindly unmute your line.
+
+
+Amit Bhinde:         Yes. Can you hear me? Am I audible?
+
+
+Moderator:           Yes.
+
+
+Amit Bhinde:         Yes. My first question is on the mix that you have in retail, C&I, and utilities in the order book
+                     currently. Related to that, some of the developers are talking about them getting quotes for DCR
+                     module at close to around INR18, which has been set as a precedence by one of your competitors.
+                     How far are we in seeing the orders coming at INR18? I mean, at, let's say, a quarter or two
+                     down the line?
+
+
+Chiranjeev Saluja:   Sir, to answer your question, even in non-DCR business today, people are accepting orders at
+                     sub INR12, but we at Premier are not. We are at INR12.75 and above. We do command a
+                     premium because of the high-quality automated lines which we have and the experience which
+                     we hold. I do not think the INR18 is a benchmark, which should be taken. If somebody has
+                     quoted because of new lines or new business they are entering into, that would not be a
+                     benchmark for us.
+
+
+Amit Bhinde:         Right. It is not a near-term risk that we should think about, is what you are saying, on the pricing
+                     front?
+
+
+Chiranjeev Saluja:   Yes.
+
+
+Amit Bhinde:         Yes. If you can also help me with the mix that you have in terms of retail, C&I, and utilities
+                     scale in the order book currently.
+
+
+Chiranjeev Saluja:   Yes. As we said, with these Surya Ghar 2.0 and KUSUM 2.0 being announced, we see the mix
+                     may become better than what it is today, if not remain the same.
+
+
+Amit Bhinde:         Right. But approximately, if you can help with the ballpark indicative numbers, if at all?
+
+
+
+
+                                             Page 17 of 19
+
+                                                                                          Premier Energies Limited
+                                                                                               November 05, 2026
+
+Chiranjeev Saluja:     Yes. No, we can take one more. Sorry?
+
+
+Amit Bhinde:           If you can help with some ballpark indicative numbers on that?
+
+
+Chiranjeev Saluja:     So, it is very difficult to give that number on a quarter-on-quarter basis. But roughly, retail is
+                       about 35%-40%.
+
+
+Amit Bhinde:           Okay. Right. And one more question that I had is that, now whatever capex plan that you have,
+                       would get over in the next year. So, how should we look at the next leg of growth for Premier?
+                       One of the things that was discussed was on the semiconductor side. It was spoken in one of the
+                       questions. Any other areas of business where you would deploy your cash flows?
+
+
+Chiranjeev Saluja:     As I said, that is our wish list. We do not have a firm plan now. Once we have a firm plan, we
+                       will, of course, share with the markets.
+
+
+Amit Bhinde:           Yes. Thank you. Those were my…
+
+
+Chiranjeev Saluja:     We can take one more question. We can take one more question, please.
+
+
+Moderator:             Sure, sir. The next question comes from the line of Bhaskar Chakraborty with Jefferies Group.
+                       Please go ahead.
+
+
+Bhaskar Chakraborty:   Thank you very much. Can you give us some color on the non-DCR order book that you have?
+                       What the kind of margins, on what basis that you are realizing currently?
+
+
+Chiranjeev Saluja:     In our 16,000-odd crores order book, about, as Vinay said, about 25%-30% is non-DCR. When
+                       you talk of non-DCR business, it is, of course, in the single-digit kind of EBITDA margins. In
+                       terms of pricing, generally, it is upwards of 12.75.
+
+
+Bhaskar Chakraborty:   Thanks. In your balance sheet as of September 30, there is almost INR2,900 crores of CWIP. Is
+                       that the cell line which has not yet been commercialized, and you will commercialize that in the
+                       second half?
+
+
+Chiranjeev Saluja:     That is right.
+
+
+Bhaskar Chakraborty:   Some of the interest and depreciation expensing for that line will come in the next two quarters?
+
+
+Chiranjeev Saluja:     Yes. I think Vinay had given a number that in this quarter, we are expecting the depreciation
+                       number to be around INR600 crores.
+
+
+Bhaskar Chakraborty:   For the year.
+
+
+Chiranjeev Saluja:     For the year. For the year, not for the quarter.
+
+
+Bhaskar Chakraborty:   Right. Yes. Sure. Thanks. Thanks very much, and all the best.
+
+
+Chiranjeev Saluja:     Thank you.
+
+
+Vinay Rustagi:         Thank you, Bhaskar.
+
+
+                                               Page 18 of 19
+
+                                                                                        Premier Energies Limited
+                                                                                             November 05, 2026
+
+Chiranjeev Saluja:   Yes, I think we can go to the closing remarks now.
+
+
+Moderator:           Ladies and gentlemen, that was the last question for today. I would now like to hand the
+                     conference over to the management for the closing remarks.
+
+
+Vinay Rustagi:       Thank you, everyone. Thank you for your time on the call. Overall, I think we discussed the
+                     whole range of demand, pricing, technology, and expansion initiative-related questions. I just
+                     have to say in the end that we are very pleased with another quarter of steady performance. The
+                     macro environment obviously has been challenging, but we've been able to kind of navigate that
+                     very successfully.
+
+
+                     Next few quarters, we are expecting a significant step up in the performance of the company,
+                     with the Naidupeta plant ramping up, Seetharampur volumes also picking up because of the
+                     increased cell production. Transformer volumes also will pick up quarter-on-quarter over the
+                     next two to three years. Then, mid to longer term, I believe that the macro for the renewables is
+                     very, very compelling.
+
+
+                     The government is working on a number of initiatives, and with these new schemes, Surya Ghar
+                     Yojana and KUSUM around the corner, the demand outlook is extremely positive. We are very,
+                     very, I would say, encouraged by the growth prospects of the business, and look forward to
+                     working with you. Thank you so much.
+
+
+Moderator:           Thank you, sir. Ladies and gentlemen, on behalf of ICICI Securities Limited, that concludes this
+                     conference call. Thank you for joining us, and you may now disconnect your lines.
+
+
+
+
+                                              Page 19 of 19
+

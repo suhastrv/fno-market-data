@@ -1,0 +1,1174 @@
+November 03, 2026
+
+BSE Limited                                              National Stock Exchange of India Ltd.,
+Phiroze Jeejeebhoy Towers,                               Exchange Plaza, C/1, G Block,
+Dalal Street,                                            Bandra - Kurla Complex, Bandra (E),
+Mumbai- 400001.                                          Mumbai – 400051.
+
+Scrip ID: KPITTECH                                       Symbol: KPITTECH
+Scrip Code: 542651                                       Series: EQ
+
+Kind Attn: The Manager,                                  Kind Attn: The Manager,
+Department of Corporate Services                         Listing Department
+
+Dear Sir/Madam,
+
+Subject: -        Transcript of the Post Earnings Conference call for the quarter ended
+                  September 30, 2026.
+
+In terms of Regulation 30 and 46, read with clause 15 of Para A of Part A of Schedule
+III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+please find enclosed the transcript of the Post Earnings Conference call for the
+quarter ended September 30, 2026, conducted on October 28, 2026.
+
+The transcript of Post Earnings Conference call is also made available on the
+website of the Company. The link to access the same is as below:
+https://www.kpit.com/investor-financials/
+
+Thanking you,
+
+Yours faithfully,
+
+For KPIT Technologies Limited
+
+ASHISH   Digitally signed by
+         ASHISH MALHOTRA
+
+MALHOTRA Date: 2026.11.03
+         21:53:24 +05'30'
+
+
+Ashish Malhotra
+General Counsel & Company Secretary
+Encl: as above
+
+
+
+
+KPIT Technologies Limited                                                           O +91 20 6770 6000
+Registered & Corporate Office: Plot No. 17, Rajiv Gandhi Infotech Park, MIDC-SEZ,   E info@kpit.com
+Phase-III, Maan, Taluka-Mulshi, Hinjawadi, Pune-411057, India.                      W kpit.com
+CIN: L74999PN2018PLC174192
+
+             “KPIT Technologies Limited
+      Q2 FY27 Earnings Conference Call”
+                  October 28, 2026
+
+
+
+
+MANAGEMENT:   MR. KISHOR PATIL – CO-FOUNDER, CHIEF EXECUTIVE
+              OFFICER AND MANAGING DIRECTOR – KPIT
+              TECHNOLOGIES LIMITED
+              MR. SACHIN TIKEKAR – PRESIDENT AND JOINT
+              MANAGING DIRECTOR – KPIT TECHNOLOGIES LIMITED
+              MR. ANUP SABLE – BOARD MEMBER AND CHIEF
+              OPERATING OFFICER – KPIT TECHNOLOGIES LIMITED
+              MR. CHINMAY PANDIT – BOARD MEMBER AND HEAD
+              AMERICA – KPIT TECHNOLOGIES LIMITED
+              MS. PRIYAMVADA HARDIKAR – CHIEF FINANCIAL
+              OFFICER – KPIT TECHNOLOGIES LIMITED
+              MR. SUNIL PHANSALKAR – VICE PRESIDENT OF CF&G,
+              HEAD INVESTOR RELATIONS – KPIT TECHNOLOGIES
+              LIMITED.
+
+MODERATOR:    MR. RAHUL JAIN – DOLAT CAPITAL MARKETS LIMITED
+
+
+
+
+                         Page 1 of 20
+
+                                                                           KPIT Technologies Limited
+                                                                                   October 28, 2026
+
+Moderator:          Ladies and gentlemen, good day and welcome to KPIT Technologies Q2 FY27
+                    Earnings Conference Call hosted by Dolat Capital. As a reminder, all
+                    participant lines will be in the listen-only mode and there will be an
+                    opportunity for you to ask questions after the presentation concludes. Should
+                    you need assistance during the conference call, please signal an operator by
+                    pressing star then zero on your touchtone phone. Please note this conference
+                    is being recorded. I now hand the conference over to Mr. Rahul Jain. Thank
+                    you and over to you, sir.
+
+
+Rahul Jain:         Thank you, Nazneen. Good evening, everyone. On behalf of Dolat Capital, I
+                    would like to thank KPIT Technologies for giving us the opportunity to host
+                    this earnings call. And now I would like to hand the conference over to Mr.
+                    Sunil Phansalkar, who is Vice President, CF&G and Head of IR at KPIT to do
+                    the management introductions. Over to you, Sunil.
+
+
+Sunil Phansalkar:   Thank you, Rahul. A warm welcome to all on the KPIT Q2 FY27 Post Earnings
+                    Conference Call. I would like to take this opportunity to wish all of you in
+                    advance a very happy Diwali and a prosperous New Year. On the call today,
+                    we have Mr. Kishor Patil, Co-founder, CEO and MD; Mr. Sachin Tikekar,
+                    President and Joint MD; Anup Sable, Board Member and COO; Chinmay Pandit,
+                    Board Member and Head Americas; Priyamvada Hardikar CFO and yours truly
+                    from IR.
+
+
+                    So, as we do always, we will have the opening remarks by Mr. Kishor Patil on
+                    the performance of the quarter and the way we look at the year ahead and
+                    then we will have it open for questions. So, once again, a very warm welcome
+                    to you all and I will hand this over to Mr. Kishor Patil.
+
+
+Kishor Patil:       Good evening and thank you for joining the call. Welcome to quarter 2
+                    Earnings call. Sometime back, we had given how KPIT growth will pan out and
+                    specifically in terms of how Q2 will look like. And we are happy that we are
+                    in line with our expectations and we can see some of the early results of the
+                    strategy we have put in place.
+
+
+                    So in order to really understand this, let's go into the details. So, overall
+                    growth has been 6.5% year-on-year and 1%, in terms of quarter-on-quarter,
+                    in rupee terms. We were expecting more flattish in CC terms, which came at
+                    0.5% quarter-on-quarter and 0.2% year-on-year. So, looking at this, if we go
+                    one level below, off highway and Commercial has grown 27% year-on-year
+                    and 17.6% quarter-on-quarter.
+
+
+                    So as we had mentioned, this is one of the growth drivers for now and for the
+                    future that we are looking at. The passenger car, if you really look at it, we
+                    are down by about 8% year-on-year and 4% sequentially. I would like to
+                    mention here that while passenger car growth looks like this, if we take out
+
+                                         Page 2 of 20
+
+                                                      KPIT Technologies Limited
+                                                              October 28, 2026
+
+our two top accounts, where we had an impact due to a sharp decline we
+had due to cancellation of their programs or cutting off their expense was
+13% of the total revenue.
+
+
+So what this means is we have been in a position to make up that drop due
+to our growth in off-highway and Commercial vehicles and also from the
+Products . So, this is how we have been in a position to make up. The pipeline
+is healthy. We have got reasonable wins and now 89% of the wins have come
+from target accounts. The pipeline is an active pipeline and we see that while
+it is taking some time for realization, it is an active pipeline and we feel much
+more comfortable with some of the opportunities on hand. I would like to
+come back to the Products. The Products revenue which we have talked about
+in the past and we will talk more about this later in the year, maybe early
+next year, in more detail what we intend to do.
+
+
+But this we have a 5% growth quarter-on-quarter during the quarter and 25%
+year-on-year. So overall services revenue has been flattish, but Products have
+grown 5% quarter-on-quarter and 25% year-on-year. In terms of profitability,
+our EBITDA has grown from 17.2% to 17.8%, this is 60 basis point, largely it is
+because of the business mix as the products contributions are higher as
+compared to the services part and solutions part.
+
+
+And we have continued to make investments in terms of technology. Even
+during this quarter, our investments into R&D has gone up by a couple of
+million dollars. So, our Net cash is about INR 6.2 billion. It has come down a
+bit, basically for two, three reasons. One is the there was a dividend payment
+of INR 1.4 billion.
+
+
+There was an acquisition payment of Cymotive in the sense the initial
+payment of Cymotive about a billion. And the DSO has increased from 51 days
+to 53 days. The wins I talked have been mainly in terms of Autonomy,
+Connected and IDART. In terms of AI, if you really look at, we continue to
+make good strides in that.
+
+
+We believe that this will be for now and in medium term a very significant
+differentiator. The Beacon product has been very well received. And as most
+of all our, almost all our products, the Beacon is the basis for that, while we
+also will take Beacon to the market in due course.
+
+
+In services and solutions, of course, on all our deliveries, many of our
+deliveries, we have started using this. There are more than 9,000 users of the
+AI platform, our overall AI product. We have more than 5 million transactions,
+if I would say, which have happened during the quarter. 12,000 engineering
+agents have been built.
+
+
+
+                      Page 3 of 20
+
+                                                      KPIT Technologies Limited
+                                                              October 28, 2026
+
+So this is a significant change which we have made and it is quite well
+appreciated by the clients. Roughly around 9% of the revenues come from
+what we call AI first projects. So, as I said, it's very normal now to use AI in
+almost everybody uses AI in every project and product. This 9% is where we
+say that this solution is based on AI and it makes a significant differentiation
+and we use it for go to market.
+
+
+So, this is the progress we have made and we expect this to go up
+significantly. The fixed price projects have moved to about 70%, which is
+significant. It's very important because as we move towards AI more and
+more, I think these are the projects where we can get both the productivity
+and we can move in terms of differentiation.
+
+
+So, that that is very important. People attrition was a bit higher during this
+quarter. It was mid-teens, but we as we predict the next quarter, it is coming
+down substantially. We have done our increments during the quarter for
+certain grades, initial grade between A to D, A to E grades. So we have made
+the increments and some other increments will get done during this quarter
+and some in the last quarter.
+
+
+So, we do believe the attrition will come down reasonably and because we
+have processes to estimate it in advance we understand the attrition for the
+next quarter, this will come very close to where we were earlier. I wanted to
+also talk about that in terms of adjacencies. While we believe that overall
+need for software will keep on increasing in the mobility part, There is a
+significant opportunity even though right now there are certain headwinds in
+the market, the content of the software is going to go up in the car. And this
+software-defined vehicle is important for most of the OEMs. It will transition
+to AIDV ( AI defined vehicle), where KPIT with the Beacon as well as few other
+products will be in a prime position to take opportunity as it has done in the
+SDV part.
+
+
+So we believe we are excited about the opportunity including in Passenger
+Cars into certain segments. However, we believe that we can extend some of
+this expertise into some of the adjacencies as we have been talking about. So
+over the period, this will allow us to have a more addressable market, with
+using our assets, technology products which we have built, and the domain.
+
+
+So one thing is we are talking about Energytech, where some of our clients
+already have like for example Cummins does work into Energytech area, then
+we can take it to another 15, 20 clients. And similarly in the deep tech area.
+So these are the two areas where we are now creating specific offerings.
+
+
+And we will be going into these adjacencies in due course. It will take time
+even though we believe that early successes will come in 2 to 3 quarters, but
+
+                    Page 4 of 20
+
+                                                                          KPIT Technologies Limited
+                                                                                  October 28, 2026
+
+                    it will take time to have a meaningful impact. But this is what we have already
+                    initiated. We do believe that we are really excited, on the AI-native deliveries,
+                    AI products which we have.
+
+
+                    The overall products chain, the way we have done from the architecture to
+                    after-sales, the solutions we are building around the products and
+                    adjacencies. So while our performance is, as I said, in line but muted to some
+                    extent, we remain confident about the midterm growth. Excited about the
+                    opportunity we have in front of us. Thank you.
+
+
+Sunil Phansalkar:   We can open it for questions now.
+
+
+Moderator:          Thank you very much. The first question is from the line of Rishabh Rathi from
+                    Goldman Sachs. Please go ahead.
+
+
+Rishabh Rathi:      Hi, good evening and thank you for the opportunity. My question is around the
+                    geography-wise sales and we had talked about the 2 major customers winding
+                    down. If I can just see Europe, actually we have seen a sequential decline but
+                    Asia has picked up in 2Q versus 1Q. So if you could just give some color
+                    whether going forward we can see more sequential decline and is there some
+                    positive development in Asia next of the customer decline?
+
+
+Sachin Tikekar:     Hi, Rishabh, this is Sachin Tikekar. So the 2 clients where we have seen a
+                    sharp decline, one happens to be in Japan which is part of JKC and the other
+                    one is in Europe. And it's primarily because of these two clients you see
+                    degrowth in the 2 respective geographies. There is growth in Americas as you
+                    can see in the US quarter-on-quarter, year-on-year. SIMA, which we split
+                    from Asia. So Asia has 2 parts, one is JKC, Japan, Korea, China.
+
+
+                    The other part is, Southeast Asia, India, Middle East. And that's where we
+                    again see growth, primarily driven by, fairly, well-rounded growth, primarily
+                    driven by India in, in SIMA. So, the way to look at, the split is, the issue is
+                    actually with these 2 OEMs where the revenue has gone down by more than
+                    13%.
+
+
+                    And we do believe that in the next couple of quarters that both these clients
+                    will bottom out. And till that time, there is an opportunity for us to bring
+                    broad-based, more resilient growth and what we mean by that is the growth
+                    will happen. A: In existing clients of passenger cars, in new clients that we
+                    have picked up in passenger cars. B: More clients in off-highway.
+
+
+                    So one is, last quarter we announced one software-defined machine kind of
+                    an engagement with one OEM. Now there are 2 consulting engagements in
+                    SDM, 2 additional ones. And usually consulting one, all going well, they lead
+                    to actual SDM program. So positive development on off-highway as well.
+
+
+                                        Page 5 of 20
+
+                                                                        KPIT Technologies Limited
+                                                                                October 28, 2026
+
+                  The truck market, if you really see, has been kind of very sluggish for the last
+                  several quarters. Finally, in the US, it's showing signs of growth. So we believe
+                  that trucks both in Europe as well as in America, specifically in the US, will
+                  see some growth. On the other side, besides the 2 clients where we have seen
+                  sharp decline, there are headwinds in Europe when it comes to PASSCAR
+                  OEMs. They continue to struggle.
+
+
+                  However, from KPIT's perspective, except for the one we have seen where we
+                  have seen sharp decline, there is an opportunity in the other OEMs because
+                  they are struggling. And, we have an increasing footprint there. We have an
+                  opportunity to really do consolidation and create efficiencies for them. So
+                  that's how actually we see all these opportunities unfolding for us going
+                  forward.
+
+
+Rishabh Rathi:    Got it. Right. So just to follow up on that, when you mentioned since the
+                  European passenger car OEMs are struggling and we see an opportunity here,
+                  is there a changing trend wherein the OEMs are starting to spend back again
+                  or are they still in a wait-and-watch period trying to decide on their strategy
+                  before finalizing their next steps, if any update you can give on that?
+
+
+Sachin Tikekar:   Yes, actually all the PASSCAR OEMs in Europe are looking to further cut their
+                  costs dramatically as their margins continue to drop, as they drop their
+                  market share specifically in China. So but that's also an opportunity, they have
+                  many partners that are actually in Europe and some other partners where
+                  things are just not viable or efficient.
+
+
+                  So given our solutions and Kishor talked about, AI-led transformation, we
+                  believe that there is an opportunity for us to disrupt the current economics
+                  and create value for them in spite of declining spend.
+
+
+Rishabh Rathi:    Right, sir. And just one last question. Since you talked about the changing
+                  strategy around products, increasing wallet share, providing more solutions,
+                  we have seen our fixed price contracts also go up to 71% now, R&D spend also
+                  increasing. Are there any metrics we can track or the company is internally
+                  tracking with respect to the successful transition towards this strategy? Any,
+                  any updates you can give around that?
+
+
+Kishor Patil:     Yes, I think, right now we will talk about revenues in some way of these parts
+                  which I shared with you, what are the revenues. But, by Q4, I mean, for sure
+                  when we talk about next year, we will give you clearly the parameters which
+                  we will track internally and we are driving internally. So it will give us 2 -3
+                  quarters to look at them.
+
+
+Sachin Tikekar:   So going forward, in nutshell, what will be critical to our strategy is the
+                  vertical-wise growth, PASSCAR, trucks and off-highway. This is something
+
+                                       Page 6 of 20
+
+                                                                         KPIT Technologies Limited
+                                                                                 October 28, 2026
+
+                  that we are watching very carefully. The product revenues and, solution
+                  revenues, and last but not the least, what Kishor talked about is AI
+                  transformation.
+
+
+Rishabh Rathi:    Got it. Great. Thank you so much and all the best.
+
+
+Sachin Tikekar:   Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Ravi from Axis Capital. Please go
+                  ahead.
+
+
+Ravi:             Hi, thanks for the opportunity and congrats on pretty good show in the US.
+                  Two reasons here. One, it would be good -- it's more a suggestion than a
+                  question really. It will be good if you could start sharing product revenue every
+                  quarter given that this is now starting to be a meaningful part of your revenue
+                  and in effects of margins. So, that would help us? Secondly in the US, I guess
+                  that the segmental margins have gone up significantly because of product
+                  revenue, is that right?
+
+
+Kishor Patil:     What was the first question.
+
+
+Ravi:             First was the suggestion saying, will you be able to share product revenues
+                  going forward?
+
+
+Kishor Patil:     Yes. So product revenues we will be in a position to share. And as I said,
+                  maybe next year we can come out with the more detailed reporting on that.
+                  But for US, I think overall the margins have gone up overall, but Chinmay, you
+                  can basically talk about it.
+
+
+Chinmay Pandit:   Yes. So, you are right. The margins have gone up across the existing
+                  engagements as well as some of the newer engagements which Mr. Tikekar
+                  referred to.
+
+
+Sachin Tikekar:   Yes, so overall in the US, there is a broad-based growth. We see that growth
+                  coming from all three verticals. Pass car are growing, off-highway is growing.
+                  We believe trucks will also grow and of course, there is the product sales.
+                  Yes, so it's a broad-based resilient growth that we are having.
+
+
+Kishor Patil:     And overall, Pass car market in the US has not been that impacted because
+                  it's a still a protected market. I think that is another part, I would say.
+
+
+Ravi:             Thank you. Yes, cash flow seems to have gone down a bit in the first half. I
+                  mean, compared to last year when we were doing, I think between 75%-80%
+                  over the first half. This time it's about 57%. I'm talking pre-tax operating cash
+                  flow EBITDA. So what's led to this?
+
+
+                                       Page 7 of 20
+
+                                                                        KPIT Technologies Limited
+                                                                                October 28, 2026
+
+Priya Hardikar:   There are a couple of reasons I think we've mentioned in our investor deck.
+                  There have been cash outflows on account of dividend, some acquisition
+                  payment that we did for Cymotive. And others, as you can see, our DSOs have
+                  gone up by a couple of days. That also has impacted the working capital cycle.
+
+
+Ravi:             Ma’am, only the DSO would impact the OCF. The other factor that you
+                  mentioned will actually not be in the operating cash flow, right?
+
+
+Priya Hardikar:   Yes. So but the fundamental reason is the working capital cycle that has gone
+                  up because of, increase in DSOs.
+
+
+Ravi:             All right. Okay, thank you. I'll get back into it.
+
+
+Rahul Jain:       Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Karan from PhillipCapital India.
+                  Please go ahead.
+
+
+Karan:            Yes, thanks for the opportunity. So just wanted to check in terms of the
+                  growth outlook for next few quarters, given that the headwinds will continue
+                  in 2 of our largest clients, but you are also positive on the pipeline. So how
+                  should we think about the growth from next few quarters perspective?
+
+
+Kishor Patil:     So, I think we have mentioned last time that H2 will be better than H1. I think
+                  we will maintain that. And we also feel confident that we'll make up for the
+                  drop from these clients with the broad-based growth strategy which we have.
+                  So these are the 2 things I can say. So there will be a growth, and both things
+                  which we have mentioned earlier, I would like to reiterate.
+
+
+Karan:            Okay. So last time, sir, you had mentioned that you should see some rebound
+                  from Q4 onwards. So is that outlook intact?
+
+
+Kishor Patil:     So we expect growth, and we will not be in a position to put any numbers
+                  now, but we expect growth in that quarter.
+
+
+Karan:            Got it. Second question is on the CV. So CV segment has been growing quite
+                  strongly for us for last 4 to 5 quarters. Is the growth broad-based in this
+                  segment or it's concentrated in 1 or 2 large accounts? And also is the growth
+                  sustainable over the medium term within this?
+
+
+Sachin Tikekar:   Yes, so CV, when we look at CV we look at it in 2 verticals, one is off-highway,
+                  mostly construction, mining. And second is trucks. So so off-highway is
+                  somewhat new to us, so we already have 3 clients and we're adding 2 more.
+                  So right now, of course, it's concentrated at the beginning on the back of 3
+                  clients, but it's becoming more broad-based.
+
+
+                                       Page 8 of 20
+
+                                                                         KPIT Technologies Limited
+                                                                                 October 28, 2026
+
+                  So we believe that there is going to be growth, you know, there is going to be
+                  increasing revenue over the midterm in off-highway, absolutely no two ways
+                  about it. The second part is on trucks. We've been in trucks a little bit longer
+                  and the market is also coming back in terms of especially in North America.
+
+
+                  So we believe that the business in trucks will also pick up in the immediate
+                  quarters to follow. And that should also give us reasonable growth over a
+                  period of time. Both are not going to be one-off things that are only there for
+                  a year or 2. We believe that they are going to be contributing to our top line
+                  and bottom line increasingly going forward,
+
+
+Kishor Patil:     Especially they are going through the change or transformation which pass
+                  car went through 4 years back. I think, so that's why we believe that their
+                  spend will go up as Mr. Tikekar mentioned, and we have that opportunity.
+                  Because one, , as you know, the SDV, we probably have the maximum
+                  experience which they are looking for, plus now the transformation to AIDV.
+                  So I think we will be in a better position to address that.
+
+
+Karan:            Okay, thanks. This last question on the margins front. So, as the growth
+                  accelerates by H2, do you expect margins to go back to, let's say, 20-21%
+                  range EBITDA which we used to operate at? And what would be the
+                  headwinds and tailwinds you foresee?
+
+
+Kishor Patil:     I can only say right now it will go up to some extent, every quarter, but, it will
+                  be early next year when we get there.
+
+
+Karan:            Okay, thanks a lot, sir, and all the best.
+
+
+Sachin Tikekar:   Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Nitin from Investec. Please go
+                  ahead.
+
+
+Nitin:            Yes, hi, good evening. Thank you for the opportunity. So 2 things from us. So
+                  the first is, is it fair to say that the incremental drag from these 2 customers
+                  should be significantly lower in H2 versus H1? And second, as we move beyond
+                  it, do you think that these customers can start aiding growth or they will
+                  continue to remain some sort of a drag on growth?
+
+
+Sachin Tikekar:   Nitin, you're putting us on the spot by saying that, but you know, in all
+                  fairness, I think they will see quite a bit of declines in these 2 OEMs over the
+                  next couple of quarters, but they will bottom out in the next couple of
+                  quarters. While we are specifically talking about these two accounts, while
+                  we are degrowing substantially because the large programs got cancelled.
+
+
+
+
+                                       Page 9 of 20
+
+                                                                         KPIT Technologies Limited
+                                                                                 October 28, 2026
+
+                  There are shoots where we are actually engaging and we are increasing our
+                  footprint. To answer your question, of course, there will be some growth that
+                  is taking place and there will be growth that will come back in early part of
+                  next year. It's just that after what they've been through, right now, it's going
+                  to be gradual. So I hope that answers your first question. What was the
+                  second part of the question?
+
+
+Nitin:            Yes, the second part was, do you believe that once they've sort of bottomed
+                  out those same customers, do you think they can start growing or do you
+                  think they will continue to be a drag on growth for a while?
+
+
+Sachin Tikekar:   They are 2 of our largest clients. We have deep relationships. There is
+                  tremendous amount of trust and we're actually expanding our footprint there.
+                  Beyond just 1 or maybe 2 or 3 offerings, we're really making it broad-based
+                  growth going forward, Nitin.
+
+
+Nitin:            Got it. That's very helpful. Apart from that, just wanted some context to the
+                  Vietnam subsidiary that you have put up and which markets are it looking to
+                  serve. And any incremental context you could give to the incremental
+                  opportunity you're seeing in Japan, Korea, China, and SIMA, basically. What is
+                  it that you're seeing incrementally in those two?
+
+
+Sachin Tikekar:   Yes. You're hitting all the opportunities of growth for us, Nitin. So, let's start
+                  with Vietnam. There are 2 reasons why we are doubling down our investments
+                  in Vietnam. Number one, there is an OEM that we've been working with, and
+                  we think that our footprint with that OEM will grow in Vietnam. Number 2, we
+                  are actually building a centre along with one large Chinese Tier 1. It's a
+                  subsidiary of one of the largest OEMs in China. So we are partnering with
+                  them to build a centre in Vietnam that will deliver the China OEM's global
+                  program outside of China. So that's another reason we are there.
+
+
+                  We'll see more and more of the Chinese OEMs setting up their manufacturing
+                  footprint in Vietnam, and they also create opportunities for us. So, one is the
+                  business development part. We believe that there will be growth in terms of
+                  getting business from Vietnam.
+
+
+                  The second reason is the conducive business environment in Vietnam, as well
+                  as the talent availability. So Vietnam over a period of time will become our
+                  sort of hub for Southeast Asia, because it's close enough to China to learn
+                  the technologies and take them out. But at the same time, there is a Chinese
+                  wall, so to speak, between China and Vietnam. So that's about Vietnam.
+
+
+                  Second part, JKC, 3 countries you talked about. We see growth coming from
+                  one pass car OEM. I'm talking about Korea first. One pass car OEM, we
+                  continue to grow slow, gradual, but there is growth. And then there is one
+
+                                      Page 10 of 20
+
+                                                      KPIT Technologies Limited
+                                                              October 28, 2026
+
+off-highway OEM with whom we have one consulting engagement for SDM,
+and they're committed to this SDM program being launched next year. And I
+think we'll be in a decent position to win that as well. So that's about Korea
+focus on 2.
+
+
+And then there is the Korea ecosystem is also important. There is a chipmaker
+and some Tier 1s with whom we can have partnerships in Korea. So, midterm
+we should see growth in Korea, number one. Number 2, Japan. Japan, our
+growth is going to be broad-based. So this will go beyond one OEM that was
+one of our largest, clients. We'll bring back small growth there. But there is,
+one, another OEM with whom we are increasing our engagements.
+
+
+There is also a truck OEM with whom we've started conversations and I think
+we'll figure out ways of getting into 1 to 2 off-highway players in Japan. Over
+and above that both for the large to pass car OEMs they have a solid Tier 1
+ecosystem with whom also we'll have partnership. So then there is one Tier 1
+that has been part of our T25, that continues to grow, especially in the digital
+cockpit space.
+
+
+So again, in Japan, what you'll see is broad-based growth. It's not going to be
+driven by one account going forward. It'll take time, but we'll get there. China,
+3 things about China. One, China for China. We have started working with one
+China OEM and 2 China Tier 1s in China as we speak. We continue to sell and
+increase our footprint of Technica products in China. So these are the 2 things
+that we are doing in China.
+
+
+Second part we are doing in China, which I made a reference to when I talked
+about Vietnam, which is what do we do with Chinese OEMs and Tier 1 outside
+of China. So the Vietnam centre we talked about. Second is there are 3 OEMs
+in Europe, Chinese OEMs in Europe, who want to increase their footprint,
+initial conversations with them. And one thing that we are really proud of is
+Zeekr, which is part of Geely Group. We have put our N-Dream in car gaming
+in there. So, again, that's for the global market. So, happy to see that win
+coming.
+
+
+So these are the 2 main levers. And third lever is to learn from China and
+apply those learnings globally. So you'll see more and more influence on our
+solutions coming from China going forward, especially solutions that we will
+build for SIMA, Southeast Asia, India, and Middle East market, right, and
+possibly beyond that. So that makes our China strategy clear. So that's about
+JKC.
+
+
+Last but not the least is SIMA, Southeast Asia, India, and Middle East. India is
+our growth market. Bulk of the growth that you've seen year-on-year,
+quarter-on-quarter, has come from India, from pass cars, trucks and off-
+
+                   Page 11 of 20
+
+                                                                      KPIT Technologies Limited
+                                                                              October 28, 2026
+
+                highway. Some are Indian OEMs, some are global OEMs who are increasing
+                their footprint in India, right? So India is a very broad-based, robust growth,
+                it'll continue to grow.
+
+
+                Southeast Asia is primarily Vietnam that we talked about. And in Middle East,
+                there are 2 OEMs. One has had just launched one car. So we hope to start
+                some engagement with at least one in the next, 1 to 2 quarters, and maybe
+                the second one will also come on board. So, we do believe that SIMA offers
+                the largest opportunity for growth for us. That's one of the reasons why we
+                decided to separate SIMA from all of Asia.
+
+
+Kishor Patil:   Yes. And also adjacencies, I think this will be the market we'll go first. So I
+                think from that perspective, that will also accelerate our growth in the, SIMA
+                region.
+
+
+Nitin:          Sure, very useful, and thank you for the broad answer. I just had 2 more quick
+                ones, if I may. One is, do you believe that, in the context of whatever you said
+                initially, on Europe, do you believe next year will be the year where we see a
+                lot of vendor consolidations close in Europe? And, 2, just your thoughts on
+                when do you think the losses from QORIX sort of bottom out and start
+                showing up? So that's all from my end.
+
+
+Kishor Patil:   So, I believe by the end of first quarter next year, the consolidation process
+                will be meaningfully concluded, is what I think. It has started to some extent
+                and it will get some time to conclude for different players accordingly. So yes,
+                so next year it will see some impact.
+
+
+                On the QORIX side, I must say that the programs which were supposed to
+                come have , been pushed out by a couple of years. And, so from that
+                perspective, we are looking at what we can do for a few other adjacencies ,
+                and also some of the other small products, the we have, and how we can get
+                revenues till that time.
+
+
+                We do believe that, strategically, it will make significant sense in the medium
+                term, and that's why we will continue to really see some investments in some
+                way in the product. Anup, you want to add some?
+
+
+Anup Sable:     The main reason is, most of the programs, which were what they call as Gen
+                4 for most of the OEMs were supposed to happen in 2028. Those are mostly
+                scheduled to happen by 2029-'30 now. And so the mainstream market for the
+                main product for QORIX, which is largely a performance product that goes in
+                the middleware, the timeline has just shifted.
+
+
+Nitin:          Sure, that's super helpful. Thank you so much everyone and all the very best.
+
+
+
+                                    Page 12 of 20
+
+                                                                        KPIT Technologies Limited
+                                                                                October 28, 2026
+
+Anup Sable:       Thank you.
+
+
+Sachin Tikekar:   Thank you, Nitin.
+
+
+Moderator:        Thank you. Next question is from the line of Ankur from IIFL. Please go ahead.
+
+
+Ankur:            Hi, thank you for taking my questions. So my first question is around the fact
+                  that last quarter we had seen some large OEMs, and you had an impact
+                  because of sudden actions from them on the back of profitability warnings
+                  that they had issued.
+
+
+                  Are we behind that phase now, where the only, headwind is probably because
+                  of the larger clients, and that sudden impact is not something that you have
+                  seen in 2Q? That's my first question.
+
+
+Sachin Tikekar:   So Ankur, we covered this part. The 2 OEMs, there is continued impact from
+                  them and we'll see that for the next couple of quarters and at the end of that
+                  they will bottom out. At the same time we're also seeing initial green shoots
+                  of growth in other areas with these OEMs. They continue to be our strategic
+                  clients and we'll rebuild the relationship one step at a time. So, Yes, they will
+                  bottom out in next couple of quarters and we'll have a little bit of growth
+                  coming from there.
+
+
+Kishor Patil:     But in the meantime, what we mentioned, we will be in a position to more
+                  than make up for this , during this time from the broad-based growth strategy
+                  we talked about.
+
+
+Ankur:            Yes, thank you. And my second question is on the strong momentum in the
+                  CV segment. Now, this quarter we've seen very strong growth, and to sustain
+                  growth on the overall front, we need to at least have double-digit growth
+                  from this segment. So, do we have the visibility for having that kind of a
+                  double-digit growth in the CV segment through the rest of the year?
+
+
+Sachin Tikekar:   So, I think the way to look at it, Ankur, we talked about it, right? We believe
+                  that Off-highway and trucks both are important. We are adding new clients.
+                  We are getting into more meaningful engagements with them, as Mr. Patil
+                  mentioned earlier on. Both the off-highway and truck segments are embarking
+                  on their first SDM/SDV programs and KPIT is in a great place to run these
+                  programs for them, to create value for them. So, we will see continued growth
+                  from trucks and off-highway hopefully for years to come in future. We can't
+                  really comment specifically on how much growth there will be, but it will be
+                  healthier growth.
+
+
+Ankur:            So just reiterating, you do expect growth in both 3Q and 4Q on the headline
+                  basis. That was the comment, right?
+
+
+                                      Page 13 of 20
+
+                                                                            KPIT Technologies Limited
+                                                                                    October 28, 2026
+
+Sunil Phansalkar :   So, what we have said earlier this is what we reiterate and we continue that.
+                     We have said that H2 is going to be better than H1 and that is what we
+                     maintain.
+
+
+Ankur:               Thank you so much. All the best.
+
+
+Kishor Patil:        Thank you.
+
+
+Moderator:           Thank you. Next question is from the line of CA Garvit from Serene Alpha.
+                     Please go ahead.
+
+
+Garvit:              Hi, good evening and thanks for the opportunity. I just wanted to understand
+                     our exact strategy on when you say we are, we will still be creating the value
+                     for the existing European OEM particularly when you are seeing that those
+                     OEMs are significantly cutting off the cost even now. So, in the declining
+                     budget, how we are expecting to get the business from them?
+
+
+Kishor Patil:        See, there are two, three things. First, I think I mentioned itin my opening
+                     comments. First is the technology spending is not a discretionary for the
+                     OEMs beyond a point. I mean, they have to do it. How they do it is the only
+                     option they have. And as we see European OEMs, they had their European
+                     ecosystem. They are looking to move towards India, almost all the OEMs.
+                     that is one.
+
+
+                     But the second important part, it is not just the cost play. It is about the
+                     technology which you have, the solutions you have and AI native part of the
+                     nature. So, these are the three very important part. And I think these three
+                     things will help them to reduce cost and have more I would say differentiated
+                     solutions. While their overall spend will go down, but it could substantially
+                     increase our footprint in these clients. So, that's basically the reason what we
+                     talked about.
+
+
+Garvit:              Got it, sir. That's it from my side. So, thank you. All the best for the future.
+
+
+Kishor Patil:        Thank you.
+
+
+Moderator:           Next question is from the line of Sandeep Shah from Equirus Securities.
+                     Please go ahead.
+
+
+Sandeep Shah:        Yes, thanks. Thanks. Most of the questions have been answered. Just one
+                     question. If you look at Europe as a market within passenger vehicle, apart
+                     from the top OEM, which we have defined, may take 2 more quarters to
+                     bottom out. Is there any other similar risk in any of the other clinets? Are we
+                     forcing? Just update on this.
+
+
+
+
+                                         Page 14 of 20
+
+                                                                          KPIT Technologies Limited
+                                                                                  October 28, 2026
+
+Sachin Tikekar:     No, I think it's a valid question, Sandeep. You know, our footprint in other
+                    passenger vehicle OEMs in Europe is growing. So, while we believe that there
+                    are probably ways for us to grow, but I think our strategy, essentially, going
+                    by our experience with the top two OEMs, is defend and grow.
+
+
+                    So first, what we are doing is we are making sure that we reinforce our own
+                    business. So, we are actually disrupting our own business to create more
+                    value so that we don't get disrupted by them. And then secondly, then figure
+                    out ways to increase our wallet share. This is our strategy when it comes to
+                    other passenger vehicle OEMs in Europe. We have engagements with all of
+                    them.
+
+
+                    That's the good thing. And we believe that there could be added opportunities
+                    where we have less of a footprint. Some of these are new to us. We believe
+                    that there could be, as Mr. Patil talked about, as the supplier consolidation
+                    and value creation comes out, on the back of AI transformation, there is an
+                    opportunity for us to disrupt their existing model and create a lot of value for
+                    them. This is something that we are working on now, but you'll see the actual
+                    impact of it in H1 of next year.
+
+
+Sandeep Shah:       Okay, thanks. Thanks and all the best.
+
+
+Management:         Thank you, Sandeep.
+
+
+Moderator:          Thank you. Next question is from the line of Rahul Jain from Dolat Capital.
+                    Please go ahead.
+
+
+Rahul Jain:         Hi. Thanks for the opportunity. Just wanted to understand, you know, we
+                    understand the challenges in general that you have highlighted, but are there
+                    any important trends that are changing in the industry, which some
+                    companies need, around AI, like a conversation in car AI is one trend, and
+                    maybe on the battery efficiency side, like we saw with what Tesla recently
+                    announced and all that. Are there any part where dispense might come, get
+                    revived faster because of some of the industry compulsion that might play
+                    out?
+
+
+Sunil Phansalkar:   you are breaking up in between.
+
+
+Sunil Phansalkar:   His question is, are there any major industry trends, which actually may
+                    accelerate growth?
+
+
+Sachin Tikekar :    See, I think we have to understand in Europe, the spend will continue to go
+                    down because they really have to figure out their costing, but they will
+                    prioritize the spend. You know, we know that the spend in digital cockpit
+
+
+
+
+                                        Page 15 of 20
+
+                                                                     KPIT Technologies Limited
+                                                                             October 28, 2026
+
+                continues to be high, comparatively speaking. In diagnostics or their updates,
+                after sales transformation, there is a spend.
+
+
+                Ongoing   threats    with cybersecurity,   there will   be added    focus   on
+                cybersecurity. These are the areas. And of course, if you look at the broader
+                trend of autonomous driving, it kind of went on a back burner right after
+                COVID for two or three years, but now it has rebounded substantially. NOA
+                has sort of navigational on autonomy has become a standard in China, will
+                become somewhat of a standard in Europe as well as in the US.
+
+
+                And then there are added investments by some of the new companies into
+                robo taxis. So there is that spend. So, these are the areas where there is
+                whatever budget they have, more budget is being allocated to these areas.
+                Fortunately for us, we have footprint in all of these areas. So we look forward
+                to capitalizing on our strengths to increase our wallet share.
+
+
+Kishor Patil:   I think there is one area which we talked about is the products, which is
+                where specifically in the area of validation, which is a very important part,
+                both from the quality perspective as well as reduced time. And overall, many
+                of our products are in that line. So overall, over the product portfolio is one
+                area which may accelerate the spend, I mean, capturing that spend.
+
+
+Rahul Jain:     Yes, I understand. Of course, you guys have been talking about it, but it's a
+                very mission critical decision. Probably that may take more time in the
+                thought process. Thanks for the color. Secondly, I mean, we of course are
+                talking about that growth might start turning better starting Q4?
+
+
+                But from the current base of cost that we have, do we see there is some
+                room of optimization because probably this company was designed for a
+                much higher growth. And we will go back to that kind of number. But in the
+                interim, do we see a need of some correction in some of the aspect in our
+                current cost base?
+
+
+Kishor Patil:   So absolutely, there is such opportunity. And mainly because of the change.
+                First, what we want to do is basically with AI and the products. The second
+                thing is what the customers are looking for. As we mentioned, the European
+                players also are looking at doing more work remotely than onsite, which they
+                have been used to.
+
+
+                So certainly, our mix may change in terms of our capacity, which has been in
+                certain different centres from high cost to low cost kind of centres, more on
+                the capability side and expectations. We will never optimize our technology
+                investments and the teams which we have. But the client engagement team,
+                the mix may change depending upon what the clients are looking for. So that's
+                something we have started optimizing and we will optimize.
+
+                                     Page 16 of 20
+
+                                                                         KPIT Technologies Limited
+                                                                                 October 28, 2026
+
+Rahul Jain:        Sure. And lastly, on the comment that we mentioned on the losses in the
+                   Qorix business. So, is there a way we are thinking about it that where it could
+                   stabilize on an annualized basis or any other color that you could give on
+                   that?
+
+
+Kishor Patil:      It will take some time for sure. It is not something we can fix, but there are a
+                   few other ways we are looking at one. I mean, we are in the exploration stage,
+                   as I said, one is the adjacency where I mean, it's something like robotics or
+                   some of these areas where these operating systems may be adopted.
+
+
+                   But we still need some time to explore that and ensure that that's how it will
+                   happen. The second thing is we can look at some more partners in that area
+                   to see to drive the growth in a more strategic manner. These are a couple of
+                   options we'll explore, but that will get to that. We will know in the course of
+                   time.
+
+
+Rahul Jain:        Thanks for those insights. Those are the questions.
+
+
+Moderator:         Thank you. Next question is from the line of Vaibhav Yadav from Tradenest.
+                   Please go ahead.
+
+
+Vaibhav Yadav:     Good evening and thank you for the opportunity. My question relates to the
+                   recovery outlook. Given the persistent weakness in the European automotive
+                   market, does management anticipate any change to its previously indicated
+                   recovery timeline or is there a possibility that the recovery could be delayed
+                   further? Thank you.
+
+
+Sachin Tikekar:    All right. Here is the thing. There are two aspects, right? So, when you say
+                   recovery, there is recovery for KPIT and then there is recovery for European
+                   pass car.
+
+
+Vaibhav Yadav:     Recovery for both, sir.
+
+
+Sachin Tikekar :   Yes, so let me talk about both. First, we'll talk about the industry. So, there
+                   is it's going to be a very long-drawn recovery for European auto OEMs. There
+                   is continued pressure and it is going to go on for a while. Like I mentioned
+                   earlier on, while it's going to take some time, they will prioritize investments
+                   in certain areas and we called out those investments and that's where we see
+                   opportunities for KPIT.
+
+
+                   So, A, in pass car, there is going to be a long-run recovery for European OEMs.
+                   In trucks and off-highway, that's not the case. We are seeing trucks coming
+                   back slowly, off-highway continue to do reasonably well. So, this is the
+                   industry outlook in Europe. What it means to KPIT, we have taken a big haircut
+
+
+
+
+                                      Page 17 of 20
+
+                                                                      KPIT Technologies Limited
+                                                                              October 28, 2026
+
+                 in Europe, especially for one client in the recent past. and that will bottom
+                 out in the next couple of quarters.
+
+
+                 After that, as Mr. Patil mentioned, there are enough opportunities for KPIT to
+                 grow within passenger cars market given that they'll have to do everything
+                 cheaper, better, faster. Given our products, given our AI led transformation,
+                 we believe that as the consolidation kicks in towards the end of the year, that
+                 will materialize in H1 of next year, that creates opportunities for KPIT to grow
+                 in European passenger car market.
+
+
+Vaibhav Yadav:   Thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Gokul from BTH Capital. Please
+                 go ahead.
+
+
+Gokul:           Thanks for taking my question. I just wanted to understand firstly on the off-
+                 highway segment that you mentioned in the beginning of the call also that
+                 this is a new segment for us and we just started signing new clients here. So,
+                 just want to understand how different is this in terms of scope of work you
+                 know from the passenger vehicle where we have our expertise and any other
+                 nuances that you can share with respect to what kind of margins we have
+                 here or you know there's a visible market, how sticky are the revenues? So,
+                 any color that you can share in this segment that will help us understand you
+                 know the sustainability of this vertical better, that would help?
+
+
+Anup Sable:      So, if you look at what the transformation this particular industry is looking
+                 forward is exactly following on the lines of what passenger car went through
+                 in terms of the SDV change. The language used is different. It is called
+                 software-defined machines rather than software-defined vehicle. But the
+                 fundamental technology is the same.
+
+
+                 And in fact, we stand at a very strong position here because not only we have
+                 the experience that we have from SDV in the vehicles, but we also have you
+                 know, fairly advanced solutions and whatever work we have done through AI
+                 now to accelerate these programs. And that is the reason why we stand as
+                 the most favourite partner to do these transformations.
+
+
+Gokul:           Right. And in terms of like your segment where you classify it as feature
+                 development and integration architecture, cloud-based, etcetera. Any mix
+                 that you can give us within commercial for that?
+
+
+Anup Sable :     It is exactly the same thing. I think there will be few things that may not be
+                 relevant. For example, the cockpit experience for an off-highway vehicle may
+                 be slightly different, but from a technology perspective, it doesn't make any
+                 difference right now. Most of the head unit or a cockpit experience is built
+
+
+                                    Page 18 of 20
+
+                                                                          KPIT Technologies Limited
+                                                                                  October 28, 2026
+
+                     upon Android, most of the other things are built upon body electronics, most
+                     of the architecture is central zonal. So, all the elements on technology remain
+                     the same. So, we are very comfortable and we can actually demonstrate a
+                     great value to the customer bringing in all the technology.
+
+
+Kishor Patil:        So, we'll see growth in all three segments. The architecture, feature
+                     development, integration, diagnostics       and aftermarket. So, there is
+                     opportunity in all three.
+
+
+Gokul:               Got it. And secondly, wanted to understand your employee base. I understand
+                     in the last couple of years has been stagnant if I'm not wrong and uh so just
+                     want to understand going forward also, do we given that our revenue share
+                     from fixed price is also increasing, do we expect there to be some operating
+                     leverage here whenever this recovery happens in Europe and the rest of our
+                     geographies, we will see employee cost not rise as in proportion to our
+                     revenues. Like do we expect to add meaningfully the head count you know
+                     going forward?
+
+
+Kishor Patil:        That for sure will happen for the products and solution and as we talked
+                     about our fixed price projects, I think there is AI leverage. I think these are
+                     the three things which we have in terms of increasing revenues for us. But it
+                     won't be for all the customers because it also depends upon the adaptability
+                     of the clients for certain technology and ability to manage those
+                     engagements.
+
+
+Gokul:               Right. I want the thing you mentioned two new adjacencies, one was energy,
+                     what was the other one?
+
+
+Sunil Phansalkar:    Energy tech and deep tech.
+
+
+Gokul:               Deep tech. Okay. Thank you.
+
+
+Kishor Patil:        Thank you.
+
+
+Moderator:           Thank you. That was the last question for today. I now hand the conference
+                     over to the management for closing comments.
+
+
+Sunil Phansalkar :   So, thank you everyone for your active participation and have a great evening
+                     ahead. Bye.
+
+
+Sachin Tikekar:      Thank you everyone.
+
+
+Management:          Thank you. Bye-bye.
+
+
+
+
+                                         Page 19 of 20
+
+                                                                KPIT Technologies Limited
+                                                                        October 28, 2026
+
+Moderator:   Thank you. On behalf of Dolat Capital, that concludes this conference. Thank
+             you for joining us and you may now disconnect your lines.
+
+
+
+
+                               Page 20 of 20
+

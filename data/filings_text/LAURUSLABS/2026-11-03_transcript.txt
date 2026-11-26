@@ -1,0 +1,1273 @@
+                                                                                        November 03, 2026
+
+ To                                                    To
+
+ The Corporate Relations Department                    The Listing Department
+ BSE Limited                                           National Stock Exchange of India Ltd.,
+ Phiroze Jeejeebhoy Towers,                            Exchange Plaza,
+ Dalal Street,                                         Bandra Kurla Complex, Bandra (E),
+ Mumbai – 400 001                                      Mumbai – 400 051
+
+ Code: 540222                                          Code: LAURUSLABS
+
+Dear Sir / Madam,
+
+Sub: Transcript of the Q2 FY '27 Results Conference Call hosted on October 29, 2026
+
+Pursuant to Regulation 30 & 46 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 and with reference to our results conference call intimation dated October 13, 2026, please be informed
+that the results conference call for Q2 FY27 was hosted on October 29, 2026 and the transcript of the
+conference call is enclosed herewith.
+
+This is for your information and records.
+
+Thanking You.
+
+Yours faithfully,
+For Laurus Labs Limited
+VENKATESWA Digitally signed by
+           VENKATESWAR REDDY
+R REDDY    GOGIREDDY
+           Date: 2026.11.03
+GOGIREDDY 11:29:25 +05'30'
+G. Venkateswar Reddy
+Company Secretary & Compliance Officer
+
+Encl: A/a
+
+                 “Laurus Labs Limited
+          Q2 FY27 Earnings Conference Call”
+                    October 29, 2026
+
+
+
+
+MANAGEMENT: DR. SATYANARAYANA CHAVA – FOUNDER AND
+            CHIEF EXECUTIVE OFFICER – LAURUS LABS LIMITED
+            MR. V. V. RAVI KUMAR – EXECUTIVE DIRECTOR AND
+            CHIEF FINANCIAL OFFICER – LAURUS LABS LIMITED
+            MR. KRISHNA CHAITANYA CHAVA – EXECUTIVE
+            DIRECTOR, HEAD CDMO – LAURUS LABS LIMITED
+            MRS. SOUMYA CHAVA – EXECUTIVE DIRECTOR
+            AFFORDABLE MEDICINES AND COMMERCIAL –
+            LAURUS LABS LIMITED
+            MR. VIVEK KUMAR – ASSISTANT VICE PRESIDENT –
+            INVESTOR RELATIONS – LAURUS LABS LIMITED
+
+MODERATOR:   MR. NITIN AGARWAL – DAM CAPITAL ADVISORS
+             LIMITED
+
+
+
+
+                         Page 1 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+Moderator:             Ladies and gentlemen, good day, and welcome to Laurus Labs Q2 FY27 Earnings Conference
+                       Call hosted by DAM Capital Ltd. As a reminder, all participant lines will be in the listen-only
+                       mode and there will be an opportunity for you to ask questions after the presentation concludes.
+                       Should you need assistance during the conference call, please signal an operator by pressing star
+                       then zero on your touch-tone phone. Please note that this conference is being recorded.
+
+
+                       I now hand the conference over to Mr. Nitin Agarwal from DAM Capital Advisors Limited.
+                       Please go ahead, sir.
+
+
+Nitin Agarwal:         Thank you. Good afternoon, everyone, and a very warm welcome to Laurus Labs Q2 FY27
+                       Earnings Call hosted by DAM Capital Advisors Limited. On the call today, we have representing
+                       Laurus Labs management are, Dr. Satyanarayana Chava, Founder and CEO; Mr. V. V. Ravi
+                       Kumar, Executive Director and CFO; Mr. Krishna Chaitanya Chava, ED, Head CDMO; Mrs.
+                       Soumya Chava, ED, Affordable Medicines and Commercial; and Mr. Vivek Kumar, AVP,
+                       Investor Relations.
+
+
+                       Before we proceed, I would like to remind you that some of the statements made during the call
+                       today could be forward-looking in nature, and a safe harbor statement to this effect has been
+                       included in the press release that has been shared on the company's website.
+
+
+                       I hand over the call to Dr. Chava to make the opening comments, and then we'll open the floor
+                       for questions. Please go ahead, sir.
+
+
+Satyanarayana Chava:   Thanks, Nitin. Good afternoon to all our stakeholders. We are pleased with the substantial
+                       progress company making across various business segments. We continue to report strong
+                       growth in CDMO business, steady momentum in affordable medicine portfolio because of our
+                       major advancement in our partners' clinical and commercial programs.
+
+
+                       The strong performance reflects sustainable robust demand for our specialized capabilities,
+                       integrated offerings, depth of our customer relationships and disciplined operational execution
+                       by our team. In line with our accelerating transformation strategy, we are actively investing into
+                       building scientific capabilities and capacities across complex and new modalities.
+
+
+                       The company's total reactor volume for small molecules API in operation has now reached over
+                       9,000 kiloliters, and we will continue to expand further. We are also pleased to highlight some
+                       of the important disclosures we have made in this quarter's investor presentation on the
+                       advancements we are making in our integrated peptide CDMO capability.
+
+
+                       We commissioned commercial-scale peptide manufacturing block. Our current reactor volume
+                       for solid-phase peptide synthesis is over 16,000 liters, and we have taken up a significant further
+                       expansions to meet diverse program requirements. We continue to strengthen the capacity of
+                       liquid-phase peptide synthesis and several new technologies.
+
+
+                       We are also augmenting our capacity through disciplined business development. During the
+                       quarter, we have announced investment into 2 technology platform companies. The one is an
+
+
+                                                Page 2 of 20
+
+                                                                                          Laurus Labs Limited
+                                                                                             October 29, 2026
+
+
+                 agreement to acquire majority 60% stake in Canada-based Galenvs Sciences, specializing in
+                 oligonucleotides and precision magnetic nanoparticles-based purification.
+
+
+                 By leveraging Galenvs's expertise in early-stage oligo projects, process development,
+                 conjugation, advance purification and fill finish, along with Laurus's large-scale expertise in
+                 complex chemistry, we intend to support clients with seamless journey from complex RNA
+                 DNA-based therapies as a one-stop solution. Together, this will expand Laurus's position to
+                 participate in emerging high-growth oligo market.
+
+
+                 Second is an acquisition of majority stake in SI & C Resins, a peptide resin technology-focused
+                 company based out of Hyderabad. This will allow us to enhance long-term supply security by
+                 in-sourcing critical solid support resins for peptide synthesis and also chromatography stationary
+                 phases for large-scale peptide purification. This will bolster Laurus's manufacturing
+                 competitiveness and reliability with our current and future partners' programs.
+
+
+                 These acquisitions are aimed to advance Laurus's integrated scientific capabilities under one
+                 roof. These acquisitions are strengthened by Laurus's quality infrastructure that will cater to
+                 more complex customized projects, along with significant increase in future therapeutic
+                 demands.
+
+
+                 Moving on to our financial results. Laurus has maintained its growth trajectory and once again
+                 delivered a record revenue and profits for quarter 2. Total revenues were INR2,206 crores,
+                 reflecting a continued strength of our CDMO platform, growing contribution from commercial-
+                 based supplies and ongoing momentum in Affordable medicines portfolio.
+
+
+                 Gross margins were also healthy and maintained at around 63%, and EBITDA margins further
+                 expanded over previous quarters by 2.7 percentage points to 34.5%. Our product mix and
+                 operating leverage continue to do well, supporting healthy margins overall.
+
+
+                 I would request Mr. Krishna Chaitanya to share key updates on our CDMO business.
+
+
+Krishna Chava:   Thank you. Coming to the small molecule CDMO, the business has continued to deliver robust
+                 operational execution in Q2, reporting an 86% growth with the sales of INR875 crores. For the
+                 first half of the current financial year, the division recorded INR1,710 crores. That equates to
+                 about 77% growth.
+
+
+                 This performance was driven by successful delivery of critical late-stage programs as well as
+                 commercial API supplies to multiple global partners. We also continue to see encouraging
+                 demand on the newly commissioned assets across both Human Health and Animal Health
+                 businesses, both in terms of the volumes and opportunities with existing partners as well as with
+                 new client engagements.
+
+
+                 The company remains focused on enhancing our core capabilities and capacities to better meet
+                 customer demand driven by continuous expansions. As Dr. Satya highlighted in the opening
+
+
+
+
+                                         Page 3 of 20
+
+                                                                                           Laurus Labs Limited
+                                                                                              October 29, 2026
+
+
+                remarks, we have commissioned our peptide manufacturing facility and our investment towards
+                other multiple large-scale API opportunities continues to take place in our Vizag site.
+
+
+                Strategically, we are elevating client collaboration on complex new modalities and our focus
+                remains on securing fully integrated projects, seamlessly supporting partners from preclinical
+                development going all the way to finished drug product services. Driven by this end-to-end
+                capability, our CDMO pipeline continues to expand.
+
+
+                We are adding clinical programs across a highly diversified mix of manufacturing technologies
+                as well as therapeutic indications. I would say with our capability expansion, deeper integration
+                and expanding pipeline, Laurus is well positioned to sustain a healthy business growth in the
+                coming years.
+
+
+                Now moving on to Laurus Bio. The Laurus Bio division reported a Q2 sales at INR29 crores.
+                And for the first half of this financial year, that is at INR64 crores. The year-over-year variation
+                is primarily due to the campaign phasing, though our underlying pipeline momentum remains
+                strong. We are actively increasing longer-term strategic relationships with our major customers
+                across both AOF as well as CDMO programs towards anchoring our future pipeline.
+
+
+                On the capacity front, our commercial fermentation facility, Laurus Bio 4 is progressing as
+                planned, and we expect this to be operational by the end of this year. And we are already
+                advancing on customer capacity reservations for this facility.
+
+
+                Now I would request Ms. Soumya Chava to share key updates on our affordable medicines
+                portfolio.
+
+
+Soumya Chava:   Yes. Thank you. Revenues from the affordable medicines stood at INR1,302 crores in Q2, which
+                represents a strong 15% year-on-year growth. For the first half of this financial year, we achieved
+                a healthy growth of 13%. This growth was driven by continued expansion of our order book
+                across various established portfolios, which was also supported by stable pricing in both our
+                ARV portfolio and developed market portfolios.
+
+
+                Looking ahead, we remain committed to investing in the business in line with evolving market
+                requirements. Our positive long-term outlook is underpinned by a robust pipeline of new product
+                launches, integrated CMO engagements and ongoing expansion of product registrations across
+                key emerging markets, which is creating new business opportunities for us.
+
+
+                I'm also pleased to report that despite the heightened global volatility, our supply chain has
+                demonstrated exceptional agility, enabling us to maintain highly reliable delivery performance
+                for all our global partners. With respect to our strategic KRKA joint venture, progress at the
+                formulation facility remains firmly on track.
+
+
+                The Phase 1 production blocks are scheduled to commence operations in mid-2027, which will
+                significantly enhance our commercial capabilities with a focus on high-potent and general OSD
+                manufacturing. On the filings front, we have cumulatively filed 92 DMFs to date. In developed
+
+
+                                         Page 4 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+                       market formulation business, we filed 2 dossiers and received 2 approvals during H1. Overall,
+                       we have cumulatively filed 96 products to date. Thank you.
+
+
+Satyanarayana Chava:   Thanks, Krishna, Soumya for the overview on CDMO and affordable medicine segments. On
+                       the R&D front, overall spending to sales for the first half of this financial year was at 4.3%,
+                       increased by over 34% year-on-year, which has been exceptionally high, primarily on account
+                       of capability development efforts for our gene therapy, ADC technology infrastructure. We
+                       maintain our commitment to invest in portfolios focusing on product complexity, scale and
+                       sustainable technology platforms.
+
+
+                       I would also like to share a brief on quality and ESG. In the first half, Laurus underwent 59
+                       quality audits by multiple drug regulatory agencies and key partners and has been successfully
+                       cleared audit inspections without any critical findings. On ESG front, we continue to drive
+                       sustainability initiatives with continued recognition by leading global rating agencies.
+                       Meanwhile, we're also making operational progress against our SBTi-validated near-term GHG
+                       reduction targets. You can see more in our IR slides.
+
+
+                       To conclude, we are pleased the way we are executing our transformation strategy and headway
+                       we are making into building a stronger foundation for future. By broadening our integrated
+                       capabilities, diversifying our pipeline and advancing key commercial opportunities, we are well
+                       positioned to accelerate our long-term growth trajectory.
+
+
+                       Now I request Mr. Ravi Kumar, our CFO, to share overall financial highlights.
+
+
+V. V. Ravi Kumar:      Thank you, Doctor. A very warm welcome to everyone to our quarter 2 and H1 earnings call.
+                       Let me take you quickly through the highlights. Total income from operations for H1 is at
+                       INR4,233 crores, registering a growth of 31%. We continue to deliver strong growth mainly due
+                       to continuing strength in CDMO execution and stable performance in affordable medicine.
+
+
+                       For the quarter 2, total income from operation is INR2,206 crores, which is the highest in the --
+                       from the beginning. Gross margin maintained at a healthy level for H1 at 62.9% and for quarter
+                       2 at 63%, mainly due to better product mix and division mix and improved operational
+                       efficiencies.
+
+
+                       EBITDA for H1 stands at INR1,406 crores with a margin of 33.2%. For the quarter 2, EBITDA
+                       reported at INR762 crores with a margin of 34.5%. This profitability is on account of improved
+                       operational leverage. Profit after tax for H1 at INR809 crores and for the quarter 2 at INR441
+                       crores.
+
+
+                       So our ROCE is moving upwards to 22.5% for the H1 versus FY26 of 17.7%. On the capex
+                       front, we invested close to INR470 crores for the quarter and INR864 crores for the H1. We are
+                       making good progress in executing ongoing key capex across diversified growth projects.
+
+
+                       Our net debt stood at INR2,466 crores and debt-to-EBITDA is around 1.02 versus 1.28 for the
+                       last quarter on the back of strong internal cash flows. On the capital allocation front, our strategy
+
+
+                                                Page 5 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+                       remains unchanged, and we will continue to prioritize investments into high-value business
+                       segments to drive near and long-term growth for all our stakeholders. You can refer to our IR
+                       presentation for more details.
+
+
+                       With this, I would request the moderator to open the lines for Q&A. Thank you.
+
+
+Moderator:             Thank you very much. We will now begin the question-and-answer session. The first question
+                       comes from the line of Tushar from Motilal Oswal Financial Services.
+
+
+Tushar:                Sir, firstly, on the peptide large-scale manufacturing block we started. So as a trajectory, how to
+                       think about the commercial level sort of revenue coming through, considering the customer
+                       might require certain regulatory approvals to come in place or you will have the inventory
+                       buildup quantity. If you can just explain that business trajectory?
+
+
+Satyanarayana Chava:   Krishna, would you like to answer this question?
+
+
+Krishna Chava:         Sure. Thanks for that question, Tushar. As you rightly said, for every program, there's a certain
+                       runway towards commercialization, as you rightly identified related to validations and
+                       regulatory approvals.
+
+
+                       With that being said, we have several programs in the pipeline, which I can't really divulge too
+                       much about, but that are in various stages, including development, scale-up validations. So we
+                       already have a visibility into how we would leverage these facilities and thereby having the
+                       visibility to invest more in furthering this capacity.
+
+
+Tushar:                For the existing capacity, not getting into product specific or company specific, but in terms of
+                       time line where we see the commercial benefit starting to and what could be the quantum for the
+                       existing capacity, maybe in terms of asset turn over a period of time, how to think about it?
+
+
+Krishna Chava:         For the commercial revenues, we expect somewhere around the '29 time frame for some of these
+                       peptide capacities that we are talking about today. But with that being said, in terms of
+                       utilization, even for some of these validation campaigns also, it will be fairly high for the asset
+                       itself.
+
+
+Satyanarayana Chava:   Tushar, as we mentioned in our investor presentation, we are also expanding our peptide capacity
+                       significantly. We'll give you more details as and when the facilities are qualified. So we have
+                       good visibility on the programs, progress of the programs and the volumes requirement for these
+                       programs. We have visibility.
+
+
+                       One point I would like to add here is our peptide manufacturing capabilities are fully integrated.
+                       In the sense, we are not making fragments. We are doing complete synthesis of the peptide
+                       purification isolation. We are offering an API, not just fragments.
+
+
+Tushar:                Got it, sir. That's really helpful on peptide side. And on the overall CDMO side, like considering
+                       multiple projects at multiple stages, is there any in the near term where the inventory buildup
+
+
+
+                                                Page 6 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+                       has happened at the customer end and hence, there would be some buffer before the revenue
+                       picks up on the overall basis in the CDMO segment? Or we have certain projects which are yet
+                       to sort of scale up and hence, we will continue to have growth in this segment maybe over the
+                       next say, next 12 months or 6 to 9 months?
+
+
+Krishna Chava:         Based on what we know at the moment, we don't anticipate such a situation. But with that being
+                       said, we have several programs that are commercialized in nature. So these volume changes
+                       generally tend to balance out. So we are not anticipating any such sudden surprises, at least from
+                       the perspective that we have today.
+
+
+Moderator:             The next question comes from the line of Sajal Kapoor from Antifragile Thinking.
+
+
+Sajal Kapoor:          Yes. Congrats, am I audible?
+
+
+Satyanarayana Chava:   Yes. You are audible.
+
+
+Sajal Kapoor:          So congratulations, Dr. Satya, Raviji and team. Yes, sure. The numbers are finally catching up
+                       with the work you have been doing for years, well deserved. I have 3 questions. First, Dr. Satya,
+                       if you remember in April 2023 on that NDTV Profit interaction with me, you agreed that a bigger
+                       surface area would mean better growth. Since then, CDMO has grown about 4x. What can
+                       Laurus do for customers today that it couldn't 3 years ago? Thank you.
+
+
+Satyanarayana Chava:   As years passed by, we are not just adding reactor volume. We are also adding various technical
+                       capabilities as well. See, our first commercial scale biocatalysis happened in 2021. And then
+                       flow chemistry happened later on. Flow hydrogenation happened later on, fermentation
+                       happened later on.
+
+
+                       So we're adding technical capabilities over a period of time. Today, if any partner comes with a
+                       tech pack, we will not say no because we don't have capabilities, except monoclonal antibodies
+                       and cephalosporins and penicillins. Those are the areas we don't have right now. Other than that,
+                       we can offer any chemistry, any modality, any scale, any potency also.
+
+
+                       So we just commercialized OEB 5 facility for payload linker now. So we are adding capacity
+                       and capabilities for a period of time. In 2023, we don't have this many capabilities. Now we have
+                       capacity and capabilities.
+
+
+Sajal Kapoor:          So my second question is execution to my mind is earning customer trust and trust is bringing
+                       more complex programs, something you alluded to in a private function at the CPHI. Over the
+                       next 5 years, what is most likely to break this winning loop? That's my second question. And
+                       I've got one more.
+
+
+Satyanarayana Chava:   It is difficult to predict, Sajal Kapoor. We are putting our best efforts to keep our service level
+                       constant, if not increase. So our ability to take projects, we are very cautious not to compromise
+                       on our service levels. So our project abilities, we are choosing where we will add value to our
+                       customer, not deplete value to our customers.
+
+
+                                                Page 7 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+                       That's where we would like to maintain service levels. Business will not come today, it will
+                       come tomorrow. So we don't want to spoil partnerships or relationships by taking too much that
+                       we cannot handle.
+
+
+Sajal Kapoor:          That's helpful. And finally, Dr. Satya, alongside the large capex, you are making small bets
+                       across peptides and oligonucleotides, which one could become a flywheel for Laurus in, let's
+                       say, 5 years, give or take?
+
+
+Satyanarayana Chava:   Our investment in peptide resins is not going to give so much a financial benefit, but it will
+                       strengthen our position in our peptide synthesis. But our investment in oligo peptide start-up for
+                       Galenvs in Canada, we have no customer right now in oligos. So we believe that will add
+                       significant value in the near to medium-term future.
+
+
+Sajal Kapoor:          And I think, Dr. Satya, is that exactly the loop that we have been playing over and over again,
+                       we try and control the full value chain, integrated. And I think what we did with ARV, we are
+                       kind of, in my view, and correct me if my understanding is wrong here, we are just playing the
+                       same playbook of integrated end-to-end value capture in the entire pharmaceutical space and
+                       new modalities are -- the thinking for the new modalities is along the same playbook as we have
+                       already executed over the period of time.
+
+
+                       Is that how one should look at this transaction? Because you're not spending too much into this,
+                       but the capability that you are getting is meaningful, perhaps 5 years, 6 years out, if not
+                       immediately. Thank you.
+
+
+Satyanarayana Chava:   Thank you. I would say it is not same, but maybe similar. The scale is also not same. It could be
+                       different. ARV is a mammoth, but I don't expect the oligos will go to ARV level in the next 4,
+                       5 years. We are investing because our customers are asking. It's not that we are investing, we
+                       are liking. Our customers are asking us to get there. So we're invested. Yes. That's the message
+                       I can give you right now.
+
+
+Moderator:             The next question comes from the line of Chirag Shah from White Pine.
+
+
+Chirag Shah:           Congratulations for good set of numbers. Sir, I have first a very short-term question. If I look at
+                       Q1 to Q2 on the CDMO side, can you give some color what has driven such a strong ramp-up
+                       sequentially?
+
+
+                       Is it a large-sized molecule which you have supplied? Or is that some projects have moved from
+                       either Phase I to Phase II or Phase II to Phase III that has driven or sheer number of molecules
+                       for which the supply has happened is driving it? So it would be helpful if you can give some
+                       more granular whatever you can share on the qualitative side?
+
+
+Krishna Chava:         I think it's like a meaningful growth between the quarter 1 of this year and this quarter. But as
+                       we've highlighted in the quarter 1 conference call, we expect this to be pretty consistent is what
+                       we have alluded to also in the last call. But to answer your question, there's no specific one-offs
+                       that we are looking at in this case.
+
+
+                                                Page 8 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+Chirag Shah:        Okay. No, it's not about one-off. It is about the quality and the nature that is driving it. Is it more
+                    molecules getting added or it is some large molecule or some Phase II, Phase III movement,
+                    which is driving this? So I'm just trying to understand that side.
+
+
+V. V. Ravi Kumar:   I think if you look at the increase in quarter 1, quarter 2 by INR200 crores is because of the
+                    overall revenue increase. The CDMO revenue increase only contributed by INR40 crores, but
+                    our affordable medicine increased by INR160 crores. It is an overall performance.
+
+
+Chirag Shah:        Fair point. And sir, second, on the peptide side, can you just indicate the kind of capacities that
+                    we have currently? And the infrastructure, what kind of capacity addition that can happen? So
+                    that's one. And I presume you already have soft commitments or soft confirmations from
+                    customers or that is also yet to happen because it's a new facility, that's why I'm asking.
+
+
+Krishna Chava:      So on the capacities for the peptides only quoting the SPPS synthesizer capacities as we captured
+                    in our investor presentation, it's a little over 16 KL. And of course, LPPS, I don't want to quote
+                    at this point in time. But like we've always maintained, we'll provide a meaningful update
+                    whenever we reach that stage.
+
+
+                    But yes, generally, we tend to shy away from quoting too much information, which might not
+                    be meaningful or translate into actual numbers. Again, I think we'll keep you updated on peptides
+                    as and when there's some updates there. But yes, that's something that I can share at the moment
+                    that we continue to invest extensively in enhancing the capacity further.
+
+
+Chirag Shah:        And is it a fair assumption the lead times are longer in peptides versus small molecules? It's a
+                    fair assumption, right, sir?
+
+
+Krishna Chava:      It's not a statement that's always true. It depends on the complexity of the small molecule, the
+                    number of steps involved and also the complexity of the peptide, if you're doing the fragments,
+                    if you're doing the API. So it is a question that has probably 3, 4 follow-on questions. But yes, I
+                    think at a high level, maybe you could say that, but it might not be always true.
+
+
+Moderator:          The next question comes from the line of Sekhar Kadiyala from Family Office.
+
+
+Sekhar Kadiyala:    So Dr. Chava, congratulations on, just not for this quarterly numbers, but I think the journey that
+                    Laurus has been giving all of the investors quarter after quarter. My question is primarily on the
+                    peptides, although many questions were already there, but I think I wanted to get a broader color
+                    from you or from Mr. Krishna.
+
+
+                    So in the peptides world, I think what we've been hearing about is the solid-phase, liquid-phase,
+                    hybrid. And then, of course, I also read somewhere that fermentation peptides are the cheapest
+                    one in terms of manufacturing. So what I would like to understand from you is how do you see
+                    this whole scenario emerging in terms of how over the next 3 to 5 years, would it be the hybrid
+                    that will probably drive most of the manufacturing? Or could it be fermentation?
+
+
+
+
+                                              Page 9 of 20
+
+                                                                                                  Laurus Labs Limited
+                                                                                                     October 29, 2026
+
+
+                       And how Laurus is preparing as we are building the peptides capacities? And the fact that we
+                       also have the fermentation capabilities, how we are preparing for this 3- to 5-year sort of a story?
+                       If you could throw some color. I don't need any numbers, but just the color around peptide
+                       manufacturing and how we are developing our capabilities. Thank you.
+
+
+Satyanarayana Chava:   The use of fermentation in peptide synthesis depend on how many amino acids, natural amino
+                       acids are there in sequence. If the sequence is small, nobody will go to fermentation based.
+                       Currently, the programs what we have mostly SPPS, LPPS or hybrid. So that's where our
+                       capacity expansion is also going on.
+
+
+Krishna Chava:         Just to add on to that, I think every program in the peptide space is unique and comes with its
+                       own unique requirements. So it's not very easy to say that 5 years down the road, there'll only
+                       be a certain type of programs. We believe there will continue to be a space for SPPS, LPPS,
+                       hybrid and as you have said, for the fermentation-based as well. That they'll continue to play a
+                       meaningful role because they offer unique characteristics depending on the peptide
+                       requirements.
+
+
+Sekhar Kadiyala:       Thank you. My second question and the last question is, if you could throw some light on the
+                       fermentation. In terms of our facilities, if they are GMP-approved, do they have any limitations,
+                       so to say, or they could do any type of fermentation requirements that our customers may have?
+
+
+Satyanarayana Chava:   See, we have one GMP facility in Bangalore that will do up to 5,000 liters fermentation. And
+                       we have a food grade and industrial grade facility in Tumkur with 200,000-liter fermentation
+                       capacity.
+
+
+                       And we are building 500,000-liter facility, which will be operational in this quarter. That's also
+                       food grade and industrial grade, not a GMP grade. We're also building a GMP-grade
+                       fermentation facility for some of the products in animal health. That will be operational second
+                       half of next year.
+
+
+Moderator:             The next question comes from the line of Foram Parekh from BOB Capital Markets.
+
+
+Foram Parekh:          My first question is on the capex. We have announced INR3,000 crores capex over a period of
+                       '27 to '28. And it's across various modalities. So could you give us some color which modalities
+                       would have like higher contribution? Or would the capex be equally distributed amongst oligo,
+                       peptides, some color there?
+
+
+Satyanarayana Chava:   It's difficult to break into several segments for communication purpose. So we are investing
+                       significantly in growth capex and majority into API, yes.
+
+
+Foram Parekh:          Okay. My second question is on the EBITDA margin. While on a sequential basis, I see gross
+                       margin is almost flat, but EBITDA has increased, EBITDA margin has increased. And I see
+                       that's largely because of R&D cost rationalization. So just wanted to understand why has R&D
+                       come down steeply on a Q-o-Q basis? And how sustainable is it?
+
+
+
+
+                                               Page 10 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+V. V. Ravi Kumar:      I think the quarter 1, we have filed some ANDAs. So there is a reason the cost has gone up in
+                       quarter 1. It is not that we are defocusing on our R&D expenditure.
+
+
+Satyanarayana Chava:   And second, there is operational leverage as well. So from Q1 FY27 to Q2, we also achieved
+                       INR200 crores extra revenue. So our EBITDA margin improvement, not just lower R&D cost,
+                       but higher operational leverage.
+
+
+Foram Parekh:          Sure. And sir, any guidance on the sustainable run rate of EBITDA margin because 34% seems
+                       to be the highest ever. And now CDMO segment is also stabilizing at 40% contribution. So
+                       what's the stable EBITDA margin we can expect for the year?
+
+
+Satyanarayana Chava:   At the beginning of the year, we already indicated we were comfortable in maintaining over
+                       60% gross margin and over 30% EBITDA. I think we still stick to our guidance.
+
+
+Foram Parekh:          Sure. And my last question is on the, again, custom synthesis side. Sir, some color or some
+                       dynamics, like how many molecules have been commercialized and how many molecules are
+                       there in Phase III?
+
+
+Krishna Chava:         Unfortunately, that is not something that we are in a position to divulge ma'am because of various
+                       confidentiality reasons. And also, like we've alluded to in the last call as well, that at least
+                       internally, we believe that number does not necessarily translate into the actual numbers like in
+                       terms of revenue because one program might give, let's say, USD1 million versus another
+                       program could potentially give USD100 million.
+
+
+                       So that number, at least from our end, we believe, does not paint the full picture, and that's why
+                       we've always refrained from quoting that number.
+
+
+Foram Parekh:          Okay. And sir, lastly, if you can give us the number on the CC constant currency growth and the
+                       percentage exports of the total sales?
+
+
+V. V. Ravi Kumar:      Percentage exports, I have to check. I think majority is there actually, I think domestic, domestic
+                       must be less than 20%. And the constant currency on a sequential basis, it's not a significant
+                       number on a sequential basis. It's about INR12 crores.
+
+
+Moderator:             The next question comes from the line of Rahul Bharadwaj, an Individual Investor.
+
+
+Rahul Bharadwaj:       So my question is primarily to understand the CDMO space a little better. So we probably have
+                       around 100-plus active programs. Can you give us some color into what percentage of the
+                       commercial stage supplies they are originating either from, let's say, Phase I/II development
+                       versus late-stage tech transfers?
+
+
+Satyanarayana Chava:   I think it's difficult to give that granular answer for this question. See, as Krishna mentioned, the
+                       number of projects may not give you right color of revenue. So we have projects from
+                       USD200,000 to several tens of million dollars.
+
+
+
+
+                                               Page 11 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+                       So if we give say, we have 200, 300 projects, whether you multiply that number by USD200,000,
+                       multiply that number by USD10 million. So I think that may not give you a right picture to our
+                       investors. So we refrain from giving that number.
+
+
+Moderator:             The next question comes from the line of Dhawal from Jefferies.
+
+
+Dhawal:                So again, joining the peptide bandwagon, what is the gross block of the peptide facility that we
+                       have put up? And any very broad high-level estimate of what peptide business can generate in
+                       terms of peak asset turn whenever we achieve, but very high level?
+
+
+Satyanarayana Chava:   I think after a lot of deliberation internally, we agreed to give the reactor volume. I think beyond
+                       that, we are not going to give you how much of capex we invested, what is the asset turn ratio
+                       we are going to get. So unfortunately, we were not able to give you further details on that.
+
+
+Dhawal:                Okay, sure. And in the call earlier, it was mentioned that even the validation batches will require
+                       significant capacity and will drive a good utilization. So any broad time line when these
+                       validation batches you think could begin for the peptide facility?
+
+
+Satyanarayana Chava:   See, in the modalities like peptides, the complexity of synthesis is very high. So nobody would
+                       like to do validation at some scale and scale up later on, or move reactor, or move facility, move
+                       manufacturing block. So for these modalities, the commercial scale facilities are needed for the
+                       validation itself. So we have built facility, not just do validation, but also meet our customer
+                       commercial demands from the same manufacturing block.
+
+
+Dhawal:                Yes. Definitely. I got the concept. But any broad time line you think when these validation
+                       batches could begin?
+
+
+Krishna Chava:         Broadly speaking, 12 to 18 months is the number that you can take. But again, in clinical
+                       programs, things can move around, but you can assume that number.
+
+
+Dhawal:                Okay. And last question, it seems like we are trying to do some backward integration in SPPS
+                       manufacturing by investing in resin facility and resin capabilities. So again, approximately how
+                       large is resin cost when the peptide is getting manufactured using SPPS or hybrid?
+
+
+                       Again, it can vary a bit. I understand it depends on how large the fragment is, how much is SPPS,
+                       how many LPPS. But very broadly, given you guys are doing investment, what is the typical
+                       resin cost versus the total cost of manufacturing the peptide?
+
+
+Satyanarayana Chava:   I'll be able to give you a range. It's a smaller the fragment, the cost of resin is higher. Longer the
+                       peptide, the resin contribution is less. So in the cost of manufacturing of raw material cost of
+                       peptide, it will vary between 10% to 20%.
+
+
+Krishna Chava:         Yes, raw material cost.
+
+
+Satyanarayana Chava:   The raw material cost to peptide resin contribution vary between 10% to 20%, depending on the
+                       length of the fragment of the peptide.
+
+                                                 Page 12 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+Dhawal:                Got it. Understood. Very helpful. And any other major cost beyond resin, which is involved? Or
+                       is it all the regular solvents and typical raw materials, nothing specific beyond resin that one
+                       should be aware of?
+
+
+Satyanarayana Chava:   We will not give you that granular answer.
+
+
+Krishna Chava:         Hope you are not building a model here, cost model.
+
+
+Satyanarayana Chava:   So I think it would be difficult for us to go that granular.
+
+
+Moderator:             The next question comes from the line of Vivek Agrawal from Citigroup.
+
+
+Vivek Agrawal:         Sir, one question is on capex. So this year for this as well as the next year, you have guided
+                       INR3,000 crores capex. So how good you are in terms of completion of this amount given that
+                       in the first half, the run rate is slightly on the lower side?
+
+
+                       And second, a related question. How do you see investment or the overall capex, let's say, even
+                       beyond these 2 years, even '28 -- and if you want to look at, let's say, another 3 years, '29, '30,
+                       '31?
+
+
+V. V. Ravi Kumar:      Vivek, your voice is not clear. Can you just remove your speaker?
+
+
+Vivek Agrawal:         Should I ask this question again?
+
+
+Vivek Agrawal:         Capex -- so in terms of capex right, so we have guided INR3,000 crores capex for this as well
+                       as the next year. And given that the current run rate is slightly on the lower side, how good you
+                       are in terms of completion of this? And second, even beyond these 2 years, if you want to build
+                       the model, let's say, for another 3, 4 years, what kind of the investment or the overall capex you
+                       are envisaging? Thank you.
+
+
+Satyanarayana Chava:   So although the first half, the number is less, most of the investments are going on track. So as
+                       we guided INR3,000 crores capex for '27, '28 is the right number. And the second we expect the
+                       investments will continue to at that range in the years to come. So around INR1,500 crores per
+                       year capital expenditure based on the current understanding. It may go up if the opportunities
+                       come. But otherwise, it will be in that range.
+
+
+Vivek Agrawal:         Understood. And if I look at asset turns, right, so you are consistently seeing that asset turns are
+                       moving up. So what is the fair level of asset turns, let's say, you are expecting to reach in the
+                       next couple of years? And at what level you think that overall asset turn can stabilize?
+
+
+V. V. Ravi Kumar:      See, the average asset turn even for 6 years is 1.1. We are at 1. Definitely, we can move up to
+                       1.1. But our peak asset turn was 1.4. We also wish we should go there, but like, somewhere in
+                       between, it will go. But it's over a period of time based on the maturity of the projects, it depends.
+
+
+
+
+                                                Page 13 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+Vivek Agrawal:         Understood. And one question on peptides. So when you are expecting the commercial revenues
+                       to kick in of this 16,000 liter capacity? And how much in your view has already been committed
+                       or what percentage of the capacity has already been committed by the customer?
+
+
+Satyanarayana Chava:   Unfortunately, Vivek, for both of those questions, we'll not be able to give you an answer
+                       primarily because of confidentiality reasons and also for strategic reasons, I'm sorry about that.
+
+
+Vivek Agrawal:         No problem. And you also talked about that you're also looking to expand the peptide capacities,
+                       right? So is it an aspirational statement or you already have some visibility from some of the
+                       customers that you are looking to expand the capacity? Or is that it depends on the execution in
+                       the existing capacity projects, etcetera, you are expecting more products and that can the
+                       expansion? I'm just trying to understand the thought process behind the statement that you are
+                       looking to expand the peptide capacity.
+
+
+Satyanarayana Chava:   See, current capacities we foresee may not be enough for us to cater to the requirements in the
+                       near to midterm. So we are significantly increasing capacities because we see some of the
+                       programs in the early clinical phases. When they move to validation phase, we want to move
+                       those programs to a commercial manufacturing plant. That's the intention we are building new
+                       capacities.
+
+
+Vivek Agrawal:         Are you also involved or let's say, do you sense any opportunity to be involved in some of the
+                       existing GLP-1 products, or through peptide GLP-1 products?
+
+
+Krishna Chava:         We don't want to comment.
+
+
+Vivek Agrawal:         No problem at all and just dragging here a bit more. In terms of backward integration, how
+                       important it is, right? So you are building the resins, etcetera. But in terms of building blocks
+                       and amino acids, so how backward integrated you are on these aspects? Or are you also looking
+                       to add capacities in building blocks, amino acids, etcetera?
+
+
+Satyanarayana Chava:   See, these programs will have multiple sources of amino acid supplies, including us. So these
+                       partners' programs are so large. They don't want to depend on one vendor for any of the key
+                       amino acid derivatives also. So we have programs where our derivatives will go into the
+                       validation like we buy some amino acid derivatives from the other party, third vendors also.
+
+
+Vivek Agrawal:         Understood. And sir, one question I have on affordable medicine side. So this quarter, you have
+                       clocked a decent number and first half around INR1,300 crores. So what drove the sharp uptick
+                       this time around? How sustainable it is? And how you think that the finished dose formulation
+                       revenue can pan out, let's say, in the next 1 to 2 years once this KRKA project becomes live?
+
+
+Soumya Chava:          So for the formulation revenue, as mentioned earlier, we are doing project registrations in
+                       multiple countries. So we see our formulation revenues will continue to grow in the upcoming
+                       quarters as well. And regarding the pricing for APIs, they have stabilized, though there is a lot
+                       of geopolitical pressure, our supply chain resilience has helped us stabilize those prices.
+
+
+
+
+                                               Page 14 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+Moderator:             The next question comes from the line of Nayan Padsala, an Individual Investor.
+
+
+Nayan Padsala:         Regarding the KRKA joint venture, how is the business progressing? And when can we expect
+                       it to make a meaningful contribution to Laurus Labs' revenue and profit?
+
+
+Soumya Chava:          So the KRKA formulation facility is getting ready, and we will start validations for products
+                       mid-2027. So we're already working towards validation. So once the validations are done, we'll
+                       do the filings. So '28, '29, we should see meaningful revenues.
+
+
+Nayan Padsala:         And secondly, you mentioned around 125 active CDMO projects. What is the current number?
+
+
+Krishna Chava:         That number is a very dated number, but that we don't want to say further. But yes, you could
+                       assume 125 even today.
+
+
+Moderator:             The next question comes from the line of Shrikant Akolkar from Nuvama.
+
+
+Shrikant Akolkar:      Congratulations to the management for the good set of numbers. I have two questions. Firstly,
+                       on the peptides, is it possible for the management to quantify ballpark number that they have
+                       invested in solid phase, liquid phase, isolation, purification, and amino acids, total investment in
+                       this?
+
+
+Krishna Chava:         Unfortunately, we would not like to divulge that information due to strategic reasons.
+
+
+Shrikant Akolkar:      Understood, but any ballpark number or any quantification like a percentage of total investment
+                       that we have incurred so far without giving any proper number?
+
+
+Krishna Chava:         I'm sorry, but we are not able to provide that color. As Dr. Satya mentioned and Ravi mentioned,
+                       even this peptide capacity that we've created, we've shared after a lot of deliberation and
+                       feedback from a lot of customer. And beyond that, we are not in a position to share at this point
+                       in time, yes.
+
+
+Satyanarayana Chava:   If we can share, we'll to all investors, not the selective so, please bear with us.
+
+
+Shrikant Akolkar:      Okay. No problem. No problem. And again, on peptides, so I know that you don't want to talk
+                       on any GLP-1 opportunity in the near term. But do you think that in next 5 years, there will be
+                       right for us to get any peptide GLP-1-related contract?
+
+
+Krishna Chava:         Yes. I think given the capabilities and the capacities that the company is investing in, I think we
+                       certainly expect to play a very meaningful role in that.
+
+
+Shrikant Akolkar:      Understood. Understood. And the last question is, now recently, this is broader industry level
+                       question. So recently, China has banned the export any technologies outside China, and U.S. has
+                       also banned some of the investment that will happen in Chinese biotech. Now what kind of
+                       opportunities or any industry trends that will emerge because of this?
+
+
+Krishna Chava:         From a geopolitical standpoint, I would not want to comment on this call at the moment.
+
+                                                Page 15 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+Moderator:             The next question comes from the line of Krish Mehta from Enam Holdings.
+
+
+Krish Mehta:           I have 2 questions. The first is on understanding the sustainability of this quarter's revenue and
+                       EBITDA margin run rate. So if I were to look out, say, to FY28, would it be a fair assumption
+                       to assume that what we've done this quarter can be repeatable in terms of looking at something
+                       like a broad INR10,000 crores revenue at 35% EBITDA margin? Or should we kind of normalize
+                       this current quarter's run rate? That's my first question.
+
+
+Satyanarayana Chava:   The one we are always answering without giving any guidance, 2 things we are committing. One
+                       is we were able to maintain 60-plus percentage of gross margin and 30-plus percentage of
+                       EBITDA. We are comfortable to guide all our investors. Beyond that, it's very difficult to give
+                       any guidance at this point of time.
+
+
+Krish Mehta:           Sure. Thank you. And my second question is on if you could provide the breakup of your ARV
+                       API and ARV FDF for this quarter?
+
+
+Soumya Chava:          So ARV API for this quarter is 625 and FDF is 677.
+
+
+Moderator:             The next question comes from the line of Alankar Garude from Kotak Institutional Equities.
+
+
+Alankar Garude:        Sir, first question on peptides. Within peptides, how important do you think will be purification
+                       as your programs move from clinical to commercial over the next 2 years, and this is particularly
+                       for the longer peptides?
+
+
+Krishna Chava:         I think yes, purification is similar to synthesis, the downstream, which includes the isolation,
+                       purification and isolation are equally important as complex, yes.
+
+
+Satyanarayana Chava:   Just to give you a or break the complexity, synthesis, purification, isolation, all 3 will be equally
+                       important, maybe 1/3, 1/3, 1/3 kind of situation, yes.
+
+
+Alankar Garude:        From a complexity...
+
+
+Satyanarayana Chava:   Complexity point of view. Yes.
+
+
+Alankar Garude:        Understood, sir. And where are we in that journey when it comes to scaling up both say,
+                       downstream purification or isolation capacity in parallel to creating the overall reactor capacity?
+
+
+Krishna Chava:         So like we've mentioned in our investor presentation, when we say we've created peptide
+                       capacity, that includes the entire value chain of synthesis, purification and isolation.
+
+
+Alankar Garude:        Got it. Just one follow-up there. From, say, 2,000 liter currently, are there any plans to move to
+                       3,000-liter synthesizers? And if yes, possible to give any time line for that?
+
+
+Krishna Chava:         I would not like to answer this question at this point in time.
+
+
+
+
+                                               Page 16 of 20
+
+                                                                                                  Laurus Labs Limited
+                                                                                                     October 29, 2026
+
+
+Alankar Garude:        Fair enough. No problem. And just one final question. Given that you have been working on
+                       various modalities, as Dr. Satya mentioned, pretty much all capabilities, except maybe mAbs
+                       and cephalosporin, penicillin.
+
+
+                       In terms of talent availability, how would you assess the current situation? There are multiple
+                       companies working on multiple modalities, adding capacities. So just from an industry
+                       standpoint and your own talent hiring standpoint, do you assess any challenges? And yes, where
+                       are we in that journey?
+
+
+Satyanarayana Chava:   As you have seen in this quarter earnings presentation -- so we invested in oligonucleotide
+                       company because we believe talent is there. Whereas we can manufacture because
+                       oligonucleotides, manufacturing, purification, isolation are similar to peptides. So we have that
+                       expertise. But synthesis wise, we don't have so R&D-wise, we invested there. And like that, we
+                       invested in solid support resins company because we don't have talent right now. So we are
+                       trying to build the gaps in our technology development by investment in these companies, like
+                       we invested in Laurus Bio to get expertise in enzymes and fermentation.
+
+
+                       So our investments are to build the capabilities where we don't have right now. Otherwise, we
+                       are not investing in capacities, if you have seen for the last several years. We build capacities.
+                       We bridge the gaps by acquiring technology-based companies.
+
+
+Moderator:             Next question comes from the line of Yasser Lakdawala from M3.
+
+
+Yasser Lakdawala:      Wish you all a Happy Diwali in advance. My question was on the CDMO side. Is there any color
+                       you could give in terms of -- for H1, our mix between Animal Health, Crop Science and Human
+                       Pharma?
+
+
+Krishna Chava:         Well firstly, Happy Diwali in advance to you as well. Coming to the breakup, while we've not
+                       given a split between our Human Health and Animal Health side of things. What I can say is
+                       Crop Science, we continue to discuss with several partners and hope to have meaningful
+                       contribution from that, but that's still miniscule compared to our human health and animal health
+                       initiatives.
+
+
+Yasser Lakdawala:      And just as you said, we've got more than 100, 120-odd customers. Could you give us some sort
+                       of color on -- is there any customer concentration like, say, are there like 5 or 10 customers who
+                       are responsible for a larger pool of the CDMO revenue?
+
+
+                       And the reason I just asked that is in case there is some destocking event or there is a competitive
+                       program that replaces the dominant customer, would that have sort of a material impact on our
+                       revenues going forward? Just to understand the concentration of the CDMO business, I think
+                       that would be helpful.
+
+
+Satyanarayana Chava:   Currently, we don't have a significant concentration of customers or programs. We are managing
+                       -- actually, we are not managing. We were lucky that the projects are coming like that. I'll put it
+
+
+
+
+                                                 Page 17 of 20
+
+                                                                                                Laurus Labs Limited
+                                                                                                   October 29, 2026
+
+
+                     that way. And second, we don't foresee any significant supplies for launch and then destocking
+                     events. So we don't have that problem because the visibility for next 18 to 24 months.
+
+
+Krishna Chava:       In addition, fortunately, in the space that we've been in, we're not necessarily looking at any
+                     patent cliff for any of the programs that we support. So there's a fair bit of good visibility for
+                     some of these programs that we've successfully commercialized.
+
+
+Yasser Lakdawala:    That's very helpful. And lastly, as we look at some of these newer modalities, be it peptides,
+                     ADCs, in terms of when we sort of look to announce these capacity additions, how do you sort
+                     of weigh that?
+
+
+                     Because a lot of these new modalities don't tend to be very high-volume products, right, if I got
+                     the understanding right. So how are you sort of balancing on one side, capability addition and
+                     on the other side, capacity addition? If you could sort of help us understand that, that would be
+                     great.
+
+
+Krishna Chava:       Let's say, from an ADC perspective, like you rightly said, these might not be large volume like
+                     it will not be multi-metric scale. But from a value point of view, it will be quite significant from
+                     a general value point of view in the commercial side. And also from an investment point of view,
+                     can also be sizable given the type of modality and how complex it can get.
+
+
+Moderator:           The next question comes from the line of Arindam Mukherjee, an Individual Investor.
+
+
+Arindam Mukherjee:   Good evening. Am I audible?
+
+
+Krishna Chava:       Yes.
+
+
+Arindam Mukherjee:   Firstly, congrats on the fabulous set of numbers. My first question is H1 operating cash flow fell
+                     26% on strategic inventories and free cash flow after INR864 crores of capex was slightly
+                     negative and the net debt rose a bit. What are those inventories? When do they convert to cash?
+                     And is FY27 free cash flow positive after capex and the investments you have announced?
+
+
+V. V. Ravi Kumar:    The inventory is a regular inventory. We are not saying the extra inventory. So there is some
+                     additional absolute number inventory as of 30th September. That will be what we call utilized
+                     in the current quarter in the coming quarter.
+
+
+                     And coming to the free cash flow, yes, last year only we have a free cash flow when you are
+                     making that kind of a capex investment, we have taken a call between the free cash flow versus
+                     the growth capital, and then we are investing growth capex. So I think we may not be worried
+                     on the free cash flow front because if you look at our net debt to EBITDA is still at a very healthy
+                     level of 1x, around 1x. So I think we will manage. We will see how it can move.
+
+
+Arindam Mukherjee:   Got it. Thank you for the clarification. I just have one more question. Laurus Bio did INR64
+                     crores in H1, and it's down 16% against the roughly INR200 crores base you cited in July. With
+                     LB4 commissioning this quarter and customers reserving capacity, what are the reservation
+
+
+
+                                             Page 18 of 20
+
+                                                                                                   Laurus Labs Limited
+                                                                                                      October 29, 2026
+
+
+                       terms, take-or-pay or advances? And what does H2 look like? If you can throw some color on
+                       that?
+
+
+Satyanarayana Chava:   We expect Laurus Bio will be on good track from quarter 1 next financial year. The facility will
+                       be qualified this quarter, but we will only do trials in the Q4 of this financial year. Actual
+                       commercial supplies may start in Q1 FY28. So although there is a reduction in the revenues, but
+                       that's as part of some customer allocations or projects scale up from the customer side from
+                       outside. So the prospect looks good.
+
+
+Arindam Mukherjee:     Yes. Sorry, I think there was some connection issue. But just one more follow-up. The minority
+                       losses suggest that Laurus Bio's net loss is around INR50 crores for H1. Is that about right? And
+                       what is the EBITDA breakeven?
+
+
+Krishna Chava:         I think we will provide offline.
+
+
+Satyanarayana Chava:   Please write to Vivek, our Investor Relations, we'll get back to you on that.
+
+
+Moderator:             The next question comes from the line of Tushar Manudhane from Motilal Oswal Financial
+                       Services Limited.
+
+
+Tushar Manudhane:      Sir, just to understand how the asset turn would improve from, say, 1.1x to 1.4x. What are the
+                       major key factors that would drive this scale up?
+
+
+V. V. Ravi Kumar:      I think 1 year we achieved 1.4x. That's actually based on the large purchase order. I think in
+                       future, I think the lot of unlocked assets are there, like we are not generating to the full extent.
+                       Once every asset is being generated, I think there is a possibility. I'm not saying that we will
+                       reach a 1.4x, but we will inch towards it.
+
+
+Tushar Manudhane:      But given the ongoing capex, we will continue to have certain assets or let's say, certain
+                       investments in the gross block, which will then sort of suppress this asset turn, which is why I
+                       was trying to ask that how or, let's say, over what period we think that even if the incremental
+                       investment that happens, still we will be able to do the asset turn of 1.4x?.
+
+
+V. V. Ravi Kumar:      You are right. But we also have a greenfield and brownfield capex. Like we are investing a lot
+                       of investment in our Unit 4, that is a brownfield capex and then our Unit 2 investments are a
+                       brownfield capex, which are going to do better. But we will see. But as I said, like our first target
+                       is 1.1x, which is our average of last 6 years.
+
+
+Tushar Manudhane:      Got it. And just lastly, while many questions on peptide, just one last from my side. Unlike in
+                       other set of products, is the validation batch also similar to that of a commercial size batch in
+                       what we are manufacturing in the peptide block?
+
+
+Krishna Chava:         That is generally the case, Tushar. But generally, you could say that, yes.
+
+
+Moderator:             The next question comes from the line of Dhawal Khut from Jefferies.
+
+
+
+                                               Page 19 of 20
+
+                                                                                                 Laurus Labs Limited
+                                                                                                    October 29, 2026
+
+
+Dhawal Khut:           Last quarter, you guys had mentioned about a small molecule project about to go commercial.
+                       So what's the status on it? And do you think it will be a meaningful growth driver given generally
+                       in first year, there is a significant supply that happens. So is that a growth lever in the CDMO
+                       business given now we have a really large base? Or is it more like a typical smaller projects that
+                       you work on?
+
+
+Satyanarayana Chava:   I think there are several programs at NDA filing stage, NDA filed stage even now. So we feel
+                       comfortable with the projects at various scales we have right now. We're not able to give you
+                       more granular than this.
+
+
+Dhawal Khut:           Sure. No problem. Second question, maybe it could be a bit technical, but just want to understand
+                       the concept behind it. So you guys emphasized quite a lot that you are doing API, not just
+                       fragment and you have full API capability. So let's say, there's an API, whatever is the chain
+                       length, let's say, 10x is the chain length.
+
+
+                       So how does the realization vary versus API versus a fragment, which is half the size, let's say,
+                       a 5 amino acid fragment versus a full 10 length API, just ballpark range, just to understand the
+                       significance of having full API capability?
+
+
+Krishna Chava:         It can be small or it can be quite drastic. While I know the answer, I don't want to go into too
+                       much detail as to in our cost model and all that, but...
+
+
+Satyanarayana Chava:   It is difficult to give. The reason is if 5 fragments uses all unnatural amino acid, cost could be
+                       very significant. If the 15 amino acids all natural, then the cost is very, very significant lower.
+                       So it gives a wrong signal. Any answer, it is project specific. As you mentioned, your question
+                       was very technical. We don't want to give you a very generalized answer for such a complex
+                       question.
+
+
+Moderator:             Thank you. Ladies and gentlemen, we will take this as the last question for today. I now hand
+                       over to the management for closing comments. Over to you, sir.
+
+
+Satyanarayana Chava:   Thank you, all the stakeholders for your active participation in the call. And thanks for asking
+                       very interesting detailed questions. And in advance, we wish you a Happy Diwali for all the
+                       stakeholders. Thank you.
+
+
+Krishna Chava:         Thank you.
+
+
+Moderator:             Thank you. On behalf of Laurus Labs, that concludes this conference. Thank you for joining us.
+                       You may now disconnect your lines.
+
+
+
+
+                                                Page 20 of 20
+

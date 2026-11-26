@@ -1,0 +1,1043 @@
+Ref. No.:01/ FA/ISD/Compliance/2026-27                                                      Dated: 06.11.2026
+
+ Listing Department                                Corporate Relationship Department,
+ National Stock Exchange of India Limited          BSE Limited, Rotunda Building,
+ ‘Exchange Plaza’, C-1, Block G,                   P J Towers, Dalal Street, Fort,
+ Bandra Kurla Complex, Bandra (E),                 Mumbai - 400 001.
+ Mumbai - 400 051.                                 Scrip Code – 532555
+ Scrip Code - NTPC
+
+ISIN: INE733E01010
+
+Sub: Transcript of Conference Call with Analysts & Investors held on 31st October 2026
+
+In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this
+is to inform that a conference call was held on 31 October 2026, wherein the Management of NTPC Ltd. discussed
+the Company's results for the quarter and half year ended 30 September 2026 with analysts and investors.
+
+Transcript of the above-mentioned conference call is attached herewith and can also be accessed at:
+
+https://www.ntpc.co.in/investors/confrence-call-analyst-meet-investors/conference-call-analysts-investors
+
+
+Yours faithfully,
+Ajay       Digitally signed
+           by Ajay Garg
+
+Garg       Date: 2026.11.06
+           12:35:09 +05'30'
+
+(Ajay Garg)
+AGM (Finance)
+Investor Relations Department
+
+                           “NTPC Limited
+             Q2 FY27 Earnings Conference Call”
+                          October 31, 2026
+
+
+
+
+MANAGEMENT:
+
+Mr. Jaikumar Srinivasan, Director (Finance)
+
+Mr. Shivam Srivastava, Director (Fuel)
+
+Mr. K Shanmugha Sundaram, Director (Projects)
+
+Mr. Ravindra Kumar, Director (Operations)
+
+Mr. Anil Kumar Jadli, Director (HR)
+
+
+
+
+                                 Page 1 of 17
+
+                                                                                               NTPC Limited
+                                                                                             October 31, 2026
+
+
+
+
+Moderator:        Ladies and gentlemen, good day and welcome to the NTPC Limited Q2 FY27 Conference Call
+                  hosted by Nuvama Wealth Management Limited. As a reminder, all participant lines will be in
+                  the listen-only mode and there will be an opportunity for you to ask questions after the
+                  presentation concludes. Should you need assistance during the conference call, please signal an
+                  operator by pressing star then zero on your touchtone phone. I now hand the conference over to
+                  Mr. Subhadip Mitra from Nuvama Wealth Management Limited. Thank you, and over to you.
+
+
+Subhadip Mitra:   Thank you. Good afternoon, friends. On behalf of Nuvama Wealth Management, welcoming
+                  you all to the Q2 FY27 Earnings Call of NTPC Limited. We have with us today the senior
+                  management of NTPC, led by Director Finance, Mr. Jaikumar Srinivasan. I would now like to
+                  hand over the call to Mr. Srinivasan. Over to you, sir.
+
+
+Management:       Good evening, ladies and gentlemen. I am Jaikumar Srinivasan, Director Finance of NTPC
+                  Limited and NTPC Green Energy Limited. It gives me pleasure to welcome you all to our
+                  earnings conference call for the second quarter and half year ended 30th September, 2026.
+
+
+                  Joining me today are my colleagues on the board. Shri Shivam Srivastava, Director (Fuel), Shri
+                  K. Shanmugha Sundaram, Director (Projects), Shri Ravindra Kumar, Director (Operations), Shri
+                  Anil Kumar Jadli, Director (Human Resource), along with other members of our senior
+                  leadership team. We have announced our financial results for Q2 FY27 and half year ended 30
+                  September 26 and I have shared the operational financial snapshot with the stock exchange, they
+                  are available for your reference.
+
+
+                  I will take you through the key developments covering the Indian power sector outlook and
+                  NTPC and NGEL's operational and financial performance before opening the floor for questions.
+
+
+                  The power demand has seen a substantial growth during FY27. The country recorded year-on-
+                  year growth of about 11% in power generation and about 15% in power demand during the first
+                  half of the current fiscal year.
+
+
+                  October month's figure reflects further increased pace with a growth of 21% compared to the
+                  corresponding month of the last year. Compared with the corresponding month of 2025-26, peak
+                  demand increased by 8.9% to 22.5%, while non-peak demand increased by 6.1% to 15.4%.
+                  Based on average monthly data for H1, peak demand grew by about 14.5% and non-peak
+                  demand by about 9.5%.
+
+
+                  The maximum demand met during the period was 271 gigawatts for peak demand and 253
+                  gigawatts for non-peak demand. The highest increase occurred in July month when peak demand
+                  increased by about 50 gigawatt and non-peak demand by about 34 gigawatt. The major
+                  contributors for this demand are digital services, urban transport, industries, changing weather
+                  pattern and data centers.
+
+
+
+
+                                            Page 2 of 17
+
+                                                                             NTPC Limited
+                                                                           October 31, 2026
+
+Rising demand during both peak and non-peak hours creates growth opportunities. And
+reinforces the need for reliable baseload power supply. NTPC's generation portfolio and NGEL's
+renewable business complement each other in meeting this trend of demand. Accordingly, we
+are combining the strength of both organizations and developing new business models to meet
+the country's growing power needs and create long-term value for our shareholders through
+disciplined investment into value-accretive projects.
+
+
+At the same time, the grid is becoming more complex. Rapid renewable penetration is increasing
+backing-down requirements during solar hours and creating steep evening ramps. To address
+this, we are already implementing 5 gigawatt hour of battery energy storage system at our
+thermal power stations alongside pursuing other long-duration storage opportunities.
+
+
+NTPC Group delivered a strong operational performance during the second quarter. The growth
+in generation, captive coal dispatch and power trading volumes indicate robust growth in every
+business.
+
+
+However, due to transmission constraint, NGEL is facing curtailment of power from RE
+projects, which is a phenomenon faced by other RE projects in the country too. To address this
+issue, NGEL has plans to implement 40 gigawatt-hours of battery for which proposals are under
+process.
+
+
+In addition to the above, NGEL has entered into contracts for 3 gigawatt-hours of storage in
+service mode, and additional 12 gigawatt-hours are under tendering in service mode.
+
+
+To address transmission constraints and renewable energy curtailment, the Government of India
+approved the Green Energy Corridor Phase 3 schemes on 30th September 2026. The scheme
+will strengthen intrastate transmission systems to evacuate up to 135 gigawatts of renewable
+power and provide 50 gigawatt-hour of battery energy storage. It has a total project outlay of
+INR1,86,405 crores with central financial support of INR54,082 crores and is targeted for
+completion by FY32-33.
+
+
+Coal generation continued to provide reliable power and help balance the grid, particularly as
+hydro output was lower during the quarter. According to the CEA report, the plant load factor
+of coal plants across the country rose to 70.37% in H1 FY27 compared to 66.02% in H1 last
+year. Higher PLF has increased coal consumption, which continued to exceed supply.
+
+
+Accordingly, several coal stations in the country have critical coal stock levels. Presently, we
+have 5.2 MMT of coal stock at our stations, sufficient for 7 days of coal requirement. Despite
+supply constraint from CIL and Singareni Collieries Company Limited. dispatches from our
+captive mines grew by nearly 21% in H1 FY27.
+
+
+This was made possible by better monsoon preparedness at our coal mines and effective planning
+of our coal loading infrastructure. We have also issued tenders to procure 13 MMT of coal for
+H2 FY27 from alternative sources including commercial mines, Orissa Power Generation
+Company, NLC and West Bengal.
+
+
+
+                        Page 3 of 17
+
+                                                                                NTPC Limited
+                                                                              October 31, 2026
+
+We are also in the process of awarding 4 million metric tons of additional coal to be procured
+through domestic sources. We are closely monitoring coal stocks and coordinating with all
+stakeholders including Ministry of Coal, Ministry of Power and Ministry of Railways while
+working to increase the production from our captive mines.
+
+
+With commencement of land acquisition process at one of our projects, our nuclear program has
+picked up speed. We have also strengthened our nuclear team, bringing the team strength to over
+100 members. The Government of India has published draft rules under the SHANTI Act for
+setting up nuclear power plants in the country. These rules are currently under consultation and
+mark an important step towards wider participation in India's nuclear sector.
+
+
+Recently, we have also issued expression of interest for offering 26% equity to commercial and
+industrial consumers under group captive route, which will create an additional pillar of
+sustained growth moving forward.
+
+
+We have also decided to establish a 100-megawatt data center, at a couple of locations as part
+of our initial phase. We are also exploring further opportunities in this business.
+
+
+Now I turn to NTPC Group's key highlights during H1 FY27. As on H1 FY27, NTPC Group's
+installed capacity stood at 91,506 megawatts. We have added 2,398 megawatts of capacity, out
+of which NTPC is 196 megawatts, NGEL Group is 1,136 megawatts and other group companies
+have added 1,066 megawatts. Additionally, 162 megawatts have been added in October 2026.
+
+
+NTPC group generation stood at 236 billion units in H1 FY27 compared with 214 billion in H1
+FY26, registering growth of 10.4%. NTPC reached the 200-billion-unit generation milestone in
+156 days, its fastest ever achievement.
+
+
+NTPC coal stations achieved a PLF of 75.11% against rest of India's average of 68.35%.
+
+
+Generation from NGEL group during H1 FY27 stood at 10.88 billion units as compared to 6.76
+billion units in H1 FY26, registering a growth of 60%.
+
+
+NVVN traded 31 billion units of power as compared to 24.8 BU in H1 FY26, registering a
+growth of 25%. NVVN has also commissioned 250 megawatt /500 megawatt-hours BESS as
+part of BESS implementing agency notified by Ministry of Power.
+
+
+Coal dispatch from group captive coal mines increased to 26.13 million metric tons in H1 FY27
+as compared to 21.63 MMT last year, registering a growth of 21%.
+
+
+NTPC has awarded Lara Stage 3, (1,600 megawatts) and issued limited notice to proceed
+pending environmental clearance in Q2 FY27.
+
+
+Our group thermal stations co-fired 0.83 million metric tons of biomass, which is 65% more
+than biomass co-fired during H1 FY26.
+
+
+
+
+                         Page 4 of 17
+
+                                                                             NTPC Limited
+                                                                           October 31, 2026
+
+NTPC participated in Ministry of Coal incentive scheme for coal gasification projects and
+submitted a proposal for producing 5 lakh tonnes per annum synthetic natural gas at Talaipalli.
+We are also planning to participate in round 2 of the scheme for methanol/ dimethyl ether/ urea
+plant, etc.
+
+
+During the H1 FY27, CRISIL ESG Rating and Analytics Limited has assigned CRISIL ESG 62,
+(Category Strong) to NTPC.
+
+
+As regards fund mobilization, during the H1 FY27, a loan agreement amounting to USD750
+million was executed on 6th May, 2026 between NTPC and a consortium of SBI, HDFC, and
+Bank of Baroda, all from IFSC Gift City. NTPC has availed RBI concessional USD-INR swap
+facility for the drawn amount of USD450 million.
+
+
+The weighted average interest rate on borrowings during H1 FY27 stood at 5.72% compared to
+5.98% in FY26, reflecting the benefits of proactive refinancing and restructuring of company's
+loan portfolio.
+
+
+As regards capital expenditure progress, in H1 FY27, we have incurred a group capex of
+INR23,932 crores as compared to INR23,115 crores in H1 FY26, while on a standalone basis,
+NTPC has incurred capex of INR14,398 crores in H1 FY27 as compared to INR14,149 crores
+in H1 FY26.
+
+
+The gross property, plant, and machinery as on 30th September 2026 on group level has
+increased to INR4,85,444 crores from INR4,37,142 crores as on 30th September 2025 during
+the last 1 year, an increase by 11%.
+
+
+I will now take you through some of the key financial numbers giving comparison for the
+corresponding period.
+
+
+As regarding the standalone financials, revenue from operation for Q2 FY27 is INR45,752
+crores, as against INR39,167 crores for Q2 FY26, registering a growth of 17%. For H1 FY27,
+revenue from operation has reached INR89,584 crores from INR81,736 crores in H1 FY26,
+registering a growth of 10%.
+
+
+NTPC's profit after tax for Q2 FY27 is INR5,320 crores as against INR4,653 crores in the
+corresponding quarter of previous year, registering a growth of 14%. NTPC's profit after tax for
+H1 FY27 is INR10,662 crores as against INR9,428 crores in the previous year, registering a
+growth of 13%. Adjusted PAT for H1 FY27 is INR10,469 crores against INR8,932 crores in the
+previous year, registering a growth of 17%.
+
+
+During Q2 FY27, we have accounted for dividend income of INR658 crores from our
+subsidiaries and joint ventures, in addition to INR238 crores earned during Q1 FY27. Standalone
+regulated equity for conventional power business as on 30th September 2026 is INR92,926
+crores, as against INR94,454 crores as on 30th September 2025. The reduction is due to transfer
+of coal mining business from NTPC Limited to wholly owned subsidiary Company NTPC
+Mining Limited.
+
+                        Page 5 of 17
+
+                                                                              NTPC Limited
+                                                                            October 31, 2026
+
+As regards the consolidated group financials, total income of the group for H1 FY27 is
+INR1,05,857 crores as against INR93,083 crores in H1 FY26, an increase of 14%. PAT for
+group for H1 FY27 is INR14,247 crores as against previous year INR11,334 crores, an increase
+by 26%. During H1 FY27, our subsidiaries earned a profit of INR3,194 crores. NTPC's share of
+profit in JVs was INR1,253 crores in H1 FY27. Consolidated regulated equity for the group
+stood at INR1,21,786 crores as on 30th September '26, as compared to INR1,16,022 crores as
+on 30th September last year.
+
+
+Coming to the NTPC Green Energy Limited highlights, consolidated revenue from operation
+increased by 58% to INR2,045 crores in H1 FY27, while Operating EBITDA grew by 60% to
+INR1,818 crores as compared to H1 FY26. EBITDA margin remained at 89%. For the Q2 FY27,
+revenue from operations for NGEL Group has increased to INR938.16 crores from INR612.29
+crores in Q2 FY26, showing an increase by 53.22%. Operating EBITDA has also increased to
+INR829.69 crores in Q2 from INR529.6 crores in the last year, which amounts to increase by
+56.67%.
+
+
+I am pleased to inform that NTPC Board has recommended first interim dividend for FY 26-27
+at INR3 per share, in line with the company's commitment to delivering value to its shareholders.
+
+
+Looking ahead, our priority is to turn India's growing electricity demand into sustainable growth
+for NTPC and NGEL. We will build on the complementary strength of our conventional
+generation portfolio and renewable energy business to deliver reliable power while supporting
+the country's energy transition.
+
+
+We are actively looking at C&I opportunities to look beyond DISCOMs. With over 37 gigawatts
+of capacity under construction, including 17 gigawatts of coal-based capacity, about 3.6
+gigawatts of hydro and around 16 gigawatts of renewables, our immediate focus is on timely
+project execution and maintaining maximum availability of power stations.
+
+
+Alongside this, we will strengthen fuel security by maximizing production from captive mines,
+diversified coal sourcing, and close coordination with suppliers and transport agencies.
+
+
+Energy storage will be a key priority as renewable energy capacity grows. We are progressing
+well on setting up storage at massive scale. We are also developing new opportunities in
+synthetic natural gas, methanol, dimethyl ether, and urea. Nuclear energy remains an important
+part of our long-term growth strategy. Our priorities are to progress the Mahi Banswara project
+and further identify suitable sites for future projects and build the technical and quality
+capabilities needed for nuclear projects development.
+
+
+Across these initiatives, we will remain focused on disciplined capital allocation, cost control,
+and operational excellence. Our aim is to balance growth with financial strength, meet the
+country's evolving power needs, and create lasting value for our shareholders.
+
+
+Thank you for joining us. We will now be happy to take your questions. I now hand over to
+Nuvama for the question-and-answer session. Thank you so much.
+
+
+
+                         Page 6 of 17
+
+                                                                                              NTPC Limited
+                                                                                            October 31, 2026
+
+Moderator:     Thank you very much. We'll now begin the question-and-answer session. The first question is
+               from the line of Mohit Kumar from ICICI Securities. Please go ahead.
+
+
+Mohit Kumar:   Yes, good afternoon, sir, and congratulations on a very good quarter. My first question is,
+               demand has been very high in last several months leading to peak shortages, right? Is there
+               indication from the government to increase your thermal pipeline? Are you looking to start work
+               on few more thermal plants this fiscal from the earlier 4 gigawatt additional pipeline which you
+               had indicated?
+
+
+Management:    Sorry, you are not audible. Can you repeat and be louder, please?
+
+
+Mohit Kumar:   Yes. So demand has been very high in the last 7 months leading to peak shortages, right? My
+               question is, are you looking to start work on a few more thermal power plants in this fiscal or
+               next fiscal? I think earlier you had indicated 4 gigawatt additional pipeline?
+
+
+Management:    Yes, as you know that our capacity under construction is already 17.32 gigawatts and moving
+               ahead we have plans for tendering out close to 4.8 gigawatts further. This will be largely from
+               Q1 and Q2 of the next year. This will comprise of 800 megawatts at second stage of Jhabua.
+               There will be another 800 megawatts from Talcher Stage 4. Then Talcher Kaniha Stage 3 will
+               have 2 units of 800, which would become 1,600. Bhilai, we are planning a single unit of 800.
+               And BRBCL Stage 2 will be 800. So that adds to around 4,800. So 2,400, that is half of that,
+               would come from a standalone, and 2,400 will be through the JV subsidiary. So beyond this
+               also, we are continuously exploring, working on 3 to 4 gigawatts on broad feasibility.
+
+
+               So, and if you take a bifurcation of this into pithead and non-pithead, again there is a split, is
+               equal. 2,400 megawatts will be coming from pithead stations and non-pithead will be 2,400
+               again. And the estimated capex of all these things would be INR67,000 crores And as you know
+               that Lara Stage 3, 1,600 megawatts, which was awarded in Q2 of FY26-27, has now been shown
+               as under construction project.
+
+
+Mohit Kumar:   Understood. My second question is that, since curtailment has impacted you negatively in this
+               quarter in NTPC Green, when do you expect the intensity of curtailment to reduce significantly
+               for our portfolio? And can you please quantify the revenue loss during the quarter because of
+               curtailment?
+
+
+Management:    See, broadly speaking, this is a phenomenon general across the country. But around 180
+               gigawatts of evacuation capacity is under construction, largely in the Gujarat and the Rajasthan
+               belt, through Khavda-Vatanam, Khavda- Navsari-Pune, HVDC Khavda-Nagpur, Fatehgarh-
+               Beawar, and Bikaner-Panipat Transmission Lines. Besides this also, the Green Energy Corridor
+               Phase 3 envisages 135 gigawatts of intrastate transmission capacity.
+
+
+               So, more specific to NGEL, our transmission constraint or the connectivity issue which we are
+               facing will all be surmounted by next year, mid-July. So, beyond which we will not have this
+               continued thing. So, pending this, we are trying to optimize this through, wherever possible,
+               through temporary GNA.
+
+
+
+                                        Page 7 of 17
+
+                                                                                                  NTPC Limited
+                                                                                                October 31, 2026
+
+                And the other significant thing which we would like to point out is, wherever we are facing this
+                problem, the PPA terms get extended because once we have this connectivity, the PPA term
+                starts. So, to that extent, we don't see this as a complete revenue loss. It gets shifted.
+
+
+                And the kind of revenue which we are getting through the T-GNA, squarely we are able to cover
+                other operational expenses, O&M and interest. And only the depreciation, which is the book
+                cost, doesn't get covered in this phenomenon. So, we are trying to get over this issue shortly.
+
+
+Mohit Kumar:    My last question is, Would you like to revise your RE capacity addition target, given the fact
+                that we've added only nearly 1.3 gigawatt, if I'm correct, in the first half H1?
+
+
+Management:     I would say that, we had begun with an estimation of close to 8 gigawatt. We are reviewing this
+                today, we have added capacity close to 1300 megawatt at the end of October. And our estimation
+                is that another 3.5 gigawatt is something which would be able to do.
+
+
+                Close to 1615 megawatt is something which would be on the ground, but which will be covered
+                under probably the delay in the transmission. So, the capacity constructed would be close to 6.5
+                gigawatt, but 1.5 gigawatt may be found wanting for a transmission, which probably -- as we
+                move ahead, we will be getting for that. So, at this present juncture, we may have some little
+                shortfall compared to what was the initial projection, which will be covered in the next year.
+
+
+Mohit Kumar:    Understood, sir. Thank you and all the best, sir. Thank you.
+
+
+Management:     Thank you.
+
+
+Moderator:      Thank you. The next question is from the line of Mohit Pandey from Citi Research. Please go
+                ahead.
+
+
+Mohit Pandey:   Yes, good evening, sir. Thank you for the opportunity and congratulations on a strong quarter.
+                The first question would be, is it possible to share the adjusted PAT for the consolidated entity
+                for Q2?
+
+
+Management:     Yes, I reckon I had mentioned the adjusted PAT, but let me repeat that. That you wanted for
+                consolidated, is it?
+
+
+Mohit Pandey:   Yes. Consolidated.
+
+
+Management:     For consolidated, the adjusted PAT would be INR7,152 crores for Q2 and as far as H1 is
+                concerned, it would be INR13,917 crores. Would you like for standalone as well?
+
+
+Mohit Pandey:   No, sir. Standalone is there in the PPT. For the base quarter, Q2-FY26 also, if you could share
+                for the consolidated entity. Yes.
+
+
+Management:     Yes. Base was INR5,000 crore last year for Q2 and INR10,809 crore for H1.
+
+
+Mohit Pandey:   Okay, sir. Thank you. And, sir, if you can share colour on both for the standalone and
+                consolidated. If we look at the standalone, regulated equity is down because of the transfer of
+                mines, but PAT is up mid-teens, right?
+
+
+                                          Page 8 of 17
+
+                                                                                                  NTPC Limited
+                                                                                                October 31, 2026
+
+Management:     Yes.
+
+
+Mohit Pandey:   And other income is also down. So, if you can share colour on that. Similarly, for the regulated
+                equity -- for the consolidated number, 40% growth. Yes.
+
+
+Management:     Yes. So, as I already mentioned, the regulated equity is down because of the transfer and other
+                income, there is a drop by INR432 crore. That is because interest from JV/subsidiary, while it
+                has gone up by INR180 crores, the dividend from JV/subsidiaries, we have received less by
+                INR481 crores. And the LPS, late payment surcharge, has also dropped by 28%, which is
+                reflective of a better collection efficiency, although, but it really, of course, has reduced our LPS.
+                So, that's broadly the reason which accounts for a INR432 crores drop in the other income.
+
+
+Mohit Pandey:   Yes.. Sir, my question was, despite the drop in other income, the profit growth is pretty strong.
+                So, Yes. My question was around that..
+
+
+Management:     Profit is a different thing than a dividend payout. So, profitability has come out of better
+                efficiency.
+
+
+Mohit Pandey:   Much ahead of the regulated equity growth. Yes, I was coming from that angle. Yes.
+
+
+Management:     That's right. It's about the efficiency. There are O&M gains, operational gains.
+
+
+Mohit Pandey:   Understood. Sir, so, we can expect this trend broadly to continue. So, profit growth to
+                significantly exceed regulated equity growth in the coming quarters as well? Because of the
+                efficiency issue?
+
+
+Management:     Yes, we can fairly expect that. Yes.
+
+
+Mohit Pandey:   Yes. That make together -- sir, and second question on Ratnagiri. Its profit is a function of
+                availability or of generation? Yes. Just, Yes, one clarification there.
+
+
+Management:     Again, kindly repeat.
+
+
+Mohit Pandey:   For the Ratnagiri gas -- Yes, where we have seen a strong increase in profit Y-o-Y, the profit is
+                linked to availability or to generation?
+
+
+Management:     Yes. it is because of generation. It is because of generation which was possible, because of the
+                increased demand.
+
+
+Mohit Pandey:   Understood. And sir, are there any plans similar to Sinnar Thermal for M&A with regards to any
+                state plans? Yes. And for Sinnar, what is the turnaround timeline that you will be looking at?
+
+
+Management:     We are targeting by December this year or January next, as far as Sinnar is concerned. And your
+                first part of the question was are we going for similar acquisitions, is it?
+
+
+Mohit Pandey:   Yes, sir.
+
+
+
+
+                                         Page 9 of 17
+
+                                                                                                   NTPC Limited
+                                                                                                 October 31, 2026
+
+Management:        And we are open, okay? We are always open to any kind of value accretive projects which are
+                   available through NCLT process or otherwise.
+
+
+Mohit Pandey:      Okay, Sir, last question is, was there any fixed cost under recovery linked to coal, Yes, in this
+                   quarter?
+
+
+Management:        No. As far as O&M, there are O&M gains in fact, but as far as fixed costs are concerned, we
+                   have significantly improved compared to the last year. So, the disincentive, how we coin it, it is
+                   INR332 crores. This is half of what was there in the last year of INR625 crores. So, the
+                   disincentives have dropped and the better seasons await us. So we will be able to improve it
+                   further.
+
+
+Mohit Pandey:      Understood. Thank you so much.
+
+
+Management:        Thank you.
+
+
+Moderator:         Thank you. The next question is on the line of Apoorva Bahadur from IIFL Capital. Please go
+                   ahead.
+
+
+Apoorva Bahadur:   Hi, sir. Thank you for the opportunity. Sir, in your opening remarks, you commented that NTPC
+                   is actively looking at C&I opportunity. Can you give some colour on this? Is it only for the
+                   renewables business or is it for the thermal business as well? And secondly, you also commented
+                   on the BESS deployment by NTPC Green. So when should we expect the first batteries to
+                   commission?
+
+
+Management:        See, we are actively pursuing on both the fronts as you rightly said. I will take the second part
+                   of the question first. That we have an overall plan of close to 47 gigawatt hours. Out of this, as
+                   we must have already shared with you, 5 gigawatt hours is coming from the thermal co location.
+                   So broadly, we are 41 to 42 gigawatt hours which we are targeting.
+
+
+                   Here broadly, this NGEL is initially targeting 2024 megawatt hours on a stand-alone and co
+                   located basis. And another 39,240 megawatt hours we are targeting through whatever is the night
+                   time connectivity, non-solar connectivity which is available to us. Here we are also exploring
+                   the possibility of utilizing this as well as tying up at the substation level through grid operator
+                   on a grid scale.
+
+
+                   So both these things generally take around 12 months to 18 months to set up this particular thing.
+                   So you can expect some kind of progress in the next 17 months to 18 months. And as far as your
+                   other part of the question is concerned, I will divert this question to the Director Projects, Mr.
+                   Shanmugha Sundaram.
+
+
+Management:        Actually, we have come up with an expression of interest for looking up partners in the area of
+                   C&I for the area of both power generation and heat. The EOI will be closing in the end of
+                   November. Then we will be able to know in which area we will be progressing further.
+
+
+Apoorva Bahadur:   Okay, sir. So we will probably set up coal plants for these partners for C&I as well. That's quite
+                   interesting?
+
+
+                                           Page 10 of 17
+
+                                                                                                   NTPC Limited
+                                                                                                 October 31, 2026
+
+Management:        Yes.
+
+
+Apoorva Bahadur:   Great. Sir secondly, on this Ratnagiri profit as well as I see that the profitability of THDC has
+                   also improved Y-o-Y significantly. So, can you give some update on this? Is it one time? Is it a
+                   structural increase for THDC? I believe it is the Khurja project which has been commissioned.
+                   For Ratnagiri, what are the contours of the PPA? It is a take-or-pay arrangement, or how do we
+                   get paid?
+
+
+Management:        So Yes, whatever is the revenue that you -- see, there is an underlying PPA as far as Ratnagiri
+                   is concerned, which continues. There are issues over there. But right now, we are -- the sales
+                   what you see is through the market operations. So whatever is the opportunity available to us in
+                   TRAS, the system requirement and markets, so we are continuously engaging in exploring the
+                   market sales opportunities. So that is as far as Ratnagiri is concerned.
+
+
+                   As regards THDC, the capacity of PSP has been added, 500 megawatts, and capacity addition
+                   of Khurja, 660 megawatts, the full effect of that will be seen in this year because we
+                   commissioned this in September last year, so it had effect of part month, whereas this year, it
+                   will have a full effect. But in any case, the H1, there is a substantial difference, so that is the
+                   reason we have enhanced INR221 crores for both these reasons.
+
+
+Apoorva Bahadur:   Last question on -- if I can ask on this regulatory deferral number, there is another item of
+                   INR862 crores. I believe it refers to some sort of a depreciation expense for one-time expense,
+                   which has been recorded. So what is this regarding, and is it recurring?
+
+
+Management:        No, it's a kind of a reversals of the excess depreciation till date of INR862 crores. That is the
+                   reason for this, because this pertains to Bongaigaon coal station. But it will have nil impact on
+                   profitability because it will figure in both the sides of income and expenditure.
+
+
+Apoorva Bahadur:   Sure, sure, sir. Understood. Thanks a lot.
+
+
+Moderator:         Thank you. The next question is from the line of Sumit Kishore from Axis Capital. Please go
+                   ahead.
+
+
+Sumit Kishore:     Good evening. Thanks for the opportunity. My first question is around, capacity addition. Now,
+                   for the first half, you have done about 2,398 megawatts for NTPC Group. What are your targets
+                   for FY27, '28, '29? And if you can break them across thermal RE for NTPC standalone, NTPC
+                   Group, and NGEL, please?
+
+
+Management:        See, as far as the guidance for FY27 is concerned, which I had elaborately set out based on
+                   earlier query from one of the participants, so I will not repeat that. As far as FY28 is concerned,
+                   we are targeting a total of close to 9.6 gigawatts, which will have thermal capacity of 1,460
+                   megawatts, hydro of 444, and renewable capacity of 7,735 megawatts.
+
+
+                   So out of this, standalone would be 726 megawatt, and JV subsidiary will contribute about 8,913
+                   megawatt, making it a total of 9,639 megawatt for the group as a whole. The year next, that is
+
+
+
+                                           Page 11 of 17
+
+                                                                                                 NTPC Limited
+                                                                                               October 31, 2026
+
+                 FY29, the target is 10,877 megawatts, which will have a broad breakup of 3,070 megawatts of
+                 thermal, no hydro. Renewable will be 7,807 megawatts.
+
+
+                 So this will be largely contributed by JVs and subsidiaries, which is 8,617 megawatt, and
+                 standalone, there will be 1 unit of, TTPS-3, Talcher-2, and Lara, 2 units, 1,600 megawatt. So it'll
+                 be 3 units, thermal units, contributing to 2,260 megawatt, and remaining from JVs and
+                 subsidiaries. Thank you.
+
+
+Sumit Kishore:   Sir, for FY27, you had given details for NGEL mainly. For NTPC Group as a whole, what is the
+                 total expectation? If I missed it, can you please repeat it for NTPC Group?
+
+
+Management:      Yes, the NTPC Group, the earlier expectation was 9.5 gigawatts, which we are scaling it down,
+                 based on the dispensation on the renewable side. So it would be now close to 8 gigawatts.
+
+
+Moderator:       You please go ahead.
+
+
+Sumit Kishore:   Yes, sir. Please go ahead.
+
+
+Management:      Yes. So it would be 8 gigawatts, that would be the revised estimates, and thermal would be --
+                 the entire thing will be from renewable.
+
+
+Sumit Kishore:   No more thermal.
+
+
+Management:      By renewable.
+
+
+Sumit Kishore:   Okay.
+
+
+Management:      1070 megawatt is already there.
+
+
+Sumit Kishore:   Yes. Just one clarification on the slide, in the NTPC deck, NGEL capacity addition in 6 months
+                 is 1136 megawatt, and in the NGEL deck, it is 983 megawatt. I mean, which is the more updated
+                 number for the 6 months period?
+
+
+CFO(NGEL):       I'm Neeraj Sharma, CFO, NTPC Green Energy. So as on 30th September, the number was what
+                 we have given in our NGELs KPH (key performance highlights). However, in NGEL capacity
+                 under commercial operation was given and in case of NTPC only installed capacity was given.
+
+
+Sumit Kishore:   Okay, got it. Thank you.
+
+
+Moderator:       Thank you. The next question is from the line of Prawin Visesh from PPFAS Mutual Fund.
+                 Please go ahead.
+
+
+Prawin Visesh:   Hello. I just had a question on our under-construction capacity under thermal and also our
+                 thermal capacity addition targets for FY32. So if I see the quarterly PPT, the under-construction
+                 capacity is around more than 17 gigawatts. But if I look at our year-end analyst meet
+
+
+
+
+                                         Page 12 of 17
+
+                                                                                                 NTPC Limited
+                                                                                               October 31, 2026
+
+                  presentation, there the capacity addition target for FY32 was about 10 gigawatts in thermal. So
+                  I just wanted to understand this discrepancy because it is 7 gigawatts?
+
+
+Management:       FY32?
+
+
+Prawin Visesh:    Yes,
+
+
+Management:       No, there is a – okay. So by the end of 2032 some of the capacity would not have achieved COD.
+                  So you are presupposing that the entire 17 gigawatt under construction would have seen the
+                  operation, but some of that would extend beyond this. That is the difference.
+
+
+Moderator:        Thank you. The next question is from the line of Nikhil Nigania from Bernstein. Please go ahead.
+
+
+Nikhil Nigania:   Hi, thank you, sir. Sir my first question is on the renewable business. So, as you said,
+                  transmission has been a challenge for us and for others as well, hence our guidance has been cut.
+                  But what gives us confidence on, you know, again achieving 8 gigawatts next year or the year
+                  after, because it's been a consistent trend, and with no easy answers. So just, I mean, how
+                  confident are we of achieving the numbers? Or is there some other issue on ground why we have
+                  been missing our renewable addition targets?
+
+
+Management:       No, largely the issue is about transmission, but sometimes even your transmission constraints
+                  are there, it doesn't pay to complete the project, spend on interest during construction. So we
+                  tend to regulate it sometimes on the ground regarding expenditure, but largely the issue is on the
+                  transmission, and this would have been largely surmounted in the next year, so we are fairly
+                  confident about the next year, but to add to that, I will request CEO, NGL, to share his exact
+                  picture.
+
+
+CEO(NGEL):        Yes. I'm Sarit Maheshwari, CEO, NTPC Green Energy Limited. Let me start by explaining a
+                  little bit on the capacity front. If you recall, we have been consistently saying that in FY27,
+                  FY28, and FY29, we would be doing, as a ballpark figure around 8 gigawatt every year. See, if
+                  you look at, we have also been telling about the connectivity availability in each of these years.
+
+
+                  So if you see in FY27, as Director Finance has just explained, we had a connectivity of only
+                  44% of this capacity. So what we did was that we back-ended the capacity addition generation.
+                  So you would find that significant amount of capacities will be coming in the 3rd and the 4th
+                  quarter.
+
+
+                  To give you a little bit more flavor of the total capacity, we had said that initially we would be
+                  doing around 8,061 megawatts of capacity, and by the end of this financial year, the on-ground
+                  capacity that we would have erected would be around 6.35 gigawatts. So there isn't much
+                  difference.
+
+
+                  The only difference that is arising out is because you are not seeing the COD happening. And
+                  this COD is primarily because of the bulk of the capacity being added in the Khavda region,
+                  wherein the transmission has got inadvertently delayed by almost more than a year. So that is
+                  why you are seeing that consistently there is a rolling back of this.
+
+                                          Page 13 of 17
+
+                                                                                                 NTPC Limited
+                                                                                               October 31, 2026
+
+                  We were to get the connectivity in October '26, the full capacity -- for our full capacity, which
+                  has now been moved to November '27. So therefore, this delay is the actual SCOD that you are
+                  seeing. But all the projects for FY27, FY28, and FY29 are the work is in progress. And once
+                  these transmission constraints are over, you would see that these CODs would translate into real
+                  capacities.
+
+
+Nikhil Nigania:   I got it, sir. Thanks so much for the colour. Then moving on to the storage side, good to see
+                  progress on BESS. Wanted to understand, why is it taking us 12 months to 18 months to set up
+                  a BESS plant? Any plans to do a Merchant BESS plant? And lastly, on pumped storage, we have
+                  been highlighting that we have got 16 sites or something in that range, but we don't see any news
+                  of ordering or plans to order any PSP assets. So wanted an update on those two fronts?
+
+
+Management:       I'll request Director Operations to take this.
+
+
+Management:       Yes, regarding battery, we are on track, and if some contractors are not working, we are
+                  terminating and giving contract to others. So very well, we are online, and we are pretty hopeful
+                  that by April we will get all the units, all the battery commissioned.
+
+
+Management:       Coming to the pump storage, we will be completing our first DPR, that is in Maharashtra, by
+                  December. Then other DPR will be completed in the month of March, that is for Amba. Then
+                  our subsidiaries THDC and NEEPCO are working on PSPs. Once DPR is completed and TEC
+                  is done, then we'll be going for award.
+
+
+CEO(NGEL):        I would also like to add on the BESS capacities that we are putting up in NGEL. You see -- your
+                  question was that why it takes around 12 months to 18 months to -- see, basically these are
+                  utility-scale batteries, the largest container being almost of the order of only 5 megawatt-hour.
+                  So, when we are talking about such large quantities, both on the DC side as well as on the AC
+                  side, it does take this much of time.
+
+
+                  And you would see bulk of our capacities that NGEL will be -- is putting as on the night
+                  connectivity will be showing its on-ground presence in FY29. A part of it will come in FY28
+                  also. A shade of capacities will be next year wherein the work is already going on around 1,350
+                  megawatts. That capacity will come by the mid of FY27.
+
+
+Moderator:        Arihant, sir, can you hear me? Arihant, sir, can you hear me? Due to no response, we move on
+                  to the next participant. The next question is from the line of Mahesh Patil from ICICI Securities.
+                  Please go ahead.
+
+
+Mahesh Patil:     Yes. Hi, thanks for the opportunity. So, my question is on the comment that we made with -- on
+                  some new solutions with, NGEL that we are planning, and we also mentioned C&I where we
+                  are also interested in deploying thermal. So, could you throw some light on this exactly what we
+                  are doing? Is it some hybrid solution with renewables, thermal, that we are planning for C&I.
+                  Which are this -- which are the type of customers or industry we are targeting here? Any colour
+                  on that?
+
+
+
+
+                                          Page 14 of 17
+
+                                                                                               NTPC Limited
+                                                                                             October 31, 2026
+
+Management:     This has been already told. We have come out with an expression of interest that will be closing
+                at the end of November. Then we will see how we'll move forward. It will be in the area for heat
+                and generation, and in all sorts of supplies - whether it is renewable or hydro or thermal,
+                whatever it is. We are trying to add to this C&I segment.
+
+
+Moderator:      Mahesh, sir, can you hear me?
+
+
+Mahesh Patil:   Yes, yes, sir. Okay, thank you.
+
+
+Moderator:      Thank you. The next question is from the line of Atul Tiwari from JPM. Please go ahead.
+
+
+Atul Tiwari:    Yes, sir. Thanks a lot. So, my question is on the gas supply situation for Ratnagiri. So, what is
+                the fuel cost that you are operating at right now, and is it LNG or some domestic source of gas?
+
+
+Management:     Yes, it is based on the LNG which is getting imported. The cost is varying from $16 to $32. So,
+                whatever it is available in the spot, we are purchasing, or we are tying through long-term tie-up.
+                So average, we can say we are getting less than $28 to $29.
+
+
+Atul Tiwari:    Okay. And so, based on that average, what will be the fuel cost per kilowatt hour roughly?
+
+
+Management:     Approximately they come in INR26.
+
+
+Atul Tiwari:    INR26, okay. Yes, and sir, on the -- on your BESS strategy, obviously we have seen you
+                canceling a contract with some of the contractors who are not doing the work, but in the sector
+                at the same time we are seeing some of your smaller competitors in the private sector directly
+                tying up with Chinese suppliers and getting batteries much faster.
+
+
+                So rather than going through some of these smaller contractors who ultimately delay the project,
+                have you explored directly sourcing the batteries and installing and speeding up the process?
+                Because we do need these batteries as quickly as possible to tide over these shortages.
+
+
+CEO(NGEL):      Yes, you're very right. In fact, if you see, we were constrained by the 144 GFR Rule of
+                procurement wherein we could not have directly imported from China. We have been pursuing
+                actively with the government and we have now been asked to procure directly, and we would
+                therefore be going ahead with a 40 gigawatt-hour tender coming up soon, which would be an
+                ICB tender. Procurement of it would be directly from all the Chinese or the other related, the
+                places from where we were not able to source directly. So, what you said, we are already on the
+                way on that.
+
+
+Atul Tiwari:    Great, good to know. Thank you, sir. And best of luck.
+
+
+Moderator:      Thank you. The next question is from the line of Rajesh Majumdar from 360 ONE Capital.
+                Please go ahead.
+
+
+
+
+                                        Page 15 of 17
+
+                                                                                                    NTPC Limited
+                                                                                                  October 31, 2026
+
+Rajesh Majumdar:   Yes, good evening, sir. Thanks for the opportunity. I had a couple of questions. One is that, is it
+                   possible to give us a breakdown of the regulated equity of THDC, NEEPCO, Meja, and Patratu?
+                   These are the main ones, actually.
+
+
+Management:        We can -- we don't have it right now, but we will give you the breakup, share with you.
+
+
+Rajesh Majumdar:   Okay. Because a lot of the growth is coming on the subsidiaries. So, I was interested in the
+                   regulated equity here of these ones.
+
+
+Management:        Fair enough, we will share it.
+
+
+Rajesh Majumdar:   Right. And my second question, sir, was -- how do we read into the increase in profitability of
+                   BRBCL? So, it's a regulated business. However, the PAT has grown by nearly more than
+                   INR100 crores this quarter -- this first half. How we see the profits of this subsidiary going
+                   forward?
+
+
+Management:        BRBCL, we see the profit for the Q2 has gone up by INR64 crores. This is because there is a
+                   reduction in finance cost due to refinancing of term loan and scheduled repayment. And the other
+                   is the impact of fly ash transportation billing and security expenses, we have billed that.
+
+
+Rajesh Majumdar:   So, in terms of annualized PAT, what— how should we look at BRBCL now with the change in
+                   the refinancing, etc.
+
+
+Management:        You can see an improved trend compared to last year. I will not be able to say immediately
+                   whether -- I mean, the first half -- what you see, the differential in the first half can be exactly
+                   repeated in the second. But yes, there will be -- to the extent of that, the impact will be there for
+                   finance cost, will translate to a better margin.
+
+
+Rajesh Majumdar:   And sir, in NTPC Mining, what is the regulated return? Is it 14% or is it 15.5%?
+
+
+Management:        It is 14%.
+
+
+Rajesh Majumdar:   Okay. Thank you, sir.
+
+
+Moderator:         Thank you, ladies and gentlemen. Due to time constraints, we take that as the last question for
+                   the day. And now I would like to hand the conference over to Mr. Subhadip Mitra from Nuvama
+                   Wealth Management for the closing comments. Please go ahead.
+
+
+Subhadip Mitra:    Thank you. On behalf of Nuvama Wealth Management, I would like to thank the management
+                   of NTPC for giving us this opportunity to host the call. Sir, any closing comments from your
+                   side?
+
+
+Management:        Yes, thank you. I thank all the participants who have joined this earnings call and would like to
+                   convey our gratitude to the investors and analysts for their participation and the trust and
+                   confidence reposed in NTPC. I also take this opportunity to thank the Government of India,
+
+
+
+
+                                           Page 16 of 17
+
+                                                                                                                           NTPC Limited
+                                                                                                                         October 31, 2026
+
+                                  Ministry of New and Renewable Energy, and Ministry of Power for their continued guidance
+                                  and support.
+
+
+                                  My thanks to the fellow board members for their support and also express our sincere
+                                  appreciation to Nuvama for organizing this Earnings Conference Call and facilitating the
+                                  interaction with investors. Any further queries or clarifications may be addressed to NTPC's
+                                  Investor Relations department at ir@ntpc.co.in And I'll end here with a warm greetings to all of
+                                  you for the forthcoming Deepavali festival. Thank you so much.
+
+
+Subhadip Mitra:                   Thank you.
+
+
+Moderator:                        On behalf of Nuvama Wealth Management Limited, that concludes this conference. Thank you
+                                  for joining us, and now you may disconnect your lines.
+
+
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings.
+
+
+
+
+                                                            Page 17 of 17
+

@@ -1,0 +1,1060 @@
+                                                                               TD Power Systems Limited
+November 19, 2026                                                              (CIN -L31103KA1999PLC025071)
+
+                                                                               REGISTERED OFFICE & FACTORY:
+                                                                               27, 28 and 29, KIADB Industrial Area
+The Corporate Service            The Listing Department                Dabaspet, Nelamangala Taluk
+Department                       The National Stock Exchange of India Bengaluru  Rural District
+                                                                       Bengaluru – 562 111 India
+BSE Limited                      Ltd.
+                                                                       Tel +91 80 229 95700 / 6633 7700
+P J Towers, Dalal Street         Exchange Plaza, Bandra- Kurla Complex Fax +91 80 7734439 / 2299 5718
+                                                                       Mail tdps@tdps.co.in
+Mumbai - 400 001                 Bandra (East) Mumbai - 400 051
+Scrip Code: 533553               Symbol: TDPOWERSYS                    www.tdps.co.in
+
+
+
+
+Dear Sir/Madam,
+
+SUB: TRANSCRIPT OF EARNING CONFERENCE CALL – QUARTER ENDED
+SEPTEMBER 30, 2026.
+
+In furtherance of our letter dated November 04, 2026, regarding intimation of earnings
+conference call, the transcript of Q2 FY 2027 earning conference call held on November
+13, 2026, is enclosed and same has been uploaded on the website of the Company at
+www.tdps.co.in.
+
+Kindly take the above on record.
+
+Yours faithfully,
+For TD Power Systems Limited
+BHARAT            Digitally signed by
+                  BHARAT RAJWANI
+
+RAJWANI           Date: 2026.11.19
+                  17:28:36 +05'30'
+
+Bharat Rajwani
+Company Secretary & Compliance Officer
+
+
+Encl: A/a
+
+                           “TD Power Systems Limited
+           Q2 & H1 FY27 Earnings Conference Call”
+                                     November 13, 2026
+
+
+ E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recording uploaded on the stock
+                                    exchange on 13th November 2026 will prevail.
+
+
+
+
+MANAGEMENT:               MR. NIKHIL KUMAR – MANAGING DIRECTOR
+                          MS. M.N. VARALAKSHMI – CHIEF FINANCIAL OFFICER
+                          MR. VINAY HEGDE – GLOBAL HEAD - SALES &MARKETING
+
+
+
+
+                                                   Page 1 of 16
+
+                                                                                     TD Power Systems Limited
+                                                                                           November 13, 2026
+
+Moderator:      Ladies and gentlemen, good day and welcome to the Q2 and H1 FY27 Earnings Conference Call
+                of TD Power Systems Limited. As a reminder, all participant lines will be in the listen-only
+                mode, and there will be an opportunity for you to ask questions after the presentation concludes.
+                Should you need assistance during the conference call, please signal an operator by pressing star
+                then zero on your touch-tone phone. Please note that this conference is being recorded.
+
+
+                Before we begin, I would like to point out that this conference call may contain forward-looking
+                statements about the company, which are based on the beliefs, opinions, and expectations of the
+                company as on date of this call. These statements are not the guarantees of future performance
+                and involve risks and uncertainties that are difficult to predict.
+
+
+                I now hand the conference over to Mr. Nikhil Kumar, Managing Director of TD Power Systems
+                Limited. Thank you, and over to you, sir.
+
+
+Nikhil Kumar:   Thank you. Good morning, and thank you for joining us on this call to discuss the financial
+                results of TD Power Systems Limited for six months ended 30th September 2026. I would now
+                like to discuss the Q2 TDPS's financial performance for the year ending September 2026,
+                standalone.
+
+
+                Our total income for H1 on a standalone basis is INR14.55 billion versus INR7.64 billion over
+                the same period in the previous year, an increase of 91%. EBITDA for H1 is 20.02%, including
+                other income, excluding exceptional and treasury income, versus 18.42% over the same period
+                in the previous year.
+
+
+                Profit after tax and comprehensive income for H1 is INR2.074 billion versus a profit of INR989
+                million in the same period in the previous year, an increase of 110%. Order booking for the
+                manufacturing segment is INR23.19 billion, out of which INR20.88 billion is the generator
+                business, INR1.7 billion is the railway business, spares and aftermarket is INR0.16 billion, and
+                INR0.45 billion is the Turkey business.
+
+
+                Order inflow statistics. Order inflow for the quarter is INR8.24 billion, an increase of 57% on a
+                Q-o-Q basis. An increase from the previous year is about 70%. Order inflow from direct and
+                deemed exports is INR14.06 billion compared to INR6.95 billion in the previous year, 92% of
+                our H1 order inflows exports, 8% is domestic.
+
+
+                Consolidated. Our total income for six months on a consolidated basis is INR14.86 billion versus
+                INR8.33 billion, an increase of 78%. Profit after tax for H1 is INR2.096 billion versus profit of
+                INR1.1 billion, an increase of 89%.
+
+
+                We continue to maintain a strong cash position of INR4.19 billion, including customer advances
+                and the preferential share issue money. Order book market situation and guidance. In general,
+                we see a very, very buoyant situation for TDPS in all segments of the business. The basic factors
+                that are driving the growth continue to play out, and I'm just going to repeat them, but it's not in
+                the order of priority.
+
+
+
+
+                                         Page 2 of 16
+
+                                                                                       TD Power Systems Limited
+                                                                                             November 13, 2026
+
+                    We have data centers, grid stabilization, basic power generation, push toward renewables, which
+                    drives demand for geothermal, hydro, waste-to-energy, etc. We see all four sectors in full force.
+                    We see a very strong order inflow continuing, and the focus continues to be heavily on execution.
+                    Despite a lot of negative news in the media recently about the sustainability of data center
+                    demand, I would like to make two clear points.
+
+
+                    The first one is data centers is not the only game in town for TDPS. Yes, the demand and scope
+                    is huge, but all our customers, our customers, when I mean customers, I mean OEM customers,
+                    are selling turbines and engines to all segments of the market. Of course, a certain proportion is
+                    going to data centers, but our customers are extremely careful not to put all their eggs into one
+                    single basket.
+
+
+                    The second point about the sustainability of the data center demand. We see clear visibility on
+                    real projects and real demand up to around 2030, and we also see that there is no slowing down
+                    for production slots and bookings beyond 2030. This is what our turbine and engine customers
+                    have told us very clearly, that they are continuing to get strong production slots and bookings
+                    for beyond 2030.
+
+
+                    We are continuously, closely tracking the market, also working in very close coordination with
+                    our OEM customers to match our capacities with their forecast and demand. As I mentioned
+                    many times before, in many earnings calls before, these are early days, and as we see more
+                    engine capacity and turbine capacity come into the market in 2028 onwards, the numbers are
+                    going to keep going up for generators.
+
+
+                    Guidance. We revised our final guidance for FY27, our final guidance to INR2,900 crores-
+                    INR3,000 crores, and H2 sales will be more or less distributed equally between Q3 and Q4,
+                    between INR725 crores-INR750 crores per quarter. For next year, we give an initial conservative
+                    guidance of INR3,400 crores, INR3,500 crores, with a very, very high likelihood of upward
+                    revision. This brings me to the end of my initial remarks.
+
+
+                    I'll now be happy to address any queries that you may have. Thank you.
+
+
+Moderator:          Thank you very much, sir. We will now begin the question-and-answer session. The first
+                    question is from the line of Mohit Kumar from ICICI Securities Limited. Please go ahead.
+
+
+Mohit Kumar:        Yes, thanks for the opportunity, and congratulations on a very strong set of numbers and very
+                    strong order book. My first question is that how much your current order book is executable
+                    over next 12 months, and are you speaking to your clients now for FY29 delivery, and how those
+                    conversations are progressing?
+
+
+Nikhil Kumar:       Varalakshmi, you can answer this question. I think most of the order book is executable over the
+                    next 12 months, right?
+
+
+M.N. Varalakshmi:   Yes, sir. We will also have book and bill for next financial year for the guidance that we have
+                    given.
+
+
+
+
+                                             Page 3 of 16
+
+                                                                                        TD Power Systems Limited
+                                                                                              November 13, 2026
+
+Nikhil Kumar:       Correct. Okay. We have about INR2,300 crores pending order.
+
+
+M.N. Varalakshmi:   Yes.
+
+
+Nikhil Kumar:       We have given initial guidance for INR3,435 crores, so we will have more than INR1,200 crores
+                    of book and bill within the year. We also have November to March also, right, before we close
+                    the order book for this financial year. So the order book for next year should further go up.
+
+
+                    Coming to the second question, I think that I have mentioned this a number of times before, and
+                    I want to say this once again. We have a very clear number guidance for next year, I mean, '27,
+                    '28. I have given the initial guidance out, and we are talking to customers very closely for '28,
+                    '29, '30 and the process is, we talk almost now on a monthly basis about capacities and planning
+                    and execution.
+
+
+                    I can't say more than this right now, except that it is a very, very tightly knit, very, very close
+                    coordination with our customers. Obviously, we go into the market together, and make sure that
+                    we have sufficient capacity to execute the demand from the market.
+
+
+Mohit Kumar:        Understood. My second question is, pardon my ignorance, but have you started booking orders
+                    from Siemens Energy for manufacturing and supply of two-pole generators on a build-to-print
+                    basis?
+
+
+Nikhil Kumar:       Yes, we have.
+
+
+Mohit Kumar:        How do you think about the scalability of these orders as you go forward, and how much, if you
+                    could quantify, if it's possible?
+
+
+Nikhil Kumar:       No, I'm not going to quantify it. We have mentioned in various forums earlier about the scale of
+                    the investment, and the construction of the project has begun. We have the Bhoomi Puja, which
+                    is scheduled for next week on November 19. It's going to be in full swing after that. We have
+                    ordered most of the major equipment, and the project is in full swing. The forecast and the
+                    commitments from Siemens side is as per plan. I guess, nothing more to say about this. It's as
+                    per plan.
+
+
+Mohit Kumar:        One clarification is that, are these orders from transformation of industry segment, or are these
+                    orders from the Siemens regular gas turbine business?
+
+
+Nikhil Kumar:       All from gas turbines. We are working with the gas turbine group. We're not working with the
+                    TI group.
+
+
+Mohit Kumar:        Understood, sir.
+
+
+Nikhil Kumar:       This is with the gas group.
+
+
+Mohit Kumar:        Understood, sir. Thank you, and all the best, sir. Thank you.
+
+
+Nikhil Kumar:       Thank you.
+
+
+                                              Page 4 of 16
+
+                                                                                      TD Power Systems Limited
+                                                                                            November 13, 2026
+
+Moderator:      Thank you. We will take the next question from Nitin Arora from Axis Mutual Fund. Please go
+                ahead.
+
+
+Nitin Arora:    Hi, thanks, Nikhil, for taking the question. Your commentary in the starting talked about the
+                diversification. It's not very data center-specific, and the execution also you feel is like the way
+                you were guiding for FY28, also a number.
+
+
+                If one has to look from FY27 till FY30, based on your capacity plus the Siemens capacity which
+                will come up, what do you think would be, from the existing order book and the pipeline which
+                you're seeing, any numbers if you can give us a little color?
+
+
+                Where do you see this company now heading towards in a little longer term, if one has to look
+                at from that perspective? Because it's a very tight, and the kind of orders which you put in the
+                presentation are very diverse as well?
+
+
+Nikhil Kumar:   I cannot give you an exact timeline, but I definitely feel that a $1 billion top line is possible.
+
+
+Nitin Arora:    That is still FY30?
+
+
+Nikhil Kumar:   I said I cannot give you a timeline, but I am saying that.
+
+
+Nitin Arora:    Okay, I got it.
+
+
+Nikhil Kumar:   we can drive a billion-dollar top line possible.
+
+
+Nitin Arora:    Got it. In terms of the geography, apart from the U.S., are you seeing some other geography as
+                well, the pipeline is getting stronger? If you can throw some light on that. Just on the pricing
+                side, how has been the pricing dynamics has really played out in the last six to eight months, and
+                recently also in the quarter you have bagged very strong orders? Just your comment on that?
+
+
+Nikhil Kumar:   Yes, I would like my colleague Vinay Hegde, the Head of Sales and Marketing globally, to
+                answer this question on the demand drivers from different parts of the world. Vinay, maybe you
+                can take this question.
+
+
+Vinay Hegde:    Yes, hi. This is Vinay. See, basically, we are getting orders from all over the globe. You are
+                seeing that a strong demand coming from India, mainly from the steel industries, that too in the
+                larger segments, from 40 megawatt up to 100 megawatt segment. There's lot of orders also
+                pouring in from Europe for grid stabilization and waste-to-energy. All the segments are growing.
+
+
+                The second part of the pricing part, see, we are booking the order for FY28, '29, even '30, but
+                we have the price variation clauses with all these some customers that will take the variation,
+                the raw material costs. Hope I have answered your question.
+
+
+Nitin Arora:    Yes. But on the pricing side, still it's in favor of the players like you, or you're seeing some
+                pressure on the end demand, your pricing? Just a little bit on the…
+
+
+
+
+                                          Page 5 of 16
+
+                                                                                     TD Power Systems Limited
+                                                                                           November 13, 2026
+
+Nikhil Kumar:    The pricing is stable at the moment, right? Pricing is not going to go up drastically. Pricing will
+                 go up to the extent of the as per the price variation formulas that we have based on raw materials,
+                 right? So if raw material prices go up, our prices will go up. Raw material prices go down, our
+                 prices will go down to the extent that the raw materials will go down. So, our margins will be
+                 protected in the end of the day.
+
+
+Nitin Arora:     Got it. Thanks, Nikhil. I'll come back in the queue. Thank you.
+
+
+Nikhil Kumar:    Yes.
+
+
+Moderator:       Thank you. Next question is from Mihir Manohar from Trust Mutual Fund. Please go ahead.
+
+
+Mihir Manohar:   Yes, hi. Thanks for giving the opportunity, and congratulations on great set of numbers. Sir,
+                 wanted to understand on the waiting period. I mean, actually the waiting period was quite long.
+                 Just wanted to get a sense, I mean, over the last three months, last six months, has the waiting
+                 period further increased for generators or has it come down? That was the first question.
+
+
+                 Second was on the evolving political landscape. Now with, I mean, Democratic parties and the
+                 representatives over there are getting importance. How do you see this political landscape
+                 evolving? Does it slow down the approvals?
+
+
+                 But eventually, I mean, these hyperscalers will need to have their own power sourcing. So, I
+                 mean, your comments on this political landscape. How should one see that evolving and
+                 consequently impact on the power equipment provider just like you here?
+
+
+Nikhil Kumar:    Look, I am not an expert on the U.S. political situation, but to the extent that it affects our
+                 business, I've had a number of discussions with our OEM customers and also with some end
+                 users. Basically, the unanimous verdict is that if a particular state or a particular county or a
+                 particular government does not allow a data center to come up, the investment will go
+                 somewhere else.
+
+
+                 No Democrat governor or politician can refuse or will refuse an investment of, let's say, tens of
+                 billions of dollars for data center. During construction phase, you will have hundreds of
+                 construction jobs. You'll have jobs for electricians, plumbers, construction workers, managers,
+                 the hotels, the restaurants, the side effects of all these people coming and working. All local
+                 communities get benefited by that.
+
+
+                 Nobody can ignore, ultimately, at the end of the day, the economic benefit of the construction
+                 of data centers. In the U.S. market, that is the only game in town. That is the only growth driver
+                 for the U.S. market. You take that away, there's nothing else which is there.
+
+
+                 So, relatively speaking, of course. You can already see Democratic governors changing their
+                 tone, changing their language after elections. I don't think that I want to speak very specifically
+                 about any particular person or anybody or anything else, but in general, politicians, once they
+                 come into power, once they face the reality of governing, often change their viewpoints and their
+                 execution.
+
+
+
+                                          Page 6 of 16
+
+                                                                                     TD Power Systems Limited
+                                                                                           November 13, 2026
+
+                 So, I think the same thing is going to happen, and everyone believes the same thing is going to
+                 happen in the U.S. This momentum and this data center boom is going to continue.
+
+
+Mihir Manohar:   Sure. My question was more to the equipment side. I mean, companies will need to have their
+                 reliance on their own equipment, I mean, own the power sources rather than on grid. How do
+                 you see that evolving? Second was on the waiting period?
+
+
+Nikhil Kumar:    That will reinforce, and that is beneficial to us. Regulation will come on data centers having
+                 their own captive power, which will be beneficial for us, obviously. That means grid power will
+                 be used as a backup maybe, but basically, data centers will run captive, it will be primary, and
+                 then there will be backups, so it will be almost double the capacity required for captive.
+
+
+                 Then they may have to sell excess power to the grid. I also feel that eventually what is going to
+                 happen with the Democrat is that they will bring in regulation on things like more efficiency.
+                 That is why I believe that combined cycle will come in the future through regulation, and that
+                 will again give us another big scope of business to grow once combined cycle comes.
+
+
+                 It is not going to happen immediately, but eventually, regulation, I think combined cycle will
+                 also become a big part of the business through regulation, through laws, which will promote
+                 energy efficiency.
+
+
+Mihir Manohar:   Sure, understood. On the waiting period, let us say over the last three months, six months, has
+                 the waiting period further gone up or has it come down?
+
+
+Nikhil Kumar:    No, as I mentioned earlier, capacities for our OEM customers are coming online in '28, '29. At
+                 the moment, these are still very early days. Nobody has, at least from our customer side, nobody
+                 has increased capacity drastically. Everything is in the pipeline. We will start seeing the numbers
+                 going up in '28 onwards.
+
+
+Mihir Manohar:   Sure, understood. That is it from my side.
+
+
+Nikhil Kumar:    Yes, waiting period has not come down.
+
+
+Mihir Manohar:   Understood. Sure. That is it from my side, thanks.
+
+
+Moderator:       Thank you. Next question is from the line of Mohit Surana from Monarch Networth Capital.
+                 Please go ahead.
+
+
+Mohit Surana:    Thank you for the opportunity. Sir, at the outset, hearty congratulations on exceptional numbers,
+                 great performance. My first question is with respect to how much we can further sweat our
+                 existing assets.
+
+
+                 I believe we recently raised funds, and part of that fund will go to the capacity expansion in our
+                 existing line of business, and the rest for the Siemens Energy project. From our existing capacity,
+                 how much we can further sweat? I mean, our capital under it now is at around INR820 crores.
+                 How much can we further take this to, including that new capacity expansion in the existing line
+                 of business?
+
+
+                                          Page 7 of 16
+
+                                                                                       TD Power Systems Limited
+                                                                                             November 13, 2026
+
+Nikhil Kumar:   Yes, that's a good question, Mohit. Actually, I don't have a clear answer for you right now. We
+                are constantly looking at how to push it further and further, and we have seen some remarkable
+                improvements, I would say, in our efficiency and the way we have been able to utilize our
+                existing assets and push out more and more.
+
+
+                I still believe that, and our team still believes that there is more that we can do. For the moment,
+                whatever investment plans that we have in place is focusing mainly on the larger project with
+                Siemens, of course. Then we are investing quite a lot of money in our own design for two-pole
+                generators and the manufacturing capacity to manufacture these two-pole generators of 100
+                megawatt. That's where we see a big growth for the company taking place.
+
+
+                Then, of course, our business below 50 megawatt or below 60 megawatt, that's where we are
+                utilizing assets more and more efficiently. All three put together, it's still a big debate inside the
+                company as to at what point do we have to start thinking about, at least for the machines below
+                50 megawatt or 60 megawatt, at what point do we have to start thinking about incremental
+                capacities.
+
+
+                I think, if you're looking at the forecast from our customers, numbers in 2028 or 2029, 2028
+                partially, maybe incremental 2029, if the numbers are really going to go the way they are saying,
+                we will have to look at something to do in 2029. How much and where and what, we will discuss
+                later.
+
+
+Mohit Surana:   Understood, sir. That is really helpful, sir. Sir, second question is with respect to our fourth plant,
+                for which you are going to do the Bhoomi Pujan next week. Sir, what is the timeline for that
+                plant to come online? Last time you mentioned June 2028. Is that a strict deadline or you aim to
+                have it pretty much before that? That is my last question, sir.
+
+
+Nikhil Kumar:   That is the absolute outer limit. We are gunning to be ready in calendar Q1 of 2028.
+
+
+Mohit Surana:   Understood. Sir, just one last question if you allow me to squeeze in. Sir, considering the larger
+                capacity units for Siemens Energy, which is 125 megawatt to around 325 megawatt, that is the
+                kind of range we will be producing for the Siemens Energy plant. Sir, those will be larger, longer
+                gestation products. Even if we start commissioning of the fourth plant in FY29, the revenue
+                booking will be seen in FY30, or will it start from the Q4 of FY29? If you can give some color
+                on that.
+
+
+Nikhil Kumar:   The plan is to ramp up the production in calendar 2028 after the plant is ready. We can say FY28
+                or FY29, we will ramp up the capacity or ramp up the production. By FY30, we should be around
+                70%-80% utilization.
+
+
+Mohit Surana:   Perfect, sir. Understood. That's really helpful. Thank you so much, and all the best.
+
+
+Nikhil Kumar:   Thank you.
+
+
+Moderator:      Thank you. Next question is from the line of Parikshit Kandpal from HDFC Securities. Please
+                go ahead.
+
+
+
+                                          Page 8 of 16
+
+                                                                                         TD Power Systems Limited
+                                                                                               November 13, 2026
+
+Parikshit Kandpal:   Hi, sir. Congratulations on a great quarter. My first question is, you have early in the call
+                     mentioned that you started taking orders for FY29 and 2030. I just wanted to understand the
+                     current order book, whether it will be along with the INR50,000 million. I wanted to
+                     understand…
+
+
+Nikhil Kumar:        No, it is not. No, that was actually a little bit error and misunderstanding. We are discussing
+                     orders for 2029, 2030. We are not yet booked that.
+
+
+Parikshit Kandpal:   Okay. As of now, there is what kind of pipeline is this? I mean, beyond FY29 and FY30, are
+                     these significantly large orders which you are looking into booking? So discussion, what could
+                     be potentially the bid pipeline here?
+
+
+Nikhil Kumar:        The way our business works, and I have said this a number of times, and I will say this once
+                     again, is that we have detailed forecasts with our OEM customers, and they tell us exactly what
+                     they expect from us in '27, '28, '29. It is a very close relationship. We put capacity for them. We
+                     make capacity available for them.
+
+
+                     We guarantee a certain amount of capacity for them. It is a close relationship where there is a
+                     mutual dependency. They depend on us, we are depending on them. They will start releasing the
+                     orders closer to the execution cycle. This is how it has been going on so far. This is how it is
+                     going to go on also.
+
+
+Parikshit Kandpal:   Okay. Second question is basically, you have mentioned that you have a timeline or without
+                     giving any timeline, a billion-dollar kind of revenue. Is it your size or…
+
+
+Nikhil Kumar:        I will be very clear. I said that is the potential that we have to grow our business in. Somebody
+                     asked me, the question was, "Where do you see this in the medium term to long term?" I said,
+                     "That's the answer." Medium term.
+
+
+Parikshit Kandpal:   But is it like at least the bare minimum, the kind of demand that you are seeing on the ground?
+                     Is it like the baseline side we can grow the minimum potential of 25%-30% at least on a yearly
+                     basis?
+
+
+Nikhil Kumar:        20%-25%.
+
+
+Parikshit Kandpal:   Okay.
+
+
+Nikhil Kumar:        Conservatively.
+
+
+Parikshit Kandpal:   Okay. Just the last question, kind of base orders which we have been looking in the past and the
+                     new orders which we are getting, are you seeing any new demand drivers emerging on the
+                     pipeline side beyond the traditional demand drivers? Is it one of the reasons why you are seeing
+                     such a strong jump in order bookings?
+
+
+Nikhil Kumar:        No. I think that for TDPS, we have a much larger. As we are putting more and more machines
+                     in the market and putting more and more machines with prestigious projects and prestigious
+
+
+
+                                              Page 9 of 16
+
+                                                                                          TD Power Systems Limited
+                                                                                                November 13, 2026
+
+                     customers, we are getting more access into the market in terms of acceptance, and more and
+                     more people are.
+
+
+                     We have the ability to be present in a lot of areas that we were not present earlier or were not
+                     accepted earlier. I think that's the big dramatic change that I see in terms of why we are booking
+                     more orders. We are becoming an acceptable brand. We are becoming a known brand in the
+                     market. In the past, the business was there, but we didn't have access to it. Now we do, and we're
+                     winning some, and we're losing some, but we're winning some.
+
+
+                     We continue to expand our reach and continue to expand our acceptance. As that happens more
+                     and more, we will have more and more access to more business, and we get more orders. I think
+                     that is one fundamental change. Of course, the market itself has the demand for products has
+                     gone exponentially high based on the factors that we have been repeating again and again and
+                     again.
+
+
+                     I don't want to say this once again, but those factors which are driving the market are also. It's
+                     quite an exceptional situation for power generation that there's such a huge demand, not just data
+                     centers, but also because of basic increase in demand for electricity.
+
+
+                     Then the transition from, in many countries, getting away from nuclear, getting away from coal,
+                     moving into other energy sources. This is also contributing. All put together, the demand for
+                     power equipment has gone up through the roof, and we are at the right place at the right time.
+
+
+Parikshit Kandpal:   Do you think you can then…
+
+
+Nikhil Kumar:        All the work that we had done in the past 10 years in getting acceptance from various customers,
+                     diversifying our product range, having machines, building up references in different parts of the
+                     world, just spreading our base and spreading our varieties of products and working with different
+                     customers all over the world, that I can say, that is paying off today for us. It has been a decade-
+                     long journey, or more than a decade-long journey. This is not something which has happened
+                     overnight.
+
+
+Parikshit Kandpal:   Do you think you can win more OEM mandates like Siemens or captive production? Do you
+                     engage with more OEM partners here, or this is just one of a kind of a…
+
+
+Nikhil Kumar:        No,. we still have scope within our existing OEM base to look at other models of turbines, other
+                     sizes of turbines or engines, and we are actively pursuing opportunities where we can be a second
+                     supplier or primary supplier for many of these types. Everything goes step by step. But yes, for
+                     our business growth and for us to keep growing at this rate, we have to find avenues to grow,
+                     and these are the avenues to grow.
+
+
+Parikshit Kandpal:   Sure. Thank you, Nikhil, and wish you the best.
+
+
+Nikhil Kumar:        Thank you.
+
+
+Moderator:           Thank you. Next question is from the line of Pramod Dangi from Ratnatrayi Investments. Please
+                     go ahead.
+
+                                             Page 10 of 16
+
+                                                                                       TD Power Systems Limited
+                                                                                             November 13, 2026
+
+Pramod Dangi:   Yes, thanks, and many congratulations, Nikhil, for the outstanding performance.
+
+
+Nikhil Kumar:   Hello, Pramod.
+
+
+Pramod Dangi:   Yes, hi. My question is on that when we are working with the OEM partners, we started with
+                some legacy models of theirs. Those we started, and then we created the goodwill for us. Today,
+                are we working with them on their latest models, or are they working on the newer models which
+                they might be upgrading the existing models? How that pace is panning out for us?
+
+
+Nikhil Kumar:   Primarily, it is legacy models.
+
+
+Pramod Dangi:   Okay.
+
+
+Nikhil Kumar:   Whatever upgrades that they are now talking about to those legacy models, we are definitely
+                very deeply plugged into the product development.
+
+
+Pramod Dangi:   Okay. Is it mainly on the existing products which are the legacy, where they are giving from
+                their in-house production to the outside, to the partners like that?
+
+
+Nikhil Kumar:   Yes, yes. Nobody has developed, and none of our customers have developed exclusively new
+                products for the market right now.
+
+
+Pramod Dangi:   Okay. Okay. Second, I think someone had asked this question earlier also. When we spoke about
+                the third plant, we said that we have the capacity to go up to INR2,800 crores of the revenue by
+                2027-'28. Obviously, we had outperformed much faster. We have reached that level very fast.
+                Are we working with the third-party vendors, or is it more of the better product mix which is
+                giving us a higher revenue for the same existing capabilities?
+
+
+Nikhil Kumar:   No, the activities that we have traditionally done or which we have done in-house, we continue
+                to do that in-house at a much larger scale, and with more automation, and with better technology.
+
+
+Pramod Dangi:   Okay. So it's in-house, that's why we're getting some operating leverage also?
+
+
+Nikhil Kumar:   Yes.
+
+
+Pramod Dangi:   Okay, great.
+
+
+Nikhil Kumar:   But as I said, with much more automation and higher technology.
+
+
+Pramod Dangi:   Okay. Thanks, and all the best.
+
+
+Nikhil Kumar:   Thank you.
+
+
+Moderator:      Thank you. Next question is from CA Garvit Goyal from Serene Alpha. Please go ahead.
+
+
+Garvit Goyal:   Hi, am I audible?
+
+
+Moderator:      Yes.
+
+
+                                        Page 11 of 16
+
+                                                                                        TD Power Systems Limited
+                                                                                              November 13, 2026
+
+Garvit Goyal:    Good afternoon, sir, and congrats for a good set of numbers. I have two questions. One is on the
+                 margins. Looking at the current quarter, we are at all-time high kind of EBITDA margins. Just
+                 wanted to understand on how sustainable are these margins, and how we should, when we are
+                 thinking about INR3,500 crores for next year, how we should think about the margin range with
+                 that number?
+
+
+Nikhil Kumar:    Margin range is always best. We always talk about a margin range. I think that once we start
+                 with our new plant, especially the large investments with the Siemens plant, which will start,
+                 say, somewhere in about a year from now, we will have costs associated with that before we
+                 start generating revenues.
+
+
+                 So, I think the margin range to look at would be around 19% sustainable. Once the new plant is
+                 fully once we get 50%, 60% utilization, then there is an upside potential from there to go past
+                 20%. So, short term, next few quarters, yes, between 19%, 20%, and then there could be a small
+                 drop, and then there will be a again pickup.
+
+
+Garvit Goyal:    Got it, sir. Sir, just wanted to understand, although I think you might have addressed this question
+                 earlier. Are the new orders which are particularly linking to the data center, are these being
+                 booked at higher prices than a year now, or how are we seeing the pricing in terms of those
+                 orders?
+
+
+Nikhil Kumar:    We have a pricing. We have a pricing which I said earlier is stable. We have orders, let's say,
+                 INR2,400 crores for next year, which is a next 12 months cycle. We have a price variation clause.
+                 If raw material prices go up beyond a certain threshold, then the formula will be applied, and
+                 then we get the revised prices based on that. That is what we have worked out with almost all
+                 our OEM customers.
+
+
+Garvit Goyal:    Got it, sir. That is it from my side. Sir, all the best for the future. Thanks.
+
+
+Nikhil Kumar:    Thank you.
+
+
+Moderator:       Thank you. Next question is from Deepak Ajmera from Elpro International. Please go ahead.
+
+
+Deepak Ajmera:   Yes, hi. Thank you for the opportunity and congratulations on the good set of numbers. My
+                 question is regarding our guidance. On quarter-on-quarter basis, we keep on, let's say, increasing
+                 the guidance on quarter-on-quarter basis, despite we have ongoing dialogue and long-term vision
+                 with our OEM customers. How that is congruent?
+
+
+Nikhil Kumar:    This is how we are going to do it. When something is realistic and something is actually going
+                 to happen, we will give the upside potential.
+
+
+Deepak Ajmera:   Can we have a long-term kind of guidance on a yearly or let us say medium-term basis to follow
+                 the path?
+
+
+Nikhil Kumar:    No.
+
+
+Deepak Ajmera:   Okay.
+
+
+                                          Page 12 of 16
+
+                                                                                         TD Power Systems Limited
+                                                                                               November 13, 2026
+
+Nikhil Kumar:       This is what we are going to follow, and this is how we are going to do it.
+
+
+Deepak Ajmera:      Okay, thank you.
+
+
+Nikhil Kumar:       Thank you.
+
+
+Moderator:          Thank you. Next question is from Prasad Hase from…
+
+
+Nikhil Kumar:       I just want to say something in addition. It's really important for us as an organization to deliver
+                    what we commit. When we put some numbers out there in the market, we put numbers that are
+                    achievable. We don't want to be in a situation where we start putting out numbers and then we
+                    have to go back on them.
+
+
+                    Our policy is absolutely clear. We put out numbers that we can achieve, and as and when we see
+                    visibility for higher numbers, we will come out with that. This is our policy. We're not going to
+                    change this.
+
+
+Moderator:          Thank you, sir. Next question is from Prasad from Spark Capital. Please go ahead.
+
+
+Prasad:             Yes. Thank you for the opportunity, sir and congratulations on a great set of numbers. My
+                    question was, our quarterly order intake has been increased to roughly INR750 crores, and it
+                    was roughly INR700 crores in previous quarter. The question is it supply-driven or demand-
+                    driven?
+
+
+                    This higher intake is basically due to increased revenue potential, which we are kind of seeing
+                    due to the INR50 crores debottlenecking capex, which we are undertaking or say, the strong
+                    demand is already there in the market, but as you said, there are supply constraints. Since we are
+                    undertaking this capex, this is what is giving us the confidence of increasing the run rate?
+
+
+Nikhil Kumar:       It's demand-driven.
+
+
+Prasad:             Okay. Okay. My second question was, the cumulative units sold, if you look at, was roughly
+                    8,770. The Q2, we sold nearly 400 units and 320 in Q1. These numbers, if you look at, these are
+                    significantly higher compared to a quarterly run rate which we saw in FY26. Are we executing
+                    more of a 10 megawatt kind of data center-driven orders or since we are seeing ramp-up in plant
+                    three, because of which we are seeing this increased quarterly run rate of units?
+
+
+Nikhil Kumar:       No, we are producing more units. I do not know, Varalakshmi, do you have the average
+                    megawatt right now? I do not remember that number, but
+
+
+M.N. Varalakshmi:   92 megawatt.
+
+
+Nikhil Kumar:       Yes. But we have more demand. We are producing more units. We have more capacity. That
+                    was the whole purpose of undertaking the capacity expansion, to produce more generators, and
+                    that is what we are doing. I do not understand the question. It is a mix of larger machines and
+                    smaller machines.
+
+
+
+
+                                            Page 13 of 16
+
+                                                                                         TD Power Systems Limited
+                                                                                               November 13, 2026
+
+                     As Vinay has earlier said, we have demand coming in from all segments of the market. We have
+                     big generators also. We have a number of two-pole machines which are also there in the mix. I
+                     really have not looked at this average megawatt because to me, I do not see any value for that
+                     number. I mean, we do not even track it internally. But if you want to know as a statistic, we can
+                     tell you, but it has no meaning to us.
+
+
+Prasad:              Sure. Maybe I will connect offline. Just a small question. Was there any price hike undertaken
+                     this quarter? Whatever demand YoY we have witnessed, was it largely volume-driven, or is
+                     there any part of price hikes as well?
+
+
+Nikhil Kumar:        I think I cannot answer that question. I have told you have seen the volume increase.
+
+
+Prasad:              Sure.
+
+
+Nikhil Kumar:        I have explained, I think, already five times in this call about how the pricing mechanism works,
+                     and I am not going to repeat it once again.
+
+
+Prasad:              Okay, sure.
+
+
+Nikhil Kumar:        Yes.
+
+
+Prasad:              Okay. Thank you, sir. That is it from my side.
+
+
+Nikhil Kumar:        Thank you.
+
+
+Moderator:           Thank you. Next question is from the line of Mayank Chaturvedi from HSBC Asset
+                     Management. Please go ahead.
+
+
+Mayank Chaturvedi:   Yes. Hi, Nikhil and team. Thank you for the opportunity, and congratulations on a superb
+                     quarter. Nikhil, I just want to pick your brain on this recent news flow that is coming from the
+                     SoftBank Group, with them canceling excess reservations for gas turbines, primarily with GE
+                     Vernova, and taking a hit on the advances that they had given.
+
+
+                     Does this kind of news flow change how you look at the industry, how you look at your customer
+                     order books or slot reservations? Does it change your business discussions with them? How do
+                     you look at it? Of course, it's just a recent one, but if you can give some comments on it, please.
+
+
+Nikhil Kumar:        Actually, I don't know. I have not thought of it. First of all, SoftBank is known to take very
+                     dramatic bets in the market, and they're known to be that kind of investor. They took a dramatic
+                     bet on something, and maybe it's not played out the way they expected it to be. That doesn't
+                     change the underlying dynamics of the market.
+
+
+                     One player in the market has taken an oversized bet about something, that doesn't change the
+                     underlying part of the market. From my point of view, you've seen the commentary coming out
+                     of GE Vernova also, who's a customer for them, they have made their comments, and I think
+                     you should read those comments and take that also into perspective.
+
+
+
+
+                                             Page 14 of 16
+
+                                                                                        TD Power Systems Limited
+                                                                                              November 13, 2026
+
+Mayank Chaturvedi:   No, fair point. Would you be in active discussions with such customers? Of course, Siemens
+                     Energy has been one, but does it open doors for you with other customers as well?
+
+
+Nikhil Kumar:        For what?
+
+
+Mayank Chaturvedi:   For the larger generators that you will now be making?
+
+
+Nikhil Kumar:        No, it does not open the doors.
+
+
+Mayank Chaturvedi:   Okay. All right. That is it from my side. Thank you.
+
+
+Nikhil Kumar:        Look, you have to understand how this business works. First of all, there are three people in the
+                     world who make these large turbine, gas turbines, okay? There is GE, there is Siemens, and there
+                     is Mitsubishi. So, when we have tied up with one of them, the others are not going to come to
+                     us and we are happy with the party we are tied up with.
+
+
+                     We are happy with the party we are tied up with. We are working with a world-class company,
+                     and we are happy with this relationship, and we want to grow this relationship. That is it. We
+                     know there is no point. I mean, this is a question I keep getting again and again and again. We
+                     cannot do it. The others are not going to come to us when we were tied up with this one company.
+                     Why would they come to us?
+
+
+Mayank Chaturvedi:   Yes. Why would Siemens anyway? I mean, why would they? They are competitors…
+
+
+Nikhil Kumar:        Why would they come?
+
+
+Mayank Chaturvedi:   Yes.
+
+
+Nikhil Kumar:        When they know that TDPS is tied up with one of their competitors, why would they come?
+
+
+Mayank Chaturvedi:   That makes sense.
+
+
+Nikhil Kumar:        Of course, that makes sense. Yes.
+
+
+Mayank Chaturvedi:   All right. Yes. Thanks for this.
+
+
+Nikhil Kumar:        Thank you.
+
+
+Moderator:           Thank you. Next question is from Juili Baviskar from Ashika Institutional Equities. Please go
+                     ahead.
+
+
+Juili Baviskar:      Hi. Congratulations on good set of numbers. My question is that you have highlighted in your
+                     presentation that we have got segments largest ever vertical hydro order and also horizontal run-
+                     of-river order for both projects in Nepal. I just wanted to have a view on it, what it is going to
+                     be in future as well, and how much share of total order book comprised of this order, and going
+                     forward, how the hydro segment will be for the team?
+
+
+
+
+                                             Page 15 of 16
+
+                                                                                       TD Power Systems Limited
+                                                                                             November 13, 2026
+
+Nikhil Kumar:     Yes, except for the share part of it, which we do not give the data, I will ask my colleague Vinay
+                  to answer this question.
+
+
+Vinay Hegde:      We have seen a good number of orders from Nepal market. Today, even though we are selling
+                  all over the world these hydro generators, the two major markets are Nepal and Vietnam. This
+                  business is going to grow. We have a huge pipeline of inquiries, and in Q3 also, we have already
+                  received some big orders. This segment is the one, definitely it is a growing segment for us. This
+                  trend is going to continue.
+
+
+Juili Baviskar:   Okay. Is the margin for hydro more, like how is it in the range of the gas turbine as well, or is it
+                  more than the gas generator business?
+
+
+
+
+Nikhil Kumar:     Plus-minus everything is approximately the same.
+
+
+Juili Baviskar:   Okay. Thank you. Thank you so much.
+
+
+Nikhil Kumar:     Thank you.
+
+
+Moderator:        Thank you. Next question is from Ankur Kumar from Alpha Capital. Please go ahead.
+
+
+Ankur Kumar:      Hello, sir. Thank you for taking my question. I wanted to understand on this guidance for H2.
+                  You said it is like INR725 crores, INR750 crores per quarter in Q3, but our Q2 number is much
+                  higher. Is there any one-off in Q2 where we were able to push more orders in this quarter?
+
+
+Nikhil Kumar:     I mean, we are delivering as per customer requirements. Yes, that is the answer. We had more
+                  customer delivery scheduled in Q2, and we have approximately, as the INR1,500 crores,
+                  approximately 50% of the business has to come in H2, and it will come, plus-minus, it will come
+                  around INR1,500 crores in H2. I think that you should not read too much into a monthly
+                  performance or a quarter performance. On a half-year basis, we will be equal to H1 and H2 will
+                  be approximately plus-minus equal.
+
+
+Ankur Kumar:      Got it, sir. All other questions have been answered. Thank you.
+
+
+Nikhil Kumar:     Thank you.
+
+
+Moderator:        Thank you. Ladies and gentlemen, due to time constraints, we will take that as the last question
+                  for today. I would now like to hand the conference back to management for closing comments.
+
+
+Nikhil Kumar:     Yes, thank you, everybody, for joining our conference call. If you have any further questions,
+                  please feel free to get in touch with the Investor Relations team, and I look forward to interacting
+                  with all of you once again or meeting you personally during some investor conference, upcoming
+                  investor conference over the next few months. Thank you very much.
+
+
+Moderator:        Thank you very much, sir. On behalf of TD Power Systems Limited, that concludes this
+                  conference. Thank you all for joining us today, and you may now disconnect your lines.
+
+
+                                          Page 16 of 16
+

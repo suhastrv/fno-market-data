@@ -1,0 +1,1151 @@
+November 13, 2026
+
+
+The National Stock Exchange of India Ltd                          The Department of Corporate Services
+Exchange Plaza, C-1, Block G                                      BSE Limited,
+Bandra – Kurla Complex                                            P.J. Towers, Dalal Street
+Mumbai 400051                                                     Mumbai 400001
+
+Scrip Symbol: SANSERA                                             Scrip Code: 543358
+
+
+
+Dear Sir/ Madam
+
+Subject: Transcript of Earning group conference call
+
+Please find attached transcript of Earning Group conference call which was held on November
+06, 2026 on the Unaudited Financial Results of the Company for the quarter and Half year
+ended September 30, 2026.
+
+The above transcript will also be made available on the website of our Company at
+www.sansera.in.
+
+
+We request you to take the same on your records.
+
+Thanking you,
+
+for Sansera Engineering Limited
+                      Digitally signed by
+   Rajesh     Rajesh Kumar Modi
+   Kumar Modi Date: 2026.11.13
+              11:44:20 +05'30'
+
+Rajesh Kumar Modi
+Company Secretary and Compliance Officer
+
+
+Encls: a/a
+
+
+
+
+                           SANSERA ENGINEERING LIMITED
+Reg Off: Plant 7, No. 143/A, Jigani Link Road, Bangalore-560 105, India, Tel: +91 80-27839081/82/83. Fax: +91 80-27839309
+                     E-mail id: info@sansera.in Website: www.sansera.in CIN: L34103KA1981PLC004542
+
+                     “Sansera Engineering Limited
+              Q2 FY '27 Earnings Conference Call”
+                               November 06, 2026
+ “E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings
+            uploaded on the stock exchange on November 06, 2026, will prevail.
+
+
+
+
+MANAGEMENT: MR. B.R. PREETHAM – JOINT MANAGING DIRECTOR
+            AND GROUP CHIEF EXECUTIVE OFFICER – SANSERA
+            ENGINEERING LIMITED
+            DIVISION -- SANSERA ENGINEERING LIMITED
+            MR. VIKAS GOEL – CHIEF FINANCIAL OFFICER –
+            SANSERA ENGINEERING LIMITED
+            MR. HARI KRISHNAN – CHIEF EXECUTIVE OFFICER,
+            ADS DIVISION – SANSERA ENGINEERING LIMITED
+            MR. RAHUL KALE – CHIEF EXECUTIVE OFFICER,
+            AUTOMOTIVE - SANSERA ENGINEERING LIMITED
+            MR. PRAVEEN CHAUHAN – HEAD CORPORATE
+            STRATEGY – SANSERA ENGINEERING LIMITED
+
+
+
+
+                                           Page 1 of 18
+
+                                                                                  Sansera Engineering Limited
+                                                                                           November 06, 2026
+
+
+
+
+Moderator:        Ladies and gentlemen, good day and welcome to Sansera Engineering Limited Q2 FY27
+                  Earnings Conference Call. This conference call may contain forward-looking statements about
+                  the company, which are based on the beliefs, opinions, and expectations of the company as on
+                  date of this call. These statements are not the guarantees of future performance and involve risks
+                  and uncertainties that are difficult to predict.
+
+
+                  As a reminder, all participant lines will be on the listen-only mode, and there will be an
+                  opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                  during this conference call, please signal an operator by pressing star 0 on your touch-tone
+                  phone. Please note that this conference is being recorded.
+
+
+                  I now hand the conference over to Mr. B. R. Preetham, Joint Managing Director and Group
+                  CEO. Thank you, and over to you, sir.
+
+
+B. R. Preetham:   Thank you, and good morning, everyone. I would like to take this opportunity to wish everyone
+                  a very happy and prosperous Diwali. Joining me on this call today are my colleagues, our CFO,
+                  Mr. Vikas Goel, our CEO of ADS division, Mr. Hari Krishnan, our CEO of our automotive
+                  division, Mr. Rahul Kale, and head of our corporate strategy, Mr. Praveen Chauhan, along with
+                  SGA, our investor relation advisors.
+
+
+                  Our results and the investor presentations are available on the stock exchanges and on our
+                  website, and I trust you have had a chance to review them. I am pleased to report another strong
+                  quarter for Sansera, with the highest ever quarterly revenue of INR10,915 million, up 32% year-
+                  on-year. EBITDA stood at INR2,112 million, registering a year-on-year growth of 48%, while
+                  PAT stood at INR1,086 million with a Y-o-Y growth of 52%.
+
+
+                  EBITDA and PAT margin for the quarter were recorded at 19.4% and 10% respectively. For H1
+                  FY 2027, revenue was INR21,127 million, up 33% year-on-year, with EBITDA of INR4,073
+                  million and PAT of INR1,960 million. We delivered this performance against a tougher cost
+                  backdrop. The renewed conflict in West Asia led to an increase in cost across several categories,
+                  including cutting tools, freight, and logistics.
+
+
+                  Additionally, the revision in minimum wages in Karnataka added to the cost pressures, further
+                  impacting our margins. Even so, we held our margins, strong revenue growth, and a rising
+                  contribution from the ADS business and the benefits of operating leverage allowed us to absorb
+                  these cost pressures and protect our profitability. What is most encouraging is that our growth
+                  continues to be broad-based, with healthy performance across most of our businesses.
+
+
+                  This is a clear sign of how far we have come in building Sansera into a diversified company with
+                  multiple growth engines, and our non-automotive business has been a center to this
+                  transformation. Auto ICE now accounts for about 65% of our sales on a much larger base,
+                  broadly in line with the target we set ourselves at the time of our IPO.
+
+
+                  We are now very close to realizing that vision and an important milestone in Sansera's journey
+                  that sets us up well for the next phase of sustainable growth. Importantly, we have achieved this
+
+
+                                            Page 2 of 18
+
+                                                               Sansera Engineering Limited
+                                                                        November 06, 2026
+
+while our core Auto ICE business continues to grow at a healthy pace, with sustained
+momentum. The change in mix is driven by the faster growth of our newer businesses, not by
+any slowdown in our core automotive operations.
+
+
+This balanced portfolio makes us more resilient, broadens our access to growth opportunities,
+and positions Sansera to deliver sustainable growth over the long term. We see this as the
+beginning, not the end of our diversification journey. We will continue to add new sectors, new
+customers, deepen our wallet share with existing ones, and move up the value chain. Let me now
+take you through the performance of our individual businesses.
+
+
+Let me begin with our core Auto ICE, which recorded a quarterly sales of INR6,697 million, up
+18% year-on-year. The growth was broad-based, with passenger vehicles, two-wheeler
+motorcycles, scooters each posting their highest ever quarterly sales. Our Auto-Tech Agnostic
+and xEV business also delivered their best-ever quarter in terms of sales and combined sales of
+INR1,363 million.
+
+
+Adding to our growth pipeline, commercial production at the Sansera-Nichidai JV is expected
+to commence towards the end of H2 FY 2027. October marked a milestone for the industry, with
+domestic passenger vehicle wholesale crossing 5 lakh units in a single month for the very first
+time. Elevated order backlogs and lean dealer inventories, with demand still running ahead of
+the supply, give us good visibility into quarter three FY 2027. We are also seeing strong demand
+for premium technologically advanced vehicles.
+
+
+Together with rising EV adoption, these trends are steadily increasing the engineered content
+per vehicle. Export demand remains strong as global customers continue to diversify their supply
+chain. Indian manufacturers with proven quality standards, process design capabilities, and
+manufacturing scale, with manufacturing scale are increasingly preferred, giving us room to
+deepen our customer relationships and expand our wallet share.
+
+
+At the same time, OEMs with a manufacturing base in India are seeing strong export demand,
+which is a clear tailwind for auto components suppliers like Sansera. Overall, with festive
+momentum carrying into the second half, our automotive business is well-placed to benefit from
+the healthy domestic demand, rising technology adoption, and diversification of global supply
+chains.
+
+
+Our order book as on September 30, 2026, which is the peak annual revenues of the sale of new
+businesses, excluding ADS, stands at INR22,410 million. Moving to our non-automotive
+business, ADS continued to be a key growth driver within the segment. Revenue for Q2 FY
+2027 stood at INR1,643 million, taking half-yearly revenue to INR3,097 million. This reflects
+growing scale of the business and the rising opportunities across industries.
+
+
+During the quarter, the non-automotive segment posted its record sales for the quarter, crossing
+INR2,000 million mark and contributing 20.9% of total sales. At quarter end, our cumulative
+unexecuted lifetime order book backlog for ADS business executable over next five years stood
+at INR58.7 billion, giving us strong revenue visibility.
+
+
+
+
+                         Page 3 of 18
+
+                                                                             Sansera Engineering Limited
+                                                                                      November 06, 2026
+
+              ADS remains a powerful growth engine for Sansera, backed by robust industry demand and a
+              healthy order book. In aerospace, global OEMs increasingly see India as a strategic sourcing
+              hub, opening the door for us to move up in the higher value chain, more complex components
+              and sub-assemblies. In semiconductor, we are expanding our product portfolio and exploring
+              new avenues for customer diversification as well. In defense, our dedicated facility is expected
+              to begin operations towards the end of Q3 FY 2027, further strengthening our ability to capture
+              emerging opportunities.
+
+
+              With the new SKUs coming on stream in the ADS business in H2 FY 2027, we expect a strong
+              growth catalyst that should accelerate our momentum through the second half. These initiatives
+              remain central to building a larger, more diversified, and higher value ADS business in the years
+              ahead. Looking ahead, we remain confident in our growth outlook, supported by healthy demand
+              across our automotive and non-automotive businesses, rising premiumization, electrification,
+              and a favorable realignment of global supply chains. With our strong engineering capabilities,
+              longstanding customer relationships, and continued investments in capacity and technology, we
+              are well-positioned to capitalize on these opportunities and sustain our growth momentum in the
+              years ahead. With this,
+
+
+              I would now like to hand over to our CFO, Mr. Vikas Goel, to take this presentation forward.
+              Vikas.
+
+
+Vikas Goel:   Thank you, Preetham, and good morning, everyone. Let me walk you through our second quarter
+              numbers. Three themes stand out as we look at this quarter. Profits grew faster than the revenue,
+              margins expanded despite cost headwinds, and our balance sheet continues to fund growth,
+              backed by a strong order book. Our revenue grew 32% year-on-year to record INR10,915
+              million, with growth across all our businesses.
+
+
+              Gross margin expanded by 180 basis points to 43% on a favorable product mix. Employee costs
+              rose 25% to INR1,469 million, slower than the revenue, and include a provision of INR167
+              million for the Karnataka minimum wage revision. We continue to monitor the Labour Codes
+              for any further impact, and we will keep you updated on this. Other expenses rose 41% to
+              INR1,114 million on higher scale and freight costs.
+
+
+              EBITDA crossed INR2,000 million mark for the first time at INR2,112 million, up 48%. The
+              margin expanded by about 200 basis points year-on-year and 15 basis points sequentially to
+              19.4% on our richer mix and operating leverage. Other income was INR116 million versus
+              INR116 million last year.
+
+
+              Depreciation rose 20% to INR602 million, and finance cost to INR146 million from INR81
+              million, reflecting our expanded asset base and higher borrowing cost for capex and working
+              capital. Profit after tax rose 52% to INR1,086 million, a margin of 10%. Let me briefly cover
+              the half-yearly numbers. For the first half, revenue grew 33% to INR21,127 million, and
+              EBITDA grew 48% to INR4,073 million, with margin up 200 basis points to 19.3%.
+
+
+        `     Reported profit after tax grew 46% to INR1,960 million, a 9.3% margin, excluding the Q1
+              litigation settlement of INR169 million. Or INR127 million post-tax normalized. The
+
+
+                                        Page 4 of 18
+
+                                                                                    Sansera Engineering Limited
+                                                                                             November 06, 2026
+
+                   normalized PAT was INR2,087 million. Moving to balance sheet and cash flow and net debt. In
+                   H1, we generated operating cash flow of INR2,073 million.
+
+
+                   Against this, an investment was made of about INR3,260 million in the Capex for automotive
+                   and ADS business. INR300 million was invested in our joint venture with Nichidai. Together,
+                   these investments exceeded operating cash flow by about INR1,487 million, contributing to
+                   increase in the net debt. Working capital rose to INR8,544 million at the end of September from
+                   INR7,359 million in March, mainly due to higher revenue share from ADS business, meaning
+                   inventory support and further increased volumes. This represents about 19.6% of the annualized
+                   Q2 revenue.
+
+
+                   Net debt rose by about INR2,000 million to INR2,612 million at the end of September from
+                   INR604 million in March, as we invested in growth. Leverage remains conservative at about 0.3
+                   x of the annualized EBITDA for H1, with ample headroom to fund our plans. This investment
+                   is backed by strong order wins. Our ADS backlog rose from INR58.7 billion from INR44.4
+                   billion in June, including a large multi-year semiconductor order.
+
+
+                   Separately, our non-ADS business order book measured at peak annual sales rose to INR22.4
+                   billion from INR18.5 billion. To deliver these orders, we have raised FY27 Capex projection to
+                   INR8,000 million, fased with the customer validations, while keeping firm discipline on working
+                   capital, cash and leverage. In closing, with momentum across all our businesses and a strong
+                   balance, we are well-positioned for the next phase of profitable growth.
+
+
+                   With this, we conclude our opening remarks and open the floor for questions.
+
+
+Moderator:         Thank you very much. We will now begin the question-and-answer session. The first question
+                   is from the line of Siddhartha Bera from Nomura. Please proceed.
+
+
+Siddhartha Bera:   Yes, thanks for the opportunity, sir, and congrats on a great set of numbers. Sir, first question is
+                   on your order book. We have seen a very strong increase here in the quarter. Can you sort of
+                   give some more color on which all segments these are into and if we have also added any new
+                   customer in this? Yes, I'll then add more questions.
+
+
+B. R. Preetham:    No, I think, see, in terms of- thank you, Sid. This has been a steady inflow. See, in automotive,
+                   we really can't time whether all our orders will be quarterly. It would purely be based on the
+                   customer programs, I think, and quarter two has been reasonably good for us. We have really
+                   not added any big customers, but the order book is non-new customers because auto, more or
+                   less, we serve all customers across the geographies.
+
+
+                   So here, our order book is equally probably divided between domestic and exports, and also, it
+                   is more skewed towards the passenger vehicle segment. We see that more and more opportunities
+                   are now getting presented across the geographies in the passenger vehicle segment, and
+                   especially coming out of North America and European region. So, in the quarters to come, we
+                   expect that this order book will further grow substantially.
+
+
+Siddhartha Bera:   Sir, I was actually referring to the ADS order book, which saw a big increase. Any color there?
+
+
+
+                                            Page 5 of 18
+
+                                                                                      Sansera Engineering Limited
+                                                                                               November 06, 2026
+
+Hari Krishnan:     Well, in the ADS segment, Sid, we have added a couple of new customers in the aerospace
+                   business, but in the semicon business, we still are with our only customer while we are making
+                   good progress towards adding the customer number two.
+
+
+Siddhartha Bera:   Got it, sir. On the Capex side, we did see quite a good increase in the current year. I mean, if
+                   you can break out of that, what amount is being invested in semicon and aerospace separately,
+                   and do we see this now run rate sustaining in the coming years?
+
+
+B. R. Preetham:    See, what has changed between normal Capex deployment and this thing, generally when we
+                   actually invest into automotive projects, these are long drawn-out projects and this thing.
+                   Currently, what has happened is some of these new sectors, including SEM and including a few
+                   other upcoming sectors for ADS, and also we spoke about something on energy and also on few
+                   of the xEV projects that we are doing for the thing.
+
+
+                   The lead time for investment has come down because the programs are kick-starting much faster.
+                   So we had to up our forecast for the current year from around INR500 crores- INR800 crores to
+                   accommodate this sudden increase in the demand from all these sectors. I think 50% of that,
+                   close to about INR400 crores, would be invested into ADS. You also are aware of the fact that
+                   we have now finished our construction of the second bay in the existing plant, and the entire bay
+                   will be filled up with the machines for the current order book. So probably around 50% of that
+                   is going towards ADS.
+
+
+Siddhartha Bera:   Great, sir. Sir, last question is on the other cost side. I mean, if we see sequentially also, there
+                   has been a good increase in that line item as well. Do you have any color about why, and is it
+                   something lumpy there as well?
+
+
+Vikas Goel:        So, included in this cost, Sid, is basically the logistics cost and the tariff cost that we booked last
+                   quarter. Plus, there are inflationary impacts on freight and other elements as well, which are part
+                   of these costs.
+
+
+Siddhartha Bera:   Okay. Got it, sir. Got it. Thank you, sir. I'll come back in the queue.
+
+
+Moderator:         Thank you. The next question is from the line of Mukesh Saraf from Avendus Spark. Please
+                   proceed.
+
+
+Mukesh Saraf:      Yes, good morning, sir, and congratulations for the great performance. My first question is again
+                   on the ADS order backlog. Just one point I wanted to understand is that, while the backlog has
+                   gone up significantly, you still continue to mention that it's executable over five years. Even
+                   when the backlog was, say, INR4,000-odd crores, it was executable over five years. Just trying
+                   to understand these new orders that you're getting, these would kind of have to start getting filled
+                   in, I mean, in terms of revenues immediately, and it's not really back-ended. So the annual
+                   revenue rate that we see over the next year or so, that kind of can go up significantly. Is that how
+                   we understand this?
+
+
+Hari Krishnan:     Yes, Mukesh. Just to clarify, this is what we have as a confirmed order to be executed over the
+                   next five years, not to say this is all we will reach in the next five years. You understand? The
+                   sense that…
+
+
+                                             Page 6 of 18
+
+                                                                                   Sansera Engineering Limited
+                                                                                            November 06, 2026
+
+Mukesh Saraf:     Yes
+
+
+Hari Krishnan:    There is, in the next if you take the fifth year from now, whatever business I have booked for
+                  the next two and a half years will also be revenue. So that is a visibility which will keep getting
+                  updated as we go ahead.
+
+
+Mukesh Saraf:     Right.
+
+
+B. R. Preetham:   Generally, Mukesh, generally in this segment, we also get, unlike auto, we get a fairly decent
+                  spread across the next one, two, three, four years. So when we accumulate all those things, it
+                  comes to that number. So, which means that when I book a new order, it would also mean that
+                  next year and the year after and the year after, all the revenues will go up.
+
+
+Mukesh Saraf:     Right, right. Absolutely. Absolutely. That is what I was trying to understand. Makes sense, sir.
+                  Thank you. Coming to the order book, excluding ADS, versus June, we see that the domestic
+                  share has gone up from, say, 44% in June to now 49%. So this order book of, say, INR22.4
+                  billion now, this has a lot of domestic, has a higher domestic share versus last quarter. In your
+                  comments, you were mentioning that, say, for PVs, it was more of exports that has driven it to,
+                  say, now INR9.6 billion. So, a further color on this will kind of help us understand, because
+                  domestic overall things have gone up, but I think some segments you mentioned exports were
+                  higher. It just helps there, sir.
+
+
+B. R. Preetham:   No, see, what has happened is some of these export customers, large export North American-
+                  based customer who would start some programs in India, some engine programs, we have
+                  received orders for those. When I meant that the customer base would be there, but there are
+                  programs which would be executed from India as well.
+
+
+Mukesh Saraf:     Okay.
+
+
+B. R. Preetham:   These also have added to the. That is why you see that domestic portion has gone up, but it is
+                  coming out of the export customer for us.
+
+
+Mukesh Saraf:     Okay.
+
+
+B. R. Preetham:   The engine would be built in India. One of the programs that we have received. Second thing is
+                  we have also added a new customer in tractor segment. That has also gone up. We have also
+                  won some nominations from our existing passenger vehicle customers for their new engine
+                  program. All these have added actually.
+
+
+Mukesh Saraf:     Right. Right. I think last few quarters you have also been mentioning about how some of the
+                  domestic OEMs are increasing outsourcing versus insourcing. We have not yet started seeing
+                  big order book from that kind of a phenomenon.
+
+
+Hari Krishnan:    We spoke, Mukesh, last time about this-
+
+
+Mukesh Saraf:     Yes
+
+
+Hari Krishnan:    Trend in the two-wheeler sector.
+
+                                             Page 7 of 18
+
+                                                                                 Sansera Engineering Limited
+                                                                                          November 06, 2026
+
+Mukesh Saraf:    Yes.
+
+
+Hari Krishnan:   Well, we have been able to make a breakthrough with a pilot order with one of the OEMs. Once
+                 the execution is demonstrated, we are sure that this will gain momentum.
+
+
+Mukesh Saraf:    Got it. Got it. Great, sir. Makes sense. I'll get back in the queue. Thank you so much.
+
+
+Hari Krishnan:   Thank you.
+
+
+Moderator:       Thank you. The next question is from the line of Chandramouli from Goldman Sachs. Please
+                 proceed.
+
+
+Chandramouli:    Hi, good morning and thank you for taking my questions. First question is just around the new
+                 SKUs that are getting into full production in the back half of this year on your ADS business.
+                 Just if you could give us a little more color on the nature of the parts and what the kit values
+                 might look like, what the complexity upgrade might be versus what you have been already
+                 making in the aerospace, defense, and semicon business as you head into the back half.
+
+
+Hari Krishnan:   Yes. See, Chandramouli, we definitely have added new parts. Complexity level in the semicon
+                 parts, we have actually got validation for two more super critical parts, which takes our bucket
+                 of the most critical parts to almost everything what is required. Secondly, if you take the other
+                 parts what we have won this year, they are in the area of avionics, very, very critical parts. The
+                 routine business wins cover what we are already doing. I would say that in semicon, the accuracy
+                 and the manufacturing precision of the parts continue to be very, very high, which makes us feel
+                 that we have something of a niche market. Even in the aerospace sector with the avionics parts,
+                 the new one coming in, I think these are really on the upper end of precision machining.
+
+
+Chandramouli:    Got it. That is helpful. Just related to this, to follow up on this question, you did mention that
+                 you are making good progress to potentially adding more customers on the semicon side. Just if
+                 you could just give us some clarity, I think at the SEMICON India event, there were a lot of big
+                 announcements made by global semicon players on how much they want to devote to expanding
+                 their supply chain into India.
+
+
+Hari Krishnan:   Yes.
+
+
+Chandramouli:    And it looks like some of the Japanese parts manufacturers also are now beginning to set up
+                 manufacturing bases in India, who could be your customers. I just want to understand if you
+                 could give us any clarity on what sort of timeframes you might have in mind for potentially
+                 closing new business wins with new customers here.
+
+
+Hari Krishnan:   Yes. I think the intent and the statement made at SEMICON India is very clearly visible at the
+                 ground level for us that there is renewed, continuous strong momentum on discussions with
+                 existing customers. As far as the new customers are concerned, we have been in conversation. I
+                 would say conversations are progressing well, but we haven't yet reached the final point, which
+                 we are hopeful in Q3 we should be able to add a second customer in this space.
+
+
+
+
+                                          Page 8 of 18
+
+                                                                                  Sansera Engineering Limited
+                                                                                           November 06, 2026
+
+Chandramouli:     Got it. That's helpful. My second question is just around the rotating parts and opportunities with
+                  the Rolls-Royce engine family over the next few years. I understand you might be doing
+                  validation batches right now, but you've charted out a capex plan for the next three to four years
+                  on the ADS business. I think you want to potentially support as much as INR3,000 crores of
+                  revenue in your capacity in that plan. But I just want to understand if there is opportunity on the
+                  Rolls-Royce side, would you have to do incremental capex? And in this INR3,000 crores plan,
+                  what is the rough incremental size of opportunity you might get if the Rolls-Royce business is
+                  something that you might win?
+
+
+Hari Krishnan:    I continue to maintain that the size of the opportunity is still not known because we are working
+                  on demonstrating our capability in multiple material classes. As far as the initial component we
+                  spoke about in the last call is concerned, we're making very good progress. The customer is
+                  happy with what we have achieved till date, and we hope to probably finish the development in
+                  this quarter, in Q3, and only then will the real opportunity. As I said, the opportunity may not
+                  come immediately in the component we are developing. It will open up Sansera to a lot of other
+                  precision components as far as the engine manufacturing space is concerned.
+
+
+Chandramouli:     Got it. That's helpful.
+
+
+Hari Krishnan:    Most importantly…
+
+
+Chandramouli:     Yes
+
+
+Hari Krishnan:    Most importantly, your point, the capex what we have factored in does not include the potential
+                  business from the engine manufacturer because we only do it only when we have a confirmed
+                  business. Right now, we are working on a development.
+
+
+Chandramouli:     Makes sense. Makes sense. That's helpful. Thank you very much and all the best.
+
+
+Hari Krishnan:    Thank you.
+
+
+Moderator:        Thank you. The next question is from the line of Pratik Jain from Solidarity Investment
+                  Managers. Please proceed.
+
+
+Pratik Jain:      Hey. Hi, sir. Thanks for the opportunity. Am I audible?
+
+
+Hari Krishnan:    Yes.
+
+
+Moderator:        Yes, sir.
+
+
+Pratik Jain:      Yes. My first question is, ADS has been on a non-linear growth trajectory for us, right? Very
+                  difficult to put numbers when you are growing at such a high pace. But if I have to ask you, so
+                  let's say by FY 2031, if you have to put three scenarios of bear, base, and bull, where do you see
+                  your revenue run rate going by FY 2031?
+
+
+B. R. Preetham:   You mean only for ADS or as a company?
+
+
+Pratik Jain:      Just for ADS. Just for ADS, sir.
+
+
+                                            Page 9 of 18
+
+                                                                                    Sansera Engineering Limited
+                                                                                             November 06, 2026
+
+B. R. Preetham:   See, today, as Hari has been telling and all of us have been maintaining this, we have just started
+                  progressing. While our aerospace journey has been more than 10, 12 years, the semicon journey
+                  has been just about a year or so. There is a clear traction and momentum in this business. To
+                  gain this opportunity and trap this opportunity, we are also setting up another facility near to our
+                  facility. This is also, we have announced about 120,000 sq ft. Then we are separating out defense
+                  to add extra focus to it. With all these things, our intent is to keep growing at a healthy pace. I
+                  think that given an opportunity of this scale, I am sure that we should be targeting anywhere
+                  between 35% to 40% of our overall Sansera revenue target.
+
+
+                  Today, if you see, our ADS business is about 15% of our business. Going forward, I think
+                  towards the end of this decade, maybe around 35%-40% is something that we would like to
+                  achieve. This is what we have set ourselves the target.
+
+
+                  Towards the end of this year, probably we will come out with a proper vision statement, because
+                  about five years back when we did our IPO, we had said that Sansera would like to reach 60%
+                  on ICE, 20% on non-auto, and 20% on xEV and tech agnostic. That period would be over
+                  towards the end of this financial year, and we will set ourselves the new vision and new targets.
+                  I am sure we can give you more clarity on that during that time. Yes.
+
+
+Pratik Jain:      Very much clear, sir. Sir, just to follow up on this, that sometime back you had mentioned that
+                  on a company level, you aspire to get to INR8,000 crores of revenue by FY 2030. Do you see
+                  that number also going up?
+
+
+B. R. Preetham:   There is momentum. Yes, we continue to aspire to achieve that number, and we strongly believe
+                  that possibility is becoming more and more realistic as we cut through our segment and see what
+                  we can achieve in every segment. Definitely, a large momentum from ADS would help us to
+                  reach that faster. Keeping that in mind only, I said that whether it is eight, nine, 10, seven,
+                  whatever number that we are going to get in FY 2031, we should be around 35%-40% of that
+                  should come from ADS. This is the kind of momentum that we are working on. We see a lot of
+                  good momentum coming from all the sectors across the geography.
+
+
+Hari Krishnan:    We will be able to probably come close to freezing that number end of the year.
+
+
+B. R. Preetham:   Yes.
+
+
+Hari Krishnan:    When we make a renewed, the second vision statement for the next five years.
+
+
+Pratik Jain:      Very much clear, sir. Just lastly, sir, this new INR3,500 crores revenue potential capacity, when
+                  do you see this coming by?
+
+
+Hari Krishnan:    Which one?
+
+
+B. R. Preetham:   I think this is a combination of different things. I think what you need to understand is our current
+                  facility, whatever we have expanded in plant nine for ADS, would give us about INR1,500
+                  crores. We said that we are going to create another, we have signed up for another place which
+                  can potentially add another INR1,000 crores-INR1,500 crores depending upon the configuration
+
+
+
+
+                                          Page 10 of 18
+
+                                                                                      Sansera Engineering Limited
+                                                                                               November 06, 2026
+
+                     of the components and the thing. Another ADS facility, I mean, defense facility should also give
+                     us an opportunity to look at another INR400, INR500 crores.
+
+
+                     As an infrastructure, we can look at catering to this kind of this one. The current aerospace
+                     facility will be fully operational by the third quarter with the expanded bay. The defense should
+                     be operational towards the end of the third quarter or from the fourth quarter. I would say the
+                     new facility, what we are planning, towards the end of the next calendar year.
+
+
+Pratik Jain:         Got it. Thank you, sir.
+
+
+Moderator:           Thank you. The next question is from the line of Mumuksh Mandlesha from Anand Rathi. Please
+                     go ahead.
+
+
+Mumuksh Mandlesha:   Yes. Thank you so much for the opportunity, and happy festive greetings-
+
+
+Moderator:           Sir, can you please speak a little loudly?
+
+
+Mumuksh Mandlesha:   Yes. Hi. Is it better now?
+
+
+Hari Krishnan:       Lot better.
+
+
+Moderator:           Yes, sir.
+
+
+Mumuksh Mandlesha:   Yes. Yes. Thank you. Thank you so much. Sir, firstly to Vikas sir, you mentioned about the
+                     minimum wages. Just want to understand, should this cost provision continue ahead, or there is
+                     some one-off in that, sir?
+
+
+Vikas Goel:          No, this is a change being introduced by the government of Karnataka. Of course, all state
+                     governments have revised the minimum wages level. But since a very large proportion of our
+                     workforce is in Karnataka, and the amount of increase suggested by the government is also very
+                     high. So this is not a one-off. This will continue, but we do not know the exact quantum because
+                     this is still provisional.
+
+
+B. R. Preetham:      This is, yes, some organizations have challenged it in the court. The final verdict is yet to come,
+                     but we thought it is correct for us to take since there is no stay. We have made a provision for
+                     the entire amount till the quarter ending, right from, I think the effective date is somewhere from
+                     mid-May.
+
+
+Vikas Goel:          Yes. And the expected amount is about INR5,500, approximately 30% increase in the base
+                     wages for those category of workers.
+
+
+Mumuksh Mandlesha:   Got it. And sir, also was there any impact of forex and U.S. tariff provision this quarter, sir?
+
+
+Vikas Goel:          No. Forex, when we say this is basically the standard we've translated at the actual levels, but
+                     no negative impact from that. The U.S. tariff also, since now it's being paid through a different
+                     mechanism by the customers, so we don't have any additional exposure on that.
+
+
+
+
+                                                  Page 11 of 18
+
+                                                                                       Sansera Engineering Limited
+                                                                                                November 06, 2026
+
+Mumuksh Mandlesha:   Got it, sir. The second question is on the defense plant, sir, which is starting from Q3. I just want
+                     to check any initially traction on that part. And with the new plant, will the initially the plant
+                     would be focusing on the current orders, and as when the new orders build up, that will also then
+                     execute from that plant, right, sir?
+
+
+Hari Krishnan:       I think what we have to understand is we already have an ongoing defense business, although it
+                     is small relative to aerospace and semicon. The idea was to give a strategic push to this business,
+                     both from the infrastructure and the business development point of view. That's why we thought
+                     we would move it to a different facility.
+
+
+                     Now, we are already seeing a couple of reasonably big business wins just in the final stages.
+                     And in that division, we are contemplating and we are thinking about expanding our foray into
+                     metal forming, sheet metal forming, which is going to give us a lot more opportunities in defense
+                     and also enable us increase our sales or our ticket size for every RFQ in the aerospace division.
+
+
+                     Because today, every package we get has got a significant number of parts which require sheet
+                     metal and then some assembly, which till today we have not been able to attempt because we
+                     did not have the facility. So, the sheet metal division is something which we are contemplating
+                     will come under our defense vertical.
+
+
+Mumuksh Mandlesha:   Got it. What will be the capex for this defense plant, sir?
+
+
+Hari Krishnan:       Defense plant is, today we are just moving the machines which are serving our defense
+                     operations to a new facility, plus the couple of new orders which we think are in the final stages.
+                     Those capex for that, if the business materializes, may be about INR15 crores-INR20 crores.
+
+
+Mumuksh Mandlesha:   Got it, sir. Just last final question, sir. On the Nichidai JV, just want to understand what product
+                     area we are working on it and any initial sign of traction there for the products?
+
+
+Hari Krishnan:       The target of establishing the JV was to broaden our foray into the non-ICE segment. In keeping
+                     with that philosophy, what we are targeting is steering driveline and related parts. There have
+                     been very, very interesting conversations with a lot of customers at various stages. But the key
+                     thing is for us to demonstrate our readiness with the machines being ready for operation, which
+                     is happening right now. As I think Preetham mentioned earlier, towards the end of the fourth
+                     quarter, we expect to start commercial production or sample production, and conversions will
+                     happen at that point of time once we have for the customer something which they can see.
+
+
+B. R. Preetham:      In fact, we would be commissioning about three forging press lines to begin with, which would
+                     cover a lot of category of components in the area in which Hari said. And there seems to be good
+                     amount of interest, both in domestic as well as export opportunity, and we are quite confident
+                     that along with our partners, Nichidai, we will be able to win healthy orders in this.
+
+
+Mumuksh Mandlesha:   Got it, sir. Thank you. Thank you so much for the opportunity.
+
+
+Moderator:           Thank you. The next question is from the line of Arjun Khanna from Kotak Mutual Fund. Please
+                     go ahead.
+
+
+
+
+                                             Page 12 of 18
+
+                                                                                   Sansera Engineering Limited
+                                                                                            November 06, 2026
+
+Arjun Khanna:     Thank you for taking my question, and festive greetings to the entire team. The first question is,
+                  you talked of the defense piece and the growth. Is MMRFIC also part of these projections that
+                  we have, or this is over and above? Could you help us with, in terms of the capex outlay, et
+                  cetera, how do you see MMRFIC scale up?
+
+
+B. R. Preetham:   MMRFIC is not part of whatever expansion, I mean, the revenue growth that we are talking
+                  about. We have kept MMRFIC since it is not a subsidiary yet. It is just an associate company
+                  because our shareholding post the full CCPS conversion would be about 47%. But then, we as
+                  management are very well plugged in into the system in MMRFIC.
+
+
+                  Our Chairman is also on the board of the MMRFIC overseeing the developments, and we are
+                  quite happy with the progress that is being made. A lot of technologies are being worked upon.
+                  As you are all aware, that area of defense takes some time for maturing. We don't have any
+                  significant capex requirements from MMRFIC. Whatever this INR800 crores worth of capex
+                  that we are speaking about, that only is covering Sansera, both automotive and non-automotive.
+                  MMRFIC is hardly anything in that.
+
+
+                  I mean, there's nothing that we have planned for MMRFIC because it doesn't come yet on
+                  Sansera's this thing. Having said that, some of this anti-drone radars and even on EW radars,
+                  there is a lot of work that is being done. They have won few very interesting iDEX projects as
+                  well. As I say that we will not be able to discuss too many things out of MMRFIC on the open
+                  forum, because it also involves strategic security of the country. But as a management, we are
+                  very, very, very happy with the progress that is being made in the company. Of course, being
+                  overseen by two of our directors, including our Chairman on the board.
+
+
+Arjun Khanna:     Sure. Fair enough. Wishing you all the best on that bit. Sir, just on our capital allocation, we
+                  were looking at some point in time for acquisitions, et cetera, and maybe a plant outside India.
+                  Could you comment on both of them, please?
+
+
+Hari Krishnan:    Plant outside India today, I am sure you are aware that we have an operation in Sweden, Sansera
+                  Sweden.
+
+
+Arjun Khanna:     No, no, setting up incremental plants outside India.
+
+
+Hari Krishnan:    Correct. So incremental plant, what we have probably been talking about in the past is a potential
+                  opportunity to set up manufacturing in the U.S. Now, I think, considering the developments in
+                  the U.S. and the tariffs and the uncertainty for the last 14, 15 months, there has been a hold by
+                  the buyers in the respective companies with whom we were having very, very active discussions.
+
+
+                  But also now, internally, the board is weighing the risks, the additional risks associated with
+                  operating or setting up a plant in the U.S., because they were mainly meant for connecting rods,
+                  which is our key product. But on the contrary, while we are really reevaluating this option, we
+                  are seeing increased momentum from the purchasing community, increasing their outsourcing
+                  from India, which is also benefiting us. In fact, if that were to happen fully, we would prefer that
+                  option rather than going and setting up in the U.S.
+
+
+Arjun Khanna:     Sure. Understood, sir.
+
+
+                                           Page 13 of 18
+
+                                                                                 Sansera Engineering Limited
+                                                                                          November 06, 2026
+
+B. R. Preetham:   Inorganic opportunities, we continue to reevaluate a couple of opportunities. I mean, we didn't
+                  go through the last mile because we were not convinced that it's a right fit for us. While doing
+                  so, we keep ourselves engaged in potential opportunities, and as and when we feel that it is a
+                  right fit for Sansera, strategically and also technologically, we would definitely look at any of
+                  these, including some new opportunities with joint venture.
+
+
+Arjun Khanna:     Sure. Thank you, and wishing you all the best.
+
+
+B. R. Preetham:   Thank you, Arjun.
+
+
+Moderator:        Thank you. The next question is from the line of Gaurav Nagori from Avendus Spark. Please
+                  proceed.
+
+
+Gaurav Nagori:    Yes, thanks for the opportunity. Sir, in continuation to the previous participant question, which
+                  was more specific on the Nichidai Corporation JV, which has near net shape component
+                  manufacturing capabilities and which has a very high use case in the humanoid robots. The
+                  question is, have you initiated any discussion with any of the humanoid OEMs for these
+                  component development, or is it too early to assess this opportunity?
+
+
+Hari Krishnan:    Well, to be honest, one of our customers is into humanoid manufacturing, and they are the
+                  pioneers. Discussions are going on with that customer, and I would say very, very active,
+                  interesting discussions are going on at this point of time.
+
+
+B. R. Preetham:   No, actually, what I would like to mention here is, it is not only opportunity for Nichidai joint
+                  venture, but we see a larger opportunity for Sansera, because there's a lot of aluminum forged
+                  and machine components there, very complex machining, and some of these components are
+                  way more complex than some of the components that we are already doing for automotive,
+                  including Class A components, which we felt was quite an intricate one. As we speak, we are
+                  engaged very actively on development of some very intricate components for them, and we feel
+                  that it would be definitely, in times to come, we would be engaged with the customer on few
+                  more components as well.
+
+
+Gaurav Nagori:    And then, I am assuming that the OEM would be more U.S. or Europe, not the Chinese one, the
+                  humanoid OEM.
+
+
+B. R. Preetham:   No, I think currently we are engaged with the North American customer.
+
+
+Hari Krishnan:    Not the Chinese.
+
+
+B. R. Preetham:   Not the Chinese.
+
+
+Gaurav Nagori:    Understood. Second question on the aerospace. What is the status of the engine blisk order that
+                  you received? Have you received the qualifications? Secondly, on the aerospace side, Safran has
+                  been one of the most aggressive in terms of procurement, so any traction with them in terms of
+                  engine parts or the landing gear parts?
+
+
+Hari Krishnan:    I have an update on both. On the engine blisk, I would say we have not received the validation,
+                  but the progress towards receiving the validation has pre-agreed milestones on which we have
+
+                                          Page 14 of 18
+
+                                                                                  Sansera Engineering Limited
+                                                                                           November 06, 2026
+
+                  ticked all the boxes till today. That means the entire process is being overseen by a customer. I
+                  would say more than satisfactory progress is happening, leading potentially to a conclusion on
+                  this development, as I said earlier, in Q3. On the Safran, yes, Safran, everybody is reading that
+                  they are becoming super aggressive, and I am happy to say we have already won in this quarter
+                  our first business from Safran.
+
+
+Gaurav Nagori:    That would be the engine part with Safran?
+
+
+Hari Krishnan:    No, it is what we have got from Safran is, yes, I mean, those are the engine parts, but not the
+                  component we spoke about. It is not the blisk.
+
+
+Hari Krishnan:    Not the rotating parts.
+
+
+Gaurav Nagori:    Okay. And one more question that, sir, if I can squeeze in on the semicon side, that we have seen
+                  a very significant leg up in the order inflows with one of your semicon clients, and what I believe
+                  is that you have fairly high wallet share with this semicon client. From here on, do you think the
+                  next leg up in the order book would come from addition of the other semicon clients than mining
+                  more wallet share with the existing one?
+
+
+Hari Krishnan:    It is our intention to both mine the existing one and equally be focused on diversifying our
+                  customer base by adding customer number two and three if possible. So efforts in all directions
+                  are progressing with the same focus. What we are seeing right now is a combination of both
+                  happening. In Q3, we should probably add a customer number two and also increase engagement
+                  with our existing customer, but a little more focused on going beyond just plain machining,
+                  getting into the next step, which would be a kind of an assembly. So, increasing your
+                  indispensability in the value chain, that is the focus.
+
+
+B. R. Preetham:   Gaurav, just to add to what Hari said, look, what has happened is when we started with customer
+                  number one in semicon, the complexity and the parts were not very great. Then we started doing
+                  quite complex parts. We have now probably reached most of their top 10 complex parts. We
+                  have been validated for that, and demonstrating it and producing it in volume definitely has
+                  given better confidence to them, and they and us are working together to look at how much.
+
+
+                  As you said, we do not have a substantial wallet share with them. Probably we have just
+                  scratched the surface with what is the potential with them. Of course, in Indian context, we could
+                  have won a good amount of business from them, but what is the potential from them? I mean,
+                  there is a long way to go. Leveraging on the kind of components that we are doing for customer
+                  one, customer two and three also could be very interested, and we want to really work deeper
+                  with all of them. We hope that this journey would definitely continue to progress quite well.
+
+
+Gaurav Nagori:    Understood. Sir, would it be fair to say that you will be the single source vendor for these
+                  components with this semicon components
+
+
+B. R. Preetham:   No, before you finish the question, I believe…
+
+
+
+
+                                            Page 15 of 18
+
+                                                                                    Sansera Engineering Limited
+                                                                                             November 06, 2026
+
+Hari Krishnan:    No, no component being developed for the semicon customer, either present or the aspiring one,
+                  we are going to be single source. It is not our decision also. It is a clear directive what we can
+                  see that we will be one of the three sources or two sources or four sources. We don't know.
+
+
+Gaurav Nagori:    No, in India, I mean, sir. In India, you would be the-
+
+
+Hari Krishnan:    In India also, we also know that they are working on developing the same components with
+                  players. I don't think we expect to be single source, even though we may be as on date for a few
+                  components, but that is not the final result. I don't think we'll be single source.
+
+
+Gaurav Nagori:    Understood. Thank you, sir, for the answers.
+
+
+Moderator:        Thank you. Ladies and gentlemen, in order to ensure that the management is able to address
+                  questions from all the participants in the queue, please limit your questions to two per participant.
+                  Thank you. The next question is from the line of Mulesh Savla from Shah & Savla LLP. Please
+                  proceed.
+
+
+Mulesh Savla:     Thanks for taking my question. Heartiest congratulations on good set of numbers in a
+                  challenging situation. Most of my questions are answered, so I think I will leave it by that, and
+                  I wish you all a very happy Deepavali and a prosperous new year. Thank you.
+
+
+Hari Krishnan:    Thank you. Wishing you the same.
+
+
+Mulesh Savla:     Thank you so much.
+
+
+Moderator:        Thank you. The next question is from the line of Yash Agarwal from Nirmal Bang. Please go
+                  ahead.
+
+
+Yash Agarwal:     Hi, sir. Thank you for the opportunity. My first question is on Europe. Europe revenues fell 16%
+                  Q-on-Q, while Sansera Sweden fell 22% Q-on-Q, and Sansera Sweden also fell 16% Y-on-Y. Is
+                  this normal summer shutdown, or are we seeing any weakness in European truck volumes?
+
+
+B. R. Preetham:   No, see, the second quarter in Europe is quite normal because they are almost closed for a month.
+                  Q-on-Q drop is very, very normal. We don't expect, I mean, while there is not too much on
+                  excitement in Europe, but we don't expect anything to be concerning in Europe.
+
+
+Yash Agarwal:     And sir, what is the outlook for Sansera Sweden plant utilization, like what it is right now?
+                  Where are you expecting it to go up in next quarter?
+
+
+B. R. Preetham:   See, our utilization is normal. We operate all seven days in the thing, and we are operating at
+                  around 80%-85% efficiency currently. We do not expect anything to significantly change. There
+                  has been pressure from the customer. Of course, there has been some failures from the
+                  competition, which is adding some volume into our kitty. As we speak, October was a very good
+                  month.
+
+
+                  We see a very strong November as well. So the second half, we expect that it to be stronger.
+                  Unless otherwise there is very different scenario change in Europe, we expect very steady state
+                  in Sweden. We do not plan to do anything big in Sweden because the cost is not very favorable
+
+                                          Page 16 of 18
+
+                                                                                     Sansera Engineering Limited
+                                                                                              November 06, 2026
+
+                  for manufacturing. We would like to maintain whatever is our commitment to the customer and
+                  do some automation, increase our participation through engineering contribution there to ensure
+                  that we stay healthy at around 10%-12% EBITDA.
+
+
+Hari Krishnan:    Yes. We have one very large customer in Sansera Sweden and only one. So, the fortunes of
+                  Sansera Sweden are linked very closely to that customer. Basis what we have received from that
+                  customer for the H2, I think nothing will change. It will be a steady, smooth operation.
+
+
+Yash Agarwal:     Okay, sir. My second question is basically on the core operating margins. In Q1, if we adjust for
+                  the U.S. tariff provision, the margins were around 20.4%. In Q2, they fell around 100 basis
+                  points to 19.4%, with the ADS share increasing close to 15% of total sales. If the ADS business
+                  is margin accretive, where do we see margins stabilizing over the years when the ADS share
+                  increases to what you said, around 30%-40% in next four years?
+
+
+B. R. Preetham:   I think you need to add back the In the Q2, you need to add back the minimum wages that we
+                  have taken a hit on. When you are adding back the tariff in the Q1, it is only fair that you will
+                  have to add back the thing, which means that we have well passed the Q1 margins in Q2. With
+                  increased as we've also taken hit on commodities, we are yet to get any.
+
+
+                  We are engaged with our customers in trying to get back some of these impacts. We are very
+                  hopeful that customers would definitely understand us and give us back. Of course, our increase
+                  in share of our exports in automotive as well as higher contribution from ADS has helped us to
+                  absorb some of these costs and still maintain the margins, as I spoke in my opening remarks in
+                  the speech.
+
+
+                  We will continue to work through our system to improve our efficiencies, bring down our
+                  inventory, and also take advantage of the higher exports and higher growth in ADS. We hope
+                  that this margin profile will continue to be steady.
+
+
+Yash Agarwal:     Okay, sir. Just my last question on the finance expense. They've gone up quarter-on-quarter from
+                  last three quarters. Where do we see them stabilizing, or they will further go up? What will be
+                  their trajectory for rest of the year?
+
+
+Vikas Goel:       See, this is very closely linked to the growth in the business, the expansion of working capital,
+                  and the investments that we are making in capacity addition. There will be, as we scale the
+                  business up, there will be some more leverage. And the interest cost that you see is reflective of
+                  that activity. We do expect this may further increase slightly, but still it is in a very, very healthy
+                  level.
+
+
+Yash Agarwal:     Okay, sir. Just one last question. Like you said that revenues can moderate a bit in the second
+                  half due to higher base, and you guided for high 18%-20%. This means that H2 growth-
+
+
+Moderator:        Sorry to interrupt you, Mr. Agarwal, but that was the last question for today. I now hand the
+                  conference over to the management for closing comments. Over to you, sir.
+
+
+B. R. Preetham:   Sorry, Yash. I would try and answer this question before I finish this call. We are looking at a
+                  quite a healthy H2. I mean, as we see, we definitely see that for the full year, we would be
+
+
+                                           Page 17 of 18
+
+                                                                                 Sansera Engineering Limited
+                                                                                          November 06, 2026
+
+                 anywhere between INR4,250 crores-INR4,300 crores of revenue. That is what is the kind of
+                 indications that we have. Of course, it is lot dependent on how the industry performs post the
+                 festive season and also what is the impact on the war. But as we see now, we will continue to be
+                 healthy even in the H2. Whether we will surpass the H1 revenue or not, again, depends on lot of
+                 these conditions. But the business outlook looks very positive. And with that, I would also like
+                 to conclude that we would continue to work on diversifying our sectors.
+
+
+                 We are looking at adding few more sectors like medical equipment manufacturing. We want to
+                 add few more customers into our radius. Defense has to be focused portfolio for us going into
+                 the future. And very, very interesting, and where our engineering capabilities will also come into
+                 play would be humanoids, where we think both our Sansera as well as Nichidai can really play
+                 a big role.
+
+
+                 We are quite focused on expanding our capabilities into these segments. Also, as we speak, auto
+                 opportunities from exports, especially from passenger vehicle segment and higher engine
+                 category segments, looks very, very promising. With all these things, we expect that Sansera
+                 would continue to meet the expectations of its investors and all the stakeholders and continue to
+                 deliver a good performance.
+
+
+                 With this, I would like to thank all of you for a patient hearing and wish you all the very, very
+                 happy and prosperous Diwali and look forward for catching up with all of you. Any more
+                 questions or clarification, you can always get back to us directly or through our investment
+                 relationship advisors, SGA. Thank you all again, and happy Diwali.
+
+
+Vikas Goel:      Thank you.
+
+
+Hari Krishnan:   Thank you.
+
+
+Moderator:       Thank you very much. On behalf of Sansera Engineering Limited, that concludes this
+                 conference. Thank you for joining us, and you may now disconnect your lines. Thank you very
+                 much.
+
+
+
+
+                                         Page 18 of 18
+

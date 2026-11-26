@@ -1,0 +1,575 @@
+BSE Limited                                                 National Stock Exchange of India Ltd.
+Phiroze Jeejeebhoy Towers,                                  Exchange Plaza, C-1, Block G,
+Dalal Street, Fort                                          Bandra Kurla Complex,
+Mumbai 400 001                                              Bandra(E), Mumbai 400 051
+
+
+October 27, 2026
+Sc no.- 148
+
+Dear Sir/Madam,
+
+Sub: Transcript of the Earnings /Conference call
+
+Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, we are enclosing herewith the
+transcript of the earnings/ conference call conducted after the Meeting of Board of Directors held
+on October 23, 2026, on the Financial Results of Tata Motors Limited (formerly TML
+Commercial Vehicles Limited) (‘the Company’) for the second quarter and half year ended
+September 30, 2026.
+
+The same is also available on the website of the Company at https://cv.tatamotors.com/.
+
+
+This is for information of the Exchanges and the Members.
+
+Yours Faithfully,
+Tata Motors Limited
+(formerly TML Commercial Vehicles Limited)
+            Digitally signed
+ RANJAN by RANJAN
+        KUMAR
+ KUMAR Date:  2026.10.27
+        19:31:27 +05'30'
+
+Ranjan Kumar
+General Counsel & Company Secretary
+
+Encl: as above
+
+                                                                                                          Tata Motors Limited
+                                                                                                             October 23, 2026
+
+    Tata Motors Limited (Formerly known as TML Commercial Vehicles Ltd)
+    Q2 FY27 Earnings Call transcript
+    Management:
+
+•   MR. GIRISH WAGH, MD & CEO, TATA MOTORS LIMITED
+•   MR GV RAMANAN, CFO, TATA MOTORS LIMITED
+
+    Presentation
+
+    Sneha Gavankar
+    Good day and welcome to Tata Motors Limited Q2 FY27 Earnings Call. I have with me today Mr. Girish
+    Wagh, Managing Director and CEO; Mr. GV Ramanan, CFO and the Investor Relations team. Today we'll
+    walk you through the results presentation followed by Q&A. As a reminder, all participants will be in listen-
+    only mode and we will be taking questions by the Teams platform. The same is already open to you for
+    submitting questions. You are requested to mention your name and the name of your organization while
+    submitting the questions. With that, I now hand over to Mr. GV Ramanan. Over to you.
+
+    GV Ramanan
+    Thank you, Sneha. Good evening and welcome to Tata Motors Q2 FY27 Earnings Call. Thank you for joining
+    us today. I'll be taking you through our financial performance for the quarter and the half-year ended
+    September 30, 2026.
+
+    Safe harbour statement. This is the regular statement that we have given, and like last quarter, our primary
+    numbers represent the standalone financials, which include the joint operations with Tata Cummins.
+    Consolidated results follow later in the deck. There is no change in the reporting parameters versus this
+    quarter. Freight Tiger continues to be consolidated as a subsidiary, as it was in Q1. With that, let me take
+    you through the highlights of the call.
+
+    On products, at Prawaas 5.0 we unveiled our next-generation passenger mobility solution, including the
+    launch of new Ultra Prime and Starbus Prime range. We also showcased our next-gen aggregates portfolio
+    at Bauma CONEXPO India 2026. We were crowned the Best Truck of the Year at the Logistics and Transport
+    Award 2026 in the UAE, a recognition that comes alongside a very strong quarter of export, which I will
+    cover under the volume section. Signed MoU with Drivn to offer innovative leasing and financing solutions
+    for our electric commercial vehicles, easing the total cost of ownership conversation for fleet customers.
+    We collaborated with Petronas to pilot a scalable used-oil recycling model, extending the circular economy
+    work we began with HPCL last quarter. During the quarter, we also partnered with Welspun Renewable
+    Energy to develop a 86-megawatt wind-solar hybrid project.
+
+    A quick update on IVECO transaction, which has progressed in line with the timeline we shared last quarter.
+    We obtained all required regulatory clearances, completing the condition to launch the offer.
+    Consequently, the acceptance period opened on 7 September 2026 and will close on 26 October 2026. On
+    9 October, we increased the offer price from EUR14.10 to EUR14.40 per share in consideration of the slight
+
+      This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                              Page 1
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+delay in completing the offer relative to the original timeline. This was a goodwill gesture from the
+company, and EUR14.40 has also been declared as a best and final offer. On 16 October, IVECO EGM
+approved all offer-related resolutions. As of 22 October, approximately 35% of shares have been tendered.
+As typically seen in the tender offer process, a significant portion of shares tend to be tendered towards
+the very end of the acceptance period, particularly in the final 24 to 48 hours. We therefore remain
+confident of a successful completion of the open offer. Subject to the offer conditions being met,
+settlement is expected on 30 October 2026, when Tata Motors will pay the offer price for the shares
+tendered. We will come back to you with an update on IVECO once the offer is settled.
+
+Q2 wholesales were at 1,35,100 units, up 42% year-on-year and up 24% sequentially. Growth was once
+again broad-based, with every segment in double digits. HCV was up 41%, ILMCV was up 24%, small
+commercial cargo and pickup was up 27%, CV passenger up 31%, and international business was up 177%,
+close to 2.6 times over last year. The step up in international business that you see is driven by the
+Indonesian order, where deliveries ramped up sharply during the quarter on top of the steady export
+trajectory we built through FY26.
+For the half year, wholesales were at 2,43,800 units, up 35%. HCV up 32%, ILMCV up 20%, small
+commercial pickup, again a double-digit growth of 30%, and CV passenger was up 26%, and the
+international business was up 114%.
+
+The next few slides cover the standalone business, including the joint operations with Tata Cummins.
+
+The Financial Highlight. This slide summarizes the standalone financials, including the joint operations with
+Cummins. Volume momentum translated into 42% revenue growth. Revenue for Q2 was ₹23,900 crores.
+EBITDA was about ₹2,800 crores, up 31% at a margin of 11.7%. While EBITDA margin was down 90 basis
+points YoY, it held flat sequentially despite a commodity headwind intensifying further during the quarter.
+I will take you through the margin walk later.
+EBIT margin was at 9.7%, down 50 basis points YoY. EBIT at ₹2,300 crores. The profit before tax, before
+exceptional items, was at ₹2,700 crores, up 51%. So, an absolute profit growth has again outpaced volume
+growth. Free cash flow was at ₹4,600 crores against ₹2,200 crores in Q2 last year, an improvement of
+₹2,400 crore, which I'll walk you through shortly. With that, the net cash stood at ₹11,300 crores as at
+September 30 against ₹7,500 crores at March and ₹7,100 crores at June end, and this is after the dividend
+payout in Q1.
+The Auto ROCE was 65% on a trailing 12-month basis against 68% at the end of Q1, a moderation largely
+reflecting the lower margins over the last 12 months. Investment spends was ₹600 crore for the quarter
+against ₹700 crore in Q2 last year, and this is in line with the plan.
+
+Coming to the Q2 EBIT walk. This is the walk from PBT before exceptional items of ₹1,757 crores in Q2
+FY26 to ₹2,660 crores in Q2 FY27, with the EBIT margins bridge shown underneath. Volume and mix
+contributed to around ₹1,159 crore, with an improved net realization of further ₹1,017 crores. Together,
+these added 230 basis points to EBIT margin. Variable cost, with the principal headwinds at ₹1,416 crore,
+590 basis point impact. This is the commodity inflation which was flowing into the material cost. Other
+cost contributed positively at 280 bps. Even though they were higher in absolute terms by ₹214 crores,
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 2
+
+                                                                                                       Tata Motors Limited
+                                                                                                          October 23, 2026
+
+depreciation, product development were favourable by ₹13 crores, employee cost was higher by ₹88
+crores, and other expenses by ₹139 crores. This is operating leverage on a 42% larger revenue base. FX
+and other items added 30 basis points, or ₹350 crores. Other income of ₹118 crore, lower finance cost of
+₹134 crores, and a Forex gain of ₹24 crores, and ₹80 crores of other items, including PLI incentive. Net of
+all this, EBIT margin moved from 10.2% to 9.7%. To summarize, a 590 bps commodity headwind has been
+almost entirely offset by operating leverage, cost efficiency, and improved realization.
+
+Coming to the free cash flow for the quarter, FCF was at ₹4,600 crores against ₹2,210 crores in Q2 FY26
+and ₹5,721 crores for the half year. If we look at the Q2 walk, PBT before exceptional items stood at ₹2,660
+crores and non-cash items was around ₹389 crores. Tax was ₹762 crores against ₹337 crores in Q2 last
+year. And as I said, at the full-year results, tax is now a recurring item for us, and it will scale with profit.
+That gives us a cash profit after tax of ₹2,287 crores for Q2, which is up 26% YoY. Capex was ₹483 crores,
+broadly in line with last year and with plan. Working capital released ₹2,679 crore in this quarter. With
+that, payable and acceptances released around ₹4,786 crore on the back of a strong volume ramp-up,
+while inventories absorbed around ₹1,717 crore and receivable around ₹622 crore, both of which reflect
+the build for the Indonesia order and the higher run rate going into the festive season. I would want to
+mention here that part of this working capital release is timing-related and will partially reverse as
+payables normalize as we move forward.
+
+Investment spending. Total Investment spending in Q2 was ₹597 crores against ₹686 crores in Q2 FY26,
+taking the half-year to around ₹1,112 crore. Research and development in Q2 was ₹339 crores, ₹209 crore
+capitalized and ₹130 crore expensed. For H1, R&D was ₹616 crores. Capital and other investments were
+₹258 crores in Q2 and ₹496 crore for the half year. At approximately 2.5% of revenue, this remains
+comfortably within our guided range of 2% to 4%, and we continue to invest steadily in line with plan.
+
+Coming to consolidated financials. The consolidated revenue for Q2 was ₹25,300 crores, up 36% YoY.
+EBITDA was ₹2,800 crores, up 31% at a margin of 10.9%, down 40 bps. EBIT margin was 8.9%, up to 20
+basis points. So, at the consolidated level, we have actually expanded EBIT margin supported by operating
+leverage and share of profits from JVs and associates. Profit before tax before exceptional items was ₹1,800
+crores against a loss of ₹550 crore in Q2 FY26. The comparison is distorted by the mark-to-market on our
+investment in Tata Capital. Excluding the mark-to-market, underlying PBT grew strongly and in line with
+the standalone trend.
+Consolidated free cash flow was ₹3,000 crores against ₹2,000 crores in Q2 FY26. Net cash stood at ₹15,900
+crores as at September 30 against ₹13,700 crores at March end, which includes Tata Motors Finance
+Holding gross debt net of the market value of its investment in Tata Capital. This puts us at a very strong
+liquidity position going forward in H2 FY27.
+
+With that, let me hand this over to Girish to take you through the business update. Over to you, Girish.
+
+Girish Wagh
+Thank You, Ramanan. Let me begin with the market share story. So overall, our H1 VAHAN market share
+stands at 36.2%, which is 110 basis points higher than the FY26 level, reflecting an improvement in overall
+market position on a YoY basis. In Heavy Commercial Vehicles, we continue to maintain a strong leadership
+
+   This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                           Page 3
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+position in H1 market share at 55.7%, improving by 50 basis points over FY26. In ILMCV, H1 market share
+stands at 36.3%, and a good part of this also has been due to supply chain constraints in this particular
+segment. Then coming to SCV pickups, the trajectory has been positive, with H1 market share improving
+to 27.6%. So, it is an increase of 130 basis points over FY26. CV Passenger registered H1 market share of
+41.1%, up 500 basis points over FY26, reflecting a strong momentum across the segment. Overall, we have
+gained market share, and our focus in H2 will be to improve on these gains.
+
+Moving on. Regarding fleet utilization, this is our internal data using the Fleet Edge, and fleet utilization
+remained broadly stable to improving gradually during the quarter, indicating sustained operating intensity
+across the fleet. The freight rates also strengthened during Q2, providing support to transporter
+economics. From our discussions with the transporters, the profitability had seen some pressure at the
+beginning of the quarter post the diesel price increase, but gradually through the quarter it has started to
+recover. So, looking at all these together, the utilization, freight rates, and the recovery in transporter
+profitability indicate a relatively stable operating environment for the fleet operators.
+
+Let me now talk about the industry. Q2 saw healthy momentum in the Commercial Vehicle industry with
+industry offtake growing 28.4% year-on-year while our volumes grew at 30.5%. Freight activity remained
+robust through the quarter, recovering from the monsoon-led slowdown in July, supported by stronger
+infrastructure execution, improved mining output, festive inventory stocking, and automotive dispatches.
+The broader operating indicators remain supportive, with healthy E-way bill generation reflecting
+increased goods movement and consumption demand, and the fleet utilization improved progressively
+through the quarter.
+
+As we enter H2, the underlying demand environment still remains healthy, supported by, of course, at an
+overall level, the GDP growth, but therefore that leading to increased freight availability, stable fleet
+utilization, infrastructure activity, and consumption-led movement. Beyond the near term, we remain
+positive on the structural outlook of the CV industry, which is supported by the economic growth and
+therefore increasing road freight, infrastructure development, and the replacement demand.
+
+Talking of the specific businesses. So, the key takeaway from Q2 is that the growth momentum was broad-
+based across the portfolio, with healthy performance across trucks, the passenger carriers, and small
+commercial vehicles, alongside strong progress in our international business as also the downstream
+businesses. International business was a strong growth contributor during the quarter, with volumes
+growing 177% year-on-year, mainly supported by the Indonesia order as well as the momentum across
+our other international segment.
+In Parts & Services, we continued the healthy trajectory, sustaining growth in the aftermarket business,
+improving spare parts penetration, and strengthening the customer uptime proposition. Our digital
+business is also progressing well with FleetEdge renewal rates improving, thereby strengthening the
+recurring digital revenue opportunity. The e-bus operations in Smart City also continue to scale while
+maintaining more than 95% fleet uptime across the major operating fleets, demonstrating the progress
+we are making in building this business.
+Coming to sustainability, the EV momentum built further and remained strong in Q2 with overall EV
+volumes growing 143% year-on-year. Within this, the small commercial vehicle EV retails crossed 4,400
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 4
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+units in Q2, registering a 2.9 times year-on-year growth, and this was also constrained by the supply chain
+and availability of some of the imported aggregates. Otherwise, it could have been more.
+EV Trucks continue to see improving customer traction and adoption. In e-buses, as I mentioned in Smart
+City, the operations continue to do well with more than 95% uptime, and we have now covered more than
+64 crore green kilometres since inception. So overall, the quarter saw broad-based momentum across the
+core vehicle businesses, international business, downstream businesses, and EVs, with the focus remaining
+on disciplined execution and profitable growth.
+
+Now looking ahead in Q3 and maybe beyond, our priority is to leverage the healthy demand momentum
+while balancing pricing, cost efficiency, and supply readiness to drive profitable growth. In trucks, we will
+capitalize on healthy demand through portfolio actions focused on improving customer productivity,
+payload, and the total cost of ownership.
+In CV Passenger, we will capture opportunities across institutional and passenger mobility, including state
+transport, school and staff transportation, while progressively scaling electric buses. In SCV pickups, we
+will build on the portfolio enhancement and increasing EV adoption supported by resilient last-mile and
+e-commerce demand. In Parts & Services, the priority is to build a larger and more resilient aftermarket
+business by improving customer uptime offerings and expanding service reach.
+In international business, we will continue to diversify and scale across geographies while maintaining
+disciplined execution across channels, products, and markets while navigating geopolitical volatility. On
+IVECO, consolidation will begin next quarter, with immediate priority being to ensure a seamless transition.
+Overall, the Q3 agenda is about sustaining growth momentum while maintaining discipline on profitability,
+execution, and readiness for the next phase of the business.
+
+Thank you.
+
+Questions And Answers
+
+Sneha Gavankar
+Yeah. So, we'll get into Q&A now, but a couple of questions which are common across which maybe I'll
+start off with that. So, one question is how much more of commodity pressures expected in the next
+quarter. And if you could talk about the price hikes that we've taken so far.
+
+Girish Wagh
+Yes. So, commodity inflation actually continues to be a major headwind. And beyond that, of course, we
+keep monitoring the oil prices, but commodity inflation has already been played out over Q1, Q2, and
+even in Q3, we see that happening again. And on a YoY basis, the commodity cost impact has been almost
+540 bps. On a quarter-on-quarter basis, from Q1 to Q2, it has been 200 bps. We expect a further
+commodity cost increase in Q3 in the range of around maybe 150 to 200 bps, depending upon where some
+of the major commodities do settle.
+Within that, I would say steel and rubber will continue to be the largest driver. Steel, in fact, all of you
+know, that is already at a 52-week high with almost 40% growth on a YoY basis. Rubber, this remains the
+
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 5
+
+                                                                                                       Tata Motors Limited
+                                                                                                          October 23, 2026
+
+input we expect to stay elevated for some time. Supply is tight and crude-linked synthetic rubber costs are
+also increasing. So, we are watching it closely and factoring it in our planning.
+On pricing, as you are aware, we have taken already four pricing actions during the year, around 1% in
+January, around 2% in April, 2.5% in July, and then from 1 October, we have taken another 1% to 2%
+increase depending upon the segment. There has been a significant amount of price increase that has
+been taken through the year. It certainly doesn't cover the commodity increases that we have seen. But
+as we have been saying, I think our first line of action has always been to see what we can do on the cost
+side, which is what we have been doing, and we are trying to balance this demand momentum with very
+measured pricing actions. I think that's where we are from an overall basis.
+If I may also upfront address the demand question, because quite a few of them have asked about demand.
+I think we are now into maybe three weeks of October, and the demand momentum continues. But as we
+have been saying, the YoY growth rates will taper now. Because post-GST rate rationalization, the demand
+had picked up in last year third quarter. Last year, third quarter saw 21.5% growth on a YoY basis. Now, we
+expect that even this Q3, it appears that we will see a very high single-digit or beginning of double-digit
+kind of growth. For the overall quarter, maximum growth within this is likely to be in intermediate light to
+medium commercial vehicles, certainly double-digit. CV passenger also will see a double-digit growth, but
+heavy commercial vehicles and small commercial vehicles are likely to now see a single-digit growth, but
+even that on the higher single-digit side. So, I think that's what we see as the likely demand growth.
+However, I must say that we have to closely monitor both the demand headwinds as well as tailwinds. I
+think on the headwinds, as I said in the beginning, diesel prices will continue to be a very important
+monitorable, as also the interest rates. I think a 25-basis point hike has already been taken. This, of course,
+will not dent the demand much, but it remains an important monitorable. So sorry, a longish answer, but
+it probably addresses some of the underlying questions.
+
+Sneha Gavankar
+So, getting to the more specific questions. This one is from Kapil, Nomura. On the Indonesia order, what is
+the delivery plan for FY27-FY28? And is there any visibility if there will be repeat or newer orders in FY29,
+or there may be a decline in LCV exports after FY28?
+
+Girish Wagh
+As we have said in the last analyst call also, Indonesia order to a large extent will be delivered over two
+years, so this financial year and the next financial year. And currently, we are supplying at the rate of
+anywhere between 4,500 to 5,000 a month. The total order is almost of 70,000. We are, of course, using
+this opportunity to see how we can strengthen our presence in this market because 70,000 is a significant
+opportunity.
+So, a lot of actions are being taken on retail financing tie-ups, distribution, and service setups. And like you
+have asked, yes, we will certainly leverage this opportunity to bring in some of the other segments.
+What I would also like to mention is the international business, from Q1 to Q2, the non-Indonesia business
+has also seen healthy growth, and this has been because some of the markets, especially Sub-Saharan
+Africa, Nepal, and Sri Lanka, I think these stabilized post the immediate impact of the geopolitical issues,
+
+
+
+   This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                           Page 6
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+which was seen in Q1. So, we will continue to leverage some of these demand hotspots to see to it that
+even the non-Indonesia side of the business continues to grow.
+
+Sneha Gavankar
+Thank you. Next question is from Raghu, Nuvama. Congratulations on strong results. For IVECO, do you
+see any hurdle to reach the 80% threshold?
+
+Girish Wagh
+See, let me give a larger perspective on this IVECO transaction. So, the whole of IVECO transaction
+continues to progress well and in line with our expectations. We have put forward our best and final offer
+of EUR14.40 per share and have been encouraged by the positive and constructive engagement with the
+key stakeholders. The recent extraordinary general meeting of IVECO Group shareholders, at which all
+resolutions proposed by the Board were approved, represents another important milestone in the
+process.
+As is typically seen in tender offer processes, a significant proportion of shares tend to be tendered
+towards the very end of the acceptance period, particularly in the final 24 to 48 hours. We therefore
+remain confident of a successful completion of the acquisition and look forward to bringing Tata Motors
+and IVECO Group together. So that I think should give you a fair bit of understanding of where does the
+whole transaction lie now. Sneha?
+
+Sneha Gavankar
+Yeah. Next question again from Raghu. Fleet utilization levels are lower on a YoY basis in HCV trucks, ICV
+cargo, and SCVs. Do you see any concern on transporter sentiment?
+
+Girish Wagh
+See, actually, the fleet utilization started on a weaker side in Q2, but through the quarter, the fleet
+utilization has consistently improved. And therefore, while there was a sense of heightened attention on
+this factor at the beginning of Q2, the gradual increase during the quarter has given sufficient confidence
+that utilization remains in a good place.
+
+Sneha Gavankar
+Just give me a second. Again, from Raghu; in EVs, after factoring the PLI benefits, how are margins different
+from ICE?
+
+Girish Wagh
+I think we have answered this question in the earlier calls also. And after the PLI, we are happy with the
+margin structure currently, but we continue to improve on these further because we certainly want to get
+prepared for the post-PLI environment.
+
+Sneha Gavankar
+Are export margins accretive? There is a sharp increase in export share in the product mix.
+
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 7
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+Girish Wagh
+So, our international business is certainly margin accretive. However, the Indonesia business is more
+related to the light commercial vehicle and below portfolio, and therefore it is more of ASP dilutive, right?
+That is average selling price dilutive. But overall, our international business remains margin accretive.
+
+Sneha Gavankar
+Why were ASPs flat? And what are the average discounts in Q2 versus Q1?
+
+Girish Wagh
+Yeah, okay. So see our domestic ASPs have gone up on a Q-on-Q basis as well as YoY basis. The reason why
+you see the ASPs flat is, as I mentioned, is the higher amount of light and small commercial vehicles being
+exported as a part of the Indonesia order. So, the increase in domestic ASP was, in a manner of speaking,
+compensated by the higher volume percentage of light and smaller commercial vehicles in Indonesia.
+
+Sneha Gavankar
+We also have some more questions on email. So, this one is from Amyn Pirani. How is the financial health
+of the truck operators? Some CV financial NBFCs have highlighted deterioration in asset quality and credit
+costs in the truck segment as well as challenges in MSME segments in rural. Are we witnessing anything
+at our end?
+
+Girish Wagh
+So, Amyn, with whatever interactions we have had, we have not heard of any concern in this regard. But
+of course, it's not that we have engaged with all the financiers of late, but most of them otherwise with
+whom we have engaged, I think they are in a good place. Regarding the transporter profitability, as I said,
+quarter two started on a weaker wicket in the sense the transporter profitability did drop because of the
+diesel price increase, but gradually it has got passed through, depending upon the kind of contracts the
+transporters will have, and gradually during the quarter, the profitability has also picked up.
+
+Sneha Gavankar
+This one is from Gunjan of BofA. How are we placed on capacity? Is there any need to add capacity for
+trucks, LCVs, or buses, given that the growth has been quite strong?
+
+Girish Wagh
+Right. So, see, this capacity question should be looked at from two fronts. One is the in-house capacity,
+which you have probably alluded to, but it is also about the supply chain capacity. And I think the larger
+bottleneck has been the supply chain capacity, the reason being significant growth in demand across most
+of the segments, be it two-wheeler, three-wheeler, four-wheeler, cars, commercial vehicles, tractors. So,
+across I think we have seen increase in demand, and therefore, for some of the common commodities like
+castings, machining capacity, sheet metal stamping, I think these are some of the capacities which have
+become short.
+
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 8
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+I would also add that, in case of some proprietary items, there has been a shortfall one has seen in Q2.
+And the third category, of course, is the imported aggregates, especially the electric vehicle aggregates.
+And within that, I would say the battery cells and batteries have been constrained by capacity. Now, each
+one of these, we have seen actions being taken by the suppliers. And I must say, I think the overall supply
+chain and the supplier partners have responded with a lot of agility, looking at the rate at which the
+demand has gone up across all the segments, and they have tried to fulfil the demand to a large extent.
+But despite that, I think we have lost some demand, especially in the ILMCV and in electric small
+commercial vehicles.
+Now, coming to the second part of your question of in-house capacity. So, we have done very specific and
+targeted debottlenecking actions. So yes, I think some of these actions are those which were not
+anticipated at the beginning of the year. But we have gone ahead with those actions during Q2. Some of
+the actions will also happen in Q3. This is in anticipation of the kind of demand which one may see in Q4,
+although the growth rate will taper down. So that's where we are on the capacity side. I think a lot of
+actions still continue, and I believe that they will continue through Q3 and maybe a few in Q4 also.
+
+Sneha Gavankar
+Thank you. Next question from Sushrut of Ambit. Could you guide us, what was the revenue contribution
+from non-vehicular business and how has this changed?
+
+G.V. Ramanan
+Sushrut, I think, as we had shared earlier, our non-cyclical business, if you look at it on an overall basis,
+would approximately be around 20% of the revenue. And this is an area, as we kind of even laid it out
+during the Investor Day, a clear focus area which we want to kind of keep growing because this becomes
+a natural hedge to the cyclicality that the CV industry generally faces.
+
+Sneha Gavankar
+Next question. What is the potential cost increase that we can expect due to the ADAS regulations next
+year, and what do you think about passing these through?
+
+Girish Wagh
+We still continue to be in the few last laps of development of this technology, and therefore still not in a
+position to indicate the exact cost impact, which we will see. But as I have said earlier also, apart from
+trying to minimize the cost impact, we are also looking at what is the value that we can add to customers,
+and it therefore doesn't become just a regulatory introduction.
+
+Sneha Gavankar
+Next question from Sridhar Kalyani, Antique Stock Broking. Q2 FCF of ₹4,600 crore included a ₹2,700 crore
+working capital release, mainly from payables acceptances. How much of this reverses in H2? What would
+be the normalized FY27 FCF we should consider?
+
+
+
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                          Page 9
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+G.V. Ramanan
+See, historically, Sridhar, if you would have seen, our pattern of FCF used to be largely a burn in Q1 and
+Q2. Q3 and Q4 used to be where the working capital used to reverse. And I think given all the focus that
+we have had on working capital management, we have brought in a lot of consistency in terms of cash
+delivery. We had a Q1 where it was cash positive. Q2 continues to be positive. So, we would see Q3 and
+Q4 also to be continuously positive because generally Q4 is a very, very strong quarter. So that's what I
+would want to respond to your question.
+
+Sneha Gavankar
+Thank you, Ramanan. Kapil of Nomura. On steel prices, are there any discussions through SIAM or
+otherwise with government to review the safeguard duty on steel? Would appreciate if you can share your
+view on this.
+
+Girish Wagh
+Yeah. I mean, see the kind of hit that the auto industry, and within that, the CV industry has had because
+of the steel prices, we have certainly put forward our request to look at this and expect that this is seen
+favourably.
+
+Sneha Gavankar
+Another question from Kapil only. On EVs, what can be the EV penetration in SCVs by next year? What is
+our EV capacity and new launch plans? Can you please share cost outlook for EVs on factors like drop-in
+EV platforms cost with scale and battery cell costs?
+
+Girish Wagh
+The EV salience in the quarter gone by in SCV pickup was around 12%, and we expect this to go up in Q3
+because some of our supply chain debottlenecking actions will come to fruition, and we expect this to go
+up further in Q4 in lieu of the regulation introduced in Delhi and NCR region, where only EVs will be allowed
+to be registered from 1st January. So, I do see a potential of the EV salience reaching easily up to 20%. And
+I think we should then touch base again in Q4 to understand what is the actual level in Q4, looking at both
+from the demand side as well as the supply side, and then try to provide an outlook for what it could be
+in the next year, that is FY28. The rest of the questions, Kapil, maybe we'll have to have offline
+conversations because these call for more detailed discussions.
+
+
+
+Sneha Gavankar
+Next question. What steps are we taking to improve margins from here on, and do you have any targets
+for FY28 and any further price hike can impact demand?
+
+Girish Wagh
+So, I mean, the third question, let me answer first. As I said, we are taking very calibrated price increases,
+and we will continue to do that. Our focus does remain to ensure that the demand momentum is not
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                         Page 10
+
+                                                                                                      Tata Motors Limited
+                                                                                                         October 23, 2026
+
+derailed. Point number two, I think steps to increase margins is what is controllable for us is the cost, and
+we are trying to put in our best to ensure that we deliver more on the cost efficiencies. We are also trying
+to do some of the other actions which was also asked as a question earlier in terms of that safeguarding
+duty. And I must say, I think the increasing top line because of the demand increase is also something
+which is bailing out in this kind of unprecedented commodity inflation that one has seen.
+
+Sneha Gavankar
+So maybe a question on the longer term. As the automobile industry is very cyclical, what is your take on
+the coming one or two years for the industry?
+
+Girish Wagh
+I think we have answered this question quite frequently. It should go along with the overall economy and
+the GDP growth.
+
+Sneha Gavankar
+Kindly allow me a minute to go through any questions that remain unanswered. I think with that we have
+answered almost everything that we had here. And thank you for joining the call today. And with that, we
+can conclude. Good night.
+
+Girish Wagh
+Thank you.
+
+G.V. Ramanan
+Thank you.
+
+
+
+
+  This transcript has been refined for readability; and does not purport to be a literal representation of the oral record.
+
+                                                         Page 11
+

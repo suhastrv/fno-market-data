@@ -1,0 +1,1113 @@
+                                                               JYOTI CNC AUTOMATION LIMITED
+                                                                                        CIN: L29221GJ1991PLC014914
+                                                                       Regd. Off.: G – 506, Lodhika GIDC, Vill.: Metoda,
+                                                                                 Dist.: Rajkot – 360 021. Gujarat India.
+
+
+Date: November 06, 2026
+
+
+To,                                                            To,
+The Department of Corporate Services,                          The Listing Compliance Dept.
+BSE Limited, Mumbai                                            National Stock Exchange of India Ltd, Mumbai
+
+BSE Script Code: 544081                                        NSE Script Symbol: JYOTICNC
+
+
+Respected Sir/ Madam,
+
+SUB : Submission of Transcript of Earning Call Held on Tuesday November 03, 2026.
+
+Respected Sir/ Madam,
+
+Pursuant to provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, a transcript of an earning call held on Tuesday November
+03, 2026 is enclosed herewith and the same is available on website of the company at
+https://jyoti.co.in/investors/announcements/investor-meet-and-related-disclosures/.
+
+Kindly take the same on your records.
+
+Thanking You,
+For Jyoti CNC Automation Limited
+                    Digitally signed by MAULIK
+ MAULIK             BHARATKUMAR GANDHI
+                    DN: cn=MAULIK BHARATKUMAR
+                    GANDHI c=IN l=RAJKOT o=Personal
+ BHARATKUMA         e=MAULIK.GANDHI@JYOTI.CO.IN
+                    Reason: I am the author of this document
+ R GANDHI           Location:
+
+____________________________
+                    Date: 2026-11-06 15:55+05:30
+
+
+
+Maulik B. Gandhi
+Company Secretary and Compliance Officer
+
+Encl.: Stated As Above.
+
+                        “Jyoti CNC Automation Limited
+             Q2 and H1 FY27 Earnings Conference Call”
+                                      November 03, 2026
+
+  E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings uploaded on the
+                                 stock exchange on 3rd November 2026 will prevail
+
+
+
+
+MANAGEMENT: MR. PARAKRAMSINH JADEJA – CHAIRMAN AND
+            MANAGING DIRECTOR – JYOTI CNC AUTOMATION
+            LIMITED
+            SGA, INVESTOR RELATIONS ADVISORS – JYOTI CNC
+            AUTOMATION LIMITED
+
+
+MODERATOR:                 MR. NEMISH – ELARA CAPITAL
+
+
+
+Moderator:                 Ladies and gentlemen, we welcome you all to the Q2 and H1 FY27 Earnings Conference Call
+                           of Jyoti CNC Automation Limited, hosted by Elara Capital. This conference call may contain
+                           forward-looking statements about the company, which are based on beliefs, opinion, and
+                           expectations of the company as on the date of this call. These statements do not guarantee the
+                           future performance of the company and may involve risks and uncertainties that are difficult to
+                           predict.
+
+
+
+
+                                                   Page 1 of 18
+
+                                                                                     Jyoti CNC Automation Limited
+                                                                                               November 03, 2026
+
+                       As a reminder, all participant lines will be in the listen only mode and there will be an
+                       opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                       during this conference call, please signal an operator by pressing star then zero on your touch-
+                       tone phone. Please note that this conference is being recorded. I now hand the conference over
+                       to Mr. Nemish from Elara Capital. Thank you, and over to you, sir.
+
+
+Nemish:                Thank you. Good evening, everyone. On behalf of Elara Capital, I welcome you to the Q2 and
+                       FY27 Earnings con-call of Jyoti CNC Automation Limited. We are pleased to have with us the
+                       management team represented by Mr. Parakramsinh Jadeja, Chairman and Managing Director,
+                       and the senior management team for Jyoti CNC Automation Limited. We will now have the
+                       opening remarks from the management, followed by a question and answer session. Thank you,
+                       and over to you, sir.
+
+
+Parakramsinh Jadeja:   Thank you, Nemish. Good evening, everyone, and a very warm welcome to our Q2 and H1
+                       FY27 earning conference call. Along with me, I have a senior management team and SGA, our
+                       Investor Relation Advisor. Results and presentation have been uploaded on the stock exchanges.
+                       I hope everyone has had a chance to go through the same.
+
+
+                       I will begin my opening remarks with an overview of economy, followed by industry and
+                       company's operational and financial performance. The global economy continues to face a
+                       challenging environment, with the ongoing conflict in the Middle East adding to uncertainty.
+                       The conflict has led to higher energy and commodity prices, disruption in shipping routes and
+                       supply chains, and increased freight and logistic cost.
+
+
+                       These factors are adding the inflationary pressure and waging on global growth. India has also
+                       felt the impact of this development, particularly through higher energy cost, rising raw materials
+                       prices, and increased freight costs for manufacturers. However, India's economy continues to
+                       remain strong, supported by domestic demand and growing focus on manufacturing.
+
+
+                       In this environment, building a strong and reliable manufacturing base in India has become
+                       increasingly important. While India has traditionally been known for its service sectors,
+                       manufacturing is now emerging as a key driver of economic growth, job creation, and India's
+                       position in global markets.
+
+
+                       The Government of India continues to support this journey through initiatives such as Make in
+                       India, the PLI scheme, and several sector-specific programs covering electronics,
+                       semiconductors, defence, and aerospace. One of the initiative is the ECMS scheme, which aims
+                       to strengthen the domestic manufacturing in electronic sector.
+
+
+                       I am proud to share that Jyoti CNC has also received a capital subsidy under this scheme, and I
+                       will share more detail on during the call. As India moves forward towards building a stronger
+                       manufacturing ecosystem, one area that deserved special attention is the manufacturing of
+                       machine tools, often referred to as mother machines. These machines from backbone of
+                       manufacturing and are used across sectors, including automotive, defense, aerospace, railways,
+                       and electronics.
+
+
+
+
+                                                Page 2 of 18
+
+                                                              Jyoti CNC Automation Limited
+                                                                        November 03, 2026
+
+Despite the large domestic opportunity, around 60 percentage of the India's CNC machine
+demands is currently met through imports, largely from Japan, Europe, and South Korea. Given
+the critical role this machine play in both commercial and defence manufacturing, reducing
+import dependence and building domestic capabilities is important for India's long-term
+manufacturing security.
+
+
+This presents a significant opportunity for Indian manufacturers to develop the high-quality,
+technologically advanced machines locally and support the country's journey towards greater
+self-reliance. At Jyoti CNC, we are well-positioned to participate in this opportunity. We are
+among the India's leading CNC machine manufacturers with backward integrated manufacturing
+capabilities.
+
+
+That gives us greater control over our value chain. Over the years, we have built a strong
+customer base with more than 40,000-plus machines installed across sectors such as automotive,
+railways, and defence, along with sectors such as electronics and manufacturing. Our technology
+and product capabilities enable us to compete with leading global players, while our strong
+domestic presence gives us a good understanding of customer needs.
+
+
+With India's manufacturing sector entering an important phase of growth, we believe we are
+well-placed to benefit from the rising demand from advanced manufacturing solutions and
+contribute meaningfully to India's journey towards self-reliance. Let me now give you a quick
+update on our business. During the quarter, we dispatched approximately 1,900 machines,
+marking the highest quarterly dispatches in the history of the company's operations. This is on
+the back of additional 10,000 machines which we put to use during this quarter.
+
+
+Our foundry operations will commence operations in the coming days. As we continue to
+improve capacity utilization and ramp up production, we expect our volumes to grow further
+going forward. Speaking of our order book, we recorded a robust order book intake of INR800
+crores during the quarter, taking our total order book to INR5,082 crores as of September 30,
+2026.
+
+
+This order book is on the back of a strong demand from the auto sector, where OEMs are adding
+more capabilities, more capacities, particularly in the EV space. Overall, the order book provides
+us with strong revenue visibility for the coming quarters. And with additional capacity coming
+on stream, we are well-positioned to convert this demand into sustained growth. On the Huron
+front, we had added a new manufacturing capacity in November 2025.
+
+
+Dispatches from this expanded capacity are expected to commence during the third and fourth
+quarter of FY27, providing an additional contribution to our growth in the second half of the
+year. One of the product development front, we recently developed the MTX 100, a compact 5-
+axis multitasking turn-mill center. The machine combines turning, milling, gear cutting, and
+grinding operation in a single setup, enabling customers to improve productivity, enhance
+machining accuracy, and optimize floor space.
+
+
+It is designed to cater to industries such as aerospace, defence, automotive and EV, and oil and
+gas, where demand for complex, high-precision components continues to grow. These
+
+
+                          Page 3 of 18
+
+                                                                 Jyoti CNC Automation Limited
+                                                                           November 03, 2026
+
+developments reflect our continued focus on strengthening our R&D capabilities and expanding
+our product portfolio in line with evolving customer requirements across domestic and
+international markets.
+
+
+Lastly, I am also pleased to share an important development under the Government Production
+Linked Incentive, so-called PLI scheme, for domestic manufacturing. Jyoti CNC has received
+approval for a capital investment of over INR1,020 crores over the next 5 years, which is a
+capital incentive of 25%. Through this initiative, we aim to develop in-house manufacturing
+capabilities for key components such as CNC controllers, motors, drives, and operator interfaces.
+
+
+This will help reduce our dependence on imports, strengthen our backward integration, and
+further reinforce our commitment to the government Make in India vision. Now, coming to the
+financial and operational performance. Standalone performance, quarter 2 FY27 revenues
+witnessed robust growth of 31% to INR588 crores compared to the same period last year.
+
+
+On the profitability front as well, Q2 FY27 EBITDA stood at INR164 crores compared to the
+INR111 crores in Q2 FY26, with margin of 28%, an increase of 320 basis points. Quarter 2 PAT
+stood at INR115 crores, growing by 46% over same period previous year, with margin standing
+at 19.6%.
+
+
+Speaking of consolidated performance, revenue for Q2 FY27 stood at INR602 crores compared
+to INR508 crores in Q2 FY26, a growth of 18.5%. On a profitability front, Q2 FY27 EBITDA
+stood at INR131 crores compared to INR125 crores, with margin standing at 21.8%. Q2 PAT
+stood at INR73 crores, with margin standing at 12%.
+
+
+For Q2 FY27, our revenue continues to be diversified across end-user industries, reflecting the
+strength of our business model during the quarter. 21% of our revenue came from aerospace and
+defense, 36% from automotive and auto components, 28% from general engineering, 7% from
+electronics and manufacturing services, 1% from die and molds.
+
+
+The balance 7% came from other industries. Moving to our order book, we continue to maintain
+a healthy and diversified order pipeline. As of today, our order book stands at INR5,082 crores,
+providing good revenue visibility for the coming quarters. The industries-wise order book
+comprises 36% of aerospace and defense, 22% from automotive and auto components.
+
+
+21% from general engineering, 12% from electronics manufacturing services, and 4% from die
+and molds, with the balance coming from the other sectors. For a detailed update on order inflow
+during the quarter, you can refer to investors' presentations.
+
+
+On machine sales front, we sold 1,911 machines during Q2 FY27 compared to 1,315 machines
+in Q2 FY26. The product mix was as follows: entry-level machines sales stood at INR1,802
+crores compared to INR1,237 crores last year. Mid-range machine sales stood at 98 compared
+to 69 last year. High-end machine sales stood at 11 compared to 9 last year. Overall demand
+continue to remain encouraging across the key sectors, while our capacity expansion will further
+strengthen our ability to capitalize on opportunities ahead.
+
+
+
+
+                         Page 4 of 18
+
+                                                                                        Jyoti CNC Automation Limited
+                                                                                                  November 03, 2026
+
+                       To conclude, we have delivered a strong performance in Q2 and H1 FY27, supported by healthy
+                       demand across key sectors and continued progress in our business operations. Our focus on
+                       strengthening manufacturing capabilities, advancing technology through our partnership with
+                       Huron.
+
+
+                       And supporting India's growing manufacturing ecosystem continue to drive our growth journey.
+                       With a healthy order book and disciplined approach to investments, we remain focused on
+                       sustaining our growth momentum in the coming quarters. With that, I would now like to open
+                       the floor for question-and-answer.
+
+
+Moderator:             Thank you very much. We will now begin the question and answer session. The first question is
+                       from the line of Harshit Patel from Equirus Securities.
+
+
+Harshit Patel:         Sir, my first question is on our order intake. I think we have already clocked more than INR14
+                       billion in the first half of FY27 against the full-year guidance of INR25 billion to INR30 billion.
+                       Do you think that we will be able to exceed this run rate, given that our new capacities have also
+                       been commissioned and we will be able to take more orders? I think we were holding back
+                       ourselves from taking more orders while the capacity was being commissioned. Also, could you
+                       share how the pipeline looks for the second half of FY27 in terms of order intake?
+
+
+Parakramsinh Jadeja:   Thank you, Harshit. You're right. Already, we have been clocked against the guidance is little
+                       bit higher. And always our second quarter and third quarter is intake month basically, all the
+                       time, okay. Is the place the orders there? Still, let's say every sector, the pipeline is very healthy.
+                       Particularly in aerospace and defence, we are expecting further more orders in this quarter and
+                       coming quarters on a healthy numbers over there.
+
+
+Harshit Patel:         Yes. Understood. Sir, my second question is on our interest cost. I think they fell to about INR14
+                       crore from a very high number in the last quarter. This is despite our net debt has actually grown
+                       in the first 6 months of FY27. I just wanted to reconfirm with you, we are fully expensing our
+                       interest cost, right and not capitalizing that?
+
+
+Parakramsinh Jadeja:   So basically, this is a operational, let's say the utilization and all, on a working capital and
+                       everything is a reduction of our interest cost there.
+
+
+Harshit Patel:         Understood, sir. Sir, yes, lastly, on Huron, I think Huron has reported a revenue of about INR44
+                       crore in this quarter, with a net profit being about INR43 crore. Probably still maintain the senior
+                       guidance of about INR300 crore to INR325 crore of revenue at Huron, with about 5% to 10%
+                       EBITDA margin.
+
+
+Parakramsinh Jadeja:   Correct. we are on the same level. We are looking to be a quarter 3 and quarter 4. And we are
+                       very progressed in terms of is all end-user certificates and all. And very positive signals has
+                       come from the government authority over there. And I am very happy to share with you, 1 or 2
+                       machines last week, they already given a permissions to us also.
+
+
+                       So with that, third and fourth quarter, we are seeing a good visibility is on a ramp up on a
+                       revenue. And definitely, we are on a track to reach out to close to a INR300 crore of a targets to
+                       be there.
+
+
+                                                 Page 5 of 18
+
+                                                                                      Jyoti CNC Automation Limited
+                                                                                                November 03, 2026
+
+Moderator:             The next question is from the line of Bajrang Bafna from Sunidhi Securities.
+
+
+Bajrang Bafna:         Just my first question pertains to again a bit of Huron that you have already indicated that some
+                       approvals have already started coming in for the licenses, so we are in a position to dispatch
+                       machines in this quarter. So broadly, sir, if we see INR300 crore guidance, can we expect at least
+                       INR80 crores or maybe INR100 odd crores of dispatches in Q3 to begin with, then probably a
+                       little bit ramp up in Q4? Is that a right understanding?
+
+
+Parakramsinh Jadeja:   Yes, that's a clear right understanding.
+
+
+Bajrang Bafna:         And sir, if we see in the first half, the console margins are closer to 22-odd percentage right now,
+                       and we have initially guided will be closer to 25% odd margins. So can we expect now the
+                       second half where your additional capacities are going to be there? So the range -- the overall
+                       guidance of 24 or maybe 25 odd percentage of EBITDA margin, can we are in a position to
+                       achieve that once the ramp up at Huron happens in this?
+
+
+Parakramsinh Jadeja:   Yes, we are very much confident. If you look at that in a domestic front, we are doing extremely
+                       good. And with this second half always to be a much better half from the H1. So with this, all
+                       the situation, we are very much confident to reach to 25% margin, what we have guided to
+                       market, and we are about to maintaining those things.
+
+
+Bajrang Bafna:         And sir, if my understanding is right, despite your most of the sales that has come from entry-
+                       level machines, which you have already indicated in your opening remarks in Q2, where almost
+                       1,800 odd machines are the entry-level machines, where margins are little lower as compared to
+                       your high-end machines, which goes to defence and aerospace segment.
+
+
+                       Despite that, you have been able to clock in 28% standard on margin. So once the ramp up of
+                       these high-end machines happens in Q3 and Q4, because they are predominantly heavy in terms
+                       of defense and aerospace side. So there is a scope to further improvise the overall margin
+                       performance. So is that understanding is right?
+
+
+Parakramsinh Jadeja:   Yes, you are right. And I was always telling to you people in your past questions and in a
+                       meeting, that let's say once this our entry-level product number is also going to increase, our
+                       business model combination is such that we will not go below 25% of margin there. And until
+                       what the order book can pipe with me, I know the completely composition on the order book
+                       and what we are going to execute those things.
+
+
+                       So we are very much confident onto. In Q2, let's say in H2, even the number of machines are
+                       going to increase furthermore because our capacity is now being put to use. And that's how we
+                       are looking to be a better growth coming in the next 2 quarters there.
+
+
+Bajrang Bafna:         And sir, if everything goes right, because now you are working more towards the development
+                       and the R&D side. So the lever of this R&D expenses, because as you move into next 2, 3, 4
+                       years view, you are anyway going towards mechatronics and then probably robotic side, where
+                       lot of sort of investments will also be required to develop these high-end products.
+
+
+
+
+                                                Page 6 of 18
+
+                                                                                       Jyoti CNC Automation Limited
+                                                                                                 November 03, 2026
+
+                       So in that case, the lever will be your -- additional margins will be a lever where you can put in
+                       these investments. So this, despite having high R&D expenses, and your margins that you are
+                       guiding 25%, so you can use that lever to maintain the margins. Is that is something that we can
+                       hope for, or there is a further room to show higher margins in the coming years?
+
+
+                       Because that's a broad understanding, because the additional investments that you will require
+                       to put in for developing high-end products, whether they are in mechatronics or they are
+                       specifically the robotic side. So is that something that the lever that you will use the additional
+                       profitability to fund your additional investments in the R&D side.
+
+
+                       And the margins will be maintained in this 25% odd range, because that we need to have some
+                       sort of understanding that your additional investments will go into funding your additional
+                       requirements on the R&D side. So is that the broader understanding in your mind also to...
+
+
+Parakramsinh Jadeja:   Let me, Bajrangji, let me clear the strategy. You are right. Your thinking is absolutely on a right
+                       direction. Basically, in the next 2 to 3 years, we are developing all our electronics, that is a side.
+                       Our original task is the strategy is that, in the next 2 years, we would like to be Jyoti, to be a
+                       mechatronics company.
+
+
+                       Today, we are a mechanical company. We design the machine, we manufacture the machine,
+                       we castings, we machining the precision component, and we integrate. Now in future, we are
+                       looking to be a mechatronics company. So basically, definitely yes, we are going to invest
+                       whatever the benefits we are going to improve in a margin, we are going to invest into R&D
+                       there. And that will allow us to a further growth there.
+
+
+                       And that let's say after the mechatronics, in future, we will enter first into industrial automation.
+                       And industrial automation is the robotics is the first priority for us there, basically. So these are
+                       the multiple vertical we are working and we are going to work over there. Second part, definitely
+                       we are looking still to be a little bit margin improvement over there because our cost. One, this
+                       is to be manufactured vertically integrated over here.
+
+
+                       The cost advantage will come. As well as today, by the way, I will just give you the input that,
+                       we have been put up almost in this last 6 months, we have close to 950 people and been add on.
+                       And this revenue still is going to come. So costs are being booked, okay. So these all operational
+                       leverage also we will see in the coming days, and that we will utilize into R&D also to be there.
+
+
+Bajrang Bafna:         Got it, got it. And sir, on this INR1,000 crore investment that you are going to do over next 4, 5
+                       years, where these all controllers and these drivers are going to be developed, you have already
+                       got closer to 25% central subsidy. Can we expect similar subsidy from the state government
+                       since you have applied for that?
+
+
+Parakramsinh Jadeja:   Yes, thank you. Basically, I stated into my opening remarks that, we got 25%, almost INR255
+                       crore subsidy from the central government. And Gujarat government that is state government is
+                       a matching grant. Is almost equal to a little bit something more because there is some R&D
+                       subsidy also is going to be kick on. So with that, we are expecting very soon, this sanction will
+                       come and we will close to 50% plus to the subsidy we will have out of INR1,020 crore there.
+
+
+
+                                                Page 7 of 18
+
+                                                                                       Jyoti CNC Automation Limited
+                                                                                                 November 03, 2026
+
+Moderator:             The next question is from the line of Raj Shah from ENAM AMC.
+
+
+Raj Shah:              My first question is regarding the order inflow. As you mentioned in your opening remarks as
+                       well, almost more than 50% of the orders that we received in this quarter was from the auto
+                       sector. If you can throw some light on where are these orders coming from, how has been the
+                       demand, and is this sustainable going forward as well?
+
+
+Parakramsinh Jadeja:   Thank you, Raj. Basically, I always telling to, in my call in past also to you also, Jyoti, we have
+                       a more than 15,000 plus customer base now, okay? In the entire manufacturing ecosystem of a
+                       country. Today, we are serving almost all manufacturing areas, okay. And particularly where
+                       I'm sitting, I like to share with you that, in Rajkot, a standalone we are looking, this year we will
+                       be crossing more than 2,000 machine only from my town.
+
+
+                       And these are all Tier 1, Tier 2, Tier 3 supplier for auto, general engineering, all these areas.
+                       And every area, like Punjab is growing today, and Kolhapur belt is growing. Even now the
+                       eastern belt, okay? There also we are receiving a good numbers and all. I think, momentum,
+                       what the way we are seeing the investments are coming and pipelines are what we are seeing
+                       today.
+
+
+                       We are very much confident in the next 3 years, we are clearly visibilities are there. In fact, still
+                       there is a great opportunity is there and our 62% is still is import there. So our focus area is to
+                       improve the execution more and more, okay? Front end business side, there is no challenge. We
+                       are not going to see that coming 2 to 3 years there.
+
+
+Raj Shah:              Got it, got it. And sir, now since our capacity will be with foundry coming up in this quarter, can
+                       we see the ramp-up in execution of the EMS orders in the order book, which has not been moving
+                       because of capacity constraints?
+
+
+Parakramsinh Jadeja:   See, even if you see that the step put to use. We 1,500 capacity and we have executed 1,900. It
+                       means the new capacity is already into consideration there. Even in EMS now in this quarter it
+                       is almost you can see there is the execution also has been improved there. And we are expecting
+                       furthermore improvement will come in the next 2 quarters there. You are right there.
+
+
+Raj Shah:              Got it, got it. Sir, second question was on the working capital front. We can see inventory days
+                       have increased, we understand in this quarter because your capacity is still coming up and
+                       because of supply chain restrictions, and also there are many components which has a very long
+                       lead time. But going forward, do you see that this coming down to, say, below 200 or close to
+                       200 levels, that you have been talking about in the past?
+
+
+Parakramsinh Jadeja:   Thank you, Rajesh. Basically, Raj, in fact, inventories days, if you look at that, the one, let's say,
+                       total year these targets and we are reaching out there. At 6 months today, in fact, from 203 days
+                       at March level, and if I look at that, our the next coming 6 month, the projections what we are
+                       seeing. So already today, we are at inventory days has been improved. Basically, we are at close
+                       to 190 days. And end of the year, we are looking to further lesser than this, basically.
+
+
+Raj Shah:              Got it, got it. Finally, sir, last question. What will be the capex amount for this year, FY27?
+
+
+
+                                                 Page 8 of 18
+
+                                                                                        Jyoti CNC Automation Limited
+                                                                                                  November 03, 2026
+
+Parakramsinh Jadeja:   So until today, we have done close to 100 and all the advances and paid we have done. So
+                       INR183 crores we have done. And now, the only the foundry last miles are there. So what we
+                       have been projected, the total outlays of a close to INR450 crores to INR500 crores, we are going
+                       to be very near to that after this all completions over there.
+
+
+Moderator:             The next question is from the line of Aniket Jain from Anand Rathi.
+
+
+Aniket Jain:           So my first question is that aerospace and defence orders have declined quite materially this
+                       quarter, while autos as well as general engineering orders have picked up. So do we think that
+                       the momentum in autos and general engineering will continue, and maybe can we see very sharp
+                       pickup in aerospace and defence from next quarter? And also, since auto and general engineering
+                       would be more of entry-level or mid-level machines. So is there any risk of any impact on gross
+                       margins due to the mix change? That's my first question.
+
+
+Parakramsinh Jadeja:   Aniket, number one, that in aerospace and defence, many orders we are getting through the
+                       government tenders. In a last quarter, there are some of the tenders has not been open as we have
+                       been expected. So that will come, and it means we are not lose any orders. It will be in the pipe
+                       there. So we are on track as our plan, and we are not seeing anything in a deep on aerospace and
+                       defence particularly, okay.
+
+
+                       In fact, one more thing I would like to highlight there, and I was always telling to you also that
+                       my aerospace, defence, or entry-level product and all product mix, my margin is not going to be
+                       affected there. If you look at this quarter, it's clearly showing that the number of machines has
+                       more, okay. So initial, my gross margins are better on a high end, but then my overall cost is
+                       then furthermore there. Here, I'm absolutely is optimizing those areas to be there.
+
+
+Aniket Jain:           Understood, sir. And so, my second question is that, sorry for the background noise. Maybe I'll
+                       come back in the queue there is some alarm that has gone off. Sorry for that.
+
+
+Parakramsinh Jadeja:   No issue, no issue.
+
+
+Moderator:             The next question is from the line of Ajay Surya from Niveshaay.
+
+
+Ajay Surya:            Sir, just one question on, first, if you can just give some clarification on the current status on the
+                       French investigation which was going on Huron like what is the current status? And so, just
+                       follow up on this, sir, like because like the CNC controller or any critical component supplies
+                       are the end users.
+
+
+                       Like maybe the French government asking for more end-user certificate or compliance
+                       undertaking on machines Made in India? So like are we facing any maybe bottleneck on raw
+                       material supply on CNC controller or any other critical component? If you can just give some
+                       clarification on this.
+
+
+Parakramsinh Jadeja:   Okay. Thank you, Ajay. Let's say first half your question is regarding the status of Huron. So
+                       the first week of April, what we received the notice and what we have response to them, and
+                       then after there is not a single communication from them, okay. And this is the same status are
+                       all other investigative company in Europe.
+
+
+                                                Page 9 of 18
+
+                                                                                      Jyoti CNC Automation Limited
+                                                                                                November 03, 2026
+
+                       There is no further progresses. Let's say it's basically status quo there, okay. Second part is the
+                       investigation and the dual-use purpose license clarifications. Okay, let's say approval. There is
+                       not much direct connectivity there.
+
+
+                       Usually right now, the time has increased to give a end-user certificate because they are in a war
+                       situation. So they are asking, clarifying and more times are taking to giving the approvals of a
+                       license there. But these are the issues are mainly on a French side. We are not witnessing these
+                       kinds of things in what we are making machine in India. We are not facing these kinds of
+                       challenges over here, and we are in a good shape over here.
+
+
+                       let's say these are the 2 questions over that, but one of the hint what we have been listened at. Is
+                       that a supply chain issues? Yes, there is a CNC controller supply chain is increasing. The concern
+                       is becoming increasing due to the worldwide this machine tools order intake is increased
+                       dramatically now. In the last 6 months, Japan has clocked the order book intake is more than
+                       60% month-on-month there.
+
+
+                       The highest order intake is happening in Japan, Germany, Italy, and particularly in U.S., okay.
+                       Due to this all AI and this data center, all these capabilities and capacities are fully booked on
+                       that. So previously, what the delivery we were getting into controllers and all the suppliers
+                       almost goes on toss and more than double the time has happened.
+
+
+                       But thanks to the God and we have been planned properly, and let's say all our the capacities
+                       and everything was coming and renting off. So we were planned properly and then all the
+                       inventories and everything, what our safety factors we have been maintained, and because of
+                       that, today we are able to clock this growth. Otherwise, this is yes, it is a challenging time on a
+                       supply side there.
+
+
+Ajay Surya:            And sir, like on the -- maybe because a large chunk of our order book is from aerospace and
+                       defence, like almost 30%, 35%. So for these orders, like are the designs or technology are from
+                       transfer from Huron,because like just one as in simplify, will this affect our standalone business
+                       or it will not affect?
+
+
+Parakramsinh Jadeja:   No, it is our own designs. Some of the machine has been designed by Huron, but it is a jointly
+                       designed. This all our ownership and everything is with us only.
+
+
+Ajay Surya:            Got it.
+
+
+Parakramsinh Jadeja:   And now we have close to 200 plus designers working over here at Huron at 15 to 20 people.
+                       So we have a larger team and more capabilities and everything we have developed over here
+                       over the period there.
+
+
+Ajay Surya:            Got it, got it. And sir, congratulations on the ECMS approval. So sir, like...
+
+
+Parakramsinh Jadeja:   Thank you.
+
+
+Ajay Surya:            One question on this. Like sir, I mean, I have read across like global CNC companies who have
+                       tried to develop controllers themselves. There are few Chinese companies and even GE tried to
+
+
+                                                Page 10 of 18
+
+                                                                                       Jyoti CNC Automation Limited
+                                                                                                 November 03, 2026
+
+                       do, but globally when we see, only few players have succeeded. And while we have a large
+                       installation base. Sir, just want to understand on the execution, like will there be a separate team
+                       for this or like how many engineers do we have in maybe the particular electronics and controller
+                       development?
+
+
+                       How it was maybe 2 years back, 1 year back, and how are we now going to maybe increase the
+                       team over here for all the controller, drivers, servo motors, because, sir, it is a very critical. So
+                       controller is a brain of the machine, and we have seen companies struggle to build a
+                       commercially accepted controller. And that's why maybe only like Siemens, FANUC, and all
+                       these players rule the market. So like just want to get some sense on like what gives us the
+                       confidence that we can maybe possibly succeed over here?
+
+
+Parakramsinh Jadeja:   Yes. Thank you. That's a nice question. See, the Indian engineers has a great capabilities. I
+                       believe on that. And today, in terms of all these young talented people, in only this controller
+                       division in R&D center today, separately the teams are working since last 1.5 year. Now that
+                       number has reached to almost more than 110 people.
+
+
+                       And we are expecting 40, 50 more engineers are going to add in the coming days, in the next
+                       around 6 month there. So all these young engineers are designing, developing close to this 150
+                       plus people. We are very much confident in terms of the quality of the product.
+
+
+                       And let's say right now, the biggest advantage, what the Siemens and FANUC has taken 50
+                       years. Today, all the code development times and all, with this AI comes in a picture, and the
+                       quality outputs are coming on that. The speed has increased there. The quality and speed both
+                       are increased there. And we are quite confident and even we are putting up all the hardware
+                       manufacturing facility.
+
+
+                       It's a world-class facility we are creating. So we don't have any doubt in terms of the quality
+                       parameters. Yes, there is a challenge, acceptability from the customer side, but Jyoti has a
+                       15,000-plus customer base, and one-third are customers are a die-hard customer for us. Whatever
+                       the things are going to give them, okay, the people will accept and try and allow us to test over
+                       there. So I'm very much confident in coming days to execution on this area there.
+
+
+Ajay Surya:            Understood. And if I can maybe ask one last question.
+
+
+Moderator:             Sir, sorry to interrupt. But can you please come back in the queue. The next question is from the
+                       line of Aniket Jain from Anand Rathi.
+
+
+Aniket Jain:           My second question was related to the machine realization that have declined about INR32 lakhs
+                       a quarter. So as the revenues from Huron and aerospace and defense picks up in the coming
+                       quarters. So can we expect this to increase to INR35 lakhs to INR40 lakhs, or would INR32
+                       lakhs, INR35 lakhs be a more reasonable range, considering we will see a very sharp pickup in
+                       entry-level and mid-level machines going forward?
+
+
+Parakramsinh Jadeja:   See, what is your question basically?
+
+
+
+
+                                                 Page 11 of 18
+
+                                                                                     Jyoti CNC Automation Limited
+                                                                                               November 03, 2026
+
+Aniket Jain:           So the average realization has reduced to about INR32 lakhs this quarter. So would we see a
+                       jump to maybe INR35 lakhs, INR40 lakhs that we had previously? Or is this a more reasonable
+                       number because the number of entry-level and mid-level machines will be higher?
+
+
+Parakramsinh Jadeja:   See, Aniket, I am very much clear and telling you again and again, okay. Now, today, the way I
+                       have add-on a capacity, these numbers are definitely a top line is going to increase, number of
+                       machine is like that. So average realization is no more a number for me there, okay. But yes,
+                       INR32 lakhs to INR35 lakhs is, even in the past also I said the range is going to be there.
+
+
+Aniket Jain:           Correct, sir. And sir, my second question was on the data centers. So we are seeing very massive
+                       installations for data centers. So do we have any ready offerings that we can supply to data
+                       centers, and are we receiving any customer inquiries for any of our products from those
+                       customers?
+
+
+Parakramsinh Jadeja:   Oh, of course. Many of our customers have started using our existing product as well as we are
+                       developing product for them. And is too much of things are coming now. Right now, all these
+                       data center component manufacturer, mainly in China is a leading country today. But the things
+                       are coming in India also, and we are witnessing this growth over here.
+
+
+Moderator:             The next question is from the line of Abhishek Jain from Kriis PMS.
+
+
+Abhishek Jain:         Congrats for strong set of numbers, sir. Sir, my first question on the Huron side. We have already
+                       recognized certain upfront expenses in Huron, while INR60 crore of Huron revenue has not been
+                       recognized in consolidated financial in first half. So will this revenue will flow in the second
+                       half and it will help in the improvement in the EBITDA margin?
+
+
+Parakramsinh Jadeja:   Absolutely. It will cover in H2.
+
+
+Abhishek Jain:         So if I see that this quarter we have revenue of around INR44 crores in Huron, while you have
+                       recognized around INR15 crores revenue. So if we adjust that numbers, our EBITDA margin
+                       will improve by 3% to 4% on consolidated, is it a right assumption?
+
+
+Parakramsinh Jadeja:   Yes, it's a right assumption.
+
+
+Abhishek Jain:         Okay, sir. And my last question on the revenue guidance, the volume. Just wanted to understand
+                       what is the volume guidance for FY27 for Huron and standalone business, and what would be
+                       the margin guidance for separately?
+
+
+Parakramsinh Jadeja:   So basically, in the past quarter call also, we were discussed, and in terms of a number of
+                       machines, we are expecting to 8,000 machines to clock. And we are on to a same right now,
+                       already has seen this quarter has improved. We have already touched 3,317 machines and
+                       expecting to close to 4,700 plus machines in the next 2 quarters there, okay? And in terms of a
+                       guideline.
+
+
+                       I have told you that we will be in terms of a total numbers, Huron, Jyoti combined will grow by
+                       25% to 30% and we are on the track there. As well as margin side, in many of other past the
+
+
+
+
+                                               Page 12 of 18
+
+                                                                                         Jyoti CNC Automation Limited
+                                                                                                   November 03, 2026
+
+                       questions I confidently given, and I am giving you that also. We will maintain our 25%
+                       commitment, and that will be closer at end of this year, we will reach out to there.
+
+
+Abhishek Jain:         Got it, sir. And when can we expect the commissioning of the new plant? When will the
+                       production start?
+
+
+Parakramsinh Jadeja:   Already I said in a very simple way that already put to use. Only when foundry is on last mile.
+                       And that's how these all the machine assembly, sheet metal, and everything has been done. So
+                       already is put to use there now. Once the foundry will finish, we will say that is complete there
+                       basically. But there is no bottleneck today in terms of what we are targeting to achieve this year
+                       there now.
+
+
+Abhishek Jain:         Can we expect to...
+
+
+Moderator:             Sir, sorry to interrupt, but can you please...
+
+
+Parakramsinh Jadeja:   Already I told you that 3,300 become 4,700.
+
+
+Moderator:             The next question is from the line of Sanjay Ladha from Bastion Research.
+
+
+Sanjay Ladha:          Sir, my question is regarding the competition which is coming up. So what we are hearing from
+                       across Japan, Taiwan, and across countries of the management of the CNC machine is. India is
+                       becoming a more focus area for them, and they are setting up service centers in India. So can
+                       you throw some light on this, and are we seeing some competition on that side or this is not a
+                       portal to what we are doing, and we will be able to do what we are doing? If any comment from
+                       your end.
+
+
+Parakramsinh Jadeja:   See, I will tell you one thing. I flip the question basically. I see differently, okay. See until today,
+                       the Indian market has been enjoyed by these Japanese and Europeans. Now we are giving them
+                       a competition. And our market share, let's say 10 years back, their import was 80%. Now it has
+                       reached to 38% is the manufacturing, 62% like that, okay.
+
+
+                       So and their services centers and everything is in India because they are servicing in India last
+                       25 years there. So basically now with this, our capabilities are increasing, our capacities are
+                       increasing. We are trying to more and more compete to them.
+
+
+Sanjay Ladha:          But sir, just wanted to add on that. So you have already said that Japan has clocked 60% Y-o-Y
+                       growth. And what I am hearing that Japan, because yen has depreciated a lot, there are more lot
+                       of inquiries happening over there. Because until then, it is an expensive market because of the
+                       foreign exchange problem due to this. Now, we are seeing that growth is coming back in Japan
+                       again.
+
+
+                       So before my question pertaining to that, the key because the machine which was previously
+                       supplying into India or other countries, the cost is pertaining to higher because the cost
+                       differential is not there. So anything sort of that, I am just asking?
+
+
+
+
+                                                Page 13 of 18
+
+                                                                                       Jyoti CNC Automation Limited
+                                                                                                 November 03, 2026
+
+Parakramsinh Jadeja:   No, basically, the Japanese yen is, in terms of a dollar, it's down, okay. But dollar against the
+                       Indian rupees has gone up. So in India, the Japanese price has not been decreased, but not an
+                       increase also.
+
+
+Sanjay Ladha:          Okay. Understood. Sir, just a last question. Regarding that what you have said in the con call,
+                       what I am able to see is that the H1 FY27 was roughly 30%, 35% of our revenue EBITDA and
+                       PAT, and probably H2 would be closer to 70%, 75% of revenue EBITDA and PAT. Is that fair
+                       assumption to take it from...
+
+
+Parakramsinh Jadeja:   Let's say it's not at a 35%, it's a 40%, 60%.
+
+
+Moderator:             The next question is from the line of Nikhil Kanodia from Sunidhi Securities and Finance
+                       Limited.
+
+
+Nikhil Kanodia:        Sir, it is very heartening to see that few of our concerns are getting addressed. So sir, just wanted
+                       to check, for this quarter, like half year, the cash flow was around INR112 crores in front of
+                       INR13 crores that we did. So in that regards, as we ramp up the ordering and all of those things,
+                       our execution, so what sort of cash flow run rate should we expect for the years to come and for
+                       this complete financial year?
+
+
+Parakramsinh Jadeja:   Yes. Thank you. Finally, this question has come because it was always people were looking and
+                       asking me. Now, today, we are close to a 47% of our OCF is against the EBITDA. And we are
+                       looking to be a 50% numbers to end of this year. And it will be continued to be there. So
+                       operating cash flow, we will see to a 50% to the EBITDA in the coming days there, and it will
+                       be maintained.
+
+
+Nikhil Kanodia:        Okay. And sir, for the entire year, you had guided that you will do approximately 8,000 odd
+                       machines, and in H1 you have already done 3,317. This is obviously on an annual basis beyond
+                       6,000. So right now, what would you guide for the entire machinery or maybe H2, how many
+                       deliveries will be there?
+
+
+Parakramsinh Jadeja:   Sir, I told you that we will cross 8,000 machines.
+
+
+Nikhil Kanodia:        Sir, 8,000 looks very conservative, and it is an easy target. That is the reason, like any change
+                       on the target over there?
+
+
+Parakramsinh Jadeja:   How come it has become easy target? It has become, let us say, if I look at that, if 50% growth
+                       also, okay. It is close to 4,900. Okay? If you make a total, it is coming to 8,000. It is basically a
+                       40%, 60%, is a 50% plus...
+
+
+Nikhil Kanodia:        Yes, yes. Last year you have done somewhere around 5,600, so that was on.
+
+
+Parakramsinh Jadeja:   5,600, was a full year.
+
+
+Nikhil Kanodia:        Yes. Full year only.
+
+
+Parakramsinh Jadeja:   Okay. So what is -- what last year we are doing almost 90% we are going to do in 6 months. It's
+                       not in a conservative number.
+
+                                                 Page 14 of 18
+
+                                                                                       Jyoti CNC Automation Limited
+                                                                                                 November 03, 2026
+
+Nikhil Kanodia:        Okay, sir. Sir, on the basis of what your competitors are saying, and even you have said that
+                       there is lot of demand for machining and all of those things, be it global or domestic market.
+                       And you have already mentioned that you have been planning it way ahead, and hence you don't
+                       see any challenges. So sir, just wanted to understand, say for example, in terms of controllers
+                       and all of those things, till what level can we see that or there will be not any supply side issue
+                       over there?
+
+
+                       Are there any capabilities towards our own controllers? That's the part in that as well. And like
+                       till what level, say for example, from 6,000 you're going to 16,000. So till what level are we
+                       sitting comfortable with, like what level of the deliveries can we manage?
+
+
+Parakramsinh Jadeja:   So basically, we said that we will grow continuously next 2, 3 years by close to 25% to 30%,
+                       and will be maintained. So if you look at that this ways, and controllers will come in the next 2
+                       years' time. It's not been counted right now into this first -- one year there? It's not in a part of
+                       that. So supply chain is basically has been continued to be a existing supplier, and there how
+                       only we are going to be maintain that.
+
+
+Nikhil Kanodia:        Understood. And sir, you said that there are some minor delays or like in few days we will see
+                       the foundry also up and running. So just wanted to understand, like when are we expecting it to
+                       be completely operational and then even the foundries? I am aware that like when we did the
+                       plant visit and all of those things that we were already using the facilities. So in terms of foundry
+                       and all of those things, say some rough, like within a week's time or maybe a month's time, when
+                       are we expecting that to be also up and...
+
+
+Parakramsinh Jadeja:   No. Foundry, first of all, this is a completely a new technology that we are being putting over
+                       here, okay? So this is a lost foam vacuum casting, okay? Is in a new area, and then until today
+                       in India, there are few foundries are there, but those are the small component. Today, we are
+                       going to do up to a 15 tonne single piece casting with the lost form, okay? So it's a new things.
+                       Already all the equipment is under transit, okay, and it will reaching there in this month end, and
+                       we are expecting to complete this quarter.
+
+
+Moderator:             The next question is from the line of Rabindra Nath Nayak from Nirmal Bang Securities.
+
+
+Rabindra Nayak:        Sir, the time is short, so I will read out the question. If you can answer it properly, that will be
+                       helpful, sir. Sir, you have actually targeted to spend around INR1,000 crores of capex in next 5
+                       years to meet the approval that is you got the ECMS scheme. So how this capex will be done?
+                       Because you have already completed around INR200 crores capex is going to be completed this
+                       year.
+
+
+                       So this is a 5 years. Whether it will be through partner basis or some joint venture basis, you will
+                       do that. That is my first question. So what is the pending revenue from Huron in a particular last
+                       year? Last quarter, there was a negative kind of there was no booking from Huron, and this
+                       quarter it is INR15 crores we have booked. So what is the pending revenue that is to be booked,
+                       which is pending around the end-user certificate which is remaining?
+
+
+Parakramsinh Jadeja:   Rabindraji, slet's clear that, okay? The last quarter also in Huron, we have booked close to INR30
+                       crore revenue, and this quarter also we have booked INR42 crore, okay? But let's say we are
+
+                                               Page 15 of 18
+
+                                                                                        Jyoti CNC Automation Limited
+                                                                                                  November 03, 2026
+
+                       supplying the parts and machines to them, okay? So in a consol, it has been nullified there, okay?
+                       And that's how it's become a INR15 crore there, okay? Otherwise, there is a dispatches are
+                       happened, INR42 crores to be there, okay?
+
+
+                       And let's say the revenue what we have been reversed in the last quarter of the last year, it was
+                       close to INR65 crores, is still is pending as it is. Once we will get the clearance, we are able to
+                       book the revenue to be there, okay. This was the questions of the Huron side. What was the other
+                       your question there?
+
+
+Rabindra Nayak:        The capex?
+
+
+Parakramsinh Jadeja:   Let me clear to you that. Basically, in a capex side, for the electronics component manufacturing,
+                       what we have targeted is, let's say, close to a total project cost is going to come close to INR1,250
+                       to INR1,300 crores. Out of that, INR1,020 crores, machinery, see this all subsidy will get against
+                       the machinery, not to be a land and building to be there, okay. So we are going to do it in a
+                       phased manner.
+
+
+                       In a first phase, we are going to do the investment in a one year time is close to INR400 crores
+                       to INR450 crores. And out of that, we are expecting close to a INR200 crores to be a subsidy
+                       there. So our outlay is going to be INR200 crore for the next one year there.
+
+
+Rabindra Nayak:        Okay, okay. And sir, why this year, this quarter, the tax rate is so high, 30%? Is it any reason, or
+                       it is going to normalize coming year?
+
+
+Parakramsinh Jadeja:   No, no, tax rate is not 30%.
+
+
+Rabindra Nayak:        Okay. This quarter it is 30%. So what is the average tax rate we should assume for the next full
+                       year?
+
+
+Parakramsinh Jadeja:   See, basically tax rate, Rabindra bhai you have to see into standalone, okay? In a consolidation,
+                       there is a loss has been reduced, so tax rate you will see more there. Once you see the standalone,
+                       you will find a clarity there.
+
+
+Rabindra Nayak:        Okay. Sir, what is the employee cost run rate we can expect in next 2 quarters? Your plant is
+                       going to be commissioned. So what is the employee cost rate for quarter we can expect for the
+                       next 2 quarters?
+
+
+Parakramsinh Jadeja:   Let's say, first half, what the cost of first half, it is going to be similar in a second half, because
+                       already we have been deployed the more people.
+
+
+Rabindra Nayak:        Okay, okay. Sir, what is the foundry capacity lastly? What is the total foundry capacity, annual
+                       capacity, new foundry capacity, and the existing foundry capacity?
+
+
+Parakramsinh Jadeja:   The existing foundry capacity is close to 1,500 tonne per month. With the new foundry capacity,
+                       we will reach to a 5,000 tonne per month.
+
+
+Rabindra Nayak:        Okay, 5,000. So 20,000 per month, the total capacity, including a new foundry?
+
+
+
+                                                Page 16 of 18
+
+                                                                                         Jyoti CNC Automation Limited
+                                                                                                   November 03, 2026
+
+Parakramsinh Jadeja:   No, no, no it is from 1,500 to 5,000.
+
+
+Rabindra Nayak:        Okay, 1,500 to 5,000. Okay, understood, sir.
+
+
+Moderator:             The next question is from the line of Amitoj Singh from 360 ONE Capital.
+
+
+Amitoj Singh:          Just one question that, how much of Huron revenue was deferred this quarter? I think last quarter
+                       we had around INR35 crores of deferrals. How much will the figure be this quarter?
+
+
+Parakramsinh Jadeja:   So basically, it's not in a deferred, but basically, it's not been, let's say, booked, okay. It's not in
+                       a deferred, it's not in a perfect thing because as per the POCM, we are not booked. So this quarter
+                       also, let's say, the production and everything has happened nicely what we are expecting, okay.
+                       So what we are looking to be INR250 crores, INR300 crores, we will get it soon there once the
+                       clarity will come. So this quarter also close to 3 million to 3.5 million additional we have
+                       produced, but we are not able to dispatch them.
+
+
+Amitoj Singh:          Got it, sir. And just one more question on the interest expense. I didn't get the rationale behind
+                       why our interest expenses declined drastically this quarter. And should we assume this to be the
+                       stable quarterly rate, or was this just a one-time fluctuation?
+
+
+Parakramsinh Jadeja:   No, it will be stable in a quarter-to-quarter there. See, we have a large working capital
+                       utilizations, okay. It's ups and down. Your short-term borrowing is become a plus or minus, then
+                       it will be plus or minus there.
+
+
+Moderator:             The next question is from the line of Simran Kumari from Narnolia Financial Services Limited.
+
+
+Simran Kumari:         Most of my question has been answered. Just wanted to get a clarity on Huron. Like what are
+                       the total revenue we are expecting to recognize during second half FY27?
+
+
+Parakramsinh Jadeja:   So ma'am, I said that we are going to reach close to 300 crores. It means close to EUR28 million
+                       there, okay. Today is EUR6.5 million. The difference are going to come in the next 2 quarters
+                       then.
+
+
+Simran Kumari:         And my second question is basically on the realization. Like you mentioned, due to more entry-
+                       level machines, our realization has been in the range of INR32 lakhs to INR35 lakhs. Is it same
+                       for the FY28 as well, or do you think it will go to our previous range of INR35 lakhs, INR36
+                       lakhs?
+
+
+Parakramsinh Jadeja:   So we will be maintaining, I said that, in between 35 to 36 in the next 2 to 3 years there.
+
+
+Moderator:             Ladies and gentlemen, due to time constraints, that was the last question. I would now like to
+                       hand the conference over to management for closing comments.
+
+
+Parakramsinh Jadeja:   Thank you all for joining us today. I hope I have addressed all your questions. We remain
+                       committed to keeping the investment community informed with the regular updates on any
+                       development in the company. For any further information or queries, please feel free to reach
+                       out to us or SGA, our Investors Relation Advisor. Thank you very much for joining this call,
+                       and I wish you a wonderful, Happy Diwali to all of you there. Thank you. Thank you very much.
+
+                                                Page 17 of 18
+
+                                                                      Jyoti CNC Automation Limited
+                                                                                November 03, 2026
+
+Moderator:   Thank you very much on behalf of Jyoti CNC Automation Limited. That concludes this
+             conference. Thank you for joining us and you may now disconnect your lines. Thank you.
+
+
+
+
+                                   Page 18 of 18
+

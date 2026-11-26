@@ -1,0 +1,1260 @@
+October 23, 2026
+
+Ref. No.: HDFC Life/CA/2026-27/43
+
+Listing Department                                    Listing Department
+National Stock Exchange of India Limited              BSE Limited
+Exchange Plaza, Plot No C/1, Block G,                 Sir PJ Towers,
+Bandra-Kurla Complex,                                 Dalal Street,
+Bandra (East),                                        Fort,
+Mumbai- 400 051                                       Mumbai – 400 001
+
+NSE Symbol: HDFCLIFE                                  BSE Security Code: 540777
+
+Dear Sir/ Madam,
+
+Sub: Transcript of Earnings Conference Call – H1 FY’27
+
+We wish to inform that pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, please find enclosed the transcript of the Earnings Conference
+Call with analysts and investors held on October 15, 2026, to discuss the financial performance of
+the Company for the period ended H1 FY’27.
+
+The said transcript has been hosted on the Company’s website at https://www.hdfclife.com/about-
+us/investor-relations.
+
+This is for your information and appropriate dissemination.
+
+Thanking you,
+
+For HDFC Life Insurance Company Limited
+                  Digitally signed by
+
+NAGESH PAI        NAGESH PAI
+                  Date: 2026.10.23
+                  15:23:21 +05'30'
+Nagesh Pai
+Company Secretary & Compliance Officer
+
+Encl.: As above
+
+HDFC Life Insurance Company Limited
+  H1 FY27 Earnings Conference Call
+         October 15, 2026
+
+
+
+
+              Page 1 of 21
+
+                                                                    HDFC Life Insurance Company Limited
+                                                                                        October 15, 2026
+
+
+
+
+Vibha Padalkar:   Good evening, everyone, and thank you for joining our earnings conference call for the half
+                  year ended September 30, 2026. Our results along with the investor presentation, press release,
+                  and regulatory disclosures are available on our website and with the stock exchanges.
+
+
+                  Joining me on today’s call are Niraj Shah, Executive Director and Chief Financial Officer;
+                  Vineet Arora, Executive Director and Chief Business Officer; Eshwari Murugan, Appointed
+                  Actuary and Chief Actuary; and Kunal Jain, Head - Investor Relations, Business Planning and
+                  Strategy.
+
+
+                  Let me begin with the broader environment. In its latest policy, the Reserve Bank of India
+                  raised its FY2027 growth projection to 7.1% from 6.7%, reflecting continued resilience in
+                  domestic economic activity, while the fiscal position remains well managed.
+
+
+                  At the same time, the RBI raised the policy repo rate by 25 basis points to 5.50% and moved to
+                  a stance of calibrated tightening, given elevated energy prices and a below-normal monsoon,
+                  which remain the key risks to inflation. Broadly, we expect macro conditions to remain stable,
+                  which in turn should support steady growth for the life insurance industry.
+
+
+                  Moving on to business performance. In Q2, individual weighted received premium grew 11%,
+                  ahead of the private industry at 10%, with market share improving 10bps to 16.2% in Q2. This
+                  took our H1 individual APE growth to 9%. Overall APE grew faster, at 13% in Q2 and 11% in
+                  H1. The number of individual policies grew 9% in H1, ahead of the industry. We expect to
+                  sustain this momentum and grow in line with the industry in FY27.
+
+
+                  Growth was broad-based across channels. Individual APE sourced by HDFC Bank grew 12%
+                  in Q2, slightly ahead of company growth. We have sustained our counter share, building on
+                  the momentum we saw late in Q1 and supported by deeper engagement with the bank across
+                  branches, products and processes, and we expect our share to steadily improve going forward.
+
+
+                  Other bancassurance partnerships also grew well, delivering a YoY growth of 13% in Q2. We
+                  are pleased to announce our new bancassurance partnership with J&K Bank and we look
+                  forward to scaling the relationship, deepening our presence across its network and extending
+                  our reach to a wider customer base. Other non-bank corporate alliances clocked robust growth
+                  in Q2 of 13%.
+
+
+                  Agency continues to grow faster than the company and the broader agency market, at 13% in
+                  H1, and our position in this channel has strengthened. Investment in expanding our branch
+                  network is yielding good results: branches opened over the last 30 odd months now contribute
+                  about 17% of agency business, versus 12% a year ago.
+
+
+                  Agent additions and activation remain healthy, and frontline productivity has improved. The
+                  channel’s mix is also strengthening, with protection and annuity together contributing about
+
+                                          Page 2 of 21
+
+                                                    HDFC Life Insurance Company Limited
+                                                                        October 15, 2026
+
+30% versus 15% in the previous period. Even as we continue to perform well across our
+partner channels, investing in and building our proprietary channels remains a key priority.
+
+
+Next, on product mix. In H1, unit-linked products contributed 45% of individual APE, non-par
+savings 22%, annuity 12%, participating products 13% and retail protection 8%. Retail
+protection grew 33% in H1, a two-year CAGR of 30%, with growth broad-based across
+geographies and customer cohorts. Its share of individual APE rose to 8% from about 7% last
+year.
+
+
+Rider attachment also continues to be healthy, and protection and riders together now account
+for 11% of individual APE. In the second half of last year, protection grew 57% following the
+GST exemption. This year, we expect growth to normalize as the base starts to kick in and
+remain strong on a 2-year CAGR basis. Our retail sum assured grew by 21% in H1, with
+Market Share increasing by 20bps to 15.4% in H1.
+
+
+Credit protect grew 19% in H1, with growth broad-based across portfolios. Non-par savings
+and annuity together contributed 34% of individual APE. With interest rates at elevated levels,
+this is an opportune time for customers to lock in long-term guaranteed returns.
+
+
+In line with our focus on driving growth this year, we will continue to use the current interest
+rate environment to sharpen the value we offer customers across both segments. Unit-linked
+demand remained resilient despite equity market volatility.
+
+
+Moving on to financial and operating metrics. Value of new business for H1 was ₹2,037 crore,
+a growth of 12%, ahead of APE growth. VNB growth for Q2 was 15%. New business margin
+was 24.7%, compared with 24.5% in H1 FY2026.
+
+
+The improvement was driven by a strong product mix and the continued mitigation of the GST
+impact we had absorbed last year. Embedded Value stood at ₹66,461 crore, with rolling 12-
+month operating ROEV of 14.9%.
+
+
+Profit after tax for H1 was ₹1,119 crore, a growth of 13%. Assets under management stood at
+₹4.1 trillion, up 14% year-on-year. Our 13th month persistency stood at 83% and 61st month
+at 66%. Persistency was softer on renewal collections in our unit-linked book amidst market
+volatility, and in a specific cohort of non-par business written last year.
+
+
+We are working closely with our distribution partners and expect some recovery by the end of
+the year. Our solvency ratio stood at 180% as of September 30, 2026, well above the
+regulatory requirement of 150%. The Board has approved raising up to ₹500 crore through
+subordinated debt, which we expect to complete during the current quarter, further
+strengthening our capital position as we invest for growth.
+
+
+Moving on to subsidiaries and ESG. The Pension business continued to scale, with assets
+under management of ₹1.8 lakh crore as of September 30, 2026, up 28% year-on-year. We also
+
+
+
+                         Page 3 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  continue to see an attractive long-term opportunity in GIFT City for USD-denominated
+                  insurance solutions.
+
+
+                  On ESG, our MSCI ESG rating was upgraded to AAA from AA. This reflects our leadership
+                  in governance and the progress we have made across each element of our ESG framework.
+
+
+                  Finally, on the regulatory front. IRDAI has released consultation papers on the economics of
+                  insurance distribution, which propose significant changes for the industry. The regulator has
+                  encouraged industry participants to share their feedback supported by data and keeping
+                  policyholder interest at the centre of the conversations.
+
+
+                  As an industry, our shared goal is Insurance for All by 2047. Getting there will require
+                  widening reach, building greater transparency and trust, and improving affordability for
+                  customers. More attractive products and distribution partners who bring advice, service and
+                  reach to customers will remain central.
+
+
+                  Our business has been built around many of the principles the consultation emphasises:
+                  diversified distribution with a growing proprietary channel, a calibrated expense model and a
+                  long-standing focus on quality of business and customer outcomes.
+
+
+                  This positions us well to keep investing in deepening and widening our reach. With the
+                  consultation still under way and the industry engaging with the regulator, we will be better
+                  placed to comment on specifics once the framework is finalised.
+
+
+                  To conclude, momentum is building across our business. We grew ahead of the industry in
+                  quarter 2, growth was broad-based across channels, our investment in agency continues to
+                  deliver, and our VNB growth has been ahead of APE. We remain confident in the long-term
+                  opportunity for the industry and in our ability to further strengthen our position within it.
+
+
+                  For a more detailed discussion of our performance and outlook, please refer to the investor
+                  presentation. We will now be happy to take your questions.
+
+
+Moderator:        The first question is from the line of Prayesh Jain from Motilal Oswal Financial Services.
+
+
+Prayesh Jain:     Congrats on a decent set of numbers and happy to see the growth coming back at HDFC Bank.
+                  What has changed in HDFC Bank because we had seen a slow phase in the last few quarters
+                  and the growth seems to have come back in the last couple of months? What has changed, and
+                  how is it sustainable?
+
+
+                  Second question is on the consultation paper. We have a decent share of credit life business.
+                  How do you see that getting impacted if the regulations are implemented as it is? How do you
+                  see that part of the business playing out?
+
+
+Vibha Padalkar:   Hi, Prayesh. As far as the bank is concerned, we've done a lot of granular work, and there are
+                  many aspects to it rather than one. I would just say that it is a lot more bottoms-up in terms of
+
+
+                                           Page 4 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  engagement at a branch level, granular level of engagement. We expect this momentum to
+                  continue to build. Also, the interest rate environment has helped. within the underlying
+                  products, protection has grown very well. It's a multifold effort: populating our people in
+                  branches, . So many small and big things that have continued to work for us.
+
+
+Vineet Arora:     Further, at a macro level till about July-August last year,           there were some additional
+                  incentives and contests running, which was withdrawn about a year back at HDFC Bank. Now
+                  that one full year has passed, the entire momentum of insurance is also coming back into full
+                  growth for the bank channel.
+
+
+                  Along with that, like Vibha mentioned, a lot of small corrections and challenges around credits
+                  and people and everything else has been taken in this year, especially in the last three, four
+                  months, which is now stabilized and we can see the growth momentum coming back. Looking
+                  at where we are, we do believe that we should continue to see reasonable growth in the HDFC
+                  Bank channel.
+
+
+Vibha Padalkar:   As regards your second question on consultation paper and credit life in particular, this is a
+                  consultation paper, early days. We have made representations collectively at different forums.
+                  We are also eager in terms of understanding where the regulator is coming from. I think the
+                  objective remains the same as to how do we give the best value for each customer. However,
+                  as far as Credit Protect is concerned, the need for protection at the bottom of the pyramid
+                  continues. I think that point is well-taken and we've made those points as well, and how do we
+                  make insurance a lot more inclusive and credit life does that very effectively.
+
+
+                  Things will evolve. The need for protection doesn't go away. In some avatar or the other, it
+                  will definitely be there in the similar kind of a quantum, but a little bit early in the day to say
+                  as to what's the final form or shape.
+
+
+Vineet Arora:     I'll just add one more point there, that the credit life also services a lot of social sectors where
+                  there is MFI sector and the people who earn less than maybe INR2.5 to 3 lakh of income,
+                  which are not accessible through retail. We have shared all this data and we'll be sharing as the
+                  representation continues. We do look forward to how things can evolve when the draft comes.
+
+
+Vibha Padalkar:   And last point here is, if I were to look at the number of lives is almost 5x* or thereabouts,
+                  than the retail number of lives. Getting to Insurance for All by 2047 without the reach of credit
+                  life could be quite difficult, and so those are the sorts of representations that not just us, but at
+                  a sectoral level also we'll make.
+
+
+                  *Please note the following correction: At the overall industry level, the number of lives
+                  covered under group business (predominantly credit protect) is ~10x number of lives covered
+                  under retail business
+
+
+Prayesh Jain:     A follow-up on the first one. There was competitive intensity in the channel on HDFC Bank,
+                  the IRRs or commissions. Have we done any correction in the IRRs that we are offering or
+
+
+
+                                           Page 5 of 21
+
+                                                                    HDFC Life Insurance Company Limited
+                                                                                        October 15, 2026
+
+                  commissions that we are offering that has changed in the last few months, which has led us to
+                  some bit of improvement in the trajectory?
+
+
+                  And last question would be on VNB margins. How do you see this now, given that your
+                  product mix is moving favorable, growth is coming back? Would you still continue to invest in
+                  the business to maintain margins, or it would be more in the second half that we can expect
+                  some margin expansion here?
+
+
+Vineet Arora:     I'll take the first question on HDFC Bank. To your point, no, we haven't made any significant
+                  changes, but we have continued with our aggression of making sure that our rates are
+                  competitive and at par with what the industry and the economics allow. It has been helped
+                  because of the increase in yields also.
+
+
+                  That has helped us give those kinds of rates to the customer and helped in getting the share of
+                  non-par back. But the growth is not only in non-par, growth is across products, so this IRR
+                  intensity could justify the non-par growth, but like I said earlier, a lot of other granular work
+                  has also happened, which has ensured that the growth is more broad-based across product
+                  categories. There is no change in commercial payouts.
+
+
+Prayesh Jain:     On the VNB margins?
+
+
+Niraj Shah:       Our approach is fairly clear and we'll stay with that, that we'll want to maximize VNB growth,
+                  and margins will be an outcome of everything that we see around us, whether it's product mix
+                  or the competitive environment. We have managed to expand margins even after absorbing the
+                  entire impact of GST, which now gets baked into the business model from second half of the
+                  year.
+
+
+                  As the scale comes back towards where we are capacitized, we should start seeing some of
+                  those benefits coming into the margin. But like you said, most of it will be ploughed back into
+                  business.
+
+
+                  We see that there is a very good opportunity to continue expanding our reach, whether through
+                  our proprietary distribution or through our partnerships, new partnerships like J&K Bank, for
+                  example, or any of our existing partnerships as well.
+
+
+                  We will continue that investment. Our entire architecture on the technology side also starts
+                  playing out from a customer-facing perspective, partner-facing perspective. Those investments
+                  will continue, and we will continue with the objective of delivering VNB growth in line with
+                  APE or slightly ahead of it.
+
+
+Moderator:        The next question is from the line of Shreya Shivani from Nomura.
+
+
+Shreya Shivani:   I have two questions. My first question is on the annuity product movement. I think it's been
+                  quite strong in this quarter. Any color on any flavor that you can give around here? Is this a
+
+
+
+                                           Page 6 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                   segment that becomes, it's gone into double-digit mix now, so this versus par, are we
+                   preferring one product over the other?
+
+
+                   My second question is on the VNB walk and EV walk. I know these are small numbers only,
+                   but if you can explain that in the EV walk, what is the operating variance? Is it still from
+                   persistency? And in the VNB walk, what is the change in assumption that we've made?
+
+
+Niraj Shah:        The annuity focus has been fairly strong for many years for us now. IRDAI's has given us this
+                   opportunity to expand the segment by allowing us to launch variable annuity products, which
+                   we had done at the end of last year. That has now started catching significant scale and interest
+                   from varied customer segments.
+
+
+                   That's the reason why you're seeing annuity mix as 3x of what you saw at the same time last
+                   year. It's a combination of multiple products. single premium products as well as regular
+                   premium products, immediate as well as deferred. So, all of these constituents within the
+                   product segment are becoming larger and larger. And as we become more mature as customers
+                   in terms of looking at our retirement needs, this product segment will continue to gather scale.
+                   So, that's really our thought process on that.
+
+
+                   As far as the VNB walk is concerned, the operating variance is primarily on persistency. We
+                   did speak about it in the opening comments as well, that we have seen some pressure on unit-
+                   linked collections given the market sentiment and also the residual impact of one of our
+                   products within the non-par segment. So, that's kind of running off now, but that's really the
+                   gap that you see in the operating variance in the embedded value.
+
+
+Niraj Shah:        As far as changes in assumptions are concerned, it's the same thing. We had spoken about it
+                   last time. Opening assumptions were largely to bake in the persistency change that we were
+                   foreseeing into our EV and VNB.
+
+
+Shreya Shivani:    Right. And the investment variance, any breakups if you can give us? Equity, debt?
+
+
+Eshwari Murugan:   During the 6 months, the equity performance has been lower than expected. It's gone up by
+                   around 3%, 3.5%, whereas our expectation is in the range of 5%. So, that has given a negative
+                   variance. On the yield curve, at the short end, the yield curve has risen by around 25 basis
+                   points-30 basis points, and that has a negative impact on the shareholder assets as well as the
+                   VIF on the policy liabilities. So, this has again given a negative impact, and the credit spreads
+                   have widened, so this has also resulted in a negative impact. So, overall, these three put
+                   together has given a negative investment variance on the EV. All these are macroeconomic
+                   conditions, That's why it's reflected as an investment variance.
+
+
+
+
+Niraj Shah:        And you will be able to triangulate this from sensitivities that we share on a regular basis, I
+                   mean for us as well as for anybody else.
+
+
+
+                                            Page 7 of 21
+
+                                                                       HDFC Life Insurance Company Limited
+                                                                                           October 15, 2026
+
+Shreya Shivani:    Sure. Understood. Thank you so much.
+
+
+Moderator:         Next question is from the line of Nidhesh Jain from Investec.
+
+
+Nidhesh Jain:      Two questions. One is our capital consumption has been quite high. We raised capital and
+                   again the solvency has come down to 180. So, how do you see capital consumption going
+                   forward? And what is leading to this high capital consumption? Second is, how do you see the
+                   behavior change at the distribution level with the new proposed commission limit, specifically
+                   if you can talk about agency, banca, and partnership distribution? Each segment, how do you
+                   see behavior changing because in some of the segments the revised commission proposed are
+                   pretty low versus current limits?
+
+
+Eshwari Murugan:   On the capital consumption, as we write long-term products, the capital gets locked in under
+                   the current regime, which is quite prudent, and that's why the movement or transition to risk-
+                   based capital framework will be helpful. But till the time that framework is in place, we will
+                   continue to have capital consumption, mainly because we're writing profitable but long-term
+                   contracts where the requirement is the same and it doesn't come down even if the risk is getting
+                   reduced.
+
+
+                   So, that's the main reason for the solvency getting consumed or getting reduced when the
+                   capital is getting consumed. But we hope that by next year or so there will be some discussion
+                   and some timeline on the movement to RBC, which should help improve the ratio.
+
+
+Nidhesh Jain:      With INR500 crores of sub-debt, you should be okay till next year, or?
+
+
+Eshwari Murugan:   We should be comfortably above the regulatory minimum of 150% and what we target
+                   internally as well. So, till the end of financial year, we should be comfortable.
+
+
+Vineet Arora:      On the impact of the distribution paper, like Vibha said in the beginning, this is right now at a
+                   consultation phase and till the time the draft regulations come out, it is still, open to a lot of
+                   changes that might come in basis of the feedback that is coming from the industry and
+                   distribution partners, But just at a high level, I can maybe just categorize the impact across
+                   channels in high, medium, low kind of segments.
+
+
+                   Given the limits in the paper, the agency channel would be least impacted. There would also
+                   be some impact, but relatively lesser. Banks would be next in line, and the brokers and the
+                   corporate agents would be the highest impacted in that line of order. But like I'm saying, there
+                   could be, variations to this, and a better time to discuss this would be once the draft is out.
+
+
+Moderator:         Next question is from the line of Manas Agrawal from Sanford C. Bernstein.
+
+
+Manas Agrawal:     I have two questions. One is on the bank sales. I think we've seen some momentum come back.
+                   It may be too early to ask, but do we have a clarity on what the new CEO's stance is going to
+                   be on bank sales for insurance? From a regulatory perspective and from a new CEO
+
+
+
+                                            Page 8 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  perspective, how should we think about counter share because the differential in commissions
+                  will go away versus the other players on the counter?
+
+
+                  Second, on EoM, assuming the things are going to remain what the draft says, how much of
+                  the bridge from commission cuts gets passed through, and how much is left which you need to
+                  work towards?
+
+
+Vineet Arora:     On the bank front, it's too early for us to say and it's not even our side to say what their stance
+                  is. But given the way things are right now, we are reasonably confident of how the rest of the
+                  year looks like.
+
+
+Niraj Shah:       On the EoM front, our expense ratios today are around 21-odd percent, , and a large part of
+                  that is obviously flowing through commissions, more than half of it. If the commissions stay at
+                  the level which are being proposed in the discussion paper, that goes down to half or less than
+                  half. If you do the math, 15% is something that we will achieve just mathematically. But then
+                  of course there are nuances around what happens to business scale, , and so on and so forth.
+
+
+                  From an EoM perspective, it's not something that would be a big challenge in achieving that
+                  number, and then of course the glide path is also something that we need to look at. But just
+                  mathematically, it's reasonably straightforward.
+
+
+Manas Agrawal:    And on the counter share, setting aside what the new CEO may do at the bank, the paper
+                  should make it easier for the subsidiaries everywhere across the industry. Is that fair to say?
+
+
+Vibha Padalkar:   We'll have to wait and see. Don't want to jump the gun. But yes, I think clearly the regulator is
+                  a tad inclined towards probably closed architecture, I just want to leave it there in terms of
+                  without second-guessing what the regulator is thinking of, but the report seems to suggest that.
+                  We'll see as to finally what the contours are, and whatever they are, we will, overall, I'm not
+                  saying only about HDFC Bank, but overall, we should be better off once things start falling in
+                  place than where we are today.
+
+
+                  And this I'm again mentioning from a customer's point of view, because I think what's lost in
+                  all of this is that the pie also should grow. We've seen that resoundingly when GST cuts
+                  happened. Yes, like with any material change, there will be disruption, but I remain extremely
+                  optimistic once that disruption is digested by all market participants and the new norm
+                  emerges. I do think that we will be in a position that is stronger than today.
+
+
+Moderator:        Next question is from the line of Madhukar Ladha from J.P. Morgan.
+
+
+Madhukar Ladha:   Two questions from my side. First, when I look at your product mix, we're seeing a shift away
+                  from par and more towards annuity. Can you explain what is really driving that? Second, I
+                  think a lot of investors are concerned, especially I would say on the bancassurance channel,
+                  and the worry is that given the reduced commissions, does this really make it attractive enough
+                  for banks to really go out and sell insurance? Would insurance fall off the radar or go lower
+                  down the scorecard for relationship managers? How would you address that?
+
+                                           Page 9 of 21
+
+                                                                       HDFC Life Insurance Company Limited
+                                                                                           October 15, 2026
+
+Vibha Padalkar:   I'll take the second question.   absolutely there'll be some short-term disruption like we had
+                  when the INR5 lakh withdrawal happened, and all that we were talking about and discussing
+                  was the withdrawal.
+
+
+                  Today, just in about three, four years down the line, no one mentions it anymore. I absolutely
+                  think that's how this is going to get going down the line. And just to rewind for those who have
+                  not been associated with the insurance sector, just a few years ago, around 2016-17, we were
+                  largely still in closed architecture at HDFC Bank.
+
+
+                  The commissions at that point in time were not very different from where the commissions this
+                  particular version of the consultation paper or some such avatar will finally emerge, and the
+                  growth in bancassurance was not very different than where it is today. This gives us a lot of
+                  confidence that it still makes eminent sense.
+
+
+                  The commercials will not be trivial and back-ended has increased. Also, there's been an
+                  increase in certain segments like protection. All of that put together, hopefully this will give
+                  rise to more longer-term sale of insurance policies, which is how it should be. More protection-
+                  focused, retail protection-focused, which you'll also agree is a good outcome.
+
+
+                  All of that put together, we remain quite optimistic that bancassurance, agency of course
+                  Vineet has spoken about, should not be as impacted, but the bancassurance channel we don't
+                  believe will lose interest.
+
+
+Madhukar Ladha:   And on the product mix shift?
+
+
+Niraj Shah:       On the product mix, a couple of things. One is, we just discussed when Shreya also asked, on
+                  the annuity front. One is that it’s a new product category, and also I talked about all the
+                  segments within that, which has resulted in the annuity mix on an APE basis looking very
+                  elevated at 12% versus 4%, 5% in the previous periods.
+
+
+                  But if you see on a new business premium basis, again, as we highlight, it has been growing
+                  from 14-odd percent to 17%, that would be a fairer measure of looking at how the segment is
+                  building nicely, On a more granular basis rather than just looking at the APE difference at this
+                  point in time because of the regular premium mix increasing in the past six months.
+
+
+                  That segment continues to grow. Non-par, as we discussed earlier in the call as well, is
+                  something that given the way the asset allocation conversation is becoming a little more
+                  understood now, and the mix on non-par has also gone up from 18-odd percent to 22-odd
+                  percent. Protection has started, inching up very meaningfully from 7% to 8% on a Y-o-Y basis.
+                  Each of these have actually contributed to the mix shifting.
+
+
+                  Unit-linked continues to be at similar levels to last year. It has been inching up, by about 2% to
+                  3%, and that is something that is, I guess, here to stay unless there is some reversal in thought
+                  process that happens. We haven't seen that yet, but unit-linked is likely to continue on this
+
+
+
+                                           Page 10 of 21
+
+                                                                          HDFC Life Insurance Company Limited
+                                                                                              October 15, 2026
+
+                      path. It's more probably in this environment more appreciation either for the equity story or
+                      clear story on guarantees, whether through annuities or non-par savings.
+
+
+                      That's broadly what is happening on the product mix front. No specific design on our part to
+                      try and reduce par in any way. We have fairly strong propositions on the participating side as
+                      well, and we could probably see some growth in that segment going forward as well.
+
+
+Moderator:            The next question is from the line of Rishi Jhunjhunwala from IIFL.
+
+
+Rishi Jhunjhunwala:   One question is, in your interactions with the regulator, while it has not been categorically said
+                      in the distribution paper, does it seem like they want the entire benefit of reduction in
+                      distribution costs to be passed on to the consumer? And if that were to be the case, how do you
+                      see that changes the dynamics, especially on the savings side, on the traditional plans like a
+                      non-par where one, the bond yields are higher and on top of that, if something like this has to
+                      be passed on, do you think that could make it a significantly attractive proposition versus other
+                      asset classes?
+
+
+Vibha Padalkar:       Rishi, no such conversations, and it's too early. The draft is a consultation paper, and things
+                      will evolve over a period of time. Even after GST, both the government and the regulator do
+                      understand there are market dynamics, products change, economic factors change, many
+                      things, mortality experience changes. So there are at least 5 or 6 things that go into the pricing
+                      of a product, so too early to say.
+
+
+Niraj Shah:           Secondly, just directionally, as products start becoming more attractive, which they should
+                      anyway with scale and getting to more customer segments through wider reach, I think as
+                      customer propositions, as products start becoming more attractive, that benefit will anyway get
+                      passed on to customers from that perspective.
+
+
+                      Interest rate environment is always very dynamic, so we do take that opportunity from time to
+                      time to pass on that benefit to customers and also utilize that to reinvest back into growth, as
+                      we've discussed. So that is a continuous journey in any case. And lastly, from an efficiency
+                      perspective, if companies start managing their costs better than what they have in the past, of
+                      course, some of that benefit will flow through to customers in any case.
+
+
+Vibha Padalkar:       Yes. And last point, we are in an intensely competitive dynamics, and so whether the regulator
+                      says something or not, we will have to also see how we are priced vis-a-vis others, like we do
+                      all the time. We are not a captive insurer. And so those anyway market forces are at play and
+                      we'll have to see all aspects such as that down the line.
+
+
+Rishi Jhunjhunwala:   Understood. The reason why I was asking was that when the GST exemption had happened, I
+                      think the government was quite clear in suggesting that almost entirely the benefit should pass
+                      on to the consumers. Here, at least in the paper, there isn't any explicit suggestion around that,
+                      so that's where I was coming from, whether in your conversations has anything of that been
+                      discussed?
+
+
+
+                                              Page 11 of 21
+
+                                                                       HDFC Life Insurance Company Limited
+                                                                                           October 15, 2026
+
+Niraj Shah:      No, the regulator and government have been very reasonable in their expectation when the
+                 GST change happened because it was very, very clear and visible to the customer that if you're
+                 paying INR118, now you will pay INR100. So, 15-odd percent reduction in cost, customer can
+                 actually see that whether it's being passed on or no.
+
+
+                 When you talk about categories like non-par or savings, because of the dynamic nature of the
+                 product in terms of pricing, it's difficult to assess at what point in time any of those benefits are
+                 in what form and shape they get passed on to the customer.
+
+
+                 That holds true for protection as well. The market dynamics will play out and we'll need to
+                 compete in any case. The passing on the benefit or quantifying that benefit in the first place for
+                 savings products becomes that much more difficult and indirect.
+
+
+                 So if you were to extend the same analogy in this environment, I would suspect a same
+                 situation would hold. Because different companies are at different cost structures and they will
+                 take their own call in terms of how they want to really operate in the marketplace. And
+                 ultimately, all of us will try and compete for the customer's wallet, and that is the ultimate
+                 truth. So, we will have to wait and see how that pans out on the ground.
+
+
+Moderator:       The next question is from the line of Sanketh Godha from Avendus Spark.
+
+
+Sanketh Godha:   The pressure what we see in ULIP persistency, is it predominantly seen in TULIPs or more
+                 normal ULIPs? Because in a market correction mode, because you typically cut more on
+                 mortality on TULIPs, so the returns looking little softer. Is the pain more seen there or you
+                 think its spread across all kind of ULIPs?
+
+
+Niraj Shah:      No. So, it's not limited to any segment. It is more uniform. A lot of it is something that we are
+                 reasonably confident of being able to recover with efforts. It is the overall market sentiment
+                 which is causing this dichotomy where we are seeing more new business coming into unit-
+                 linked, but at the same time customers who have already invested in the past are taking their
+                 time to come through with the renewal premiums.
+
+
+                 That's something that we should be able to address. It's not limited to any one product
+                 category. In fact, category that you mentioned is relatively more recent, so we aren't seeing any
+                 differentiated trends in any segment within unit-linked.
+
+
+Sanketh Godha:   The reason why I asked is that because the 13-month persistency saw the most correction and
+                 TULIP we started doing maybe 12-18 months back little aggressively. So just wondering
+                 whether there is any correlation there or not? But if it is not, it's fine.
+
+
+                 And the assumption change negative thing with respect to VNB is predominantly with respect
+                 to the par product, not anything to do with the ULIPs where you have seen persistency
+                 correction?
+
+
+
+
+                                          Page 12 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+Eshwari Murugan:   The assumption change that is seen in both the EV walk and the new business margin walk is
+                   the impact of the assumption change done at the end of the financial year. If you recall, as we
+                   have been explaining, we look at the experience once a year before the year end, and based on
+                   the experience trends the assumptions are revised.
+
+
+                   So whatever revision was done at the end of last year pertained to the lower persistency we
+                   were seeing in one of the non-par products, and that is what is seen as component in the walk,
+                   because you're comparing the NBM of last H1 with this H1. That's why it's coming as one of
+                   the movements.
+
+
+                   The persistency variance that you're seeing in the EV is a more recent phenomena, which we're
+                   seeing on the unit-linked product. So last year when we changed the assumptions, the unit-
+                   linked persistency’s was holding up based on the expectations. It's only the recent trend that's
+                   captured in the variance, which we hope to recover most of it by end of the year.
+
+
+Sanketh Godha:     And lastly, one question on credit life. Just wanted to understand the modus operandi, how it
+                   operates. In most of the credit life what we disburse, or we attach along with the
+                   disbursements, is the premium bundled in the loan itself and that's why it's part of the EMI, or
+                   the practice is of collecting separately from the borrowers? Because it's clearly called out in the
+                   regulation, just wanted to understand how it typically works for us.
+
+
+Vineet Arora:      There are mix of various models available and depending on the partner, bank or NBFC, they
+                   could have different ways of doing this. It is also bundled in certain products in certain cases.
+                   It is also two separate accounts which are set up at their end, two separate loan accounts also is
+                   a category. There are various models available, and people use different kind of models
+                   depending on their own dynamics.
+
+
+Sanketh Godha:     Can you quantify the mix, if you are comfortable doing it, how much is bundled and how
+                   much is a broader number?
+
+
+Vineet Arora:      No, I do not think that mix will be possible, because for us the money comes as the payment
+                   for credit life, and we would not be fully aware of whether what they are following. This is
+                   more of a situation of what we know on the ground, that different people follow different
+                   models.
+
+
+Sanketh Godha:     And lastly, on agency channel, we saw a pick up in 1Q, but somehow in 2Q the growth seems
+                   to be a little soft. Anything to read, or you expect that to improve back in subsequent quarters?
+
+
+Vineet Arora:      It's largely a base effect. From our side, all the fundamentals and everything else is moving
+                   similarly. We saw this stand out more in July, and then as the base corrected towards August,
+                   September, the growth was higher and in line with what we were expecting.
+
+
+Moderator:         Next question is from the line of Shobhit Sharma from Elara Securities.
+
+
+
+
+                                           Page 13 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+Shobhit Sharma:   I have two questions. First is on the product mix on the bancassurance channel. If you look at,
+                  the product mix has tilted materially towards the ULIP segment, and usually we see because of
+                  the seasonality, H2 we have a higher ULIP mix all across the years when we look at.
+
+
+                  You have mentioned that we will see continuous momentum on the bancassurance side, so
+                  should we have a further scope of ULIP mix going up at the bancassurance channel and both in
+                  the company side? And because the ULIP will go up, do you see further stress on our overall
+                  margins because of the higher APE growth, which we want to chase as of now?
+
+
+                  Secondly, on the annuity side, can you give us some color around the kind of offering it is? Is
+                  this a shorter pay annuity where we have seen attraction, or is this something else? Lastly, we
+                  do not know when the final notification on the distribution reforms will be rolled out.
+                  Regulator wants it to be implemented ASAP. In case if it has to be rolled out from 1st of Jan,
+                  how prepared are we for that?
+
+
+Niraj Shah:       On the product mix of bancassurance, unit-linked mix has been steadily going up for the last
+                  couple of years, and that's largely to do with the macro environment and the customer
+                  preference. We are seeing that at a very broader level, with flows for the equity segment in any
+                  case, and that's something that's cascading down to insurance as well.
+
+
+                  So bancassurance will lead that change for insurance companies, but at an overall level also we
+                  are seeing that unit-linked mix is kind of fairly steady across all channels. We are not really
+                  too concerned about that elevated mix. There was a point in time when we were obviously
+                  looking at that category differently, more from a balanced product mix perspective. But in the
+                  last couple of years, we have solved for a few things.
+
+
+                  Persistency today is a lot better, in spite of the short-term challenges that we just spoke about
+                  on unit-linked now compared to what it was three to five years back. Also, the amount of
+                  coverage that we are offering on unit-linked products, either in the base product as well as
+                  through riders, is a lot higher than what it used to be three years back.
+
+
+                  If the customer is looking for that product, we definitely do not want to have any artificial
+                  barriers in the way of that. We just want to ensure that the customer understands that it's a
+                  long-term product and they are best, their needs are best served if they continue paying
+                  premiums for a longer period of time.
+
+
+                  That's the only thing that we want to really be sure of. Otherwise, as such, the mix is in some
+                  sense dictated by how the macros are evolving. There could be calibration in that category
+                  over a period of time if the volatility continues and the preference for more guaranteed
+                  products could increase. We have seen that in the last few months, that could probably
+                  accelerate as we go forward depending on how the overall macros are panning out.
+
+
+
+
+                                          Page 14 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  As far as annuity is concerned, it is a more broad-based growth, of course enabled by the new
+                  product launch end of last year, variable annuities. Is there a limited pay product as well? Yes,
+                  there is.
+
+
+                  But the 17-odd percent of the new business premium that you see is spread across multiple
+                  sources of business, whether it's coming through the NPS customers buying annuities or it's
+                  coming through people who have bought pension plans in the past and are annuitizing that
+                  now, or using the discretionary income to buy immediate or deferred annuity products. But
+                  yes, off late, the shorter pay annuity products are definitely playing a part.
+
+
+Shobhit Sharma:   On the product mix, usually we have broadly maintained a very much balanced product mix.
+                  But last couple of years, you mentioned that the ULIP has been going up. Can we see some
+                  reversals going ahead in next couple of years?
+
+
+Niraj Shah:       Again, it really depends on the macros, like I said. We do not want to overengineer that too
+                  much. We just want to ensure that our business model is flexible enough to be able to absorb
+                  changes in product mix over time, and we have put a lot of effort into doing that. We like the
+                  balanced product mix approach because that ensures we are able to offer best-in-class products
+                  across all categories to customers at all points in time.
+
+
+                  That effort will continue. But from a product mix perspective, we will not try and overengineer
+                  too much. We will definitely prefer a certain balance, but I think from a last-mile perspective,
+                  it will get dictated by what customers are actually preferring on the ground.
+
+
+Shobhit Sharma:   And lastly, if in case the distribution paper comes in, whatever form it may be, if it is to be
+                  implemented from 1st of January, how prepared are we for that?
+
+
+Vineet Arora:     , There is not much preparation required, to be honest, for that. We can be ready for it at a
+                  short notice itself. There could be some product changes required, which will take time to
+                  really come out with new products, which will have different cost structure, , involved.
+
+
+                  Whether 1st January is a likely date or not, I think that's something that we can see. As of now,
+                  it seems like the next steps are that there would be a draft regulations feedback, and then there
+                  would be a final regulation, and then giving some time after that. Our personal view is that 1st
+                  January does not seem to be a likely date. The earliest possible date could be a 1st April.
+
+
+Vibha Padalkar:   Also, one point that we haven't discussed is that the consultation paper also talks about group
+                  companies and distribution in our branches. That's something that we would certainly look
+                  forward to doing.
+
+
+Moderator:        The next question is from the line of Dipanjan Ghosh from Goldman Sachs.
+
+
+Dipanjan Ghosh:   First, If you were to superimpose your current product mix on the expected product ceilings
+                  that has been given in the consultation paper, just ceteris paribus, how should one think of the
+                  margin profile in this hypothetical environment?
+
+
+                                          Page 15 of 21
+
+                                                                 HDFC Life Insurance Company Limited
+                                                                                     October 15, 2026
+
+              I understand that there could be multiple divergencies, product constructs, etcetera, but just
+              from ballpark understanding of how should one think of the reduction in commissions of the
+              price ceilings to the incremental VNB pool that gets created, which again the regulator might
+              want you guys to pass it to the customer. So, just some understanding of that pool that gets
+              created.
+
+
+              The second question, customer cohorts across annuity and non-par, just wanted to get some
+              quantification of pension and NPS-led annuitization in your incremental annuity flows
+              directionally, and how that would have changed, over the past one or two years.
+
+
+              And the third question on the variable annuity part. Do you think that this is, in a way, filling
+              the gap that was left in the high-ticket non-par after the taxation changes in March, or rather
+              April 2023? Do you see some of those customers kind of coming back into the ecosystem, or
+              preferring this product just because of some exposure to the broader markets with some
+              guarantees out there? Those were my three questions.
+
+
+Niraj Shah:   Dipanjan, on your hypothetical question, the only thing I can say based on what we've learned
+              is that once something changes, anything to be explained from an as-is perspective becomes
+              extremely difficult. But just the question that we had on EoM also, I'll respond on similar lines.
+              I think it is a discussion paper, a little early to kind of conjecture that. And also, it is a
+              marketplace on a continuous basis, with or without regulatory changes. With lower cost
+              structure, products become better, surely. And also, is there a possibility of margins going up?
+              That is also a possibility.
+
+
+              It'll be a combination of everything that kind of happens, but of course the most important
+              thing there is that scale does not get impacted, right? If there is a scale situation that emerges,
+              then that is something that also needs to be addressed. There are lots of these things in the mix.
+              That's the reason why we are not really delving too much into this. We'll wait for this process
+              to pan out and then do whatever needs to be done.
+
+
+              Like Vineet mentioned, as such, the adjustment is more in terms of the business model that
+              comes out of this. As a manufacturer, there is not much that we really need to do, to be ready
+              for it. Products also will be use and file by and large, as based on our experience of previous
+              regulatory changes, readiness is lesser of an issue. It's more about taking all feedback and then
+              figuring where this whole pie kind of comes through.
+
+
+              Theoretically, you can impute or you can basically attribute this incremental kitty in any
+              stakeholder, but it would be largely dictated by what happens in the marketplace. That's what
+              we would leave it at. On your question on annuities, yes, all these segments are playing a role.
+
+
+              Variable annuities are definitely catching a new customer segment: folks who are affluent,
+              folks who are slightly younger, and also who have a risk appetite which is different from
+              customers that we've seen historically taking guaranteed, immediate annuity products. It's
+              definitely opened up a new segment. Whether it's filling up a gap of high-ticket size, in a
+
+
+                                       Page 16 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  manner of speaking, maybe yes, but it's more in terms of a need that is being addressed based
+                  on this new category.
+
+
+Dipanjan Ghosh:   Just some quantification on that NPS or pension-led annuitization or retirement products
+                  versus how it would have been, let's say, two or three years back.
+
+
+Niraj Shah:       It's increasing. We'd not like to get into the quantification really, but the trend is that all these
+                  sources are now becoming more and more meaningful with every passing year as the NPS
+                  kitty starts building up at a country level, and as our subsidiary, we are the largest player in
+                  that segment on the private sector side, that definitely helps. Generally, the awareness levels
+                  are going up for folks to create their retirement kitty even from their discretionary savings.
+
+
+Moderator:        The next question is from the line of Mohit Mangal from Centrum Broking.
+
+
+Mohit Mangal:     First is basically the agency channel seeing a substantial growth in non-par savings. Just
+                  wanted to know what's driving this ship. Is it rolling out some extra incentives during the
+                  quarter or the first half, or the inherent attractiveness of the product, or a combination of both?
+                  That's question number one.
+
+
+                  Second is basically we have seen a very strong growth in the retail protection. Just wanted to
+                  know, out of those 6,20,000-odd policies sold in H1, how many of those were retail
+                  protection?
+
+
+Vineet Arora:     I'll take the first part of the question. I wouldn't say anything really significant which is kind of
+                  pushing too much of non-par coming in. But yes, there are credits, etcetera, which are in line
+                  with maybe the kind of margins available on products. So, the credits are in line with that and
+                  that's been there for long. It's not something which has just happened in this quarter.
+
+
+                  With the yield curves moving up and the product becoming more attractive for the customer,
+                  we feel that is the biggest reason why the mix has become much more in favor of non-par and
+                  annuities.
+
+
+Vibha Padalkar:   Just to add, these credits are uniform, so it's not like anything special happening for us. I've
+                  seen that retail protection has seen a strong growth, right, for us. Just wanted to know, in terms
+                  of policies, I mean we have seen 9% growth in overall policies.
+
+
+Niraj Shah:       If you look at average ticket size, which is in the public domain, our average ticket size in
+                  savings is about INR1 lakh, INR1,10,000. Protection is about INR40-odd thousand, INR45-
+                  odd thousand. Basically, if protection is 8% on APE, it'll probably be 2.5x that on policy
+                  count.
+
+
+Moderator:        The next question is from the line of Nischint from Kotak.
+
+
+
+
+                                          Page 17 of 21
+
+                                                                         HDFC Life Insurance Company Limited
+                                                                                             October 15, 2026
+
+Nischint:         Individual protection, we had seen fairly strong traction over the last couple of quarters. From
+                  this quarter onwards, do you sort of see that kind of moderating out, fizzling out, and has the
+                  base effect already started to kick in?
+
+
+Niraj Shah:       We wouldn't call it fizzling out by any stretch. Pre-GST also, this category was expanding by
+                  more than 20% for the last couple of years. GST has definitely been a catalyst to take it to the
+                  next level to more new customers, so we would expect some of that to continue as we go
+                  forward.
+
+
+                  The base effect will certainly kick in with a 50%, 70% growth in second half of the year. That
+                  is something that has to mathematically kick in at some point. On a two-year CAGR basis is
+                  something that we will continue to track this category, and we would expect the momentum to
+                  continue after normalization as well.
+
+
+Nischint:         Can you give some breakup in terms of contribution of agents in terms of the top 10% agents
+                  contributing to what proportion of business and so on? Any color or cut will help us.
+
+
+Vineet Arora:     The only color I can give is that it's fairly distributed. It's not like a normal Pareto. It's even
+                  less than that, so that's the only color I can give.
+
+
+Vibha Padalkar:   And just to break this down further, Nischint, we have two or three streams in agency. There's
+                  of course the ones that do considerable amounts of business. But the reason for us over the last,
+                  like I mentioned, 30-plus months, adding over 250 branches, none of those big-ticket
+                  contributors require all of that.
+
+
+                  From that you can draw inference, and in my opening comments, I also gave the percentage
+                  contribution of the branches that we have opened. There are these two parallel tracks within
+                  our agency channel in order to really make this a retail on-the-ground channel in apart from
+                  whatever is going well of the top agent, that will continue.
+
+
+                  we're looking at all aspects like productivity going up month-on-month, is attrition going
+                  down, are people trained, have they gone beyond just their immediate friends and family
+                  circle, and have they really established a fair bit of comfort on their own respective micro
+                  markets. We're looking at all aspects to help them come up the curve, and that's working well.
+                  And also, like Vineet said, that's the reason why it's not just lopsided in terms of the senior
+                  agents.
+
+
+Nischint:         And just one last point which you shared, what proportion of business comes from HDFC
+                  Bank?
+
+
+Niraj Shah:       About 47%-48% on the APE basis.
+
+
+Nischint:         For the second quarter?
+
+
+Niraj Shah:       Similar, about 48%-odd percent on APE basis.
+
+
+                                           Page 18 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+Vineet Arora:     And on NBP basis, less than 40%.
+
+
+Vibha Padalkar:   It's about in the 30s.
+
+
+Vineet Arora:     In 30s, late 30s.
+
+
+Moderator:        The next question is from the line of Vinod Rajamani from Nirmal Bang.
+
+
+Vinod Rajamani:   I have a few questions primarily related to variable annuities. Just on the variable annuity size,
+                  what is the, if you can give some sense of the APE split of the annuity APE, how much of it is
+                  traditional annuities and how much is variable? I understand that first half of last year it was
+                  barely, it wasn't there, so all of it would be just would be new, so that's one.
+
+
+                  The second is, in terms of the margin on variable annuities, how much of it is durable fee-like
+                  kind of margin, or is it some charge on guarantees that you retain, or is that some kind of first-
+                  mover launch pricing that normalizes as the book scales and as peers in your industry kind of
+                  replicate that? That is on the margin.
+
+
+                  And finally, on risk on variable annuities, how much of the investment and reinvestment risk
+                  actually is with you rather than the policyholder? How much are you retaining versus passing
+                  on to the policyholder? Are there any minimum guarantees or income floors that are embedded
+                  into the guarantee and so on? Just a few questions related to the size of the book, the margin
+                  profile, as well as the risk profile.
+
+
+Niraj Shah:       Yes, so the product construct is that there is a base guarantee, and on top of that, there is
+                  participation in equities for the policyholder. That's really the construct of the product. So, let's
+                  say if our immediate annuity product is giving a guarantee of, say, 6%, then this guarantee is
+                  set at 60% of that, and the rest of it flows through the upside based on the equity participation.
+                  So that's really the construct of the product, and that has, like I've mentioned on the call earlier,
+                  has attracted a new set of customers and is something that as a category will continue to build.
+
+
+                  It's a fairly meaningful part of our business now. And like you said, it was launched in Q4 of
+                  last year, so everything that you see in this period is obviously for the first time. It's a fairly
+                  meaningful part of the business. I'll not really get too much into the quantification of that, but a
+                  sizable chunk of the overall business is coming through this segment now.
+
+
+                  As far as the dynamics of pricing or profitability are concerned, you could treat it as in some
+                  sense a non-par product with a baseline guarantee works exactly like a non-par product. The
+                  equity participation is managed from a perspective where we are in a position to generate
+                  returns from a long-term perspective like we would do when we are managing equity on behalf
+                  of the customer in a par product to some extent.
+
+
+                  It's hybrid from that perspective, and the margin comes out of managing this money for the
+                  customer, and obviously the inherent guarantee is also there because this is a life annuity like
+                  any other product. There is that component also sitting there. So, the fees are flowing through
+
+
+                                           Page 19 of 21
+
+                                                                       HDFC Life Insurance Company Limited
+                                                                                           October 15, 2026
+
+                  different parts of what we are able to offer to the customer in terms of either managing the
+                  money, offering upside, giving a guarantee, and covering longevity risk.
+
+
+Vinod Rajamani:   And just in terms of margins versus, say, traditional annuities, what is the differential in terms
+                  of the margins on, say, these variable annuities?
+
+
+Niraj Shah:       We are not really getting into specifics of that. It's a profitable product, that's all I can say. And
+                  we are very happy with the response that we are getting from customers.
+
+
+Vinod Rajamani:   But it is more margin-accretive. Would you agree to that, or it's almost the same as compared
+                  to traditional annuities?
+
+
+Niraj Shah:       I said what I had to say. Sorry, I'm not able to elaborate on that.
+
+
+Moderator:        Ladies and gentlemen, that will be the last question for today, which is from the line of Samant
+                  Singh from Phillip Capital.
+
+
+Samant Singh:     Just to understand the credit product, what portion of the total group protection is credit
+                  product? And in terms of how much is from HDFC Bank versus NBFCs and MFIs? The third
+                  part to it is in a scenario of 2% single-premium cap, what volume impact do you envisage?
+                  You can choose to not answer that, that's okay. And I'll ask my second question after this. Yes.
+
+
+Niraj Shah:       Credit life is a fairly meaningful part, as we have discussed. Group term for us is a relatively
+                  smaller portion, that's all we'll say at this point in time. To your second question, it is too early,
+                  honestly, difficult to kind of answer that. It's a discussion paper. We have made our
+                  representations in terms of how critical this category is to make insurance more widely
+                  available to a part of the population which is less privileged. So we do hope that is taken into
+                  consideration and then we'll wait for the regulator to come back with the draft.
+
+
+Samant Singh:     Just any rough breakup in terms of HDFC Bank sourcing, from HDFC Bank and NBFCs, if at
+                  all possible?
+
+
+Niraj Shah:       It's a diversified book. HDFC Bank contributes to less than a third of our overall credit life
+                  business. Business is diversified across MFIs, other loans through NBFCs and banks, and the
+                  HDFC Group.
+
+
+Samant Singh:     Second is the capital, and then some confusion on the GST thing. So, capital, just that if I
+                  missed sort of the earlier comment, I might have missed, so what size and purpose is the NCD
+                  raise the board considered today, and where does this solvency of 180% if you consider prior
+                  to the risk-based capital roll-out, how we are positioned, considering this NCD raise? In terms
+                  of the capital thing, if you can sort of provide some color.
+
+
+Niraj Shah:       Yes. So, the board has approved raise of INR500 crores, and that would add about 4-odd
+                  percent to our solvency, which we are currently at about 180-odd percent. And of course like
+                  Eshwari mentioned on the call earlier, on an ongoing basis, the current framework basically
+
+
+                                           Page 20 of 21
+
+                                                                      HDFC Life Insurance Company Limited
+                                                                                          October 15, 2026
+
+                  utilizes a lot of the solvency to write long-term profitable business. That'll continue. This will
+                  continue to help us grow the business over a period of time.
+
+
+Samant Singh:     Sure. And just a GST demand, I had some confusion in terms of this Palghar penalty, whether
+                  it is INR942 crores or INR2,423 crores, because the corrigendum figure that was, you said in
+                  February 2025 was an error, but the September appeal sort of still quotes INR2,420 crores.
+
+
+                  So which figure is the correct one, and if you can sort of just provide what is the interest that
+                  has been accrued on it, or does losing this first appeal sort of changes your previous no
+                  provision stance in any ways? And then maybe I will just try my luck, what will be the full
+                  loss impact on the solvency, considering INR2,423 crores is the correct figure?
+
+
+Niraj Shah:       So, whatever you see in our accounts is the true figure, and basically, it's appearing as
+                  contingent liability in our books. It started with that INR942-odd crores, and since then
+                  whatever is kind of accumulating is all sitting in our balance sheet. That's something for you to
+                  basically look at. Interest is not a part of this. We have maintained that this will get litigated at
+                  different levels. We are fairly confident in terms of the merits of our case, and we will let this
+                  take its own course.
+
+
+Samant Singh:     Okay, so you confirm that INR942 is the correct figure, that?
+
+
+Niraj Shah:       Whatever you see in our balance sheet today will be the right number. And as you know, as an
+                  industry issue, this is something that will be dealt with on merit from a tax perspective.
+
+
+Samant Singh:     And just a quick part on it, the contingent liabilities also increased slightly to INR2,207 crores
+                  as of September versus INR1,870 crores as of March. So, the addition was mainly because of
+                  this or any color on that?
+
+
+Niraj Shah:       Whatever orders that keep coming through, which we follow the same process of assigning a
+                  certain probability and based on that deciding whether it's a contingent liability, that's the same
+                  process we followed and that's something that you will see in our notes as well.
+
+
+Moderator:        That was the last question for today, I now hand the conference over to Ms. Vibha Padalkar for
+                  closing comments.
+
+
+Vibha Padalkar:   Thank you all for joining us today. Should you have any follow-up questions, please feel free
+                  to reach out to our Investor Relations team.
+
+
+
+
+                                          Page 21 of 21
+

@@ -1,0 +1,653 @@
+                                                                         Date: May 07, 2026
+
+
+To,                                          To,
+Department of Corporate Services,            Listing Department,
+BSE Limited                                  National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                   Exchange plaza, Plot No. C/1, G Block
+Dalal Street                                 Bandra Kurla Complex, Bandra East,
+Mumbai - 400001                              Mumbai – 400051
+Scrip Code: 543333                           Scrip Symbol: CARTRADE
+ISIN: INE290S01011
+
+Dear Sir/Madam,
+
+Sub: Outcome of Board Meeting of CarTrade Tech Limited (the “Company”)
+
+Reference: Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI LODR Regulations”)
+
+
+Dear Sir/Madam(s),
+
+Pursuant to the provisions of Regulation 30 and 33 of the SEBI LODR Regulations, as amended
+from time to time, this is to inform you that the Board of Directors of the Company at its
+meeting held today i.e. on May 07, 2026 which commenced at 10.00 a.m. (IST) and
+concluded at 11.25 a.m. (IST), inter alia, has considered and approved the Audited
+Financial Results (Standalone and Consolidated) of the Company for the fourth quarter and
+financial year ended March 31, 2026 (“Financial Results”).
+
+Further, we would like to state that M/s S.R. Batliboi & Associates LLP, statutory auditors of
+the Company have issued audit reports with unmodified opinion on the Financial Results.
+
+The Financial Results along with a copy of the Audit Reports on the Financial Results, of the
+Company are enclosed herewith.
+
+The above information along with the relevant documents shall also be made available on the
+Company's website https://www.cartradetech.com/
+
+You are requested to kindly take the above information on your records.
+
+Yours faithfully
+For CarTrade Tech Limited
+LAL       Digitally signed by
+          LAL BAHADUR
+BAHADUR DEEPNARAYAN
+DEEPNARAY PAL
+          Date: 2026.05.07
+AN PAL    11:29:52 +05'30'
+
+_____________________________________
+Lalbahadur Pal
+Company Secretary and Compliance officer
+Mem. No. A40812
+
+Enclosed: a/a
+
+
+
+
+Gada Ritesh Gada  Ritesh Kantilal
+            cn=Gada Ritesh Kantilal,
+
+  Kantilal 2026.05.07 11:21:48 +05'30'
+            c=IN, o=Personal
+
+                                                                        CarTrade Tech Limited
+                                                       Corporate Identity Number: L74900MH2000PLC126237
+                                 Statement of Audited Consolidated Financial Results For The Quarter and Year Ended March 31, 2026
+                                Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                                  website: www.cartradetech.com, Email: investor@cartrade.com
+                                                                                                                                                       (Rs. In Lakhs )
+                                                                                      Quarter ended                                       Year ended
+                                                               March 31, 2026      December 31, 2025        March 31, 2025     March 31, 2026     March 31, 2025
+Particulars
+                                                                   Audited            Unaudited                Audited           Audited            Audited
+                                                                (Refer note 4)                              (Refer note 4)
+Income
+ Revenue from operations (Refer note 3)                               20,314.31               20,967.18           16,951.38          77,926.72            64,145.73
+ Other income (Refer note 5)                                           1,760.87                1,870.10            1,994.75           9,050.22             6,987.97
+Total income                                                          22,075.18               22,837.28           18,946.13          86,976.94            71,133.70
+
+Expenses
+ Employees benefit expense                                             7,812.96                7,618.37            7,075.78          30,708.62            28,436.02
+ Finance cost                                                            334.32                  307.59              313.61           1,247.86             1,152.67
+ Depreciation and amortization expense                                 1,091.52                  937.50              964.33           3,868.54             4,086.02
+ Other expenses                                                        5,336.49                5,523.82            5,259.07          21,518.30            20,622.81
+Total expenses                                                        14,575.29               14,387.28           13,612.79          57,343.32            54,297.52
+
+Profit before exceptional item and tax                                 7,499.89                8,450.00            5,333.34          29,633.62            16,836.18
+Exceptional Item (Refer note 7)                                             -                    650.71                 -               650.71                  -
+Profit before tax                                                      7,499.89                7,799.29            5,333.34          28,982.91            16,836.18
+Tax expenses
+ Current tax                                                             661.65                  800.23              333.65           2,611.91               982.85
+ Adjustment of tax relating to earlier years                            (758.15)                    -                   -              (758.15)                 -
+ Deferred tax expenses                                                   511.81                  846.76              388.99           2,778.36             1,326.76
+Total Tax expenses                                                       415.31                1,646.99              722.64           4,632.12             2,309.61
+
+Profit for the quarter / year                                          7,084.58                6,152.30            4,610.70          24,350.79            14,526.57
+
+Other Comprehensive Income / (loss)
+Items that will not be reclassified to profit or loss
+  Remeasurement of the defined benefit plan                              127.82                  (72.95)             (66.60)           (132.28)              (448.10)
+  Income tax related to the above                                        (32.23)                  18.36                7.10              33.23                 99.29
+Total Other comprehensive income / (loss)                                 95.59                  (54.59)             (59.50)            (99.05)              (348.81)
+
+Total comprehensive income for the quarter / year                      7,180.17                6,097.71            4,551.20          24,251.74            14,177.76
+
+Profit for the quarter / year attributable to
+Equity holders of the parent                                           6,460.67                5,585.70            4,182.08          22,299.95            13,465.08
+Non-controlling interest                                                 623.91                  566.60              428.62           2,050.84             1,061.49
+
+Total Other comprehensive income / (loss) for the quarter /
+year attributable to
+Equity holders of the parent                                              82.76                  (32.34)             (49.58)            (35.55)              (233.83)
+Non-controlling interest                                                  12.83                  (22.25)              (9.92)            (63.50)              (114.98)
+
+Total comprehensive income for the quarter / year
+attributable to
+Equity holders of the parent                                           6,543.43                5,553.36            4,132.50          22,264.40            13,231.25
+Non-controlling interest                                                 636.74                  544.35              418.70           1,987.34               946.51
+
+                                                                       4,787.81                4,784.30            4,743.79           4,787.81             4,743.79
+Other equity (excluding revaluation reserves)                                                                                      2,43,550.78          2,17,318.35
+Earnings Per Equity Share (face value of Rs. 10/- each)
+(Quarters not annualised)
+Basic (in Rs.)                                                            13.50                   11.70                8.82              46.80                 28.48
+Diluted (in Rs.)                                                          12.87                   11.14                8.18              44.60                 26.42
+
+                                                              See accompanying notes to financial results
+
+                                                       CarTrade Tech Limited
+                                      Corporate Identity Number: L74900MH2000PLC126237
+                              Statement of Audited Consolidated Balance Sheet as at March 31, 2026
+               Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                 website: www.cartradetech.com, Email: investor@cartrade.com
+                                                                                                                        (Rs. In Lakhs )
+                                                                                                      As at             As at
+Particulars                                                                                       March 31, 2026    March 31, 2025
+                                                                                                    (Audited)         (Audited)
+ASSETS
+  Non-current assets
+   Property, Plant and Equipment                                                                         7,457.30            5,570.52
+   Capital work in progress                                                                                124.71                 -
+   Goodwill                                                                                           1,32,422.72         1,32,422.72
+   Other Intangible Assets                                                                                  30.38               45.40
+   Right of Use Assets                                                                                  12,263.91           11,684.10
+   Financial Assets
+        Investments                                                                                        674.50             725.89
+        Other financial assets                                                                          19,932.90          17,047.98
+   Deferred Tax assets (net)                                                                             3,152.31           4,122.61
+   Income Tax assets (net)                                                                                 990.22           1,151.09
+   Other non- current assets                                                                               373.57           3,897.16
+   Total Non - Current Assets                                                                         1,77,422.52        1,76,667.47
+  Current assets
+   Contract Assets                                                                                       6,402.93           4,039.40
+   Financial Assets
+         Investments                                                                                    90,325.23          60,689.52
+        Trade receivables                                                                                9,299.04           8,676.73
+        Cash and cash equivalents                                                                        3,140.12           2,876.29
+         Bank balance (other than above)                                                                   980.68           4,784.00
+        Other financial assets                                                                          10,622.45          11,502.49
+   Other current assets                                                                                  2,726.62           1,287.98
+  Total Current Assets                                                                                1,23,497.07          93,856.41
+  Total Assets                                                                                        3,00,919.59         2,70,523.88
+EQUITY AND LIABILITIES
+  Equity
+   Equity Share capital                                                                                  4,787.81           4,743.79
+   Other Equity                                                                                       2,43,550.78        2,17,318.35
+  Equity attributable to owners of the Company                                                        2,48,338.59        2,22,062.14
+  Non Controlling Interests                                                                             13,504.74          10,587.95
+  Total Equity                                                                                        2,61,843.33        2,32,650.09
+Liabilities
+  Non-current liabilities
+  Financial Liabilities
+            Lease liabilities                                                                           10,943.82          10,716.43
+  Employee benefit obligations                                                                           2,306.40           1,743.36
+  Other non-current liabilities                                                                             70.14              70.14
+  Total Non - Current Liabilities                                                                       13,320.36          12,529.93
+  Current liabilities
+  Contract liabilites                                                                                    4,644.44           4,246.06
+  Financial Liabilities
+          Lease liabilities                                                                              3,099.12           2,421.30
+          Trade payables
+                 - Total outstanding dues of micro enterprises and small enterprises                       613.03             570.08
+                 - total outstanding dues of creditors other than micro enterprises and small            2,619.96           2,595.57
+                 enterprises
+        Other financial liabilities                                                                     11,256.00          11,685.40
+  Other current liabilities                                                                              1,766.56           1,637.75
+  Current tax liability (net)                                                                               72.01             844.07
+  Employee benefit obligations                                                                           1,684.78           1,343.63
+  Total Current Liabilities                                                                             25,755.90          25,343.86
+  Total Liabilities                                                                                     39,076.26          37,873.79
+  Total Equity and Liabilities                                                                        3,00,919.59         2,70,523.88
+                                                    See accompanying notes to financial results
+
+                                                                   CarTrade Tech Limited
+                                                  Corporate Identity Number: L74900MH2000PLC126237
+                                      Audited Consolidated Cash Flow Statement For The Year Ended March 31, 2026
+                           Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                             website: www.cartradetech.com, Email: investor@cartrade.com
+
+                                                                                                                                                  (Rs. In Lakhs )
+                                                                                                             For the year ended        For the year ended
+Particulars                                                                                                   March 31, 2026            March 31, 2025
+                                                                                                                  (Audited)                 (Audited)
+
+A. CASH FLOW FROM OPERATING ACTIVITIES:
+
+Profit before tax                                                                                                        28,982.91                   16,836.18
+
+Adjustments to reconcile profit / (loss) before net cash flow
+Depreciation and amortisation                                                                                             3,868.54                    4,086.02
+Share-based payment expense                                                                                               1,551.74                    2,062.25
+Interest income on financial asset carried at amortised cost                                                             (2,801.75)                  (2,343.83)
+(Profit)/ Loss on sale of Property, Plant and Equipment (Net)                                                                 (2.82)                      16.60
+Profit on sale of assets held for sale                                                                                            -                       (8.11)
+Impairment allowance on financial assets & non-financial assets                                                             153.25                      237.20
+Bad debts written off                                                                                                         11.74                       76.59
+Liabilities no longer required written back                                                                              (1,556.99)                      (82.99)
+Interest expense                                                                                                          1,247.86                    1,152.67
+Gain on termination of lease                                                                                               (156.09)                    (151.88)
+Net gain on investment carried at fair value through Profit and Loss                                                     (4,314.10)                  (3,955.23)
+                                                                                                                         (1,998.62)                   1,089.29
+Operating Profit before Working Capital Changes                                                                          26,984.29                   17,925.47
+Working capital adjustments:
+Increase in trade receivables                                                                                              (742.76)                  (1,597.22)
+Decrease in other assets                                                                                                  2,118.26                    1,553.13
+Increase in financial assets                                                                                               (330.25)                      (23.55)
+Increase in Contract Assets                                                                                              (2,401.19)                    (248.55)
+Increase / (Decrease) in trade payables                                                                                     152.97                     (233.76)
+Increase in other liabilities                                                                                               128.81                      109.96
+Increase in Contract Liabilities                                                                                            398.38                      332.79
+Increase / (Decrease) in other financial liabilities                                                                      1,031.40                     (915.17)
+Increase in employee benefit obligations                                                                                    771.91                      314.29
+                                                                                                                          1,127.53                     (708.08)
+Cash generated from operations                                                                                           28,111.82                   17,217.39
+Income tax paid (net) (net of refund)                                                                                    (2,412.91)                    (115.09)
+Net Cash generated from Operating Activities                                                                             25,698.91                   17,102.30
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of Property, Plant and Equipment                                                                                 (2,661.22)                   (538.93)
+Proceeds from sale of Property, Plant and Equipment                                                                           25.22                       8.39
+Proceeds from sale of Assets held for sale                                                                                        -                     109.14
+Purchase of current investments                                                                                          (31,855.09)                (13,166.00)
+Proceeds from Sale of current investments                                                                                  6,584.43                   6,701.20
+Fixed deposits matured                                                                                                    28,581.20                  11,676.69
+Fixed deposits placed                                                                                                    (25,441.06)                (20,965.62)
+Interest income                                                                                                            1,667.92                   2,416.76
+Net Cash used in Investing Activities                                                                                    (23,098.60)                (13,758.37)
+
+C. CASH FLOW FROM FINANCING ACTIVITIES
+Proceeds from exercise of employee stock options                                                                           1,614.86                     721.86
+Repayment of lease liabilities (Principal)                                                                                (2,706.77)                 (2,256.22)
+Repayment of lease liabilities (interest)                                                                                 (1,244.57)                 (1,147.29)
+Net Cash used in Financing Activities                                                                                     (2,336.48)                 (2,681.65)
+
+Net increase in cash and cash equivalents                                                                                   263.83                      662.28
+Cash and cash equivalents at beginning of the year                                                                         2,876.29                    2,214.01
+Cash and cash equivalents at end of the year                                                                               3,140.12                    2,876.29
+Represented by
+- Cash in hand                                                                                                               121.70                      222.54
+- Cash in transit                                                                                                             62.93                       49.70
+- Balance held in wallets                                                                                                    114.59                      135.21
+-Balance in current account                                                                                                2,592.63                    1,562.09
+-Balance in deposit account maturity less than 3 months                                                                      248.27                      906.75
+                                                                                                                           3,140.12                    2,876.29
+                                                               See accompanying notes to financial results
+
+                                                                                 CarTrade Tech Limited
+                                                                Corporate Identity Number: L74900MH2000PLC126237
+                                         Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                                           website: www.cartradetech.com, Email: investor@cartrade.com
+
+Notes to the Audited Consolidated Financial Results
+
+ 1 The statement of audited consolidated financial results for the quarter and year ended March 31, 2026 has been reviewed by the Audit Committee and approved by the Board of
+   Directors at their respective meetings held on May 7, 2026. The Statutory Auditors have conducted an audit of these results pursuant to the requirements of Regulation 33 of the
+   Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+
+
+ 2 The audited consolidated financial results of the Group have been prepared in accordance with the Indian Accounting Standards notified under Section 133 of the Companies Act,
+
+
+
+
+ 3 Revenue from operations for the year ended March 31, 2025 includes Rs 34.09 lakhs pertaining to a discontinued business of a subsidiary and is not material to these financial
+   results.
+
+ 4 The figures of the quarter ended March 31, 2026 and March 31, 2025 are the balancing figures between audited figures in respect of full financial year and published figures of
+   nine months ended December 31, 2025 and December 31,2024 respectively which were subject to limited review by the statutory auditors.
+
+
+ 5 Details of other income are summarised below:
+                                                                                                                                                          (Rs. In Lakhs )
+                                                                                   Quarter ended                                           Year ended
+    Particulars
+                                                              March 31, 2026      December 31, 2025    March 31, 2025        March 31, 2026             March 31, 2025
+
+                                                                  Audited            Unaudited             Audited
+                                                                                                                                 Audited                   Audited
+                                                               (Refer note 4)                           (Refer note 4)
+    Interest income on bank deposits                                565.68               641.10           628.20                      2,609.81            2,142.99
+    Interest income on others                                        82.68                35.15           100.48                        191.94              204.17
+    Gain on fair valuation / sale of financial assets               986.44            1,129.95          1,055.44                      4,314.10            3,958.69
+    Liabilities no longer required written back                     103.18                 1.73            35.98                      1,556.99                82.99
+    Miscellaneous income                                             22.89                35.19            91.57                        217.82              384.08
+    Others                                                               -                26.98            83.08                        159.56              215.05
+    Total                                                         1,760.87            1,870.10          1,994.75                      9,050.22            6,987.97
+                                                                         -                    -                -                                                 -
+ 6 Consolidated Segmentwise revenue and results for the quarter and year ended March 31, 2026 and segment wise assets and liabilities as at March 31, 2026:
+                                                                                                                                                     (Rs. In Lakhs )
+                                                                                   Quarter ended                                           Year ended
+    Particulars
+                                                              March 31, 2026      December 31, 2025    March 31, 2025        March 31, 2026             March 31, 2025
+                                                                 Audited                                  Audited
+                                                                                                                                Audited                    Audited
+                                                              (Refer note 4)                           (Refer note 4)
+
+    Segment Revenue
+    Consumer                                                         7,938.95              8,631.47           6,364.19                30,833.33              23,771.86
+    Remarketing                                                      7,166.39              6,563.10           5,869.10                25,931.49              21,238.07
+    Classifieds                                                      5,512.35              5,877.25           4,771.01                21,755.68              19,213.06
+    Total Segment Revenue                                           20,617.69             21,071.82          17,004.30                78,520.50              64,222.99
+    Less: Intersegment eliminations                                   (303.38)              (104.64)            (52.92)                 (593.78)                (77.26)
+    Revenue from operation                                          20,314.31             20,967.18          16,951.38                77,926.72              64,145.73
+                                                                            -                     -                  -                        -                      -
+    Segment Payroll
+    Consumer                                                          2,952.61             2,947.05           2,801.82                11,753.75              10,846.69
+    Remarketing                                                       2,836.46             2,524.20           2,432.07                10,548.93               8,984.72
+    Classifieds                                                       1,580.79             1,675.03           1,290.80                 6,675.01               6,389.16
+    Less: Intersegment eliminations                                      45.26                44.56              38.31                   179.19                 153.20
+                                                                      7,415.12             7,190.84           6,563.00                29,156.88              26,373.77
+                                                                         (0.00)                   -              (0.00)                   (0.00)                     -
+    Segment Other Expenses
+    Consumer                                                          1,672.49             1,849.99           1,476.68                 6,657.52               5,785.72
+    Remarketing                                                       2,119.00             2,081.44           2,013.58                 8,190.03               7,653.30
+    Classifieds                                                       1,902.22             1,741.16           1,880.37                 7,451.94               7,538.22
+    Less: Intersegment eliminations                                    (357.22)             (148.77)           (111.56)                 (781.19)               (354.43)
+                                                                      5,336.49             5,523.82           5,259.07                21,518.30              20,622.81
+                                                                             -                    -                  -                        -                      -
+    Segment Results
+    Consumer                                                          3,313.84             3,834.43           2,087.42                12,422.05               7,139.46
+    Remarketing                                                       2,210.93             1,957.46           1,423.48                 7,192.53               4,600.05
+    Classifieds                                                       2,029.31             2,461.06           1,599.83                 7,628.69               5,285.68
+    Less: Intersegment eliminations                                       8.62                (0.43)             18.58                     8.27                 123.96
+    Total Segment results                                             7,562.70             8,252.52           5,129.31                27,251.54              17,149.15
+
+    Add: Other income                                                 1,760.87             1,870.10           1,994.75                 9,050.22               6,987.97
+    Less: Finance Cost                                                 (334.32)             (307.59)           (313.61)               (1,247.86)             (1,152.67)
+    Less: Depreciation and Amortisation expenses                     (1,091.52)             (937.50)           (964.33)               (3,868.54)             (4,086.02)
+    Less: Share based expenses                                         (397.84)             (427.53)           (512.78)               (1,551.74)             (2,062.25)
+    Profit before Exceptional item and tax                            7,499.89             8,450.00           5,333.34                29,633.62              16,836.18
+    Less : Exceptional item (Refer note 7)                                   -              (650.71)                 -                  (650.71)                     -
+    Profit before Tax                                                 7,499.89             7,799.29           5,333.34                28,982.91              16,836.18
+    Less: Tax expenses                                                 (415.31)           (1,646.99)           (722.64)               (4,632.12)             (2,309.61)
+    Profit after Tax                                                  7,084.58             6,152.30           4,610.70                24,350.79              14,526.57
+
+                                                                            CarTrade Tech Limited
+                                                           Corporate Identity Number: L74900MH2000PLC126237
+                                    Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                                      website: www.cartradetech.com, Email: investor@cartrade.com
+                                                                      0.00                (0.00)               0.00                    0.00                  0.00
+                                                                                                                                                                      (Rs. In Lakhs)
+                                                                                                                                                 As at
+   Particulars
+                                                                                                                           March 31, 2026       December 31, 2025 March 31, 2025
+                                                                                                                              Audited               Unaudited        Audited
+   Segment Assets
+   Consumer                                                                                                                         97,411.74           96,849.88       93,055.09
+   Remarketing                                                                                                                      32,056.96           32,146.14       33,164.27
+   Classifieds                                                                                                                      47,013.49           48,001.66       48,890.35
+   Unallocated assets                                                                                                             1,24,437.40         1,14,499.52       95,414.17
+   Total Assets                                                                                                                   3,00,919.59         2,91,497.20     2,70,523.88
+   Segment liabilities
+   Consumer                                                                                                                          6,495.29             6,889.77       5,249.97
+   Remarketing                                                                                                                      38,820.74            37,257.21      33,820.86
+   Classifieds                                                                                                                       6,888.70             7,194.36       7,351.41
+   Unallocated Liabilities                                                                                                             376.27               390.29       2,039.50
+   Total Liabilities                                                                                                                52,581.00            51,731.63      48,461.74
+
+7 The Government has notified and brought into force the Labour Codes on November 21, 2025, which consolidate and replace numerous existing labour legislations. The Group has
+  assessed the impact of changes consistent with the Labour Codes, draft rules, FAQ and external        opinion. Incremental impact on provision for gratuity of Rs. 594.03 lakhs
+  and provision for compensated absences of Rs. 56.68 has been disclosed as exceptional item in the financial results. The Group continues to monitor the finalisation of
+  Central/State Rules and other clarifications from Government on Labour code and would provide appropriate accounting effect on the basis of such development as needed.
+
+
+
+
+                                                                                                                     For and on behalf of the board of directors of
+                                                                                                                     CarTrade Tech Limited
+
+
+
+
+                                                                                                                     Vinay Vinod Sanghi
+   Place: Mumbai                                                                                                     Chairman and Managing director
+   Date : May 07, 2026                                                                                               DIN: 00309085
+
+
+
+Gada Ritesh Gada  Ritesh Kantilal
+            cn=Gada Ritesh Kantilal,
+
+  Kantilal 2026.05.07 11:20:21 +05'30'
+            c=IN, o=Personal
+
+                                                                                     CarTrade Tech Limited
+                                                                    Corporate Identity Number: L74900MH2000PLC126237
+                                               Statement of Audited Standalone Financial Results for the Quarter and Year ended March 31, 2026
+                                             Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                                               website: www.cartradetech.com, Email: investor@cartrade.com
+                                                                                                                                                                             (Rs. In Lakhs)
+                                                                                                  Quarter ended                                                Year ended
+
+                                                                           March 31, 2026        December 31, 2025      March 31, 2025        March 31, 2026            March 31, 2025
+                               Particulars
+                                                                              Audited               Unaudited              Audited                  Audited                 Audited
+                                                                           (Refer note 3)                               (Refer note 3)
+
+Income
+   Revenue from operations                                                          7,938.95               8,631.47             6,364.19                30,833.33              23,771.86
+   Other income (Refer note 4)                                                        901.99                 944.12             1,183.09                 4,014.04               4,084.11
+Total Income                                                                        8,840.94               9,575.59             7,547.28                34,847.37              27,855.97
+
+Expenses
+  Employee benefits expense                                                         3,147.76               3,111.23             3,073.60                12,376.01               11,956.23
+  Finance costs                                                                        34.06                  14.96                18.47                    86.34                   72.65
+  Depreciation and amortisation expense                                               373.70                 232.05               227.48                 1,086.44                  949.53
+  Other expenses                                                                    1,672.49               1,849.99             1,476.68                 6,657.52                5,785.72
+
+Total Expenses                                                                      5,228.01               5,208.23             4,796.23                20,206.31              18,764.13
+
+Profit before Exceptional items and tax for the period /year                        3,612.93               4,367.36             2,751.05                14,641.06                9,091.84
+
+Exceptional Items (Refer note 5)                                                            -                650.71                  -                        650.71                     -
+Profit before tax for the period / year                                             3,612.93               3,716.65             2,751.05                13,990.35                9,091.84
+
+Tax expense
+  Current Tax                                                                            -                      -                    -                        -                       -
+  Adjustment of tax relating to earlier years                                        (758.15)                   -                    -                    (758.15)                    -
+  Deferred Tax                                                                        853.44                 856.07               606.97                 3,201.95                1,646.10
+Total Tax Expense                                                                      95.29                 856.07               606.97                 2,443.80                1,646.10
+
+Profit for the period / year                                                        3,517.64               2,860.58             2,144.08                11,546.55                7,445.74
+
+Other Comprehensive Income / (Loss)
+   Items that will not be reclassified to profit or loss
+     Remeasurements of the defined benefit plans                                         5.58                  3.29                  1.46                      (8.89)                 (49.78)
+     Income Tax related to the above                                                    (1.40)                (0.83)                (0.37)                      2.24                   12.53
+Total Other Comprehensive income /(loss) for the period / year                           4.18                  2.46                  1.09                      (6.65)                 (37.25)
+
+Total comprehensive Income for the period / year                                    3,521.82               2,863.04             2,145.17                11,539.90                7,408.49
+
+
+Paid up Equity Share Capital (Face Value of Rs.10/- per share)                      4,787.81               4,784.30             4,743.79                 4,787.81                4,743.79
+Other Equity (excluding revaluation reserve)                                                                                                          2,25,828.62             2,10,320.72
+Earnings per equity share (face value of Rs. 10/- each) (not
+annualised for the period )
+  Basic (In Rs.)                                                                        7.35                    5.99                4.52                       24.23                  15.75
+  Diluted (In Rs.)                                                                      7.00                    5.71                4.19                       23.08                  14.61
+
+                                                                         See accompanying notes to financial results
+
+                                              CarTrade Tech Limited
+                             Corporate Identity Number: L74900MH2000PLC126237
+                            Audited Standalone Balance Sheet as at March 31, 2026
+      Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                        website: www.cartradetech.com, Email: investor@cartrade.com
+                                                                                        0.00          (Rs. In Lakhs)
+                                                                                  As at                    As at
+                                                                              March 31, 2026           March 31, 2025
+                                Particulars
+                                                                                 (Audited)               (Audited)
+
+ASSETS
+Non-current assets
+      Property, plant and equipment                                                       2,545.05                827.77
+      Capital work in progress                                                              124.71                     -
+      Goodwill                                                                           78,409.27             78,409.27
+      Other Intangible Assets                                                                 6.67                 12.88
+      Right of use assets                                                                 1,488.19                788.22
+      Financial Assets
+          Investment                                                                      68,231.30            68,231.30
+          Other financial assets                                                             288.68               239.17
+      Deferred Tax assets (net)                                                            1,704.26             3,129.07
+      Income Tax assets (net)                                                                719.35               873.26
+      Other Non- current Assets                                                              175.92               143.43
+Total Non - Current Assets                                                              1,53,693.40          1,52,654.37
+
+Current assets
+      Contract assets                                                                      3,995.10             1,880.50
+      Financial Assets
+           Investments                                                                   69,936.35             58,232.49
+           Trade receivables                                                              7,564.89              6,391.33
+           Cash and cash equivalents                                                      1,498.64                840.13
+          Other
+           Otherfinancial
+                 financialassets
+                           assets                                                           198.78                 17.35
+     Other Current assets                                                                   488.28                369.04
+   Total Current Assets                                                                  83,682.04             67,730.84
+
+   Total Assets                                                                         2,37,375.44          2,20,385.21
+
+EQUITY AND LIABILITIES
+
+Equity
+   Equity Share capital                                                                    4,787.81             4,743.79
+   Other Equity                                                                         2,25,828.62          2,10,320.72
+Total Equity                                                                            2,30,616.43          2,15,064.51
+Liabilities
+Non-current liabilities
+     Financial liabilities
+            Lease liabilities                                                                996.13               255.19
+     Employee benefit obligations                                                          1,494.46               832.18
+    Other liabilities                                                                         70.14                70.14
+Total non - Current Liabilities                                                           2,560.73              1,157.51
+
+Current liabilities
+ Contract liabilities                                                                        691.31                  866.86
+ Financial Liabilities
+            Lease liabilities                                                                600.09               563.31
+            Trade payables
+            - total outstanding dues of micro enterprises and small                           59.02                      -
+            enterprises
+            - total outstanding dues of creditors other than micro                         1,038.29               862.23
+            enterprises and small enterprises
+            Other financial liabilities                                                      324.53               324.70
+   Employee benefit obligations                                                              415.37               190.24
+   Other liabilities                                                                       1,069.67               563.01
+   Income Tax liabilities (net)                                                                   -               792.84
+Total Current Liabilities                                                                 4,198.28              4,163.19
+
+Total Liabilities                                                                         6,759.01              5,320.70
+
+Total Equity and Liabilities                                                            2,37,375.44          2,20,385.21
+                                                                                              (0.00)
+                                          See accompanying notes to financial results
+
+                                                                           CarTrade Tech Limited
+                                                         Corporate Identity Number: L74900MH2000PLC126237
+                                               Audited Standalone Cash Flow Statement for the Year ended March 31, 2026
+                                   Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705
+                                                     website: www.cartradetech.com, Email: investor@cartrade.com
+
+                                                                                                                                                  (Rs. In Lakhs)
+                                                   Particulars                                                  Year ended                 Year ended
+                                                                                                               March 31, 2026             March 31, 2025
+                                                                                                                 (Audited)                  (Audited)
+A. CASH FLOW FROM OPERATING ACTIVITIES:
+
+
+Profit before tax for the year                                                                                             13,990.35                   9,091.84
+Adjustments to reconcile profit before tax to cash flows
+Depreciation and amortisation                                                                                               1,086.44                     949.53
+Share-based payment expense                                                                                                   622.28                   1,109.54
+Interest Income on Income tax refund                                                                                          (42.52)                    (66.75)
+Profit on sale of Property, Plant and Equipment (Net)                                                                          (0.51)                    (12.94)
+Impairment allowance on financial and non financial assets                                                                    211.19                     156.77
+Bad debts written off                                                                                                                -                     5.09
+Liabilities no longer required written back                                                                                     (88.93)                 (132.98)
+Interest income on security deposit and bank deposit                                                                            (24.67)                  (17.18)
+Interest expense on lease liabilities                                                                                            86.34                    72.65
+Net gain on investment carried at fair value through Profit and Loss                                                       (3,811.29)                  (3,825.62)
+Net Gain on sale of mutual funds                                                                                               (43.01)                         -
+                                                                                                                           (2,004.68)                 (1,761.89)
+Operating Profit before Working Capital Changes                                                                            11,985.67                    7,329.95
+Working Capital adjustments:
+(Increase) in trade receivables                                                                                            (1,347.09)                  (1,507.71)
+(Increase) In Other Assets And Other Financial Assets                                                                        (371.84)                    (247.91)
+(Increase) In Contract Assets                                                                                              (2,152.26)                   (218.21)
+(Decrease) / Increase In Contract liabilities                                                                                (175.55)                    127.15
+Increase In Trade Payables                                                                                                    324.01                     227.22
+Increase in other liabilities and other financial liabilities                                                                 503.47                       20.88
+Increase in Employee benefit obligations                                                                                      878.52                       73.33
+                                                                                                                           (2,340.74)                 (1,525.25)
+Cash generated from operations                                                                                              9,644.93                   5,804.70
+Income tax refund                                                                                                             162.17                      850.86
+Net Cash generated from Operating Activities                                                                                9,807.10                   6,655.56
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of Property, Plant and Equipment                                                                                  (2,239.27)                    (386.97)
+Proceeds from sale of Property, Plant and Equipment                                                                             0.51                       42.24
+Purchase of current investments                                                                                            (8,850.00)                  (6,440.00)
+Proceeds from sale of current investments                                                                                   1,000.00                           -
+Net Cash used in Investing Activities                                                                                     (10,088.76)                 (6,784.73)
+
+C. CASH FLOW FROM FINANCING ACTIVITIES
+Proceeds from exercise of options                                                                                           1,614.86                     721.86
+Repayment of lease liabilities                                                                                               (588.35)                   (530.12)
+Interest portion of lease liabilities                                                                                          (86.34)                   (72.65)
+Net Cash generated from Financing Activities                                                                                  940.17                     119.09
+Net Increase / (decrease) in cash and cash equivalents                                                                        658.51                     (10.08)
+Cash and cash equivalents at beginning of the year                                                                            840.13                     850.21
+Cash and cash equivalents at end of the period                                                                              1,498.64                     840.13
+Represented by
+(a) Cash in hand                                                                                                                  1.45                     2.27
+(b) Bank balances
+     - In Current account                                                                                                   1,497.19                     837.86
+Total                                                                                                                       1,498.64                     840.13
+                                                                 See accompanying notes to financial results
+
+                                                                       CarTrade Tech Limited
+                                                      Corporate Identity Number: L74900MH2000PLC126237
+                               Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+                                                 website: www.cartradetech.com, Email: investor@cartrade.com
+
+
+
+    1      The statement of audited Standalone Financial Results for the quarter and year ended March 31, 2026, as reviewed by the Audit Committee, were approved and taken on
+           record by the Board of Directors at their respective meetings held on May 07, 2026. The Statutory Auditors have conducted an audit of these results pursuant to the
+           requirements of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+    2      The audited Standalone Financial Results of the Company have been prepared in accordance with the Indian Accounting Standards notified under Section 133 of the
+           Companies Act, 2013, as amended, read with Companies (Indian Accounting Standards), 2015, as amended and in terms of Regulation 33 of the Listing Requirements.
+
+    3      The figures of the quarter ended March 31, 2026 and March 31, 2025 are the balancing figures between audited figures in respect of full financial year and the published
+           figures of nine months ended December 31, 2025 and December 31, 2024 respectively which were subject to limited review by the statutory auditors.
+
+    4      The details of other income are summarised below :
+                                                                                                                                                         (Rs. In Lakhs)
+                                                                                          Quarter ended                                         Year ended
+                                                                   March 31, 2026       December 31, 2025        March 31, 2025      March 31, 2026    March 31, 2025
+                                Particulars
+                                                                        Audited              Unaudited              Audited              Audited              Audited
+                                                                     (Refer note 3)                              (Refer note 3)
+           Gain on fair valuation of mutual funds                               796.32               893.60              1,080.25            3,811.29            3,825.62
+           Gain on sale of mutual funds                                            -                   43.01                    -               43.01                 -
+           Liabilities no longer required written back                           54.43                  1.73                29.41               88.93              132.98
+           Interest income                                                       48.18                  5.67                46.15               67.18               83.93
+           Profit on sale of Property, Plant and Equipment (Net)                  0.51                   -                      -                0.51                 -
+           Others                                                                 2.55                  0.11                27.28                3.12               41.58
+           Total                                                                901.99               944.12              1,183.09            4,014.04            4,084.11
+                                                                                901.99               944.12              1,183.09            4,014.04            4,084.11
+    5      The Government has notified and brought into force the Labour Codes on November 21, 2025, which consolidate and replace numerous existing labour legislations. The
+           Company has assessed the impact of changes consistent with the Labour Codes, draft rules, FAQ and external                  opinion. Incremental impact on provision for
+           gratuity of Rs. 594.03 lakhs and provision for compensated absences of Rs. 56.68 has been disclosed as exceptional item in the financial results. The Company continues to
+           monitor the finalisation of Central/State Rules and other clarifications from Government on Labour code and would provide appropriate accounting effect on the basis of
+           such development as needed.
+
+    6
+
+
+
+                                                                                                                                   For and on behalf of the board of directors of
+                                                                                                                                   CarTrade Tech Limited
+
+
+
+
+                                                                                                                                   Vinay Vinod Sanghi
+Place: Mumbai                                                                                                                      Chairman and Managing Director
+Date :May 07, 2026                                                                                                                 DIN: 00309085
+

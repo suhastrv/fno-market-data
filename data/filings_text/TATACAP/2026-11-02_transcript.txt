@@ -1,0 +1,1540 @@
+November 02, 2026
+
+To,                                                 To,
+The Listing Department                              The Listing Department
+BSE Limited,                                        National Stock Exchange of India Ltd.,
+Phiroze Jeejeebhoy Towers, Dalal Street,            Exchange Plaza, Bandra Kurla Complex,
+Mumbai – 400001                                     Bandra (East), Mumbai – 400051
+Scrip Code: 544574                                  Symbol: TATACAP
+
+Dear Sir / Madam,
+
+Sub.: Transcript of Media call and Earnings Conference call with Analysts and Investors
+       for the quarter and half year ended September 30, 2026
+
+Ref.: Tata Capital Limited (“Company”)
+
+We wish to inform you that pursuant to Regulations 30 and 46 of the Securities and Exchange
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+from time to time, the transcripts of the media call and earnings conference call with analysts and
+investors held on October 27, 2026, in relation to the Unaudited Standalone and Consolidated
+Financial Results of the Company for the quarter and half year ended September 30, 2026, are
+enclosed herewith.
+
+The same is also available on the website of the Company at the below link:
+
+https://www.tatacapital.com/about-us/investor-information-and-financials.html
+
+We request you to take the above on record.
+
+Thanking you,
+
+Yours faithfully,
+
+For Tata Capital Limited
+SARITA         Digitally signed by SARITA
+               GANESH KAMATH
+GANESH         Date: 2026.11.02 20:54:53
+KAMATH         +05'30'
+
+
+Sarita Kamath
+Chief Compliance Officer and Company Secretary
+
+Encl.: as above
+
+                 “Tata Capital Limited
+           Q2 FY27 Media Conference Call”
+                    October 27, 2026
+
+
+
+
+MANAGEMENT: MR. RAJIV SABHARWAL – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – TATA CAPITAL LIMITED
+
+
+
+
+                         Page 1 of 7
+
+                                                                                            Tata Capital Limited
+                                                                                               October 27, 2026
+
+Moderator:         Ladies and gentlemen, good day and welcome to the Tata Capital Q2 FY27 Media Conference
+                   Call. As a reminder, all participant lines will be in the listen-only mode and there will be an
+                   opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                   during the conference call, please signal an operator by pressing star then zero on touchtone
+                   phone.
+
+
+                   I now hand the conference over to Mr. Rajiv Sabharwal, Managing Director and CEO of Tata
+                   Capital. Thank you and over to you, sir.
+
+
+Rajiv Sabharwal:   Thank you very much. Good evening, everyone, and thank you for joining us. Let me start with
+                   the macro environment. The Indian economy continues to demonstrate strong fundamentals and
+                   broad-based momentum despite external headwinds. GDP grew by 7.8% in the first quarter of
+                   FY27, supported by healthy investment activity and steady private consumption.
+
+
+                   Credit demand also remained resilient during the second quarter. At the same time, we remain
+                   watchful of inflationary pressures arising from food and energy prices, geopolitical
+                   developments in West Asia, and their potential implication for consumption and interest rates.
+
+
+                   Following the RBI's 25 basis points repo rate increase in October and the gradual recalibration
+                   of system liquidity, we expect funding conditions to become less accommodative. Nevertheless,
+                   India's growth drivers remain supportive and we continue to see an environment supportive of
+                   credit growth.
+
+
+                   Turning to our performance, consolidated AUM crossed the INR3 lakh crores milestone and
+                   stood at INR3,08,030 crores, growing at 26% year-on-year and 6% sequentially. If we exclude
+                   the motor finance business, the AUM grew by 32% year-on-year. Profit after tax stood at
+                   INR1,660 crores for quarter 2, increasing 51% year-on-year and 7% sequentially.
+
+
+                   The return on assets stood at 2.3% and excluding Motor Finance, it was 2.5%. Our ROE crossed
+                   14%. Asset quality remained resilient. Gross Stage 3 assets were stable at 1.9%, while the
+                   provision coverage ratio improved to 59%. The annualized credit cost declined to 0.9% in Q2
+                   over 1.0% in Q1.
+
+
+                   Retail and SME businesses remain central to our strategy and account for approximately 85.4%
+                   of the consolidated AUM, providing a diversified, granular, and resilient portfolio.
+                   Disbursements across our high-margin businesses grew by 40% year-on-year, while AUM
+                   growth increased to 14%, up from 10% in Q1, while maintaining healthy yields.
+
+
+                   Tata Capital Housing Finance continued its strong trajectory. The AUM at Tata Capital Housing
+                   Finance reached INR95,098 crores, increasing 26% year-on-year and 6% sequentially. The
+                   profit after tax for quarter 2 at Tata Capital Housing Finance stood at INR552 crores. Return on
+                   assets was 2.5% and ROE was 18%.
+
+
+                   We also added 23 locations across affordable and micro-housing during the quarter, further
+                   deepening our presence in under-penetrated markets and supporting greater portfolio
+                   diversification. Our branch network now is approximately 1,515 branches across 1,094 locations
+                   in 26 states and union territories. Supported by our digital model, we serve more than 9.2 million
+
+
+                                            Page 2 of 7
+
+                                                                                              Tata Capital Limited
+                                                                                                 October 27, 2026
+
+                   customers. Our expanding distribution, digital, and data capabilities position us to deepen
+                   customer relationships, improve accessibility, and pursue growth opportunities efficiently.
+
+
+                   Our AAA rating continues to support a diversified and stable funding profile. Total borrowings
+                   stood at approximately INR2.61 lakh crores, while available liquidity was around INR36,400
+                   crores. The cost of funds marked increased marginally to 7.33% from 7.28% in the previous
+                   quarter. In response to the evolving interest rate environment, our ALCO approved a 20 to 25
+                   basis points increase in prime lending rates on the floating rate portfolio. This repricing is
+                   expected to support an improving NIM plus fee trajectory in quarter 4.
+
+
+                   Operating efficiency continued to improve with cost-to-income declining by 438 basis points
+                   year-on-year to now 35.3%. Consolidated AUM grew 26% year-on-year compared with a
+                   headcount growth of 6%, demonstrating improved productivity, scalability, and operating
+                   leverage across the organization.
+
+
+                   Technology and AI remain integral to our operating model. Today, 99% of our customers are
+                   digitally onboarded, 98% of retail disbursements are supported by scorecard and business rule
+                   engine decisioning, and 99% of our collections take place through digital channels. AI is
+                   increasingly embedded across customer acquisition, underwriting, operations, servicing, and
+                   collections. These initiatives are helping improve turnaround times, strengthen risk monitoring,
+                   enhance customer experience, and lower the cost of servicing.
+
+
+                   On the regulatory front, we continue to engage proactively with regulators and industry bodies.
+                   On revolving credit, FIDC, the SRO has submitted its recommendations to RBI and we are also
+                   evaluating alternative product structures to mitigate any potential impact.
+
+
+                   On insurance, the proposals are still at a draft stage and industry consultations are ongoing. It is
+                   therefore premature to quantify the impact. Insurance remains an important risk cover for our
+                   customers and integral to our underwriting, and we will have greater clarity once the final
+                   regulations are issued.
+
+
+                   To conclude, quarter 2 FY27 delivered healthy, diversified growth, resilient portfolio quality,
+                   and disciplined execution, supported by strong capital, diversified funding, and continued
+                   investment in distribution, technology, and AI. We remain focused on building a larger, stronger,
+                   and more resilient financial services franchise and are confident of delivering on our guidance
+                   and creating long-term value for our stakeholders.
+
+
+                   With that, we would be happy to take your questions.
+
+
+Moderator:         Thank you very much. We will now begin the question-and-answer session. First question is
+                   from the line of Shrishti Sharma from ET BFSI. Please go ahead.
+
+
+Shrishti Sharma:   Thank you. Good evening, everyone. Mr. Sabharwal, while you have already addressed the
+                   revolving credit part, I would request you if you could elaborate more on, what is the path you
+                   would be taking in case the draft norms come out the way they are. To add, your peers have
+                   already announced launching of some new loan variants, as a backup to the fact that revolving
+                   credit might be re-banned by RBI given your exposure is somewhat below 5%.
+
+
+                                             Page 3 of 7
+
+                                                                                             Tata Capital Limited
+                                                                                                October 27, 2026
+
+Rajiv Sabharwal:   So, first of all, we continue to engage with the regulator on this. They have also been seeking
+                   feedback from everyone on the nature of products, the markets which they are serving, and the
+                   benefits to the customers. Actually, an overdraft product is something which is very beneficial
+                   to the customer because it allows the customer to pay only to the extent he or she borrows. We
+                   looked at a lot of products which do come here and some of these products, for example, supply
+                   chain, loans against securities, have been in existence for more than 30 years in the industry.
+
+
+                   So our belief is this that the regulator is taking into consideration all of these aspects and then
+                   will come out with the necessary guidelines. Obviously, whatever guidelines they come out with,
+                   we will be fully compliant with the same. As far as we are concerned, we have looked at some
+                   alternate products which can help meet the needs of the customers.
+
+
+                   Some of these products we have already piloted in the market and the others we expect to do in
+                   the coming month. we do believe this will not have any significant impact over a period of time,
+                   but we will wait for the regulations to come in and we do believe that the regulations will take
+                   into account the needs of the customers as well as the necessary regulations the regulator has to
+                   adopt.
+
+
+Shrishti Sharma:   But would you already be cutting down on your exposure to revolving credit since you said you
+                   are already piloting some of the products and more would be going live very soon. So, does that
+                   mean you will be cutting down the exposure even before you hear on the final norms?
+
+
+Rajiv Sabharwal:   So, as far as we are concerned, this is not a very large proportion of our business. we have looked
+                   at complying with the regulations and since it's not a very large proportion of our book, we have
+                   not cut down on anything. However, we have also looked at what alternate products could exist
+                   in the market to take care of the impact. Like for example, in personal loans or business loans,
+                   they are not a dominant portion of our disbursements.
+
+
+Shrishti Sharma:   Sure. You already talked about IRDAI's distribution norms and that you cannot quantify the
+                   impact. while that's there, could you talk about what could be your alternative source of fee
+                   income in case these norms also pan out because one would really think about what the strategy
+                   could end up being in case something of this sort comes in the final place as well.
+
+
+Rajiv Sabharwal:   Thank you. So, we have looked at different possibilities. Number one, we look at how we can
+                   also look at selling the retail product in insurance. That is something which will, be good for the
+                   customer and also give us the relevant margins. The second point, but before that, I just want to
+                   say that insurance is a good product for a customer who's taking a loan. It protects him or her in
+                   any eventuality or loss of income or in case there are challenges on the health side.
+
+
+                   So, it is a good product and we always advise customers that in case they do not have, an existing
+                   insurance, they should look at the possibility of taking an insurance and evaluating the pros and
+                   cons. And we have seen so many customers who have benefited because of the fact that they
+                   had an insurance.
+
+
+                   So besides looking at retail lines of business, we do believe there is an opportunity for looking
+                   at how we can, mitigate the impact of this loss of income through our NIMs and fee income. So
+                   we will look at the possibility of using NIM, fee income as well as becoming more efficient on
+
+                                             Page 4 of 7
+
+                                                                                              Tata Capital Limited
+                                                                                                 October 27, 2026
+
+                   cost to mitigate the impact of this. However, as I mentioned before, it is too early to talk about
+                   this. The engagements are on and we do hope that the final policy will be something which will
+                   look at not only the benefits of the person who's looking at the insurance, but also consider the
+                   costs involved in selling this insurance so that it balances on both sides on the distribution cost
+                   as well as the benefits for the customers when the final policies come out.
+
+
+Shrishti Sharma:   Sure. Thank you.
+
+
+Moderator:         Thank you very much. The next question is from the line of Manju from Financial Standard.
+                   Please go ahead.
+
+
+Manju:             Good evening. Can you hear me?
+
+
+Rajiv Sabharwal:   Yes, Manju. We can hear you. Good evening.
+
+
+Manju:             Yes. just wanted to ask you like what portion of your credit book would be gold and what is the
+                   LTV ratio and since the gold prices are falling, is there some new underwriting norms that you
+                   are putting in place in case, there are some delinquencies. Of course, there is no it's a stable book
+                   only, but in case.
+
+
+Rajiv Sabharwal:   So, Manju, we do not have a gold portfolio at this point of time. Our organic business should
+                   start in the coming month with the launch of that business. So currently, we do not have a
+                   portfolio in this.
+
+
+Manju:             Okay. And I just wanted to know the revolving credit would be what portion of your total book,
+                   the revolving credit?
+
+
+Rajiv Sabharwal:   So, we had mentioned earlier that revolving credit, based on the interpretation, has a number of
+                   products in it. We had looked at this portfolio and when we had done an evaluation to look at
+                   what could be the impact in case the guidelines come as they are and what we will not be able
+                   to convert into a standard term loan, that impact for us was coming at 3% to 4% of our AUM.
+
+
+Manju:             Okay. Thank you so much.
+
+
+Moderator:         Thank you. The next question is from the line of Ram Kumar from Hindu Business Line. Please
+                   go ahead.
+
+
+Ram Kumar:         Hello. sir, you said that your ALCO has approved the increase in lending rates by 20 to 25 basis
+                   points. what is the reason for this? Is it because banks are increasing their MCLR, that is kind
+                   of, you are trying to pass it on? What is the outlook actually for the interest rates, lending rates
+                   and borrowing costs?
+
+
+Rajiv Sabharwal:   See, if you look at what the market has been talking about, the market has been saying that
+                   besides this the 25 basis points repo increase which has happened, there could be an increase of
+                   about 50 basis points in the rest of the year. But obviously, we will need to watch as things play
+                   out. For us, part of our liabilities are linked to repo rates and other floating rate benchmarks and
+                   when those benchmarks increase, then to that extent our cost of fund also goes up.
+
+
+
+                                             Page 5 of 7
+
+                                                                                               Tata Capital Limited
+                                                                                                  October 27, 2026
+
+                   Just to give you a sense of our liabilities and assets, our floating rate liabilities are 48% of our
+                   total liabilities and floating rate assets are about 66% of our total assets. So structurally, we are
+                   very well positioned so that in case there is any increase in interest rates, we will be able to look
+                   at its impact on our cost of funds, change the PLR and pass on the impact because of which it
+                   will not in any situation be a drag on our cost.
+
+
+Ram Kumar:         Thank you.
+
+
+Moderator:         Thank you. The next question is from the line of Subhana Shaikh from Mint. Please go ahead.
+
+
+Subhana Shaikh:    Hi, sir. Good evening. I wanted to ask what is the sense that you are getting on festive demand
+                   right now? Are you seeing, what kind of signs are you seeing on festive demand and on the rural
+                   side, are you seeing any stress there? Some of the lenders have flagged concerns on the rural
+                   side because of the drought situation. I wanted to understand what is your sense on that?
+
+
+Rajiv Sabharwal:   So, actually, if you look at the demand it is quite buoyant, I would say. We do get a sense from
+                   a few areas. First of all, in this period, you see very good two-wheeler sales and PV sales
+                   happening and we are clearly seeing that demand on the vehicle side, similarly on the
+                   commercial vehicle side also there is a strong demand. We are also seeing the impact of
+                   increased demand from dealers in their supply chain requirements.
+
+
+                   So I would say the festive demand is strong in all of these products. and obviously, we will be
+                   we continue to watch this, but that that is what the sense which we are getting. As far as rural
+                   markets are concerned, I think at this point of time, there is some bit of lag or let me say, growth
+                   rate which is slower in rural markets compared to the urban markets.
+
+
+                   However, we have very limited presence in the rural markets. We are not into tractor finance or
+                   agri farm loans. The only business which we have in the rural markets is microfinance, which is
+                   actually showing an improving asset quality trend and an improving growth rate. So we are not
+                   seeing any challenge on the rural side. It's also because of the fact that we have very limited
+                   presence in the rural markets.
+
+
+Subhana Shaikh:    Sir, can you give a guidance on your loan growth for FY27?
+
+
+Rajiv Sabharwal:   So, we have communicated in the past that we should be growing at about 23% to 25% for the
+                   year as well as, over the '25 to '28 time period. So we do believe that we will be within the range
+                   which we have stated of 23% to 25%.
+
+
+Subhana Shaikh:    Okay. Thank you.
+
+
+Moderator:         Thank you. Ladies and gentlemen, we will take that as the last question for today. I now hand
+                   the conference back to management for closing comments. Over to you, sir.
+
+
+Rajiv Sabharwal:   Thank you very much. I think it's been an excellent quarter for us. We have seen very strong
+                   growth of 26%. The good part is that this growth has been across segments, whether it is housing,
+                   retail, SME, or corporate, it's been across all segments. Since we have created a model which
+
+
+
+
+                                             Page 6 of 7
+
+                                                                                                           Tata Capital Limited
+                                                                                                              October 27, 2026
+
+                               has a very balanced outlook on liabilities in terms of our composition, we have seen minimal
+                               impact in quarter 2 on the cost of funds.
+
+
+                               Our operating leverage and our investments in digital and AI is playing out very well with cost
+                               to income dropping significantly. And as always, our credit quality remains the best across the
+                               NBFC industry and it has only got better in this quarter. So overall, an excellent quarter. We are
+                               looking at very positively towards growth for the rest of the year too.
+
+
+Moderator:                     Thank you. Ladies and gentlemen, on behalf of Tata Capitals, that concludes this conference.
+                               Thank you for joining us, and you may now disconnect your lines.
+
+
+
+
+Note
+
+
+This transcript has been lightly edited for clarity and accuracy.
+
+
+Disclaimer
+
+
+This document is being furnished solely for your information and may not be reproduced or redistributed to any other person
+or used without the express consent of Tata Capital Ltd. (“Company”). The term “Company” shall include its subsidiaries
+unless repugnant to the context. This document only contains general information on the Company and does not purport to
+contain all the information. Forward looking statements contained herein regarding past trends or activities or future business
+plans, strategy, financial condition, growth prospects or developments in industry, competitive or regulatory environment
+should not be taken as a representation that such trends or activities will continue in the future. There is no obligation to update
+or revise any forward-looking statements. Actual results may differ materially from these forward-looking statements due to
+a number of factors. This document does not constitute a prospectus, offering circular or offering memorandum or an offer to
+acquire any securities or instruments and nothing in this document be construed as advice or solicitation to invest in the
+Company or any of its instruments or securities or otherwise. Neither the Company nor any of its affiliates, shareholders,
+directors, employees, agents or representatives makes any warranty or representation as to the completeness of the information
+contained herein (including statements of opinion and expectation) or as to the reasonableness of any assumptions contained
+herein and shall not be liable for any loss or damage (direct or indirect) suffered as a result of reliance upon any statements
+contained in, or any omission here-from. By viewing this document or by accepting any copy thereof or any part thereof, you
+agree to be bound by the foregoing terms.
+
+
+
+
+                                                          Page 7 of 7
+
+                 “Tata Capital Limited
+         Q2 FY27 Earnings Conference Call”
+                    October 27, 2026
+
+
+
+
+MANAGEMENT: MR. RAJIV SABHARWAL – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER, TATA CAPITAL LIMITED
+            MR. RAKESH BHATIA – CHIEF FINANCIAL OFFICER,
+            TATA CAPITAL LIMITED
+            MR. SANDEEP TRIPATHY – HEAD OF STRATEGY AND
+            INVESTOR RELATIONS, TATA CAPITAL LIMITED
+
+
+                         Page 1 of 19
+
+                                                                                            Tata Capital Limited
+                                                                                               October 27, 2026
+
+
+
+
+Moderator:         Ladies and gentlemen, good day and welcome to the Tata Capital Q2 FY27 Earnings Conference
+                   Call. As a reminder, all participant lines will be in the listen-only mode and there will be an
+                   opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                   during the conference call, please signal an operator by pressing star then zero on your touchtone
+                   phone. I now hand the conference over to Mr. Rajiv Sabharwal, Managing Director and CEO of
+                   Tata Capital. Thank you and over to you, sir.
+
+
+Rajiv Sabharwal:   Thank you very much. Good evening, everyone and thank you for joining us today.
+
+
+                   Let me begin with a brief overview with the macroeconomic environment and its
+                   implication for the financial services sector.
+
+
+                   The Indian economy continues to demonstrate resilience, supported by domestic demand and
+                   investment. GDP grew by 7.8% in FY26 and sustained the same pace in Q1 FY27, reflecting
+                   strong economic momentum. While external uncertainties remain, the underlying growth
+                   outlook continues to be constructive. However, a subpar monsoon and El Nino are affecting
+                   food prices, while prolonged tensions in West Asia continue to exert pressure on fuel prices.
+
+
+                   Headline inflation has subsequently firmed up to 5.54% in September. We are monitoring these
+                   developments closely, particularly their implications for consumption and the interest rate
+                   environment. Credit momentum remained healthy through the second quarter with bank lending
+                   growing by over 19% in September and NBFC lending by about 16% in August.
+
+
+                   Activity remained broad-based, aided by sizable FCNR (B) inflows and strengthened banks
+                   deposit base. Growth in bank credit was also partly supported by funding substitution and
+                   elevated bond yields prompted corporates and NBFCs to increasingly turn to bank borrowings.
+                   Overall, underlying demand across the lending channels remains healthy.
+
+
+                   In October, the MPC raised the repo rate by 25 basis points to 5.50% and shifted its stance from
+                   neutral to calibrated tightening amid rising inflationary pressures from food and energy prices.
+                   Given the evolving inflation outlook, we anticipate about 2 further rate hikes in this financial
+                   year.
+
+
+                   Liquidity conditions remain comfortable in surplus during the quarter, averaging nearly INR5
+                   lakh crores, supported by robust foreign currency inflows. More recently, RBI has been
+                   calibrating liquidity conditions through the open market sales and daily CRR maintenance
+                   requirements, resulting in surplus liquidity moderating to a level below INR1 lakh crores now.
+
+
+                   Consequently, we expect marginal funding costs to rise progressively and overall funding
+                   conditions to become less accommodative over the following months. Looking ahead, the RBI's
+                   upward revision of its FY27 growth forecast to 7.1% signals continued economic momentum,
+                   although the pace is expected to moderate from the first quarter.
+
+
+                   While geopolitical tensions in West Asia pose risks to inflation and currency stability and an
+                   uneven monsoon could exert pressure on food prices and rural demand, industrial activity and
+
+
+                                           Page 2 of 19
+
+                                                                          Tata Capital Limited
+                                                                             October 27, 2026
+
+festive season demand are expected to provide support and partly offset these headwinds. In this
+environment, disciplined underwriting, prudent pricing, sustained asset quality and capital-
+efficient growth will remain key priorities for lenders.
+
+
+Now let me turn to the key highlights for the quarter:
+
+
+Quarter 2 FY '27 saw broad-based growth, stable asset quality and improved operating
+efficiency, reflecting disciplined execution across businesses. As of September '26, consolidated
+AUM crossed the INR3 lakh crores milestone and stood at INR3,08,030 crores, up 26% year-
+on-year and 6% sequentially.
+
+
+Excluding the Motor Finance business, our AUM grew by 32% year-on-year and 7%
+sequentially. Consolidated profit after tax for the quarter stood at INR1,660 crores, registering a
+growth of 51% year-on-year and 7% sequentially. Return on assets stood at 2.3%, which
+excluding Motor Finance was 2.5%. Our ROE stood at 14%.
+
+
+As far as housing finance business is concerned:
+
+
+Tata Capital Housing Finance continued its strong performance trajectory during quarter 2
+FY'27. AUM reached INR95,098 crores, growing by 26% year-on-year and 6% sequentially.
+The portfolio remains well diversified across home loans, loans against property, construction
+finance and affordable housing.
+
+
+The affordable and micro housing portfolio within Tata Capital Housing Finance grew at 22%
+year-on-year and 5% sequentially. As we continue to deepen our presence in underpenetrated
+markets, we expect affordable housing to progressively become a larger contributor to our
+overall growth.
+
+
+During the quarter, Tata Capital Housing Finance Limited reported a profit after tax of INR552
+crores. ROA stood at 2.5% and ROE at 18.0%.
+
+
+Let me take you through our performance across our four key themes and updates on our
+digital and AI initiatives.
+
+
+On book growth:
+
+
+I'm pleased to share that Q2 saw sustained disbursement momentum across all our businesses.
+Consolidated disbursements increased by 29% year-on-year to INR51,665 crores, supported by
+healthy growth across businesses. Our consolidated AUM grew by 26% year-on-year and 6%
+sequentially. Excluding Motor Finance, AUM grew by 32% year-on-year and 7% sequentially.
+
+
+Within this, our Housing Finance segment continued its strong momentum, delivering a 26%
+year-on-year AUM growth. Retail and SME portfolio account for 85.4% of our AUM, remains
+the cornerstone of our strategy, driving sustainable growth, greater resilience and superior risk-
+adjusted returns.
+
+
+Our high-margin businesses continue to show robust growth. Disbursements across these
+businesses grew by 40% year-on-year, while AUM growth increased to 14%, up from 10% in
+
+                         Page 3 of 19
+
+                                                                        Tata Capital Limited
+                                                                           October 27, 2026
+
+Q1, while maintaining healthy yields. With disbursements continuing to outpace AUM growth,
+we expect these businesses to contribute increasingly to margins and ROA.
+
+
+During the quarter, we continued to grow our branch network with a net addition of 24 branches
+and expanding our footprint to approximately 1,515 branches across 1,094 locations in 26 states
+and union territories. The additions were primarily focused on scaling our growth businesses
+with affordable housing and micro housing expanding into 23 new locations during the quarter.
+
+
+We will continue to deepen our presence across these businesses by expanding into newer
+geographies. Our digital distribution model enables us to expand efficiently across existing and
+underpenetrated markets while leveraging our customer base of 9.2 million to deepen customer
+relationships and unlock cross-sell opportunities.
+
+
+Overall, our growth remains healthy and diversified, supported by a strong focus on portfolio
+quality. Our continued investments in distribution, technology, data and product capabilities
+strengthen our ability to navigate business cycles and withstand external shocks.
+
+
+The second theme I would like to cover is asset quality:
+
+
+Credit costs declined 17% year-on-year, driven by improvement in the retail portfolio. The
+annualized consolidated credit cost for quarter 2 FY '27 stood at 0.9% compared to 1.0% in
+quarter 1 FY '27. Gross Stage 3 assets remained stable at 1.9% as of September 2026, while the
+provision coverage ratio improved to 59%.
+
+
+Slippages remained benign across the portfolio. This performance reflects the strength of our
+portfolio, disciplined underwriting and robust collections infrastructure. Our portfolio remains
+diversified and granular across secured and unsecured retail, housing, SME, corporate and Motor
+Finance segments.
+
+
+We continue to closely monitor evolving macroeconomic conditions and business trends. Based
+on current indicators, we remain confident in our risk-calibrated approach and the underlying
+resilience of our asset quality.
+
+
+The third theme I would like to touch upon is our funding, capital and liquidity:
+
+
+Our AAA credit rating continues to underpin a well-diversified and stable funding profile.
+Through a disciplined ALM framework, we continue to optimize our borrowing mix while
+proactively managing liquidity and interest rate risk. Our cost of funds increased marginally
+from 7.28% in quarter 1 FY27 to 7.33% in quarter 2 FY27.
+
+
+Total borrowings stood at approximately INR2.61 lakh crores as of September 2026. The
+borrowing mix remained well diversified with bank loans accounting for approximately 39%,
+NCDs 35%, ECBs and MTNs 12% and commercial paper and WCDL at 9% and NHB
+borrowings another 3%.
+
+
+NIM declined marginally, primarily due to a modest increase in cost of funds and a slight
+moderation in yields at mortgage business. Our asset liability mix provides us flexibility to
+
+
+                         Page 4 of 19
+
+                                                                          Tata Capital Limited
+                                                                             October 27, 2026
+
+manage interest rate movements with 48% of our liabilities on floating rates and 66% of our loan
+portfolio on floating rates, enabling us to reprice our floating assets in response to benchmark
+rate increases.
+
+
+In response to the repo rate hike and the evolving interest rate environment, our ALCO has
+approved a 20 to 25 basis points increase in PLRs across products in the floating rate portfolio.
+This is expected to help sustain NIM plus fee in quarter 3 and support an improving NIM plus
+fee trajectory from quarter 4 onwards.
+
+
+Our strong capital position, diversified liability franchise and prudent liquidity management
+provide us with sufficient headroom to pursue growth opportunities while absorbing potential
+market volatility without compromising on financial discipline. As of September 2026,
+consolidated equity stood at INR47,778 crores and debt-to-equity at 5.5x.
+
+
+Tata Capital standalone capital adequacy stood at 17.3% with CET1 at 14.7%, comfortably
+above regulatory requirements. We continue to maintain a prudent liquidity position with total
+available liquidity of approximately INR36,400 crores.
+
+
+Our fourth theme is operating leverage:
+
+
+Our cost-to-income ratio improved by 438 basis points year-on-year to 35.3% in quarter 2 FY
+'27, while cost to average assets remained well contained at 2.3%. As of September 2026, our
+on-roll employee strength stood at 31,655 with over 80% deployed in frontline sales and
+collection.
+
+
+Against year-on-year AUM growth of 26%, our headcount increased by just 6%, reflecting
+sustained gains in employee productivity and operating leverage across the organization. Our
+investments over the past few years in technology, data infrastructure, artificial intelligence and
+distribution are increasingly translating into structural improvements in productivity, operating
+efficiency and scalability.
+
+
+Looking ahead, we remain on track to deliver our medium-term guidance with operating
+leverage expected to be an important lever of further improvement in ROA.
+
+
+At Tata Capital, talking about our AI initiatives, technology is deeply embedded in our
+operating model, and AI has become a key pillar of our digital-first strategy. We are building an
+AI-first NBFC, leveraging AI across the lending value chain to enhance customer experience,
+improve productivity, strengthen risk management and create a scalable operating model for
+future growth. The focus is no longer on isolated use cases, but on enterprise-wide AI-led
+transformation.
+
+
+Our strong digital DNA is reflected in the scale of adoption across the customer life cycle.
+Today, 99% of our customers are onboarded through digital channels, 98% of retail
+disbursements are enabled through scorecard and business rule engine-based decisioning. 99%
+of collections are through digital channels and 98% of our customer queries are digitally
+addressable.
+
+
+
+                         Page 5 of 19
+
+                                                                         Tata Capital Limited
+                                                                            October 27, 2026
+
+We have also built a network of over 180 digital partnerships, significantly enhancing customer
+reach and accessibility. AI is now embedded across customer acquisition, underwriting,
+operations, servicing and collections. In customer engagement, AI-generated content powers the
+majority of marketing creatives and campaign communications, while AI-led onboarding
+initiatives have enabled over 30 lakh customer interactions.
+
+
+In underwriting, our AI-powered credit intelligence and decisioning engines have processed over
+7.8 crores documents and have achieved over 95% adoption across personal loans and business
+loans underwriting, resulting in meaningful improvements in productivity and turnaround times.
+
+
+Across operations, AI-led workflows now process approximately 70% of retail applications
+driving productivity gains, faster turnaround times and lower operating costs. In servicing, AI-
+powered voice and e-mail platforms are enabling automated customer interactions, same-day
+query resolution and significantly lower cost to serve.
+
+
+AI is also strengthening portfolio monitoring and collections through automated risk
+surveillance, stock audit monitoring and AI-assisted customer engagement, contributing to
+stronger collection effectiveness and operating leverage. Importantly, we continue to invest in
+the foundations of an AI-led organization through enterprise AI platforms, robust governance
+and workforce enablement.
+
+
+Together, these initiatives are helping us deliver faster turnaround times, higher productivity,
+better customer experience, lower cost to serve and stronger risk monitoring. Alongside these
+transformation initiatives, we remain equally focused on navigating the evolving regulatory
+landscape.
+
+
+On the regulatory front, we continue to engage proactively with evolving regulations across
+key areas. On the revolving credit, the SRO has submitted its recommendations to the RBI. We
+await the final guidelines and hope they will adequately address practical customer
+requirements.
+
+
+In parallel, we are also evaluating alternate product structures to mitigate any potential impact.
+On insurance, the draft proposals are under discussion, and we have submitted our feedback to
+the regulator both directly and through the industry forum. While the proposed changes could
+have implications for the industry, it is premature to quantify the impact until the final
+regulations are issued.
+
+
+Insurance remains an important risk cover for our customers and an integral part of our
+underwriting framework. We, therefore, continue to see a strong underlying need for these
+products and will assess the implications more clearly once the final guidelines are available.
+
+
+To conclude, quarter 2 FY27 was another quarter of healthy diversified growth, underpinned by
+strong disbursement momentum, resilient asset quality and disciplined execution.
+
+
+We remain focused on building a larger, stronger and more resilient franchise through prudent
+risk management, customer-centric innovation and consistent execution. We are on track to
+deliver on our guidance across all parameters and remain confident in our ability to sustain
+
+
+                          Page 6 of 19
+
+                                                                                              Tata Capital Limited
+                                                                                                 October 27, 2026
+
+                   growth and create enduring value for all our stakeholders. Thank you for your continued trust
+                   and support. We will now be happy to take your questions.
+
+
+Moderator:         The first question is from the line of Shreya Shivani from Nomura.
+
+
+Shreya Shivani:    Congratulations on a good quarter. My first question is on your FY28 guidance. So, you've
+                   spoken about how you're expecting two more rate hikes, and we are in a rising rate environment.
+                   So, any thoughts on or any revision that you'd like to make on the ROA, ROE guidance that you
+                   have given us for FY28, given that in a rising rate environment, we can never be sure if you'll
+                   be able to grow your new portfolio in the deeper geographies by hiking lending rates. That's my
+                   first question.
+
+
+                   My second question is on the rural exposure. So, while we know that MFI is about 0.9% of your
+                   mix, is there any other segment, product via which you are exposed to the rural or to the agri
+                   markets or if you can give us any details of how much exposure do you have in the states which
+                   are hit by drought - Maharashtra, Telangana, Andhra Pradesh, Gujarat, Rajasthan. That's my
+                   second question. And my last question is on the Tier 1. We are under 15% now. So, any
+                   commentary around that would be helpful.
+
+
+Rajiv Sabharwal:   So thanks, Shreya. First of all, talking about the guidance, we had given a detailed guidance on
+                   growth, cost-to-income, credit costs as well as PAT growth, ROA and ROE. We are fairly
+                   confident of meeting each of these requirements. In fact, some of them we have already met.
+                   And we see no challenges on meeting all of them. I don't think we have any doubt on the same.
+
+
+                   We don't want to revise anything. We will look at the end of the year if we want to revise on the
+                   upward side, but we are not looking at revising anything below. As far as the rural portfolio is
+                   concerned, our presence in rural is only through the microfinance business.
+
+
+                   And if we look at the microfinance business, it forms less than 1% of our book. In fact, we are
+                   seeing an improving trend on portfolio quality in microfinance as well as on the growth side in
+                   the microfinance business. So that is positive for us. We do not have any presence in tractor or
+                   farm loans. So that doesn't impact us.
+
+
+                   In fact, we've also looked at our portfolio in Maharashtra. We hardly have any presence even in
+                   microfinance in Maharashtra. So, we are not concerned on any impact of drought or any other
+                   thing as far as the rural portfolio is concerned. On the capital, based on the current growth plans,
+                   we expect to raise capital sometime towards the second half of FY28. We will keep evaluating
+                   our capital position as the business grows, and we'll take a call at an appropriate time, but that's
+                   the plan as of now.
+
+
+Shreya Shivani:    Right, thank you. And just one follow-up on the PLR increase of 20 bps to 25 bps that you've
+                   received your Board approval on. Is that from today or did you already do it from 1st of October.
+
+
+Rajiv Sabharwal:   So, PLRs, that decision is taken by the ALCO. It took a decision of increasing the rates by 25
+                   basis points, that's what the Tata Capital ALCO decided. Tata Capital Housing Finance decided
+                   to increase rates by 20 basis points, and both the increases would be effective from 1st of
+                   November.
+
+
+                                            Page 7 of 19
+
+                                                                                               Tata Capital Limited
+                                                                                                  October 27, 2026
+
+Shreya Shivani:    Alright, that is useful. Thank you so much and all the best.
+
+
+Rajiv Sabharwal:   Thank you so much.
+
+
+Moderator:         The next question is from the line of Avinash Singh from Emkay Global Financial Services.
+
+
+Avinash Singh:     Thanks for the opportunity. Just two questions. One, of course, I'm cognizant of the fact that
+                   your Motor Finance book is still shrinking. But if we see over the last few quarters, the GNPA
+                   or GS3 trend was on a declining even on a percentage basis. But there has been a kind of a
+                   material jump in this quarter.
+
+
+                   So, what is happening there. And now when do you expect this motor vehicle book to start
+                   growing, that's one. And second, with the remainder of FY27 and FY28, the rate environment
+                   that you alluded or guided and also, you will have your product mix changes taking place. And,
+                   you will have some impact like your mortgage business where the large banks will continue to
+                   compete in the prime segment. So, on the net, how do you see the NIM trajectory going forward
+                   in the H2 of FY '27 and '28. Thank You.
+
+
+Rajiv Sabharwal:   Thanks, Avinash, for those questions. And let me answer the Motor Finance first, and then we
+                   will talk about the NIM. As far as the Motor Finance business is concerned, as we had mentioned
+                   in the calls before in the previous quarter also that we are proceeding very well on all parameters
+                   except growth.
+
+
+                   In terms of the credit cost and slippages they've all been coming down. If you look at our move
+                   towards non-Tata vehicles for diversifying the portfolio, that's also proceeding very well. The
+                   cost to income is also coming down. However, the portfolio growth was lagging by about two
+                   to three quarters compared to what we had thought. And this is the same situation as of now.
+
+
+                   If you look at the portfolio rundown, it's coming down with every quarter, like the rundown in
+                   Q2 is lower than Q1 and Q1 was lower than the Q4 of last year. We expect the portfolio to
+                   stabilize in Q3 and start growing from Q4. That's the plan as far as Motor Finance is concerned.
+
+
+                   The growth in NPA, if you look at our overall NPAs, we have been stable at 1.9% compared to
+                   last quarter. And same time last year, we have come down. But if you look at Motor Finance,
+                   that's gone up. It looks as if it is increasing for two reasons. One, because the book is falling, the
+                   denominator is coming down.
+
+
+                   And second is the fact that it is seasonal. If you noticed from our numbers in the past, Q2 is the
+                   quarter which has the highest growth in NPAs and which moderates down in Q3 and then further
+                   in Q4. The same trend we are seeing in this year also, that it is more seasonal in nature.
+
+
+                   And if you look at the absolute slippages, they are significantly lower in Q2 compared to Q2 of
+                   last year. So, we are quite positive on the fact that we are on the right track, except portfolio
+                   growth where we are lagging behind by two to three quarters. As far as NIM is concerned, I
+                   want to tell you a little bit about how our liabilities are constructed and then come to the NIM.
+
+
+
+
+                                            Page 8 of 19
+
+                                                                                                 Tata Capital Limited
+                                                                                                    October 27, 2026
+
+                   If you look at our liabilities, 48% of our liabilities are floating rate liabilities. On the asset side,
+                   66% of our assets are floating. So structurally, we are very well positioned in a rising rate
+                   environment. What the ALCO decided, as I mentioned before, is to increase the interest rate for
+                   our floating rate liabilities.
+
+
+                   As far as NIM is concerned, we've seen a drop in Q2 compared to Q1 by about 10 basis points.
+                   This is primarily coming in because of two reasons: about 5 bps happening because of increase
+                   in cost of funds, which is also in our investor presentation. And another 5 bps impact is
+                   happening more because of competitive intensity in the prime home loans business.
+
+
+                   As far as our Q3 assessment is concerned, we expect the NIM plus fee in Q3 not to have any
+                   further drag. In fact, we expect it to be stable or marginally getting better, but more towards
+                   being stable. And based on all the measures which we have taken, our Q4 NIM plus fee should
+                   show an improving trend.
+
+
+                   So, we are quite positive on Q4, and this is what we had mentioned before that Q2 will see some
+                   moderation. Q3 will see stability or marginal improvement and Q4, a distinct improvement as
+                   far as NIM plus fee is concerned. It's coming on account of other things also. Our high-margin
+                   business has shown a growth of 40% on disbursements and 14% on AUM growth. And this
+                   AUM growth of 14%, we expect it to increase with every quarter. And by Q4, it should be
+                   mirroring our overall portfolio growth and should start getting better from the next financial
+                   year.
+
+
+Avinash Singh:     Thank you.
+
+
+Moderator:         The next question is from the line of Anuj Singla from JPMorgan.
+
+
+Anuj Singla:       Good evening, Rajiv and team. Thank you very much for the opportunity and congratulations
+                   on a good set of numbers. So, two questions. The first on the growth side, I think outstanding
+                   performance. If I look at the sequential basis, a lot of that has come from SME. And I see there
+                   is a component of channel financing there as well in the run-up to the festive. Can you just give
+                   us some flavour of where are you growing in the SME segment. And I think it contributed 45%
+                   of the incremental growth in this quarter. And if there is a significant portion of channel
+                   financing in that. That's the first question, please.
+
+
+Rajiv Sabharwal:   Thanks, Anuj. As far as growth is concerned, it's well diversified, but you are right that SME
+                   has shown a better growth. There are two big areas for growth actually. One is on the supply
+                   chain side where we have seen good demand emerging. We had also looked in the past, to
+                   increase our number of locations where we offer our SME products. That has helped us to get
+                   new clients and increase our term loans towards this segment. So, I would say the growth is from
+                   both term loans and supply chain, but supply chain obviously has had a better quarter
+                   significantly compared to other products.
+
+
+Anuj Singla:       So, Rajiv the follow-up to that is this will also turn into retail assets next quarter. So, this will
+                   decline and retail asset goes up. So should we expect that the growth number which you have
+                   shown and it should moderate to your guidance number, which is 25%. Is that the way we should
+                   expect the trajectory to be.
+
+                                              Page 9 of 19
+
+                                                                                                  Tata Capital Limited
+                                                                                                     October 27, 2026
+
+Rajiv Sabharwal:     So, if you look at our supply chain. Our supply chain has got extremely diversified over the last
+                     4 years or so. From a stage, 4 years back where auto used to constitute about 2/3rd of our supply
+                     chain, it is now down to about 35%.
+
+
+                     So, to that extent, it is well diversified. So even if there is a challenge in any particular sector,
+                     we do not expect the overall supply chain business to suffer. So that was more from a
+                     diversification point. As far as what will convert into retail, on the vehicle side, it will help us to
+                     convert.
+
+
+                     But our retail story is not guided by this alone. Our retail story continues to be guided by the
+                     same factors of expanding geographically, bringing down our turnaround times and being fairly
+                     competitive as far as product structuring is concerned. We, in fact, expect retail momentum
+                     growth to further pick up in Q3 and then even more pick up in Q4. So, we are clearly on a trend
+                     where the retail business will pick up more. Same is true for our housing business in retail. We've
+                     expanded in Q2, but our Q3 and Q4 expansion of number of locations is even stronger as per
+                     our plan compared to Q2, and that should help us as far as affordable and micro housing is
+                     concerned.
+
+
+Anuj Singla:         Yes. So the second question is on asset quality. So I think we draw a lot of confidence from your
+                     statement on the slippages across the portfolio. So can you explain the logic or the thought
+                     behind increasing the PCR. I see a significant jump in personal and business loan, and I think
+                     there is a bit of that in the other retail loans. So what is the thought process around that. Thank
+                     you.
+
+
+Rakesh Bhatia:       So this is Rakesh. I'll take the question. PCR is on Stage 3 assets, and it often depends on the
+                     mix or the aging of the assets which have moved into Stage 3. So we apply the ECL rate and the
+                     staggered provisioning over and above when the asset moves into Stage 3, that gives you the
+                     PCR. It's more of the aging of the assets within the Stage 3, which derives the PCR percentage.
+
+
+Anuj Singla:         Got it. Thank you.
+
+
+Moderator:           The next question is from the line of Nischint Chawathe from Kotak.
+
+
+Nischint Chawathe:   Hi, two questions. One is, there is a small item of around INR186-odd crores of de-recognition
+                     of associates. If you could explain that. And the second one is that have you done any tightening
+                     of screens in the last couple of weeks given the drought situation in India.
+
+
+Rajiv Sabharwal:     So let me take the second one, and then I'll request Rakesh to cover your first point, Nischint.
+                     As far as tightening is concerned, we monitor our portfolios at a very short frequency, looking
+                     at the trends and looking at what we need to do. So, we have been obviously watching out for
+                     the impact of the war and while fuel prices have not increased, but obviously, there are many
+                     products which are supported by crude prices, and there has been a cost increase there.
+
+
+                     So, in certain SME segments, we have tightened our screens, which are part of our secured and
+                     unsecured business loans. I'll let Rakesh answer the question on that.
+
+
+
+
+                                              Page 10 of 19
+
+                                                                                              Tata Capital Limited
+                                                                                                 October 27, 2026
+
+Rakesh Bhatia:       Yes. Nischint, on your question on the de-recognition of INR186 crores. As you're aware, we
+                     have a private equity business within Tata Capital, and we hold investments on our balance
+                     sheet. So, during the quarter, one of the funds made the exit from one of the portfolio companies,
+                     which was classified as associate. That's why you have a separate line in the LODR which shows
+                     a gain of INR186 crores. But if I take out the amount which pertains to the other LPs, only
+                     INR27 crores of it flow into the PAT of Tata Capital.
+
+
+Nischint Chawathe:   Got it. Thank you very much and all the best.
+
+
+Moderator:           The next question is from the line of Raghav Garg from AMBIT Capital.
+
+
+Raghav Garg:         Hi, thanks for the opportunity and good evening. I just have one question. I'm looking at some
+                     of these data points for the Motor Finance business like increased dealership presence,
+                     completion of IT integration, rollout of the CV products in more TCL branches. And then on the
+                     other hand, you have the oil price risk and the risks from a deficit monsoon, which could impact
+                     utilization. In this backdrop, for FY '28, how do you ensure that the CV finance portfolio
+                     continues to scale up without throwing up asset quality issues.
+
+
+Rajiv Sabharwal:     See, CV industry is cyclical, and we need to monitor the impact of fuel prices on the same. We
+                     are on a different stage as far as our business is concerned. As had mentioned before, we are
+                     clearly looking at how we can improve our ROA through a mix of yield, cost efficiency and
+                     credit costs. And we remain on track for that.
+
+
+                     In terms of our approach towards this business, we are conscious on growing it in a moderated
+                     manner. As I have mentioned before, we expect to bring down the degrowth in this book in
+                     quarter 3 and then start growing it. We have tightened or made our collections stronger. In fact,
+                     all collections in CV business are managed in-house, which allows us to be more, I would say,
+                     proactive as far as collections are concerned.
+
+
+                     We've also, in this quarter, created a macro provision of about INR30 crores in CV business,
+                     and we will monitor how it goes ahead in the future. So that is what our approach is as of now.
+                     We will be calibrated in our approach, working on improving efficiency. The whole idea behind
+                     going to more dealers is this, that we can then be more selective in choosing which proposals
+                     we do.
+
+
+                     Similarly, our investment in creating an integrated tech model allows us to be more efficient and
+                     consequently better turnaround time. So, all of this is something which is important. And it all
+                     flows from the fact that we are chasing improvement in profitability rather than volumes at this
+                     point of time. In fact, proportion of that book used to be 14.5% in our total book in March '25,
+                     which is now down to about 7.7%.
+
+
+Raghav Garg:         Understood. Just one more question. Basis your disclosures on the Motor Finance NPAs and the
+                     book, it seems that the problematic portion is somewhere around INR2,000 crores to INR2,100
+                     crores. So have you possibly thought that you can probably offload this portion to an ARC and
+                     then channel all your energy and efforts on growing the book without actually putting in a lot of
+                     efforts for collection because that is something that the ARC can do.
+
+
+
+                                             Page 11 of 19
+
+                                                                                            Tata Capital Limited
+                                                                                               October 27, 2026
+
+Rajiv Sabharwal:   We've not looked at that. Our philosophy in all businesses has been that we know our business
+                   well, whether it is credit or whether it is collections. And I would be surprised if any other ARC
+                   would be more efficient on collections than us. And we probably have a very good collections
+                   team, which is helping us as far as our approach is concerned.
+
+
+                   Our general philosophy on collection has been to keep increasing our collections done by our
+                   own team and within our own team to be done more digitally. That's been our approach. And
+                   we would like to stick to that approach. We have not looked at the options. But since you've
+                   suggested, we will again reevaluate and see what we need to do.
+
+
+Raghav Garg:       Can I ask one more question, please, just related to this.
+
+
+Rajiv Sabharwal:   Yes.
+
+
+Raghav Garg:       So, this INR2,000 crores of GNPA that you have with the Motor Finance book would mostly be
+                   coming from, say, the book before March '25, most of it. Is that the correct understanding. And
+                   hence, would mostly be comprised of, the Tata vehicles.
+
+
+Rajiv Sabharwal:   You are right. Majority of it does come from a portfolio before March '25.
+
+
+Raghav Garg:       Right. And then maybe when I deduct the disbursements of last 4 - 5 quarters from the current
+                   book, maybe that's how one should look at the GNPA on the older book, just to sort of see how
+                   the older NPA book is moving.
+
+
+Rajiv Sabharwal:   While what you're saying appears right, but we'll be happy to engage with you separately and
+                   go through these numbers.
+
+
+Raghav Garg:       Understood. Thank you so much for answering.
+
+
+Rajiv Sabharwal:   Thank you so much Raghav.
+
+
+Moderator:         The next question is from the line of Kunal Shah from Citigroup.
+
+
+Kunal Shah:        Thanks for taking the question. So, a couple of questions. Firstly, in terms of the yield
+                   optimization, which we have been talking about, be it in terms of optimizing it within various
+                   segments, plus our high-yielding segment is still growing as a proportion of AUM. Why is then
+                   it is actually not reflecting in terms of the yield increase. And what will change getting into
+                   second half, after the PLR increase which you have done. But if we broadly have to look at it in
+                   terms of the yield optimization across the AUM, what will work over the next 18 months, which
+                   has not actually worked this quarter.
+
+
+Rajiv Sabharwal:   So, a few things. One, I think whenever interest rates are dropping, the pressure for BT and the
+                   pressure to reprice is much more. And this changes when interest rates are stable or they start
+                   rising. We saw some impact of this in Q2 over Q1 in more price-sensitive products.
+
+
+                   So, one, I think an increasing interest rate environment will reduce the pressures on balance
+                   transfers and repricing. So that is one which will help us. Second is you are right that our
+                   increasing proportion of high-margin business will also be supportive. As we had mentioned
+
+                                           Page 12 of 19
+
+                                                                                                 Tata Capital Limited
+                                                                                                    October 27, 2026
+
+                   that our growth in high-margin businesses on AUM is about 14%, though the disbursement
+                   growth is 40%.
+
+
+                   We expect this 14% to almost mimic our overall portfolio growth by quarter 4 and exceed that
+                   from the next financial year. We have also looked at, as we had mentioned before, our other
+                   products, which do not figure in this high-margin list, because the list which we have given you
+                   is for high-margin retail products.
+
+
+                   There are separately high-margin corporate products, which is all fine. But there are other
+                   beyond these high-margin retail and corporate products, where also we have looked at how we
+                   can increase our yields. And so each of the business leaders have put a plan in place, which is
+                   already in motion from Q2 onwards, which will start showing more in terms of output from end
+                   of Q3 or from Q4. That is how we look at it. So that will help us. So that's the way we are looking
+                   at things. I have mentioned it before that our floating rate assets are much larger than floating
+                   rate liabilities. So that also will be supportive for us in the future if interest rates increase.
+
+
+Kunal Shah:        And this reset happens immediately, this 25 basis points and 20 basis points, is it like the very
+                   next month or how is the reset period.
+
+
+Rajiv Sabharwal:   So this will happen for almost all the portfolio from 1st November. So, it is the date we decide
+                   to change the rates from.
+
+
+Kunal Shah:        Okay. Got it. And a few more questions. On fee income side in Tata Capital Housing, what is
+                   leading to almost like 30% quarter-on-quarter and year-on-year growth. Is it the sell-downs or
+                   something which is there, which is leading to a much higher fee income. And then when you
+                   look at it, so is there any extraordinary out there.
+
+
+                   And in terms of the rundown on the Tata Motors, we are still confident that it will stabilize in
+                   Q3 and it will be positive in Q4. But when we look at in terms of the rundown, it's almost similar
+                   to that of Q2 level. So were you expecting a similar repayment run rate in Q2. Or it is slightly
+                   instead of INR940 crores should have gone towards INR500 crores or INR600-odd crores and
+                   then stabilized in third quarter.
+
+
+Rajiv Sabharwal:   So actually, in Q2, as we had mentioned before, when this whole war happened, we had become
+                   a little conservative, and we felt that the government will pass on the fuel price impacts. So, we
+                   had gone a little conservative. But post that, when we realized this is not happening, we tried to
+                   pick up on our disbursements.
+
+
+                   Looking at now the month-on-month trend, we believe that Q3 should be flat for us and growth
+                   should be back from Q4. That's our reading of the situation, and that's how we have invested in
+                   different markets and different dealerships at this point of time. As far as the housing finance is
+                   concerned, I'll request Rakesh to comment on that.
+
+
+Rakesh Bhatia:     Yes, Kunal, you're right. I mean if you look at the total fee income, it has increased by 30% year
+                   on year and sequentially also it has gone up. But if you dissect the fee income, the DA income
+                   has increased by 58% on a year on year basis. So that's what's contributing, the assignment which
+                   we do.
+
+
+                                            Page 13 of 19
+
+                                                                                              Tata Capital Limited
+                                                                                                 October 27, 2026
+
+Kunal Shah:        Which income, sorry.
+
+
+Rakesh Bhatia:     The assignment income.
+
+
+Rajiv Sabharwal:   So basically, as far as non-assignment income is concerned, it has remained at the same level as
+                   it was in Q1 as a percentage. It has remained at similar level. The increase has been contributed
+                   by assignment income.
+
+
+Kunal Shah:        Assignment. Okay, got it. Perfect. Thanks.
+
+
+Moderator:         The next question is from the line of Mr. Viral Shah from IIFL Capital.
+
+
+Viral Shah:        Hi, thanks. Congrats on good set of numbers. Rajiv, I have two questions. First is on the NIMs
+                   front and probably I'm weaving in a couple of points over here. So you mentioned clearly the
+                   pricing pressure on the HFC part and when we dissect the NIM between the 2, standalone and
+                   HFC, that is pretty much visible.
+
+
+                   How confident are you that the 20 bps PLR increase that you have taken will sustain, especially
+                   in the context of competitive pressures. The other, subpart to this question is we have taken this
+                   increase on PLR from 1st of November. It should basically have 2 months of impact in this
+                   quarter.
+
+
+                   Then should we not expect, greater support to NIMs and probably even say slightly expanding
+                   NIMs, not just NIMs plus fees in third quarter. And the third subpart to this NIM is when I look
+                   at, say, you're talking about cumulatively 75 bps of rate hike, this 20 and 25 bps of PLR increase
+                   that you have taken, this is just for the current 25 bps rate hike or in anticipation of something
+                   more.
+
+
+                   And what could be the trajectory or the cumulative quantum in the event of a 75 bps rate hike.
+                   And the second question that I have, Rajiv, is, right now, we are at 26% growth, including the
+                   rundown of the TMFL book. Opex is already at 2.2% of AUM. Credit cost is less than 1.0% in
+                   the first half itself. You mentioned that there can be some risks on the upside to FY '28 guidance
+                   as well. Do you anticipate, being able to reach FY '28 guidance itself in the first half of FY28.
+
+
+Rajiv Sabharwal:   So Viral, thanks, first of all. I'll comment on a few items, and I'll request my colleague, Sarosh,
+                   to add more. See, as far as PLR hike is concerned, it's effective from 1st November. And this
+                   PLR hike, is only because of the impact of the repo rate increase of 25 basis points, which
+                   became effective from October.
+
+
+                   So that's the only thing. If in future, there are more hikes which happen, we will evaluate based
+                   on the mix of our assets and liabilities. We will evaluate the impact and then pass on the increase.
+                   That's what we have done in the past, and that's what we will do in the future.
+
+
+                   Since our floating rate assets are higher than floating rate liabilities. So to that extent, we are
+                   structurally well positioned in an increasing interest rate environment. As far as the 20 bps
+                   increase in housing is concerned, the team has looked at all segments so that it can pass on the
+                   same to the incremental customers also, not only to our existing customers.
+
+
+                                           Page 14 of 19
+
+                                                                                               Tata Capital Limited
+                                                                                                  October 27, 2026
+
+                    So, we do believe by trying to understand what other people are doing in the market that
+                    everybody needs higher interest rates in home loans. The competition has led to a situation where
+                    interest rates were dropping, but everybody is conscious at least all leading players, as we
+                    understand, are conscious of the fact that they need to increase rates and because of cost, they
+                    need to maintain their margins.
+
+
+                    So we do expect that will happen. And from our perspective, we want to make it happen. And
+                    the other thing which we are doing is increasing our proportion of affordable and micro housing
+                    as well as LAP so that we do not have a negative drag.
+
+
+                    The other thing which is helping us also is the fact that our costs are moving at a much slower
+                    pace than our income, and we expect the same trend to continue in the future. As far as the year
+                    is concerned, we expect if incomes will grow at about 25%, then cost to grow at about 15%. So
+                    that should help us. But I'll request Sarosh to add.
+
+
+Sarosh Amaria:      Thanks, Rajiv. Viral, this is Sarosh here. In our housing portfolio, 95% of our assets are floating.
+                    And roughly 40% of our liabilities will get repriced because of the rate increase. So this will
+                    give us an advantage to our entire portfolio, this 20 basis points would give a lift.
+
+
+                    Secondly, we've pivoted towards a segment which is near prime, which is between our prime
+                    and the affordable. So our near prime as well as affordable growth in our AUM will be faster in
+                    the third and the fourth quarter, which will also help to keep the NIMs going either flat or slightly
+                    better as we go ahead.
+
+
+Viral Shah:         Right, Rajiv, just an incremental question on that front. Since the second quarter, of course, the
+                    market rates had been pricing in or are already pricing in a lot more rate hikes. And given that
+                    48% of our liabilities are floating, I would believe that some part of that would be not just repo,
+                    but also T-bills. Again, just specifically focusing on, say, third quarter onwards, do you see a
+                    similar kind of an uptick on cost of funds or the lead lag effect between cost of funds and yields.
+
+
+Rajiv Sabharwal:    See, from our perspective, what we want to do is try to time it even better, from the time when
+                    the increase happens and when we pass on the impact. In fact, the regulator, if you look at their
+                    draft guidelines are also wanting the transmission to happen faster, both ways, whether
+                    increasing or decreasing. And our endeavor through our PLR would also be the same. So, I
+                    couldn't understand beyond that what exactly, Viral, you want to know.
+
+
+Viral Shah:         I'll probably take it offline, Rajiv, if that's okay.
+
+
+Rajiv Sabharwal:    Okay.
+
+
+Moderator:          The next question is from the line of Abhijit Tibrewal from Motilal Oswal.
+
+
+Abhijit Tibrewal:   Good evening everyone. Thank you for taking my question. Rajiv sir, the first question I had
+                    was around these flexi loans. So, what proportion of your book is flexi in nature. And I think I
+                    heard you during your opening remarks, based on the representations that you have done to the
+                    regulator, do you think that the regulator might allow NBFCs to continue offering flexi loan
+                    products, perhaps with a little higher guardrail.
+
+
+                                              Page 15 of 19
+
+                                                                                                Tata Capital Limited
+                                                                                                   October 27, 2026
+
+                    Also, during your opening remarks, you alluded to an alternate product, which can offset if flexi
+                    loans disbursed by NBFCs are banned by the regulator. So, what is the difference in profitability
+                    between the flexi loan product and this new alternate product that you are working on.
+
+
+Rajiv Sabharwal:    Let me answer to the best of my ability. First of all, I have no ability to predict what the regulator
+                    will finally do. We've been trying to convey our viewpoint to them, and they have been very
+                    receptive in terms of listening to what the industry has to say. So, my view is they will also take
+                    a balanced call.
+
+
+                    Hopefully, which reflects their regulatory needs as well as what is good for the borrowers
+                    because I would say 90% of what we do here goes to SME customers and more so MSME
+                    customers. So, to that extent, this is what they will look at. When we had evaluated our portfolio
+                    and looked at what is being called Flexi and what proportion of that we will be able to convert
+                    into our modified product without having a revolver capability. We felt that more than half of
+                    that we can do here. So, we are already testing some of the alternate products, which we have
+                    created in the market. And the balance, we will start testing in the beginning of November. As
+                    far as the interest rate are concerned, obviously, Flexi used to come at a higher rate than the
+                    normal term loans, but our modified products are almost at a similar price like the flexi loans.
+
+
+                    So first of all, I do not believe that the guidelines will be similar to as was in the draft, and we
+                    expect the regulator to take into account all feedback and then make a decision. But finally, it is
+                    their call of what they wish to do. But from our side, we want to be prepared for everything so
+                    that the impact is minimized and that will be our effort to ensure that the impact of the same is
+                    minimized. But I can comment more on this once the guidelines are known.
+
+
+Abhijit Tibrewal:   Got it, sir. And what proportion of our loans are flexi in nature now.
+
+
+Rajiv Sabharwal:    As far as retail Flexi loans are concerned, they will form about 2-2.5% of our book.
+
+
+Abhijit Tibrewal:   Got it. And sir, the last question that I had was you've had a lot of discussions on margins already
+                    where you have said the PLR increases that you've taken in the standalone as well as the housing
+                    entities. Just trying to understand when you said that NIM plus fee would not have further drag,
+                    margins plus fee to remain stable 3Q and then show an improving trend in 4Q.
+
+
+                    I'm just trying to understand what is the sensitivity of our NIM to a 50 bps increase in repo rates
+                    because 25 basis points increase in repo has already prompted us to think about margin
+                    expansion if the repo rates are higher by, let's say, 100 or 125 basis points to be made, how can
+                    it benefit our margins. So just some sensitivity there.
+
+
+Rajiv Sabharwal:    From that perspective, we do believe that if there is an increase in repo rate because of the
+                    composition of our assets and liabilities, it should be accretive or balanced. So, I would say
+                    normal to positive. That's the way I would put it.
+
+
+Abhijit Tibrewal:   Got it, sir.
+
+
+Moderator:          The next question is from the line of Anand Dama from Nuvama Wealth.
+
+
+
+
+                                             Page 16 of 19
+
+                                                                                               Tata Capital Limited
+                                                                                                  October 27, 2026
+
+Anand Dama:        Thank you for the opportunity and congratulations on a great set of results. Sir, you have now
+                   clocked about 26% AUM growth in this quarter and your guidance was somewhere about 23%-
+                   25%. So is it more of an opportunistic growth that you had in the second quarter and you would
+                   go back to 24%-25% kind of a run rate and try and manage the margins than chase the growth.
+                   Your comments on that would be helpful.
+
+
+Rajiv Sabharwal:   I don't think that there was any opportunistic one-off or something which happened. However,
+                   we are very conscious of the fact that we want margins to improve. And we have looked at
+                   certain deals which we have passed because they did not meet our margin requirements. We
+                   would want to be on the guidance which we have given of 23%-25%. And while we will focus
+                   definitely on growth, but we do not want growth at the expense of margins.
+
+
+Anand Dama:        And sir, have you called out what will be the impact of the insurance commission capping, which
+                   will come and any mitigating factors that you have internally, which basically you can use
+                   because there are companies like Piramal who has called out 18 to 24 basis point impact in terms
+                   of ROA. Any number that you can put out.
+
+
+Rajiv Sabharwal:   See, we've not put out any number because we honestly don't know what the final guidelines
+                   will be and when they will be effective from. Once we have that, we will look at things. But
+                   parallelly, we've been thinking through what we can do in terms of which insurance products,
+                   which we can sell, whether the retail product makes more sense than a group product.
+
+
+                   So, we've looked at those options. We've also looked at how we can improve our NIM plus fee
+                   on our normal business, which does not come with insurance. And also, if we do not sell
+                   insurance, it will also bring down our operating costs, which will also be beneficial. So, it will
+                   be through a combination of all of these things and some more which may emerge, which we
+                   are at an early stage of working out, but our effort will be to minimize the impact in all situations.
+
+
+                   However, I should admit that insurance is an important product. We do believe it is extremely
+                   useful for the borrower, and we have seen this in many instances in our portfolio. We would
+                   honestly want to be in a situation where the regulator comes out with a commission, which more
+                   than covers the cost and gives us margins also because this is a product which is good for
+                   customers. We are engaging with them on the same. But parallelly, we are working on what we
+                   can do to minimize the impact. But I will be able to give you a better answer once we come to
+                   know of the final guidelines because there are other things also which are work in progress at
+                   our end.
+
+
+Anand Dama:        Sure, sir. That’s helpful. Thanks a lot.
+
+
+Moderator:         Thank you. Next question is from the line of Jay Betai from NBIE. Please go ahead.
+
+
+Jay Betai:         Hello sir. Good evening. Thanks for the opportunity and congratulations on a good set of
+                   numbers. Sir, my question is more pertaining towards CRAR. So CRAR has fallen by an average
+                   of around 100 bps a quarter since IPO. Even at 50 bps a quarter, it would be near around 15%
+                   minimum by second half of '28. When do we plan a capital raise.
+
+
+
+
+                                            Page 17 of 19
+
+                                                                                                           Tata Capital Limited
+                                                                                                              October 27, 2026
+
+Rakesh Bhatia:                 We keep on looking at capital adequacy very closely, including Tier 1 capital and also the mix
+                               of the liabilities, whether we raise sub debt. If you look at the current growth trajectory, we think
+                               we'll be required to raise capital by second half of FY28, more towards Q3-Q4.
+
+
+Moderator:                     Ladies and gentlemen, we will take that as the last question for today. I now hand the conference
+                               back to management for closing comments. Over to you, sir.
+
+
+Rajiv Sabharwal:               Thank you very much. So, we are very excited about the quarter which just ended. It gave us
+                               strong growth across all segments of the business. The good part was that it was well diversified
+                               growth for us. We've seen the benefit of operating efficiency play out for us because of the
+                               investments which we have done on the tech and the AI side.
+
+
+                               Credit cost continues to hold very well. In fact, all our early bouncing tell us that there is no
+                               cause for worry. So, it's holding on very well for us. We've had a strong growth on profitability.
+                               So, all seems good. We are also excited about what's going to happen in the rest of the year, and
+                               we have a plan in place to manage the same.
+
+
+                               Obviously, there are certain regulatory things which we are watching out for. We will always be
+                               compliant with whatever regulation the regulator comes in, but we are also being proactive in
+                               terms of thinking through on what we need to do so that we can manage this whole change. So,
+                               I would want to thank all of you for all the support and want to wish all of you and your family
+                               a very happy Diwali as we end this call. Thank you very much.
+
+
+Moderator:                     Thank you. Ladies and gentlemen, on behalf of Tata Capital, that concludes this conference.
+                               Thank you for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+Note
+
+
+This transcript has been lightly edited for clarity and accuracy.
+
+
+Disclaimer
+
+
+This document is being furnished solely for your information and may not be reproduced or redistributed to any other person
+or used without the express consent of Tata Capital Ltd. (“Company”). The term “Company” shall include its subsidiaries
+unless repugnant to the context. This document only contains general information on the Company and does not purport to
+contain all the information. Forward looking statements contained herein regarding past trends or activities or future business
+plans, strategy, financial condition, growth prospects or developments in industry, competitive or regulatory environment
+should not be taken as a representation that such trends or activities will continue in the future. There is no obligation to update
+or revise any forward-looking statements. Actual results may differ materially from these forward-looking statements due to
+a number of factors. This document does not constitute a prospectus, offering circular or offering memorandum or an offer to
+acquire any securities or instruments and nothing in this document be construed as advice or solicitation to invest in the
+Company or any of its instruments or securities or otherwise. Neither the Company nor any of its affiliates, shareholders,
+directors, employees, agents or representatives makes any warranty or representation as to the completeness of the information
+contained herein (including statements of opinion and expectation) or as to the reasonableness of any assumptions contained
+herein and shall not be liable for any loss or damage (direct or indirect) suffered as a result of reliance upon any statements
+
+
+                                                        Page 18 of 19
+
+                                                                                                   Tata Capital Limited
+                                                                                                      October 27, 2026
+
+contained in, or any omission here-from. By viewing this document or by accepting any copy thereof or any part thereof, you
+agree to be bound by the foregoing terms.
+
+
+
+
+                                                    Page 19 of 19
+

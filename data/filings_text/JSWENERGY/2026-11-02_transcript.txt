@@ -1,0 +1,1051 @@
+                                                                                Energy Limited
+                                                                     Regd. Office : JSW Centre
+                                                                     Bandra Kurla Complex
+                                                                     Bandra (East), Mumbai - 400 051
+
+                                                                     CIN: L74999MH1994PLC077041
+                                                                     Phone: 022 – 4286 1000
+                                                                     Fax: 022 – 4286 3000
+                                                                     Website: www.jsw.in
+
+
+2nd November 2026
+SEC / JSWEL
+
+ BSE Limited                                   National Stock Exchange of India Limited
+ Phiroze Jeejeebhoy Towers                     Exchange Plaza
+ Dalal Street                                  Bandra - Kurla Complex, Bandra (East)
+ Mumbai - 400 001                              Mumbai - 400 051
+ Scrip Code: 533148                            Symbol: JSWENERGY- EQ
+
+Sub: Transcript of the Results Conference Call held on Wednesday, 28 th October 2026
+
+Ref: Regulations 30 and 46 of the Securities and Exchange Board of India (Listing
+     Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations)
+
+Dear Madam / Sir,
+
+Further to our letter dated 22nd October 2026 informing about the Results Conference Call
+scheduled on Wednesday, 28th October 2026, at 4.30 p.m. (IST), to discuss the Company’s
+unaudited Standalone and Consolidated Financial Results for the quarter ended
+30th September 2026, we wish to inform that pursuant to Regulation 30(6) read with Part A of
+Schedule III of the Listing Regulations, the transcript of the said Results Conference Call is
+enclosed.
+
+Further, pursuant to Regulation 46 of the Listing Regulations, the transcript is available on the
+website of the Company at https://www.jswenergy.in/investors/stock-exchange-releases.
+
+The audio recording is also available on the                 website    of    the    Company           at
+https://www.jswenergy.in/investors/quarterly-results/.
+
+Yours faithfully,
+
+For JSW Energy Limited
+           Digitally signed
+MONICA by MONICA
+       CHOPRA
+CHOPRA Date: 2026.11.02
+       18:26:05 +05'30'
+
+
+Monica Chopra
+Company Secretary
+
+
+
+
+Part of O. P. Jindal Group
+
+                “JSW Energy Limited
+         Q2 FY27 Earnings Conference Call”
+                   October 28, 2026
+
+
+
+
+MANAGEMENT: MR. SHARAD MAHENDRA – JOINT MANAGING
+            DIRECTOR AND CHIEF EXECUTIVE OFFICER
+            MR. CHANDRASEKARAN PRABHAKARAN – CHIEF
+            FINANCIAL OFFICER
+            MR. BIKASH CHOWDHURY– HEAD INVESTOR
+            RELATIONS AND ENTERPRISE RISK MANAGEMENT
+
+MODERATOR:   MR. ISHAN VERMA – ANTIQUE STOCK BROKING
+             LIMITED
+
+
+
+
+                        Page 1 of 16
+
+                                                                                             JSW Energy Limited
+                                                                                               October 28, 2026
+
+
+
+
+Moderator:         Ladies and gentlemen, good day, and welcome to the Q2 FY27 Earnings Call of JSW Energy
+                   hosted by Antique Stock Broking Limited. As a reminder, all participant lines will be in the
+                   listen-only mode and there will be an opportunity for you to ask questions after the presentation
+                   concludes. Should you need assistance during the conference call, please signal an operator by
+                   pressing star and then zero on your touchtone phone.
+
+
+                   I now hand the conference over to Mr. Ishan Verma from Antique Stock Broking Limited. Thank
+                   you, and over to you.
+
+
+Ishan Verma:       Thank you, Nisha. Good afternoon, everyone. On behalf of Antique Stock Broking, I welcome
+                   you all to the Q2 FY27 Results Conference Call of JSW Energy Limited. We have with us today
+                   from the management, Mr. Sharad Mahendra, Joint MD and CEO; Mr. Chandrasekaran
+                   Prabhakaran, CFO; and Mr. Bikash Choudhury, Head of Investor Relations and ERM.
+
+
+                   We will begin with the brief opening remarks from the management, followed by the Q&A
+                   session. Thank you, and over to you, Sharad, sir.
+
+
+Sharad Mahendra:   Thank you, Ishan. Good evening, everyone, and thank you for joining us for JSW Energy's Q2
+                   FY27 earnings call. I hope you and your families are keeping well.
+
+
+                   At the outset, let me start with the fact, that the fundamentals of our sector have never looked
+                   this stronger. If I were to sum up this quarter in one line, it would be this: the market is moving
+                   towards exactly what we have been building. Three themes defined the sector over the last three
+                   months. Demand kept beating expectations on the back of a strong economy, energy security
+                   moved to the centre of the national agenda, and procurement shifted decisively towards firm,
+                   reliable power. Let me take each of these in turn, and then show you how JSW Energy is
+                   positioned on each.
+
+
+                   The first is demand, and it rests on a resilient economy. India continues to be among the fastest-
+                   growing major economies in the world. Real GDP grew 7.8% year-on-year in Q1 FY27, and the
+                   RBI expects growth to remain robust at about 7.1% for FY27. High-frequency indicators point
+                   to sustained momentum: the Index of Industrial Production grew 8% year-on-year in August,
+                   PMIs rebounded in September to 55.1 for manufacturing and 55.2 for services, well within
+                   expansion territory, and GST collections rose about 7.7% year-on-year to ₹6.15 trillion in Q2
+                   FY27.
+
+
+                   This economic momentum is translating directly into electricity consumption. Power demand in
+                   Q2 FY27 grew about 11.1% year-on-year, building on 8.3% growth in Q1. September alone
+                   grew about 11.3%, with peak demand touching 270 GW in Q2FY27. The momentum
+                   strengthened further into October, with month-to-date demand growth of 21.2%.
+
+
+                   Part of this is weather, as monsoon was about 13% below normal in Q2FY27 and cooling
+                   demand stayed high well into the evening. But the larger drivers are structural and, in our view,
+                   durable: industrialisation, urbanisation, rising per capita consumption, and new sources of load
+                   such as data centres and electric mobility. These support our view of a 5–6% long-term CAGR
+                   in power demand, and the last two quarters suggest that view may prove conservative.
+
+
+                                            Page 2 of 16
+
+                                                                         JSW Energy Limited
+                                                                           October 28, 2026
+
+
+
+
+The second theme is energy security. The ongoing conflict in the Middle East has disrupted LNG
+and crude flows through the Strait of Hormuz, tightened global energy markets and pushed
+utilities across Asia back towards coal. For India, the priority is clear: secure, domestically
+sourced, dispatchable power, backed by a domestic manufacturing base, is no longer optional.
+It is a strategic necessity.
+
+
+The sharp rise in imported coal prices has significantly impacted fuel costs across the sector.
+API4 benchmark coal prices averaged close to US$115 per tonne in Q2 FY27, up around 28%
+year-on-year from US$90 per tonne. Despite this increase, our transition to domestic coal and
+the implementation of job-work arrangements at imported-coal plants, which shield us from
+fuel-price volatility, have enabled us to effectively mitigate the impact and maintain cost
+competitiveness.
+
+
+Domestic supply has also tightened. Coal stocks at power plants fell to multi-year lows, and in
+October around 96 plants were classified as critical, holding an average of 6–7 days of stock
+against the normative 19–20 days.
+
+
+Tight fuel supply, coupled with robust demand, flowed directly through to the power exchanges.
+Day-Ahead Market prices averaged ₹5.7 per unit in Q2 FY27. Our merchant realisation,
+however, stood around ₹6.9 per unit which was around 20% higher than the DAM average,
+driven by the strategic bilateral contracts we have entered into.
+
+
+The third theme is the shift towards firm power. On the supply side, capacity addition continues
+at a record pace. India added about 23.9 GW of renewables in the first half of FY27, including
+20.8 GW of solar, taking non-fossil capacity past 300 GW. On the thermal side, about 3.3 GW
+was net commissioned in H1, with about 39 GW under construction.
+
+
+But the more telling signal is in the bidding. Renewables still dominate new capacity additions,
+yet procurement is shifting decisively towards firm and dispatchable capacity: FDRE, solar-
+plus-storage, standalone batteries and, notably, long-term thermal. States awarded around 17
+GW of long-term thermal capacity at tariffs of about ₹5.4 to ₹6.3 per unit in FY26, and a further
+18 GW of thermal tenders are currently under bidding. To us, the conclusion is simple.
+Renewables and thermal are not competing; they are complementary. Renewables deliver the
+cheapest energy, while thermal and storage keep the lights on through the evening peak.
+
+
+Let me now connect each of these three themes, demand, energy security and firm power, to
+what we executed this quarter.
+
+
+Since April, we have commissioned 1.4 GW of organic renewable capacity as compared to last
+full year’s approximately 1.2 GW. This is also nearly half of our FY27 target of 3 GW. In Q2,
+we added 513 MW, comprising 301 MW of solar and 212 MW of hybrid capacity. Including the
+300 MW Maruti thermal acquisition, total capacity additions since April stand at 1.7 GW, taking
+our installed capacity above 15.1 GW, with renewables accounting for approximately 61% of
+the portfolio.
+
+
+
+
+                           Page 3 of 16
+
+                                                                        JSW Energy Limited
+                                                                          October 28, 2026
+
+On the remaining 1.6 GW, we are fully on track. Land and transmission connectivity are secured,
+equipment is either on site or in transit, and offtake is backed by long-term PPAs. The pipeline
+is substantially de-risked, and we are confident of achieving our 3 GW commissioning target for
+FY27, supported by planned capex of around ₹20,000 crore. Further, on our energy storage
+pursuits, we expect to commission about 1 GWh of projects in FY27.
+
+
+We are also enthused by the sizeable C&I opportunity in the market, and particularly by the
+opportunity within our own Group as its companies pursue ambitious growth plans. Our installed
+C&I portfolio, including group captive, stands at 3.7 GW, about 25% of our total operating
+capacity. We expect it to grow to over 8.5 GW by 2030, with Group companies contributing a
+large share.
+
+
+JSW Energy has long been the energy partner of choice for the JSW Group, meeting around 3
+GW of round-the-clock thermal and renewable power demand across Group companies. That
+partnership has the potential to have a significant step-up. With JSW Steel planning to expand
+capacity to up to 80 MTPA, and other Group businesses scaling rapidly, the Group’s RTC power
+requirement is expected to more than double to around 7 GW by 2032. A substantial share of
+this will be met through green energy, in line with the Group’s decarbonisation ambitions.
+
+
+We have already laid the groundwork to capture this demand. Of the 6.2 GW of MoUs signed
+with Group companies in Q2FY24, 4.5 GW is yet to be tied up, and 2 GW of this is under
+advanced discussion. This represents a large, visible and high-quality growth pipeline. JSW
+Energy is well positioned to serve as an integrated energy partner to the Group and to the wider
+industrial market, delivering reliable, round-the-clock and increasingly green power at scale.
+This will add a strong layer of long-term, assured demand to our growth trajectory.
+
+
+Looking further ahead, our locked-in pipeline gives us clear line of sight to our 30 GW target
+for 2030, and our growth runway extends well beyond it. Multiple drivers support our growth
+beyond 2030: the Salboni thermal project; the 920 MW Punatsangchhu-III hydro project, our
+first cross-border generation venture, being developed in partnership with Druk Green Power
+Corporation, Bhutan’s state-owned utility; and further thermal & C&I opportunities. Meanwhile,
+our sizeable pumped storage pipeline of about 26.4 GWh remains on track.
+
+
+Moving ahead, As the market pays more for firm power, we have strengthened our thermal
+platform in two ways.
+
+
+First, by buying value. We completed the acquisition of Maruti Clean Coal & Power in August
+at an enterprise value of ₹1,410 crore. It is EBITDA and PAT accretive from day one and lowers
+our net leverage. About 195 MW (net) is tied up under a long-term PPA with Rajasthan discoms
+with around 14 years of residual life, while about 64 MW gives us merchant exposure at a time
+of strong prices. In Q2, this plant generated about ₹45 crore of EBITDA in just 55 days, from
+our acquisition on August 6th to the end of the quarter.
+
+
+Second, by building at low cost. At Salboni, Turbine Generator orders for all four 800 MW units,
+totalling 3,200 MW, are now in place, with the Phase II turbines ordered from Toshiba JSW in
+September. Site work on Phase I is progressing well, and the first unit is expected by 2030. At
+KSK, the 600 MW fourth unit remains on track for FY28, and the balance 1,200 MW by FY29.
+
+
+
+                        Page 4 of 16
+
+                                                                           JSW Energy Limited
+                                                                             October 28, 2026
+
+On fuel, our continued shift to domestic coal has insulated us from the rise in imported prices,
+as I said earlier. Recently acquired Maruti Thermal Plant is also fully domestically fuelled,
+through a long-term Fuel Supply Agreement with SECL and linkage under the SHAKTI scheme.
+
+
+Coming on to our thermal growth ambition, as you know, we raised our stake in Toshiba JSW
+Power Systems to 10.7% in July. The scheme to acquire GE Power India's boiler business,
+including its Durgapur manufacturing facility, received NCLT sanction on October 1st, and the
+transaction should close soon. We have placed the boiler order for the entire Salboni project with
+the Durgapur facility, which sits in the same state as the project. With turbines from Toshiba
+JSW and boilers from our own facility, we now control the critical path of our thermal build-
+out, at one of the lowest capital costs in the industry and on one of the shortest timelines.
+
+
+The same logic applies to renewables. Our Halol wind blade facility has been producing blades
+for our wind projects since its commissioning in June, and the Chitradurga facility remains on
+track for completion in Q3 FY27.
+
+
+Further, I am also pleased to share that ICRA and India Ratings have affirmed JSW Energy's
+long-term credit rating at AA with a Stable outlook. This recognises our larger and more
+diversified operating base, our high share of contracted capacity, and the deleveraging we
+delivered through the ₹10,150 crore capital unlocking in this calendar year. A stronger rating
+directly helps contain our cost of capital as we fund our ongoing leg of growth.
+
+
+I’d also like to address curtailment, an issue the sector as a whole is grappling with. Curtailment
+across our portfolio stood at about 4.8% of total generation in H1, below the national level
+curtailment of about 5.4%. In Q2, our curtailed units stood at ~225 MUs with a Revenue impact
+of Rupees 59 Crores. Further, about 60% of our curtailed capacity currently on temporary GNA
+will move to permanent GNA by the end of Q3 FY27, which should reduce our exposure
+meaningfully.
+
+
+Our growing renewable portfolio also helped us avoid about 13 million tonnes of CO₂ emissions
+in H1 FY27 and about 8.4 million tonnes in Q2 FY27, based on the prevailing Indian grid
+emission factor.
+
+
+Coming to our Q2 operational performance.
+
+
+Net generation for Q2 FY27 increased by 17% year-on-year to 17.5 billion units, driven by
+robust capacity addition and healthy plant performance.
+
+
+On hydro, the monsoon was weaker this year, and All-India hydro generation declined about
+15% year-on-year in Q2. Our plants held up well against this backdrop, helped by their location
+in the Sutlej and Ravi basins, which outperformed the national trend. In the Sutlej basin,
+Karcham Wangtoo and Baspa did broadly comparable to the basin, operating at consolidated
+PLF of about 90%. In the Ravi basin, where generation rose about 14%, Kutehr more than
+doubled its generation to about 408 million units in its first full monsoon season, at a PLF of
+about 78%. Our Tidong plant, which was commissioned in Q1FY27 before the scheduled
+timeline of October 2026, gave us a healthy advantage of ongoing hydro season – the plant
+generated 199 MUs in Q2FY27 at a PLF of 61%. Overall, driven by incremental generation from
+Kutehr and Tidong, our hydro generation was 3,421 million units, up 13% year-on-year.
+
+
+                         Page 5 of 16
+
+                                                                             JSW Energy Limited
+                                                                               October 28, 2026
+
+
+
+
+On thermal, generation was 8.9 billion units, up 13% year-on-year, including 321 million units
+from the newly acquired Maruti plant. Our consolidated thermal PLF was 75% in Q2, against
+the All-India thermal PLF of 67.8%. Mahanadi operated at 90% PLF, and Utkal continued stable
+supply under its PPAs with Karnataka and Assam, at a PLF of 82%. Utkal had an exceptional
+quarter, now that it operates under long-term PPAs. Plant EBITDA more than tripled year-on-
+year to ₹368 crore in Q2 FY27, and grew over 60% YoY in H1 FY27. This was driven by
+significantly better plant performance and by PPA realisations well above the DAM prices at
+which the plant’s power was sold a year ago.
+
+
+On renewables, All-India generation grew about 11% year-on-year for wind and about 39% for
+solar in Q2, driven largely by capacity additions, with All-India PLFs of about 37% for wind
+and 18% for solar. Our wind and solar portfolios operated at PLFs of 46% and 19% respectively,
+and generation was up 25% for wind and 36% for solar, supported by a year-on-year capacity
+increase of ~1.5 GW.
+
+
+Turning to our financials, many of which you will already be familiar with from the pre-call
+materials. Backed by robust capacity addition and healthy plant performance, revenue for the
+quarter was ₹6,658 crore, up 24% year-on-year, and EBITDA was ₹3,907 crore, up 23% year-
+on-year.
+
+
+With year-on-year capacity addition of ~1.9 GW and new assets being capitalised, depreciation
+rose 17% to ₹943 crore, and finance costs rose 14% to ₹1,615 crore, in line with the pace of
+capacity we are adding. Further, I’m sure many of you have questions about the potential
+increase in interest rate due to the recent actions by RBI and the inflationary expectations, and
+what they could mean for our bottom line. Our debt book is well insulated. Close to a quarter of
+our term debt is at fixed rates, and nearly 90% of the floating portion is linked to lenders’ internal
+benchmarks like MCLR, rather than Repo or other market linked instruments like Treasury-bills
+etc. Historically, we have seen that MCLRs tend to lag and not increase in the same quantum as
+that of Repo. We also actively and progressively keep pursuing refinancing as our projects reach
+commissioning and build operating track records. With that lever of refinancing still available
+and lag in MCLR reset, we do not see any immediate rise in debt cost, and may be only a modest
+impact, in the medium term, if the interest rates hikes continues.
+
+
+Additionally, as you can see in our presentation, our Debt cost has come down significantly by
+about 51 bps to 8.28%, from about 8.79%, a year back.
+
+
+Profit After Tax was ₹1,141 crore, up 38% year-on-year, and PAT attributable to shareholders
+was ₹1,056 crore, up 50% YoY.
+
+
+Excluding debt tied to capital work-in-progress, our Net Debt to TTM EBITDA stands at about
+4.94 times, down from about 5.2 times in FY26. We hold cash and cash equivalents of about
+₹15,700 crore, and our cash return on net worth, adjusted for our JSW Steel shareholding, stands
+at about 15%.
+
+
+
+
+                         Page 6 of 16
+
+                                                                                             JSW Energy Limited
+                                                                                               October 28, 2026
+
+                   Let me return to where I started. The economy is growing strongly, and power demand is
+                   growing even faster. Energy security is now national policy, and the market is rewarding firm,
+                   reliable power.
+
+
+                   JSW Energy is well positioned on each of these fronts. We have a portfolio diversified across
+                   modes such as Thermal, Hydro, Wind and Solar, backed by an increasingly integrated supply
+                   chain. We have a clear record of delivery, with 1.4 GW commissioned this year and full visibility
+                   on the next 1.6 GW. Our locked-in pipeline underwrites the next phase of growth, and a healthy
+                   balance sheet gives us the headroom to fund it.
+
+
+                   Overall, we enter the second half of the year with confidence and momentum.
+
+
+                   As we approach Diwali, I would also like to extend warm wishes to all of you and your families
+                   for a joyous festive season and a prosperous year ahead. Thank you, and we look forward to
+                   your questions.
+
+
+Moderator:         Thank you very much. We will now begin the question-and-answer session. The first question
+                   is from the line of Mohit Kumar from ICICI Securities.
+
+
+Mohit Kumar:       Congratulations on a very, very good set of results. My first question is on the JSW Mahanadi
+                   PPA. If I see your slides, I think you are talking about a PPA which you may be exploring. My
+                   question is, are you looking at the utility kind of PPA? I'm asking the question because most of
+                   the DISCOM PPAs are coming with the condition that you have to set up the capacity within
+                   the state. And we haven't heard anything about Chhattisgarh floating those kind of PPAs, yes.
+
+
+Sharad Mahendra:   Yes, Mohit, thank you. See, I think when you are talking of Mahanadi, you are talking of the
+                   PPAs for the upcoming capacities is what we believe?
+
+
+Mohit Kumar:       Yes. Yes.
+
+
+Sharad Mahendra:   Okay. See, yes, definitely, the project work has started, as we have said that the first unit is
+                   expected to be commissioned in FY28 and balance two Units in FY29. And the way the demand
+                   scenario and the requirements which are coming in for the firm and reliable power, we are
+                   definite about new PPAs coming; there are many DISCOMs who are looking for a firm power
+                   supply for a PPA. So we don't see that as a challenge going forward.
+
+
+                   Of course, when you talk of Chhattisgarh, it is only that the 5%, which is the free power, that is
+                   the commitment which is there for them available. But yes, we continue to explore the possibility
+                   of what should be the strategy, which states we have to go for, etc. But yes, going forward, we
+                   will definitely be going for the Power purchase agreements.
+
+
+                   That said, we fortunately have time on our side to take this decision. If the evening-peak trend
+                   continues, with demand rising the way it has been and the same growth drivers in play, we may
+                   also look at keeping part of the capacity open for merchant sales.
+
+
+                   But principally, as we said that we will be focusing on the long-term power purchase agreement
+                   and that stance remains as it is. The advantage is that this plant being close to the coal mine has
+                   a low fuel cost, and hence the opportunity to take advantage, maybe a part of this capacity may
+                   be kept in the merchant market also with short-term contracts. So we will take a call at the right
+
+                                            Page 7 of 16
+
+                                                                                             JSW Energy Limited
+                                                                                               October 28, 2026
+
+                   time, but we are confident that selling this capacity will not be a problem because of the low fuel
+                   cost being close to the mine.
+
+
+Mohit Kumar:       Understood. My second question is what explains the strong EBITDA for Utkal on a QoQ basis?
+                   I think QoQ, there is a sharp jump. Was there any one-off during the quarter?
+
+
+Sharad Mahendra:   Maybe I'll request Mr. Prabhakaran, to take up the question
+
+
+C. Prabhakaran:    Mohit if you see the last quarter, I think we are selling most of the capacities in the short-term.
+                   We all were in the merchant. Now from April onwards, as you are aware, that we have kind of
+                   secured this long-term PPA with Karnataka and also the Assam. So I think We are realizing
+                   better prices from these assets, which continues to support the earnings and profitability of the
+                   overall Utkal portfolio.
+
+
+Mohit Kumar:       But the jump is a high on a QoQ basis, last Q1 FY27. Last quarter, I think...
+
+
+C. Prabhakaran:    As you are aware, we had a robust plant performance and we are at about close to 82% of PLF
+                   this year this quarter. Wherein we had certain kind of operational issues, outages in the last
+                   quarter. So the performance of the plant have completely kind of improved as compared to the
+                   last quarter. And that's why you see this improved performance in this quarter.
+
+
+Sharad Mahendra:   And also to add, Mohit, what C.P. just said is as compared to Q1, quarter-on-quarter when we
+                   compare because the plant availability was slightly lower than what it was in quarter 2, though
+                   it was not impacting our fixed cost recovery under the Power purchase agreement with
+                   Karnataka, but the opportunity to sell in the merchant market was limited.
+
+
+                   So, the opportunity where we were able to get with the better plant performance in quarter 2 as
+                   compared to quarter 1 gave us the opportunity for a better financials through the merchant, which
+                   was additional for us.
+
+
+Moderator:         The next question is from the line of Sumit Kishore from Axis Capital.
+
+
+Sumit Kishore:     My compliments on a strong quarterly performance and project execution. My first question is
+                   in relation to your portfolio target of 30 GW by 2030, close to 3.7 GW of C&I renewable and
+                   our utility capacity of 7-odd GW is there.
+
+
+                   What is the stage of sort of readiness in terms of transmission evacuation and land for these
+                   projects to be commissioned over the next 3-4 years. And after you commissioned 3 GW of RE
+                   this fiscal, given the challenges in the sector, how should we think about the phaseout of capacity
+                   addition through 2030 on renew?
+
+
+Sharad Mahendra:   Yes, Sumit, thank you. I think this is a very, very valid question related to the sector, not only
+                   for JSW Energy. Yes, 3 GW current year and next year, we have given the guidance that maybe
+                   2.5 GW- 3 GW every year, that is on track. And our capacity addition beyond current year, say,
+                   for FY28 or beyond is basically we have divided our planned addition into three categories.
+
+
+                   One is that the off-grid, which is the group captive requirement under the C&I, wherein my
+                   dependence on the grid or the grid curtailment, I'm insulated from that. That is a significant
+
+
+
+
+                                              Page 8 of 16
+
+                                                                                               JSW Energy Limited
+                                                                                                 October 28, 2026
+
+                   capacity, which is going to be there, and getting added every year. Second is intra-state
+                   connectivity, which is the STU connectivity within the state and through the STU network.
+
+
+                   And third, which we have to remember is that when we talk of curtailment, we all know that we
+                   have a significant advantage of diversified locations across the country. And the curtailment,
+                   which we talk of, majorly the curtailment is in a particular region like Gujarat and Rajasthan
+                   sector on the northern grid.
+
+
+                   There, we have limited capacities and whatever curtailment we have faced is in this corridor
+                   only, our three projects, out of which 2, as I said in my opening remarks, are going to get the
+                   grid network access when the new capacity is coming up for the grid power evacuation by this
+                   quarter end.
+
+
+                   So I think what we have planned, after evaluating what are the challenges which are coming in,
+                   our planning is insulated from any curtailment challenges. Wherever the challenges are, it is the
+                   Battery energy storage, which is going to play a key role. It will be a solar coupled with battery
+                   energy storage, assuming that there can be some curtailment, then we will get the opportunity to
+                   sell the power in the evening peaks.
+
+
+                   So keeping that thing in mind, we are absolutely certain that there will be no obstacle or hurdle
+                   in achieving our annual plan of whatever, 2.5 GW to 3 GW capacity addition every year, wherein
+                   wherever required, battery energy storage is going to be to play a major role. So that capacity
+                   addition is sacrosanct. It is going to be there.
+
+
+Sumit Kishore:     Sure. You spoke on reliable power being the future and on battery energy storage system, a
+                   couple of your peers in the sector have moved a bit faster, and they are even dabbling with the
+                   time shift arbitrage by selling that power in the evening. So your BESS plans as per portfolio is
+                   3.2 GWh.
+
+
+                   I mean how should we think about your BESS investments over this 4-year period? I mean,
+                   definitely, are you going to limit yourself to just this or it seems to be a much bigger opportunity.
+                   How do you think the arbitrage opportunity is going to fare over the next 3-4 years? Is it going
+                   to go away? Or how will it sort of play out?
+
+
+Sharad Mahendra:   Right. Sumit, if you compare that maybe someone else has moved faster, we have to see the
+                   difference in the model. I am getting the curtailment for which I have the plants which are
+                   commissioned and have a firm power purchase agreement, which may get started the moment
+                   the connectivity comes, maybe it can be 6 months or 1 year.
+
+
+                   Maybe the others who are doing this are having a large capacity commissioned with no power
+                   purchase agreement, which is there in sight. And it is basically - I see that as a cost which has
+                   been already the money which has been invested and not giving the desired returns.
+
+
+                   To protect that, I will not say a sunk cost, but to protect that losses, it is better keeping in mind
+                   the evening peak, what the prices which are being discovered in the demand. This is a very good
+                   step which has been taken. For us, this curtailment is a very, very temporary phenomenon. But
+                   yes, we also, as I told you, like what we are doing is we applied about 8 months back for evening
+
+
+
+
+                                             Page 9 of 16
+
+                                                                                              JSW Energy Limited
+                                                                                                October 28, 2026
+
+                   connectivity for our solar plants, which are already commissioned. We are also going to set up
+                   in the coming year.
+
+
+                   Now we are going to start the project work, wherein we will be setting a solar capacity for
+                   charging the batteries and only using our existing connectivity for solar, which we have got the
+                   sanction allocation for the evening discharge through the battery.
+
+
+                   So we are also working on, and we will be definitely commissioning at this BESS capacity, as
+                   you said, all this is over and above that 3.2 GWh. This is a dynamic situation, but we are working
+                   on this, and we definitely will be participating by setting up such model of projects and taking
+                   advantage of the evening peaks.
+
+
+Moderator:         The next question is from the line of Atul Tiwari from JPM.
+
+
+Atul Tiwari:       Congratulations on a strong set of numbers. Sir, my question is on the merchant sale in the
+                   quarter. You did mention ₹ 6.9/KWh realization. Would it be possible to share how many units
+                   were sold in the merchant in the quarter?
+
+
+Sharad Mahendra:   We have shared that in the slide. It is 1.1 BUs, which we have sold during the quarter, 1.1 BUs.
+                   If you see in the presentation, Slide number 6.
+
+
+Atul Tiwari:       Okay. And sir, is this phase continuing in the third quarter? Do your bilateral contracts extend
+                   well into third quarter and the fourth quarter? What is the duration of those contracts, etcetera?
+                   Any color?
+
+
+Sharad Mahendra:   Yes. Definitely, third quarter is fully booked. And maybe I'll not comment on the pricing, but
+                   the pricing discovered may be either same or better than this, not lower than these for quarter 3.
+                   And now the discussions are on for quarter 4. Normally, it is 2-2.5 months back before this
+                   planning start. There are discussions going on even for quarter 4, but quarter 3 is fully booked.
+
+
+Atul Tiwari:       Okay, sir. And sir, on the fixed rate debt, you said 25% of the debt is at a fixed rate. So what
+                   will be the tenure of these fixed rates? Is it for the duration of the life of the debt or only for
+                   some time?
+
+
+Sharad Mahendra:   Prabhakaran, please.
+
+
+C. Prabhakaran:    Yes. I think if you look at it, of this 25% fixed rate loans, we are saying that about close to 15%,
+                   which is forex linked one, where it is fully kind of hedged both on the interest rates and also on
+                   the FX. So I think that is in the range of about close to 5-6 years, is the kind of the tenure that
+                   we have. And on the balance are NCDs where that is also kind of about close to 4 to 5 years. So
+                   we are talking about on the 25% of fixed, the tenor approximately between 5 to 6 years.
+
+
+Moderator:         The next question is from the line of Vishal from PL Capital.
+
+
+Vishal:            Sir, regarding the BESS, I think one of your slides talks about we'll be commissioning 1 GWh
+                   of BESS in FY27. So is this BESS, I mean, linked with the PPA capacity that we have? Or are
+                   we preponing some of the BESS and we sell it in merchant? How one should look at this?
+
+
+
+
+                                           Page 10 of 16
+
+                                                                                            JSW Energy Limited
+                                                                                              October 28, 2026
+
+Sharad Mahendra:   Yes. see, this is all is the ESA capacity, which are going to be under the ESA. And these are
+                   majorly in two states, which is Rajasthan and the state of Kerala.
+
+
+Sharad Mahendra:   And, to reiterate, These are all standalone BESS. Any investment in solar is not there.
+
+
+Vishal:            Okay. Got it, sir. And just a clarification, by FY30, we are planning to have 30 GW of capacity.
+                   That's our base case. But in one of your slides, which is slide I think at the back, the numbers
+                   are not there. Slide 39, where we have given a breakup of our capacity renewable under
+                   construction and MOU base. So that totals to almost like 27 GW.
+
+
+                   And similarly, we have done the same for thermal-based capacity, which is 11 GW of capacity,
+                   which is coming to, say, under construction and operational. So that this totals almost like 37-
+                   38 GW of capacity. So I mean, is this a pipeline that we have.
+
+
+Sharad Mahendra:   Yes, this is a pipeline and MoUs,- because if you see when we say 30 GW, we all know that the
+                   full work is going on, and we have signed 3.2 GW of Power purchase agreement with the state
+                   of West Bengal and setting up a greenfield plant in Salboni. Out of that, 30 GW contains only
+                   800 MW of phase I, balance all 2.4 GW is beyond 30.
+
+
+                   And then as I told in my remarks opening statements also that the group captive requirements
+                   are going to go beyond 2030 also when the capacity plans of JSW Steel, which they have
+                   announced now, the growth plan. So all those things are the pipelines, which are beyond 30 GW
+                   and beyond 2030.
+
+
+Vishal:            Okay. Okay. And maybe one last question. Regarding the renewable capacity under construction
+                   capacity of almost like 10.4 GW what sort of PPA that we have right now out of this number?
+
+
+Sharad Mahendra:   See, we are doing this all which is there under construction or at various stages of construction
+                   project execution is all under PPA, which is basically with utilities, with C&I customers and
+                   group captive. So, it is all under the PPA.
+
+
+                   We are not investing anything or setting up any capacity till now for a merchant, of course, as I
+                   said some time back to answering one of the questions that going forward, seeing the evening
+                   peak opportunity putting up some solar capacity with battery and only for evening peak sale
+                   through battery discharge is something which may get added. But right now, it is all under a
+                   PPA, which is out of it 2 GW is under group captive which are under discussion and that is going
+                   to get closed now.
+
+
+Vishal:            Sure, sure. And in group captive, when we are doing any PPA, so I mean, any threshold IRR
+                   that we work or I mean, like ROE framework that we have when we put this arrangement?
+
+
+Sharad Mahendra:   See, as we have been saying, for any PPAs or projects, our benchmark returns are mid- to mid-
+                   teen IRRs. It has to meet that criteria and then only we sign. So that statement remains. All our
+                   projects definitely have to be minimum mid-teen IRRs. And that has got in the group captive
+                   also we have.
+
+
+Vishal:            Sure, sir. I think this explains a lot of query, sir.
+
+
+Moderator:         The next question is from the line of Dhruv Muchhal from HDFC AMC.
+
+
+                                             Page 11 of 16
+
+                                                                                                JSW Energy Limited
+                                                                                                  October 28, 2026
+
+Dhruv Muchhal:     Sir, you have shifted the KSK Mahanadi 1,200 MW from pipeline to under construction. Does
+                   it mean that you have placed the equipment order? And also you're guiding the unit to
+                   commission by FY29. Although it's brownfield, it's a 3-year commissioning that you're
+                   targeting. I mean, I'm just trying to understand, is this optimistic because generally, what we see
+                   is 4-5 years, even for brownfield?
+
+
+Sharad Mahendra:   Yes, One is that the equipment orders have been placed already, and we don't see any uncertainty
+                   because, it's a local procurement only, and it is absolutely in within the time lines. And second
+                   is the 3-year time line when you see, we have to compare with a greenfield plant, which takes
+                   normally 4.5- 5 years.
+
+
+                   Here, there is a lot of common infrastructure in the plant - a lot of balance of plant areas are fully
+                   ready to handle 3.6 GW, whether it related to coal handling plant, whether it is related to ash
+                   handling plant, the railway infrastructure for coal transportation or whether it is the transmission
+                   network. That all is already ready when we acquired for 3.6 GW. So this gives us a confidence
+                   of doing in 3 years, we don't see that as a challenge.
+
+
+Dhruv Muchhal:     Got it, sure. And sir, you have also now included group captive under advanced discussion of 2
+                   GWs, specifically you are mentioning this. I mean how should we consider this? This happens
+                   within the next 3 months, 6 months and commissioning in 2 years? Or I mean, I'm asking because
+                   this is not specifically included, so probably there is a better time line now.
+
+
+Sharad Mahendra:   Yes. The thing is, as I said, that we have a clear visibility of 30 GW till FY30. Now our group
+                   company, as we said that they have also announced a huge expansion capacity additions,
+                   greenfield and brownfield both, the requirements are going to be significantly high, from the
+                   current levels of power requirement.
+
+
+                   This will go beyond 2030. So when we say 30 GW, beyond that, the momentum will continue
+                   maybe at least next 3 to 5 years, then that time, our major focus is going to be the thermal
+                   capacity and the RE capacity under the C&I and the group captive is going to be our focus
+                   beyond the current 30 GW plan, which we have.
+
+
+Dhruv Muchhal:     Got it. Sure. And sir, even in the solar and wind and hybrid space, the under construction pipeline
+                   space, we see a Q-o-Q increase in the pipeline. And if I just check, most of the increase is coming
+                   from the C&I line item in hybrid or wind or solar. And I believe these are third-party C&I
+                   because otherwise, you classify them as group captive. So are you looking for more and more
+                   C&I kind of contracts and this is the nature of customers that you're tapping?
+
+
+Sharad Mahendra:   Yes, yes. That is our focus area now for maybe two, three reasons. One is that, of course, there
+                   is a complete energy transition even at the industry level also, everyone has the RPO obligations
+                   to meet by 2030. Everyone is looking for a certain percentage of green power. So we see this as
+                   a big opportunity. And in terms of pricing and returns also, we find this more attractive because
+                   for the buyer also, this is a replacement cost benefit. So it's a win-win for both.
+
+
+                   And we are executing and like maybe in this quarter, the quarter gone by, we have commissioned
+                   the capacity for the cement company. We are doing more and maybe within this H2 of current
+                   year, the likes of Amazon and others, we are going to commission the capacities and the data
+
+
+
+
+                                            Page 12 of 16
+
+                                                                                                 JSW Energy Limited
+                                                                                                   October 28, 2026
+
+                   center opportunities which expect, going forward coming, we are in discussions with various
+                   organizations.
+
+
+                   So of course, yes, C&I, group captive, as I said, hydro pump storage and thermal. These are the
+                   four pillars which are going to be there beyond 2030 visibility, which is there today in terms of
+                   bifurcation.
+
+
+Dhruv Muchhal:     Got it. Sure, sir. And so the next thing is on KSK, if I look at the EBITDA, does this number ₹
+                   650 crores reflect the run rate now? I mean, I believe there was a tariff adjustment which was
+                   pending. So does this reflect it and this can be considered as a reasonable run rate or there should
+                   be some adjustment to this because there is a dip Y-o-Y, Q-o-Q.
+
+
+C. Prabhakaran:    No, I think this kind of run rate EBITDA should be the base basically. I think that's how we
+                   should look at it.
+
+
+Dhruv Muchhal:     I mean this considers the adjustment to the tariff which has happened now. This is after the tariff
+                   adjustment.
+
+
+Sharad Mahendra:   Yes. this is post adjustment to tariff.
+
+
+C. Prabhakaran:    Ther is also close to 100-115 MWs, which is being sold in the merchant market, which is also
+                   part of this.
+
+
+Dhruv Muchhal:     Sure. Got it. And sir, just last thing, probably a suggestion. Now we will see more and more
+                   renewable capacity ramping up for you in terms of commissioning. But for us, there is no way
+                   to understand what -- I mean, what economics they are coming at. Generally, what we see is we
+                   get either the gross block or the depreciation and the EBITDA run rate.
+
+
+                   So you're able to map out at least independently calculate what is the run rate or what is the
+                   economics of these new projects. And given this will be more and more of your portfolio, it will
+                   help if you start disclosing those numbers. Otherwise, I mean, making sense of the numbers
+                   becomes a bit difficult. So that was a suggestion.
+
+
+Sharad Mahendra:   Yes, We will take that.
+
+
+Sharad Mahendra:   We are making a lot of that and how we can address this.
+
+
+Moderator:         The next question is from the line of Abhineet Anand from BNP Paribas.
+
+
+Abhineet Anand:    Yes. Just two questions. One, I think on merchant, you specified ₹ 6.9 per unit for this quarter.
+                   And you said that 3Q is at similar rate, right?
+
+
+Sharad Mahendra:   Similar or slightly better. It will not be lower than this. It will be better than this.
+
+
+Abhineet Anand:    If you can help me with the net merchant capacity in the three plants that you have, which is
+                   KSK, Utkal and Maruti?
+
+
+Sharad Mahendra:   If you see what we have sold in long-term and short-term through the merchant, which is 1.1
+                   billion unit, it is almost 7% in energy terms. In capacity terms, it's about 4%.
+
+
+
+                                             Page 13 of 16
+
+                                                                                              JSW Energy Limited
+                                                                                                October 28, 2026
+
+C. Prabhakaran:    Yes, about 4%.
+
+
+Abhineet Anand:    Okay. Second, on 75% of debt book, when you said of the floating rate MCLR, but that does go
+                   in sync with a lag, I understand. But let's assume we have a 25 basis point increase, another 50
+                   comes up. your rate, which is at 8.3% currently, does it go to 9% for F '28 if the overall rate hike
+                   in India happens by 75 basis points?
+
+
+C. Prabhakaran:    So normally, if you look at the last 1 year when the RBI kind of decreased the repo rate - even
+                   though the RBI repo kind of decreased by about 100 bps, the actual transmission which happened
+                   was only about 50 basis points. And in some of the banks, it was even lesser about 30 bps
+                   transmission.
+
+
+                   So, overall, I think what I was kind of referring to was even though the repo kind of decreased
+                   in the last 1 year to close to 100 bps, the actual transmission was not more than about 50 bps. So
+                   I think similarly, if you look at it, even assuming that, say, for example, another 75 happens, we
+                   are kind of foreseeing that basically not more than, say, 40 bps kind of should kind of translate.
+
+
+                   So if you look at it from a 40 bps and 75% of it, it kind of looks like you're looking more like a
+                   30 bps kind of a number increase. So with 8.28% and 30 bps, it should be 8.58%. But we are
+                   closely working with the banks and others to kind of refinance some of this. And I think at this
+                   point in time, we'll kind of look at not more than 8.50% is what we can look at.
+
+
+Abhineet Anand:    Okay. And does this impact any new projects that you would have taken at a certain IRR?
+
+
+Sharad Mahendra:   No, it will not. See, the thing is the new projects, as we have been stating earlier, we make a
+                   conservative assumption of 9% for the full project life.
+
+
+Sharad Mahendra:   For the life of the project for 25 years. So we don't see any impact if it goes beyond 9%, it may,
+                   but we don't see any impact on our ongoing projects, even with the increase from a current level
+                   of 8.28% to 8.5%, we don't see any impact.
+
+
+Moderator:         The next question is from the line of Bharanidhar from Avendus.
+
+
+Bharanidhar:       Yes. So my first question is on the merchant capacity. Could you refresh regarding the capacity
+                   of the total merchant opportunity we have plant-wise, like how much it is from Utkal, how much
+                   it is in Vijayanagar like that?
+
+
+Sharad Mahendra:   See, plant-wise, maybe we can give the numbers. You can note down - KSK, we have close to
+                   90 MWs. Ratnagiri, we have close to 95 MWs, Utkal, about 60 MWs; Maruti 64 MWs. So we
+                   have to remember that these are the capacities which are available for merchant and all are in
+                   thermal. Even beyond this, when there are backdowns, at times, it happens that there are
+                   backdowns, we get the opportunity to sell the same incremental quantum in the merchant.
+
+
+                   We have to remember one thing that this in capacity, as we have been saying, it is around close
+                   to 4% of our total portfolio is under merchant open capacity, but all being thermal and the overall
+                   portfolio is a mix of hydro, renewable and thermal. In energy terms, as you can see in the
+                   presentation, which has been shared to you, selling 1.1 billion units we have sold in merchant,
+                   which is close to 7% of our total energy sold in the market.
+
+
+
+                                            Page 14 of 16
+
+                                                                                              JSW Energy Limited
+                                                                                                October 28, 2026
+
+Bharanidhar:       And that would be because of contribution from these -- outside these four capacities that you
+                   mentioned is also adding to that volumes? Sorry, what I meant to ask was you mentioned 4
+                   capacities totaling 300-MW selling in merchant. So you're telling the number of units wise, it's
+                   7% because volume.
+
+
+Sharad Mahendra:   Yes. Actually, when we say that the backdown opportunities majorly are coming from these
+                   locations only what I have mentioned during the daytime and domestic coal-based plants, which
+                   are basically low fuel cost, we get the opportunity to sell incremental quantity from these
+                   locations.
+
+
+                   But primarily the numbers which I have given, those are the capacities which are available. Apart
+                   from some capacity in this -- our hydro project in Tidong also some merchant open capacity is
+                   available, which we have been selling also.
+
+
+Bharanidhar:       So a follow-up to that is that all these capacities are tied up on like a 1-month or a 2-month basis
+                   on a bilateral basis, is it?
+
+
+Sharad Mahendra:   1 to 3 months
+
+
+Bharanidhar:       Understood. My second question is pertaining to the run rate EBITDA of the portfolio, which
+                   will be operational by end of FY27, how much will that be? And I also want to find out what
+                   will be the net debt according to you by end of FY27? Or indirectly, I'm trying to guess how
+                   much will be the capex you will be doing in the next 1 to 2 years? And how much will be the
+                   net debt that will be there by end of FY27?
+
+
+C. Prabhakaran:    So, I think we only kind of have given a capex guidance that we'll do about ₹20,000 crores this
+                   year in FY27. Now if you look at it, we have been also saying that we'll have a cash accrual of
+                   about close to ₹6,500 crores, which we'll have. And as you are aware that we did a fundraising
+                   and some of the steel shares, which happened, both put together, so we added another ₹7,150
+                   crores. So these two put together is about close to ₹13,150 crores. So, our equity funding
+                   visibility is ample.
+
+
+Bharanidhar:       Okay. And about the run rate EBITDA?
+
+
+C. Prabhakaran:    Run rate EBITDA, I think normally, we don't share that information.
+
+
+Sharad Mahendra:   Forward guidance normally we avoid. You can assume that we have said that we'll be adding 3
+                   GW of capacity in that in RE space total organic and 300 MW of acquisition, what we did in
+                   August.
+
+
+                   So if we add three of RE, we started the year with, say, 13.5 GW and adding 3 another 16.5 plus
+                   Maruti 16.8. That is the start of the year, you can assume with the product mix, what we say that
+                   you will get a fair idea of what it is going to be beyond FY27, the run rate EBITDA on a capacity
+                   of 16.7 to 16.8 GW operational by year-end.
+
+
+Moderator:         The next question is from the line of Ishan Verma from Antique Stock Broking Limited.
+
+
+
+
+                                             Page 15 of 16
+
+                                                                                             JSW Energy Limited
+                                                                                               October 28, 2026
+
+Ishan Verma:       Firstly, sir, what will be the capex per MW in total for the additional units at KSK? And when
+                   can we expect the closure of the minority stake and annual reduction in the minority stake
+                   leakage?
+
+
+Sharad Mahendra:   See, as we have said that the balance of plant in KSK has been ready. And in the last earnings
+                   call also, I have mentioned about this that the capex per MW for the capacity addition of 1.8
+                   GW at Mahanadi plant will be significantly lower than the industry benchmark. So when we say
+                   that the investment in Mahanadi expansion, doubling the capacity will be at least 25% to 30%
+                   lower cost per MW capex as compared to the industry average. This I can tell you.
+
+
+Ishan Verma:       Got it, sir. Secondly, I think the West Bengal bid for additional thermal is being bought out and
+                   site specific. So are we sort of planning to bid for that as well?
+
+
+Sharad Mahendra:   No, we are not looking towards that. We have enough space there for a greenfield rather than
+                   having a shared resource with the government assets. So, when studied, we found that there are
+                   many other more opportunities in the country, suited to our needs. So we are not participating in
+                   that.
+
+
+Ishan Verma:       Got it. And lastly, sir, this Bhutan 920-MW project, if you could share some rough total project
+                   cost and expected time lines?
+
+
+Sharad Mahendra:   We are working. It is at a DPR stage. We have already signed the agreement with the Bhutan
+                   government. We are in the process of finalizing the joint venture company and the DPR work is
+                   on. Once all the details are ready, which is expected by June 27, then only we will be in a better
+                   position to speak on the numbers.
+
+
+Moderator:         Thank you. We take that as the last question for the day. I would now like to hand the conference
+                   over to the management for the closing comments.
+
+
+Sharad Mahendra:   Right. Thank you very much. And once again, wish you all a very, very happy Diwali to you
+                   and all the family members and the new year ahead. And thank you for being with us today. If
+                   any of you have any other questions, please connect with our IR team, and we'll be happy to take
+                   those up and answer to your questions. Thank you very much.
+
+
+Moderator:         On behalf of Antique Stock Broking Limited, that concludes this conference. Thank you for
+                   joining us, and you may now disconnect your lines.
+
+
+
+
+                                           Page 16 of 16
+

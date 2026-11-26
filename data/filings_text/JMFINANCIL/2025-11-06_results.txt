@@ -1,0 +1,992 @@
+November 6, 2025
+
+BSE Limited                                                 National Stock Exchange of India Limited
+Department of Corporate Services                            Exchange Plaza
+1st Floor, New Trading Ring                                 Plot No.C-1, G Block
+Rotunda Building, P J Towers                                Bandra-Kurla Complex
+Dalal Street, Fort,                                         Bandra (East)
+Mumbai – 400 001                                            Mumbai – 400 051
+
+Security Code: 523405                                       Symbol: JMFINANCIL
+
+Dear Sirs,
+
+Sub: Outcome of the Board Meeting
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we wish to inform you that the Board of Directors (the “Board”) of the
+Company, at its meeting held today has, inter alia,
+1) Approved the unaudited standalone and consolidated financial results of the Company
+   for the second quarter and half year ended September 30, 2025 (the “financial results”).
+     In this context, we are enclosing the following:
+     •     Copy of the financial results as reviewed by the Audit Committee and approved by
+           the Board. The said financial results are being uploaded on the website of the
+           Company viz., www.jmfl.com.
+     •     Copy of the ‘Limited Review Report’, as received from our Statutory Auditors,
+           KKC & Associates LLP, on the standalone and consolidated financial results.
+2) Declared an interim dividend of Rs. 1.50 per equity share for the financial year 2025-26.
+   The said interim dividend, will be paid to those Members whose names appear in the
+   Register of Members of the Company or in the records of the Depositories as beneficial
+   owners of the shares as on the record date, viz., Friday, November 14, 2025.
+     The payment of interim dividend shall be made on or after November 27, 2025, but
+     within a period of 30 days from its declaration.
+The Board Meeting commenced at 2:30 p.m. (IST) and concluded at 4:35 p.m. (IST).
+
+We request you to kindly take the above on your record and disseminate the same on your
+website, as you may deem appropriate.
+Thank you.
+Yours truly,
+For JM Financial Limited
+                    Digitally signed by
+Hemant       Hemant Vijay Pandya
+Vijay Pandya Date: 2025.11.06
+             17:15:30 +05'30'
+
+Hemant Pandya
+Company Secretary & Compliance Officer
+Encl.: as above
+JM Financial Limited
+Corporate Identity Number: L67120MH1986PLC038784
+Regd. Office: 7th Floor, Cnergy, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025.
+T: +91 22 6630 3030 F: +91 22 6630 3223 www.jmfl.com
+
+kkc & associates lip
+Chartered Accountants
+(formerly Khimji Kunverji & Co LLP)
+
+
+            Independent Auditor's Review Report on unaudited consolidated financial results for the quarter
+            ended 30 September 2025 and year to date results for the period from 01 April 2025 to 30 September
+            2025 of JM Financial Limited under Regulation 33 of the SEBI (Listing Obligations and Disclosure
+            Requirements) Regulations, 2015, as amended.
+
+           To
+           The Board of Directors of
+           JM Financial Limited
+
+           Introduction
+           1.     We have reviewed the accompanying statement of unaudited consolidated financial results of
+                  JM Financial Limited ('the Parent' or 'the Company') and its subsidiaries (the Parent and its
+                  subsidiaries together referred to as 'the Group') and its share of the net profit after tax and total
+                  comprehensive income of its associates for the quarter ended 30 September 2025 and year to
+                  date results for the period from 01 April 2025 to 30 September 2025 ('the Statement'), being
+                  submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing
+                  Obligations and Disclosure Requirements) Regulations, 2015, as amended ('Listing
+                  Regulations').
+           2.     This Statement, which is the responsibility of the Company's Management and approved by
+                  the Company's Board of Directors, has been prepared in accordance with the recognition and
+                  measurement principles laid down in the Indian Accounting Standard ('Ind AS') 34 'Interim
+                  Financial Reporting' prescribed under section 133 of the Companies Act, 2013, read with
+                  relevant rules issued thereunder and other accounting principles generally accepted in India
+                  and in compliance with Regulation 33 of the Listing Regulations. Our responsibility is to express
+                  a conclusion on the Statement based on our review.
+           Scope of Review
+           3.     We conducted our review of the Statement in accordance with the Standard on Review
+                  Engagements ('SRE') 2410 - 'Review of Interim Financial Information Performed by the
+                  Independent Auditor of the Entity', issued by the Institute of Chartered Accountants of India
+                  ('the ICAI'). A review of interim financial information consists of making inquiries, primarily of
+                  persons responsible for financial and accounting matters, and applying analytical and other
+                  review procedures. A review is substantially less in scope than an audit conducted in
+                  accordance with Standards on Auditing and consequently does not enable us to obtain
+                  assurance that we would become aware of all significant matters that might be identified in an
+                  audit. Accordingly, we do not express an audit opinion.
+                  We also performed procedures in accordance with the circular issued by the SEBI under
+                  Regulation 33{8) of the Listing Regulations, as amended, to the extent applicable.
+           4.     The Statement includes the result of the following entities:
+
+                Sr No   Name of the entity                                                         Relationship
+
+            1.          JM Financial Limited                                                       The Pa rent
+            2.          JM Financial Services Limited                                              Subsidiary
+
+            3.          JM Financial Credit Solutions Limited                                      Subsidiary
+
+            4.          JM Financial Institutional Securities Limited                              Subsidiary
+
+            5.          JM Financial Asset Management Limited                                      Subsidiary
+
+
+
+
+Sunshine Tower, Level 19, Senapati Ba pat Marg, Elphinstone Road, Mumbai 400013, India
+T: +91 22 6143 7333 E: info@kkcllp.in W: www.kkcllp.in LLPIN: AAP-2267
+
+Suite 52, Bombay Mutual Building, Sir Phirozshah Mehta Road, Fort, Mumbai 400001, India
+
+kkc & associates lip
+Chartered Accountants
+(formerly Khimji Kunverji & Co LLP)
+
+
+            6.          JM Financial Products Limited                                             Subsidiary
+
+            7.          JM Financial Asset Reconstruction Company Limited including its           Subsidiary
+                        subsidiaries constituted as trusts together referred to as JM Financial
+                        Asset Reconstruction Company Limited Group
+
+            8.          JM Financial Home Loans Limited                                           Subsidiary
+
+            9.          JM Financial Properties and Holdings Limited                              Subsidiary
+
+            10.         JM Financial Commtrade Limited                                            Subsidiary
+
+            11.         CR Retail Malls (India) Limited                                           Subsidiary
+
+            12.         Infinite India Investment Management Limited                              Subsidiary
+
+            13.         JM Financial Overseas Holdings Private Limited                            Subsidiary
+
+            14.         JM Finan cial Singapore Pte. Ltd.                                         Subsidiary
+
+            15.         JM Financial Securities, Inc.                                             Subsidiary
+
+            16.         ARB Maestro AOP (Association of Persons)                                  Subsidiary
+
+            17.         Astute Investments (Partnership Firm)                                     Subsidiary
+
+            18.         JM Financial Trustee Company Private Limited                              Associate
+
+            19.         CFMARC Trust 166                                                          Associate
+
+            20.         CFMARC Trust 167                                                          Associate
+
+
+
+           Conclusion
+           5.     Based on our review conducted and procedures performed as stated in paragraph 3 above and
+                  based on the consideration of the review reports of the other auditors referred to in paragraph
+                  8 below, nothing has come to our attention that causes us to believe that the accompanying
+                  Statement, prepared in accordance with the recognition and measurement principles laid
+                  down in the aforesaid Ind AS and other accounting principles generally accepted in India, has
+                  not disclosed the information required to be disclosed in terms of Regulation 33 of the Listing
+                  Regulations, including the manner in which it is to be disclosed, or that it contains any material
+                  misstatement.
+           Emphasis of Matter
+           6.     Attention is drawn to note 9 to the Statement regarding confirmatory order dated 20 June 2024
+                  which barred the Company from accepting new lead manager mandates and acting as a lead
+                  manager in any public issue of debt securities till 31 March 2025 or such other date as may be
+                  specified by SEBI. During the quarter under review, upon payment of charges and agreeing to
+                  certain undertakings by the Company and two of its subsidiaries as detailed in the said note,
+                  SEBI has passed settlement order dated 19 September 2025 and settled the potential
+                  proceedings that may have been initiated against the Company and two of its subsidiaries. Our
+                  report is not modified in respect of this matter.
+           Other Matters
+           7.     Attention is drawn to note 6 to the Statement, where the Company has revised the operating
+                  segments with effect from 01 April 2025. Consequently, the comparative figures for all the
+
+
+
+
+Sunshine Tower, Level 19, Senapati Ba pat Marg, Elphinstone Road, Mumbai 400013, India
+T: +9122 6143 7333 E: info@kkcllp.in W: www.kkcllp.in LLPIN: AAP-2267
+
+Suite 52, Bombay Mutual Building, Sir Phirozshah Mehta Road, Fort, Mumbai 400001, India
+
+kkc & associates Up
+Chartered Accountants
+(formerly Khimji Kunverji & Co LLP)
+
+
+                periods presented in the Statement have been restated and presented in accordance with the
+                revised operating segments as required by Ind AS 108 - Operating Segments.
+           8.   We did not review the financial results of 7 subsidiaries included in the Statement, whose
+                financial results, reflect {before consolidation adjustments) total assets of Rs. 13,106.22 crores
+                as at 30 September 2025, total revenues of Rs. 289.42 crores and Rs. 645.66 crores, total net
+                profit after tax of Rs. 28.76 crores and Rs. 119.76 crores, total comprehensive income of Rs.
+                28.35 crores and of Rs. 119.36 crores, for the quarter ended 30 September 2025 and for the
+                period from 01 April 2025 to 30 September 2025 respectively, and cash flows (net) of Rs. 95.39
+                crores for the period from 01 April 2025 to 30 September 2025 as considered in the Statement.
+                These financial results have been reviewed by other auditors and their reports, which contain
+                an unmodified conclusion have been furnished to us by the Management and our conclusion
+                on the Statement, in so far as it relates to the amounts and disclosures included in respect of
+                these subsidiaries, is based solely on the reports of the other auditors and the procedures
+                performed by us as stated in paragraph 3 above.
+           9.   The Statement includes the financial results of 5 subsidiaries which have not been reviewed by
+                their auditors, whose financial results reflect total assets of Rs. 362.52 as at 30 September 2025,
+                reflect total revenue of Rs. 10.15 crores and Rs. 21.38 crores, total net profit after tax of Rs. 1.49
+                crores and Rs. 3.73 crores, total comprehensive income of Rs.10.61 crores and Rs.13.11 crores
+                for the quarter ended 30 September 2025 and for the period from 01 April 2025 to 30 September
+                2025 respectively, and cash flows (net) of Rs. (10.68) crores for the period from 01 April 2025 to
+                30 September 2025 as considered in the Statement. The Statement also includes the Group's
+                share of net profit after tax of Rs. 6.96 crores and Rs. 8.15 crores for the quarter ended 30
+                September 2025 and for the period from 01 April 2025 to 30 September 2025 respectively, as
+                considered in the Statement in respect of 3 associates, based on their financial results which
+                have not been reviewed by their auditors. According to the information and explanations given
+                to us by the Management, these financial results are not material to t he Group.
+
+                Our conclusion on the Statement is not modified in respect of the matters stated in Other
+                Matters paragraphs 7,8 and 9.
+
+
+
+           For KKC & Associates LLP
+           Chartered Accountants
+           (formerly Khimji Kunverji & Co LLP)
+           Firm Registration Number: 105146W/ Wl00621
+
+
+
+
+           Hasmukh B Dedhia
+           Partner
+           ICAI Membership No: 033494
+           UDIN : 25033494BMJKJ F6971
+
+           Place: Mumbai
+           Date: 06 November 2025
+
+
+
+
+Sunshine Tower, Level 19, Senapati Ba pat Marg, Elphinstone Road, Mumbai 400013, India
+T: +9122 6143 7333 E: info@kkcllp.in W: www.kkcllp.in LLPIN: AAP-2267
+
+Suite 52, Bombay Mutual Building, Sir Phirozshah Mehta Road, Fort, Mumbai 400001, India
+
+kkc & associates Up
+Chartered Accountants
+(formerly Khimji Kunverji & Co LLP)
+
+
+
+
+    Independent Auditor's Review Report on unaudited standalone financial results for th e quarter ended 30 September
+    2025 and yea r to date results for the period from 01 April 2025 t o 30 September 2025 of JM Financial Limited under
+    Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+
+
+
+    To
+    The Board of Directors of
+    JM Financial Limited
+
+
+
+    Introduction
+    1.   We have reviewed the acco mpanying statement of unaud ited standalone financial results of JM Financial
+         Limited ('the Company') for th e quarter ended 30 September 2025 and year to date results for the period from
+         01 April 2025 to 30 September 2025 ('the Statement'), being submitted by the Company pursuant to the
+         requirements of Regulation 33 of the SEBI (listing Obligations and Disclosure Requirements) Regulations, 2015,
+         as amended ('Listin g Regulations').
+    2.   This Statement, which is the responsibility of the Company's Management and approved by the Board of
+         Directors of the Company, has been prepared in accordance with the recognition and measurement principles
+         laid down in the Indian Accounting Standard ('Ind AS ') 34 'Interim Financial Reporting' speci fied in section 133
+         of the Companies Act, 2013, read with relevant rules issued thereunder and other accounting principles
+         generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility
+         is to express a co nclusion on the Statement based on our review.
+
+
+    Scope of Review
+    3.   We conducted our review of the Statement in accordance with t he Standard on Review Engagements ('SRE')
+         2410 - ' Review of Interim Financial Information Performed by the Independent Auditor of the Entity' issued by
+         th e Institute of Chartered Accountants of India ('the ICAI'). This st andard requires that we plan and perform the
+         review to obtain moderate assurance as to w hether the Statement is free of material misstatement. A review is
+         limited primarily to inquiries of company's personnel and analytical procedures applied to fi nancial data and
+         thus provides less assurance th an an aud it. We have not performed an audit and accordingly, we do not express
+         an audit opinion.
+
+
+    Conclusion
+    4.   Based on our review conducted as above, nothing has come to our attent ion that causes us to believe t hat t he
+         accompanying Statement, prepared in accordance with the recognition and measuremen t principles laid down
+         in the aforesaid Ind AS and other accounting principles generally accepted in India has not disclosed th e
+         information req uired to be disclosed in terms of Regulation 33 of the Listing Regulations, including the manner
+         in w hich it is to be disclosed, or that it cont ains any materi al misstatement.
+
+
+
+
+Sunshine Tower, Level 19, Sena pati Bapat Marg, Elphinstone Road, Mumbai 400013, India
+T: +9122 6143 7333 E: info@kkcllp.in W: www.kkcllp.in LLPIN: AAP-2267
+
+Suite 52, Bombay Mutual Building, Sir Phirozshah Mehta Road, Fort, Mumbai 400001, India
+
+kkc & associates lip
+Chartered Accountants
+(formerly Khimji Kunverji & Co LLP)
+
+
+
+
+     Emphasis of Matter
+
+    5.   Attention is drawn to note 9 to the Statement regarding confirmatory order dated 20 June 2024 which barred
+         the Company from accepting new lead manager mandates and acting as a lead manager in any public issue of
+         debt securities till 31 March 2025 or such other date as may be specified by SEBI. During the quarter under
+         review, upon payment of charges and agreeing to certain undertakings by the Company and two of its
+         subsidiaries as detailed in the said note, SEBI has passed settlement order dated 19 September 2025 and settled
+         the potential proceedings that may have been initiated against the Company and two of its subsidiaries. Our
+         report is not modified in respect of this matter.
+
+
+
+    For KKC &Associates LLP
+    Chartered Accountants
+    (formerly Khimji Kunverji & Co LLP)
+    Firm Registration Number: 105146W/W100621
+
+
+
+
+    Hasmukh B. Dedhia
+    Partner
+    ICAI Membership No: 033494
+    UDIN: 25033494BMJKJE7420
+
+    Place: Mumbai
+    Date: 06 November 2025
+
+
+
+
+Sunshine Tower, Level 19, Senapati Ba pat Marg, Elphinstone Road, Mumbai 400013, India
+T: +9122 6143 7333 E: info@kkcllp.in W: www.kkcllp.in LLPIN: AAP-2267
+
+Suite 52, Bombay Mutual Building, Sir Phirozshah Mehta Road, Fort, Mumbai 400001, India
+
+                                                                                              JM FINANCIAL LIMITED
+                                                                                                                                                         j JM Financial
+                                               CONSOLIDATED STATEMENT OF PROFIT AND LOSS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30. 2025
+                                                                                                                                                                                       (Ru--- in Crorc)
+s,.        Particulars                                                                                      Quarter Ended                                llalfYear Ended               Year Ended
+
+No.                                                                                      30.09.2025          30.06.2025         30.09.2024        30.09.2025         30.09.2024        31.03.2025
+                                                                                         Unaudited           Unaudited          Unaudited         Unaudited          Unaudited          Audictd
+      I    lnrome
+  (a)      Revenue from ooerations
+           (i ) lnlcrcst income                                                                  389.25             489.36             532.58            87 &.61           1.086.3 1          1.928.29
+           (ii) Fees and commission income                                                       34 1.20            231.99             284.27            573. 19            472.40            1.019. 18
+           (iii ) Brokcr.i •c income                                                             Ill .SJ             154.26            179.66            309. 79            332 20              578. 15
+           (i,·) Net •ain on foir nduc chances                                                   IOH.85             211,08             156.37            3 19.93            3 10.91            735.47
+           (\') Net gain on dcrccognition of fimmcial instruments carried :u amortised            15.10               11.25              0.6&             26.35               15 .60              39.60
+           COSl
+           (n) Net (1oss>,1i;am on dcrccogmhon of fmanc1.il mstrumcnts carrioo atl air            (0(,3)              (3 .51)            17.(>2            (4. 14)            17.62               18.32
+           ,,aluc 1hrou1!h OCI
+           (\'ii) Other nnr:ratini:: inc:omc                                                      21.98               16.9 1            19.33             38.89              32.52                5&.61
+          Total Re,·enue from ooerations                                                       1,031.28            1.111.34           1.190.51         2,142.62            2.267.56           4.377.62
+
+
+  (b)      Other income                                                                           13 00                9.89             20.70             22.89              37.52                75.21
+          Total intorne                                                                        1.044.28            1.121.23           1.211.21         2.165.51            2.305.08           4.452.83
+
+
+      2    Expcn5es
+  (a)      Fim:incc costs                                                                       254.22              250.88             343.12            505. JO            713.34            1.)04.93
+  (b )     Fccs and commission cxocnsc                                                            81.95              90.86              87.44            172Jl l            17-1.63            343,08
+  (r)      lmnairmcnt on financial instrumcn1s                                                   (7.7Z)             (204.45)           229.03           (2 12. 17)          301.49             -124.74
+  (d)      Emplovcc bcncfils c~pcnsc                                                            270.(,0             298.73             291.82            569.33             523.12             963.30
+  (<)      Dcorccia11on. amorti✓.ation and imo::airmcnt                                           19.20              16.67              14.85             35.87               31.09             63.79
+  (f)     Other c,ocnscs                                                                          81.(,1             75.98              91.35            157.62              162.56            356.14
+          Total e:u~nses                                                                        699.89              528.67           t.057.6 1         1,228.56            1,906.23          3.455.98
+
+
+  3        Profit bdore tax (1 -2)                                                              344.39              592.56             153.60            936.95             398.8 5            996,85
+
+
+  4       Tu e xnt'nses
+  (a)     Current la:\                                                                           G<,.05              8288               tj3 16           148 93             1-11.1 5           292. 15
+  (bi     Deferred 1ax                                                                           23.4 1              52.59             (72. 75)           76.00             ( 71.27)           (73.69)
+  (c)     Ta:-. ad ustmcm of c:ulicr YC:u s (net)                                                                     10.49)            (0.60)            (0.49)             (0 60)                6.39
+          Total 1a1 expensCJ                                                                     89.46              134.98               9.81            224.44              69.28             224.8S
+
+
+  5       Net Profit for the period / yrar tJ4)                                                 l 54.9J             457.58             14J,79            712,5 1            J29.57             772.00
+
+
+  6       Add ·- Sh.ire in orofit of associates                                                    6.96                1.1 9             0.41              8. 15               l.<il               1.59
+
+
+  7       Net Profit after tax and share in profit of associates (5+6)                          261.89              458.77             144.20            720,66             331.18             773.59
+
+
+  8       Other comnrehcnsive income (OCI)
+          ( i) h ems th:it \\Ill be rcclassilicd to nrolil or loss
+            - Exchan.i:e difl'crenccs on lr:u1sfation or forei m oner.at ions                      9 12               0. 26              I.JO              9 38               1.-14               6. 15
+
+
+          (ii) Items th.at will not be recfossificd 10 nrolit or loss
+            - Remeasurement or defined bcnelit obli •.ations                                      (3. 19)            (0.60)             (2.65)            (3.79)             (3.52)               (4.5 9)
+            • Share in other eomorchcnsh·c income of associate                                                                                                                                        #
+            - Incomc tax on the above                                                             0.80                0. 15              0.69              0.95               0,9 1                1.16
+          Tot a l other comnrehensive income                                                      6.73               (0. 19)            (0.66)             6.54              ( 1.17)              2.72
+
+
+  9       l "otal conmrehensive income for the neriod / vear (7+8)                              268.62              4 58.58            143.54            727.20             330.01             776.31
+
+
+  10      Net profit attributable to ( 7}:
+          Ow~rs of che company                                                                  270.00              453.81            232.16            723.81              402.86             821.31
+          Non-controllin2 interests                                                              (8. 11 )             4.96            (87.96)            (3.15)             (71.68)            (47.72)
+
+
+  II      Other comnrehcnsivc income atlributa blc to (8):
+          Ch,TicrS of the COtnDJTIV                                                               6.82               (0. 16)            (0 56)             6.66              (099)                Vlk
+          Non-conlrol lin!! interests                                                            (0.09)              (0.03)             (0.10)            (0. 12)            (0. 18)            (0.1 6)
+
+
+ )2       Total como rehensive income attributa ble to (9):
+          O\\ncrs of the eomn.im·                                                              27<,.K2              453.65            231.60            730.47             401.87              824. 19
+          Non-controllin~ interests                                                              (8.20)               4.93             (88.06)           (3.27)             (71.86)            (47.88)
+
+
+ 13       Paid up equi1~- sh,uc c:ipit:il (Face v:ilue Re. I/- per share)                         95.62              95.62              95.58            95.62               95.5k                95.58
+ 14       Other c<1uih (cxcludin..: rc,·:ilu:ition rcscn·cs)'                                                                                                                                9.579. 78
+ 15       E:imme ocr cauitv share CEPS)..
+          Basic EPS (in Rs.)                                                                      2)11                4. 75              H J               7.57               4.22                8.59
+          Di luted EPS (in Rs.)                                                                   2 82                4. 74              2.43             7.56                4.21                R.58
+          • Net of Good\\ 111 on consohdallon :m10un1mg to Rs. 52.44 Crore.
+          •• N o l Jnnualiscd fo r the quarters and hair year periods
+          II Denotes :.mount bclo,, Rs. 50.000/ ·
+
+
+
+
+                    JM Financial Limited
+                   Corporate Identity Number: L677 20MH1986PLC038784
+                   Regd. Office: 7th Floor, e nergy, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025.
+                   T: +91 22 6630 3030 F: +91 22 6630 3344 www.jmfl.com
+
+                                                                                                      JM FINANCIAL LIMITED
+                                                                                                                                                                            j JM Financial
+                                                    SEGMENTWISE DETAILS ON CONSOLIDATED BASIS FOR THE QUARTER AND HA LF YEAR ENDED SE PTEMBER 30.1U2!'1
+                                                                                                                                                                                                             (RUfll,."CS m C ruro:J
+
+                                                                                                        Ouancr Emlcd                                                llalr Year Ended                       Year Ended
+Paniruhu·s                                                                     30.09.201~                 30.06.2025             J0.09.20:z.i            J0.(IIJ.lC)25              Jfl.09.2014            J I.OJ.2025
+                                                                               Unautllu:d                 Unaudited              Unaudilcd               UnaudilC'd                 Unaudited               Audited
+
+Sl'l!ffltn1 RC\"1.'IIUC
+   A      Cororoate Ad, ism and Capi1al Markets                                           321.2-'                    215.49                 2SH3                     536.73                   39SA2                     7M7.50
+
+   B      \Vc:ihh :md Asset Man:1:1?.cmcnt                                                341.14                     368.67                 3SS.SI                   7()(JJ~ I                671.W                  1.359.96
+   C      Pri,·a1c Markets                                                                21\7.39                   3 89.71                 507.-16                  677. IO                1.024.-15                1.834.14
+   D      Afford.1blc Home Loons                                                          I0'>.-10                    100 ~9                    77.76                209.99                     171.23                 3(,3.-19
+
+   E      Trc:,suf\ .1nd 01hcrs                                                             fH.96                     106 .87                   81.5-1                171.83                    155.R0                 324.<,5
+To1at Sc •rnrn1 Rc,·cnuc                                                                l , IH.13                  1.181.JJ               1.277.50                2...30~.46                2,418.H9                 4.669.74
+Less: Inter - sc~'lental n:,·cnuc                                                           (79.85)                   t60. 10)               (66.29)               (13lJ.95)                 ( 113.XI)                (21 6.91)
+
+Total Rc,·cnuc                                                                          l .tl-'4.28               1.121.23                1.211.21                2.1(15_"i l               2.305.08                 4,J52Jl3
+
+
+Scemcnl Result~ (Profit before t.n:)
+   A      Coruroo.tc Ad\'lsor.· o.nd C.ioital Markcu                                      l1'16.95                     % . 13                131.70                 283 08                    IR(,.117                 -120.k l
+   B      Wc:i.lth and Asset M:m:11.!.cmcnt                                                 19. .53                    -D k2                    35.7-1                   63.35                    64 If,                126.81'1
+   C      Prhatc Markets                                                                  llll .09                  377.37                   !68 09)                '7846                         25.16                 20C-).3J
+   D      AfTordable Home Loans                                                             17.69                      16.91                    10.72                    3-H >O                   H .29                  1.:u 2
+
+   E      Trc.isul'\' and others                                                            19.13                      SIDJ                     43.53                    77.46                    1<9.17                166.20
+Total RC.'llUltl'I                                                                       34-'.39                    5 92.56                 ISJ.60                  936,95                    J?8.H5                   996.85
+
+
+St·t!nu•nt A $Sl'IS *
+   A      Coro,001c A<hisorv .ind C.1tiital MarJ..cts                                    1'155.11                   8 (11.49                6H.92                   1'15.5.1 1                (153.92                  815.61
+   B      Wealt h and Asscl Mantll!.Cmcnt                                              S. 15S.40                  5.2{Hl(, I              S.385.39                5. ISM.40                 S.385.39                 5.367.91'1
+
+   C      Pri\:uc Markets                                                             13.905.75                  13YJ4.3 l               17,094.97               IJ.')(JS 75               17.0'-)4.97             13.466,16
+   D      Affordable Home Loans                                                        2.smun                     2,-l7J.(,9              2.167.36                2.501'1 83                2.1(,7.36                2.532.40
+   E      TrC3SUl"'I :md others                                                        2. ltJJ .09                1.846.%                 2,677. 19               2.IOJ.09                  2.677.19                 2.269 5 1
+Totul Assets                                                                          24SJl.l8                   2J,971U)6              27,!)78.83               24-~JI.IR                 :?7.978.83              2,U~t.66
+
+
+
+Sc mcnc Lilthililics
+          ComrOOlC A(hiSOf\ :md Ca ilal Mad,clS                                          152 36                     H 7.00                  174.30                  152.36                    174 30                    177.32
+>-·A
+   8      Wealth and Asset M:magcntcnt                                                 3.926A0                    3,9 78.71!             4.279.22                 3,92(,,-10                -1,279.22                4.I K0.(,0
+
+   C      Pn,·t11c ;\farl-CIS                                                          7.093.29                   6.8<,l't.37            I0.078.3k                7.093.29                 10.078 38                 7.205.32
+   D      Alford.able Hom<: Loons                                                      l.721l~2                   1,709.9 1               l.S.57.40               1,728.82                  1.557.40                 l.7H3.26
+
+   E      Trcasun· and others                                                            770.41                     5-0.92                 680.-'9                  770.,11                   6tm.i9                   927. 15
+
+Total Liabilities                                                                     IJ.671.28                  IJ,?--17.'JH           16,76'1.7?               IJ,671.28                16,769.79                14.27.l.65:
+
+
+Sr- •mcnt Ca lit:il Em ,lon·d•
+   A     ConHOOICAd\ism and Ca iuil Mad..cts                                             702.75                     7 14.49                479.62                   702.75                   479.62                    (131'1.29
+
+   B      Wc.ilth .::and AssC'I M:m:i •cntcnl                                          1.232,00                   l.221 JG                I.I0G.17                1.232.00                  I.IO<d7                  1.IH7,3tt
+
+   C      Prh·:tte M:trkc1s                                                            6.ttl 2.4(,                6.72~.9.i              7,016.59                 6.8 12.-'6                7.016.51)               (1.260JU
+   D      Affordable Home Loons                                                          780.01                     7(.4.7&                (,09,96                  780.01                   6()1).96                  749. 14
+   E     TrcaslJI"\· artd others                                                       1.332.68                   1.303.04                1.9%.70                 1.332.68                  l .9<J6.70               1.342.36
+Tocal Capical £m1lh1y«t                                                         I0.KS9.?0                10,730.08                      11.209.0..              10..8~9.'JO               11,209.IJ.'              10.178.01
+• Segmenl Assets and Capital Employe d presented .ire net ofGood\,1II on consohd,111on amounting to Rs. 52.44 Crore.
+
+t'oo1no1ts:
+I Refer no1e <, \\hich dcscnbes the re\'isio n of operating segmenls \\ ,e.f. April I. 2025 and the rntiooale !hereof.
+
+2 On a consolidated basis. the Group has the follo\,ing four re \'iSed reportable segments. namely.
+(i) Corporalt Advisory and Capil a l MarktlS ,,hich caters to Institutional. Corporate. Promoters. Go\Cmment and Ul1ra Hish Net wonh clients and includes m\'estment banl.:mg. ins1i1u1ional equi1ies and research:
+(ii) Wealth a nd Asset Managt mtnt includes \\ eallh management business. broking. Por1folio Managcmen1 Sen ices. Equity & Debi AIFs and mu1ual fund business:
+(1i1) Pl'ivalt Markets \\hich comprises of Prinue Credit (Corporale. Bespoke. Re.:ll Estate and Distressed Credit) .md ln\'estmenls (Prhate Equity fm1ds. REITs clc. ): and
+(I\') Affordable Hom e Loa11s ,, hich includes the affordable housing rintlfl.ce business.
+The rc\'enue fro m T reasury and others include property rent<d income and income from surplus funds.
+
+3 The Company and 1he Group do not ha,·e any material opern1tons ou1side India and hence disclosure of geographic segments 1s nol required.
+
+-I As per Ind AS I OK · Operating Segments·. scgment-,,ise details :ue disclosed on a consolidaled basis and hence. no separalc disclosure has been gi,·en on a s1andalone basis.
+
+
+
+
+                                                                                                                                                                                       \MUMBAt)
+                                                                                                                                                                                        '---.___,_,./.
+                                                                                                                                                                                         . JI·
+
+                                                                                                                               j JM Financial
+                                                                           JM FINANCIAL LIMITED
+
+                          STANDALOI\E STAT EM ENT Of PROFIT AND LOSS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2025
+                                                                                                                                                             Rurx:es in Crore)
+Sr.                                                                                            Quarter Ended                       Half Year Ended           Year Ended
+No. Particulars                                                                 30.09.2025      30.06.2025     30.09.2024      30.09.2025    30.09.2024       31.03.2025
+                                                                                Unaudited        Unaudited     Unaudited       Unaudited     Unaudited          Audited
+    Continuini: 011erations
+ I Income
+(a) Revenue from operations
+    (i) Interest income                                                                6.51            8.49            9. 11         15.00        18.97               47.29
+    (ii) Fees and commission income                                                 2 19.54          IOI .84        165 . 17       32 1.38       249.70              507.27
+    (iii) Net gain on fair value changes                                             49.18           135 .93         51.24         I 85 . II      75.69              209.83
+    Total reven ue fro m ooerations                                                 275.23           246.26         225.52         521.49        344.36              764.39
+(b) Other income                                                                    119.93             2.01         192 .22        121.94        193.78              199.61
+    Total Income                                                                    395.16           248.27         4 17.74        643.43        538. 14             964.00
+
+ 2    Expenses
+(a)   Finance costs                                                                   1. 18            1.26           1.4 1          2 .44         2.87                5.56
+(b)   Fees, Sub Brokerage and other direct expenses                                  41.12            12.05          74.4 1         53 .17        95.49              133.50
+(c)   Impairment on financial instruments                                             0. 15            1.46           1.28           1.61          0.32                0.88
+(d)   Loss on sale of investment in s ubsidiary                                         -               .               -                           -                 87.34
+(e)   Impairment on investment in subsidiary                                            .                                                           -                (88.38)
+(f) Employee benefits expense                                                         60.24           60.42          55.39         120.66         99.21              206.40
+(g) Depreciation, amortisation and impairment                                          3.05            3.1 4          3.03           6. 19         6.02               12.20
+(h) Other expenses                                                                     7.90            7.76           7.32          15.66         13.67               40.05
+    Total expenses                                                                   113.64           86.09         142.84         199. 73       217. 58             397.55
+
+
+ 3    Profit before tax from contin uinQonerations (l-2)                            281.52           162.18         274.90         443.70        320. 56             566.45
+
+ 4 Tax expenses
+(a) Current tax                                                                      28.95             9.25          11.80          38.20         2 1. IO             51.10
+(b) Deferred lax                                                                      6.68            19.48         (45.7 1)        26.1 6       (44.01)             (39.82)
+    Total tax expenses                                                               35.63            28.73         (33.9 1)        64.36        (22.9 1)             I 1.28
+
+ 5    Net profit for the period / year fro m continuing operations (3-4)            245.89           133.45        308.81          379.34        343.47              555. 17
+      Discontinued O[!erations
+ 6    Profit/(Loss) before tax from discontinued operations                                             -            (9.88)            -         ( 10.33)            ( 17.35)
+ 7    Tax expense of discontinued operations                                                            .            (0.28)            .           (0.58)              (0 92)
+ 8    Profi1 /(Loss) after tax from discontinued operations (6-7)                                       .            (9.60)            -           (9.75)            (16.43)
+
+
+ 9    Profit for th e period/year (5+8)                                             245.89           133.45        299.2 1         379.34        333. 72             538.74
+
+10 Other comprehensive income
+   (i) Items that will be reclassified 10 profit or loss                                                -              -               .            -                    .
+   (ii) Items that will not be reclassified to profit or loss
+     - Remeasuremen t of defined benefit obligations                                   0.36           (0.43)         (0.8 I)        (0.07)        ( 1.2 1)            ( 1.7 I)
+       • Income tax on above                                                          (0.09)           0. 1I          0.21           0.02          0.3 1               0.43
+      Total other comprehensive income                                                 0.27           (0.32)         (0.60)         (0.05)        (0.90)              (1.28)
+
+
+II Total comprehensive income for the period / year (9+10)                          246. 16          133. 13       298.61          379.29        332.82             537.46
+12 Paid up equity share capital (Face value Re. I/. per share)                       95.62            95.62         95.58           95.62         95. 58             95.58
+
+
+13 Other Equity (excluding revaluation reserves)                                                                                                                   4,365.87
+
+14 Earnings per eqnity share (EPS)• (for continuing operations)
+   Basic EPS (in Rs.)                                                                 2.57             1.40           3.23           3.97          3.59                5.8 1
+   Diluted EPS (in Rs.)                                                               2.57             1.39           3.23           3.96          3.59                5.80
+
+15 Earnings per equity share (EPS)* (for discontinued operations)
+   Basic EPS (in Rs.)                                                                  .                             (0. 10)                      (0. IO)             (0.17)
+   Diluted EPS (in Rs.)                                                                -                             (0. 10)                      (0. 10)             (0. 17)
+
+   Earnings per equity share (EPS)• (for continuing & diseontinned
+16 operations)
+   Basic EPS (in Rs.)                                                                 2.57             1.40           3.13           3 .97         3.49                5.64
+   Dilnted EPS (in Rs.)                                                               2.57             1.39           3.13           3.96          3.49                5.63
+      • Not annualised for the quarters
+
+                                                        JM FINANCIAL LIMITED
+                                                                                                         j JM Financial
+                                  CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2025
+
+                                                                                                                        (Rupees in Crore)
+                                                                                                       As at               As at
+Sr.                                                                                              September 30, 2025    March 31, 2025
+No.                                                                                                  Unaudited            Audited
+       ASSETS
+( I)   Financial Assets
+(a)    Cash and cash equivalents                                                                           1, 180.49              540.00
+(b)    Bank balances other than (a) above                                                                  4,227.06             3,968.84
+(c)    Trade receivables (net of Impairment loss allowance)                                                  739.74               646.28
+(d)    Loans (net of Impairment loss allowance)                                                            9,242.60             9,917.58
+(e)    Investments                                                                                         4,30 1.53            5,464.14
+({)    Other financ ial assets                                                                             3,324.00             2,394.44
+       Total Financial Assets                                                                             23,015.42            22,931.28
+
+(2)    Non-financial Assets
+(a)    Inventories*                                                                                          127.50               129.90
+(b)    Current tax assets                                                                                    3 16.28              3 16.20
+(c)    Deferred tax assets                                                                                   284.05               334.22
+(d)    Property, plant and equipment                                                                         5 17.73              503.39
+(e)    Capital work in progress                                                                              168.40                 10.23
+(I)    Other intangible assets                                                                                29.06                23.21
+(g)    Goodwill on consolidation                                                                              52.44                52.44
+(h)    Other non-financial assets                                                                             72.74               203.23
+       Total Non-financial Assets                                                                          1,568.20             1,572.82
+       Total Assets                                                                                       24,583.62            24,504.10
+
+       LIABILITIES AND EQUITY
+       LIABILITIES
+(I)    Financial Liabilities
+(a)    Trade payables
+        total outstanding dues of micro enterprises and small enterprises                                      0.50                 2.42
+        total outstanding dues of creditors other than micro enterprises and small enterprises             1,079.95             1,23 1.28
+(b)    Debt securities                                                                                     8,188.35             8,686.40
+(c)    Borrowings (other than Debt securities)                                                             3.056.83             2,732.87
+(d)    Lease liabilities                                                                                     114.79                88.09
+(e)    Other financial liabi lities                                                                          886.22             1,154.0 1
+       Total Financial Liabilities                                                                        13,326.64            13,895.07
+
+(2)    Non-Financial Liabilities
+(a)    Current tax liabilities                                                                                 9.97                 4.59
+(b)    Provisions                                                                                             68.4 1               58. 12
+(c)    Deferred tax liabilities                                                                              18 1.63              156.76
+(d)    Other non-financial liabilities                                                                        84.63               159.11
+       Total Non- Financial Liabilities                                                                      344.64               378.58
+
+(3)    EQUITY
+(a)    Equity share capital                                                                                   95.62                95.58
+(b)    Other equity                                                                                       10,197.87             9,632.22
+       Equity attributable to owners of the Company                                                       10,293.49             9,727.80
+(c)    Non-controlling interests                                                                             293.35               412.86
+(d)    Non-controlling interests of Security receipts holders under Distressed Credit Business               325.50                89.79
+       Total Equity                                                                                       10,912.34            10,230.45
+       Total Liabilities and Equity                                                                       24,583.62            24,504.10
+       * Comprises properties held as mventones
+
+
+
+
+                                                                                                                                            4
+
+                                                                                                        j JM Financial
+                                        JM FINANCIAL LIMITED
+                           STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2025
+
+                                                                                                                         (Rupees in Crore)
+
+Sr.                                                                                              As at                      As at
+No.                                                                                        September 30, 2025           March 31, 2025
+                                                                                               Unaudited                   Audited
+      ASSETS
+(I)   Financial Assets
+(a)   Cash and cash equivalents                                                                           7.63                      75.59
+(b)   Bank balances other than (a) above                                                                  2.68                       3.23
+(c)   Trade Receivables (net of Impairment loss allowance)                                              189.19                     109.69
+(d)   Loans (net of Impairment loss allowance)                                                         314.57                      449.22
+(e)   Investments                                                                                    4. 144.82                   3.961.65
+(I)   Other Financial assets                                                                             19.22                      10.92
+      Total Financial Assets                                                                         4,678.1 I                   4,6!0.30
+
+(2)   Non-financial Assets
+(a)   Current tax Assets (Net)                                                                         169.99                      173.76
+(b)   Property, Plant and Equipment                                                                     39.34                       46.48
+(c)   Other Intangible assets                                                                            0.75                        0.92
+(d)   Other non-financial assets                                                                         4.81                        2.92
+      Total Non-financia l Assets                                                                      214.89                      224.08
+
+(3)   Assets Classified as held for Sale                                                                  -                         43.43
+
+      Total Assets                                                                                   4,893.00                    4,877.81
+
+      LIABILITIES AND EQUITY
+      LIABILITIES
+(I)   Financial Liabilities
+(a)   Trade Payables
+       Total outstanding dues of micro enterprises and small enterprises                                 0.05                        0.88
+       Total outstanding dues of creditors other than micro enterprises                                 35.29                       14.27
+       and small enterprises
+(b)   Lease liabilities                                                                                 46.27                       53.48
+(c)   Other financial liabilities                                                                       57.73                      100.90
+
+      Total Financial Liabilities                                                                      139.34                      169.53
+
+(2)   Non- Financial Liabilities
+(a)   Provisions                                                                                        13.26                      11.61
+(b)   Deferred tax liabilities (Net)                                                                   128.96                     102.81
+(c)   Other non-financ ial liabi lities                                                                 24.77                      97.43
+      Total Non-Financial Liabilities                                                                  166.99                     211.85
+
+(3)   Liabi lities directly associated with assets classified as held for Sale                            -                         34.98
+
+
+(4)   EQUITY
+(a}   Equity Share capital                                                                              95.62                       95.58
+(b)   Other Equity                                                                                   4.491.05                    4.365.87
+      Total Equ ity                                                                                  4,586.67                    4,461.45
+      Total Liabilities and Equity                                                                   4,893.00                    4,877.81
+                                                                                 -
+                                                                           0 ciate                       ~~N_f 1-</
+                                                                               ~ or?
+                                                                     I~
+                                                                        "a.,
+                                                                       (lJ      ~,t}. #~
+                                                                                                I
+                                                                                                       ii:'r: ~j<
+                                                                             ~~'8-.::,~~
+                                                                        0+"c,C ~~
+                                                                                                                    Ci]
+                                                                                                     I ~....,CMUM?JBAI
+                                                                                                                  )D                         5
+                                                                             +             ..
+                                                                                 -                               -.I.
+
+                                                                     JM FINANCIAL LIMITED
+                                                                                                                      j JM Financial
+                         C ONSOLIDATED STATEMENT OF CASH FLOWS FOR TH E HALF YEAR ENDED SEPTEMBER 30, 2025
+
+                                                                                                                                            (Ruoees in Crore)
+                                                                                                      For the half year ended        For the half year ended
+Sr.                                                                                                    Scptem her 30, 2025            September 30, 2024
+No.                                                                                                         Unaudited                      Unaudited
+ A    Cash now from operating activ ities
+      Profit before tax                                                                                                  936.95                        398.85
+      Adjustment for:
+      D epreciation, amortizat ion and impaim1ent                                                                          35.87                          3 1.09
+      Amortisation of deferred employee compensation (ESOP)                                                                 7.34                          12.55
+      lmpainnent on financial instruments                                                                               (2 12. 17)                      30 1.49
+      Loss/(gain) on sale of Propert y, Plant and Equipment (PPE)                                                           0.03                          (0.22)
+      N et gain on fair value changes                                                                                   (319.93)                      (3 10 9 1)
+      Dividend income                                                                                                    ( 16.20)                       (12.1 3)
+      Interest income                                                                                                   (878.6 1)                   (1 ,086.3 1)
+      Jnterest income - others                                                                                             (6.42)                       ( 15.08)
+      Finance costs                                                                                                      505. 10                        7 13.34
+      O pe rating profit before working capital changes                                                                   5 1.96                         32.67
+      Adjustment for:
+      (Increase) in trade receivables                                                                                     (96 05)                     (258 77)
+      Decrease in loans (net)                                                                                            889 07                      2,884.53
+      (lncrease)/decrease in other financial assets                                                                     (84133)                         2 16.04
+      Decrease in Inventories                                                                                                2.40                          3.40
+      (Increase) in other non financial assets                                                                            (1 6.30)                      ( 10.68)
+      (Decrease)/i ncrease in trade payables                                                                            ( 153 25)                       195.54
+      (Decrease)/inc rcase in other financial liabilities                                                               (267.79)                        183.76
+      Increase in provisions                                                                                                 6.50                          3.94
+      (Decrease) in other non fi nancial liabilities                                                                      (74.48)                       (27.69)
+      Interest income received                                                                                           850.40                      1,093.65
+      Interest expense paid                                                                                             (525.82)                      (668.97)
+      Cash (used in)/generated from operations                                                                          (174.69)                     3,647.42
+      Direct taxes paid (net)                                                                                           (1 43.1 4)                    ( 137.36)
+      Net cash (used in)/gcncratcd from operating activities                                                            (3 17.83)                    3,5 10.06
+
+B     Cash now from investing activities
+      Purchase of investments                                                                                           (496 16)                    ( 1,540.65)
+      Proceeds from sale of investments                                                                                1,985.52                         515.11
+      Purchase of Property, Plant and Equipment (PPE)                                                                    (31.21 )                       ( 15.02)
+      Proceeds from sale of Property, Plant and Equipment (PPE)                                                            8.42                            0.86
+      ( Increase) in other bank balances                                                                                (25822)                        (640. 18)
+      Interest income - others received                                                                                    6.42                           15.08
+      Dividend received                                                                                                   16.20                           12.1 3
+      N~t cash generated from/(used in) investing activities                                                           1,230.97                     ( 1,652.67)
+
+C     Cash now from financing activities
+      Proceeds from issue of shares on exercise of options of the Company                                                   0.70                         0. 12
+      Proceeds from issue of shares to non-controlling interest ( NCI) shareholders of subsidiaries                         0.0 1                         1.34
+      Proceeds from issue of security receipts (SRs) to non-controlling interest (NCI) shareholders                       156.89                        67.57
+      (Repayment) on redemption o f SRs / distribution to Non-contrail ing SR holders                                      (0 66)                        (9.02)
+      Proceeds from debt securities                                                                                     1,42 1.68                   1,560.22
+      (Repayment of) debt securities                                                                                  ( 1,893.89)                  (2,593 52)
+      Proceeds from other borrowings                                                                                    1,330.39                       749.82
+      (Repayment of) other borrowings (net)                                                                           (1 ,006. 17)                 (2,034.88)
+      (Repayment) of lease liabilities (including interest)                                                               (23.36)                      ( 19.80)
+      Dividend paid on equity shares                                                                                     (258 24)                    ( 196.04)
+      Net cash (used in) financing activities                                                                            (272.65)                  (2,474.19)
+
+      Net incrcase/(dec rease) in Cash and cash equivalents                                                              640.49                      (6 16.80)
+
+      Cash and cash equivalents at the beginning of the period                                                           540.00                     2,23 1.58
+      Cash and cash equivalents at the end of the period                                                               1, 180.49                    1,614.78
+
+
+
+
+                                                                                                                                                                   6
+
+                                                                                                  j JM Financial
+                                    JM FINANCIAL LIMITED
+        ST ANDALONE STATEMENT OF CASH FLOWS FOR THE H ALF YEAR ENDED SEPTEMBER 30, 2025
+
+                                                                                                                         (Rupees in Crore)
+                                                                                          For the half yea r           For the half yea r
+Sr.
+    Particulars                                                                                ended                        ended
+No.
+                                                                                         September 30, 2025          September 30, 2024
+                                                                                               Unaudited                    Unaudited
+A Cash flow from operating activities
+  Profit before tax                                                                                   443.70                               3I0.23
+  Adjustment for :
+  Depreciation. amortisat ion and impairment                                                              6. 19                               7.87
+  Impairment on financial instruments                                                                      1.61                               0.33
+  Amortisation of shared based payments to employees (ESOP)                                                1.95                               1.97
+  Finance cost on lease liabilities                                                                       2.40                                3.44
+  Gain on modification of lease                                                                          (0.40)                                -
+  Net gain arising on financ ial asset measured at FVTPL                                             ( 185. 11 )                            (76.67)
+  Net gain on sale of Property, Plant and Eq uipment (PPE)                                               (0.0 1)                               -
+  Interest income                                                                                      ( 14.95)                             (18.95 )
+  Interest income on investments                                                                         (0.05)                              (0.02)
+  Dividend income                                                                                    ( 11 7.33)                           ( 190.68)
+  Operating profit before working capital changes/ interest received                                   138.00                                37.52
+  Adjustment for :
+  Decrease in Loans and Advances                                                                      135.17                               155. 12
+  (Increase) in Trade Receivables                                                                     (8 1.63)                             (46.05)
+  (Increase) in Other Financial Assets                                                                 (6.92)                              ( I 0.74)
+  (Increase) in Other Non-Financial Assets                                                             ( 1.89)                               (1.04)
+  Increase in Trade Payables                                                                           20.19                                 31.9 1
+  Increase in Provisions                                                                                 1.58                                  1.40
+  (Decrease)/ Increase in Other Financial Liabilities                                                 (43.17)                                37.94
+  (Decrease) in Other Non-Financial Liabil ities                                                      (72.66)                                (7.10)
+  Interest received                                                                                    14.95                                 18.95
+  Cash generated from operations                                                                      103.62                               2 17.91
+  Direct taxes paid (net)                                                                             (34.43)                              (33.47)
+  Net cash generated from operating activities                                                         69.19                               184.44
+B Cash flow from investing activities
+   Purchase of investments in subsidiaries                                                             (90.58)                               (1.07)
+   Purchase of investments in other than subsidiaries                                              ( 1,243.16)                          (3.172.84)
+   Proceeds from sale of investments other than subsidiaries                                         1,335.69                            3. 101.64
+   Purchase of Property, Plant and Equipment (PPE)                                                      (0. 15)                              ( 1.82)
+   Proceeds from sale of Property, Plant and Equipment (PPE)                                             0.03                                  -
+   Proceeds from transfer of the Private Wealth Business                                                 8.45                                  -
+   Interest received on investment                                                                       0.05                                0.02
+   Movement in bank balances other than cash and cash equi valents                                       0.55                                0.39
+   Dividend received from subsid iaries                                                                106.77                              183.91
+   Dividend received from others                                                                        10.56                                6.76
+   Net cash generated from investing activities                                                        128.21                              116.99
+
+C Cash flow from financing activities
+  Proceeds from issue of equity shares                                                                  0.70                                 0.12
+  Repayment oflease liabilities (including interest)                                                   (7.96)                               (9.37)
+  Dividend paid                                                                                      (258. 10)                            (191.12)
+  Net cash (used in) financing activities                                                            (265.36)                             (200.37)
+
+   Net (decrease)/ increase in cash and cash equivalents                                              (67.96)                              10 1.06
+   Cash & cash equivalents at the beginning of the period                        ~
+                                                                                                       75.59                                41.07
+   Cash & cash equivalents at the end of the oeriod                      ~nciai::~                      7.63 ----=.:-=--                   142.13
+   # Denotes amount below'{ 50,000/-                                 ff,!        ~ \S'J                           P,- l\lC';
+                                                                     I
+                                                                     Cltj c~?>~~~,'$<~ -   l            ~"'.-. . .~~~<
+                                                                         ~ ~~'-l~                      r:?; cMUMsA, \ c; 11
+                                                                                                       \.....,                 )<:::,
+                                                                                                                                                       7
+                                                                          =J.,                                            /.
+                                                                                     ~                                  ✓
+
+
+                                                                                 -
+
+                                                                                                j JM Financial
+Notes to the standalone and consolidated financial results:
+
+    I)   The aforesaid unaudited standalone and consolidated financial results for the second quarter and half year
+         ended September 30, 2025 of JM Financial Limited (the "Company") have been reviewed by the Audit
+         Committee, and on its recommendation, have been approved by the Board of Directors (the "Board") at their
+         respective meetings held on November 6, 2025 in accordance with Regulation 33 of Securities and Exchange
+         Board of India (Listing Obligations and Disclosure Requirements) Regulations, 20 I 5, as amended (the
+         "Listing Regulations"). The said results have been subjected to limited review by the statutory auditors, who
+         have issued unmodified reports thereon.
+
+    2)   The said standalone and consolidated financ ial results have been prepared in accordance with the recognition
+         and measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting"
+         (Ind AS 34) prescribed under Section 133 of the Companies Act, 2013 (the "Act") and other accounting
+         principles generall y accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+
+    3) The said consolidated financial results include the results of the Company along with its 14 subsidiary
+       companies (including step-down subsidiaries), I partnership firm and I association of persons (collectively
+       re ferred to as "the Group") and 3 associates.
+
+    4)   The Board of Directors has declared an interim dividend of Rs. 1.50 per share of the face value of Re. 1/- each
+         on November 6, 2025. This w ill result in cash outflow of Rs. 143.43 crore in the next quarter (quarter ending
+         December 31, 2025 ).
+
+    5)   During the quarter ended September 30, 2025, the Allotment Committee of the Board has allotted an
+         aggregate of 53,750 equity shares of the face value of Re. 1/- each to the eligible employees upon exercise of
+         stock options by them. Consequent upon the said allotment of equity shares, the total paid up equity share
+         capital of the Company has increased to Rs. 95,62, 16,090/- (Rupees Ninety-five crore sixty-two lakh sixteen
+         thousand and ninety only) representing 95,62, 16,090 equity shares of the face value of Re. 1/- each.
+
+         The gross charge for the share-based payments towards stock options granted by the Company is Rs. 1.42
+         crore and Rs. 2.62 crore for the quarter and half year ended September 30, 2025, respectively.
+
+   6)    With effect from April I, 2025, the operating segments used for the purpose of internal performance review
+         and resource allocation were revised in accordance with Ind AS I 08 "Operating Segments" to enable a more
+         meaningful presentation of the financial results of the business activities in which the Group operates. In line
+         with the above, the underlying businesses of the erstwhile segments, namely (i) Investment Bank,
+         (ii) Mortgage Lending, (iii) Alternative & Distressed Credit, and (iv) Asset Management, Wealth
+         Management & Securities Business (Platform AWS) have been reclassified into four new reportable
+         segments, namely, (i) Corporate Advisory and Capital Markets, (ii) Wealth and Asset Management,
+         (iii) Private Markets, and (iv) Affordable Home Loans. Treasury and others include unallocated surplus funds.
+
+         Accordingly, the comparative segment-wise information for all the periods presented in these results have
+         been restated to conform with the current period's classification .
+
+   7)    During the quarter ended September 30, 2025, the Company's subsidiaries/step-down subsidiary namely, JM
+         Financial Credit Solutions Limited ("JMFCSL"), JM Financial Products Limited ("JMFPL") and JM
+         Financial Home Loans Limited ("JMFHLL") executed an Investment Agreement with Bajaj Allianz Life
+         Insurance Company Limited ("Bajaj Allianz"). In line with the said agreement, JMFCSL sold 1,36,46,000
+         equity shares of JMFHLL (approximately 2. 1% of JMFHLL's total issued share capital) of the face value of
+         Rs. I 0/- per share at a price of Rs. 48/- per share aggregating to a total consideration of - Rs. 65.50 crore to
+         Bajaj Allianz on August 11 , 2025. Pursuant to the completion of the aforesaid transaction, the shareholding of
+         JMFCSL in JMFHLL reduced from 8.98% to 6.88% and consequently the Company's effective shareholding
+         in JMFHLL, through its subsidiaries (viz., JMFPL and JMFCSL) reduced from 98.76% to 96.66%.
+
+   8)    As reported earlier during the quarter ended March 2025, the Company had received a favourable order from
+         the Deputy Commissioner of Income Tax, Government of India under Section 254 read with Section 143(3)
+         of the Income-tax Act, 1961 in respect of the assessment year 2008-09. Pursuant to this order, the Company
+         continues to await the receipt of a total refund of - Rs. 230 Crore (including interest) and will give effect
+         thereof upon actual receipt during the appropriate future eriod.
+
+
+
+                                                                                                                        8
+
+                                                                                          j JM Financial
+9)   As reported earlier, SEBI had issued a confirmatory order dated June 20, 2024 (the "Order"), whereby SEBI,
+     in line with the voluntari ly undertakings by the Company, had directed the Company to not accept any new
+     mandate as a lead manager in public issue of debt securities up to March 31 , 2025 or till such further date as
+     may be specified by SEBI. The Order also clarified that the directions contained in it are limited to the
+     Company' s role as a lead manager to public issue of debt securities and does not relate to other activities of
+     the Company, including acting as a lead manager to public issue of equity instruments.
+
+     SEBI vide its order dated September 19, 2025 (the "Settlement Order") has settled the potential
+     proceedings, if any, that may have been initiated against the Company and its subsidiaries viz., JM Financial
+     Services Limited ("JMFSL") and JMFPL. The Settlement Order was issued pursuant to the charges paid and
+     undertakings agreed by the said entities to SEBI as follows:
+        - The Company paid Rs. 1.56 crore towards settlement and Rs. 1.22 crore towards disgorgement.
+            Additionally, the Company agreed for voluntary debarment from acting as a lead manager in any
+            publi c issue of debt securities for a period of 3 months from the date of the Settlement Order.
+        - JMFSL paid Rs. 1.92 crore towards settlement and Rs. 1.33 crore towards disgorgement. Additionally,
+           JMFSL agreed for vo luntary debarment from acting as a distributor in any public issue of debt
+           securities for a period of3 months from the date of the Settlement Order.
+        - JMFPL paid Rs. 0.44 crore towards settlement and agreed for voluntary debarment from undertaking
+           the business of !PO financing for a period of 3 months from the date of the Settlement Order.
+
+I 0) The aforesaid standalone and consolidated financial results are being uploaded on the Company's website
+     viz., www.jmtl.com and the websites of BSE Lim ited and National Stock Exchange of India Limited viz.,
+     www.bseindia.com and www.nseindia.com. respectively.
+
+
+                                                                       For and on behalf of the Board of Directors
+
+                                                                                  ✓ ,'-.,\.._...1.
+                                                                                                Vishal Kampani
+Place: Mumbai                                                                 Vice-Chairman and Managing Director
+Date: November 6, 2025                                                                           (DIN: 00009079)
+
+
+
+
+                                                                                                                 9
+

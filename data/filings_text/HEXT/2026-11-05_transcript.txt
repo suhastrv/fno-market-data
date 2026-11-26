@@ -1,0 +1,968 @@
+HEXT/SE/2026/118
+
+Date: November 05, 2026
+
+
+
+To,
+The Manager                                              The General Manager
+Lis ng Department                                        Department of Corporate Services
+Na onal Stock Exchange of India Limited                  BSE Limited
+Exchange Plaza, Bandra-Kurla Complex,                    Phiroze Jeejeebhoy Towers,
+Bandra (East), Mumbai - 400 051                          Dalal Street, Mumbai - 400 001
+Symbol: HEXT                                             Scrip Code:544362
+
+
+Dear Sir/ Madam,
+
+
+Subject: Transcript of the Investors/Analysts call
+
+Pursuant to Regula on 30 of the SEBI (Lis ng Obliga ons and Disclosure Requirements) Regula ons,
+2015, please ﬁnd enclosed the transcript of the Investors/Analysts Earnings Conference Call held on
+Thursday, October 29, 2026, in connec on with the ﬁnancial results of the Company for the quarter
+and nine months ended September 30, 2026.
+
+The transcript is also uploaded on the website of the Company and can be accessed at the weblink:
+
+h ps://hexaware.com/investor-rela ons/
+
+This is also being made available at the website of the Company i.e www.hexaware.com
+
+Yours faithfully,
+
+For Hexaware Technologies Limited
+GUNJAN Digitally
+       by GUNJAN
+                 signed
+
+SUMIT SUMIT    METHI
+       Date: 2026.11.05
+METHI 18:05:29 +05'30'
+
+Gunjan Methi
+
+Company Secretary and Compliance Oﬃcer
+
+
+
+
+HEXAWARE TECHNOLOGIES LIMITED
+Regd. Office: 8th Floor, 13th Level, Q1, Loma Co-Developers1 Private Limited, Plot No. Gen-4/1, TTC Industrial Area,
+Ghansoli, Navi Mumbai-400710, Maharashtra, India) | Tel: +91 022 3326 8585 | Email: investori@hexaware.com
+CIN: L72900MH1992PLC069662 | URL: www.hexaware.com
+
+                                Hexaware Q3CY26 Earnings Call
+                                     October 29, 2026
+
+Moderator
+
+Ladies and gentlemen, good day. Welcome to Hexaware Technologies Limited's conference call
+for the Q3CY26 earnings call. We'll begin today's session with a presentation from the
+Hexaware management team, followed by a Q&A segment. To ask a question during Q&A,
+please use the raise hand feature located at the bottom of your Zoom interface. This will place
+you in the virtual queue. I will now hand the conference over to Mr. Ajay Joshi, Head of Investor
+Relations. Thank you. Over to you, Mr. Ajay.
+
+Ajay Joshi
+
+Thank you. Hello, everyone. Welcome to Hexaware Technologies' Q3 CY26 earnings call. In the
+call today, we have with us our CEO, Mr. Vivek Jetley, and our CFO, Mr. Vikash Kumar Jain. In
+the course of this call, we may make certain statements which are forward-looking and may
+involve a number of risks and uncertainties. All forward-looking statements made herein are
+based on information presently available to the management.
+And the company does not undertake to update any forward-looking statements that may be
+made in the course of this call. In this regard, there is a full disclosure which has been included
+in the investor presentation and the press release. We consider that as read.
+
+With this, I hand over the call to Vivek. Over to you, Vivek.
+
+Vivek Jetley
+
+Thank you, Ajay, and good morning, everyone. Thank you for joining us. It is a privilege for me
+to be speaking with you today on my first earnings call as the CEO of Hexaware. Before I
+proceed, I wanted to acknowledge Keech and the extraordinary contribution that he has made
+to Hexaware. For the last 12 years, he has led this business through significant changes and
+has grown our revenue fourfold. That is a substantial achievement. His legacy goes beyond
+numbers. It is in the client's relationships, the capabilities, and in Hexaware's culture. He leaves
+a very strong foundation for us and a great base for us to build upon. On a personal note, I am
+grateful for his generosity, for his openness, and keen insight. I have benefited immensely from
+his support through this transition, and I'm glad that we will continue to benefit from his
+experience and counsel as a senior advisor. I also wanted to acknowledge the broader
+Hexaware team. What has stood out for me through this transition is their commitment to our
+clients and to the work that we do every day. Client centricity is core to our DNA, and I want
+us to carry that commitment forward with clear priorities, accountability, and a relentless
+focus on delivery.
+
+Now, many of you are hearing from me for the first time, so I'll start with a little bit about me,
+
+what brought me to Hexaware, and how I see the opportunity in front of us. I will then turn to
+the quarter before handing it over to Vikash for our financials. I've spent about 25 years
+working at the intersection of data, AI, and enterprise transformation. Most recently, I was at
+EXL, where I was the president of insurance, healthcare, and life sciences businesses. Before
+that, I led EXL's analytics business, where we built and scaled an industry-leading advanced
+analytics, AI services, and data engineering capabilities. Over that time, I have seen several
+technology cycles up close. Data becoming strategic, cloud reshaping enterprise technology,
+and more recently, the AI adoption supercycle. Each shift created real opportunity, and each
+one needed new capabilities, fresh thinking, and the willingness to disrupt and build anew.
+We are now at the most pivotal moment with enterprise adoption of AI and the massive
+opportunity that it represents.
+
+So why Hexaware? Why Hexaware at this moment? Because the ideal partner for AI adoption
+requires a combination of technology, data, AI, and business specialization that can be
+leveraged in a flexible and fast manner. AI is democratizing technology. Models, tools, and
+code are increasingly available to everyone. But the ability to deploy, to scale, to govern, and
+to produce business outcomes, that is still very scarce. AI can change the way companies
+operate. It can change how an insurer underwrites risk, how a bank services its customers, and
+how a healthcare provider ensures healthier patient outcomes. The services companies that
+will win the AI mandate will need to combine technology, data, and AI skills with deep business
+knowledge and the ability to execute, and that combination is a combination that Hexaware
+provides along with the scale, our deep roots in key verticals—a technology vertical that is
+growing really rapidly—clients that have trusted us for decades—and a fast-moving culture. I
+came on board because I believe that Hexaware has the ingredients to help define the next
+cycle, and I want to be a part of building that.
+
+Now, at Hexaware, our AI strategy is built on three pillars. You heard a little bit about that on
+our AI day, and I wanted to reiterate that. Our first pillar is AI for IT. We are embedding AI
+across the technology lifecycle. Earlier this year, we launched Zero Friction Enterprise to help
+clients modernize their legacy systems, reduce technical debt, improve software quality,
+strengthen the cyber resilience, automate operations, and overall accelerate application
+delivery. Offerings such as zero tech debt, zero vulnerability, zero backlog, zero defects, and
+zero tickets help clients move forward towards a zero-friction technology environment. Zero
+license, which is a part of our zero-friction enterprise, helps enterprises move from managed
+subscriptions to owned assets and to gain traction. Since its launch earlier this year, eight
+customers have already moved workloads to our AI native or cloud native environments,
+saving them millions in terms of workload costs. And we're seeing a lot of interest, which is
+kind of expanding our pipeline for these offerings.
+
+Just as an example, recently we helped a leading secondary mortgage enterprise replace its
+low-code, no-code workflow platform with a cloud-native solution. It helped them save more
+than $10 million in license costs.
+
+Now, AI is only as effective as the context that it understands. So at the heart of Zero Friction
+Enterprise is Zerovity, our enterprise AI platform, and a first-of-its-kind approach to enterprise
+technology intelligence. It connects the context, the relationships, and dependencies across
+an enterprise technology landscape, revealing how systems interact, where risks and
+inefficiencies exist, and where transformation can deliver the greatest value. This is something
+that's going to be one of our big featured offerings going forward.
+
+The second pillar for us is AI for business. This is where I believe the greatest value will
+ultimately emerge. The opportunity goes beyond incremental efficiency. It's about really
+reimagining how businesses are run. Now, this requires business knowledge, a clear
+understanding of the end-to-end workflow, the economics, and the client's desired outcome.
+As adoption grows, we see significant opportunities to embed AI in core business operations,
+driving faster growth, better customer outcomes, and stronger competitive differentiations.
+Two recent projects illustrate our work. Number one, we're helping a bank that specializes in
+cross-border payments use digital twins and autonomous AI agents to replace the static and
+rule-based routing. And we're replacing that with real-time orchestrated global commerce.
+Effectively, we are building out the agentic infrastructure and the agents for individual
+outcomes for them.
+
+Second, we're helping a semiconductor company deploy AI agents for root cause analysis and
+governed digital employees in a high-tech factory operations reducing mean time for
+resolution for them by about 90 plus percent. These examples are just a couple of the
+examples that we're working on in the AI for business arena, and we hope to do a lot more of
+these as we go forward.
+
+The third pillar for us is AI foundation. Now, this is about helping enterprises build the
+capabilities to accelerate AI adoption for them, and more importantly, for them to realize a
+return on that investment. We help them build trust in the AI outcomes by helping them
+prepare their enterprise data, establish strong security, compliance, and governance through
+a harness, and we build and manage their AI infrastructure. Supported by a growing cadre of
+certified FTEs, these services help clients deploy and scale AI seamlessly as an example, we
+are helping a frontier model provider expand their AI model into global markets by helping
+them with pre-training, validation and reinforcement learning from human feedback, and in
+this particular case, we are doing that across multiple global languages and dialects.
+
+Our expanded partnership with Anthropic, which we announced earlier in this quarter, is
+another concrete step in our shift towards data and AI. As a preferred partner in the cloud
+partner network, one of only a handful of India-based tech services partners, we will power
+our platforms with Anthropic's models, gain early visibility into their roadmap and starter kits,
+and access their new capabilities. Our FTE team, which includes a large Anthropic certified
+pool, will focus on cloud deployment services. We're also establishing an Anthropic unit to
+deepen the strategic client engagement, which will help our clients define and execute their
+AI priorities. Already about 1,200 Hexawarians are Anthropic certified. We remain on track to
+
+meet our previously stated goal of 250 FTEs and 1,000 AI architects by the middle of next year.
+
+Now, the strength of these offerings is reflected in certain recent industry recognitions.
+Gartner positioned Hexaware as a visionary in custom software development services, while
+ISG named us a leader in AI-powered business transformation with AWS. This recognition is
+an encouraging validation of the capabilities that we have already built.
+
+Now, let me turn to Q3, and I wanted to just start off with some of the numbers. Revenue for
+the quarter was $412 million. It was up 1.6% sequentially. Now, this was below our
+expectations, and it reflects the softness in one of our GSE clients and slower than anticipated
+progress in selected large deals. Overall, our performance was encouraging with a lot of our
+verticals actually growing sequentially. Growth was led by Banking and by TPP, our Technology
+Products and Platforms business. On a geo basis, Europe and APAC are big drivers of our
+growth. And our adjusted EBIT margin was about 13.8%, excluding one-off costs related to the
+restructuring of our Netherlands operations.
+
+Vikash will take you through the financials in detail. As I step into the role, my priority is to
+develop a clear assessment of our client commitments, the quality of our pipeline, and the
+assumptions that underpin our growth expectations. I'm also going to review our sales to
+revenue realization process and forecasting. Now, as we transition into the role, and as I'm
+starting off this quarter, we will not be providing an outlook for the current quarter, Q4CY26.
+We will ensure that our team and I can confidently stand behind our next outlook and that our
+process improves both the rigor and the accuracy of our forecasts.
+
+I recognize the importance of visibility and consistency for our stakeholders. When we report
+our full year results, I will share our priorities for the year ahead and the key assumptions
+behind it. My objective is straightforward. It is to set clear expectations and build confidence
+through consistent performance against those expectations. Now, over the next 90 days, I will
+focus on three priorities. Number one, I will spend time with our strategic clients to understand
+where the business is heading, how their priorities are changing, and where they need more
+from Hexaware. These conversations will help us identify where we have earned the right to
+do more and where we need to improve.
+Number two are people and execution. I want to understand what our best teams do
+exceptionally well and how we can make that a standard across the business. That means
+consistent high-quality delivery, faster decisions and effectively removing the obstacles that
+are getting in the way of serving our clients. Our team is central to the value we deliver and
+investing in the team is fundamental to the business we want to build.
+
+Third, our capabilities and investment choices. We will access where deeper industry expertise,
+differentiated solutions and AI led offerings can create the greatest value for our clients. We
+will continue to invest in talent, platforms and partnerships with a clear line of sight from
+investment to client adoption and commercial results. I will share our strategic plan once that
+the assessment is complete. We will set out where we intend to compete. The choices we are
+
+making and how we will measure our progress. Our ambition is to accelerate growth and our
+focus will be on growing our business and strengthening our execution. What you should
+expect from us is clarity on our priorities, discipline in our commitment and candor about our
+performance including where we fall short and what we are doing about it. We will set clear
+expectations, report transparently on our progress and hold ourselves accountable for that
+delivery. Before I close let me return to why I joined Hexaware. I believe in this business, in our
+people and what we can build together. My focus now is on working with our team to realize
+that potential and to convert it into sustainable performance. With that let me hand it over to
+Vikash who will take you through the financials. Vikash over to you.
+
+Vikash Jain
+
+Thank you, Vivek and welcome to Hexaware. Day one for you. Good morning, everyone.
+
+I will take you through the financial performance for the quarter, the movement across our
+business segments, the key offerings and the cash flow metrics.
+
+On the Deal Wins, let me add color to the deal wins in addition to what Vivek highlighted. The
+wins in the current quarter span across legacy modernization, data modernization, enterprise
+applications, customer experience and regulated industry transformation. Now what the
+portfolio reflects is a healthy mix of existing client expansion and new logos across industries
+and Geos.
+
+In TPP vertical, we have been selected by a smart home and property technology platform to
+deliver AI meeting customer experience that would help improve revenue and operations for
+the end client. The commercial model is a reflection of what we are moving towards which is
+completely outcome-based pricing.
+
+At a leading ANZ bank which is from our Asia Pacific region’s banking vertical. We are delivering
+on a zero-license offering , saving the client millions of dollars in license costs every year.
+
+In a global pharmaceutical player, we are delivering on an AI Application and Agentic
+Development. In this client, in addition to the current deal we are pursuing a separate large IT
+cost optimization opportunity.
+
+In the manufacturing vertical we have been selected by a global data storage company to build
+on an agentic AI factory.
+
+In a UK utility company, our engagement focuses on modernizing legacy applications using
+Power Apps and digitizing the regulatory and operational processes.
+
+Bottom line is, we are seeing AI getting embedded into Application development,
+
+modernization, data platform, customer operations and helping us gain market share both in
+existing clients and opening us new logos across the Geos.
+
+In terms of our financial performance, revenue for the quarter came in $411.9 million. This
+represented sequential growth of 1.6% and YoY growth of 4.3%. In constant currency terms,
+revenue grew over 1.7% sequentially and 4.5% YoY. In Rupee terms, revenue was INR 39,331
+million up 2.3% sequentially and 12.9% YoY. In Dollar terms, the sequential growth of 7 million
+revenue was driven by a combination of volume, better seasonality, partially offset by lower
+license revenues.
+
+On margins, reported EBIT for the quarter was at 12.2%. This quarter included 160 bps of items
+that we have adjusted for, resulting in an adjusted EBIT margin of 13.8%. On an adjusted basis,
+margins improved by 17 bps sequentially.
+
+The sequential improvement was supported by calendar and foreign exchange. This was partly
+offset by continued investments in capabilities and growth as well as increase in onshore
+revenue mix. The reported PAT was at 10.9% while the adjusted PAT was lower than the
+reported PAT at 9.4%.
+
+Now let me explain the one timers in the current quarter. First is towards acquisitions. When
+restructuring M&As, we design the earnouts in a way that we pay for performance. Now when
+acquired businesses deliver as was with the large majority of the SMC earn out, we paid. When
+targets are not met, the contingent payment is reversed and the customer intangibles are
+amortized.
+
+Now this quarter is a good example of that mechanism which is working on both ways and you
+would see that. We recognized a 530 bps earnouts reversal on SMC, while the performance of
+Cybersolve led to an additional 110 bps earnout charge. In other words when performance
+supports a higher payout, we recognize the additional cost and where the targets are not
+achieved, the liability is reversed. The net impact was 420 bps credit in other income, partly
+offset by 140 bps of intangible amortization.
+
+Second, is the leadership transition. This quarter we saw a leadership transition at the CEO
+level that had a net impact of 20 bps in the P&L and that’s a one-time charge.
+
+Third, as part of aligning our cost structure with the needs of the business, we have
+restructured our Netherlands operations during the quarter. Now there is a one-off cost of
+close to $6 Mn, which we took in the quarter and the restructuring is expected to improve the
+profitability of our business on go forward basis.
+
+The restructuring costs include an one-time severance, legal and lease closure effects that had
+an impact of around 150 bps at PBT level. On a go forward basis, we expect this to improve
+our annual Operating margins by 40 bps every year.
+
+EBIT Level only has impact of amortization of intangibles in leadership transition. While at a
+PAT level there are impacts associated with EBIT Level plus impact of restructuring of our
+Netherlands entity, reversal of acquisition earnouts and the related tax effects.
+From a margin perspective YTD Q3 our EBIT Margins have been at 13.6%. Now Q4 we know is
+a seasonally weak quarter for margins. Next quarter margins would have headwinds from
+seasonality and merit increase partially offset from tailwinds from better realization and
+operational improvements including the uplift from the Netherlands entity closure that I spoke
+about earlier.
+
+We announced our merit increases yesterday to the organization, and the merit increases are
+going to be effective from the first of October. This is one of the first decision that Vivek has
+made immediately after joining. The merit increase impact is close to 100 bps.
+
+For CY26, we continue to expect adjusted EBIT margins to be within the communicated range
+we had given earlier. However, given that we have one quarter left, we are narrowing the full
+year margin range to be in the range of 13 to 13.5%.
+
+A bit of the color on the units. YoY growth was broad-based with 6 of the 7 verticals delivering
+YoY growth. Banking, TPP, PS, H&I delivered healthy YoY growth. On sequential basis growth
+was led by FS, Banking and TPP.
+
+Financial services grew 3.0% sequentially and 2.4% YoY. Now within this vertical one GSE client
+is gaining traction following a vendor consolidation exercise that we completed in the current
+year. The other GSE client where we had benefited from consolidation last year is now going
+through a cost-optimization exercise. Now we continue to maintain market share and not
+losing it to any competitor, however there is a headwind coming in from the cost optimization
+exercise that the client is undertaking. This affected Q3 and will continue to have an impact in
+Q4.Absorbing this headwind, we expect FS to grow full year though it will be below the
+company average.
+
+Healthcare and Insurance declined 40 bps sequentially but grew 6.3% YoY. The sequential
+softness was mainly due to lower asset revenue offset by volume and calendar benefits. The
+underlying business remains very healthy supported by rampups and broad based growth in
+our Europe portfolio.
+
+Healthcare and Insurance will be one of our strongest YoY drivers for the company on a full
+year basis.
+
+Manufacturing and Consumer – Deal closures as we have called out earlier have started
+converting into revenues and the vertical grew 1.8% sequentially and 3% YoY. Growth was
+broad-based across accounts, sub sectors and geos with contribution from both existing clients
+and new logos. This is the 5th quarter of continuous YoY growth for M&C.
+
+Professional Services was broadly stable sequentially and grew at 7.8% YoY. Now the
+sequential performance reflects normal seasonality after a stronger prior quarter for the
+largest client in this vertical. You would recall the largest client in this vertical follows a fiscal
+year which is from July to June so Q2 for us which is Apr to Jun, turns out to be very strong for
+this vertical.
+
+Banking – Delivered another strong quarter growing 6.6% sequentially and 13.5% YoY. Growth
+has been secular for the last few quarters and we expect the last quarter to be strong for the
+full year. YoY growth is faster than the company average and has contributed from all the three
+geos.
+
+Travel and Transportation – Declined 3.5% sequentially and 8.5% YoY reflecting softness in the
+end client demand and the ongoing conflict in the Middle East. We expect this vertical to
+remain soft for the full year.
+
+TPP – grew 7.2% sequentially and 9.7% YoY. This vertical, which we began reporting separately
+this year, is showing good traction though on a smaller base.
+
+By geos, Americas grew 1.5% sequentially and 1.1% YoY. Performance as I had called out earlier
+was affected due to the softness in one of the GSE clients and the high-water mark based
+included a large asset transaction in the HNI vertical. The YoY growth is led by professional
+services and banking. Adjusted for the large asset deal, H&I’s growth in North America has
+been material and significantly outpaces the region and company average.
+
+FS, which is the largest vertical in Americas has been growing slower on the back of the GSE
+client which we spoke about earlier.
+
+Europe, grew 3.1% Sequentially and 12.8% YoY supported by account rampups both in existing
+clients and new logos. Europe’s YoY growth is broad based across the verticals. H&I, which is
+the largest vertical in Europe, has been the primary driver of growth on the back of continuing
+wins across new clients and wallet share gains in existing clients.
+
+Asia Pacific delivered healthy YoY growth at 20%. Vertical growth is broad based with FS
+Banking and M&C driving growth. As I called out earlier, GTT has shown material softness in
+APAC due to the ongoing macro situation in the Middle East.
+
+On client metrics, our client portfolio continues to broaden. We now have 32 clients with an
+annual revenue greater than 10 million compared to 30 a year ago. The number of clients
+above 20 million increased to 17 from 15.
+
+Turning to our operating metrics, total headcount closed at 35,887, with a net addition of
+1,381 during the quarter. IT additions was 386, the larger addition was in BPS, which was
+
+towards fulfilling seasonal demand in Q3 and Q4. Our onshore mix increased to 53.1%, this
+reflects the impact of rebadge-led engagements and recent ramps. We will continue to
+manage delivery mix as these programs mature.
+
+Voluntary attrition - In IT, it remains stable at 11.1%. Utilization was 84.9%, broadly unchanged
+sequentially and healthy by historical standards. We expect utilization to remain range bound
+as we balance delivery efficiency with capacity for future growth.
+
+Our closing cash and investment balance was close to $200 million, an increase of $23 million
+sequentially, mainly driven by operating cash generation. We continue to be debt-free.
+
+DSO came in at 77 days, one of the best in the industry compared to 78 days in the prior quarter.
+We again expect DSO to remain range-bound by year-end.
+
+Cash conversion continues to remain strong. The last 12 months operating cash flow is close
+to 110% of reported profit. Effective tax rate for the quarter came in lower at 21%. The lower
+rate is because of the earn-out reversals, which are not taxable, partly offset by the write-off
+of deferred tax assets associated with the Netherlands restructuring. Our normalized full-year
+effective tax rate expectations remains between 25 to 26%.
+
+EPS for the quarter was 7.06, up 30.7% sequentially and 16.1% year-on-year. The sequential
+increase was supported by the earn-out reversal, which increased reported PAT relative to
+adjusted PAT. This quarter also included approximately 3 million of hedge and translation
+losses. Based on the current hedge book and September-end exchange rates, we estimate
+losses of approximately 4 million and 3 million over the next two quarters respectively.
+
+To summarize ,Q3 delivered sequential revenue growth, a modest improvement in industry
+adjusted operating margins and healthy operating metrics and strong cash conversion. Growth
+was led by FS, Banking, and TPP. While the principal headwinds came from the GSE client,
+travel and transportation, and lower asset revenue.
+
+We remain focused on disciplined execution, protecting margins, while continuing to invest in
+the capabilities required for growth.
+
+With that, we will open the call for questions.
+
+Moderator
+
+Thank you very much. We will now begin the question-and-answer segment. To ask a question,
+please click on the raised hand button at the bottom of your Zoom interface to enter the queue.
+Once announced, kindly unmute yourself, state your name and organization, and proceed with
+your question. If your query is answered before your turn, you may press the lower hand
+
+button to exit the queue. We'll pause briefly to allow the team to assemble the list of
+participants.
+
+Your first question comes from Anmol Garg. Please unmute your audio and ask your question.
+
+Anmol Garg
+
+Yeah, thanks for the opportunity. I had a couple of things that I wanted to understand. Firstly,
+Vivek congratulations on the new role. I wanted to understand from you as your strategy going
+ahead, do you wish to add or double down on any service lines or any particular vertical that
+you may see traction right now in the market? As well as, do you want to change something
+in the sales team, particularly on the incentive side of things?
+
+Vivek Jaitley
+
+Yeah, so first of all, thank you, Anmol, and look forward to meeting you in person sometime
+soon. So what we are going to do over the next 90 days is actually do a full review of our
+strategy. Now, this is going to include thinking through where are the areas that we want to
+double down in. So where do we want to play? It's going to include a review of what it is that
+we want to kind of compete with. So what do we do? And then also an aspect of how do we
+make that happen both in terms of sales—so what do we do with large deals, what do we do
+with the go-to-market—and then also in terms of delivery, which is how do we bring more
+focus into the delivery. Finally, we're going to look at our investments and take a look at which
+are the areas we want to invest in where we want to grow. So the sum total of all of that is
+going to basically be our strategy plan, which we will hopefully bring back to you, the next time
+that we meet. From that point on as I said earlier, we'll set out the roadmap and the
+expectations, and you'll see us kind of follow through against the execution on that and also
+give you a line of sight to certain metrics around the execution. So, this is day one for me, but
+that's essentially the plan that we'll put together over the next weeks and couple of months
+and then come back and show you that.
+
+Vikash Jain
+
+Just to add to that, just to add to that on the second part of your question with respect to the
+sales incentive plan: If you recall on our AI day, Shantanu presented that very recently we
+transitioned for our hunting team from a quota-based plan to a commission-based plan. And
+that's something which we expect is going to work out well but as Vivek mentioned, I think
+everything is going to be reviewed with a lens of what can help us in terms of increasing the
+velocity of the deals both from a demand generation and from a demand capture perspective.
+But just wanted to call out that hey, there's something we recently changed in the current year
+from a sales incentive perspective.
+
+Anmol Garg
+
+Understood. My second question is on the guidance. So, I know we haven't given guidance
+this time, but last time our guidance was around six to seven percent. So now, after 1.7 percent
+growth in this quarter, to achieve the guidance, the ask rate required for the fourth quarter
+remains quite high in the range of 4 to 5%. So do you see any sort of traction in the fourth
+quarter this time and what could lead to meeting our guidance?
+
+Vikash Jain
+
+You know, as Vivek mentioned in his opening remarks, revenue for the quarter was below our
+expectations. And that reflected the softness in one of our GSE clients and slower than
+anticipated progress in some of the large deals. Now, these ones continue to have impact even
+in Q4. So while we are not sharing a specific number for the quarter, what I would like to call
+out is we expect Q4 to follow the seasonal pattern you have seen from us in previous years.
+And in previous years, Q4 basically has the usual effect of furloughs and fewer working days
+leading to a sequential decline. So I just wanted to reiterate that: hey, we are not giving specific
+guidance per se, but what we are calling out is Q4 is expected to have the same seasonal
+pattern what you have seen in previous years.
+
+Anmol Garg
+
+I had one more question. So we had, you know, liquidated Mobiquity Netherlands this quarter.
+So any kind of revenue impact in the coming quarters, Vikash, that you can sort of indicate
+over there?
+
+Vikash Jain
+
+
+No, so I mean, I want to reiterate one thing that Mobiquity for us has worked out to be a great
+acquisition in terms of building our capability from a product development perspective and
+did this acquisition back in 2019. Now, Netherlands operations came in along with that. A lot
+of the customers have what COVID taught and this acquisition we did before COVID, what
+COVID enabled the customers to see is a lot of the work, which was getting done from an on-
+site perspective, similar quality of work can be done from an offshore perspective at a much
+reduced price point. So the clients actually transitioned a lot of the work toward their
+operations and other offshore locations or low-cost locations. So from a revenue perspective,
+it has marginal impact. Being a complex labor law country, while the revenue declined, we
+could not optimize in terms of our costs in line with that revenue. And hence, we had to make
+this decision in terms of restructuring our operations. So, a long answer to your question, but
+the short one-word answer for that is we don't see a material impact in terms of revenues
+because the revenues were already transitioned to offshore locations.
+
+Anmol Garg
+
+Thanks, guys. I'll join back in the queue.
+
+Moderator
+
+Your next question will come from Gaurav Rateria with Morgan Stanley. Please unmute your
+audio and ask your question.
+
+Gaurav Rateria
+
+Hi, thanks for giving us this opportunity. Many congratulations on your exciting new role.
+
+My question is with respect to the business momentum that we had built over the last several
+quarters, which was supposed to help us exit this year with a very strong rate and give us
+momentum for the next year. Now, I understand that we are in the middle of this transition
+that is taking place. But if I were to break down the entire outlook into two parts, which is one
+part is the existing momentum in the business that we had built over the last several quarters,
+along with the macro and client-specific things that are going on, versus the transition that we
+have seen in the senior management team. And because of those transitions, some things kind
+of getting here and there in terms of the plans. So I just want to understand: I agree with the
+transition part. I understand that we'll come back in 90 days and come out with a refresh on
+the strategy. And I totally support on that. But what about the existing momentum in the
+business that we had built? How should we think about that?
+
+Vivek Jetley
+
+Sure, sure. So I can take a stab at this and then I think Vikash will also pitch in with some
+specifics. So I want to be clear, absolutely clear about one thing, which is as far as the company
+is concerned, as far as Hexaware and these employees, there has been no slacking off. There
+has been no kind of taking the eye off the ball in terms of business. The kind of motion that
+we had under Keech and the kind of cadence that we had in terms of chasing up after clients,
+that stayed through in this transition period and you'll actually see that stay through
+consistently over the next few months. So there's not really been any impact whatsoever in
+terms of the company. Now, the momentum that you're talking about, it actually still exists.
+When we look at our pipeline; all those opportunities are still there. The deals have progressed.
+What hasn't happened, and this is where the impact in Q3 came in, was we'd actually expected
+some of those deals to have already closed. And for various reasons, and client reasons, in
+certain cases, longer decision cycles, some of those deals have not closed at the same rate at
+which we expected. Now, we can actually see all of those close in Q4. We can see some of
+them close in Q1. The short answer is I didn't have enough information right now to be
+definitive about when they'll close and project that out. And that's why we're kind of stepping
+back and taking some time. But there's actually been no change at all in the underlying
+
+business momentum. When we see our pipeline, when we see the deals in the pipeline, it's all
+looking very, very strong.
+
+I want to close out with one other thing on that aspect which is you know we talked to you
+earlier about a lot of these client are kind of our vendor consolidation effort where they were
+coming back and asking about you know looking at vendor consolidation for rate saves. We've
+actually gone back and won most of those vendor consolidation initiatives. Of all the ones that
+we'd entered in, at this point in time, there's only one that is pending and only one where the
+result was negative for Hexaware. But everything else, Hexaware has actually come out as a
+winner.
+
+So I think there's also a lot of momentum that's in the business from that. And we expect to
+see both those things play out. Vikash, anything to add to that?
+
+Vikash Jain
+
+No, Vivek, you covered it well.
+
+Gaurav Ratra:
+
+Thank you, and all the very best. Thanks.
+
+Moderator
+
+Your next question comes from Prateek Maheshwari with HSBC. Please unmute your audio
+and ask your question.
+
+Prateek Maheshwari
+
+Thank you for the opportunity. And Vivek, congratulations on the role.
+
+My first question is to just understand. Basically, if you look at the performance versus
+guidance for the company, it has missed a few times over the last few quarters. As an early
+check, I just wanted to check from you, Vivek, what do you think preliminary should change?
+Is there a requirement for a process change, a stricter view of pipeline and conversion? Or do
+you think that things have been just unlucky also with the GSE client and the professional
+services client?
+
+Vivek Jetley
+
+Look, this is a tough question for me to answer, Prateek, because I'm still like day one. I don't
+have enough data points to tell you or do a root cause analysis for saying what happened, what
+didn't happen. I can tell you about Q3, and Q3 is really specific to those two factors. One is a
+
+slowdown in one of the GSEs, and then the other aspect is like a delay in some of those deal
+closures. But I'll step back and tell you a little bit about, you know, at least my philosophy in
+terms of how we want to do this forecast. As I've said in my remarks earlier, there's going to
+be a very, very strong focus from me and from the management team in making sure that we
+set these commitments and then we make our utmost effort to actually beat and to exceed
+them. So I'm going to be looking at the process. I'm going to be looking at the inputs into the
+process, the timing of when it comes in, the quality of the information, and there's going to
+be a really, really high degree of effort in making sure that we kind of keep coming in, meeting
+and beating our commitments and keep raising that cadence as we go along. So you should
+hope to see that from us as we go forward. And that's something that I assign a huge amount
+of weightage to and a huge amount of focus in building up that credibility.
+
+Prateek Maheshwari
+
+Vivek, second question is where the financials are today for Hexaware. I see there's enough
+opportunities to improve both the growth rate for the company and also the margins. But from
+your perspective, where would you look at things from a near-to-mid-term basis? Would you
+want to accelerate the growth further or simultaneously would you try for expanding the
+margins as well?
+
+Vivek Jetley
+
+So our long-term ambition for the business is actually to make sure that we provide sustainable,
+high-quality growth rate over a period of time. Now, what that means is that we actually will
+have to focus on and will focus both on increasing our revenue growth rate and improving
+profitability and the margin that comes with it. So it's not an either or; it's going to be both. In
+terms of the mechanics of it, in the short term, does that mean more focus on deal closure to
+get up the growth rate and then use that extra growth rate and the wins to then focus on
+margin? Or does it mean focusing on both of them at the same point in time? That's actually
+one of those strategy questions that we'll come back to you and talk to you about later. But
+long term, the focus is going to be on both. It's not either or; it's an add.
+
+Prateek Maheshwari
+
+Thanks. Last one, probably to you and Vikash. So just trying to understand the earnout. So, I
+think expanding the India business and probably helping increase the setups through
+Hexaware for GCCs, that's been one of the strategic growth priorities for the business. So I just
+wanted to check—if you could share probably how the recent acquisitions are performing, and
+like—and I think earnout reversal in SMC seems to be that they've fallen short of your
+expectations so far. Could you expand on both the acquisitions and how they're performing?
+Yeah, that would be great.
+
+Vikash Jain
+
+So, regarding the SMC acquisition as you said, was from acquiring GCC capability. We have
+continued to maintain it as a separate business because clients see an IT service provider
+versus a GCC service provider very differently. When we acquired this business, obviously it
+was a capability acquisition and not a scale acquisition. The underlying business case
+assumptions was that it would deliver ambitious growth numbers, and that's how a large part
+of the earnouts were structured. In the first year of performance, they delivered on those
+numbers. And a material chunk of those amounts were actually paid out last year. In the
+second year, SMC is falling short of those ambitious targets. Some of this is also due to a bit of
+a change from an industry perspective. With the AI wave ,some clients are actually going slow
+in terms of setting up GCC because they are inducing AI in their current operations and getting
+to a newer baseline from a cost perspective before they decide on doing those setups. But I
+wouldn't call out much impact from a maro perspective, but there is some bit of an impact.
+Now, the ambitious targets we set for SMC from a year two perspective, SMC is coming short
+it , leading to a reversal.
+
+On CyberSolve, which was the acquisition that we did in the security space, is performing really
+well compared to what we had estimated at the beginning of the transactions when we did
+the assumptions with respect to the enterprise valuation. The net impact of that is after we
+did their first earnout payments to them, we realized they are going to be blowing through
+their numbers so we had to go and restate the EV, and as a result of that you see a charge
+associated. It's a combination of two things: So we have an acquisition which is delivering
+shorter of the ambitious target we set for themselves from a year two perspective leading to
+a reversal, but at the same point in time, we have an acquisition which is delivering significantly
+better than what we had anticipated and hence there is an incremental charge. You pay for
+performance, and in capability acquisitions, you would see that because the capability
+acquisitions are small acquisitions, which are primarily predicated on the fact that this needs
+to help grow the organic business at a very different momentum from a revenue perspective.
+
+Prateek Maheshwari
+
+Fair, fair. Appreciate the color, Vikash. And thank you and all the best to the team. And
+congratulations once again. Thank you.
+
+Moderator
+
+Your next question comes from Dipesh Mehta with Emkay Global. Please unmute your audio
+and ask your question.
+
+Dipesh Mehta
+
+Yeah, thanks for the opportunity. Couple of questions. First, I just want to understand one of
+
+the reasons which you attributed about weak Q3 compared to expectation was slow ramp-up
+of large deal as well as delay in deal closer on some of the deals. Whether it is broad-based or
+you are seeing specific verticals where some of these impacts are visible. Second question is
+about the Netherlands operation where we are doing restructuring. Now, as per your footnote,
+you mentioned it is likely to be complete by Q2CY27. Do you expect some of these charges to
+continue even in subsequent quarters? If yes, what would be the quantum of those charges?
+And last question is about this asset revenue or license revenue. Now it remains fairly volatile.
+How to understand that volatility going forward? And any thought, let's say, from strategy
+perspective on this business? Thank you.
+
+
+
+Vikash Jain
+
+Okay, I'll take all three of them. So first is with respect to specific verticals. So there was two
+aspects of it which we called out. We have two GSE clients as part of our top three clients.
+You'll recall that in one of the GSE clients, we gained a market share after the vendor
+consolidation exercise last year, and that account was growing pretty healthy last year and the
+beginning of this year. The other GSE client was going through a consolidation exercise in the
+current year, and it was a neutral outcome for us. The GSE client which went through a vendor
+consolidation exercise in the current year after the decision was made we have started
+growing back so even though I call it neutral, it's net positive but on a marginal basis. The GSE
+client where we had gained after the vendor consolidation exercise last year the client is
+curbing on some expenses and so it's a cost optimization from a client perspective that's a
+headwind so that's one of the reasons.
+
+The second, from a deals perspective, I think we haven't lost the deals, but some of the
+decision making, as Vivek said, has been delayed because of changes at the client end, or they
+are taking more decisions in terms of figuring it out from their decision points perspective.
+Largely, they are centered around two verticals, one is in H&I, the other is in Travel and
+Transportation. Travel and Transportation also had some bit of an impact from a Middle East
+perspective, so this decision-making is in those areas too, given the war situation. Healthcare
+and insurance, even though the decision making has been delayed in some of this, we want to
+call it out that it's going to be one of the fastest growing verticals and the best performing
+vertical for us in the current year, so that color is important.
+
+In terms of the second question, in terms of the Netherlands operations, as I called out in my
+opening remark, the labor laws in the Netherlands is that of one of a complex country. We
+have completed our consultations with the Works Council, and based on that, we are
+proceeding with the restructuring. All the charges associated with the restructuring has
+already been taken in. So effective next quarter, there will be no incremental charges
+associated with it, even though the complete restructuring will get over by Q2 of next year.
+
+The third question was on asset revenues. Yes, asset revenues tend to be volatile on a
+
+sequential basis, but that's the nature of the business. But the way to think about that business
+is on the overall company level, asset revenues contribute to 2% of the overall revenue. So
+that's from a full year perspective. And in a particular quarter, that number could be anywhere
+between one and a half to two and a half as a percentage of the quarterly revenue. So that's
+the range of variation what you can have from an asset revenue perspective. So two percent
+at a full year basis. On a quarterly basis, the ranges can be anywhere between 1.5 to 2.5. So I
+don't think we called out the miss in the current quarter was not on account of asset revenues.
+What we called out on a sequential basis was there was a bit of a headwind on account of
+asset revenues, but when we had considered our forecast or outlook, we had already factored
+in that.
+
+Dipesh Mehta
+
+Thanks for so my question was more about whether we have seen even revenue conversion
+delay in some of the already closed large deals.
+
+Vikash Jain
+
+In one account specific yes but not on the other accounts. In most of the accounts it's been in
+line. In one account , yes, there has been a bit of a delay in terms of the ramp up because it's
+a rebadging deal the client went slower in terms of the initial phase but it will ramp up.
+
+Vivek Jetley
+
+Yes, I guess the bigger question you're asking is, are we seeing any trend there or is there a
+systemic issue there, which is slowing the ramp-ups? I don't think there is. I think the example
+that Vikash was talking about is a one-off; it's very client specific. So, we're not seeing a
+slowdown across the business. In fact, we are quite happy with the way our ramp-ups are
+progressing across the board.
+
+Dipesh Mehta
+
+And maybe next quarter, if you can provide some sense, let's say overall portfolio level, where
+you find, let's say, Hexaware strength and where you think some of the changes are required,
+just to get an overall holistic perspective from maybe the next three years. So that would be
+very helpful.
+
+Vivek Jetley
+
+Absolutely. Because what we do is, like I said, we are going to spend time thinking about where
+we want to play, which is where our strengths are. What do we want to do? How do we want
+to execute against it? Where do we want to invest? So we'll have some visibility and some
+transparency for you across the board.
+
+Dipesh Mehta
+
+Thank you.
+
+Moderator
+
+Your next question comes from Rishi Jhunjhunwala with IIFL Capital. Please unmute your audio
+and ask your question.
+
+Rishi Jhunjhunwala
+
+Yes, thanks for the opportunity, and Vivek, welcome to the new role. I have one question, and
+probably this is not regarding the business, and since this is day one, you have mentioned you
+would not be able to comment too much about the state of the company. What would be good
+is to understand from you: You come from a company which is divide odds in the wake of , AI
+and raising guidance every quarter. You were leading a portfolio which was growing 15%. Just
+wanted to understand, at least from your experience from your previous company, what are
+the verticals or service lines or any go-to-market that you think are differentiated, which could
+potentially be brought to Hexaware and revive growth? I understand there is a difference in
+what they do versus what Hexaware does. But at least from things that have worked there
+very well, what do you think could potentially benefit Hexaware?
+
+Vivek Jetley
+
+Sure. So Rishi, I won't be able to speak about specifics because obviously, I don't want to talk
+about any company in a specific way. But what I will talk to you about is, you know, effectively
+what has worked for a lot of companies in this space is, you know, pivoting into data and AI-
+led offerings and using those data and AI-led offerings to kind of create a stronger growth
+momentum. Now, Hexaware is ideally suited for that because if you think about the three
+pillars that we talked about, when I talk about AI for IT, this is where the focus is on saying
+what is it that we can do to make the IT work with infusing AI into it more productive. We've
+actually created the zerovity platform. We've got the traction, the client traction. I think there's
+the intent in doubling down on that. And what that will help us do is grab more market share
+within that space and actually also improve our margins as we're bringing in more productivity.
+
+On the AI for business side, I think that's where you know, the specific verticals where we can
+create very specific outcome-based interventions where we can start creating AI-led business
+outcomes. I think there's going to be a huge amount of focus at Hexaware on saying what is it
+that we can do in terms of building that out.
+
+And then finally, the AI foundation piece. I think with the Anthropic partnership, with our
+
+motion towards kind of building out FTE strengths, with our focus in terms of leveraging more
+partnerships for our data business, I think that's going to create the growth driver. Now, I've
+seen all of these different growth drivers work in various capacities. So there is the intent of
+saying we'll use some of that playbook. But honestly, the real answer is kind of looking at what
+do our clients need, how their needs are evolving, and making sure that Hexaware has the
+right solutions to be able to service that and win that market share.
+
+But then that's the intent. And that's what you're going to hear from me when I come back to
+you and kind of present the strategic plan.
+
+Rishi Jhunjhunwala
+
+Thank you, Vivek. All the best looking forward.
+
+Moderator
+
+Your final question today comes from Vibor Singhal with Nuvama Equities. Please unmute your
+audio and ask your question.
+
+Vibor Singhal
+
+Yeah, hi. Thanks for taking my question. And I wish you all the best, Vivek, for your role at
+Hexaware. Just a couple of very small questions. I think most questions have been answered
+in the quite comprehensive call that we've had. So, Vikash, and probably Vivek, if you can chip
+in as well.
+
+I mean, over the past seven quarters or last two years, we've seen these slow ramp up in deals
+and some clients' consolidation kind of impact our overall revenue growth, which had not
+historically been the case. For example, in this quarter, the GSE client impacted our growth.
+Earlier, the deals got prolonged and they were not close, so that impacted our growth.
+Generally, we were able to basically make up for these losses by growth from other accounts
+and elsewhere.
+
+So is that also symptomatic of the overall weak demand environment that we are seeing, that
+while we see some unanticipated weaknesses, we are not able to tide them over by kind of
+new deal wins or new business that we can probably push through in a quarter or in some
+time to manage the growth? And a related question is on the competitive intensity. We've had
+a couple of peers mention this in their calls that not all but yeah, in pockets there are some
+peers which have been bidding aggressively and kind of spoiling the market if I can use the
+term overall, what's your take on that? Are we also seeing some aggressive bidding by some
+of the players, and how is that impacting the overall demand pipeline and its conversion?
+
+Vikash Jain
+
+Sure.
+
+I think you're right in terms of saying that we have had situations where we have come short
+of what we had guided in terms of what our outlook would be. But I want to draw your
+attention to our last earnings call, where we did call out that vendor consolidation is natural
+part of how large enterprises manage their partnerships, and that's a structural feature of our
+industry, and has always been. It's not something which is new.
+
+Now, clients want fewer partners who can understand their business, work across the
+technology stack, take accountability for outcomes, and that actually helps us. Now, over the
+past year or so, what we saw was a significant number of our large clients went through this
+process—close to 13, if you recall what we called out in our last earnings call. Now while they
+were underway, clients understandably paused their decisions, and that actually had an
+impact on our growth.
+
+Now the good news is most of these outcomes have gone in our favor, and as a result of that,
+we expect that our role is going to expand in this clients. So I think that's been the case as far
+as vendor consolidation is concerned, and why it led to a bit of a slowdown in terms of our
+growth rates.
+
+The second aspect in terms of which are very client-specific, so which Vivek called out, that it
+is not a usual trend that we are seeing, but it just so happened a bit of a luck factor is also
+there. That in some of our clients, there are changes at the client end—CIO is changing, a new
+CTO is coming, change in direction—and in many cases, not even a change in direction. They're
+thinking about hey we need to understand what my predecessor was doing before I make a
+call associated with it. So a bit of a luck factor is also there in terms of some of these deal
+decisions getting pushed out or deferred.
+
+The good news is the deals are still active; it's a question of timing when it comes back in. Um,
+what's your next question? Sorry, remind me.
+
+
+
+Vibhor Singhal
+
+On the competitive intensity, are we seeing any players a bit aggressively and kind of spoil the
+market?
+
+Vikash Jain
+
+Yeah, but I'll tell you this. I mean, one aspect of it is that it's a buyer's market. The reason being,
+there are a lot of service providers who are willing to service the client. But in most of these
+
+cases, the ones who tend to lose more are the incumbent rather than challengers. The reason
+being for an incumbent, the revenue goes from 100 to 70, but for a challenger it goes from
+zero to 70. So we, being challenger in many of our accounts, actually tend to gain because the
+growth for us continues to come both from hunting and from farming. So a lot of this actually
+helps us. If you see the margin profile, I think the investments continue to happen, a lot of the
+benefits which are getting passed on to the clients is also on the back of what AI is going to
+enable from a productivity perspective. So there could be a deep discount in the initial phase,
+but from a medium-to-long term perspective, you would expect the margins to pick up. So yes,
+is there a pricing pressure there? Definitely yes, but it balances out in the overall life cycle of
+the project.
+
+Vibhor Singhal
+
+Great. Thank you so much for taking my questions. I think we've held you back for quite a
+while. Thank you so much, Vivek and Vikash for answering your questions, and wish you all
+the best.
+
+Vivek Jetley
+
+Thank you.
+
+Vikash Jain
+
+Thank you.
+
+Moderator
+
+Thank you, ladies and gentlemen. That brings our Q&A session to a close. I will now hand the
+conference over to management for closing comments. Over to you.
+
+Vivek Jetley
+
+Thank you all for joining my day one and thank you for joining me on this conference call. I
+want to kind of reiterate the couple of commitments that we've made to you. So we're going
+to come back to you and as we kind of develop our strategic plan, we'll come back to you and
+talk to you about it. Like I said, we'll reiterate the areas that we want to play in, the offerings
+that we're going to take to market, how do we plan on winning, and also give you a line of
+sight on our thinking on investments. And second, I think we are going to tighten the process
+in terms of our entire end-to-end process of how we think about sales, how do we convert
+sales into pipeline, and then how do we project that pipeline into the forecasts and bring more
+rigor and accuracy to it. So I think the goal from this point forward is to make sure that on that
+process, we don't slip, even if it means kind of expanding the safety margins. But those are the
+two commitments that we'll make to you, and you'll start seeing that in action starting with
+
+our next call. So thank you.
+

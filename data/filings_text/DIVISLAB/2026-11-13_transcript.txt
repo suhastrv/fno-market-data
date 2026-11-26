@@ -1,0 +1,1113 @@
+                                                                       November 13, 2026
+To                                                 To
+The Secretary                                      The Secretary
+National Stock Exchange of India Limited           BSE Limited
+Exchange Plaza,                                    Phiroze Jeejeebhoy Towers,
+Bandra-Kurla Complex, Bandra (East)                Dalal Street
+Mumbai – 400 051                                   Mumbai – 400 001
+
+Trading Symbol: DIVISLAB                           Scrip Code: 532488
+
+Dear Sir / Madam,
+
+Sub: Transcript of earnings conference call held on November 07, 2026
+Ref: Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements),
+     Regulations, 2015
+
+We hereby submit the transcript of the earnings conference call for the quarter and half year
+ended September 30, 2026, held on November 07, 2026, at 14.00 hrs. (IST). The transcript is
+also available on the website of the Company i.e. www.divislabs.com , under the Investors
+Relations section.
+
+This is for your information and records.
+
+Thanking You,
+
+Yours faithfully,
+For Divi's Laboratories Limited
+ SATISH    Digitally signed by
+           SATISH CHOUDHURY
+ CHOUDHURY MEKA
+           Date: 2026.11.13
+ MEKA      10:39:43 +05'30'
+
+M. Satish Choudhury
+Company Secretary & Compliance Officer
+
+             “Divi’s Laboratories Limited
+         Q2 FY27 Earnings Conference Call”
+                 November 07, 2026
+
+
+
+
+MANAGEMENT: DR. KIRAN S. DIVI – WHOLE-TIME DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER
+
+             MS. NILIMA PRASAD DIVI –WHOLE-TIME DIRECTOR –
+             COMMERCIAL
+
+             MR. VENKATESA PERUMALLU PASUMARTHY – CHIEF
+             FINANCIAL OFFICER
+
+             MR. M. SATISH CHOUDHURY – COMPANY SECRETARY
+             AND CHIEF INVESTOR RELATIONS OFFICER
+
+
+
+
+                        Page 1 of 18
+
+                                                                                          Divi's Laboratories Limited
+                                                                                                  November 07, 2026
+
+Moderator:             Ladies and gentlemen, good day and welcome to the Divi’s Laboratories Limited Q2 FY27
+                       Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode,
+                       and there will be an opportunity for you to ask questions after the presentation concludes. Should
+                       you need assistance during this conference call, please signal an operator by pressing star then
+                       0 on your touch-tone phone. Please note that this conference is being recorded. I now hand the
+                       conference over to M. Satish Choudhury. Thank you, and over to you, sir.
+
+
+M. Satish Choudhury:   Good afternoon to all of you. I am M. Satish Choudhury, Company Secretary and Chief Investor
+                       Relations Officer of Divi’s Laboratories Limited. I welcome you all to the earnings call of the
+                       Company for the second quarter of FY 2027. From Divi's Labs, we have with us today Dr. Kiran
+                       S. Divi, Whole-Time Director and Chief Executive Officer, Ms. Nilima Prasad Divi, Whole-
+                       Time Director (Commercial), and Mr. Venkatesa Perumallu Pasumarthy, Chief Financial
+                       Officer.
+
+
+                       During the day, our Board has approved unaudited financial results for the quarter and half year
+                       ended September 30th, 2026, and we have released the same to the stock exchanges as well as
+                       updated the same in our website. Please note that this conference call is being recorded, and a
+                       transcript of the same will be made available on the website of the company.
+
+
+                       Please also note that the audio of the conference call is the copyright material of Divi’s
+                       Laboratories Limited and cannot be copied, rebroadcasted, or attributed in press or media
+                       without the specific and written consent. Let me draw your attention to the fact that on this call,
+                       our discussions will include certain forward-looking statements, which are predictions,
+                       projections, or other estimates about future events.
+
+
+                       These estimates reflect management's current expectations of the future performance of the
+                       company. Please note that these estimates involve several risks and uncertainties that could cause
+                       our actual results to materially differ from what is expressed or implied. Divi’s Labs or its
+                       officials does not undertake any obligation to publicly update any forward-looking statements,
+                       whether as a result of future events or otherwise. Now, I hand over the call to Dr. Kiran Divi for
+                       opening remarks. Over to you, sir.
+
+
+Dr. Kiran S. Divi:     Good afternoon, everyone. Thank you for joining us today as we discuss Divi’s Laboratories'
+                       performance for the second quarter of the financial year 2026-27.
+
+
+                       I would like to begin by highlighting the key business developments, operational progress, and
+                       strategic initiatives undertaken during the quarter.
+
+
+                       Starting with our Generic business, performance remained stable during the quarter, supported
+                       by healthy volume growth across the business segment. While pricing pressures persist in certain
+                       product categories, we continue to maintain our focus on market competitiveness, manufacturing
+                       efficiencies, and disciplined capacity utilization. Our priority remains to sustain our market
+                       position while protecting the long-term economics of our operations.
+
+
+                       Coming to our Nutraceutical segment, increasing global emphasis on preventive healthcare,
+                       wellness, and scientifically validated ingredients presents opportunities for growth. We are
+
+
+
+                                                Page 2 of 18
+
+                                                                  Divi's Laboratories Limited
+                                                                          November 07, 2026
+
+expanding our capabilities to address these evolving customer requirements, leveraging our
+strength in chemistry, quality, and large-scale manufacturing.
+
+
+Moving to Custom Synthesis, customer engagement remains strong across our portfolio, with
+several programs advancing through different stages of development and commercialization.
+During the quarter, we have supplied validation quantities for select projects, enabling customers
+to progress with their qualification process.
+
+
+Our three major capital investment programs are also progressing through their respective
+validation stages. We remain focused on completing these activities in alignment with our
+customer requirements and applicable regulatory timelines, positioning these investments to
+support future commercial requirements.
+
+
+Peptides continue to be an important growing portfolio. We continue to witness sustained
+customer interest and program activity across the peptide fragments, with several products
+currently under validation or progressing through customer qualification.
+
+
+Our capabilities in this segment are supported by a vertically integrated manufacturing platform,
+extending from peptide building blocks to dipeptides, tripeptides, and large peptide fragments.
+This integrated approach strengthens our control over critical inputs, enhancing manufacturing
+flexibility, and supports our ability to address increasingly complex requirements from our
+customers. We continue to add capacity and are currently installing several 3,000 litre SPPS
+lines to meet the requirements of the programs we are working on.
+
+
+Technology development continues to be integral to our manufacturing strategy. We are further
+strengthening our flow chemistry platform through the addition of advanced technological
+capabilities, while simultaneously expanding our biocatalysis infrastructure to support usage of
+multiple enzymes at ton-scale manufacturing.
+
+
+These technologies are being progressively deployed across selected products and processes
+with the objective of improving process efficiency, consistency, scalability, safety, and overall
+manufacturing productivity.
+
+
+On the manufacturing front, Unit 3 continues to assume a large role within our production
+network. The facility is supporting our backward integration strategy through selected pre-
+chemistry operations while enabling the phased transfer of manufacturing activities from the
+existing facilities.
+
+
+Over time, we expect these initiatives to enhance manufacturing flexibility, improve resource
+utilization, and strengthen our overall cost competitiveness.
+
+
+Beyond our business operation, we remain committed to creating a meaningful and sustainable
+impact in the communities around us.
+
+
+Our CSR initiatives continue to focus on education, nutrition, and access to essential
+infrastructure. Through our education programs, we are supporting thousands of students in rural
+
+
+
+
+                         Page 3 of 18
+
+                                                                                        Divi's Laboratories Limited
+                                                                                                November 07, 2026
+
+                      communities by improving school infrastructure and contributing towards better childhood
+                      nutrition.
+
+
+                      Our safe drinking water initiative has also expanded its reach and now provides access to clean
+                      drinking water to more than 13 lakh individuals every day.
+
+
+                      To conclude, our priorities remain firmly centered on strengthening our core business, advancing
+                      customer programs, expanding our technological capabilities, and improving manufacturing
+                      competitiveness.
+
+
+                      We believe that our continued investments in capacity and backward integration and process
+                      technologies, together with our longstanding customer relationships, provides a strong
+                      foundation to support Divi's long-term growth.
+
+
+                      Thank you. I will now hand over the call to Ms. Nilima Prasad Divi, who will take you through
+                      the operational and financial highlights for this quarter.
+
+
+Nilima Prasad Divi:   Good afternoon, everyone, and thank you for joining us today to review Divi's Laboratories
+                      financial performance for the second quarter and first half of FY 2026-27.
+
+
+                      We appreciate your continued interest and confidence in the Company. Before presenting the
+                      financial results, I would like to provide an overview of the prevailing global trade and supply
+                      chain environment and the measures we have undertaken to maintain operational stability,
+                      manufacturing continuity, and reliability in meeting our customer commitments.
+
+
+                      The global operating environment continues to be influenced by geopolitical developments,
+                      particularly the ongoing disruptions in the Middle East and their implications for international
+                      trade and logistics. While the availability of key raw materials and solvents has remained largely
+                      stable, we have witnessed increased volatility in input costs, particularly in petrochemical-based
+                      solvents, where prices have remained elevated.
+
+
+                      The global logistics also continues to face challenges. Security concerns around the Red Sea and
+                      Suez Canal has led several major shipping lines to adopt alternate routes, resulting in extended
+                      transit times and higher ocean cost freight. Air freight has similarly been impacted by increased
+                      fuel prices, airspace restrictions, reduced carrier capacity, and sustained demand, contributing
+                      to higher transportation costs and longer lead times.
+
+
+                      Against this backdrop, we have continued to adopt a proactive and structured approach to
+                      procurement and supply chain management. Our diversified network of domestic and
+                      international suppliers, supported by advanced procurement planning and strategic inventory
+                      management, has enabled us to mitigate potential supply disruption. We continue to maintain a
+                      rolling three-month inventory coverage for critical materials, providing greater visibility and
+                      flexibility in production planning. This approach has been instrumental in ensuring uninterrupted
+                      manufacturing operations and minimizing the impact of fluctuations in material availability and
+                      shipment schedules.
+
+
+
+
+                                               Page 4 of 18
+
+                                                                      Divi's Laboratories Limited
+                                                                              November 07, 2026
+
+On logistics front, we remain closely engaged with our established transportation partners with
+advanced container booking and continuous shipment monitoring to manage extended transit
+times and ensure timely deliveries to customers.
+
+
+While these measures require a calibrated approach to inventory and working capital
+management, our priority remains to safeguard manufacturing continuity and fulfill customer
+commitments. Close coordination across our procurement, manufacturing, and logistic
+functions continues to support effective production planning and timely responses to evolving
+market conditions. Overall, despite the challenges in the external operating environment, our
+established supply chain practices, diversified sourcing capabilities, and disciplined operational
+execution have enabled us to maintain stability across our operations.
+
+
+With this overview, I will now take you through Company’s financial performance for the
+second quarter and first half of FY 2026-27, ended September 30, 2026.
+
+
+For the second quarter, Divi's Laboratories reported consolidated total income of ₹3,770 crores
+compared to ₹2,860 crores in the corresponding quarter of the previous financial year,
+representing a year-on-year growth of approximately 32%. Profit before tax increased to
+₹1,505 crores from ₹912 crores in the corresponding quarter last year, reflecting a growth of
+65%. Profit after tax stood at ₹1,127 crores compared to ₹689 crores in the previous year,
+registering a growth of approximately 64%.
+
+
+For the first half of FY 2026-2027, consolidated total income stood at ₹6,907 crores compared
+to ₹5,389 crores in the corresponding period of the previous financial year. Profit before tax for
+the half year increased to ₹2,685 crores from ₹1,645 crores, while profit after tax rose to ₹2,029
+crores from ₹1,234 crores in the corresponding period last year, with 64% increase.
+
+
+Looking at revenue composition and business performance, exports continue to constitute
+approximately 90% of standalone sales revenue, reflecting the Company's strong international
+business presence. Europe and North America together accounted for approximately 75% of the
+standalone sales revenue. On a constant currency basis, standalone revenue for the first half
+registered a year-on-year growth of 17%. In terms of business composition, generics contributed
+38% of sales revenue during the first half, while custom synthesis accounted for the remaining
+62%.
+
+
+Our global nutraceutical business recorded revenue of ₹571 crores for the first half compared to
+₹492 crores in the corresponding period of the previous financial year.
+
+
+Net material consumption for the first half stood at approximately 32% of the sales revenue
+compared to 40% in the corresponding period of the previous financial year. With respect to
+foreign exchange movement, the Company recorded a net forex gain of ₹20 crores during the
+first half compared to a gain of ₹103 crores in the corresponding period last year.
+
+
+During the second quarter, the Company capitalized assets amounting to ₹772 crores, taking a
+total capitalization for the first half of financial year to ₹1,223 crore. The capital work in progress
+stood at ₹1,638 crores as of September 30, 2026, reflecting the investments currently under
+execution.
+
+                          Page 5 of 18
+
+                                                                                            Divi's Laboratories Limited
+                                                                                                    November 07, 2026
+
+                       Turning to our balance sheet position as of September 30, 2026, the Company has held cash
+                       balances of ₹2,181 crores, with trade receivables of ₹3,705 crores and inventories of ₹5,325
+                       crores. These results reflect the Company's financial performance during the first half of the
+                       year, supported by its operating capabilities, diversified business portfolio, and continued focus
+                       on disciplined execution.
+
+
+                       With that, I conclude my overview of the Company's financial performance for the second
+                       quarter and the first half of FY 2026-2027. Thank you.
+
+
+M. Satish Choudhury:   Thank you, madam. With this, we would request the moderator to open the lines for Q&A.
+
+
+Moderator:             Thank you very much. We will now begin the question-and-answer session. The first question
+                       is from the line of Amey Chalke from JM Financial. Please proceed with your question.
+
+
+Amey Chalke:           Yes. Thank you for taking my question, and congrats to management on superb numbers. First
+                       question I have is on the CDMO business. This quarter also we have grown at around 50% year-
+                       on-year for the CDMO business, and the first quarter was also similar, like in 40s. The drivers
+                       we have mentioned for last two quarters for this growth is related to the execution of validation
+                       batches for certain projects.
+
+
+                       Is it possible for management to give a color on excluding these revenues from validation
+                       batches? What would be the growth in our base business for first half, and what would be our
+                       base business margins as well? Because what I understand typically the validation batches might
+                       not continue in following quarters, as well as the margins on the validation batches are typically
+                       significantly higher than the base business. If you are unable to quantify on the validation
+                       batches, at least if you can guide for the second half, if this run rate we should expect to continue.
+                       Thank you so much.
+
+
+Dr. Kiran S. Divi:     Thank you. The validation, like I explained during when I gave my points, the validation batches
+                       for certain products are going on, and several are still continuing. Once validations are done, the
+                       customer will pick up the material, it will go through its qualification process, and
+                       commercialization takes place.
+
+
+                       It is not like you are doing validation and then you stop and there is nothing to do. To answer
+                       your question, this is an ongoing business from our customers. Once validations are done, the
+                       next steps are only regulatory approvals, and then it goes forward. As I explained to you, we
+                       have several projects going on in the pipeline, which are going through various phases. It is very
+                       difficult for me to quantify. All I can say is the CS business, and how Nilima has expressed CS
+                       business and the generic business, has about 62% is CS.
+
+
+Amey Chalke:           So, you had also mentioned that in the earlier call that the inspection required post the validation
+                       batches for the commercial batches to start. Is it possible to give update on same when the
+                       inspection is expected to happen and when commercial batches expected to begin? Will the
+                       margins be same for the commercial batches?
+
+
+
+
+                                                Page 6 of 18
+
+                                                                                           Divi's Laboratories Limited
+                                                                                                   November 07, 2026
+
+Dr. Kiran S. Divi:     So, see, whether the agency would come and inspect us or whether the agency would qualify us
+                       based on our past history is like what I told in my previous call, was based on whether the agency
+                       decides to come or not is not something I can answer. The agency would give approval either
+                       based on past history or would give us based on a pre-approval inspection. Till now, we did not
+                       receive any notice on either of them. But as the validation batches go to our customers and they
+                       qualify us, then they submit the batches, it is then that we would know whether they would need
+                       an inspection or if they would clear the file based on previous history.
+
+
+Amey Chalke:           Sure, sir. Thank you so much. I will join.
+
+
+Moderator:             Thank you, sir. The next question is on the line of Surya Narayan Patra from PhillipCapital.
+                       Please proceed with your question.
+
+
+Surya Narayan Patra:   Yes, thanks for the opportunity and congratulations for the great set of numbers, sir. My first
+                       question is on the, again, the growth that we have seen, particularly on the custom synthesis side.
+                       On an average, in the first half, we have seen near 50% kind of a jump. So, if we are talking
+                       about validation batches would have contributed, but validation may not only can drive growth
+                       on the overall base business -- overall business by 50%.
+
+
+                       So, even if I, let's say, adjust the rupee benefit to the extent of 10%, still it is a 40% kind of a
+                       volume-led jump. So, what is driving, sir, really, whether it is we have started some commercial
+                       supplies for new product, or we have, let's say, started participating in the semaglutide generic
+                       opportunity, what we have already seen? If you can clarify that would be helpful.
+
+
+Dr. Kiran S. Divi:     Firstly, I cannot name drugs, so I will not name any product name.
+
+
+Surya Narayan Patra:   Fine. That is fine.
+
+
+Dr. Kiran S. Divi:     Yes. In terms of qualification and going forward, you know that Divi's has been historically
+                       working on several products since the last 30 years, since the inception. Custom synthesis has
+                       been one of our portfolios. Several of the molecules which have been worked and validated in
+                       the past have slowly been commercialized.
+
+
+                       What I am talking about are the new commercialization and new investments we have taken up
+                       in the last few years, where we have validated those products and they are waiting. But even
+                       before that, we had several products which have gone through the same system and are being
+                       commercialized right now, and they are being commercialized. So, there is benefit coming from
+                       there too.
+
+
+Surya Narayan Patra:   Okay. So, there is no sema play as of now on the generic side for sure. That is correct, sir?
+
+
+Nilima Prasad Divi:    I do not think we can comment anything on any specific product, which we are not at liberty to
+                       answer because of the confidential agreement we have.
+
+
+Surya Narayan Patra:   Thank you, ma'am.
+
+
+
+
+                                                Page 7 of 18
+
+                                                                                            Divi's Laboratories Limited
+                                                                                                    November 07, 2026
+
+Nilima Prasad Divi:    But if you have basic generic questions on naproxen or gabapentin, which we already declared,
+                       those we can answer. But specific products to a specific customer, we cannot answer.
+
+
+Surya Narayan Patra:   Yes, sure. The next question comes from the cost side, ma'am. See, in fact, if you are seeing a
+                       40% kind of a, let's say, volume jump in the key segment of custom synthesis and all that, but
+                       we are not seeing any major change in the raw material cost in the absolute term. So, neither the
+                       raw material cost nor the total cost would have appreciated by more than 15%, while our volume
+                       is jumping like almost 40% like that. Despite we have been talking about solvent price rise and
+                       all that. So, what is helping this cost containment here, and what is helping the boosting the kind
+                       of a margins at the gross margin level?
+
+
+Nilima Prasad Divi:    I would say that we need to take a step back and look at the whole scenario from a bigger picture.
+                       We are seeing the disruptions happening in the Middle East. We are seeing the rise in gas and
+                       oil prices. Now reflecting back to my industry, I would say the prices, not only for me, even my
+                       suppliers are facing their cost increase because of the similar situation. And my input material
+                       from them is also increasing. It's not just the solvents.
+
+
+                       Now, why is it 32% from 40%? I think multiple reasons. One, yes, the CS is slightly higher than
+                       what it used to be. But also you need to realize we went into backward integration heavily in the
+                       Unit 3 Kakinada plant. And over there, we would say we are trying to make sure our supply
+                       chain is protected. Along with that, we do see certain cost benefits even over there. So, the major
+                       part of shifting from 40% to 32% is coming from both these segments.
+
+
+Surya Narayan Patra:   Okay. Just one clarification from my side. Regards the three dedicated projects. These three
+                       dedicated contracts are now closer to the commercialization, possibly in next couple of quarter
+                       time that we will see the commercialization. In that case, generally how long that we -- since it
+                       is dedicated, it should not take much longer time to see the ramp up also. If that is the case, how
+                       long that we will take to these to optimal utilization level for these projects, sir?
+
+
+Dr. Kiran S. Divi:     Right now, I cannot comment on the utilization, but what I can tell you is, they are, like you
+                       said, rightly said, they are closer to approvals. As and when we know the approval status, we
+                       will start commercialization in the next few quarters. Then they will be fully utilized because
+                       they are dedicated facilities, they have their own specialized equipment, based on that process
+                       which can only be used for that product. Especially, some of them require flow chemistry, some
+                       of them require high throughput technologies, that is why we have to dedicate the whole process
+                       for them.
+
+
+Surya Narayan Patra:   Okay. Simultaneously, you in your opening remark mentioned about creating several 3,000
+                       kilolitres kind of reactors for the peptide projects. So far we have been kind of working on the
+                       pilot project, but you have mentioned about several 3K kind of reactors, capacity additions and
+                       all that. If you can just add something more on towards that and the timeline when we can see
+                       the commercial benefit of the GLP-1 opportunity. If you can just add anything to that would be
+                       helpful.
+
+
+
+
+                                                Page 8 of 18
+
+                                                                                          Divi's Laboratories Limited
+                                                                                                  November 07, 2026
+
+Dr. Kiran S. Divi:     I mean, if you recall even during my last call, I clearly mentioned that we have several fragments
+                       which are being validated. This is in my last earning call, and I also said that we have also
+                       supplied several fragments which are in line of being validated. We are also expanding our
+                       capacity and installing several multi-ton 3,000 litre SPPSs. This was what I discussed even in
+                       the last call.
+
+
+                       Now we are adding on based on the programs we have and the number of customer interests we
+                       have. We are again building up more extra lines. First, they're dedicated as per the customer
+                       requirements, because usually these are long chain peptides, and these fragments require almost
+                       a month, two months to make them. That is why we are putting multiple lines based on the
+                       requirement. And for us, peptide is strictly only for innovation basis. We do not make generic
+                       peptides right now.
+
+
+Surya Narayan Patra:   Sure. Yes. Thank you, sir. Wish you all the best.
+
+
+Moderator:             Thank you, sir. The next question is from the line of Dr. Kunal Dhamesha from Macquarie
+                       Capital. Please proceed with your question.
+
+
+Kunal Dhamesha:        Hi, thank you for the opportunity. First one for Dr. Kiran sir. I think we had suggested in Q1 that
+                       we are supplying the validation batches for three projects. Could you give us an update on that
+                       number? I know maybe validation batches for some of them might not have been supplied, but
+                       just a cumulative number for projects which are either in validation or qualification at this point
+                       in time.
+
+
+Dr. Kiran S. Divi:     That would be very difficult for me to say. All I can say is, apart from the three projects, which
+                       are major investment projects based on the complexity of the chemistry, which requires several
+                       dedicated equipment and several new technologies to be put in. That is why we had to mention
+                       the investment was quite high there, and the commitment is also long term.
+
+
+                       Apart from the three projects where one of them is very close to commercialization, other two
+                       we expect in the next one or two quarters, slowly the commercialization factor will come in. But
+                       the other pipeline what we have with other customers, several of them have been validated,
+                       commercialized, some are going through validation process. So it is difficult for me to give you
+                       an estimate or an amount of what is going on.
+
+
+Kunal Dhamesha:        Just the number of projects that you cannot give us?
+
+
+Dr. Kiran S. Divi:     Any given time, Divi's Labs handles about 60 projects to 70 projects, all the way from pre-
+                       chemistry, pre-qualification, qualification, and it goes up the ladder. It must be Phase II, Phase
+                       III molecules.
+
+
+Kunal Dhamesha:        Sure, sir.
+
+
+Dr. Kiran S. Divi:     So it's difficult for me to break them up because they are at different phases right now.
+
+
+
+
+                                                Page 9 of 18
+
+                                                                                         Divi's Laboratories Limited
+                                                                                                 November 07, 2026
+
+Kunal Dhamesha:       Sure, sir. Second one on the capital expenditure, we have spent about, I don't know, ₹8.5 billion
+                      plus in this first half. If you could share what's the outlook for the remainder of the year and
+                      maybe slightly medium-term as well, since we are seeing a lot of customer interest, especially
+                      in peptide, which I believe is capex heavy, but you could correct me if I'm wrong here. If you
+                      could give an outlook there, would be great.
+
+
+Nilima Prasad Divi:   See, currently, as we mentioned earlier, our CWIP is about ₹1,638 crores. Historically, if you
+                      see the last three years post-COVID, three to four years, our capex outlook has been about ₹2,000
+                      crores, plus or minus 20% every year. Considering the RFPs we have currently and basically
+                      looking at those RFPs from a strength point of view, I would say it would be around ₹2,000
+                      crores, plus or minus 20%.
+
+
+Dr. Kiran S. Divi:    I mean, just to answer your question, Divi's proactively builds blocks, though we may not invest
+                      into the equipment in the beginning, as and when opportunities arise, and we feel, because
+                      molecules have to move from Phase III to pre-validation to commercial. So, it's a long journey.
+                      As and when we have the opportunity on the table, we will then start investing.
+
+
+Kunal Dhamesha:       Sure. Thank you, ma'am, and thank you, Kiran sir.
+
+
+Moderator:            Thank you, sir. The next question is from the line of Shyam Srinivasan from Goldman Sachs.
+                      Please proceed with your question.
+
+
+Shyam Srinivasan:     Thank you. Good afternoon. Thank you for taking my question. The first one is on the outlook
+                      for the second half. We did 17% constant currency growth for first half. I believe our guidance
+                      was for double-digit growth. How should we look at second half? I also want to add a qualitative
+                      point on this first question, which is around one of your top products likely to see genericization
+                      in Europe, rest of the world. Is there any life cycle management that you are doing with that
+                      customer? Thank you. That is first question.
+
+
+Nilima Prasad Divi:   To answer your first question, I would say it would be double-digit growth. That is my way
+                      forward that I would look at. As we historically said, we would look at a double-digit growth.
+                      17% or is it going to be 10% or is it going to be 20%? I cannot comment too much on that, but
+                      I would say double-digit growth is the way forward. Can you please repeat the second question
+                      again, please?
+
+
+Shyam Srinivasan:     Yes. Nilima ma'am, our top product is something that sacubitril/valsartan, right? That one is
+                      likely to see genericization for our customer. LOE is, I think, November 2026, so fairly close
+                      by. Have you seen a ramp down in requirements from the innovator?
+
+
+Nilima Prasad Divi:   I cannot talk about any project, as Kiran Divi has earlier mentioned, which are under CDMO.
+                      See, the product could have gone generic, but I cannot comment on it.
+
+
+Shyam Srinivasan:     Okay. Last question quickly. Just on your cash flow statement. If I were to look at PBT has
+                      grown 50%, 60% first half, but your cash flow from operations ahead of paying taxes has
+                      declined 50%, ₹959 crores for the first half of this year. If you could just explain where the
+                      working capital is getting locked up in, because the cash flow from operations have not been in
+                      line with the PBT growth. Thank you.
+
+
+                                              Page 10 of 18
+
+                                                                                          Divi's Laboratories Limited
+                                                                                                  November 07, 2026
+
+Nilima Prasad Divi:   See, as explained earlier, we are in a large capex cycle. Huge capitalization was seen this quarter,
+                      around ₹700 plus crores. And with the work in progress, capex that is being incurred at this point
+                      of time, which is about ₹879 crores in -- no, I think the CWIP is about ₹1,638 crores, where
+                      certain advances have also been disbursed. So, the cash flow statement, what you are looking at
+                      currently is mainly based on the large capex cycles that we are having at this point. We continue
+                      to remain prudent and conscious about our capex spend, but that is where I would say you need
+                      to focus on.
+
+
+Shyam Srinivasan:     Thank you.
+
+
+Moderator:            Thank you, sir. The next question is from the line of Vivek Agrawal from Citigroup. Please
+                      proceed with your question.
+
+
+Vivek Agrawal:        Thanks for the opportunity. The first question is on solid phase peptide capacity, as you have
+                      installed many 3,000 kiloliters reactors. Looking three years down the line, should we expect
+                      only incremental capacity additions from here on, or could SPPS capacity potentially increase
+                      to a multiple of currently installed base as the demand grows? I am just trying to understand the
+                      demand that you have and the expansion plans. Thank you.
+
+
+Dr. Kiran S. Divi:    See, coming to peptides, Divi’s has been a critical player in peptides for the last 20 years. I mean,
+                      long before there was actually a few peptide molecules, Divi’s were a key player in the peptide
+                      building blocks at that time. That is how and that is where our strength is, and that is what
+                      customers see as strength.
+
+
+                      That is where we also make the other key important factors like the TAGS and few other things
+                      which build our strength tremendously. Now, in my previous calls, I did say that we have
+                      installed and procured a few of the 3,000 liters SPPSs. This was based on project-specific for
+                      certain amount of validations which are in the process of taking place, have taken place also as
+                      projects are moving.
+
+
+                      Apart from this, it is not just that we are working on GLP-1, we are working on several
+                      therapeutic categories with several customers. This requirement have the demand of having
+                      several lines, new lines to be put in place, and that is why we have cautiously decided to install
+                      several lines based on the projects with our customers.
+
+
+Vivek Agrawal:        Understood. Sir, could you give us a rough sense of total SPPS capacity installed so far? Even a
+                      broad range would be helpful. Let's say around 50,000 KL, higher, lower. Thank you.
+
+
+Dr. Kiran S. Divi:    If I say that, it will put me in trouble because I have NDA in place. All I will say is, with the
+                      futuristic capacity, we will be in the top three players.
+
+
+Vivek Agrawal:        Understood. Second question is on liquid phase peptide capacity, as some of the opportunities,
+                      especially oral peptides, may require multiple tons of API volumes, and solid phase may not be
+                      cost-efficient method. I am just trying to understand, are you also taking any kind of meaningful
+                      expansion of liquid phase capacities as well from the commercial scale products? Thank you.
+
+
+
+
+                                              Page 11 of 18
+
+                                                                                         Divi's Laboratories Limited
+                                                                                                 November 07, 2026
+
+Dr. Kiran S. Divi:   Liquid phase is not new to us. It is something that we have been doing. Everything depends on
+                     what the customer wants, whether he wants his fragment or peptide to be made in liquid phase
+                     or solid phase. Some want both liquid and solid. It completely depends on what the customer
+                     requirement is and how he wants his peptide to be manufactured.
+
+
+                     If you go linear in liquid, okay, you end up with lot of impurities and the cleaning takes longer.
+                     If you go via fragment, it has better option. Some go, you know, mix of both. I cannot comment,
+                     but what I can tell you is, for liquid phase, we are well advanced and very strong in it.
+
+
+Vivek Agrawal:       But at this moment, basically, you are not expanding the liquid phase capacity the way you are
+                     putting and building capacities for the solid phase. Is that a right way to understand?
+
+
+Dr. Kiran S. Divi:   I mean, it's a regular small volume reactor. It's unlimited capacity for us. We can use one of our
+                     pilot plants and make as much as anyone wants.
+
+
+Vivek Agrawal:       Understood. And just one last question, if I can squeeze in. Are your commercial scale peptide
+                     projects primarily with the large U.S.-based pharma companies, or are you also seeing
+                     meaningful opportunities, let's say, from the European pharma customers as well?
+
+
+Dr. Kiran S. Divi:   See, I cannot comment on this. All I can say is, Divi’s custom synthesis is with several
+                     multinationals. We work across the world. We look for opportunities across different therapeutic
+                     segments, and we are very cautious in our investments.
+
+
+Vivek Agrawal:       Thanks, sir. That is from my side, and congrats again on good set of numbers. Thank you.
+
+
+Moderator:           Thank you, sir. The next question is on the line of Shrikant Akolkar from Nuvama. Please
+                     proceed with your question.
+
+
+Shrikant Akolkar:    Hi, good afternoon. Thanks for taking my questions. I have two questions. Firstly, on the
+                     validation batches, is it possible for you to tell us how many products we have supplied through
+                     validation batches? Is it also possible to tell us that how long would it take for these specific
+                     products to move from validation batches to commercial stage?
+
+
+Dr. Kiran S. Divi:   See, I think I just answered this question, but I will say it again. We have several projects in the
+                     pipeline, and as I explained, Divi’s has been in the CS business for the last 30 years. Our oldest
+                     customer is 30 years old in the CS business. We have whatever validations have gone on in the
+                     past or have already been commercialized and moving forward.
+
+
+                     These are new projects that are being validated right now. Based on the investment size, we had
+                     to announce three of the projects because they were specific to the project. It is not a
+                     multipurpose equipment that is used everywhere else. These are flow chemistry, few
+                     complicated equipment to be brought in. The validations have been done. One is near
+                     commercialization. One we have to wait for when the customer has to go through his validation
+                     and approval. The time cycle is in the next few quarters, we will start seeing commercialization.
+                     Apart from that, there are several products in the pipeline, as in Phase III molecules, Phase II,
+                     which we actively work. These, in a phase-wise manner, will slowly come to commercialization,
+                     validation, then approvals, commercialization. It has its own time cycle.
+
+
+                                             Page 12 of 18
+
+                                                                                            Divi's Laboratories Limited
+                                                                                                    November 07, 2026
+
+Shrikant Akolkar:     Understood. From the three-year perspective, which is the area where we see a lot of growth?
+                      We have peptides, contrast media, and generics. Three years, what should we expect from these
+                      modalities?
+
+
+Dr. Kiran S. Divi:    Look, what I can say is every segment is growing by itself in its own way. I mean, I think we
+                      have been blessed that way that both in small molecule or peptide or nutraceuticals, generics,
+                      okay, while generics, we have, like I mentioned, we have seen a slight increase in growth in
+                      terms of usage, which is actually good. Though pricing pressure is there, we have seen a good
+                      growth in volume. All the segments have been growing pretty well.
+
+
+Shrikant Akolkar:     Yes, and then just follow up on that. Do you envisage any capacity shortages? Because we have
+                      three dedicated units and then Kakinada, but dedicated cannot be used for other clients. From
+                      that thought process, do we envisage any capacity shortages in next 12 months to 24 months for
+                      us?
+
+
+Dr. Kiran S. Divi:    Divi’s Unit 1 has about 22 production blocks, Unit 2 has 25, and about 11 in -- no, sorry, six
+                      production blocks in Unit 3. We have dedicated only three production blocks across all the units.
+
+
+Shrikant Akolkar:     Understood.
+
+
+Dr. Kiran S. Divi:    The capacity, the total plants are multipurpose and can be quickly changed.
+
+
+Shrikant Akolkar:     Understood. Thank you so much.
+
+
+Moderator:            Thank you, sir. The next question is from the line of Chandrashekar from HIE Labs. Please
+                      proceed with your question.
+
+
+Chandrashekar:        Hi, congratulations team for great set of numbers. My question is, on the projected capex for
+                      next three to four years to take advantage of increase in GLP-1 peptides demand, what portion
+                      of this future capacity will be dedicated to GLP-1 versus non-GLP-1 peptides? Thank you.
+
+
+Nilima Prasad Divi:   See, I would say, at this point in time, we cannot mention is it something related to peptides or
+                      is it something related to GLP-1s, or it is something related to small molecules, or is it something
+                      related to any other vertical that’s coming up. All I can give is that based on the RFPs that we
+                      have, and based on what we are looking at and what we feel our strengths are being matched,
+                      the advice we would say is about ₹2,000 crores plus or minus 20%. I cannot divide it segment
+                      by segment and share information.
+
+
+Chandrashekar:        Okay, ma'am. Thanks for the clarification. Any color on the, for next two, three years, how much
+                      it will be the run rate per every year?
+
+
+Nilima Prasad Divi:   See, next two, three years, I would say again that we do see business growing, we do see interest
+                      from our customers, and their confidence in us growing year on year, based on our deliverables.
+                      It could be the faster deliverables, or it could be that in spite of all the geopolitical problems that
+                      everyone faces, we are able to do the shipments on time and delivering to their destination on
+                      time.
+
+
+
+
+                                               Page 13 of 18
+
+                                                                                             Divi's Laboratories Limited
+                                                                                                     November 07, 2026
+
+                      So, we do see an increase in RFPs. We do see interest in the strengths that we in chemistry that
+                      we have been challenged and strengthened. So, I would say again, the next two, three years, I
+                      would say, if I'm looking at it, ₹2,000 crores plus or minus 20% is something I would do look at
+                      year on year.
+
+
+Chandrashekar:        Thanks, ma'am. That clarifies. Thanks a lot.
+
+
+Moderator:            Thank you, sir. The next question is from the line of Neha Manpuria from BofA Securities.
+                      Please proceed with your question.
+
+
+Neha Manpuria:        Okay, thank you. Nilima, you just mentioned that you'd like to do about ₹2,000 crores capex,
+                      plus-minus, for the next few years. Given that the three dedicated capex is pretty much close to
+                      commercialization, we still have Unit 3, where exactly are we spending this capex? Based on
+                      the pipeline that we have outside of the three dedicated, do you think we need to add capacity
+                      for, let's say, both FY 2029, 2030 at this point?
+
+
+Nilima Prasad Divi:   I would actually have Kiran answer this question because he looks at more from what's coming
+                      in. I would say this question would be rightfully answered by him.
+
+
+Dr. Kiran S. Divi:    So, it is difficult for us to categorize, will it go to Unit 1, will it go to Unit 2 or Unit 3, Kakinada,
+                      because it is based on the expertise, where it has to go based on where availability of space is,
+                      and where there is talent, where the new technology can be absorbed. So, right now, it is difficult
+                      for us.
+
+
+                      While we are also heavily investing in Kakinada, like Nilima mentioned, where we are doing
+                      several backward integration projects, and freeing up some of our spaces in our existing facility,
+                      and also creating additional capacity for certain critical raw materials we are manufacturing
+                      finished products right now.
+
+
+                      So, the capex is divided uniformly between all the three units. And we have been investing
+                      actively into several new technologies in flow chemistry. We have also heavily invested into
+                      new generation quality control equipment. So, all these are adding on additional costs.
+
+
+Neha Manpuria:        Understood. And I think you do not see a potential risk from a capacity perspective, any impact
+                      on growth, probably not for the next two years, but let us say FY 2029, 2030, based on what we
+                      have so far.
+
+
+Dr. Kiran S. Divi:    Could you repeat your question again, please?
+
+
+Neha Manpuria:        My question is, given the strong growth that we are seeing in the business outside of the three
+                      dedicated projects, we do not envisage any shortage in capacity or capacity being the constraint,
+                      given we are already at 85%, 90%, at least from the number that I remember in the last quarter.
+
+
+Dr. Kiran S. Divi:    Yes, right now, we do not have any capacity shortage. We do not foresee it. We do actively
+                      invest into capacity as and when we see opportunity, because we go hand-in-hand with our
+                      customers. It is not like a sudden jump or a sudden demand. Everything is planned much in
+
+
+
+
+                                               Page 14 of 18
+
+                                                                                       Divi's Laboratories Limited
+                                                                                               November 07, 2026
+
+                     advance, and then we discuss. We have long-term contracts in place, especially on the CS side,
+                     and we know the capacity utilization and requirement they need.
+
+
+Neha Manpuria:       Understood. My second question is on nutraceuticals. I think you mentioned you are increasingly
+                     investing there, given the opportunity that you are seeing. Could you talk about what has changed
+                     here? Is this a new area that we are looking at? Is something shifting which is making us invest
+                     more than I know we had double capacity in nutraceuticals last year, but is there anything that
+                     you can say?
+
+
+Moderator:           Sorry to interrupt, Neha ma'am. Your voice is not that clear.
+
+
+Neha Manpuria:       Okay, no problem. I will come back on the line.
+
+
+Moderator:           Yes. Thank you, ma'am. The next question is from the line of Alankar Garude from Kotak
+                     Institutional Equities. Please proceed with your question.
+
+
+Alankar Garude:      Hi, good afternoon, everyone. Kiran sir, first question, within peptides, alongside adding the
+                     reactors, how are you scaling up the downstream purification as well as the isolation capacity in
+                     uncertain?
+
+
+Dr. Kiran S. Divi:   So, like I mentioned in the past, we want to be the largest integrated player. When we say
+                     integrated, we are backward integrated to the basic raw materials. Okay? We do our own resins,
+                     we do our own protected amino acids, TAGs. All these are manufactured in-house, which gives
+                     us advantage. Likely in the same way, that is why our customers came to us.
+
+
+                     We make fragments, we make advanced fragments, and as and when they see an opportunity to
+                     go towards purification, we will look at purification. Right now, we have a center of excellence
+                     where we have integrated peptide center of excellence, where we can do gram scale of
+                     purification to understand the pure product. We do have the capability and the technology. But
+                     whenever our customers feel the opportunity will go to commercialization, we will look at it.
+
+
+Alankar Garude:      Understood. The second question, again on peptides, more from an industry standpoint, given
+                     multiple companies have been investing in peptides globally, do you think purification and
+                     isolation can be bottleneck programs move from clinical to commercial?
+
+
+Dr. Kiran S. Divi:   I cannot comment on that, right?
+
+
+Alankar Garude:      Okay. Maybe the other way to ask this question, sir, is, I mean, between purification, isolation,
+                     and manufacturing in the reactors, how would you assess the degree of difficulty within
+                     peptides?
+
+
+Dr. Kiran S. Divi:   See, peptide itself is a very complex chemistry. Manufacturing itself requires a lot of know-how
+                     and a lot of automation, a lot of technology. The whole synthesis and the process, either it is
+                     fragments or it is a finished product all the way downstream, and then you are talking about API,
+                     everything has its own challenge. That is all I will say.
+
+
+Alankar Garude:      Got it, sir. That is it from my side. Thank you.
+
+
+
+                                             Page 15 of 18
+
+                                                                                         Divi's Laboratories Limited
+                                                                                                 November 07, 2026
+
+Moderator:            Thank you, sir. The next question is from the line of Foram Parekh from BOB Capital Markets.
+                      Please proceed with your question.
+
+
+Foram Parekh:         Hi, thank you for the opportunity. I just have one question. Since this is the second quarter where
+                      we have reported 40% plus EBITDA margin, which brings us to almost H1 with 40% kind of
+                      EBITDA margin. So, are we increasing our EBITDA margin guidance from earlier mentioned
+                      between 32%, 35%?
+
+
+Nilima Prasad Divi:   I would say that is what we all wish for, right? We would wish that this would be consistent and
+                      this would be playing along. But as I said earlier, the guidance would be revenue growing at
+                      double-digit growth rate, and I cannot comment more than that at this point.
+
+
+Foram Parekh:         Sure, no problem. Thank you.
+
+
+Moderator:            Thank you, ma'am. The next question is from the line of Vikal Gupta from Inspire Investment.
+                      Please proceed with your question.
+
+
+Vikal Gupta:          Hey. Hi. Good afternoon, everybody. Thank you very much for giving me the opportunity to ask
+                      the question, and congratulations for the fantastic numbers. My question is, looking at the
+                      healthy balance sheet, cash flow, consistent profitability, and growth, is management
+                      considering to reward the long-term investors for considering the bonus shares, which will
+                      enable more retail participation, and they can also become the fantastic growth journey of the
+                      Divi's Lab? Thank you very much.
+
+
+Nilima Prasad Divi:   Very interesting question. I think this is a Board decision and not a decision or an information
+                      to be passed on by me or Dr. Kiran Divi on an investor call. As and when the time is right, you
+                      would hear the information about it from the Board. Thank you so much.
+
+
+Vikal Gupta:          Thank you. Thank you very much. My request is to just support to the Board for consideration.
+                      Thank you very much.
+
+
+Moderator:            Thank you, sir. The next question is on the line of Dhawal from Jefferies Limited. Please proceed
+                      with your question.
+
+
+Dhawal:               Hi, team. Thank you for taking my question, and happy Diwali to everybody on the call. I wanted
+                      to know, what kind of peak asset turns can one expect in peptide business, and do the asset turn
+                      change meaningfully based on the length of peptide one manufactures?
+
+
+Nilima Prasad Divi:   I cannot comment on a particular vertical and answer that question, mainly when we mentioned
+                      that that particular vertical is mainly on CDMO business. I would say that we need to look at the
+                      overall organization, and the asset turnover currently, I would say, is about 1.5 for the entire
+                      basket.
+
+
+Dhawal:               Okay. So, just on a relative basis, fair to say within custom synthesis, a peptide business can be
+                      of higher asset turn? Just on relative basis, fair to say that versus a small molecule business?
+
+
+
+
+                                              Page 16 of 18
+
+                                                                                         Divi's Laboratories Limited
+                                                                                                 November 07, 2026
+
+Nilima Prasad Divi:   It's very hard to disclose. See, we are not one or two products company. We have multiple
+                      products, and both under generics and custom synthesis, and saying that is one vertical more and
+                      one vertical less is very hard to disclose, and we try to give as much importance volume-wise to
+                      all the products that we manufacture.
+
+
+Dhawal:               Sure. And on the SPPS side, what kind of tech do we use? Is it traditional batch-based production
+                      that we plan to use, or you think we'll use the latest flow chemistry? Or is it something that is
+                      totally dictated by the innovator? How does that work out?
+
+
+Dr. Kiran S. Divi:    It's dictated by the customer. See, I cannot comment whether it is batch or is it flow or is it how
+                      it is made, because it is completely dictated and advised by the customer on how he wants his
+                      product made.
+
+
+Dhawal:               Even the vessel sizes, the reactor size is also a sort of decision taken by the innovator, or we
+                      have a call over what kind of reactor size one should use?
+
+
+Dr. Kiran S. Divi:    It depends on the contract.
+
+
+Dhawal:               Okay. Thank you.
+
+
+Moderator:            Thank you, sir. The next question is on the line of Krishna Agarwal from Krishna Agarwal and
+                      Associates. Please proceed with your question.
+
+
+Krishna Agarwal:      I believe that all my queries are answered now, so I have no questions. Happy Diwali to all of
+                      you.
+
+
+Dr. Kiran S. Divi:    Thank you. Happy Diwali.
+
+
+Moderator:            Thank you, sir. The next question is on the line of Arindam Mukherjee, an individual investor.
+                      Please proceed with your question.
+
+
+Arindam Mukherjee:    My first question is regarding the finished goods and work in progress. The finished goods and
+                      work in progress built up by ₹1,197 crores in H1. How much of this is product for the dedicated
+                      projects awaiting customer approval, and what protects you through offtake commitments or
+                      take-or-pay terms if approvals are delayed or don't come?
+
+
+Nilima Prasad Divi:   See, I would say if you're looking at the inventory, at this point, we can't comment on how much
+                      of it is from one particular segment or one particular product. As we mentioned earlier, we did
+                      have, because of the geopolitical issues that are going on in the Middle East, we did stocking
+                      material for three months, which are mostly our critical raw material, which are needed for our
+                      production.
+
+
+                      Also, as informed earlier, some of the critical raw material prices are also escalated. However,
+                      majority of the increase is caused by the volume of the material stocked at various stages. This
+                      is mainly -- we are doing that to make sure that the finished product is manufactured without
+                      disruption and delivered on time as promised to the customer.
+
+
+
+
+                                              Page 17 of 18
+
+                                                                                           Divi's Laboratories Limited
+                                                                                                   November 07, 2026
+
+Arindam Mukherjee:     Got it. Thank you for the clarification, ma'am. My second question is, in peptides, what is the
+                       split between in-house and bought-in for resins, base amino acids, protected amino acids, and
+                       fragments? In the earlier calls, it was described that resins is something which you make and has
+                       been at the R&D stage also.
+
+
+Nilima Prasad Divi:    We are backward integrated for our peptide vertical, but how much percentage and all that, we
+                       cannot disclose, mainly because our peptide business is under CDMO, and we are not at liberty
+                       to disclose that information.
+
+
+Arindam Mukherjee:     Okay. Thank you, ma'am. Thank you.
+
+
+Moderator:             Thank you, sir. Ladies and gentlemen, in the interest of time, that was the last question for today.
+                       I would now like to hand the conference over to Mr. Satish Choudhury for closing comments.
+                       Thank you, and over to you, sir.
+
+
+M. Satish Choudhury:   Thank you all for joining us today for the earnings call of Divi’s Laboratories Limited. In case
+                       you need any further clarification, please reach out to our investor relations. Thank you.
+
+
+Moderator:             Thank you, sir. On behalf of Divi’s Laboratories Limited, that concludes this conference call.
+                       Thank you all for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                               Page 18 of 18
+

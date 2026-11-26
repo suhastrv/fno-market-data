@@ -1,0 +1,707 @@
+                                                                                     November 17, 2026
+
+BSE Limited                                                    National Stock Exchange of India Limited
+Corporate Relationship Department                              Exchange Plaza, 5th Floor
+1st Floor, New Trading Ring                                    Plot No. C/1, G Block
+Rotunda Bldg., P. J. Towers                                    Bandra-Kurla Complex
+Dalal Street, Fort                                             Bandra (East)
+Mumbai – 400 001.                                              Mumbai – 400 051.
+Scrip Code: 500400                                             Symbol: TATAPOWER
+
+Dear Sir/Madam,
+                                        Earnings Call Transcripts
+
+Pursuant to Regulation 46(2)(oa) of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended, the transcript of the audio call recording of the Company’s Analyst Call
+held on Wednesday, November 11, 2026, on the Audited Standalone Financial Results and Unaudited
+Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026 is
+attached herewith.
+
+The transcript of recording can also be accessed on the Company’s website using the following link:
+
+https://www.tatapower.com/investor-resource-center/analyst-call-transcript-tab
+
+This is for your information and records.
+
+                                                                                      Yours Sincerely,
+                                                                 For The Tata Power Company Limited
+                                                                                      VISPI  Digitally signed
+                                                                                             by VISPI SAROSH
+                                                                                      SAROSH PATEL
+                                                                                             Date: 2026.11.17
+                                                                                      PATEL 15:19:36 +05'30'
+                                                                                         Vispi S. Patel
+                                                                                     Company Secretary
+                                                                                            FCS 7021
+Encl: As above
+
+          “The Tata Power Company Limited
+         Q2 FY27 Earnings Conference Call”
+                  November 11, 2026
+
+
+
+
+MANAGEMENT: DR. PRAVEER SINHA – CEO AND MANAGING DIRECTOR,
+            THE TATA POWER COMPANY LIMITED
+            MR. SANJEEV CHURIWALA – CHIEF FINANCIAL OFFICER,
+            THE TATA POWER COMPANY LIMITED
+            MR. RAJESH DAGA – GROUP FINANCIAL CONTROLLER,
+            THE TATA POWER COMPANY LIMITED
+            MR. GAUTAM ATTRAVANAM – CHIEF TREASURY AND
+            INVESTOR RELATIONS, THE TATA POWER COMPANY
+            LIMITED
+            MR. ANSHUL VERDIA – HEAD, INVESTOR RELATIONS,
+            THE TATA POWER COMPANY LIMITED
+
+
+
+                         Page 1 of 11
+
+                                                                           The Tata Power Company Limited
+                                                                                        November 11, 2026
+
+
+
+Moderator:       Ladies and gentlemen, good evening and welcome to the Tata Power Q2 FY27 Earnings
+                 Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there
+                 will be an opportunity for you to ask questions after the presentation concludes. Should you need
+                 assistance during the conference call, please signal an operator by pressing star and then zero on
+                 your touch-tone phone. Please note that this conference is being recorded.
+
+
+                 I now hand the conference over to Dr. Praveer Sinha, CEO and Managing Director of Tata
+                 Power, for his opening remarks. Thank you, and over to you, sir.
+
+
+Praveer Sinha:   Thank you. Good evening, everyone, and thanks for joining for the call. I am joined today by
+                 my colleagues, Sanjeev Churiwala, CFO, Rajesh Daga, Group Financial Controller, Gautam,
+                 Chief Treasury and Investor Relations, Anshul, Head Investor Relations, and a few of my
+                 colleagues from finance department.
+
+
+                 Let me first talk about the power sector in the country in the last quarter. What we have seen is
+                 that because of the weak monsoon, the demand of power has increased. There has been huge
+                 amount of consumption, not only from the existing commercial and industrial consumers and
+                 residential, but also the demand from the agriculture sector has gone up because of less rains.
+                 Similarly, the consumption for cooling has increased drastically because of the heat wave and
+                 humid conditions. And this has led to nearly 10% to 11% growth in the last quarter.
+
+
+                 And we find that momentum continues even in the month of October, when we have seen nearly
+                 12% growth on a year-on-year basis. We find that since many of the hydro plants this year did
+                 not have enough rains, their capability to generate next year also will be a challenge. There will
+                 be huge demand of power going forward, and many of our plants will have to work at full
+                 capacity even during winter months.
+
+
+                 Let me first start with the quarter. The quarter has been very good. We have reported our highest-
+                 ever quarterly profit after tax of INR1,652 crores, which is an increase of 33% year-on-year
+                 compared to INR1,245 crores in the corresponding period last year. This growth has been based
+                 on excellent performance by all our businesses. EBITDA has increased by 5% on year-on-year
+                 basis.
+
+
+                 We also see that our revenues have gone up by nearly 26% in the quarter from INR19,886 crores
+                 from INR15,769 crores. On a half yearly basis also, we see similar trends. The PAT has gone up
+                 to INR3,053 crores, 22% more than last year. The EBITDA has gone up by 7% to INR8,494
+                 crores from INR7,961 crores. The revenue has gone up to INR38,784 crores from INR33,233
+                 crores in the previous year.
+
+
+                 So, all-in-all, there has been very good performance. We have shared all the detailed financial
+                 performance numbers, uploaded the presentation, and I hope you find that useful, because it
+                 gives the breakup of each of the businesses, as also in various businesses, the sub-items which
+                 are there. Like in the Renewables, you will find the details about the manufacturing plant, the
+
+
+
+
+                                          Page 2 of 11
+
+                                                                         The Tata Power Company Limited
+                                                                                      November 11, 2026
+
+
+
+             rooftop solar, and the utility scale. Similarly, in distribution, you will find Odisha DISCOM
+             separately.
+
+
+             You will find Delhi and Mumbai DISCOM. Then in transmission, the Mumbai transmission and
+             the TBCB project. So, a lot of details have been provided based on the inputs that we have been
+             receiving from all of you, so that you are provided as much information as possible. We will
+             continue to work on all these areas, and typically, we see that the H2 is better than H1 because
+             many of our projects, many of our actions which we are not able to do in H1 because of monsoon
+             or other reasons, we will be able to complete that in H2.
+
+
+             We also feel that many of the projects that are getting implemented, the impact and the benefit
+             of that will start accruing in the second half of the year. And we have already done INR10,000
+             crores of capex, and we are on track to complete nearly INR25,000 crores of capex for the year.
+             And then you will see huge amount of capacity add in our Renewables as well as in our
+             transmission distribution and in all our ongoing projects which are under implementation.
+
+
+             We have also taken a decision today to add 1,800 MW of pumped hydro project in Shirwata near
+             Lonavala. This will be with an investment of INR11,871 crores and will be financed through
+             75% of debt and 25% equity. This will be used not only to bid for some of the state DISCOMs
+             which are now going for pumped storage capacity tie-ups, but also with bundling with our
+             renewable projects as RE RTC projects to be provided not only to DISCOMs, but also to many
+             of our industrial customer, and including data centers with whom we are in touch.
+
+
+             Coming to one of the things which has been in news in recent times is about the arbitration case
+             in Singapore, where our appeal in the Singapore International Commercial Court was rejected.
+             We have now approached the Court of Appeal or the Supreme Court of Singapore, and the matter
+             is now listed for 19th of January. We strongly believe that we have a good case, both on merit
+             as well as on law. We expect that we will be able to succeed in the Supreme Court.
+
+
+             We also have taken steps wherein the other side, that is Kleros, is trying to enforce the order by
+             attaching the shares of the company, the two companies in Singapore. We are taking all legal
+             actions to ensure that those are not attached.
+
+
+             Also, since the shares are pledged with the consortium of lenders, they will have to approach
+             them, who will also take a suitable legal action to ensure that this does not get enforced by the
+             other side. So, that's on the Kleros Singapore matter. We will take all actions that are necessary
+             to protect the shares and the assets that the company holds.
+
+
+             With that, I will take a pause and look forward to hear from you on the various questions relating
+             to the quarterly performance.
+
+
+Moderator:   Thank you very much. We will now begin with the question-and-answer session. Your first
+             question comes from the line of Mohit Kumar with ICICI Securities. Please go ahead.
+
+
+
+
+                                      Page 3 of 11
+
+                                                                                The Tata Power Company Limited
+                                                                                             November 11, 2026
+
+
+
+Mohit Kumar:         Yes, good evening, and thanks for the opportunity. My first question is, sir, is there any element
+                     of exceptional or one-time non-recurring income in profit from associate? That is pretty high on
+                     Q-o-Q basis?
+
+
+Sanjeev Churiwala:   No, there is none. If you are looking at exception
+
+
+
+
+Mohit Kumar:         Understood. My second question is, what is the status of long-term resolution of PPA for
+                     Mundra? And the related question is, are you booking revenue, etc, based on Section 11 or as
+                     per the new PPA?
+
+
+Praveer Sinha:       We have signed the SPPA with Gujarat, and it has been filed in CERC, and it is now reserved
+                     for order. We are in discussion with all the other four states. Two states, we are in a very
+                     advanced stage of discussion, and we expect that we will be able to conclude that before
+                     December. The billing to all the five DISCOMs is being done under the SPPA. Whatever is the
+                     impact because of the SPPA is already considered in our reports, and that is part of our quarterly
+                     accounts.
+
+
+Mohit Kumar:         Understood. My last question, sir, do you plan to change your solar module manufacturing from
+                     mono PERC to TOPCon? And can you spell out the associated cost, and what is the status of
+                     ingot and wafer plant?
+
+
+Praveer Sinha:       On the ingot and wafer plant, we have now received all the approvals that are required to start
+                     the work. We expect to start the work in this month, and we expect that by March 2028, the plant
+                     will be fully operational. As far as the existing solar cell and module plant, we have not taken
+                     steps to shift to the TOPCon line.
+
+
+                     We already have a small TOPCon line, but we are still seeing the market condition. There is still
+                     huge demand for the product that we are making. At this stage, we have not decided, but at a
+                     later date, when we see that the market demand is increasing, we will take a call.
+
+
+Mohit Kumar:         Understood, sir. Thank you, and all the best, sir. Thank you.
+
+
+Moderator:           Thank you. The next question comes from the line of Puneet with HSBC. Please go ahead.
+
+
+Puneet:              Yes, thank you so much. My first is just on Mundra. Section 11 ends on 31st December. If it is
+                     not extended, would you still continue to run the plant?
+
+
+Praveer Sinha:       As you are aware, we have in discussion on SPPA. We expect to conclude the SPPA with
+                     majority of the states within 31st December. And as per the PPA condition, once majority
+                     decides, it becomes applicable to all of them. We also expect the regulator approval, that is
+                     CERC approval, by then. So, I think this will get admitted and accepted by all states as a common
+                     PPA applicable to all of them.
+
+
+
+
+                                              Page 4 of 11
+
+                                                                                The Tata Power Company Limited
+                                                                                             November 11, 2026
+
+
+
+Puneet:              Okay. Second, on your Renewables, can you talk about what is your run rate EBITDA for the
+                     7.1-gigawatt capacity? Are you still sticking to your targets for full year, given the delays on
+                     transmission side, etcetera?
+
+
+Sanjeev Churiwala:   RE Genco, our YTD number is INR2,231 crores so INR4,500 crores per annum.
+
+
+Puneet:              That is only for first half, right? I mean, if you were to run 7.1 gigawatt on a full year steady
+                     state normalized PLF, what should EBITDA be?
+
+
+Praveer Sinha:       INR4,500 crores EBITDA
+
+
+Praveer Sinha:       It should be a little more than double of H1 because many of the plants have come up in last
+                     three months or six months. The full impact will come in the subsequent quarter. You can expect
+                     more than what we have done. At least it will be 60% to 70% of the first quarter.
+
+
+Puneet:              Understood. And Your capacity addition, Q2 is also slightly lower than expected. We thought
+                     500 MW was close to getting completed.
+
+
+Praveer Sinha:       Yes, we have missed the targets in first and second quarter, but many of the projects are now
+                     ready. The evacuation lines which were delayed, we are expecting some of them to come by
+                     December or January. So, we expect that this year target is 2.5 GW of capacity addition, and we
+                     will be able to meet that.
+
+
+Puneet:              Understood. And lastly, on the rooftop business, do you think the rooftop business still remains
+                     viable without subsidy? Whether it has any implications for your Delhi DISCOM piece as the
+                     rooftop penetration is going up very fast in Delhi?
+
+
+Praveer Sinha:       The rooftop business is going very fast everywhere. In fact, it is going very fast in U.P. and
+                     Odisha, as also in Maharashtra and Rajasthan, and now it will happen in Delhi. I think many of
+                     these states, we have very good presence, and with the state government support, we are able to
+                     drive this to a very large scale.
+
+
+Puneet:              Without subsidy, do you still expect the same run rate to continue?
+
+
+Praveer Sinha:       I think the subsidy is there till March, and the new avatar of the subsidy will also come beyond
+                     March. My information is the subsidy will continue, but it will be little different than the existing
+                     subsidy.
+
+
+Puneet:              Understood. That's all from my side. Thank you so much and all the best.
+
+
+Moderator:           Thank you. The next question comes from the line of Sumit Kishore with Axis Capital. Please
+                     go ahead.
+
+
+Sumit Kishore:       Thanks for the opportunity. My first question is on the regulatory assets in distribution business,
+                     which seem to have gone up almost by 28% year-on-year to INR83.1 billion. This is excluding
+
+
+
+
+                                               Page 5 of 11
+
+                                                                                 The Tata Power Company Limited
+                                                                                              November 11, 2026
+
+
+
+
+                     your transmission and generation business regulatory assets. This is led mainly by increases
+                     across Delhi and Odisha. Any specific comment given the slightly sharper increase here?
+
+
+Praveer Sinha:       Regulatory assets have gone up because in Delhi, there was no full quorum of the regulatory
+                     commission. Now that the full quorum is there, we expect that in this year, they will come up
+                     with the true-up orders and will provide the increase in tariff so that the regulatory asset will be
+                     amortized. As you are aware that in Delhi, now already the Supreme Court has advised them
+                     that this regulatory asset needs to be amortized in six years period, that is till 2031.
+
+
+                     We do expect that the commission will be able to come up with the tariff revisions which is
+                     required. Similarly, in Odisha, they have to come up with the true-up. The full commission was
+                     not there. We expect that will also come, and this also will get amortized over a period of time.
+
+
+                     There is definitely lot of interest from all these states to complete the whole process, and we do
+                     expect that in the coming year, that is FY 2028, the amortization process will pick up pace.
+
+
+Sumit Kishore:       The traditional generation, including Mumbai and Hydro EBITDA for Q2 in cluster-wise
+                     financials is up to INR3.51 billion from INR2.55 billion, roughly 37% year-on-year. Is that on
+                     account of higher DSM revenue of Mumbai generation? Can you please explain this and whether
+                     it is sustainable?
+
+
+Sanjeev Churiwala:   It is a combination of efficiency and DSM both together. Of course, our idea is to sustain that.
+                     We will have to find means of improving on our efficiencies as we move forward.
+
+
+Sumit Kishore:       A 37% increase in a business that is pretty much stable, I just thought was worth checking on.
+                     How much is the DSM impact?
+
+
+Sanjeev Churiwala:   We will share it with you. It is not a very material amount, but yes, during the summer, you are
+                     getting better DSM gains.
+
+
+Sumit Kishore:       Okay. This is a business where typically you shouldn't have this kind of growth. The third one
+                     is the impact of curtailment or transmission constraints on performance of RE Gencos in Q2
+                     particularly.
+
+
+Sanjeev Churiwala:   So if you look at Q2, in quarter one, we had about 8.8% of curtailment. In quarter two, there's
+                     about 11% of curtailment. I think if you look at industry, there has been a curtailment throughout,
+                     and we're also facing the issue. I think looking at all the connectivity that we have in the pipeline,
+                     hopefully this will ease out in subsequent quarters.
+
+
+Sumit Kishore:       11% curtailment is among the highest numbers that we have heard in results so far. I mean, what
+                     is the progress on lines, and do you expect this to remain in high single-digit percentage for
+                     remaining fiscal and the outlook for FY 2028?
+
+
+
+
+                                              Page 6 of 11
+
+                                                                                The Tata Power Company Limited
+                                                                                             November 11, 2026
+
+
+
+Sanjeev Churiwala:   Subsequently, it will come down. So we are working on the connectivity. I think we see a good
+                     line of sight. So fully in the subsequent quarters, you will see an improvement. But yes, this is
+
+
+                     something I guess you'll find across the industry. We are not specifically called out here. Of
+                     course, we also have the BESS instalment coming through, and that will also help us in ensuring
+                     that this curtailment comes down.
+
+
+Sumit Kishore:       Got it. Just one last clarification. For the ingot and wafer plant, do you see any impact of China's
+                     proposed technology export controls, or have you already secured the equipment required for
+                     manufacturing? As a result, do you see any risk of ALMM 3 getting deferred? That is my last
+                     question. Thank you.
+
+
+Praveer Sinha:       We have not placed the order as yet. We are definitely examining the implication, and there is
+                     also a rethink that is happening in the Chinese government. So, let us see. We will get more
+                     clarity within end of November.
+
+
+Sumit Kishore:       Okay. Thank you. Wish you all the best.
+
+
+Moderator:           Thank you. Next question comes from the line of Apoorva Bahadur with IIFL Capital. Please
+                     go ahead.
+
+
+Apoorva Bahadur:     Hi, sir. Thank you for the opportunity. Sir, I want to know your opinion on this recent DISCOM
+                     sort of parallel license granted in Gurgaon, which was subsequently sort of rolled back or held
+                     in abeyance. How should we think about this? Does it change anything, our progress on private
+                     licenses?
+
+
+                     Also, the fact that I think a few of the state-owned DISCOMs are probably approaching the
+                     public markets, that has been reported by media. Does that also change the overall distribution
+                     privatization opportunity which is available for the private players like us?
+
+
+Praveer Sinha:       Yes, so I think much more clarity is required from the various state governments as well as from
+                     the central government in terms of whether it is through amendment to the Electricity Act or
+                     amendment in the new electricity rules and tariff rules which are coming. I think there has to be
+                     much better clarity from the government side in terms of allowing private participation in
+                     distribution or parallel licensing.
+
+
+                     We are waiting for the necessary notifications to be issued. While we have also applied in few
+                     places, the concerned regulators have not taken a decision, awaiting the government
+                     clarifications or government notifications of the new rules. We will have to wait and watch how
+                     it is taken up.
+
+
+Apoorva Bahadur:     I understand. Sure. My second question is on the recent BESS VGF scheme which the cabinet
+                     has approved. I know the contours of this scheme are still awaited, but, I think, a tie-up with our
+                     sister entity, Tata AutoComp. They already manufacture batteries. How are we thinking about
+                     this local value addition opportunity over there? What is the local value addition that has already
+
+
+
+                                               Page 7 of 11
+
+                                                                              The Tata Power Company Limited
+                                                                                           November 11, 2026
+
+
+
+                   been achieved by Tata AutoComp, and will this sort of scheme change Tata Power's strategy
+                   towards these VGF-supported BESS projects in future?
+
+
+Praveer Sinha:     We work very closely with Tata AutoComp, who sources the cell from China and makes the
+                   battery set, including the battery management part of it. We do expect that going forward, many
+
+
+                   of these cells will get manufactured in India also, including the plant that is being set up by
+                   another Tata Group company, Agratas.
+
+
+                   Possibly there will be a much better control on the supply chain once we have local
+                   manufacturing. That is a good opportunity for us, and we keep on looking at opportunities, how
+                   we can do it on a long-term basis, as also on merchant basis, supply of power through battery
+                   storage projects.
+
+
+Apoorva Bahadur:   Sure, sir. Probably last question from my side is on the sharp improvement in coal JV
+                   profitability. Should we sort of, sir, extrapolate the Q2 improvement trend throughout this year,
+                   or do you expect further improvement in profitability based on the prevailing prices and
+                   conditions?
+
+
+Praveer Sinha:     The coal prices are governed by geopolitical conditions. At least for next five to six months, I
+                   expect this will continue. Beyond that, it is very difficult to comprehend how things will change.
+                   But yes, at least for next two quarters, you can expect this momentum to continue.
+
+
+Apoorva Bahadur:   So, similar INR400-odd crores of profit for the next two quarters each as well?
+
+
+Praveer Sinha:     Yes, in that range.
+
+
+Apoorva Bahadur:   Sure, sir. Thanks a lot. All the best.
+
+
+Moderator:         Thank you. The next question comes from the line of Satyadeep Jain with Ambit Capital. Please
+                   go ahead.
+
+
+Satyadeep Jain:    Hi. Thank you. The first question on transmission. If I am not mistaken, Tata Power was one of
+                   the bidders for the South Kalamb HVDC project. I just want to confirm that, and if that is correct,
+                   what is the thought or strategy? Is Tata Power looking at bidding for HVDC projects also, and
+                   what do you think of transmission as a business for the next few years?
+
+
+Praveer Sinha:     We did not bid for the HVDC project, and we have been examining the HVDC project,
+                   especially in terms of the OEMs, and there are not many OEMs who have the type of technology
+                   which are being bid out.
+
+
+                   We need to have a back-to-back arrangement, and we are working with some of the OEM
+                   partners and take a call, because it is a huge project, and it is very important that we have a back-
+                   to-back agreement with the OEMs. We need to, again, these are things which are moving targets,
+                   and we continue to monitor them to see what are the opportunities that we get.
+
+
+
+
+                                              Page 8 of 11
+
+                                                                                The Tata Power Company Limited
+                                                                                             November 11, 2026
+
+
+
+Satyadeep Jain:      Okay. On the Shirwata PSP, there seems to be a sharp appreciation in capex cost compared to
+                     initial estimates. The Brownfield project, now compared to initial expectation of INR8,000
+                     crores, there's almost a 50% jump. Just want to see what's been driving this, and this is
+                     Brownfield capital cost, what do we see as Greenfield capital cost for a pumped storage right
+                     now?
+
+
+Praveer Sinha:       Again, it depends what sort of pumped storage is there. If you have to make both the reservoirs,
+                     then it has a different project cost and timeline. If you have just one reservoir, then it has a
+                     different timeline and cost. So, we typically look at it from the perspective that ours is a one
+                     reservoir. That means there's already one existing reservoir, and this one more reservoir we will
+                     take, and which will be the settling reservoir that we will be utilizing.
+
+
+                     So, that's the way that we look at pumped storage. We also look at pumped storage in terms of
+                     not just 40 years, but even a longer period for which the plant can operate. So, we are definitely
+                     going big time into pumped storage. Already work is going on for the first 1,000 megawatt.
+                     Today, Board has approved another 1,800 megawatt, and we may come back with more such
+                     proposals in our other reservoirs. So, as a long-term storage, this is a very attractive solution.
+
+
+Satyadeep Jain:      Sir, what drove this huge capex increase, and what do we see as a cost for a project where you
+                     have to build both the reservoirs?
+
+
+Sanjeev Churiwala:   Sir, could you come back with your question?
+
+
+Satyadeep Jain:      What specifically drove such a large jump in capex expectation for Shirwata versus what you
+                     were looking at earlier? I think it was INR8,000 crores for 1,800 megawatt, INR7,850 crores.
+                     Now it has gone to INR12,000 crores. That seems like a sharp…
+
+
+Sanjeev Churiwala:   I think there is some confusion. It cannot be INR8,000 crores. It has always been this ballpark
+                     number. The number that you see that we have now already sent out a press release also, and is
+                     part of our SEBI filing, is INR11,871 crores. Normally, the way we look at the capex is without
+                     considering if there are probable incentives that we will raise. Many companies would announce
+                     net of incentives and net of grants of it all. We would normally take a conservative stand and
+                     want to announce capex on a gross basis.
+
+
+Satyadeep Jain:      Okay. Just one last quick clarification on these INR90 crores impairment. It seems like you have
+                     taken this impairment for the Georgia asset in last financial year also. Is it the same impairment,
+                     or is there additional impairment on this asset?
+
+
+Sanjeev Churiwala:   No, it is the same impairment. This was the leftover amount of INR96 crores. We were trying to
+                     revive some of the operating things over there, which we have not been able to do that. So, from
+                     a cash flow perspective, there was a business trigger happened, and accordingly, we have
+                     provided these INR96 odd crores impairment.
+
+
+Satyadeep Jain:      Okay. Thank you so much.
+
+
+
+
+                                              Page 9 of 11
+
+                                                                               The Tata Power Company Limited
+                                                                                            November 11, 2026
+
+
+
+Moderator:           Thank you. Your next question comes from the line of Subhadip Mitra with Nuvama. Please go
+                     ahead.
+
+
+Subhadip Mitra:      Good evening and thank you for the opportunity. So, first question from my side is on this Kleros
+                     issue. While you clarified in the opening comments that the next hearing is expected in January,
+                     just wanted to understand if you can just flesh it out for us to understand that, could there be
+                     some further measures that could be taken by Kleros in this intervening period between now and
+                     January, which could probably further jeopardize the issue or how watertight do you think the
+                     case is from your perspective?
+
+
+Praveer Sinha:       So, as we have informed you that they had approached us for enforcement, and that meant that
+                     they wanted to attach the company shares in TPIPL and Bhira investments. We have informed
+                     them that the shares are not with us, and formally and legally, we will inform them within 14
+                     days of the notice. We expect that since these shares are pledged, they will approach the banks
+                     also. The banks will also inform them that since it is pledged, they cannot take the shares.
+
+
+                     All these things are now going through a process, and then there is a mechanism whereby we
+                     will approach the courts also on the shares being taken by them. We expect that whole process
+                     will take three to six months, and within that period, finality in Supreme Court of Singapore will
+                     come. Based on that, we will take next steps.
+
+
+Subhadip Mitra:      Understood. Secondly, in terms of the PSP projects, are there any timelines by when you are
+                     anticipating Bhivpuri and then Shirwata to get commissioned? By when are you expecting cash
+                     flows from both of these projects?
+
+
+Praveer Sinha:       The Bhivpuri project, we expect that it will become operational in first half of calendar year
+                     2029, and Shirwata will get commissioned in Calendar year 2031. That is the timeline that we
+                     are looking at.
+
+
+Subhadip Mitra:      Understood. Thank you. That is it from my side.
+
+
+Moderator:           Thank you. Ladies and gentlemen, we will take the last question from the line of Puneet with
+                     HSBC. Please go ahead.
+
+
+Puneet:              Yes, thank you so much for the follow-up. My question is on this cash that you have on your
+                     books. Would it be possible to attribute how much is towards the Renewables business and how
+                     much is towards the rest?
+
+
+Sanjeev Churiwala:   I think, are you looking at an H1 allocation, or you want to give a tentative idea about the full
+                     year?
+
+
+Puneet:              No, H1 and reported numbers. How much is it towards the renewables piece?
+
+
+
+
+                                             Page 10 of 11
+
+                                                                                   The Tata Power Company Limited
+                                                                                                November 11, 2026
+
+
+
+Sanjeev Churiwala:   In Q2, we did about In H1, we did about close to about INR10,000 crores of capex, and roughly
+                     about INR6,000 odd crores went to the RE business, renewable business, and the remaining is
+                     still among various businesses that we have.
+
+
+Puneet:              No, what I meant was the INR11,165 crores of cash that you have in your books. How much of
+                     it is in the RE piece, and how much is it in the rest?
+
+
+Sanjeev Churiwala:   It is spread across hundreds of businesses, and renewable businesses, roughly depending upon
+                     the repayment, capex requirement, will have INR1,000 crores-INR1,400 crores of cash lying
+                     over there. Over there also, there are various businesses. So, in September, I think it was close
+                     to about INR1,400-odd crores.
+
+
+
+
+Puneet:              INR1,400 crores, okay. That's all from my side. Thank you so much.
+
+
+Moderator:           Thank you. We will take one last question from the line of Dheeraj Kripalani with Avendus
+                     Spark. Please go ahead.
+
+
+Dheeraj Kripalani:   Yes. Thanks for the opportunity, and thanks for the clarity on the Singapore case process. Just
+                     to close it, if the, let's suppose, if the Court of Appeal Rules against us, then would the full
+                     amount of around $650 million would be provided in that quarter, or how would it be funded, or
+                     how will it work? Just wanted more clarity on that.
+
+
+Sanjeev Churiwala:   No, I think we have a very strong case, right? That is why this has not been provided for. So,
+                     there's no need for us to think that we will lose the case.
+
+
+Dheeraj Kripalani:   Okay. Thank you, sir.
+
+
+Moderator:           Thank you. Ladies and gentlemen, I now hand the conference back to Dr. Praveer Sinha for
+                     closing comments. Over to you, sir.
+
+
+Praveer Sinha:       Thank you, everyone, for joining for the call, and I would like to wish all of you a happy Diwali,
+                     happy Bhai Dooj, and Chhath. If you have any more queries, please get in touch with Gautam
+                     and Anshul from our Investor Relations team, and we will be able to provide you all the details.
+                     Any feedback on the presentation, whatever changes had been suggested last time have been
+                     incorporated.
+
+
+                     But we will be more than happy to receive your feedback to further enhance and improve the
+                     quality of presentation, and also to provide all details information that is feasible. So, once again,
+                     all the best, and stay safe and take care.
+
+
+Moderator:           Thank you, members of the management. On behalf of Tata Power, that concludes this
+                     conference. Thank you, everyone, for joining us, and you may now disconnect your lines.
+
+
+
+
+                                              Page 11 of 11
+

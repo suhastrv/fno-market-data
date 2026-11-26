@@ -1,0 +1,1150 @@
+IDAL/2026-27/SE/105                                                          November 6, 2026
+
+National Stock Exchange of India Ltd                               Scrip Symbol - INTELLECT
+BSE Ltd.                                                            Scrip Code        - 538835
+
+
+Dear Sir/Madam,
+
+
+Sub: Disclosure of Earnings Call Transcript
+
+Please find attached herewith the transcript of the Investor Earnings Call held on October 30,
+2026 on the unaudited financial results for the quarter and half year ended September 30, 2026.
+
+The Transcript of the earning call is also available on the website of the Company.
+
+Kindly take the above information on record.
+
+Yours Truly,
+For Intellect Design Arena Limited
+PRAKASH           Digitally signed by PRAKASH
+                  BHARADWAJ
+BHARADWAJ         Date: 2026.11.06 15:35:14 +05'30'
+
+
+Prakash Bharadwaj
+Company Secretary and Compliance Officer
+ACS-37214
+
+Q2 FY27 Earnings Call
+
+
+
+Investors Meeting Transcript
+
+Praveen Malik:
+
+Greetings and welcome everyone!
+
+Thank you for joining us today to discuss the Intellect Design Arena Limited financial results for the
+second quarter of fiscal year 2026-27, ending 30th September 2026. The investor presentation and
+press release have been sent to you and are also available on our website. Our leadership team is
+present on this call to discuss the results.
+
+We have with us today:
+   ●​ Mr Arun Jain, Chairman and Managing Director
+   ●​ Mr Manish Maakan, Executive President & Group Chief Revenue Officer and Chief Executive
+      Officer of Intellect Wholesale Banking
+   ●​ Mr Rajesh Saxena, CEO of Intellect Consumer Banking
+   ●​ Mr Banesh Prabhu, CEO of IntellectAI
+   ●​ Ms Vasudha Subramaniam, CFO
+   ●​ Mr Vikas Misra, Chief Strategy Officer
+
+Besides some other senior members of Intellect management are present in the call.
+I will now hand it over to Manish to give his comments on the results. This will be followed by the
+comments of Vasudha. Thereafter, there will be a Q&A session where your questions will be
+answered by the senior members of the management team. During the Q&A, you can ask a
+question by clicking on raise hand, and we will unmute you so that everyone is able to listen.
+
+One safe harbour: I would like to remind you that anything we say which refers to our outlook for
+the future is a forward-looking statement, which must be read in conjunction with the risks the
+company faces. With this, I request Manish to give his briefing.
+
+Manish Maakan:
+Good afternoon, everyone. Praveen, thanks for the introduction, and thanks to everyone for joining
+us. Our theme remains Growth by Design, which we shared at the beginning of last quarter. Last
+quarter we had set out four growth engines and five measures by which we said we should look at
+judging us. This quarter's presentation shows them as four strategic pillars built on the same
+strategy. Before going into any more details, I want to go a little deeper into the first one, which
+shapes our future on all four pillars-MSOCK.
+
+Q2 FY27 Earnings Call
+
+
+
+MSOCK is about making enterprise knowledge computable. This was a significant innovation that
+we brought to market in September. We launched MSOCK, a multi-dimensional, multi-layer system
+of connected knowledge. Here is the problem it solves: the industry has invested over billions in AI,
+yet productivity has barely moved. AI tools are brilliant on day zero and side lined by day two,
+because AI knows the world but not the institution, its systems, its dependencies, its rules and its
+connected knowledge.
+
+MSOCK closes that gap. Just as the relational database made data queriable, MSOCK makes
+enterprise knowledge connected and computable; so AI can understand a mission-critical system,
+whatever you saw on your screen, see the blast radius for a chain, and act under governance before
+anything else is touched. The five engines around which we have built these capabilities. It coexists
+with whatever our customers already have, and our message is simple: keep your agents, keep your
+AI tools, and add MSOCK to make your knowledge computable. How MSOCK matters to Intellect: It
+opens a new market segment for us, where every bank, insurer or capital markets firm with a
+complex legacy estate must understand it before it can modernise it. Our challenge to the market:
+bring one complex module, give us three weeks, and we will map it, govern it, and prove the blast
+radius.
+
+Second, it strengthens everything we sell eMACH.ai and Purple Fabric are now engineered using
+MSOCK, and it is already changing our own economics, and Q2 already shows it. MSOCK is now
+validated across 141 internal projects, with 39 patents filed. In this quarter we took 25 institutions
+live, up from 16 in Q1, yet our total cost stayed flat versus Q1, including higher marketing cost.
+More output from the same cost base is exactly what MSOCK is built to deliver, and in a moment,
+we will show what this has meant for one specific customer.
+
+Our four pillars for strategic growth let me start with the evidence first. Our trailing-twelve-month
+income is up 17% and has risen in each of the last seven quarters on an LTM basis. We recorded 21
+wins this quarter, including 8 destiny wins, up from 7 in Q1 and 25 financial institutions went live on
+our platforms, up from 16 in Q1, and we delivered at a lower delivery cost than Q1.
+
+Let me show how these trace back to the choices made.
+
+First one AI-led transformation-the choice was to invest in proprietary AI ahead of demand. The
+output is AI now winning deals on its own merit. A large US property and casualty insurer chose us
+in two deals in AI-led submission processing and underwriting. An AI-led digital bank in Bahrain,
+focussing on business clients and digital assets, chose eMACH.ai as its digital core. One of Mexico's
+largest banks will use AI-led document processing in its new trade finance platform. A global
+contract research organisation and an Indian precision manufacturer chose iAPX, which is our
+procurement platform, for AI-led accounts-payable automation; outside banking all together A
+Kuwait leading retailer chose our AI-driven customer personalisation. In total, 7 of our 21 wins this
+quarter were AI-led. AI is no longer just a feature of our proposals; it is a reason customers choose
+us in banking and beyond.
+
+Q2 FY27 Earnings Call
+
+
+
+
+The Choice since FY 27 the 2nd Pillar is Marcus drive. Stay on the pillar slide please.
+
+A Pillar 2 was to focus on strategic markets and global growth. This has been our focus and Most of
+our investment in last couple of years has gone into the Americas and Europe, and the output is
+platform-scale decisions from major banks., Like I shared one of Mexico's largest banks came back
+to buy eMACH.ai Trade Finance; One of the the Nordics region leading but selected eMACH.ai
+Payments for its UK operations; and a leading US financial services provider selected Payments for
+its US business. 9 of our 21 wins this quarter came from the Americas and Europe, which is more
+than half of this quarter's value and more than half of our new signings.
+
+Pillar 3 is strategic platforms and innovation; the choice was to build platform that turn into domain
+expertise and propositions that sell repeatedly. Our credit union business, is a classic example
+acquired through Central 1, continues to win more. A transaction-banking platform which has been
+chosen in the UAE and Jordan for repeatedly, a composable core-banking platform in five countries,
+and a payments modernisation across the UK and US. Repeatability is what lets our IP scale without
+custom development; a repeat proposition sells faster, implements faster and needs less
+customisation. It’s been proven that. I just want to add One specific item over here, which we will
+look through our numbers later: I Would like to share one of our large credit unions, who had made
+a decision on an alternative platform prior to our acquisition of Central 1, completed its migration
+to an alternate Platform there by creating reduction in our SaaS revenue this quarter, and it's
+important to call that out as you go through our results.
+
+Our platforms are also earning independent recognition. At the ET Enterprise AI Awards, Arun was
+recognised as an Indian CEO Driving AI Innovation, and Purple Fabric was named Best AI
+Development Platform. These are market recognitions of what we have done.
+
+Our pillar 4 is strategic deal wins and go-lives. The choice was to use delivery success to deepen
+relationships with our more than 500 customers in 62 countries, with MSOCK now embedded in our
+implementation teams. Every go-live adds to an installed base that is one of our largest growth
+assets.
+
+On the deals: I shared the largest Mexico deal. Earlier we have one CBX-modernise their cash
+management platform, and immaculate execution using MSOCK saw the bank migrate the delivery
+with precision and control. That has now resulted in the bank extending its engagement to
+eMACH.ai Trade finance and Supply Chain Finance, front to back -one of our strategic deals. A
+programme of that scale typically takes 18 to 24 months; with MSOCK, we are designing to deliver it
+in 12 to 14 months.
+
+This is not one off success which we have in the last two quarters, three other significant
+programmes went live ahead of plan: a wealth platform for a major.. global major in its first country
+in Asia, four months early on a 15-month programme; a cash management platform for a major
+Middle East powerhouse, three months early on an 11-month programme; and a lending platform
+
+Q2 FY27 Earnings Call
+
+
+
+transformation in Europe, was advanced by three months. Across markets and product platforms,
+we are seeing early deliveries for our success. Delivering early, and right the first time, is what earns
+the next decision; that is what we mean by implementation certainty, and MSOCK is what lets us
+deliver it repeatedly.
+
+Mexico has shown how we deepen relationships and open new channels. for UK wealth A joint
+venture was established to expand our TAM. A new segment of AI-native digital banking Bahrain
+Digital Bank is another example, with of how modern new AI- banks are leveraging Intellect as a
+platform. And we launched a new product category, Islamic banking, winning our first
+Sharia-compliant bank client in the Maldives. Each of these expands our addressable market on the
+same platform, without a matching increase in custom development; this is what I really wanted to
+demonstrate means what growth by design. ​
+
+Slides 8 and 9 show what our 21 wins are and you would have had a chance to look at them at this
+stage go to the pipeline: it stands at ₹13,125 crores, up 9% year-on-year and close to four times our
+trailing income, and it holds 103 destiny deals: 29 above ₹50 crores, 35 between ₹30-50 crores, and
+39 between ₹20-30 crores. Pipeline growth has moderated because our focus is now building the
+pipeline to converting it, and the pillars are converting: we closed 8 destiny deals this quarter.
+Among our high-value pursuits, we added 18 new ones, and while16 decisions, half them wins
+came from our. Our deals are also getting larger, and their shape is changing; newer wins
+increasingly combine an upfront license with a multi-year annual subscription fees, each of them
+builds forward revenue for us.
+
+On awards and leadership: page 12 of the deck shows the awards we have won, and page 13 shows
+how we are deepening our leadership talent. Vijay Anand joined us as Senior Executive Vice
+President and Chief Operating Officer for Wholesale Banking. Leadership depth and MSOCK
+together answer the question investors ask us most: can you deliver, and what are you winning?
+Q2's answer is yes; more go-lives from a flat cost base.
+
+Our priorities remain unchanged from Q1 and in the same order: commercialising AI and MSOCK,
+and converting the higher-value pipeline. We continue to ask you to judge us on the same five
+measures we have explicitly and deliberately defined out. First, AI adoption; 7 of our 21 wins were
+AI-led., priority market growth: 9 of 21 wins, and more than half of new signings, came from the
+Americas and Europe, including 3 Tier-1 platform decisions. Third, destiny conversions: 8 new
+against 7 last quarter and 15 in the first half.. License-linked revenue is growing faster. Operating
+leverage: more go-lives from a flat cost base. I'll now hand over to Vasudha, who will explain
+through how this momentum is translating into revenue quality, profitability, working capital and
+cash.
+
+Thank you.
+
+Q2 FY27 Earnings Call
+
+
+
+Vasudha Subramaniam:
+Thank you, Manish. Good evening, everyone. I will now take you through Intellect's financial
+performance for Q2, beginning with our last-twelve-months performance, followed by quarterly
+results, profitability, cash, collections and working capital.
+
+Our LTM performance reflects continued growth in revenue, with increasing contribution from
+license-linked revenue. LTM total income reached ₹3,388 crores, representing a 17% year-on-year
+growth. License-linked revenue, comprising license, platform and AMC, increased to ₹1,768 crores
+from ₹1,497 crores, representing 18% growth and contributing 52% of total income. Platform
+revenue increased to ₹591 crores from ₹392 crores, representing 51% of growth, while AMC
+revenue increased by 12% to ₹603 crores.
+
+Moving On profitability, gross margin as a percentage of total income stood at 56.7%. LTM EBITDA
+stood at ₹736 crores, representing 21.7% of revenue, despite over ₹100 crores of investment made
+in AI. Our non-GAAP adjusted EBITDA, excluding stock compensation cost, stood at ₹802 crores.
+Profit before tax stood at ₹503 crores, and profit after tax before exceptional items stood at ₹378
+crores. Collections increased 26% to ₹3,282 crores, and cash and cash equivalents stood at ₹1,216
+crores. Improving the conversion of revenue growth into earnings growth remains an important
+financial priority for us.
+
+Coming to the second quarter performance: total income for Q2 stood at ₹878 crores. On revenue
+composition, license-linked revenue stood at ₹457 crores, platform revenue at ₹133 crores, and
+AMC revenue at ₹160 crores; license-linked revenue accounted for approximately 52% of total
+income. Gross margin improved to 57.2%, and EBITDA stood at ₹199 crores, representing 22.7% of
+revenue. PBT stood at ₹137 crores and PAT at ₹104 crores. We remain focused on strengthening
+operating performance through disciplined cost management and improved productivity.
+
+On cash, collections and liquidity: Q2 collections stood at ₹815 crores. Cash and cash equivalents
+stood at ₹1,216 crores as of 30th September, compared with ₹927 crores in the corresponding
+period last year, an increase of 31%, strengthening our liquidity position. This growth in collections
+and cash balance gives us financial flexibility to support operating requirements and ongoing
+investments. On working capital, our days sales outstanding, excluding the contractually not due
+amount, stood at 111 days. We continue to closely monitor receivables and collections, with a focus
+on working capital efficiency and maintaining collections discipline.
+
+Before I conclude, I would also like to share a leadership announcement. The Board has approved
+the appointment of Mr Suresh Eshwara Prabhala as an additional director, designated as an
+independent director, for a term of five years, subject to shareholder approval through a special
+resolution. Suresh brings 28 years of experience in financial services, including 22 years in private
+equity investments. He has held senior leadership positions at JP Morgan, Mount Kellett Capital
+Management and ADV Partners Capital Management (ADV), and currently serves as CIO at 2380
+Capital. His extensive experience in investment, financial markets and corporate governance will
+bring valuable perspectives to the Board as Intellect continues its global growth journey.
+
+Q2 FY27 Earnings Call
+
+
+
+
+With that, I conclude the financial review and thank you. We will be happy to take your questions.
+
+Praveen Malik:
+Thank you, Vasudha. Now the platform is open for Q&A. In case you'd like to ask any questions,
+please click on Raise Hand, and we will unmute you. First, we have Adi Jawar from AK Investment.
+Adi, please ask your question.
+
+Adi Jawar:
+Thank you for the opportunity, sir. Good set of numbers. I have one question regarding revenue
+recognition. We have implementation revenue, where we also undertake customisations and sell
+licences. How do we recognise the licence revenue in such cases? Is the licence revenue recognised
+separately, or does it get converted into AMC after implementation? I am trying to understand how
+we account for the licence and implementation components, particularly when customisations are
+involved. Once the implementation is completed, does the revenue remain stable through AMC, or
+is it largely recognised during the implementation phase?
+
+Arun Jain:
+You may be a new investor in the company. Let me explain our business model. Today, our revenue
+is classified into three categories. A1 is licence revenue, A2 is implementation revenue, which
+includes customisation, and A3 is AMC revenue. Within implementation, we have implementation
+revenue (A2.1) and customisation revenue (A2.2). AMC revenue is typically a percentage of the
+licence revenue, say 20%. Once the implementation is completed, the implementation revenue
+ceases, and the AMC revenue begins. So, your understanding is correct.
+
+Adi Jhawar:
+Okay. So, we are not accruing this anywhere? If we are selling a licence and undertaking
+customisation, that revenue sits under licence revenue only, right?
+
+Arun Jain:
+No, no. It sits under implementation revenue. If there is customisation, it will be classified as
+customisation revenue, which accounts for 48% of the revenue in this segment. The licence
+component will be recognised under licence revenue. That portion will not be reflected in
+implementation revenue. Please go ahead.
+
+Adi Jhawar:
+What I am trying to understand is, if we are undertaking customisation under A2 and selling a
+licence as well, shouldn't the revenue from maintaining that product continue and move to A3 as
+AMC revenue?
+
+Arun Jain:
+How will the customisation revenue move to AMC? It will not. I think we should take this question
+separately. The CFO will address your question. Let us have some more conversation.
+
+Q2 FY27 Earnings Call
+
+
+
+
+Adi Jhawar:
+Okay. My next question is, are we confident of achieving revenue of ₹900 crore plus in Q4 and the
+PBT guidance of ₹1,000 crore for next year?
+
+Arun Jain:
+If you look at the numbers, that is why we are confident. The business is progressing in a structured
+manner. Earlier, we were reporting quarterly revenue in the range of ₹700 crore to ₹730 crore.
+Then, in Q4, we achieved ₹850 crore. As an investor, you may have had a doubt when we published
+the Q4 results about whether we would be able to sustain revenue above ₹800 crore. However, in
+the last two quarters, Q1 and Q2, our revenue has remained close to ₹850 crore. We have been
+able to sustain the Q4 revenue levels in both Q1 and Q2. That gives us a new baseline of ₹850
+crore. We are definitely confident of crossing ₹900 crore in the next two quarters. We will discuss
+the numbers for the next year separately.
+
+Adi Jhawar:
+Okay. Lastly, I have one more question. Do you see any risk, given that we are dealing with a large
+number of projects and licences?
+
+Arun Jain:
+Please ask one question at a time, as there are 240 people participating. Are you asking whether
+there is any risk in our execution?
+
+Praveen Malik:
+A request to everyone: please ask only one question at a time. If you have another question, you
+can ask it once again after allowing others to participate. Thanks, Adi. Next, we have Dev Mehta
+from Unique PMS. Dev, please go ahead.
+
+Dev Mehta:
+I'd like a bifurcation of the R&D expense for the quarter, and on an LTM basis — how much was
+expensed and how much was capitalised?
+
+Vasudha Subramaniam:
+On an LTM basis, R&D expense that was expensed through the P&L was approximately ₹230 crores,
+and around ₹170 crores was capitalised. For the quarter specifically, approximately ₹54 crores was
+expensed and about ₹42-43 crores was capitalised.
+
+Dev Mehta:
+Understood, thank you. Second question: FY21 was an inflection point for the company, after which
+margins moved up to the 24-25% range. Even in the annual report, FY27 is described as a similar
+inflection point. Are we still confident in that guidance; that FY27 will be an inflection point for the
+company?
+
+Q2 FY27 Earnings Call
+
+
+
+Arun Jain:
+
+Yes. FY27 is an inflection point from two perspectives, as Manish has laid out. First, we have built a
+technology called MSOCK. If you think like a Silicon Valley investor, this is a genuine technology
+invention; for the first time, we have connected an entire financial institution's knowledge across
+business capability, product, user journeys and call chains, kafka into a single system of connected
+knowledge. That product launched on 9th September, and in the six weeks since, I have personally
+met close to 30 CIOs across the US, India and Europe, and our entire senior management team has
+been meeting customers. Today, we have 30 active conversations on how MSOCK can be applied on
+top of Anthropic to drive the right business outcomes and deliver accurate results. The significant
+investments that companies are making in the cloud are not translating into actual cost savings. As
+Manish mentioned, 141 projects have gone live on MSOCK. We have demonstrated that a project
+that would typically take 12 months can be delivered in 8 months. This is a very compelling proof
+point for the technology. Our ability to win new deals is also expected to improve significantly
+because of the capabilities Intellect has built to deliver on its existing pipeline of ₹13,000 crore. This
+will provide a positive tailwind for the business. This is one area where we see an impact on
+margins and costs. The other important point Manish highlighted is our cost structure. Our costs
+stood at ₹680 crore last quarter, and we have managed to maintain the same cost structure this
+quarter. It is very rare to maintain a similar cost base across two consecutive quarters. As revenue
+increases, the operating leverage will become evident. If our current revenue of ₹850 crore
+increases to ₹900 crore, out of the additional ₹50 crore in revenue, approximately ₹40 crore will
+flow through to margins. That is where the value will be created for investors. You can see the
+impact on margins going forward.
+
+Dev Mehta:
+We remain committed to our guidance of achieving ₹4,000 crore in revenue by FY28.
+
+Arun Jain:
+That’s right.
+
+Praveen Malik:
+Thanks, Dev. Next, we have Vivek Taruga — please unmute yourself and ask your question.
+
+Vivek Taruga:
+Sir, thanks for the opportunity. My question was regarding MSOCK. Arun sir was explaining in most
+of the interviews that we have both effort reduction and, also, the kind of token maximisation in
+terms of the intelligence we are using because of MSOCK. If we think that this is a tailwind, how is it
+looking? I know it is too soon, but you have had conversations. I am just trying to understand. As
+you also mentioned in one of your interviews, MSOCK will help us crack the mainframe
+modernisation opportunity. So, if you can lay it out, how is it looking? Are you already very
+confident? Are you seeing the deals move faster? And will the cost structure of ₹680 crore remain
+the same up to what kind of revenue? Is it until ₹1,000 crore, or can you even maintain it at ₹1,100
+crore to ₹1,200 crore? Because if you look at other AI companies, I don't know how to ask this
+
+Q2 FY27 Earnings Call
+
+
+
+question, but there are huge savings coming in. If you look at product companies in Silicon Valley,
+they are growing north of 30% to 40% because of these gains. Are we going to see that kind of
+growth because MSOCK is providing a lot of tailwinds?
+
+Arun Jain:
+Yeah. So, I think that is a beautiful question. I think that is the right question for this conversation. A
+1% margin here and a 1% margin there is not going to make your investment decision in this
+company. What your company is doing with MSOCK is much bigger. You are asking the right
+question about mainframe-to-cloud migration. There is a big shift happening right now. There are
+market tailwinds in the US and Europe, where these projects are taking place. After launching
+MSOCK, we are now in active conversations with seven banks on mainframe migration. Before
+MSOCK, with eMACH.ai, we were only in contention. So, if you look at the whole company strategy,
+we have eMACH.ai as a product line, which is Layer 1. Let's say this is Layer 1. We have eight
+different product lines, from DTB to core banking, lending, wealth, payments, trade finance and
+supply chain finance. So, there are eight product lines. The second layer is Purple Fabric, which is
+making the operations of the bank more efficient. We are working with banks, and there are at
+least 15 RFPs in Purple Fabric, where Purple Fabric as a platform is being considered. Two banks
+have gone live on Purple Fabric as a platform, which is a significant milestone. They are consuming
+the platform as a secure platform, and they have gone live. Now, this traction will happen in Purple
+Fabric, which we launched last year. That is Layer 2. So, the first layer is for business, the second
+layer is for operations, and the third layer is for technology. Our promise to the industry is that we
+can bring down the cost of a bank by 20% by applying all three pieces together, if the bank choses.
+In the mainframe-to-cloud area, we are able to harness knowledge. Most of the competitors in this
+space, in the mainframe-to-cloud area, are parsing companies. If you want to understand the
+technology, many companies are parsing the code, bringing the past knowledge and giving it to the
+cloud to go with forward engineering. The gap there is that it does not have context engineering,
+and it does not have the connected knowledge piece, which we call the Multidimensional
+Multilayer System of Connected Knowledge. So, that is what is missing in the mainframe business.
+When we are talking to existing players, whom my competitors like AWS or other players like CAST
+are positioning, I am working on top of it and giving three opportunities. First is to take their
+knowledge as Part 1. Then, to enable forward engineering using MSOCK. And third, to apply the
+eMACH.ai architecture on top of it. So, there are three options available in mainframe.
+
+The mainframe-to-cloud migration deals will be upwards of double-digit millions, almost half the
+upper side of double-digit millions. So, this new space will help us. Coming to what you are talking
+about, whether ₹850 crore will go to ₹1,100 crore per quarter, yes, that is the hope we are looking
+for. Whether that will happen in 12 months or whether that will happen in 24 months, we will have
+to see. But definitely, the visibility that MSOCK has given us is significant. What I mentioned about
+₹4,000 crore, I mentioned two years back. That was based on Purple Fabric and other initiatives.
+Now, I am saying that I have visibility of ₹5,000 crore as revenue for the company. And that will be
+at a very decent margin because my cost structures are not changing.
+
+Q2 FY27 Earnings Call
+
+
+
+Vivek Taruga:
+So, sir, my question was, should we look at growth rates going up now that we have the intelligence
+layer and, sorry, the knowledge layer? You have eMACH.ai, and you are also one of the few people
+who have done this, mixing ontology with the core products. All the products are on the same
+platform called eMACH.ai. So, shouldn't we be confident of growing at 25% to 30%? If you see
+many product companies, I understand I am not comparing you with other kinds of products. Even
+if you compare with banking product companies, shouldn't we see a higher growth rate than what
+we have had in the last 10 years? We have made a lot of investments, right? We have developed all
+the products, platform based products, and we have also come up with this layer. We are also in
+eight markets. So, I am coming from that context.
+
+Arun Jain:
+Sure. You can look at it. As and when it happens, we are not able to see when it will actually happen
+because the decision-making cycle time is still slow. So, when will we actually see a 30% growth rate
+or a 25% growth rate? To me, a 20% growth rate is a good number. We have calibrated the company
+at 20%. Because a 20% growth rate will bring a 40% growth rate or a 50% growth rate in margins.
+That is what, as an investor, is a great opportunity right now.
+
+Vivek Taruga:
+So, that is my question, sir. Next year should be better than ₹4,000 crore, right? If we are growing at
+20%, it will be ₹4,300 crore to ₹4,400 crore.
+
+Arun Jain:
+Don't pin that on me. I am not a forecaster here. So, the next question.
+
+Vivek Taruga:
+Okay, sir. One last bookkeeping question, sir. A bookkeeping question. Manish mentioned that we
+have lost one SaaS customer. How should we look at that, sir? Is it a structural thing, or why did
+somebody leave? How should we look at it, because Manish has mentioned it?
+
+Arun Jain:
+No, I think, again, you have caught the right thing. It is a term getting over when we acquired
+Central 1. We knew that 80% of the customers would be retained because that is what we
+forecasted: 80% customer retention. That is why we did not pay any money to Central 1. We knew
+that their term would get over, and some 20% of the customers would move to other players. So, in
+this quarter, one, a few, one or two or three customers whose terms got expired moved out. We
+had given them a one-year period, during which they could move after one year, and they moved
+out of that. So, it is a natural progression that has happened in the sales revenue.
+
+Vasudha Subramanian:
+Despite that, we have achieved 51% growth on an LTM basis.
+
+Q2 FY27 Earnings Call
+
+
+
+Praveen Malik:
+Yeah. So, can you finish? Because there are other people waiting to ask questions.
+You can be again in the queue.
+
+Vivek Taruga:
+Okay. Thank you, sir.
+
+Praveen Malik:
+Thanks, Vivek. Next, we have Prolin Nandu from Edelweiss Public Alternatives. Please go ahead.
+
+Prolin Nandu:
+Yeah. Arun, thank you so much for giving me the opportunity. I just wanted to understand. We have
+been talking about an increase in margins for quite some time now. If I look at some of your old
+transcripts, you have highlighted that our margins can reach 25% to 30% in the past as well. We
+have invested in eMACH.ai, Purple Fabric, and now the wrapper around cloud as well, or anthropic
+as well. I just wanted to understand why this time is different and why you are confident about
+margins improving right now, while the cost base is not increasing. Because, Arun, where I am
+coming from is that, in one of the interviews, you mentioned that maybe Indian investors are too
+much worried about the margin part, in some sense. But for the last five years, our profitability has
+been flat. In terms of overall PAT, we haven't seen an increase in PAT for the last five years. So, I am
+not sure what kind of patient investors you want, in some sense, to wait for five years for an
+increase in PAT. And on the margin part as well, in the past, you have commented that margins will
+increase. So, what is it that we investors should evaluate you on, apart from some of the other
+things that you have mentioned, such as deal wins and so on and so forth? On financial metrics,
+how should we evaluate you? Don't you think financial metrics should also be part of what we
+evaluate you on? And why are you so confident that?
+
+Arun Jain:
+
+I got the question. So, your question typically is that margins are not growing. We mentioned last
+year that we are investing ₹100 crore in the AI business. That was a clearly self-identified number.
+Instead of keeping that cash for investors, we are investing it back into the AI business. Your
+company has built MSOCK and Purple Fabric through internal investment. If anybody else had been
+there, they would have required ₹500 crores to ₹1,000 crore of investment to build what MSOCK
+and Purple Fabric have built. Now, if you look at leading AI companies, AI companies are not making
+profits in the world. AI companies are only building products right now, and they are not making
+profits. Today, the balance of eMACH plus AI together is helping us retain our margins at 20%.
+
+To me, that is a great celebration point. We are transforming the company into an AI company
+without taking any third-party investment and without diluting your equity. All the internal research
+has been done with the same kind of investment, of just ₹100 crore. Any AI company raising funds
+is not raising less than $100 million. So, that is where you have to measure it. Now, the second
+measurement you want is: are our costs coming down at Intellect? During the phase of investment,
+
+Q2 FY27 Earnings Call
+
+
+
+our costs went up from ₹600 crore to ₹680 crore. Now, it is in the range of ₹680 crore per quarter.
+For the last two quarters, the cost has remained constant. What we are saying is that, over the next
+few quarters, my cost will not increase in proportion to what it was doing earlier. It will remain
+between ₹680 crore and ₹700 crore. Now, in that scenario, if my revenue goes to ₹950 crore, that is
+where the margin improvement will happen.
+
+Prolin Nandu:
+Thank you, Arun. Looking forward.
+
+Arun Jain:
+Yeah.
+
+Praveen Malik:
+Thanks, Prolin. Next, we have Dhruvesh Shanghvi from Prop Tree Asset Management.
+
+Dhruvesh Sanghvi:
+Very quickly, just one question, sir. This is the first time I am asking a question on the call. I have
+been an investor for almost four to five years now. Sir, just one question. When we look at ourselves
+as a smaller company in comparison to the leagues of Oracle Financial Services, we see that their
+LTM growth has recently shot up substantially. Even Temenos has been able to grow by 5% to 7%,
+and it seems that the entire industry has been able to grow well. Of course, we have also done very
+well. But if we are on the innovation side, versus the leagues of OFSS, how have they been able to
+grow so well? My question is a very naive one. If there is something sensible or some insight that
+you can share, it would be great, sir.
+
+Thank you. That is my only question.
+
+Arun Jain:
+
+The nature of the product industry is that certain deals are there. If some company gets a very large
+deal during a particular period, then suddenly that period becomes an extremely good period. For
+example, our Q3 revenue was ₹720 crore, and our Q4 revenue was ₹850 crore. Now, in one quarter,
+in no other business can you get ₹120 crore of incremental revenue in just three months. OFSS has
+won some good deals in America, which we appreciate. Temenos has also done a good job in
+acquiring some customers in Africa, including one large deal that they announced. So, this is
+deal-based growth. But when I say that we are on the cutting edge of innovation, we are fighting a
+head-on battle with Temenos. And fighting a head-on battle with OFSS is a great credit to all of us,
+and to our investors for trusting us. We are fighting better, and with MSOCK, we will fight much
+better.
+
+Because if I can deliver a project four months ahead of time, I don't think I have a visible customer
+yet. But that demonstration of delivering four months early will take six months for us to
+demonstrate in a physical manner. The client will agree to write a case study with me about
+
+Q2 FY27 Earnings Call
+
+
+
+delivering four months ahead of time. And once the client goes to the market with the story that I
+can deliver four months ahead of time and I can do the transformation in eight months, that story
+will sell in the market. So, as a product company, we just need a little more patience.
+
+One thing is that the product market has not gone away. There is a lot of fear in the market among
+investors that product companies are not in the space anymore, that people are building solutions,
+and that a lot of service companies are saying that they can build AI-based solutions and build
+products using Claude. I think those are misnomers. A service company cannot simply build a
+product where a microservices architecture or eMACH.ai architecture requires close to 800 to 900
+small security issues and microservices issues to be addressed. It is a complex business in financial
+services. But as of now, a lot of investors are getting carried away with the myth that service
+companies will take over and product companies may not have the possibility of licence revenue.
+So, I just want to clarify the myth that is going around in Europe and America that service
+companies can take over product companies.
+
+Dhruvesh
+Thank you, sir.
+
+Praveen Malik:
+Thanks, Dhruvesh. Next, we have Paresh Sanghani from Club Millionaire. Please go ahead.
+
+Paresh Sangani:
+Good evening, Arun, and good evening to everyone as well. The question I had was that we are
+likely to have about ₹1,300 crore of cash by FY27, right? And we are producing about ₹350 crore of
+free cash annually as well. So, what would it take for us to consider a buyback, when peers like
+Temenos or Oracle, for example, have undertaken buybacks? Oracle's parent company globally has
+done almost a 40% buyback. The company that we admire the most, let's say Apple, has bought
+back 40% of its equity over the last 10 to 12 years. When I compare our valuation vis-à-vis their
+valuations, at current EV-to-sales valuations of less than two times, and our margins are also at a
+trough, I was wondering what it would take for us to consider doing a buyback in this company?
+Especially when it is far more tax-efficient than, let's say, giving out a dividend. When we receive
+dividends, we pay almost 40% as our marginal rate of tax. Thank you.
+
+Arun Jain:
+Thank you for asking this question. This is an option we have discussed at the Board level. So, it is
+not that these questions are not being discussed at the Board level. You have given this feedback on
+buybacks. With MSOCK being launched now, we are looking to invest this money in acquisitions. We
+are planning to acquire companies to gain access to their clients. MSOCK is a good tool to acquire
+clients and upgrade legacy players in their markets. So, we want to go to the Latin American market.
+We want to go to the European market and the Eastern European market, and we are looking at
+acquisitions. My strategy team, Vikas, who is running the Chief Strategy Office, is now evaluating
+three to four acquisitions of a certain size. The customers we want to acquire are specific customers
+who have 20 financial accounts in a new market where we don't have access. That way, I don't have
+
+Q2 FY27 Earnings Call
+
+
+
+to go to the procurement office of MSA. I will short-circuit the MSA part and then use MSOCK to
+deliver the value of MSOCK to them.
+So, that is what our strategy is.
+
+Based on that, we will be able to take a decision on a buyback at the appropriate time.
+
+Paresh Sanghvi:
+Okay. Thank you, Arun.
+
+Praveen Malik:
+Thanks, Paresh. Next, we have Yash Sedani from Entigrity. Please go ahead.
+
+Yash Sedani:
+There was one transaction with JV this quarter. Can you just tell us the amount of that transaction?
+And I think if we exclude that transaction, we have seen some degrowth in profits as well. So how
+are we looking at this figure going forward? And clarity on this JV transaction?
+
+Arun Jain: The JV is on the licence we sold to the JV. So it’s not a value which is excluded, because
+this JV has come with a value of a wealth management licence to be sold to the JV, and the JV will
+now be operating 50/50 in the UK market. So we are exploring the market. This is one of the
+monetisation strategies for a particular market. Either I acquire them, or I have to do a partnership
+with them. Both strategies are there. So this strategy with Fintel is a joint go-to-market in the UK,
+where they have more than 100-plus customers. So there, we will be accessing that, and that will
+be the value you’re doing for us.
+
+Yash Sidani:
+Yeah. Okay. Thank you.
+
+Praveen Malik:
+Thanks, Yash. Next, we have Mayank Babla from Carnelian Capital. Please go ahead.
+
+Mayank Babla:
+Thank you for taking my question. My first question is, you know, if you could quantify the impact
+from the Central 1 client, which migrated out of our platform in the quarter, and how much more of
+an impact can we see in the forthcoming quarters? Because you said 20% you were expecting to
+churn out. So, if you could quantify this for us, please.
+
+Arun Jain:
+We can quantify later on. We’ll quantify; we’ll have to work it out which quarter somebody is going
+out, because they don’t promise when their term is ending. So they keep on extending the term till
+the time the new vendor is ready to put them on a platform. That’s the current uncertainty we have
+on when the particular client goes, because when the new vendor to whom they are going, that
+cycle time is next to three quarters. We’ll tell you later on.
+
+Q2 FY27 Earnings Call
+
+
+
+
+Mayank Babla:
+Okay. And for the current quarter, if you can quantify that, that would be known, right?
+
+Arun Jain:
+Yeah. Current quarter, Rajesh, is anything there in the current quarter?
+
+Rajesh Saxena:
+Are you talking about quarter three or quarter two?
+
+Mayank Babla:
+Quarter three. Quarter three.
+
+Rajesh Saxena:
+I think in quarter three, we should be looking at about 3,00,000 or 400,000 US.
+
+
+Mayank Babla:
+Yeah. Thank you. And second, Arun sir, if you could help us explain, you know, in the MSOCK
+platform, the fourth pillar, which is four machines, if you could help us explain in simple terms what
+that bit means. I could not quite capture it. Forgive my simple question. Thank you.
+
+Arun Jain:
+I was asking. It’s good that you asked that question. I think many investors would understand. If you
+look at it, any software system is like a knowledge tower of the bank. Let me explain to you. Like,
+you have a physical building of HDFC Bank, a physical building of ICICI Bank. Assume there is a
+knowledge building of 21 floors. There are two floors for business products and business
+capabilities, which the bank brings to the table. There are five operations floors. There are three
+technology floors. There are two risk floors, and there is one compliance floor. And then there’s a
+governance and strategy floor. For now, all of this knowledge is sitting on 21 floors. We are
+connecting them together.
+
+Now, when this knowledge is connected, I created a machine called the build machine. So, if I have
+to build a new application, I will use a build machine, where I will build the entire new application.
+Like, if I have to build a CRM to replace Salesforce in the Indian banking system, then I can build a
+CRM application for the bank, which is integrated with their customer on boarding application. I can
+combine both of them and build up a customer operating system. That’s our approach to launching
+a new product in India: a customer operating system, which will have a CRM plus customer
+onboarding. Now, this is possible in the build machine.
+
+Then there’s a change machine. If a bank wants a change, like RBI wants a change, and last month
+there was a situation when RBI requested us on Wednesday that Sunday they want to make all of
+you must know about it. Now MSOCK has gone into the details of the change machine and says that
+
+Q2 FY27 Earnings Call
+
+
+
+if we are to make Sunday working, then you need 22 different changes to be done in a system
+within 24 hours. In the absence of MSOCK, this work would have taken at least three to four weeks
+to find out what is the impact of a Sunday working day in an application, and that could have been
+significantly painful later on for making Sunday working in that area. So, that is a change machine.
+
+Then there’s a run machine, which is about when there’s a defect in a bank, how quickly we can fix
+that defect. That’s a run machine, when you’re running the system.
+
+And then there’s a modern machine, where you want to modernise a legacy application to an
+eMACH.ai application or a new-generation application.
+I hope this clarifies.
+
+Mayank Babla:
+Yeah, thank you for your explanation. That was helpful. Just one last question: who would you
+consider as the biggest competitor for your Purple Fabric platform?
+
+Arun Jain:
+For Purple Fabric, the competitors are C3.AI and Core AI, the two players in the US. Palantir is on
+the higher end of the platform, but they are in the defence sector more than the financial sector. So
+that’s Purple Fabric. MSOCK, the nearest competition is CAST in the main area, but that’s not a
+complete competitor. That’s a parsing-based company, so that’s a competitor in the area.
+
+Mayank Babla:
+Sure. Thank you for your answers, and best of luck to you.
+
+Praveen Malik:
+Thanks, Mayank. Next, we have Rishabh Aggarwal from Suraag Capital.
+
+Rishabh Aggarwal:
+
+Thank you, sir, for the opportunity. So, the first question, just touching upon the revenue again. If
+you exclude the JV investment, it seems like year-on-year, this quarter was around 8% growth, and
+the pipeline growth has also been 9%. Though, in the initial address, you did mention that now
+you’re looking to convert the pipeline faster. So, I just wanted to get to whether there have been
+any negative surprises on the licence part, or even on the product platform revenue. It seems like
+there was a decline in revenue. Was that because most of the revenue is consumption-based rather
+than subscription-based?
+
+Arun Jain:
+We mentioned just before, to somebody else, that there’s a Central 1 account which is done, got
+completed. So that’s the reason for the platform revenue. Our revenue in LTM is 17% growth, not
+8% to 9%. I don’t know whether you’re looking at quarter-on-quarter growth.
+
+Q2 FY27 Earnings Call
+
+
+
+
+Rishab Agarwal:
+Yeah, excluding the JV licence.
+
+Arun Jain:
+Yeah. So that is, we don’t. For a product company, I think, take one indicator: LTM. That will be the
+single point which should be there, because there are fluctuating quarters, and there’s no point
+taking quarter-on-quarter. We are not a services industry. So please stick with the one course,
+which is 17%.
+
+Rishab Agarwal:
+Got it. Just the second question, sir. Is MSOCK an extension of Enterprise Knowledge Garden?
+Because I completely understand that you’re using a bank’s complete context, building it into your
+better understanding of how the mainframe is working, then deciding whether a change or a run,
+and how that can impact a conversion from mainframe to cloud. But is that essentially an extension
+of the work you’ve done with EKG? It would be helpful to understand that.
+
+
+Arun Jain:
+Well, I should give you a reward for remembering EKG and connecting EKG to MSOCK. Definitely,
+these are the two generations of knowledge management. EKG was the first generation of
+knowledge management. This is the second generation of knowledge management. But this is a
+completely different set of technology which is there. The principle is: if knowledge is right,
+intelligence is right. The principle is the same, but there are two generations of technologies. One is
+EKG technology, which is vectorisation-based, and MSOCK is where we have 39 patents filed on
+knowledge accuracy, on the accuracy of the knowledge.
+
+Rishab Agarwal:
+
+Got it. And so, do you end up then using a frontier model only to basically build out the MSOCK
+graph? And is the customer okay with essentially sending out their data for inference to a frontier
+lab? Because essentially, you don’t have your own model, right? You’re basically sitting a harness on
+top of different frontier models.
+
+
+
+
+Arun Jain:
+
+That’s right. So, we use a frontier model, but we use only 30% of the frontier model, because we
+maintain the MSOCK within the client environment. Only for specific cases of reasoning do we go to
+the frontier model, not for knowledge. We don’t use knowledge from the frontier model, because
+the knowledge, the bank’s knowledge, sits in a bank enterprise.
+
+Q2 FY27 Earnings Call
+
+
+
+
+Rishab Agarwal:
+Understood. And MSOCK will be considered as part of your implementation revenue if, in case, this
+starts?
+
+Arun Jain:
+As of now, what we are doing with MSOCK is improving the margin by delivering faster.
+
+Rishab Agarwal:
+Right. And, like, essentially, you’re proving that the implementation would take maybe three weeks
+faster, four weeks faster. So the banks get converted better, you win better on... Just the last
+question, sir. Sorry.
+
+Praveen Malik:
+We are running out of time.
+
+Rishab Agarwal:
+Okay, maybe I’ll take it offline.
+
+Arun Jain:
+Yeah. Send a question. I would love to answer any question about them.
+
+
+Rishab Agarwal:
+Sure. Thank you.
+
+Praveen Malik:
+Thanks. Next, we have Rohit Balakrishnan. Please unmute and go ahead.
+
+Rohit Balakrishnan:
+
+Yeah. I think, yeah. So, I think most of the questions have been answered, I think. So, I don’t have... I
+just want to understand two things.
+
+Sir, Manish sir told us that half of the deal signings are from markets like the Americas and Europe.
+So, I am hoping and assuming that going forward also, we will drive deeper penetration there. From
+a gross margin point of view, how do you see the gross margins? We’ve talked a lot about the
+leverage below gross margin. In the call, you said that costs won’t increase, but this quarter was
+higher at 56%. But generally, the understanding that we have is that the deal values are much
+higher, and hence the gross margin could also be higher. Is that something that we should think
+about? Not immediately, not next quarter, not the next two quarters, but let’s say two years out,
+FY28 or FY29. Do you see that this gross margin can also inch up a couple of percentage points? You
+see, look at Temenos, etc. Despite their cost structures, they’re much higher. So, we anyway have a
+
+Q2 FY27 Earnings Call
+
+
+
+cost structure advantage, which you have also talked about. So, if you can maybe talk a bit about
+that.
+
+Arun Jain:
+
+Yeah. So, now you take the margin. Say, you take the current book. I have a revenue of ₹845 crore,
+operational revenue of ₹845 crore, ₹847 crore, and a cost of ₹680 crore. That’s the EBITDA margin
+which I have. If ₹850 crore becomes ₹950 crore and the cost remains at ₹700 crore, it becomes
+₹250 crore. Or ₹950 crore, ₹250 crore on ₹950 crore, that will be how much margin-wise?
+
+Rohit Balakrishnan:
+27%.
+
+Arun Jain:
+
+27%, yeah. That’s a lever which we have available. So, you need to understand that product
+company levers are different. Now, this goes to ₹1,000 crore, this becomes 30%.
+
+So, I think you’re managing the two things from an investor perspective. I’ll recommend you should
+look at the operating cost lever with MSOCK. Our operating cost, as Manish has highlighted, is a
+lever that is in our hands now. It was not in our hands. When we had more contracts, we were
+increasing the cost. MSOCK has given us a break to say our cost will be contained. Even if ₹700
+crore becomes ₹725 crore and revenue becomes ₹1,000 crore, it is still 27%.
+
+So, those are the ways to look at it. And when it becomes ₹1,100 crore and ₹1,200 crore, then
+you’re reaching the same level as Temenos, which is 32% or so. That will be the point when we
+reach revenues of $600 million or $650 million, when we reach those 30% levels.
+
+Rohit Balakrishnan:
+
+Right. No, so very clear now. Just one more question. I think somebody, I think Vivek, was trying to
+ask this also.
+
+Sir, you mentioned MSOCK is like almost a Brahmastra for you. And you also mentioned that some
+of the other companies have been able to win deals which have accelerated their growth. I have
+been tracking and invested for the last six or seven years, so I have really seen your journey very
+closely.
+
+My point was, sir, now over the last four years, we have incrementally invested in newer platforms
+to really strengthen our overall offering. In the marketplace today, from our winnability point of
+view, of course, we’ve won 21 deals, which is the highest we’ve won. When you go head-to-head
+with some of these other bigger names in terms of legacy and size, when do we see that
+
+Q2 FY27 Earnings Call
+
+
+
+acceleration happening from a revenue growth point of view? I’m not trying to ask about this
+quarter or that quarter.
+
+Because, sir, if you see, I want to take you back to 2022–23. At that time, especially in consumer
+banking, we were directly head-to-head in some of the deal wins with Temenos, nCino, Mambu and
+others as well. I think somewhere in the last couple of years, our win rates have somewhat come
+down. I think that is what the growth rate is also suggesting, which is fine. But now that we have
+really invested money, effort and time, do you see that this growth rate can really accelerate?
+
+As Vivek was also saying in terms of your interviews, etc., and also when you try to read about it, of
+course, we are outside investors, so we don’t know technology the way you do. But it just seems
+that all the pieces are coming together.
+
+Arun Jain:
+
+However, I think the point is, I think we are doing okay, because we are moving from ₹500 crore a
+quarter to ₹800 crore a quarter. We are doing our journey. Three quarters, and we are jumping to
+the next ship, then we are jumping to that. We are doing okay, so that’s not a concern for me.
+
+My concern is that your expectation is that we should be growing faster. Obviously, we have all the
+pieces of the puzzle coming together. So, this MSOCK investment is the final investment. I say it is
+an L5 investment. L1 investment, L2 investment, L3 investment was eMACH. Asset and Purple Fabric
+was L4 investment, and MSOCK is an L5 investment.
+
+But the Indian stock market, unfortunately, doesn’t like a ₹100 crore investment in AI. If I had not
+done this ₹100 crore investment and demonstrated ₹450 crore profit last year, as an investor, you
+would have been better off. Your stock price would have remained at ₹1,000 or ₹1,200, which was
+there, because the margin would have been at ₹450 crore instead of the ₹350 crore range.
+
+So, unfortunately, that’s the nature of the business. But when the margin comes back to ₹500 crore,
+obviously it will come back to the same price point. We don’t worry about this as a company. That’s
+what the stock market is; that’s the nature of the market and how they treat investments in this
+market.
+
+But if, with ₹100 crore, you are able to achieve a product of this magnitude, I think it’s a big
+celebration for the company and for the shareholders of the company. So, that’s the message I want
+to leave with you.
+
+Rohit Balakrishnan:
+
+No, sure. I mean, of course, the stock price was never my question, sir. Acceleration of growth is
+what I was trying to understand.
+
+Q2 FY27 Earnings Call
+
+
+
+Arun Jain:
+Sure. Sure. We’ll do it. We will likely do it and MSOCK will make our winnability much higher.
+
+Rohit Balakrishnan:
+
+ Sir, maybe one request. I think two or three years back, you did a Technology Day where you talked
+about each product going through five stages. Maybe at some point you can try and do that. That
+was very useful to understand the journey. It’s just a request, if it’s possible. I’m sure you are very
+busy, but if at some point that can be arranged, it would be very useful.
+
+Arun Jain:
+We will do that. I think it is definitely required for us to have a Technology Day. So, let me schedule
+a Technology Day. I was more in the market, so that’s why I was postponing it.
+
+Rohit Balakrishnan:
+Yeah. And in person would be better, sir. Yeah, in person.
+
+Arun Jain:
+
+Sure. But the question is, it’s a global investor base, so sometimes online...
+
+Rohit Balakrishnan:
+Yeah, I mean, yeah. I’ll leave it up to you. Yeah, that’s up to you. Thank you, sir. Thank you.
+
+Praveen Malik:
+Thanks a lot. Can we take one more question at least?
+
+Arun Jain:
+Yeah, you can take it.
+
+Praveen Malik:
+Next, we have Ravi Mehta from OneUp. Please go ahead.
+
+Ravi Mehta:
+
+Thanks for this opportunity. Just a couple of questions on MSOCK. It’s been a great journey from
+eMACH.ai to Purple Fabric to MSOCK, the way we’ve evolved.
+
+One thing is, how much of our internal operations or implementations are currently going through
+MSOCK? Is that the reason for the cost stickiness we are seeing, or is this yet to play out fully? Have
+you just started using it, and are you yet to reap the benefits, just from internal working?
+
+Q2 FY27 Earnings Call
+
+
+
+Manish Maakan: We, as I said, are doing 141 implementations internally on this. That’s giving us
+the confidence and helping us manage costs. I gave four examples where three to four months of
+advanced deliveries to customers have happened. So, taking any new technology out to the market,
+every customer will ask, “Where have you done it before?” This is an example of 140
+implementations having leveraged it. That’s why we’re looking at it. It’s a different scale of
+disruption we were trying to work upon. It’s a technology marvel.
+
+Ravi Mehta:
+Sir that you’ve already done this implementation, and then you’re taking the product to the market.
+So, can this be offered as an independent layer? It need not be bundled with eMACH or Purple
+Fabric. How are you thinking about the go-to-market, as it opens up a different market for you
+where you need not be selling eMACH?
+
+Manish Maakan:
+So, Ravi, that’s what I said. The first proof was delivering eMACH using MSOCK, where the
+hardening, confidence and trust got established between us and the customer. Next is for the
+customer to be able to use MSOCK to do any proprietary or legacy modernisation. The large bucket
+over there is mainframe to cloud, where we can take it out.
+
+So, we’re going to market as a separate product line. While we use it for internal operations, it’s
+available for customers to harness their knowledge and move forward.
+
+Ravi Mehta:
+So, incrementally, Purple Fabric and MSOCK both seem to be products independent of the core
+banking offering we have, and that opens up a lot of other industries also. How are you thinking
+about the go-to-market? Because now the markets are wide for this offering.
+
+Arun Jain:
+That’s right. So, I think your point is right. eMACH offering, Purple Fabric offering, and these are
+three independent offerings, and they can independently go to market.
+
+For MSOCK, we are looking for a top-down strategy for large accounts and a bottom-up strategy.
+That’s why the acquisition plan has come in. We didn’t have an acquisition plan. I never shared an
+acquisition plan with you at any time in the past. Now I want to acquire MSOCK customers, because
+I can acquire a Latin American bank with MSOCK much faster than with eMACH. eMACH takes
+longer to acquire. MSOCK will take a shorter time to acquire and grow that revenue.
+
+So, I can go to Japan, which I’m not accessing till now, with MSOCK. Those markets which are not
+accessible to me, MSOCK will make accessible. It’s a different product line and a different
+go-to-market strategy.
+
+My time in the last 90 days was totally on MSOCK. The eMACH business was run by Rajesh, Manish
+and Banesh. They were running the eMACH business. They relieved me for the MSOCK positioning.
+
+Q2 FY27 Earnings Call
+
+
+
+So, it’s a very different positioning which is going to be there. That’s why I stayed four weeks in the
+US and understood the market, in terms of what the market could be.
+
+It could be completely leveraged. It could be a separate subsidiary. It could be a separate way to go
+to market. As of now, we’re just evaluating all of it.
+
+Ravi Mehta:
+And will partnerships be a big lever, like SI?
+
+Arun Jain:
+Obviously, partnership is a low-hanging fruit.
+
+Ravi Mehta:
+
+Okay, because that was also the case for Purple Fabric. Are you working jointly with the partners on
+these products?
+
+Arun Jain:
+
+We are working, but as of now, for Purple Fabric, we believe they can do it. So, as of now, those AI
+implementations are still in the early stages. Now, after they fail in providing 64 friction points, they
+take some time to come back. So, we are patiently looking at it. Those banks who have tried to
+implement themselves, and after 12 months they fail, then they come to the platform vendors and
+float an RFP. So, that’s the trend we are seeing in the market. So, Purple Fabric will deliver results in
+2027-28. Definitely, a MSOCK, real-fast product to get the results.
+
+Ravi Mehta:
+And these are again one-time licence-kind offerings, or are these more of a subscription, as I
+understand?
+
+Arun Jain:
+
+Subscription.
+
+Ravi Mehta:
+Okay. If this can accelerate growth, I’m just wondering: you always say that we have designed the
+organisation for 20% growth. Now, if Purple Fabric and MSOCK can accelerate that, what will go into
+the design thinking to make this company designed for higher growth? What other investments
+might you have to do, if the things are coming together and growth is inflecting? I just wanted to
+understand, from your perspective, how you design the growth.
+
+Q2 FY27 Earnings Call
+
+
+
+Arun Jain:
+Yeah. So, now we are designing the organisation on market-led design. Till now, we have
+product-led design, so more market-led design will be done. That’s why acquisition and market
+access are required.
+
+Monetisation is the second piece. How do we licence MSOCK? In partnership mode, royalty mode,
+exclusive partnership mode, all those options are open. So, it’s a game of strategy. MSOCK can work
+on the Claude mode. The beauty is it can work as a plug-in to Claude Code to get better value. So,
+there are multiple opportunities at any strategic level.
+
+Ravi Mehta:
+And, like, for eMACH, when we launched, we had partnered with AWS. So, here also, are we talking
+to the cloud hyperscalers, or just the SI players around?
+
+Arun Jain:
+I’m not participating with hyperscalers. You want to participate with the beauty consulting
+companies, so that they have more skin in the game.
+
+Ravi Mehta:
+Sure. Thank you so much for answering, and good luck.
+
+Praveen Malik:
+Thanks, Ravi. Arun, we're now well over our scheduled time, so I'd request those participants
+whose questions couldn't be taken today to send them to us by email — we'll respond to those.
+Thank you, everyone, for joining today. You can now log off. Thank you to the management team as
+well.
+
+Arun Jain:
+Thank you.
+
+
+
+
+Note: This transcript has been edited for readability and does not purport to be a verbatim record
+of the proceedings.
+

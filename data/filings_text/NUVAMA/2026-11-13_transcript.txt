@@ -1,0 +1,1132 @@
+      NWML/SEC/2027/68
+
+      November 13, 2026
+
+      The Manager,                                        The Manager,
+      Listing Department,                                 Listing Department,
+      BSE Limited,                                        National Stock Exchange of India Ltd.,
+      Phiroze Jeejeebhoy Tower,                           Exchange Plaza, 5th Floor, Plot C/1, G Block,
+      Dalal Street,                                       Bandra - Kurla Complex, Bandra (E),
+      Mumbai - 400 001.                                   Mumbai - 400 051.
+      BSE Scrip Code: 543988                              NSE Symbol: NUVAMA
+
+     Subject: - Transcript of earnings conference call
+
+     Dear Sir(s) / Madam(s),
+
+     Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations
+     and Disclosure Requirements) Regulations, 2015 and further to our intimation dated
+     November 2, 2026, regarding the earnings conference call scheduled on
+     Monday, November 9, 2026, to discuss the Company’s performance for the quarter and half
+     year ended September 30, 2026, please find enclosed herewith transcript of the aforesaid
+     earnings conference call.
+
+     The same is also made available on the website of the Company www.nuvama.com
+
+     We wish to confirm that no unpublished price sensitive information was shared/discussed
+     in the aforesaid earnings conference call.
+
+     Kindly take the same on record.
+
+     Thanking you,
+
+     Yours faithfully,
+
+     For Nuvama Wealth Management Limited
+                    Digitally signed by
+     Sneha Amit Sneha  Amit
+                Patwardhan
+     Patwardhan Date: 2026.11.13
+                    17:05:49 +05'30'
+
+     Sneha Patwardhan
+     Company Secretary and Compliance Officer
+
+     Encl: as above
+
+
+Nuvama Wealth Management Limited
+Corporate Identity Number: L67110MH1993PLC344634
+Registered Office: 801- 804, Wing A, Building No. 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East,
+Mumbai – 400 051 • Tel No. +91 22 6620 3030 • secretarial@nuvama.com • nuvama.com
+
+                    “Nuvama Wealth Management Limited
+              Q2 and H1 FY27 Earnings Conference Call”
+                                            November 09, 2026
+Disclaimer:
+
+This document is subject to errors and may or may not contain words which have been included / omitted due to human error while
+transcribing the conference call. Any and all information should be verified with the company by the reader.
+
+
+
+
+MANAGEMENT: MR. ASHISH KEHAIR – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – NUVAMA WEALTH
+            MANAGEMENT LIMITED
+            MR. BHARAT KALSI – GROUP CHIEF FINANCIAL
+            OFFICER – NUVAMA WEALTH MANAGEMENT LIMITED
+            SGA, INVESTOR RELATIONS ADVISOR – NUVAMA
+            WEALTH MANAGEMENT LIMITED
+
+
+
+
+                                                           Page 1 of 18
+
+                                                                          Nuvama Wealth Management Limited
+                                                                                         November 09, 2026
+
+
+
+
+Moderator:       Ladies and gentlemen, good day and welcome to Nuvama Wealth Management Limited Q2 and
+                 H1 FY 2027 Earnings Conference Call. This conference call may contain forward-looking
+                 statements about the company, which are based on the beliefs, opinions, and expectations of the
+                 company as on date of this call. These statements are not the guarantees of future performance
+                 and involve risk and uncertainties that are difficult to predict.
+
+
+                 As a reminder, all participant lines will be in the listen-only mode, and there will be an
+                 opportunity for you to ask questions after the presentation concludes. Should you need assistance
+                 during this conference call, please signal an operator by pressing star, then zero on your
+                 touchtone phone. Please note that this conference is being recorded. I now hand the conference
+                 over to Mr. Ashish Kehair, MD and CEO. Thank you, and over to Mr. Kehair.
+
+
+Ashish Kehair:   Thank you, Nirav. Good afternoon, everyone, and thank you for joining us for Nuvama's Quarter
+                 2 and H1 FY 2027 earnings call. On behalf of all of us, I would like to wish our shareholders,
+                 clients, all the analysts, investors, everybody a very, very happy Diwali. Joining me today, as
+                 usual, Bharat, our Group CFO, and SGA, our investor relations advisors.
+
+
+                 We will quickly begin with an overview of the performance and key developments, and then we
+                 can open the floor for the questions. Just to summarize, we delivered a reasonably good quarter
+                 of strong performance. Client assets now are about INR5.5 lakh crores. Revenue was about
+                 INR937 crores. Operating PAT about INR319 crores, with a yearly growth of 26%.
+
+
+                 And ROE remains strong at about 29%. Special mention on both Wealth Management
+                 businesses now, over last three years, both these businesses have consistently compounded at
+                 more than 20% growth across all parameters. This quarter, I think the performance was not only
+                 well, but also a significant contribution came from our institutional businesses, particularly Asset
+                 Services and Capital Markets, which continue to scale well across different products and
+                 customer segments.
+
+
+                 I think our integrated approach, which we have always mentioned, spanning multiple businesses
+                 within the financial services, capital markets ecosystem across asset classes, client segments,
+                 gives us multiple growth engines and also reduces dependency on any single market product or
+                 revenue source. It basically, in a sense, makes the business more resilient to any kind of adverse
+                 impact that may happen.
+
+
+                 I think the second thing which we followed for the last couple of years that also is playing out
+                 now, in Wealth Management, we particularly said that, while many providers go and seek the
+                 equity managed assets of the clients, our view has been that asset class performances are cyclical,
+                 specifically equities.
+
+
+                 For the last two and a half years, we kept harping on the importance to the clients of allocating
+                 to other asset classes. I think that has served us extremely well, which reflects in our strong net
+                 flows, despite the markets not doing anything for almost last two years. I think the second was
+                 a recognition that technology and what generative AI can deliver can actually be path-breaking.
+
+
+
+                                          Page 2 of 18
+
+                                                          Nuvama Wealth Management Limited
+                                                                         November 09, 2026
+
+Technology, of course, we always knew, but when the layer of generative AI came on top of it,
+it basically opened up many new avenues, not only to improve client experience, but also to
+improve efficiencies within the firm. I think this is also playing out reasonably well across all
+our businesses now.
+
+
+I will move on to the business segment updates now. We start with Nuvama Wealth. Managed
+Products and Investment Solutions, which is MPIS, remains our core focus and growth engine.
+Client assets have now crossed about INR46,000 crores, and net flows were very, very strong.
+For the last six months, we have had more than INR6,000 crores, and Q2 was about INR3,300
+crores.
+
+
+Revenue for Q2 may look slightly moderated, but if you look at some seven, eight quarters,
+every quarter out of these seven, eight, the revenue growth was more than 25% Y-o-Y. This
+quarter, because last year Q2 had a very, very strong transactional income opportunity with our
+real estate fund, so that basically has had a base effect.
+
+
+Otherwise, there is no structural change either in flows or yields for this. Lending, we have now
+kept saying that, this is an avenue which we will exploit for growth, and we have demonstrated
+this now over the last 12 months. Our loan book in this business is about INR6,000 crores,
+growing about 60% year-over- year.
+
+
+You know that the composition is all liquid assets like LAS, ESOP financing, margin financing,
+or MTF, with LAS and ESOP being almost 75% of the portfolio. Yields also saw an uptick in
+this quarter with marginal improvement in NIM, because we have always maintained that a part
+of our borrowing happens through MLD, and some hedging gains and losses can lead to these
+changes in the NIM. For Q2, we were on the positive side of the same.
+
+
+On sales capacity, we have added about 90 RMs over the last one year and continue to strengthen
+the franchise with deliberate focus on senior talent. The outcomes are actually encouraging. You
+can see them in the net flows, and also you can see them in the NPS scores, which have now
+reached an all-time high of 89 for us in this business.
+
+
+Lastly, on the technology and AI front, as I said, we continue to embed this across different parts
+of the value chain. We rolled out a new AI-powered client profiling and meeting prep tool for
+RMs in this quarter. Efficiencies for this are visible, like net new money and client assets per
+RM have increased by 25-30% year-over- year. Overall margins or cost income ratios have
+improved by about 200 basis points year-over- year.
+
+
+Now I move to Nuvama Private, and starting with our strategic focus there, the ARR assets. The
+ARR assets have now crossed about INR60,000-INR62,000 crores. Again, very strong
+momentum in net new money in Q2. We saw about INR5,000 crores getting added. Q1 was a
+bit moderated because we saw one outflow in advisory asset which was low yielding.
+
+
+If I take Q1 plus Q2 put together, we are about 11% to 12% of the opening balance, and our
+guidance has always been that we will be between 22% to 25%, which I think we are on track.
+ARR now contributes about 64% of the revenue. On our initiatives to improve this even further,
+we spoke about Pinnacle as one of our UHNI offering, which brings together multiple things.
+
+                         Page 3 of 18
+
+                                                          Nuvama Wealth Management Limited
+                                                                         November 09, 2026
+
+It basically brings advisory portfolio construction, governance support, curated opportunities,
+reporting in one single framework, and it is meant for our top clients. It basically improves the
+engagement with the client significantly, which automatically leads to an increase in wallet
+share. I think we are seeing an impact of this now happening. We may, over the next two to three
+quarters, start reporting to you specific impact.
+
+
+Moving on to lending. Here also, we had said that we will leverage the lending book to improve
+revenues, productivity, and yield. Here, the book has grown by about 50% on an H1 basis, and
+NII also has grown by about 50% on an H1 basis.
+
+
+Yields remain stable. I think there is still a lot of idle space available here to improve our lending
+book. On capacity here, we have added about 14 RMs to 15 RMs over the last one year, or
+almost 10% of our base, and we will continue to remain deliberate and measured in how we add
+RMs in the current environment.
+
+
+One thing we wanted to point out, like we started reporting our ARR net flows from beyond Tier
+1. Now about 40% of that is coming from beyond tier 1, which is not a reflection that whether
+we are really present there physically, but it is a reflection of how we are leveraging our
+distribution to access even places where we are not present.
+
+
+Here on the AI front, we have added a liquidity events module which basically tracks all the
+IPOs and exits where promoters get money, and the whole end-to-end chain of tracking,
+allocation to RMs, and trying to convert is now moved on a digital platform, which gives us a
+far better cockpit view of the whole value chain as it progresses.
+
+
+Here also, I see the impact on the productivity improvement in terms of ARR assets and ARR
+revenues per RM have almost grown by about 15% to 20% year-over- year, and margins have
+improved by about 70 basis points across the board. On transaction banking income, you will
+have some questions as to why there is a dip over last quarter of Q2 FY 2026.
+
+
+Again, as I said in Wealth, there is a large co-invest transaction which we essentially did with
+our commercial real estate fund, and that revenue had a high base effect. Otherwise, INR80
+crores to INR90 crores per quarter looks like a regular run rate because about 60% to 70% of
+this income is anyways recurring or reoccurring, keeps happening again and again every month,
+which is a combination of equity brokerage and fixed income. Only 20% to 30% is episodic.
+
+
+We will see in both businesses' improvements in our transactional income, or maybe even ARR
+as we launch our private credit and start building on it, our private credit fund, and as we launch
+our second commercial real estate fund, because they will throw up co-invest and syndication
+opportunities. I think this is a good segue to move into Asset Management.
+
+
+Asset Management, starting with commercial real estate first, our previous fund is now about
+50-55% committed. Another two to three months, 70% we will reach. So it is time to now launch
+the second fund, which is going to get launched anytime soon, in maybe another two weeks or
+so. The target is to raise about INR5,000 crores there.
+
+
+
+
+                         Page 4 of 18
+
+                                                        Nuvama Wealth Management Limited
+                                                                       November 09, 2026
+
+Private credit, the full team is intact, now in place, and we will launch a private credit fund also
+in the next maybe 25 days to 30 days. This is the first fund. We will see how the progress goes,
+but we will target somewhere between INR1,500 crores to INR2,000 crores or INR2,500 crores.
+Again, over the next maybe 8-10 months, we will want to raise that money.
+
+
+Private equity, we have been focused on returning the money on our previous funds, and as they
+reach closure, we are contemplating launch of a new fund and a new strategy with a new name
+sometime next year. Maybe in Q3 or Q4, we will give you further update around this.
+
+
+On public market, we are still on the transition phase, where we continue to lose money on our
+AIFs because now SIFs have become far more tax-efficient. Our SIF approval has come, and
+that launch is also expected in the next 25 days to 30 days. I think lot of action in Asset
+Management in the next 30 days to 40 days with large part of our product rollout bunching up
+together, and we shall see that activity playing for the next two to three quarters.
+
+
+Coming to Asset Services, exceptional growth, revenues of about 50% year-over-year. Client
+assets have now crossed INR1.6 lakh crores. Retention for H1 remain healthy at 2.7%. We
+mentioned in the last quarter that there were some new clients which had very high cash
+collateral composition, and that have now normalized.
+
+
+So Q2, you will see yields are moderated to about 2.5%. But I think if I take a full year
+perspective, we will be anywhere between 2.6% to 2.7%-2.8% range, because Q3, Q4, again,
+new client addition is going to happen, and we have visibility of about INR2,000 crores of cash
+assets coming in. I think that will again give a bump up in yield, but it will remain in this zone.
+There is no structural change in anything.
+
+
+Domestic business again continues to benefit with a large number of people setting up, either
+PMSs or AIFs, and that trend is just increasing, and we continue to gain a lot of market share
+there. I think 20% growth is what we expect from this business. I do not see right now any
+structural changes to that aspiration.
+
+
+Capital Markets, I think last quarter was slightly, I mean, dichotomous in terms of secondary
+and primary markets behaved very differently. In secondary market, there was impact of
+introduction of CAS, which had impacted derivative volumes and incomes related to derivative
+volume. Even the cash volume was down by about 12% Q-o-Q. But primary market picked up.
+
+
+We track IPOs above INR400 crores, from 4 IPOs to 38 IPOs. Q1 had about 4 IPOs, and Q2 had
+about 38 IPOs. So there is a massive jump. We were also able to participate effectively. Fixed
+income, we mentioned in Q1 that we had an extremely good quarter because of multiple things
+that had happened in Q1, where FPIs first went out, then they came in and we were able to
+leverage both the sides. And we said that, there was about INR20 crores to INR25 crores of extra
+income which we delivered in Q1, which may not get replicated. So FIM therefore saw a minor
+dip in that sense and now is more normalized in terms of performance.
+
+
+Overall, diversified capital markets remain strong because we have a foot in each of the pieces
+and even from a pipeline perspective on investment banking, we have right now about 40
+
+
+
+                         Page 5 of 18
+
+                                                                         Nuvama Wealth Management Limited
+                                                                                        November 09, 2026
+
+                transactions in the pipeline, about 13 in ECM, and about 10 in advisory, with a reasonably high
+                two-digit or early three-digit revenue target on that.
+
+
+                Overall, looks reasonably robust for the remaining part of the year. I think with this, I come to
+                the end of the overview. I will hand over to Bharat, who can take you through the specific
+                numbers and then we can open the floor for questions. Over to you, Bharat.
+
+
+Bharat Kalsi:   Yes. Thank you, Ashish, and good afternoon, everyone, and warm welcome to all the
+                participants on the call. Before I start on the numbers, a very happy Diwali to everybody. Ashish
+                has already covered the headline numbers, so this quarter has been a very good and steady
+                quarter for us.
+
+
+                Our revenue for the quarter was around INR937 crores, which is a 21% Y-o-Y growth, and our
+                H1 revenue has also grown around 20% to INR1,850 crores or so. The quarter two profit also
+                was exceptional, very decent growth of 26% on the operating side with INR319 crores of PAT.
+                This was coming from all the businesses, so it was not very concentrated. Obviously, asset
+                services at times gives you higher profits, but it is from wealth and private as well.
+
+
+                If you look at the presentation, you would have noticed that there is a one-time exceptional
+                charge of around INR16 crores. I want to call it out upfront. This is a one-time charge wherein
+                we pre-closed our venture debt fund, which we launched sometime in FY23. This fund was with
+                a seven-year tenure, the underlying strategy for the fund was to deploy in combination of debt
+                as well as equity warrants.
+
+
+                As you know that over the last few years, the growth stage companies has got a lot of multiple
+                ways to have a fundraise which is non-dilutive in terms of equities, like a private credit. So the
+                underlying strategy of the fund is actually not generating the expected return as we thought, and
+                mainly because of the equity warrants. Market is not up to the mark as we thought initially.
+
+
+                So what we have decided is that we will pre-close this fund, and we will start returning the
+                money to the investors. That will lead to a one-time charge post-tax of around INR16 crores,
+                and this will also lead to an accelerated amortization on the called-in capital, which is in the
+                NAML business. So that will be another INR9 crores-INR10 crores, but that will come over the
+                next 12 months or so.
+
+
+                So there is a one-time charge of around INR16 crores post-tax. On an overall basis because of
+                this. Having said that, otherwise, if you look at our overall client asset, that has grown to INR5.5
+                lakh crores, which is a 25% growth and within the wealth management, our assets are now at
+                INR3.7 lakh crores and as Ashish has also alluded to the fact that MPIS and ARR asset is
+                growing much faster than what is our overall growth. It has grown to INR1.1 lakh crores at a
+                27% growth.
+
+
+                Net new money, the numbers what we discussed is that on the Nuvama Wealth, it is INR3,300
+                crores, and on the private side, it is INR5,000 crores for Q2, but this is the highest ever also for
+                both the businesses, and we are on full track for in terms of the guidance which we gave that we
+                should be growing anything around 20%-25% on our focus assets.
+
+
+
+                                         Page 6 of 18
+
+                                                        Nuvama Wealth Management Limited
+                                                                       November 09, 2026
+
+Asset management, we again deliberated. Ashish covered a lot of things in terms of various
+strategies which we are launching. Currently, the assets under management is around INR12,000
+crores. Asset services at INR1.63 lakh crores with a very strong growth if you compare it with
+Q2 of FY26.
+
+
+Coming back to the revenues, happy to share that wealth business, when I say wealth business,
+wealth plus private business has crossed the INR500 crores quarterly revenue mark. This is a
+growth of around 14%. Ashish also mentioned about the transaction revenue which was there in
+Q2 FY26, but otherwise crossing a INR500 crores mark is a good achievement.
+
+
+On the asset services side, the growth is around 53% Y-o-Y and at INR245 crores. It is mainly
+because of the lower base in quarter two FY26. Capital market also grew by 9% to INR175
+crores, wherein the institutional equities grew both Y-o-Y as well as on a quarter-over-quarter
+basis. This is despite the fact that we had CAS effect in the months of August and September,
+which is expected to be over, it is kind of now over, but despite that, the quarter has grown.
+
+
+Investment banking, ECM was low in quarter one, which has picked up in quarter two because
+of primary market activity. Our fixed income continues to strongly grow quarter-over-quarter as
+well as on a year-over-year basis.
+
+
+Coming to the cost point, our cost for the quarter was around INR507 crores, which is a growth
+of 16%. Within that, if you look at that, our employee cost has grown by 19% to INR382 crores.
+If you look over the last 12 months, we have almost added 7% capacity give and take 250 odd
+employees in the company, of which 85%-90% of the people will be in the business facing units,
+whether it is RMs or the investment people and all.
+
+
+So that is reason where the cost has gone up to 19%, and obviously there is an annual increment
+which has happened, and variable cost which is linked to the business performance, that is
+leading to a 19% growth on the employee cost. Our employee cost for quarter two also includes
+our new ESAR scheme, which we have granted sometime in the first week of September.
+
+
+The cost of that ESAR charge is around INR6 crores. I am talking all numbers as pre-tax, so
+INR6 crores is the opex charge because of that employee cost. That for the full year of FY27
+will come to around INR45 crores or a INR20 crores a quarter charge. This INR20 crores of a
+quarter charge will be there for next four quarters, and from there onwards, it will start tapering
+down, and this is as per the accounting standard. This is how this has to be accounted for. That
+is a INR20 crores charge for next four quarters. After that, it will drop.
+
+
+Similarly, if you look at our operating expenses, there is hardly any increase. It is 9% on a Y-o-
+Y basis. Typically, this much expense will always increase. Two-third of will be on account of
+our inflation link charges, and one-third will be towards the new investments wherever we want
+to focus on our business. That is where the opex has grown by 9%. Our full year BAU opex
+should be around, give and take, INR520 crores and INR530 crores against our last year number
+of INR464 crores.
+
+
+As we mentioned in the last call also, we have finalized our new HO in BKC. Our rent-free
+period will start from November. That typically, again, as per the accounting standard, you will
+
+                         Page 7 of 18
+
+                                                                       Nuvama Wealth Management Limited
+                                                                                      November 09, 2026
+
+                have to do a ROU, right of use accounting for that, and that will lead to around INR25 crores of
+                charge for this year, FY27.
+
+
+                So if I add our BAU expense as well as the new HO expense, we may close the year at anything
+                around INR550 crores of an opex for the year. This is where the opex growth is expected to be
+                on full year basis. Profit we discussed, which is at INR319 crores operating profit, a strong 26%
+                growth. Wealth Management also grew 22% to INR184 crores.
+
+
+                Again, a number to look at is that our Nuvama Wealth, which is our HNI segment, has crossed
+                the PBT mark of INR100 crores in quarter two. This is the first time they have crossed the
+                INR100 crores mark. Otherwise, our asset services and capital market has shown a growth of
+                around 34% year-over-year basis.
+
+
+                One other thing which we would like to update to the investors and the community is that the
+                board has decided not to declare any H1 FY27 dividend. There are few reasons. Our loan book,
+                as Ashish was also mentioning, that it has gone up by INR2,000 crores in the first six months of
+                this year. We are already at a debt-to-equity gearing of around 2.9x.
+
+
+                So basically the idea is that we will be more comfortable if our debt-to-equity is around 2.5x
+                plus minus few basis point here and there, but 2.5x is where ideally we want to be. Plus the way
+                we are looking opportunities both in the lending side as well as on the syndication opportunities
+                or asset management where we have to actually make investments, we deliberated internally and
+                decided not to declare dividend for H1.
+
+
+                However, we will continue to look at this dividend policy as part of our annual results, which
+                will happen obviously sometime in April '27. With that, and one more thing within the dividend
+                is that, our ROE is also at around 29%. We can actually look back as to how we utilize our
+                capital, how much we retain, how much we actually declare, and how much we put it back to
+                the business.
+
+
+                I think all detailed deliberation will also happen in the yearly results, and that's where when we
+                decide on the final dividend declaration. That's where we are. Nothing else from my side. Now
+                I request the moderator to take over and initiate the Q&A session.
+
+
+Moderator:      Thank you very much. We'll now begin the question-and-answer session. First question is from
+                the line of Prayesh Jain from Motilal Oswal. Please go ahead.
+
+
+Prayesh Jain:   Yes. Hi. Good afternoon, everyone. Firstly, a very happy Diwali to all the team, and congrats on
+                a good set of numbers. There is time for the explanation on the cost and the overall front, but if
+                you look at the cost to incomes on the wealth management side, we have seen quite a bit of
+                improvement. Rather than talking about the cost to income, the absolute cost run rate in both
+                private and wealth, is this, have we reached a sustainable rate in terms of RM additions and
+                everything?
+
+
+                Similarly, if I even talk about the asset management, where we are building teams on SIF and
+                everything, there too the absolute cost has come down from Q1 to Q2. So, how do you think
+
+
+
+                                        Page 8 of 18
+
+                                                                        Nuvama Wealth Management Limited
+                                                                                       November 09, 2026
+
+                 about the cost on each of these segments and cost to income, the way we think about these three
+                 segments?
+
+
+Ashish Kehair:   Wealth and private, Prayesh, in terms of, I think, we've reached a steady state, like you said,
+                 where we know that we are going to hire a certain set of people, and obviously there'll be some
+                 attrition. But on a net-net basis, like we keep saying that we want to improve by 100 basis points.
+                 So, I think in both the businesses this year over last year, we would see an improvement
+                 anywhere between 100 basis points - 200 basis points, and that journey should continue for the
+                 next couple of years at least.
+
+
+                 Asset management is a different story altogether, because one of the segments, which is our
+                 public markets, actually was on a path of profitability and had started making money. But with
+                 this change of regulation which brought in SIF, it became a bit of a detour, where we have to
+                 bring SIF, we have to see where the flows will go and to get an SIF, you have to build a MF,
+                 which requires a separate infrastructure, pretty much everything separate is needed.
+
+
+                 So, that additional layer of cost came in. But we had no choice because we had INR5,000 crores
+                 of assets there, which was earning revenues for both wealth management and asset management.
+                 So, we did that, and therefore you see an elevation of cost happening there. And secondly, we
+                 built the whole private credit team where revenues have not started coming in.
+
+
+                 I think in asset management, the real cost income reflection may start appearing after 12- 15
+                 months from now when these expenses which we have incurred are actually put to use and
+                 money comes in and we start earning on them. Right now, I think it is too premature to talk
+                 about that. But yes, of course, after Q4, when the fundraising each of these is happening, and as
+                 and when that goes up, you will see gradually the cost income will start improving.
+
+
+Moderator:       Prayesh, do you have any follow-up question?
+
+
+Prayesh Jain:    Yes. So, in the asset management, you mentioned about private credit fund launch. Which
+                 category this will be performing credit, special situations, IG credit? What kind of fund that we
+                 are launching here?
+
+
+Ashish Kehair:   Between performing and special situations, so not IG, and not full special situation, which is
+                 20% plus. This will be like 15% to 18%, 15% to 17%, that range.
+
+
+Prayesh Jain:    Got that. And last question on the clearing custody business. What's the mix between the foreign
+                 money and domestic in terms of assets or revenues, whichever way you can split it for us?
+
+
+Ashish Kehair:   Broadly, it ranges. In some quarters, it will be 25:75. In some quarters, it will be 20:80. But the
+                 range is, I mean, if you take on a full year basis, it's normally between 25% domestic and 75%
+                 FPI.
+
+
+Prayesh Jain:    Got that. Thank you and all the best. Thanks.
+
+
+Moderator:       Thank you. Next question is from the line of Lalit Deo from Equirus Securities. Please go ahead.
+
+
+
+
+                                          Page 9 of 18
+
+                                                                          Nuvama Wealth Management Limited
+                                                                                         November 09, 2026
+
+Lalit Deo:       Yes, hi, sir. Good afternoon, and congratulations on a good set of numbers, as well as Happy
+                 Diwali. Sir, just two questions. Firstly, on the AMC business. Just to understand the loss which
+                 we had recognized in this quarter as a one-time loss. Is it more because that we had assigned
+                 some returns to the investors, and probably because the strategy was not able to give those
+                 returns, so that is why we are incurring those losses?
+
+
+                 Or is it more of an operational losses that we have incurred in this? Secondly, on the clearing
+                 business, as you mentioned, sir, for this year, the yields are likely to be in the range of around
+                 2.6%-2.8%. How should we look at the retentions for the next couple of years?
+
+
+Ashish Kehair:   First on the Asset Management side, it's not any committed return-related loss to investors.
+                 Basically, this fund was launched in an era where AIFs could pay upfront distribution cost. That
+                 upfront distribution cost, because you're pre-winding the fund, the unamortized portion. Let's
+                 say we raised a fund of INR1,000 crores, out of which we called for only INR300 crores.
+
+
+                 That balance INR700 related distribution cost, we have to fast-forward the amort and write it
+                 off, right? That is what happened in this INR16 crores. What Bharat mentioned, that there will
+                 be accelerated amortization of remaining, which is for the INR300, over the next 12 months as
+                 we give money back from the previous deals, that INR8 crores, INR10 crores will also get
+                 amortized. It's basically unamortized distribution cost and not to do with the client returns in any
+                 manner.
+
+
+                 On clearing assets, I think, see, it's a function of two things. One, it's a function of the split
+                 between cash collateral and G-sec collateral. If the cash collateral and G-sec collateral, which
+                 right now for us hovers around 38% to 40% is cash and rest is G-sec, and if the yields on the
+                 deposits remain at the place where we are with, let's say, plus-minus 50 basis points, then your
+                 yield should be between 2.5%- 2.8%, even for the next two years.
+
+
+                 In a scenario where some FPI becomes very, very large, then these ratios of cash to G-sec
+                 collateral breaks down, because when they become very large, they want higher G-sec, lower
+                 cash. Yield will fall, but your absolute income will still grow. So, I think it is not relevant right
+                 now to focus that much, because right now, if you project an increase in collateral, which is more
+                 in line with reasonable numbers of, say, 15%, 20%, 25%, then you can assume that the yield
+                 stays here.
+
+
+                 If, let us say, the collateral doubles from here, then the yield will fall because those ratios of G-
+                 sec and cash changes. So, I think for your purpose, you can assume the yields to remain between
+                 2.5%-2.8% for next two years.
+
+
+Lalit Deo:       Sure, sir. Thank you. That is it.
+
+
+Moderator:       Thank you. Next question is from the line of Manas Agrawal from Sanford C. Bernstein. Please
+                 go ahead.
+
+
+Manas Agrawal:   Hi, thank you for the chance to ask a question. Just want to understand a couple of things. I think
+                 the Anugrah liability was settled in your favour. So, I assume there was some surplus capital in
+
+
+
+                                         Page 10 of 18
+
+                                                                         Nuvama Wealth Management Limited
+                                                                                        November 09, 2026
+
+                 the clearing entity that was being carried forward. Is that now going to be released at a
+                 subsequent date, or that gets consumed in the lending business? That is question number one.
+
+
+                 Question number two, if I just look at your asset services, assets under custody on a quarter-
+                 over-quarter basis, I see, I think, a 12% increase. Now, Q2 was the CAS quarter where we saw
+                 a lot of hesitation from writers. So, did you increase margin requirements, or this was just organic
+                 growth in assets under custody? That is question number two.
+
+
+Ashish Kehair:   Anugrah-related excess capital, Manas, was not very high because we had placed a specific bank
+                 guarantee, and bank guarantee requires only 25% cash. Let's say we had to place about INR500
+                 crores of bank guarantee, which was essentially earmarked for Anugrah with the clearing
+                 corporation that required only INR125-INR130 crores of cash.
+
+
+                 That will get used in the business, either in the clearing business for newer clients or in other
+                 businesses. It will not create a situation of excess capital in that sense, because we had not used
+                 cash in the first place. On the increase of the collateral, I think the impact of cash was actually
+                 not felt in the clearing business at all.
+
+
+                 This was largely organic because the clients changed their strategy and they did different stuff.
+                 For us, actually, we did not see any impact on any client in terms of reduction, and we did not
+                 increase the margin, of course. The margin levels were same. I think it was not led by margin
+                 increase.
+
+
+Manas Agrawal:   Understood. Thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Sanketh Godha from Avendus Spark. Please go
+                 ahead.
+
+
+Sanketh Godha:   Thank you for the opportunity. Ashish, you said that your 25% of asset clearing business largely
+                 comes from domestic guys, and you are aware about the fact that incrementally new domestic
+                 custodian licenses are given. Just wanted to understand from your perspective, how do you see
+                 risk to domestic business if eventually these guys also get foreign licenses, maybe in couple of
+                 years?
+
+
+                 Then how do you see this risk? Maybe clients will not move, but whether there will be a fair
+                 probability that your ability to demand for more cash collateral will come down, and therefore,
+                 yields in this asset clearing business potentially could be under pressure going ahead. That is my
+                 first question.
+
+
+                 My second question, just wanted to give a qualitative point, just understand from Private Wealth
+                 Management or the ultra-HNI Wealth Management business point of view, your attritions, if
+                 you can give a bit of color there. If there are any meaningful, then any immediate slowdown in
+                 flows or growth potentially can happen in near term till you manage to get new guys in.
+
+
+Ashish Kehair:   On the first one, Sanketh, actually very difficult for anybody to comment because, what value
+                 proposition will the competing players bring? Plus, most of the new license holders happen to
+
+
+
+
+                                          Page 11 of 18
+
+                                                                           Nuvama Wealth Management Limited
+                                                                                          November 09, 2026
+
+                 be strong asset managers themselves. Whether that will lead to any kind of resistance from newer
+                 guys to open, that is point number two.
+
+
+                 Point number three, I think this business never had dearth of competition. I mean, even if you
+                 look at it today, there are about 18 to 19 competitors which exist, and these are not trivial names.
+                 These are names which are formidable. These are names which are very, very strong in terms of
+                 brand, in terms of their ability to give technology, in terms of their ability to leverage their
+                 balance sheet, and provide access to capital to these entities. So, I think it is a fair field.
+
+
+                 We will have to continue to up our game if we want to maintain market share. Competition is
+                 always good because it brings improvement across the board in the product quality. We feel we
+                 are reasonably ahead in the race in terms of the value proposition we deliver, because otherwise,
+                 for us to command this kind of market share in such a hyper-competitive industry would not
+                 have been possible.
+
+
+                 But having said that, I mean, we will have to wait and watch as to what others bring to the table
+                 and how we counter that. On Private Wealth Management, attrition remains normal. There was
+                 one team movement that happened, but we were able to arrest about 75% to 80% of that. We
+                 looked at the numbers on a quarter-over-quarter basis. We will actually end up with higher
+                 number of RMs on the basis previous quarter. Not that much of a dent. We do not foresee dent
+                 in revenue flows or number of RMs.
+
+
+Sanketh Godha:   Understood. And Ashish, if you can qualitatively give our market share in asset clearing in
+                 domestic and FIIs, just to refresh or rather to tell a new number, it will be useful.
+
+
+Ashish Kehair:   See, in domestic, we basically track PMS and AIF as a segment.
+
+
+Sanketh Godha:   Yes.
+
+
+Ashish Kehair:   On a book basis, on a full book basis, on PMS, I think we are around 6% to 7%, and on AIFs,
+                 we would be order of magnitude maybe around 8% to 9% of the total book. Of the new
+                 registrations that happen every year, this is not of the AUM, this is about the new players who
+                 get added every year. We are able to capture 25% of those new additions as our clients. Now,
+                 how much each of them will grow is a function of their product, their performance, and how
+                 they deliver.
+
+
+                 But of the new inflow, we are able to capture about 25%. FPI, very difficult to give any market
+                 share because, maybe next time around we can come back with the numbers because we play in
+                 a very, very specific zone of HFTs and systematic quant funds, whereas the bulge bracket AUM
+                 sits in long only, where we are not a player.
+
+
+Sanketh Godha:   Understood. Got it. Perfect. This is very useful. Thanks.
+
+
+Moderator:       Thank you. Next question is from the line of Dipanjan Ghosh from Goldman Sachs. Please go
+                 ahead.
+
+
+
+
+                                          Page 12 of 18
+
+                                                                          Nuvama Wealth Management Limited
+                                                                                         November 09, 2026
+
+Dipanjan Ghosh:   Hi. Good morning, everyone. Few questions from my side. First, on the Wealth business,
+                  obviously flows have been very strong in Nuvama Private. Just wanted to understand how much
+                  of that will be led by monetization events, just specifically for the quarter, and how much would
+                  be organically from your existing clients kitty? That is the first question.
+
+
+                  Second, if I look at your overall yields in Nuvama Private, Ex of the loans piece, it seems that
+                  there has been some improvement. Was there any upfront AIF-related fee booking or fixed
+                  income transactions on that part? Can you give some color? And the third piece on the Wealth
+                  businesses, on both the businesses, Private plus Wealth put together, if you can quantify the
+                  insurance-led revenues for FY2026, what would be that proportion? That would be useful. These
+                  are on the wealth businesses. I have one question on the other business, which I maybe can ask
+                  later.
+
+
+Ashish Kehair:    Let's go one by one. We'll start with insurance, maybe that is easiest. In Private, insurance is
+                  zero. In Wealth, insurance would be about 12%-13% of the revenue. That was first. In Private,
+                  when we spoke about the yields, and you said there is a yield improvement, so it would be largely
+                  because the proportion of category 2 AIF may have gone higher, and that is the only thing that
+                  changes the yield apart from lending.
+
+
+                  Since you are looking at ex-lending, the fixed income part gets booked in the transactional
+                  income, so it does not sit in ARR. The third one is the monetization impact on net new money.
+                  I do not know the numbers for the quarter, but if I look at it for the last 15 months, about 35%-
+                  38% of our net new money came from monetization clients. Balance 60% would be from non-
+                  monetization, which could be a mix of existing and new clients, both.
+
+
+Dipanjan Ghosh:   Got it, Ashish. Maybe just one small question on your overall Capital Markets business, and
+                  especially more towards the ECM part. You gave some color in your commentary, but any
+                  quantification of on a, let us say, steady state run rate, in terms of new mandates or new deals,
+                  what is your hit rate amongst the broader industry from a revenue perspective, and how has that
+                  been tracking, let us say, for the past few quarters or years?
+
+
+Ashish Kehair:    I think, frankly, on the ECM side, there is a scope for us to improve. In terms of the total number
+                  of transactions, we would range between 15%-18% participation share. So, let's say out of every
+                  100, we would be there in 18- 20 mandates. We are not so strong in blocks, and maybe slightly
+                  better in QIPs and even better in IPOs.
+
+
+                  So that would be the range, and we are right now actively working on improving our market
+                  share on blocks. So that will be an upside which we'll see. In terms of the pipeline on which we
+                  are sitting right now, as I said, we have about 30 mandates on ECM side and about nine on
+                  advisory, which can total on a probability adjusted revenue of between INR85 crores-INR90
+                  crores.
+
+
+Dipanjan Ghosh:   Got it. On the Asset Servicing business, I think in your presentation I read somewhere that you
+                  intend to offer more services in the ecosystem.
+
+
+
+
+                                          Page 13 of 18
+
+                                                                         Nuvama Wealth Management Limited
+                                                                                        November 09, 2026
+
+Ashish Kehair:    Yes, Trustee and RTA for AIFs and PMSs. Trustee services, both should go live. At least RTA
+                  will go live with minimum value proposition by end of November or December, and full-blown
+                  by March. Trustee also between Q3 and Q4 will go live.
+
+
+Dipanjan Ghosh:   Got it. Thank you, Ashish and the team, and all the best.
+
+
+Moderator:        Next question is from the line of Sanidhya from Unicorn Assets. Please go ahead.
+
+
+Sanidhya:         Hi, team. Good afternoon. Festive greetings to all of you. My question is on the Asset Services
+                  and the Capital Markets. If you see quarter-over-quarter, we see marginally flat to lower
+                  revenues on both the streams. If you could highlight the impact of CAS versus the normal
+                  organic growth that we were seeing in the client additions, also on the fixed income products
+                  and others, that would be helpful.
+
+
+Ashish Kehair:    Yes, so Capital Markets, if you see, there were three vectors which were playing. In Q1, we had
+                  an exceptional quarter in the fixed income side, and we had said that there is about INR20 crores-
+                  INR25 crores of extra revenue in our assessment as compared to BAU run rate, and that has
+                  played out.
+
+
+                  Fixed Income between the two quarters fell by that much, and now we are at a steady state basis.
+                  ECM was opposite. ECM Q1 was fully dry. There were only four IPOs in our target market
+                  segment across the market, and that increased to 40 IPOs, or 38 to be precise. And there we were
+                  able to capture a large number of deals.
+
+
+                  Obviously, revenues of some of those deals will come in Q3 also, so not everything could have
+                  been monetized, but there was more than 2.5x-2.6x jump between quarter one and quarter two
+                  on ECM. Institutional Equity, on the other hand, again divergent. We saw deal-related revenues
+                  going up because of the ECM share, but CAS had an impact of at least INR2 crores-INR3 crores
+                  per month, which I think from December, after the old model comes in, it will get reversed. So,
+                  I think these three vectors basically led to that combined number which you are seeing.
+
+
+Sanidhya:         CAS impact would be largely on the Asset Services part, right?
+
+
+Ashish Kehair:    No, CAS impact was only on Institutional Equities, broking income. Asset Services was no
+                  impact at all.
+
+
+Sanidhya:         Okay. Are we seeing that quarter-over-quarter Asset Services revenue is growing because of the
+                  newer client additions and the overall pie growing?
+
+
+Ashish Kehair:    Yes. Q1, we had mentioned that there were some new client additions where the collateral had
+                  just come in and the proportion of cash was higher, and that will get normalized by Q2. That
+                  normalization happened in Q2. Although the assets have still gone up, but because of the
+                  normalization, that revenue came down.
+
+
+Sanidhya:         Yes. Now we are seeing the activity in the options market is also back to normal, and on the
+                  BSE and NSE is also catching up. Should we expect that largely from here on, it should be
+                  normal growth, 4%-5%, whatever is the normal base?
+
+
+                                          Page 14 of 18
+
+                                                                          Nuvama Wealth Management Limited
+                                                                                         November 09, 2026
+
+Ashish Kehair:   Yes, I think that should be appropriate.
+
+
+Sanidhya:        Okay. On the other part, the Private, anything to read other than the few quarterly differences in
+                 the composition? This quarter ARR is higher than transactional. It says the transactional was
+                 low, so therefore ARR looks higher, like 50% should be normal?
+
+
+Ashish Kehair:   Yes, I am thinking it should be the normal. Between 60%- 65%, it will keep ranging.
+
+
+Sanidhya:        Okay. And lastly, on the custody business, we have 49% JV. We saw quite a decline in the
+                 revenues and profits both. Could you highlight that?
+
+
+Ashish Kehair:   That is a very small profit entity, and much of the revenue actually comes through referral into
+                 the clearing entity itself. It may have been related to some costs that would have been incurred
+                 in that. The overall quantum of profit there, which sits there, is actually minimal.
+
+
+Sanidhya:        Do you plan to merge it or acquire the 51%?
+
+
+Ashish Kehair:   Yes, we will. As the new license regime is now changing, we will also proceed to do that. But
+                 we have to first go to our Board, and then our counterparty has to go to their Board. All those
+                 procedures, we are talking to the regulators, but eventually, yes, it will happen.
+
+
+Sanidhya:        Okay. I was just elaborating this a bit. How do we see the opportunity overall in the custody
+                 business? Even now, the newer players are also joining, so I guess Motilal also got a new license
+                 in this regard.
+
+
+Ashish Kehair:   I think over the next two years, you will see more number of licenses coming in. Mostly all
+                 financial services firms will apply and get if SEBI is liberal in giving the licenses. But I think
+                 there are actually, the number of licenses which are existing even today are reasonably high. The
+                 environment will become a bit more competitive. I think the value proposition of every player
+                 will have to improve to maintain market share and to keep growing the market share. But market
+                 is also expanding substantially.
+
+
+Sanidhya:        Yes.
+
+
+Ashish Kehair:   I think over the last 10 years, if you see, the market has expanded multi-fold, whereas the service
+                 providers have not expanded. I think it is now time for a bit of correction on that front. But we
+                 are fairly confident that we will want to keep improving our product proposition and maintain
+                 our lead.
+
+
+Sanidhya:        I think the acquisition part would more likely drive the urge for us to even improve on what we
+                 are offering and rather gain some than lose some, right?
+
+
+Ashish Kehair:   Not necessarily, because that doesn't drive. The revenue capture largely happens in clearing,
+                 whereas the service is the custody service, where I think we are top-notch. I don't think that
+                 acquisition will lead to any change in our outlook or value proposition. It's just a legal adjustment
+                 of the entities. That's it.
+
+
+
+
+                                           Page 15 of 18
+
+                                                                          Nuvama Wealth Management Limited
+                                                                                         November 09, 2026
+
+Sanidhya:        Okay. Is there any impact we see on clearing revenues if there is some loss in the custody part,
+                 given the competitive environment?
+
+
+Ashish Kehair:   No.
+
+
+Sanidhya:        No, right?
+
+
+Ashish Kehair:   No. Right now, the licenses do not cover the FPI business, is what we understand, and it will
+                 take at least two, three years more. We will see how the business evolves over the two, three
+                 years, because we are also making changes and doing addition in terms of our product, which
+                 will have more client segments to reach. So, I think that is also happening right now.
+
+
+Sanidhya:        And under which business segment do we declare the custody income? It is separate, right?
+
+
+Ashish Kehair:   Yes. Asset Services is where it comes, and then custody is a profit pickup, which comes because
+                 it is 49% only, so we do not consolidate line by line.
+
+
+Sanidhya:        Thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Shrenik Mehta from IndoAlps Wealth. Please go
+                 ahead. Shrenik, may I request you to unmute your line and proceed with your question, please?
+                 Shrenik, can you hear us? Due to no response, we move on to the next participant. Next follow-
+                 up question is from the line of Manas Agrawal from Sanford C. Bernstein. Please go ahead.
+
+
+Manas Agrawal:   Hi. A follow-up question. I think a couple of last con calls you mentioned that you are trying to
+                 get your Asset Services clients also engaged in the commodities market. Wanted to get a sense
+                 of what the feedback has been from clients over there and how activity levels are ramping up.
+
+
+Ashish Kehair:   They are starting out, but overall assessment of the opportunity, what we see right now is like
+                 7%-8% of the size of the opportunity in equity derivatives. People are keen. Out of our client
+                 set, I think four or five have started, and some are ramping up the margins also. Maybe it will
+                 take another two, three quarters to see the steady state levels.
+
+
+Manas Agrawal:   Understood. Thank you.
+
+
+Moderator:       Thank you. Next follow-up question is from the line of Prayesh Jain from Motilal Oswal. Please
+                 go ahead. Prayesh, may I request you to unmute your line and proceed with your question,
+                 please?
+
+
+Prayesh Jain:    Yes, sorry. It's just a follow-up question. On commodities, what you were mentioning right now,
+                 what's the kind of factors that are restricting them to go for it all out? Does a co-location is a
+                 requirement for them? What is the kind of hindrance that you are getting feedback from them?
+
+
+Ashish Kehair:   I think it's just prioritization and where they want to focus first and sequencing. I don't think it's
+                 a restriction on the side of the infrastructure provided by the Exchanges or India right now. That's
+                 what my sense is. Maybe I'll have a detailed understanding in the next quarterly call update
+                 further.
+
+
+
+                                          Page 16 of 18
+
+                                                                            Nuvama Wealth Management Limited
+                                                                                           November 09, 2026
+
+                 But I don't think it's right now, because whatever discussions we've had, we've not heard the
+                 team saying that, "If this happened, it can become faster." It's just sequencing and the time it
+                 takes. Because the teams are separate, they have to get those teams organized. They have to take
+                 a call whether they want to set up a research team in India or not. Then the infrastructure, then
+                 the algo, then the testing of the algo. So, it's a full battery. It's not just buying and selling a single
+                 trade.
+
+
+Prayesh Jain:    All right. Got that. The other question was, if you look at your balance sheet now, you were
+                 mentioning about the debt-to-equity 2.9x, want to be comfortable at 2.5x. Would this restrict
+                 your possibility to grow the business on the lending side in any way?
+
+
+                 How do you think about the balance sheet? Just stopping dividends for a half a year wouldn't
+                 play a meaningful role in strengthening it. How do you think about the balance sheet from here
+                 now?
+
+
+Ashish Kehair:   We will have to look at the dividends and maybe see whether we overall continue with that 40%-
+                 60% payout, because that can now become detrimental for shareholders. When we started, or
+                 when we went into that dividend of 40%-60%, we felt that it is better to give the money back
+                 than to keep with us.
+
+
+                 But with ROEs now ranging at 29%, we are getting opportunities to deploy. One way is to
+                 continue to give dividend and raise capital from the market, which personally we feel is not the
+                 correct way, because people end up paying taxes on dividend, and then you are going and
+                 diluting further by raising a QIP or doing stuff like that.
+
+
+                 Maybe a saner approach is if you are having a more productive use of capital inside, you reduce
+                 the dividend to certain level, keep a minimal dividend, and then improve your debt-equity and
+                 also continue to deliver growth. I think that is a debate we are having with our Board right now.
+
+
+Prayesh Jain:    But Ashish, does it restrict you to grow the lending book in any form?
+
+
+Ashish Kehair:   It will, no. See, we are not a corporate or a big bank-owned NBFC. Our peers, let's say both
+                 Motilal and 360 ONE, would be at a debt-to-equity of 1.5x. Our rating and 360 ONE rating are
+                 at the same level. Motilal is one notch above. If we continue to increase the DE, it puts rating
+                 also under watch.
+
+
+                 It pulls up the covenants of banks also who have given lending. It pulls up the covenants of
+                 NCDs also. For an NBFC of our type, generally we have seen rating agencies, banks, everybody
+                 is comfortable if you are below 3x, and they are very, very comfortable if you are around 2.5x.
+                 If you are actually coming back to 2.5x, and then if you are able to generate a profit of, say,
+                 INR1,200 crores-INR1,300 crores a year, if you give out dividend of even, say, INR200 crores,
+                 and these are all hypothetical numbers, please, because nothing has been discussed at the Board.
+
+
+                 On INR1,000 crores with 2.5x, you can add another maybe INR3,000 crores. So, INR4,000
+                 crores of expansion is available to you for the book, which on a book of, let's say, six thousand
+                 plus three thousand, nine thousand, or six thousand plus four thousand, 10 thousand right now,
+
+
+
+                                           Page 17 of 18
+
+                                                                        Nuvama Wealth Management Limited
+                                                                                       November 09, 2026
+
+                 you still can grow by 40%. I think right now it seems like the internal accruals are enough to
+                 fund the future expansion, and we may not need to access the capital markets.
+
+
+Prayesh Jain:    Got that. Last question, anything on PAG stake sale? We keep hearing news in the markets with
+                 respect to various things. Anything that you can highlight on this call?
+
+
+Ashish Kehair:   Nothing as of now. I mean, that process is being done by the shareholders. As I said, if anything
+                 meaningful happens which requires us to disclose, we will immediately disclose.
+
+
+Prayesh Jain:    Got that. Thank you.
+
+
+Moderator:       Thank you very much. As there are no further questions, I will now hand the conference over to
+                 the management for closing comments.
+
+
+Ashish Kehair:   Thank you, Nirav. I want to thank all the participants for taking time out on this extended
+                 weekend. It is the Diwali weekend, and would like to apologize for inconveniencing them. But
+                 thank you for being here. Would look forward to meeting everybody in the next quarter. Wish
+                 you a very happy Diwali once again.
+
+
+Moderator:       Thank you so much.
+
+
+Bharat Kalsi     Thank you.
+
+
+Moderator:       Thank you. On behalf of Nuvama Wealth Management Limited, that concludes this conference.
+                 Thank you all for joining us, and you may now disconnect your lines.
+
+
+
+
+                                         Page 18 of 18
+

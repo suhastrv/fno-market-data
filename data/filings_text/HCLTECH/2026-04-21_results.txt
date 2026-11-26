@@ -1,0 +1,1897 @@
+                                                                                                               April 21, 2026
+
+The General Manager                                                      The Manager
+BSE Limited                                                              National Stock Exchange of India Limited
+Corporate Relationship Department                                        Listing Department
+Phiroze Jeejeebhoy Towers                                                Exchange Plaza
+Dalal Street                                                             5th Floor, Plot No. C-1, Block-G
+Mumbai- 400 001                                                          Bandra-Kurla Complex, Bandra(E)
+                                                                         Mumbai-400 051
+
+BSE Scrip Code: 532281                                                   NSE Scrip Code: HCLTECH
+
+Sub.: Audited Financial Results for the quarter and year ended March 31, 2026
+
+ Dear Sir/Madam,
+
+   1.    The Board of Directors has today approved the Audited (Consolidated & Standalone) Financial
+         results of the Company for the quarter and year ended March 31, 2026. The Financial Results under
+         Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+         along with a declaration for unmodified opinion on the audit reports as prescribed under these
+         regulations are enclosed at Annexure- A.
+
+   2.    The Statutory Auditor’s reports on the aforesaid Consolidated & Standalone Financial results of the
+         Company are enclosed at Annexure- B.
+
+
+   3.    The Board of Directors has declared an Interim Dividend of Rs. 24/- per equity share of Rs. 2/- each
+         of the Company for the Financial Year 2026-27.
+
+
+         The Record date for the payment of the aforesaid interim dividend shall be April 25, 2026, and the
+         payment date of the said interim dividend shall be May 5, 2026.
+
+   The Board Meeting commenced at 10:00 AM (IST) on April 20, 2026 and was adjourned at 07:45 PM (IST).
+   The adjourned meeting was reconvened on April 21, 2026 at 01:30 PM (IST) and concluded at 05:00 PM
+   (IST). The aforesaid financial results and interim dividend were considered and approved by the Board of
+   Directors on April 21, 2026.
+
+  Thanking you,
+  For HCL Technologies Limited
+ MANISH        Digitally signed by MANISH
+               ANAND
+
+ ANAND         Date: 2026.04.21 17:56:12
+               +05'30'
+
+  Manish Anand
+  Company Secretary
+
+  Encl.: a/a
+
+
+
+
+HCL Technologies Ltd.
+Technology Hub, Special Economic Zone               Corporate Identity Number: L74140DL1991PLC046369
+Plot No. 3A, Sector 126, NOIDA– 201304, UP, India   Registered Office:
+t: +91 120 4306000                                  806 Siddharth, 96, Nehru Place, New Delhi -110019, India
+
+                                                                HCL TECHNOLOGIES LIMITED
+                                                  Corporate Identity Number: L74140DL1991PLC046369
+                                           Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                            Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                   Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Consolidated Statement of Financial Results of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                                    (t in crores)
+                                                                                                                 Three months ended                         Year ended
+                                                                                                          31March   31December     31March             31March     31March
+                                               Particulars                                                  2026        2025         2025                2026        2025
+                                                                                                          (Audited}       !Unaudited}     (Audited}    (Audited}      (Audited}
+  I     Revenue
+        Revenue from operations                                                                               33,981            33,872       30,246      130,144         117,055
+        Other income                                                                                             322               385          449        1,530           2,485
+        Total income                                                                                          34,303            34,257       30,695      131,674         119,540
+  II    Expenses
+        Purchase of stock-in-trade                                                                               719               841          514        2,715           1,976
+        Otanges in inventories of stock-in-trade                                                                 (10)              (69)         (25)        (106)             52
+        Employee benefits expense                                                                             19,377            18,867       17,246       74,143          66,755
+        Outsourcing costs                                                                                      5,034             4,775        3,999       18,422          15,162
+        Finance costs                                                                                            240              205           156          869             644
+        Depreciation and amortization expense                                                                  1,092             1,127        1,040        4,355           4,084
+        Other expenses                                                                                         2,149             2,046        2,030        8,218           7,606
+        Total expenses                                                                                        28,601            27,792       24,%0       108,616          %,279
+ III    Profit before exceptional item and tax                                                                 5,702             6,465        5,735       23,D58          23,261
+
+ IV     Exceptional Item
+        One time impact of New labour Codes (refer note 3)                                                            -           956             -          956               -
+
+  V     Profit before tax                                                                                      5,702             5,509        5,735       22,102          23?1.1
+
+ VI     Tax expense
+        Current tax                                                                                            1,059             1,376        1,489        5,105           5,161
+        Deferred tax charge (credit)                                                                             153                51          (63          345             701
+        Total tax expense (refer note 3)                                                                       1,212             1,427        1,426        5,450           5,862
+ VII    Profit for the period/ year (refer note 5)                                                             4,490             4,082        4,309       16,652          17,399
+ VIII   Other comprehensive income (loss)
+ (A)    (i) Items that will not be reclassified to statement of profit and loss                                 (571)               44           54         (559)             (1)
+        (ii) Income tax relating to items that will not be reclassified to statement of profit and loss          147               (11)         (16)         148              20
+ (B)    (i) Items that will be reclassified to statement of profit and loss                                    1,103              578           594        3,633             681
+        (ii) Income tax relating to items that will be reclassified to statement of profit and loss              237               23           (40)         487               5
+        Total other comprehensive income (loss), net of tax                                                      916               634          592        3,709             705
+ IX     Total comnrehensive income for the period/ vear                                                        5,406             4,716        4,901       20,361          18,104
+        Profit (loss) for the period/ year attributable to
+        Owners of the Company                                                                                  4,488             4,076        4,307       16,642          17,390
+        Non-<:ontrolling interest                                                                                  2                 6            2           10               9
+                                                                                                               4,490             4,082        4,309       16,652          17,399
+        Other comprehensive income (loss) for the period/ year attributable to
+        Owners of the Company                                                                                   914               634           591        3,705             704
+        Non-<:ontrolling interest                                                                                 2                  -            1            4               1
+                                                                                                                916               634           592        3,709             705
+        Total comprehensive income (loss) for the period/ year attributable to
+        Owners of the Company                                                                                  5,402             4,710        4,898       20,347          18,094
+        Non-<:ontrolling interest                                                                                  4                 6            3           14              10
+                                                                                                               5,406             4,716        4,901       20,361          18,104
+
+        Paid-up equity share capital (Face value 't 2 each)                                                     543               543           543          543             543
+        Other equity attributable to owners of the Company                                                                                                74,622          69,112
+
+        Earnings per equity share of 't 2 each
+        Basic   (in 't)                                                                                        16.59             15.06        15.90        61.46           64.16
+        Diluted (in 't)                                                                                        16.56             15.05        15.88        61.36           64.09
+
+        Dividend per equity share of 't 2 each
+        Interim dividend paid (in 't)                                                                            12                12            12           54              54
+        Special interim dividend paid (in 't)                                                                         -              -            6            -               6
+        Total dividend uaid (in 'tl                                                                              12                12            18           54              60
+
+                                                   HCL TECHNOLOGIES LIMITED
+                                             Corporate Identity Number: L74140DL1991PLC046369
+                                      Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                       Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                              Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Segment Information of Consolidated Financial Results as per Ind AS :
+                                                                                                                                   ('l: in crores)
+                                                                            Titree months ended                           Year ended
+
+                        Particulars                         31 March           31 December         31March         31March          31March
+                                                              2026                 2025              2025            2026             2025
+                                                            (Audited)           (Unaudited)        (Audited)       (Audited)        (Audited)
+Revenue from operations from external customers
+     IT and Business Services                                    25,443                  24,504         22,186          96,094              86,438
+     Engineering and R&D services                                 5,783                   5,676          5,162          22,056              18,960
+     HCL Software                                                 2,755                   3,692          2,898          11,994              11,657
+Total                                                            33,981                  33,872         30,246         130,144             117,055
+
+Inter-segment revenue
+     IT and Business Services                                         -                        1               -             1                       -
+     Engineering and R&D services                                     4                        3               -             7                       -
+     HCL Software                                                   102                       99           110             403                  392
+Total                                                               106                    103             110             411                  392
+
+Segment revenues
+     IT and Business Services                                    25,443                  24,505         22,186          96,095              86,438
+     Engineering and R&D services                                 5,787                   5,679          5,162          22,063              18,960
+     HCL Software                                                 2,857                   3,791          3,008          12,397              12,049
+     Inter-segment elimination                                     (106)                   (103)          (110)           (411)               (392)
+Total                                                            33,981                  33,872         30,246         130,144             117,055
+
+
+Segment results
+     IT and Business Services                                     4,149                   4,016          3,778          15,390              14,7%
+     Engineering and R&D services                                   900                     943            928           3,703               3,415
+     HCL Software                                                   571                   1,326            736           3,304               3,209
+Total                                                             5,620                   6,285          5,442          22,397              21,420
+
+
+     One-time impact of New Labour Codes                                -                  (956)               -          (956)                      -
+     Unallocable expenses                                          (240)                   (205)          (161)           (869)                (558)
+     Other income                                                   322                     385            454           1,530                2,399
+Profit before tax                                                 5,702                   5,509          5,735          22,102              23,261
+     Tax expense                                                  (1,212)                (1,427)         (1,426)         (5,450)             (5,862)
+Profit for the period/ year                                       4,490                   4,082          4,309          16,652              17,399
+
+
+Note:
+
+Assets and liabilities are not identified to any reportable segments, since these are used interchangeably across segments and
+consequently, the management believes that it is not practicable or meaningful to provide segment disclosures relating to total assets
+and liabilities.
+
+                                                        HCL TECHNOLOGIES LIMITED
+                                             Corporate Identity Number: L74140DL1991PLC046369
+                                      Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                       Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                              Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+Consolidated Balance Sheet of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                             (~ in crores)
+                                                                                                            Asat                Asat
+                                                      Particulars                                       31 March 2026       31 March 2025
+                                                                                                          (Audited)           (Audited)
+ I.   ASSETS
+      (1) Non-current assets
+          (a) Property, plant and equipment                                                                         4,657             4,501
+          (b) Capital work in progress                                                                                 60                59
+          (c) Right-of-use assets                                                                                   3,592             3,016
+          (d) Goodwill                                                                                             23,888            21,756
+          (e) Other intangible assets                                                                               5,160             6,899
+          (f) Intangible assets under development                                                                      82                    -
+          (g) Financial assets
+                 (i) Investments                                                                                      130                91
+                 (ii) Trade receivables - unbilled                                                                    601             1,022
+                 (iii) Loans                                                                                           50               586
+                 (iv) Others                                                                                        3,585             2,212
+          (h) Deferred tax assets (net)                                                                             1,146             1,064
+          (i) Other non..:urrent assets                                                                             2,765             2,229
+          Total non..:urrent assets                                                                                45,716            43,435
+
+      (2) Current assets
+          (a) Inventories                                                                                            239                133
+          (b) Financial assets
+                (i) Investments                                                                                     6,960             7,473
+                (ii) Trade receivables
+                         Billed                                                                                    23,585            19,523
+                         Unbilled                                                                                   7,956             6,319
+                (iii) Cash and cash equivalents                                                                     8,265             8,245
+                (iv) Other bank balances                                                                           15,160            13,044
+                (v) Loans                                                                                           1,017               976
+                (vi) Others                                                                                         1,626             1,589
+          (c) Current tax assets (net)                                                                                226               148
+          (d) Other current assets                                                                                  5,508             4,659
+          Total current assets                                                                                     70,542            62,109
+          TOTAL ASSETS                                                                                            116,258           105,544
+  II. EQUITY
+          (a) Equity share capital                                                                                    543               543
+          (b) Other equity                                                                                         74,622            69,112
+                Equity attributable to owners of the Company                                                       75,165            69,655
+                Non..:ontrolling interest                                                                              32                18
+      TOTAL EQUITY                                                                                                 75197             69,673
+ IIL LIABILITIES
+      (1) Non-current liabilities
+          (a) Financial liabilities
+                (i) Borrowings                                                                                         37                70
+                (ii) Lease liabilities                                                                              3,180             2,638
+                (iii) Others                                                                                        1,401               464
+          (b) Contract liabilities                                                                                  1,162             1,059
+          (c) Provisions                                                                                            2,001             1,920
+          (d) Deferred tax liabilities (net)                                                                        1,381             1,615
+          (e) Other non-current liabilities                                                                            73                66
+          Total non-current liabilities                                                                             9,235             7,832
+
+      (2) Current liabilities
+          (a) Financial liabilities
+                (i) Borrowings                                                                                        122             2,221
+                (ii) Lease liabilities                                                                              1,876             1,347
+                (iii) Trade payables
+                         Billed                                                                                     3,726             3,016
+                         Unbilled                                                                                   3,980             3,209
+                (iv) Others                                                                                         9,228             7,009
+          (b) Contract liabilities                                                                                  5,053             4,657
+          (c) Other current liabilities                                                                             2,315             2,278
+          (d) Provisions                                                                                            1,664             1,487
+          (e) Current tax liabilities (net)                                                                         3,862             2,815
+          Total current liabilities                                                                                31,826            28,1139
+          TOTAL LIABILITIES                                                                                        41,061            35,871
+          TOTAL EQUITY AND LIABILITIES                                                                            116,258           105,544
+
+                                                               HCL TECHNOLOGIES LIMITED
+                                                Corporate Identity Number: L74140DL1991PLC046369
+                                         Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                          Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                 Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Consolidated Statement of Cash Flows of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                       (!! in crores)
+                                                                                                                                          Year ended
+                                                          Particulars                                                       31 March 2026              31 March 2025
+                                                                                                                              (Audited)                  (Audited)
+A. Cash flows from operating activities
+Profit before tax                                                                                                                           22,102                23,261
+Adjustment for:
+Depreciation and amortization expense                                                                                                        4,355                    4,084
+Interest income                                                                                                                             (1,542)                  (1,567)
+Provision for doubtful debts / bad debts written off (net)                                                                                     107                       15
+Income on investments earned at fair value through profit and loss                                                                            (192)                    (195)
+Profit on sale of debt securities                                                                                                               (2)                       -
+Interest expense                                                                                                                              434                      336
+(Profit) loss on sale of property, plant and equipment (net)                                                                                    4                      (10)
+Share based payments to employees                                                                                                             478                      218
+Divestment in subsidiaries                                                                                                                       -                    (574)
+Other non-cash char2:es /net)                                                                                                                 /171)                  /74
+                                                                                                                                            25,573                25,494
+Net change in
+Trade receivables                                                                                                                           (2,248)                 (119)
+Inventories                                                                                                                                    (59)                   77
+Other financial assets and other assets                                                                                                         86                  (225)
+Trade payables                                                                                                                                 736                   249
+Other financial liabilities, contract liabilities, orovisions and other liabilities                                                            /37l                1,028
+Cash generated from operations                                                                                                              24,0Sl                26,504
+Income taxes naid /net of refunds)                                                                                                          /4076)                /4243
+Net cash flow from oJ'.)l!rating activities                   (Al                                                                           19,975                22,261
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles                                                                                  (1,422)                (1,108)
+Proceeds from sale of property, plant and equipment                                                                                            23                     25
+Payments for business acquisitions, net of cash acquired                                                                                     (159)                (1,982)
+Investments in bank deposits                                                                                                              (17,350)               (15,442)
+Proceeds from bank deposits                                                                                                                15,164                 12,622
+Deposits placed with body corporates                                                                                                         (480)                (1,512)
+Proceeds from deposits placed with body corporates                                                                                            975                  1,030
+Purchase of investments in securities                                                                                                     (48,685)               (43,861)
+Proceeds from sale/maturity of investments in securities                                                                                   49,369                 43,711
+Investment in equity instruments                                                                                                               (8)                    (4)
+Distribution from limited liability partnership                                                                                                 3                      4
+Divestment in subsidiaries, net of cash                                                                                                          -                   687
+Interest received                                                                                                                            1,430                 1,322
+Income taxes naid                                                                                                                             /333)                 /406
+Net cash flow used in investing activities               (Bl                                                                                (1,473)               (4,914
+
+C. Cash flows from financing activities
+Repayment of long term borrowings                                                                                                           (2,305)                     (84)
+Proceeds from short term borrowings                                                                                                           318                       377
+Repayment of short term borrowings                                                                                                            (321)                   (374)
+Payments for deferred and contingent consideration on business acquisitions                                                                     (1)                     (50)
+Acquisition of treasury shares                                                                                                                (711)                   (676)
+Dividend paid                                                                                                                             (14,618)               (16,250)
+Interest paid                                                                                                                                  (46)                     (51)
+Payment of lease liabilities including interest                                                                                             (1,685)                  (1,453)
+Net cash flow used in financing activities                    (q                                                                          (19,369)               (18,561)
+
+
+Net decrease in cash and cash equivalents (A+B+q                                                                                              (867)                  (1,214)
+Effect of exchange differences on cash and cash equivalents held in foreign currency                                                           817                      18
+Cash and cash equivalents at the beginning of the year                                                                                       8,245                   9,441
+Cash and cash equivalents at the end of the year                                                                                             8,195                   8,245
+Notes:
+1. The total amount of income taxes paid is f 4,409 crores ( 31 March 2025 f 4,649 crores).
+2. Cash and cash equivalents includes earmarked balances with banks off 53 crores ( 31 March 2025 f 19 crores) which is of restricted use and Bank overdraft off (70)
+   crores (31 March 2025 Nil).
+
+                                                                  HCL TECHNOLOGIES LIMITED
+                                                   Corporate Identity Number: L74140DL1991PLC046369
+                                            Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                             Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                    Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+
+Standalone Statement of Financial Results of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                                                                            (f in erores)
+                                                                                                                  Three months ended                            Year ended
+                                                                                                 31March            31December          31March            31March      31March
+                                         Particulars                                               2026                 2025              2025               2026          2025
+                                                                                                 /Audited\           /Unaudited\        /Audited\          /Audited\          /Audited\
+  I     Revenue
+        Revenue from operations                                                                       12,890                15,239            13,432            55,031            51,105
+        Other income                                                                                   1,245                   291               285             2,205             1,234
+        Total income                                                                                  14,135                15,530            13,717            57,236            52,339
+
+  II    Expenses
+        Purchase of stock-in-trade                                                                        35                    36                41               127               133
+        Otanges in inventories of stock-in-trade                                                           4                    (5)               (2)                   -             13
+        Employee benefits expense                                                                      6,492                 6,483             5,860            25,323            22,414
+        Outsourcing costs                                                                              2,136                 2,389             2,218             8,852             7,437
+        Finance costs                                                                                     29                    63                41               243               156
+        Depreciation and amortization expense                                                            555                   630               577             2,316             2,320
+        Other expenses                                                                                   959                   946               905             3,670             3,392
+        Total expenses                                                                                10,210                10,542             9,640            40,531            35,865
+ III    Profit before exceptional items and tax                                                        3,925                 4,988             4,077            16,705            16,474
+
+ IV     Exceptional Items
+        One-time impact of New Labour Codes (refer note 3)                                                    -                948                    -            948                 -
+        One-time impact of a material Bilateral Advance Pricing Agreement (BAPA)
+        (refer note 4)
+                                                                                                       5,733                        -                 -          5,733                 -
+  V     Profit (loss) before tax                                                                      (1,808)                4,040             4,077            10,024            16,474
+
+ VI     Tax expense
+        Current tax expense (credit)                                                                    (326)                  981             1,027             2,743             3,344
+        Deferred tax charge (credit)                                                                    (582                    77                 5              (346)              864
+        Total tax expense (refer note 3 and 4)                                                          (908'                1,058             1,Q32             2,397             4,208
+
+ vu     Profit (loss) for the period/ year (refer note 5)                                               (900)                2,982             3,Q45             7,627            12,266
+
+ VIII   Other comprehensive income (loss)
+ (A)    (i) Items that will not be reclassilied to statement of profit and loss                         (583)                   43                   54           (577)                6
+        (ii) Income tax relating to items that will not be reclassified to statement of profit           147                   (11)                 (16)           148                20
+        and loss
+ (B)    (i) Items that will be reclassified to statement of profit and loss                             (922)                  (86)                 177          (1,872)            (112)
+        (ii) Income tax relating to items that will be reclassified to statement of profit               236                    23                  (40)            486                5
+        and loss
+        Total other comprehensive income (loss), net of tax                                           11122                    /31\              175             /1.815\             /811
+ IX     Total comurehensive income (loss) for the period/ vear                                        (2,Q22                 2,951             3,220              5,812           12,185
+
+        Paid-up equity share capital (Face value ;: 2 each)                                              543                   543                543              543               543
+        Other equity                                                                                                                                            25,355            34,397
+
+        Earnings per equity share of ;: 2 each
+        Basic   (in 'fl                                                                                (3.33)                11.02             11.24             28.17             45.25
+        Diluted (in 't)                                                                                (3.33)                11.01             11.23             28.12             45.21
+
+        Dividend per equity share of 't 2 each
+        Interim dividend paid (in 'fl                                                                        12                    12                12                54             54
+        Special interim dividend paid (in 'fl                                                                 -                     -                 6                 -              6
+        Total dividend uaid /in 'ti                                                                          12                    12                18                54             60
+
+                                                          HCL TECHNOLOGIES LIMITED
+                                              Corporate Identity Number: L74140DL1991PLC046369
+                                       Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                        Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                               Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+Standalone Balance Sheet of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                              (? in crores)
+                                                                                                          Asat                  Asat
+                                                      Particulars                                     31 March 2026         31 March 2025
+                                                                                                        /Audited!             /Audited!
+  I.    ASSETS
+        (1) Non-current assets
+            (a) Property, plant and equipment                                                                       2,931                 2,931
+            (b) Capital work in progress                                                                               14                    29
+            (c) Right-of-use assets                                                                                 1,155                 1,192
+            (d) Goodwill                                                                                            7,226                 7,215
+            (e) Other intangible assets                                                                             3,517                 4,880
+            (t) Intangible assets under development                                                                    82                     -
+            (g) Financial assets
+                  (i) Investments                                                                                   5,015                 4,960
+                  (ii) Trade receivables - unbilled                                                                    33                   291
+                  (iii)Loans                                                                                            -                   586
+                  (iv) Others                                                                                         510                 1,057
+            (h) Other non-current assets                                                                              291                   327
+           Total non-current assets                                                                                20,774              23,468
+
+        (2) Current assets
+            (a) Inventories                                                                                           12                    12
+            (b) Financial assets
+                  (i) Investments                                                                                   6,531                 7,357
+                  (ii) Trade receivables
+                         Billed                                                                                     5,529               3,622
+                         Unbilled                                                                                   7,890              11,063
+                  (iii) Cash and cash equivalents                                                                     601                 592
+                  (iv) Other bank balances                                                                          3,193               3,847
+                  (v) Loans                                                                                           676                 714
+                  (vi) Others                                                                                         631                 785
+            (c) Current tax assets (net)                                                                                1                   4
+            (d) Other current assets                                                                                1,136               1,039
+           Total current assets                                                                                    26,200              29,(135
+           TOTAL ASSETS                                                                                            46,974              52,503
+
+  II.   EQUITY
+            (a) Equity share capital                                                                                 543                 543
+            (b) Other equity                                                                                       25355               34397
+           TOTALEQUITY                                                                                             25,898              34,940
+
+ IIL    LIABILITIES
+        (1) Non-current liabilities
+            (a) Financial liabilities
+                  (i) Borrowings                                                                                        3                    11
+                  (ii) Lease liabilities                                                                              675                   754
+                  (iii) Others                                                                                      1,048                    17
+            (b) Contract liabilities                                                                                  103                   68
+            (c) Provisions                                                                                          1,232                 1,291
+            (d) Deferred tax liabilities (net)                                                                        343                 1,321
+            (e) Other non-current liabilities                                                                          73                    66
+           Total non-current liabilities                                                                            3,477                 3,528
+
+        (2) Current liabilities
+            (a) Financial liabilities
+                  (i) Borrowings                                                                                        7                    15
+                  (ii) Lease liabilities                                                                              303                   261
+                  (iii) Trade payables
+                     Billed
+                     1. Dues of micro enterprises and small enterprises                                                13                    12
+                     2. Dues of creditors other than micro enterprises and small enteiprises                        5,193                 2,116
+                     Unbilled                                                                                       3,913                 1,745
+                  (iv)Others                                                                                        2,650                 1,889
+            (b) Contract liabilities                                                                                2,372                 5,088
+            (c) Other current liabilities                                                                             565                   549
+            (d) Provisions                                                                                            388                   388
+            (e) Current tax liabilities (net)                                                                       2,195                 1,972
+           Total current liabilities                                                                            17,599                 14,(135
+           TOTAL LIABILITIES                                                                                    21,(176                17,563
+           TOTAL EQUITY AND LIABILITIES                                                                         46,974                 52,503
+
+                                                                   UCL TECHNOLOGIES LIMITED
+                                                  Corporate Identity Number: L74140DL1991PLC046369
+                                           Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                            Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                   Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Standalone Statement of Cash Flows of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                        (< in erores)
+                                                                                                                                               Year ended
+                                                                   Particulars                                                       31MaICh2026        31MaICh2025
+                                                                                                                                       /Audited)          /Audited)
+A. Cash flows from operating activities
+Profit before tax                                                                                                                             10,024                16,474
+Adjustment for:
+Depreciation and amortization expense                                                                                                          2,316                    2,320
+Interest income                                                                                                                                 (861)                    (867)
+Dividend income from subsidiaries                                                                                                             (1,077)                    (109)
+Provision for doubtful debts / bad debts written off (net)                                                                                       (56)                     (31)
+Income on investments earned at fair value through profit and loss                                                                              (161)                    (183)
+Profit on sale of debt securities                                                                                                                 (2)                       -
+Interest expense                                                                                                                                 124                   138
+Profit on sale of property, plant and equipment (net)                                                                                             (9)                   (9)
+Share based payments to employees                                                                                                                113                    62
+Other non-cash charges (net)                                                                                                                      (1)                  (15
+                                                                                                                                              10,410                17,780
+Net change in
+Trade receivables                                                                                                                              1,707                (2,599)
+Inventories                                                                                                                                        -                    17
+Other financial assets and other assets                                                                                                          189                   362
+Trade payables                                                                                                                                 5,162                 1,507
+Other financial liabilities, contract liabilities, orovisions and other liabilities                                                           /3,078)                1,629
+Cash generated from operations                                                                                                                14,390                18,696
+Income taxes paid (net of refunds)                                                                                                            (2,261)               (2,705
+Net cash flow from ODl!ratinl! activities                      /Al                                                                            12,129                15,991
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles                                                                                       (735)                 (461)
+Proceeds from sale of property, plant and equipment                                                                                               20                    22
+Payments for business acquisitions, net of cash acquired                                                                                           -                (1,358)
+Investments in bank deposits                                                                                                                  (2,742)               (4,464)
+Proceeds from bank deposits                                                                                                                    3,847                 6,959
+Deposits placed with body corporates                                                                                                             (90)               (1,251)
+Proceeds from deposits placed with body corporates                                                                                               714                 1,030
+Purchase of investments in securities                                                                                                        (47,701)              (43,059)
+Proceeds from sale/ maturity of investments in securities                                                                                     48,669                42,765
+Excess of cost over fair value reimbursed for treasury shares by direct and indirect subsidiaries                                                 33                    85
+Investment in equity instruments                                                                                                                  (8)                   (5)
+Investment in subsidiaries                                                                                                                       (80)                       -
+Dividend received from subsidiaries                                                                                                            1,077                      109
+Interest received                                                                                                                                663                      801
+Income taxes vaid                                                                                                                               /147)                    /180
+Net cash flow from investing activities            (Bl                                                                                         3,520                      993
+
+C. Cash flows from financing activities
+Repayment of long term borrowings                                                                                                                (13)                  (30)
+Proceeds from short term borrowings                                                                                                              318                   377
+Repayment of short term borrowings                                                                                                              (321)                 (374)
+Acquisition of treasury shares                                                                                                                  (711)                 (676)
+Dividend paid                                                                                                                                (14,618)              (16,250)
+Interest paid                                                                                                                                     (2)                    (3)
+Pavment of lease liabilities including interest                                                                                                 (334)                 (297)
+Net cash flow used in financinl! activities                  /Cl                                                                             (15,681)              (17,253'
+
+
+Net decrease in cash and cash equivalents (A+B+q                                                                                                (32)                     (269)
+Effect of exchange differences on cash and cash equivalents held in foreign currency                                                             41                        24
+Cash and cash eouivalents at the bemnn;no- of the vear                                                                                          592                       837
+Cash and cash eauivalents at the end of the vear                                                                                                601                       592
+Notes:
+1     The total amount of income taxes paid is< 2,408 crores (31 March 2025 'I' 2,885 crores).
+2    Cash and cash equivalents includes earmarked balances with banks of <22 crores (31 March 2025 <19 crores) which is of restricted use.
+
+                                                  HCL TECHNOLOGIES LIMITED
+                                         Corporate Identity Number: L74140DL1991PLC046369
+                                  Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                   Corporate Office: Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                          Website: www.hcltech.com; Telephone: +91 11 26436336; Email: investors@hcltech.com
+Notes:
+
+1   The consolidated and the standalone financial results for the three months and year ended 31 March 2026 were reviewed by the Audit
+    Committee and have been approved and taken on record by the Board of Directors at its meeting held on 21 April 2026. The statutory
+    auditors have issued unmodified audit report on these results.
+
+2   The Board of Directors at its meeting held on 21 April 2026 has declared an interim dividend of 124 per share.
+
+3   One-time impact of New Labour Codes : Effective 21 November 2025, The Government of India has consolidated multiple existing labour
+    legislations into a unified framework comprising four Labour Codes collectively referred to as the 'New Labour Codes'. Under Ind AS 19,
+    changes to employee benefit plans arising from legislative amendments constitute a plan amendment, requiring recognition of past service
+    cost immediately in the statement of profit and Loss. The New Labour Codes has resulted in estimated one time increase in provision for
+    employee benefits of the Group and the Company of 1 956 crores and 1 948 crores (along with consequential tax benefit of 1 237 crores and
+    1235 crores, resulting in decrease in profit after tax by 1719 crores and 1713 crores), respectively and the same has been recognized as an
+    employee benefit expense (exceptional item) in the three months period ended 31 December 2025 and year ended 31 March 2026. The
+    Government is in the process of notifying related rules to the New Labour Codes and impact of these will be evaluated and accounted for in
+    accordance with applicable accounting standards in the period in which they are notified.
+
+4   One-time impact of a material Bilateral Advance Pricing Agreement (BAPA) on Standalone financial results: During the current quarter,
+    the Company concluded a Bilateral Advance Pricing Agreement (BAPA) with a tax authority in foreign jurisdiction covering certain prior
+    financial years in relation to transaction with its wholly owned subsidiary. While the substantive terms and conditions have been mutually
+    agreed, the Company is in the process of completing the formalization of the BAPA with the foreign jurisdiction.
+
+    Consequent to above, the Company recognised an incremental impact of 16,436 crores during the quarter ended 31 March 2026, comprising
+    15,733 crores pertaining to periods up to 31 March 2025, as an exceptional item and 1703 crores pertaining to the nine months ended 31
+    December 2025, as a reduction from revenue from operations, with a corresponding adjustment in the wholly owned subsidiary.
+
+    The above expense has resulted in a tax benefit of 11,531 crores during the quarter ended 31 March 2026 which includes 11,317 crores for the
+    period upto 31 March 2025 and 1214 crores for the nine months ended 31 December 2025.
+
+    Accordingly, the net impact has resulted in a decrease in profit after tax of 14,905 crores for the quarter ended 31 March 2026 which includes
+    14,416 crores for the period upto 31 March 2025 and 1489 crores for the nine months ended 31 December 2025.
+
+5   Profit (loss) for the period/year, excluding one-time impacts of New Labour Codes and material BAPA and related tax impact,
+
+    a. For the Group is 14,801 crores for the quarter ended 31 December 2025; and 117,371 crores for the year ended 31 March 2026.
+
+    b. For the Company is 1 4,005 crores for the quarter ended 31 March 2026; 1 3,695 crores for the quarter ended 31 December 2025; and
+       112,756 crores for the year ended 31 March 2026.
+
+6   Financial results for all the periods presented have been prepared in accordance with the Companies (Indian Accounting Standards) Rules,
+    2015 (as amended from time to time) prescribed under Section 133 of the Companies Act, 2013 and other recognised accounting practices
+    and policies to the extent applicable.
+
+7   The figures of the last quarter are the balancing figures between audited figures in respect of the full financial year up to 31 March 2026 and
+    the unaudited published year-to-date figures up to 31 December 2025 being the date of the end of the third quarter of the financial year
+    which were subjected to a limited review.
+
+8   As per Ind AS 108 'Operating Segments', the Company has disclosed the segment information only as part of the consolidated financial
+    results.
+
+
+    By the order of the Board of Directors for HCL Technologies Limited
+
+
+     ROSHNI Digitally signed              VIJAYA    Digitally signed                                                  Digitally signed
+             byROSHNI
+     NADAR NADAR                                    by VIJAYA KUMAR
+                                                                                                         SHIV         by SHIV KUMAR
+                                          KUMAR
+     MALHOTR MALHOTRA
+                  Date: 2026.04.21
+                                                    CHINNASWAMY
+                                          CHINNASWA Date: 2026.04.21
+                                                                                                         KUMARi;~:A
+     A            17:18:13 +05'30'                                                                       WALIA ~~~~~:~05•30•
+                                          MY                17:17:36 +05'30'
+
+    Roshni Nadar Malhotra                C. Vijayakumar                                                   ShivWalia
+    Chairperson                          Chief Executive Officer and Managing Director                    Chief Financial Officer
+    DIN - 02346621                       DIN - 09244485
+
+
+
+    Noida (UP), India
+    21 April 2026
+
+The General Manager                               The Manager
+BSE Limited                                       National Stock Exchange of India Limited
+Corporate Relationship Department                 Listing Department
+Phiroze Jeejeebhoy Towers                         Exchange Plaza
+Dalal Street                                      5th Floor, Plot No. C-1, Block-G
+Mumbai- 400 001                                   Bandra-Kurla Complex, Bandra(E)
+                                                  Mumbai-400 051
+BSE Scrip Code: 532281                            NSE Scrip Code: HCLTECH
+
+
+
+Sub: Declaration under Regulation 33(3)(d) of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+
+Dear Sirs,
+
+In compliance with the provisions of Regulation 33(3)(d) of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 as amended by the SEBI (Listing Obligations and Disclosure
+Requirements) (Amendment) Regulations, 2016, vide notification no. SEBI/LADNRO/GN/2016-17/001
+dated May 25, 2016 and Circular No. Cir/CFD/CMD/56/2016 dated May 27, 2016, We, hereby declare that
+M/s. B S R & Co. LLP, Statutory auditors of the Company have issued the Audit Reports with unmodified
+opinions on the Audited (Standalone & Consolidated) Financial results of the Company for the quarter and
+year ended March 31, 2026.
+
+For HCL Technologies Limited
+
+
+Roshni Nadar Malhotra                                                           C. Vijayakumar
+Chairperson                                                              CEO & Managing Director
+DIN: 02346621                                                                   DIN: 09244485
+
+
+
+Shiv Kumar Walia                                                                    Goutam Rungta
+Chief Financial Officer                                             Corporate Vice President - Finance
+
+
+
+
+Place: Noida (U.P.), India
+Date: April 21, 2026
+
+                                                                                                 Building No. 10, 12th Floor, Tower-C
+B S R & Co. LLP                                                                                  DLF Cyber City, Phase - II
+                                                                                                 Gurugram - 122 002, India
+Chartered Accountants                                                                            Tel: +91 124 719 1000
+                                                                                                 Fax: +91 124 235 8613
+
+
+
+
+                                                                                           Independent Auditors’ Report
+To the Board of Directors of HCL Technologies Limited
+Report on the audit of the Consolidated Annual Financial Results
+
+Opinion
+
+We have audited the accompanying consolidated annual financial results of HCL Technologies Limited
+(hereinafter referred to as the “Holding Company”) and its subsidiaries (Holding Company and its
+subsidiaries together referred to as “the Group”), for the year ended 31 March 2026, attached herewith,
+being submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid consolidated annual financial results:
+a.     include the annual financial results of the entities mentioned in Annexure to the aforesaid consolidated
+       annual financial results
+b.     are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+       regard; and
+c.     give a true and fair view in conformity with the recognition and measurement principles laid down in
+       the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+       India, of consolidated net profit and other comprehensive income and other financial information of
+       the Group for the year ended 31 March 2026.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Consolidated Annual Financial Results section of our
+report. We are independent of the Group in accordance with the Code of Ethics issued by the Institute of
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled our
+other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe
+that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our opinion on
+the consolidated annual financial results.
+
+Management’s and Board of Directors’ Responsibilities for the Consolidated Annual Financial
+Results
+
+These consolidated annual financial results have been prepared on the basis of the consolidated annual
+financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these consolidated annual financial results that give a true and fair view of the consolidated
+net profit/ loss and other comprehensive income and other financial information of the Group in
+accordance with the recognition and measurement principles laid down in Indian Accounting Standards
+prescribed under Section 133 of the Act read with relevant rules issued thereunder and other accounting
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations.
+The respective Management and Board of Directors of the entities included in the Group are responsible
+
+                                                                                                      Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a      14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013   Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                       Page 1 of 8
+
+B S R & Co. LLP
+
+                                              Independent Auditor’s Report (Continued)
+                                                                     HCL Technologies Limited
+for maintenance of adequate accounting records in accordance with the provisions of the Act for
+safeguarding of the assets of each entity and for preventing and detecting frauds and other irregularities;
+selection and application of appropriate accounting policies; making judgments and estimates that are
+reasonable and prudent; and the design, implementation and maintenance of adequate internal financial
+controls, that were operating effectively for ensuring accuracy and completeness of the accounting
+records, relevant to the preparation and presentation of the consolidated annual financial results that give
+a true and fair view and are free from material misstatement, whether due to fraud or error, which have
+been used for the purpose of preparation of the consolidated annual financial results by the Management
+and the Board of Directors of the Holding Company, as aforesaid.
+In preparing the consolidated annual financial results, the respective Management and the Board of
+Directors of the entities included in the Group are responsible for assessing the ability of each entity to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+going concern basis of accounting unless the respective Board of Directors either intends to liquidate the
+entity or to cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the entities included in the Group is responsible for overseeing the
+financial reporting process of each entity.
+
+Auditor’s Responsibilities for the Audit of the Consolidated Annual Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the consolidated annual financial results
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these consolidated annual financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+–   Identify and assess the risks of material misstatement of the consolidated annual financial results,
+    whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+    obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+    not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+    as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+    internal control.
+–   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances. Under Section 143(3) (i) of the Act, we are also responsible
+    for expressing our opinion through a separate report on the complete set of financial statements on
+    whether the company has adequate internal financial controls with reference to financial statements
+    in place and the operating effectiveness of such controls.
+–   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the consolidated annual financial results made by the
+    Management and Board of Directors.
+–   Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the
+    appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+    to draw attention in our auditor’s report to the related disclosures in the consolidated annual financial
+    results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+    the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+    may cause the Group to cease to continue as a going concern.
+–   Evaluate the overall presentation, structure and content of the consolidated annual financial results,
+    including the disclosures, and whether the consolidated annual financial results represent the
+    underlying transactions and events in a manner that achieves fair presentation.
+
+                                                                                                Page 2 of 8
+
+     B S R & Co. LLP
+
+                                                 Independent Auditor’s Report (Continued)
+                                                                       HCL Technologies Limited
+     We communicate with those charged with governance of the Holding Company and such other entities
+     included in the consolidated annual financial results of which we are the independent auditors regarding,
+     among other matters, the planned scope and timing of the audit and significant audit findings, including
+     any significant deficiencies in internal control that we identify during our audit.
+     We also provide those charged with governance with a statement that we have complied with relevant
+     ethical requirements regarding independence, and to communicate with them all relationships and other
+     matters that may reasonably be thought to bear on our independence, and where applicable, related
+     safeguards.
+     We also performed procedures in accordance with the circular No CIR/CFD/CMD1/44/2019 issued by the
+     Securities and Exchange Board of India under Regulation 33(8) of the Listing Regulations, to the extent
+     applicable.
+
+     Other Matter
+
+a.       The consolidated annual financial results include the results for the quarter ended 31 March 2026
+         being the balancing figure between the audited figures in respect of the full financial year and the
+         published unaudited year to date figures up to the third quarter of the current financial year which
+         were subject to limited review by us.
+
+
+                                                                                      For B S R & Co. LLP
+                                                                                    Chartered Accountants
+                                                            Firm’s Registration No.:101248W/W-100022
+
+
+
+
+                                                                                            Rakesh Dewan
+                                                                                                     Partner
+     Gurugram                                                                    Membership No.: 092212
+     21 April 2026                                                         UDIN:26092212AHXGVV5017
+
+
+
+
+                                                                                                  Page 3 of 8
+
+B S R & Co. LLP
+
+                                               Independent Auditor’s Report (Continued)
+                                                                      HCL Technologies Limited
+Annexure
+
+List of entities included in consolidated annual financial results.
+
+Sr. No         Name of component                                            Relationship
+
+      1        HCL Technologies Limited                                     Parent
+
+      2        Actian Australia Pty. Limited                                Subsidiary
+
+      3        Actian Corporation                                           Subsidiary
+
+      4        Actian Europe Limited                                        Subsidiary
+
+      5        Actian France SAS                                            Subsidiary
+
+      6        Actian Germany GmbH                                          Subsidiary
+
+      7        Actian Technology Private Limited                            Subsidiary
+
+      8        Anzospan Investments Pty Limited                             Subsidiary
+
+      9        Axon Group Limited                                           Subsidiary
+
+     10        Axon Solutions Limited                                       Subsidiary
+
+     11        Butler America Aerospace LLC                                 Subsidiary
+
+     12        C3i Europe Eood                                              Subsidiary
+
+     13        C3i Japan GK                                                 Subsidiary
+
+     14        C3i Services & Technologies (Dalian) Co., Ltd                Subsidiary
+
+     15        C3i Support Services Private Limited                         Subsidiary
+
+     16        Confinale (Deutschland) GmbH                                 Subsidiary
+
+     17        HCL Technologies Switzerland AG (Formerly " Confinale Subsidiary
+               AG")
+
+     18        DWS (New Zealand) Ltd.                                       Subsidiary
+
+     19        DWS (NSW) Pty Ltd                                            Subsidiary
+
+     20        DWS Pty Limited                                              Subsidiary
+
+     21        Filial Espanola De HCL Technologies S.L                      Subsidiary
+
+     22        Geometric Americas, Inc.                                     Subsidiary
+
+     23        Geometric Europe GmbH                                        Subsidiary
+
+     24        H C L Technologies Lanka (Private) Limited                   Subsidiary
+
+     25        HCL (Brazil) Tecnologia da Informacao LTDA                   Subsidiary
+
+     26        HCL (Ireland) Information Systems Limited                    Subsidiary
+
+
+                                                                                           Page 4 of 8
+
+B S R & Co. LLP
+
+                                        Independent Auditor’s Report (Continued)
+                                                              HCL Technologies Limited
+Sr. No   Name of component                                          Relationship
+
+    27   HCL (New Zealand) Limited                                  Subsidiary
+
+    28   HCL America Inc.                                           Subsidiary
+
+    29   HCL America Solutions Inc.                                 Subsidiary
+
+    30   HCL Arabia LLC                                             Subsidiary
+
+    31   HCL Argentina S.A.                                         Subsidiary
+
+    32   HCL ASIA PACIFIC PTE. LTD.                                 Subsidiary
+
+    33   HCL Australia Services Pty. Ltd.                           Subsidiary
+
+    34   HCL Axon Solutions (Shanghai) Co. Limited                  Subsidiary
+
+    35   HCL Bermuda Limited                                        Subsidiary
+
+    36   HCL Canada Inc.                                            Subsidiary
+
+    37   HCL Comnet Systems & Services Limited                      Subsidiary
+
+    38   HCL EAS Limited                                            Subsidiary
+
+    39   HCL Great Britain Ltd.                                     Subsidiary
+
+    40   HCL Guatemala, Sociedad Anonima                            Subsidiary
+
+    41   HCL Hong Kong SAR Limited                                  Subsidiary
+
+    42   HCL Insurance BPO Services Limited                         Subsidiary
+
+    43   HCL Investments (UK) Limited                               Subsidiary
+
+    44   HCL Istanbul Bilisim Teknolojileri Limited Sirketi         Subsidiary
+
+    45   HCL Japan Limited                                          Subsidiary
+
+    46   HCL Latin America Holding LLC                              Subsidiary
+
+    47   HCL Lending Solutions, LLC                                 Subsidiary
+
+    48   HCL Muscat Technology LLC                                  Subsidiary
+
+    49   HCL Poland Sp.z.o.o                                        Subsidiary
+
+    50   HCL Singapore Pte. Ltd.                                    Subsidiary
+
+    51   HCL Software Products Limited                              Subsidiary
+
+    52   HCL Technologies (PTY) Ltd.                                Subsidiary
+
+    53   HCL Technologies (Shanghai) Limited                        Subsidiary
+
+    54   HCL Technologies (Taiwan) Ltd.                             Subsidiary
+
+    55   HCL Technologies (Thailand) Ltd.                           Subsidiary
+
+                                                                                   Page 5 of 8
+
+B S R & Co. LLP
+
+                                        Independent Auditor’s Report (Continued)
+                                                          HCL Technologies Limited
+Sr. No   Name of component                                       Relationship
+
+    56   HCL Technologies Angola (SU), LDA                       Subsidiary
+
+    57   HCL Technologies Austria GmbH                           Subsidiary
+
+    58   HCL Technologies Azerbaijan Limited Liability Company   Subsidiary
+
+    59   HCL Technologies B.V.                                   Subsidiary
+
+    60   HCL Technologies Bahrain W.L.L                          Subsidiary
+
+    61   HCL Technologies (Beijing) Co., Ltd                     Subsidiary
+
+    62   HCL Technologies Belgium BV                             Subsidiary
+
+    63   HCL Technologies Bulgaria EooD                          Subsidiary
+
+    64   HCL Technologies Chile SPA                              Subsidiary
+
+    65   HCL Technologies Columbia S.A.S                         Subsidiary
+
+    66   HCL Technologies Corporate Services Limited             Subsidiary
+
+    67   HCL Technologies Costa Rica Sociedad De Responsabilidad Subsidiary
+         Limitada
+
+    68   HCL Technologies Czech Republic s.r.o.                  Subsidiary
+
+    69   HCL Technologies Denmark Aps                            Subsidiary
+
+    70   HCL Technologies Egypt Limited                          Subsidiary
+
+    71   HCL Technologies Estonia OÜ                             Subsidiary
+
+    72   HCL Technologies Finland Oy                             Subsidiary
+
+    73   HCL Technologies France SAS                             Subsidiary
+
+    74   HCL Technologies gbs GmbH                               Subsidiary
+
+    75   HCL Technologies Germany GmbH                           Subsidiary
+
+    76   HCL Technologies Greece Single Member P.C               Subsidiary
+
+    77   HCL Technologies Italy S.P.A                            Subsidiary
+
+    78   HCL Technologies Lithuania UAB                          Subsidiary
+
+    79   HCL Technologies Luxembourg S.a r.l                     Subsidiary
+
+    80   HCL Technologies Malaysia Sdn. Bhd.                     Subsidiary
+
+    81   HCL Technologies Mexico S.De.R.L.De.C.V                 Subsidiary
+
+    82   HCL Technologies Middle East FZ-LLC                     Subsidiary
+
+    83   HCL Technologies Morocco Limited                        Subsidiary
+
+
+                                                                                Page 6 of 8
+
+B S R & Co. LLP
+
+                                      Independent Auditor’s Report (Continued)
+                                                            HCL Technologies Limited
+Sr. No   Name of component                                        Relationship
+
+    84   HCL Technologies Norway AS                               Subsidiary
+
+    85   HCL Technologies Philippines Inc.                        Subsidiary
+
+    86   HCL Technologies Romania s.r.l.                          Subsidiary
+
+    87   HCL Technologies S.A.C.                                  Subsidiary
+
+    88   HCL Technologies Slovakia s. r. o.                       Subsidiary
+
+    89   HCL Technologies Solutions GmbH                          Subsidiary
+
+    90   HCL Technologies South Africa (Proprietary) Limited      Subsidiary
+
+    91   HCL Technologies Starschema Kft.                         Subsidiary
+
+    92   HCL Technologies Sweden AB                               Subsidiary
+
+    93   HCL Technologies Trinidad and Tobago Limited             Subsidiary
+
+    94   HCL Technologies UK Limited                              Subsidiary
+
+    95   HCL Technologies Vietnam Company Limited                 Subsidiary
+
+    96   HCL Technologies S.A.                                    Subsidiary
+
+    97   HCL Training & Staffing Services Private Limited         Subsidiary
+
+    98   HCL Vietnam Company Limited                              Subsidiary
+
+    99   Phoenix IT & T Consulting Pty Ltd                        Subsidiary
+
+   100   Projects Assured Pty Ltd                                 Subsidiary
+
+   101   PT. HCL Technologies Indonesia                           Subsidiary
+
+   102   Quest Informatics Private Limited                        Subsidiary
+
+   103   Sankalp Semiconductor Inc.                               Subsidiary
+
+   104   Sankalp Semiconductor Private Limited                    Subsidiary
+
+   105   Starschema Inc                                           Subsidiary
+
+   106   Symplicit Pty Ltd                                        Subsidiary
+
+   107   Versant GmbH                                             Subsidiary
+
+   108   Wallis Nominees (Computing) Pty Ltd                      Subsidiary
+
+   109   HCL Technologies Stock Options Trust                     Controlled Trust
+
+   110   ASAP Holding GmbH                                        Subsidiary
+
+   111   ASAP Engineering GmbH                                    Subsidiary
+
+   112   ASAP Engineering GmbH, Gaimersheim                       Subsidiary
+
+                                                                                     Page 7 of 8
+
+B S R & Co. LLP
+
+                                     Independent Auditor’s Report (Continued)
+                                                       HCL Technologies Limited
+Sr. No   Name of component                                      Relationship
+
+   113   ASAP Engineering GmbH, Russelsheim                     Subsidiary
+
+   114   ASAP Electronics GmbH                                  Subsidiary
+
+   115   ASAP Engineering GmbH, Weyhausen                       Subsidiary
+
+   116   ASAP Engineering GmbH, Friedrichshafen                 Subsidiary
+
+   117   ASAP Quality Consulting GmbH                           Subsidiary
+
+   118   FIDUS Personal GmbH                                    Subsidiary
+
+   119   Dicturus Grundstücksverwaltungsgesellschaft GmbH & Co. Subsidiary
+         Vermie
+
+   120   HCL Technologies Holding UK Limited                    Subsidiary
+
+   121   Zeenea SAS                                             Subsidiary
+
+   122   HCLTech Public Sector Solutions Inc.                   Subsidiary
+
+   123   HCL Technologies Middle East LLC (Incorporated on 30 Subsidiary
+         March 2026)
+
+   124   FINERGIC SOLUTIONS PTE. LTD. (Acquired on 6 March Subsidiary
+         2026)
+
+   125   FINERGIC CONSULTING PTE. LTD. (Acquired on 6 March Subsidiary
+         2026)
+
+   126   FINERGIC Luxembourg S.A. (Acquired on 6 March 2026)    Subsidiary
+
+   127   Wobby BV (Acquired on 20 February 2026)                Subsidiary
+
+   128   HCL Technologies Holdings GmbH (Incorporated on 5 Subsidiary
+         February 2026)
+
+
+
+
+                                                                               Page 8 of 8
+
+                                                                                                 Building No. 10, 12th Floor, Tower-C
+B S R & Co. LLP                                                                                  DLF Cyber City, Phase - II
+                                                                                                 Gurugram - 122 002, India
+Chartered Accountants                                                                            Tel: +91 124 719 1000
+                                                                                                 Fax: +91 124 235 8613
+
+
+
+
+                                                                                           Independent Auditors’ Report
+To the Board of Directors of HCL Technologies Limited
+Report on the audit of the Standalone Annual Financial Results
+
+Opinion
+
+We have audited the accompanying standalone annual financial results of HCL Technologies Limited
+(hereinafter referred to as the “Company”) for the year ended 31 March 2026, attached herewith, being
+submitted by the Company pursuant to the requirement of Regulation 33 of the Securities and Exchange
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing
+Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid standalone annual financial results:
+a.     are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+       regard; and
+b.     give a true and fair view in conformity with the recognition and measurement principles laid down in
+       the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+       India, of the net profit and other comprehensive loss and other financial information for the year ended
+       31 March 2026.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results section of our
+report. We are independent of the Company, in accordance with the Code of Ethics issued by the Institute
+of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of
+the financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled
+our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We
+believe that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our
+opinion on the standalone annual financial results.
+
+Management’s and Board of Directors’ Responsibilities for the Standalone Annual Financial
+Results
+
+These standalone annual financial results have been prepared on the basis of the standalone annual
+financial statements.
+The Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these standalone annual financial results that give a true and fair view of the net profit/
+loss and other comprehensive income and other financial information in accordance with the recognition
+and measurement principles laid down in Indian Accounting Standards prescribed under Section 133 of
+the Act and other accounting principles generally accepted in India and in compliance with Regulation 33
+of the Listing Regulations. This responsibility also includes maintenance of adequate accounting records
+in accordance with the provisions of the Act for safeguarding of the assets of the Company and for
+preventing and detecting frauds and other irregularities; selection and application of appropriate
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were operating effectively
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and
+
+                                                                                                      Registered Office:
+
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a      14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013   Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+                                                                                                                                                       Page 1 of 3
+
+B S R & Co. LLP
+
+                                                Independent Auditor’s Report (Continued)
+                                                                        HCL Technologies Limited
+presentation of the standalone annual financial results that give a true and fair view and are free from
+material misstatement, whether due to fraud or error.
+In preparing the standalone annual financial results, the Management and the Board of Directors are
+responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable,
+matters related to going concern and using the going concern basis of accounting unless the Board of
+Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative
+but to do so.
+The Board of Directors is responsible for overseeing the Company’s financial reporting process.
+
+Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results
+
+Our objectives are to obtain reasonable assurance about whether the standalone annual financial results
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone annual financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+–   Identify and assess the risks of material misstatement of the standalone annual financial results,
+    whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+    obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+    not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+    as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+    internal control.
+–   Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+    that are appropriate in the circumstances. Under Section 143(3) (i) of the Act, we are also responsible
+    for expressing our opinion through a separate report on the complete set of financial statements on
+    whether the company has adequate internal financial controls with reference to financial statements
+    in place and the operating effectiveness of such controls.
+–   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+    estimates and related disclosures in the standalone annual financial results made by the Management
+    and Board of Directors.
+–   Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going
+    concern basis of accounting and, based on the audit evidence obtained, whether a material
+    uncertainty exists related to events or conditions that may cast significant doubt on the
+    appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+    to draw attention in our auditor’s report to the related disclosures in the standalone annual financial
+    results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+    the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+    may cause the Company to cease to continue as a going concern.
+–   Evaluate the overall presentation, structure and content of the standalone annual financial results,
+    including the disclosures, and whether the standalone annual financial results represent the
+    underlying transactions and events in a manner that achieves fair presentation.
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+
+                                                                                                     Page 2 of 3
+
+     B S R & Co. LLP
+
+                                                 Independent Auditor’s Report (Continued)
+                                                                        HCL Technologies Limited
+     Other Matter
+
+a.      The standalone annual financial results include the results for the quarter ended 31 March 2026 being
+        the balancing figure between the audited figures in respect of the full financial year and the published
+        unaudited year to date figures up to the third quarter of the current financial year which were subject
+        to limited review by us.
+
+
+                                                                                       For B S R & Co. LLP
+                                                                                     Chartered Accountants
+                                                             Firm’s Registration No.:101248W/W-100022
+
+
+
+
+                                                                                             Rakesh Dewan
+                                                                                                       Partner
+     Gurugram                                                                     Membership No.: 092212
+     21 April 2026                                                            UDIN:26092212FBSGYI2080
+
+
+
+
+                                                                                                   Page 3 of 3
+
+                                                                HCL TECHNOLOGIES LIMITED
+                                                  Corporate Identity Number: L74140DL1991PLC046369
+                                           Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                            Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                   Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Consolidated Statement of Financial Results of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                                    (t in crores)
+                                                                                                                 Three months ended                         Year ended
+                                                                                                          31March   31December     31March             31March     31March
+                                               Particulars                                                  2026        2025         2025                2026        2025
+                                                                                                          (Audited}       !Unaudited}     (Audited}    (Audited}      (Audited}
+  I     Revenue
+        Revenue from operations                                                                               33,981            33,872       30,246      130,144         117,055
+        Other income                                                                                             322               385          449        1,530           2,485
+        Total income                                                                                          34,303            34,257       30,695      131,674         119,540
+  II    Expenses
+        Purchase of stock-in-trade                                                                               719               841          514        2,715           1,976
+        Otanges in inventories of stock-in-trade                                                                 (10)              (69)         (25)        (106)             52
+        Employee benefits expense                                                                             19,377            18,867       17,246       74,143          66,755
+        Outsourcing costs                                                                                      5,034             4,775        3,999       18,422          15,162
+        Finance costs                                                                                            240              205           156          869             644
+        Depreciation and amortization expense                                                                  1,092             1,127        1,040        4,355           4,084
+        Other expenses                                                                                         2,149             2,046        2,030        8,218           7,606
+        Total expenses                                                                                        28,601            27,792       24,%0       108,616          %,279
+ III    Profit before exceptional item and tax                                                                 5,702             6,465        5,735       23,D58          23,261
+
+ IV     Exceptional Item
+        One time impact of New labour Codes (refer note 3)                                                            -           956             -          956               -
+
+  V     Profit before tax                                                                                      5,702             5,509        5,735       22,102          23?1.1
+
+ VI     Tax expense
+        Current tax                                                                                            1,059             1,376        1,489        5,105           5,161
+        Deferred tax charge (credit)                                                                             153                51          (63          345             701
+        Total tax expense (refer note 3)                                                                       1,212             1,427        1,426        5,450           5,862
+ VII    Profit for the period/ year (refer note 5)                                                             4,490             4,082        4,309       16,652          17,399
+ VIII   Other comprehensive income (loss)
+ (A)    (i) Items that will not be reclassified to statement of profit and loss                                 (571)               44           54         (559)             (1)
+        (ii) Income tax relating to items that will not be reclassified to statement of profit and loss          147               (11)         (16)         148              20
+ (B)    (i) Items that will be reclassified to statement of profit and loss                                    1,103              578           594        3,633             681
+        (ii) Income tax relating to items that will be reclassified to statement of profit and loss              237               23           (40)         487               5
+        Total other comprehensive income (loss), net of tax                                                      916               634          592        3,709             705
+ IX     Total comnrehensive income for the period/ vear                                                        5,406             4,716        4,901       20,361          18,104
+        Profit (loss) for the period/ year attributable to
+        Owners of the Company                                                                                  4,488             4,076        4,307       16,642          17,390
+        Non-<:ontrolling interest                                                                                  2                 6            2           10               9
+                                                                                                               4,490             4,082        4,309       16,652          17,399
+        Other comprehensive income (loss) for the period/ year attributable to
+        Owners of the Company                                                                                   914               634           591        3,705             704
+        Non-<:ontrolling interest                                                                                 2                  -            1            4               1
+                                                                                                                916               634           592        3,709             705
+        Total comprehensive income (loss) for the period/ year attributable to
+        Owners of the Company                                                                                  5,402             4,710        4,898       20,347          18,094
+        Non-<:ontrolling interest                                                                                  4                 6            3           14              10
+                                                                                                               5,406             4,716        4,901       20,361          18,104
+
+        Paid-up equity share capital (Face value 't 2 each)                                                     543               543           543          543             543
+        Other equity attributable to owners of the Company                                                                                                74,622          69,112
+
+        Earnings per equity share of 't 2 each
+        Basic   (in 't)                                                                                        16.59             15.06        15.90        61.46           64.16
+        Diluted (in 't)                                                                                        16.56             15.05        15.88        61.36           64.09
+
+        Dividend per equity share of 't 2 each
+        Interim dividend paid (in 't)                                                                            12                12            12           54              54
+        Special interim dividend paid (in 't)                                                                         -              -            6            -               6
+        Total dividend uaid (in 'tl                                                                              12                12            18           54              60
+
+                                                   HCL TECHNOLOGIES LIMITED
+                                             Corporate Identity Number: L74140DL1991PLC046369
+                                      Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                       Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                              Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Segment Information of Consolidated Financial Results as per Ind AS :
+                                                                                                                                   ('l: in crores)
+                                                                            Titree months ended                           Year ended
+
+                        Particulars                         31 March           31 December         31March         31March          31March
+                                                              2026                 2025              2025            2026             2025
+                                                            (Audited)           (Unaudited)        (Audited)       (Audited)        (Audited)
+Revenue from operations from external customers
+     IT and Business Services                                    25,443                  24,504         22,186          96,094              86,438
+     Engineering and R&D services                                 5,783                   5,676          5,162          22,056              18,960
+     HCL Software                                                 2,755                   3,692          2,898          11,994              11,657
+Total                                                            33,981                  33,872         30,246         130,144             117,055
+
+Inter-segment revenue
+     IT and Business Services                                         -                        1               -             1                       -
+     Engineering and R&D services                                     4                        3               -             7                       -
+     HCL Software                                                   102                       99           110             403                  392
+Total                                                               106                    103             110             411                  392
+
+Segment revenues
+     IT and Business Services                                    25,443                  24,505         22,186          96,095              86,438
+     Engineering and R&D services                                 5,787                   5,679          5,162          22,063              18,960
+     HCL Software                                                 2,857                   3,791          3,008          12,397              12,049
+     Inter-segment elimination                                     (106)                   (103)          (110)           (411)               (392)
+Total                                                            33,981                  33,872         30,246         130,144             117,055
+
+
+Segment results
+     IT and Business Services                                     4,149                   4,016          3,778          15,390              14,7%
+     Engineering and R&D services                                   900                     943            928           3,703               3,415
+     HCL Software                                                   571                   1,326            736           3,304               3,209
+Total                                                             5,620                   6,285          5,442          22,397              21,420
+
+
+     One-time impact of New Labour Codes                                -                  (956)               -          (956)                      -
+     Unallocable expenses                                          (240)                   (205)          (161)           (869)                (558)
+     Other income                                                   322                     385            454           1,530                2,399
+Profit before tax                                                 5,702                   5,509          5,735          22,102              23,261
+     Tax expense                                                  (1,212)                (1,427)         (1,426)         (5,450)             (5,862)
+Profit for the period/ year                                       4,490                   4,082          4,309          16,652              17,399
+
+
+Note:
+
+Assets and liabilities are not identified to any reportable segments, since these are used interchangeably across segments and
+consequently, the management believes that it is not practicable or meaningful to provide segment disclosures relating to total assets
+and liabilities.
+
+                                                        HCL TECHNOLOGIES LIMITED
+                                             Corporate Identity Number: L74140DL1991PLC046369
+                                      Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                       Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                              Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+Consolidated Balance Sheet of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                             (~ in crores)
+                                                                                                            Asat                Asat
+                                                      Particulars                                       31 March 2026       31 March 2025
+                                                                                                          (Audited)           (Audited)
+ I.   ASSETS
+      (1) Non-current assets
+          (a) Property, plant and equipment                                                                         4,657             4,501
+          (b) Capital work in progress                                                                                 60                59
+          (c) Right-of-use assets                                                                                   3,592             3,016
+          (d) Goodwill                                                                                             23,888            21,756
+          (e) Other intangible assets                                                                               5,160             6,899
+          (f) Intangible assets under development                                                                      82                    -
+          (g) Financial assets
+                 (i) Investments                                                                                      130                91
+                 (ii) Trade receivables - unbilled                                                                    601             1,022
+                 (iii) Loans                                                                                           50               586
+                 (iv) Others                                                                                        3,585             2,212
+          (h) Deferred tax assets (net)                                                                             1,146             1,064
+          (i) Other non..:urrent assets                                                                             2,765             2,229
+          Total non..:urrent assets                                                                                45,716            43,435
+
+      (2) Current assets
+          (a) Inventories                                                                                            239                133
+          (b) Financial assets
+                (i) Investments                                                                                     6,960             7,473
+                (ii) Trade receivables
+                         Billed                                                                                    23,585            19,523
+                         Unbilled                                                                                   7,956             6,319
+                (iii) Cash and cash equivalents                                                                     8,265             8,245
+                (iv) Other bank balances                                                                           15,160            13,044
+                (v) Loans                                                                                           1,017               976
+                (vi) Others                                                                                         1,626             1,589
+          (c) Current tax assets (net)                                                                                226               148
+          (d) Other current assets                                                                                  5,508             4,659
+          Total current assets                                                                                     70,542            62,109
+          TOTAL ASSETS                                                                                            116,258           105,544
+  II. EQUITY
+          (a) Equity share capital                                                                                    543               543
+          (b) Other equity                                                                                         74,622            69,112
+                Equity attributable to owners of the Company                                                       75,165            69,655
+                Non..:ontrolling interest                                                                              32                18
+      TOTAL EQUITY                                                                                                 75197             69,673
+ IIL LIABILITIES
+      (1) Non-current liabilities
+          (a) Financial liabilities
+                (i) Borrowings                                                                                         37                70
+                (ii) Lease liabilities                                                                              3,180             2,638
+                (iii) Others                                                                                        1,401               464
+          (b) Contract liabilities                                                                                  1,162             1,059
+          (c) Provisions                                                                                            2,001             1,920
+          (d) Deferred tax liabilities (net)                                                                        1,381             1,615
+          (e) Other non-current liabilities                                                                            73                66
+          Total non-current liabilities                                                                             9,235             7,832
+
+      (2) Current liabilities
+          (a) Financial liabilities
+                (i) Borrowings                                                                                        122             2,221
+                (ii) Lease liabilities                                                                              1,876             1,347
+                (iii) Trade payables
+                         Billed                                                                                     3,726             3,016
+                         Unbilled                                                                                   3,980             3,209
+                (iv) Others                                                                                         9,228             7,009
+          (b) Contract liabilities                                                                                  5,053             4,657
+          (c) Other current liabilities                                                                             2,315             2,278
+          (d) Provisions                                                                                            1,664             1,487
+          (e) Current tax liabilities (net)                                                                         3,862             2,815
+          Total current liabilities                                                                                31,826            28,1139
+          TOTAL LIABILITIES                                                                                        41,061            35,871
+          TOTAL EQUITY AND LIABILITIES                                                                            116,258           105,544
+
+                                                               HCL TECHNOLOGIES LIMITED
+                                                Corporate Identity Number: L74140DL1991PLC046369
+                                         Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                          Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                 Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Consolidated Statement of Cash Flows of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                       (!! in crores)
+                                                                                                                                          Year ended
+                                                          Particulars                                                       31 March 2026              31 March 2025
+                                                                                                                              (Audited)                  (Audited)
+A. Cash flows from operating activities
+Profit before tax                                                                                                                           22,102                23,261
+Adjustment for:
+Depreciation and amortization expense                                                                                                        4,355                    4,084
+Interest income                                                                                                                             (1,542)                  (1,567)
+Provision for doubtful debts / bad debts written off (net)                                                                                     107                       15
+Income on investments earned at fair value through profit and loss                                                                            (192)                    (195)
+Profit on sale of debt securities                                                                                                               (2)                       -
+Interest expense                                                                                                                              434                      336
+(Profit) loss on sale of property, plant and equipment (net)                                                                                    4                      (10)
+Share based payments to employees                                                                                                             478                      218
+Divestment in subsidiaries                                                                                                                       -                    (574)
+Other non-cash char2:es /net)                                                                                                                 /171)                  /74
+                                                                                                                                            25,573                25,494
+Net change in
+Trade receivables                                                                                                                           (2,248)                 (119)
+Inventories                                                                                                                                    (59)                   77
+Other financial assets and other assets                                                                                                         86                  (225)
+Trade payables                                                                                                                                 736                   249
+Other financial liabilities, contract liabilities, orovisions and other liabilities                                                            /37l                1,028
+Cash generated from operations                                                                                                              24,0Sl                26,504
+Income taxes naid /net of refunds)                                                                                                          /4076)                /4243
+Net cash flow from oJ'.)l!rating activities                   (Al                                                                           19,975                22,261
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles                                                                                  (1,422)                (1,108)
+Proceeds from sale of property, plant and equipment                                                                                            23                     25
+Payments for business acquisitions, net of cash acquired                                                                                     (159)                (1,982)
+Investments in bank deposits                                                                                                              (17,350)               (15,442)
+Proceeds from bank deposits                                                                                                                15,164                 12,622
+Deposits placed with body corporates                                                                                                         (480)                (1,512)
+Proceeds from deposits placed with body corporates                                                                                            975                  1,030
+Purchase of investments in securities                                                                                                     (48,685)               (43,861)
+Proceeds from sale/maturity of investments in securities                                                                                   49,369                 43,711
+Investment in equity instruments                                                                                                               (8)                    (4)
+Distribution from limited liability partnership                                                                                                 3                      4
+Divestment in subsidiaries, net of cash                                                                                                          -                   687
+Interest received                                                                                                                            1,430                 1,322
+Income taxes naid                                                                                                                             /333)                 /406
+Net cash flow used in investing activities               (Bl                                                                                (1,473)               (4,914
+
+C. Cash flows from financing activities
+Repayment of long term borrowings                                                                                                           (2,305)                     (84)
+Proceeds from short term borrowings                                                                                                           318                       377
+Repayment of short term borrowings                                                                                                            (321)                   (374)
+Payments for deferred and contingent consideration on business acquisitions                                                                     (1)                     (50)
+Acquisition of treasury shares                                                                                                                (711)                   (676)
+Dividend paid                                                                                                                             (14,618)               (16,250)
+Interest paid                                                                                                                                  (46)                     (51)
+Payment of lease liabilities including interest                                                                                             (1,685)                  (1,453)
+Net cash flow used in financing activities                    (q                                                                          (19,369)               (18,561)
+
+
+Net decrease in cash and cash equivalents (A+B+q                                                                                              (867)                  (1,214)
+Effect of exchange differences on cash and cash equivalents held in foreign currency                                                           817                      18
+Cash and cash equivalents at the beginning of the year                                                                                       8,245                   9,441
+Cash and cash equivalents at the end of the year                                                                                             8,195                   8,245
+Notes:
+1. The total amount of income taxes paid is f 4,409 crores ( 31 March 2025 f 4,649 crores).
+2. Cash and cash equivalents includes earmarked balances with banks off 53 crores ( 31 March 2025 f 19 crores) which is of restricted use and Bank overdraft off (70)
+   crores (31 March 2025 Nil).
+
+                                                                  HCL TECHNOLOGIES LIMITED
+                                                   Corporate Identity Number: L74140DL1991PLC046369
+                                            Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                             Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                    Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+
+Standalone Statement of Financial Results of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                                                                            (f in erores)
+                                                                                                                  Three months ended                            Year ended
+                                                                                                 31March            31December          31March            31March      31March
+                                         Particulars                                               2026                 2025              2025               2026          2025
+                                                                                                 /Audited\           /Unaudited\        /Audited\          /Audited\          /Audited\
+  I     Revenue
+        Revenue from operations                                                                       12,890                15,239            13,432            55,031            51,105
+        Other income                                                                                   1,245                   291               285             2,205             1,234
+        Total income                                                                                  14,135                15,530            13,717            57,236            52,339
+
+  II    Expenses
+        Purchase of stock-in-trade                                                                        35                    36                41               127               133
+        Otanges in inventories of stock-in-trade                                                           4                    (5)               (2)                   -             13
+        Employee benefits expense                                                                      6,492                 6,483             5,860            25,323            22,414
+        Outsourcing costs                                                                              2,136                 2,389             2,218             8,852             7,437
+        Finance costs                                                                                     29                    63                41               243               156
+        Depreciation and amortization expense                                                            555                   630               577             2,316             2,320
+        Other expenses                                                                                   959                   946               905             3,670             3,392
+        Total expenses                                                                                10,210                10,542             9,640            40,531            35,865
+ III    Profit before exceptional items and tax                                                        3,925                 4,988             4,077            16,705            16,474
+
+ IV     Exceptional Items
+        One-time impact of New Labour Codes (refer note 3)                                                    -                948                    -            948                 -
+        One-time impact of a material Bilateral Advance Pricing Agreement (BAPA)
+        (refer note 4)
+                                                                                                       5,733                        -                 -          5,733                 -
+  V     Profit (loss) before tax                                                                      (1,808)                4,040             4,077            10,024            16,474
+
+ VI     Tax expense
+        Current tax expense (credit)                                                                    (326)                  981             1,027             2,743             3,344
+        Deferred tax charge (credit)                                                                    (582                    77                 5              (346)              864
+        Total tax expense (refer note 3 and 4)                                                          (908'                1,058             1,Q32             2,397             4,208
+
+ vu     Profit (loss) for the period/ year (refer note 5)                                               (900)                2,982             3,Q45             7,627            12,266
+
+ VIII   Other comprehensive income (loss)
+ (A)    (i) Items that will not be reclassilied to statement of profit and loss                         (583)                   43                   54           (577)                6
+        (ii) Income tax relating to items that will not be reclassified to statement of profit           147                   (11)                 (16)           148                20
+        and loss
+ (B)    (i) Items that will be reclassified to statement of profit and loss                             (922)                  (86)                 177          (1,872)            (112)
+        (ii) Income tax relating to items that will be reclassified to statement of profit               236                    23                  (40)            486                5
+        and loss
+        Total other comprehensive income (loss), net of tax                                           11122                    /31\              175             /1.815\             /811
+ IX     Total comurehensive income (loss) for the period/ vear                                        (2,Q22                 2,951             3,220              5,812           12,185
+
+        Paid-up equity share capital (Face value ;: 2 each)                                              543                   543                543              543               543
+        Other equity                                                                                                                                            25,355            34,397
+
+        Earnings per equity share of ;: 2 each
+        Basic   (in 'fl                                                                                (3.33)                11.02             11.24             28.17             45.25
+        Diluted (in 't)                                                                                (3.33)                11.01             11.23             28.12             45.21
+
+        Dividend per equity share of 't 2 each
+        Interim dividend paid (in 'fl                                                                        12                    12                12                54             54
+        Special interim dividend paid (in 'fl                                                                 -                     -                 6                 -              6
+        Total dividend uaid /in 'ti                                                                          12                    12                18                54             60
+
+                                                          HCL TECHNOLOGIES LIMITED
+                                              Corporate Identity Number: L74140DL1991PLC046369
+                                       Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019
+                                        Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                               Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+Standalone Balance Sheet of HCL Technologies Limited as per Ind AS:
+
+                                                                                                                              (? in crores)
+                                                                                                          Asat                  Asat
+                                                      Particulars                                     31 March 2026         31 March 2025
+                                                                                                        /Audited!             /Audited!
+  I.    ASSETS
+        (1) Non-current assets
+            (a) Property, plant and equipment                                                                       2,931                 2,931
+            (b) Capital work in progress                                                                               14                    29
+            (c) Right-of-use assets                                                                                 1,155                 1,192
+            (d) Goodwill                                                                                            7,226                 7,215
+            (e) Other intangible assets                                                                             3,517                 4,880
+            (t) Intangible assets under development                                                                    82                     -
+            (g) Financial assets
+                  (i) Investments                                                                                   5,015                 4,960
+                  (ii) Trade receivables - unbilled                                                                    33                   291
+                  (iii)Loans                                                                                            -                   586
+                  (iv) Others                                                                                         510                 1,057
+            (h) Other non-current assets                                                                              291                   327
+           Total non-current assets                                                                                20,774              23,468
+
+        (2) Current assets
+            (a) Inventories                                                                                           12                    12
+            (b) Financial assets
+                  (i) Investments                                                                                   6,531                 7,357
+                  (ii) Trade receivables
+                         Billed                                                                                     5,529               3,622
+                         Unbilled                                                                                   7,890              11,063
+                  (iii) Cash and cash equivalents                                                                     601                 592
+                  (iv) Other bank balances                                                                          3,193               3,847
+                  (v) Loans                                                                                           676                 714
+                  (vi) Others                                                                                         631                 785
+            (c) Current tax assets (net)                                                                                1                   4
+            (d) Other current assets                                                                                1,136               1,039
+           Total current assets                                                                                    26,200              29,(135
+           TOTAL ASSETS                                                                                            46,974              52,503
+
+  II.   EQUITY
+            (a) Equity share capital                                                                                 543                 543
+            (b) Other equity                                                                                       25355               34397
+           TOTALEQUITY                                                                                             25,898              34,940
+
+ IIL    LIABILITIES
+        (1) Non-current liabilities
+            (a) Financial liabilities
+                  (i) Borrowings                                                                                        3                    11
+                  (ii) Lease liabilities                                                                              675                   754
+                  (iii) Others                                                                                      1,048                    17
+            (b) Contract liabilities                                                                                  103                   68
+            (c) Provisions                                                                                          1,232                 1,291
+            (d) Deferred tax liabilities (net)                                                                        343                 1,321
+            (e) Other non-current liabilities                                                                          73                    66
+           Total non-current liabilities                                                                            3,477                 3,528
+
+        (2) Current liabilities
+            (a) Financial liabilities
+                  (i) Borrowings                                                                                        7                    15
+                  (ii) Lease liabilities                                                                              303                   261
+                  (iii) Trade payables
+                     Billed
+                     1. Dues of micro enterprises and small enterprises                                                13                    12
+                     2. Dues of creditors other than micro enterprises and small enteiprises                        5,193                 2,116
+                     Unbilled                                                                                       3,913                 1,745
+                  (iv)Others                                                                                        2,650                 1,889
+            (b) Contract liabilities                                                                                2,372                 5,088
+            (c) Other current liabilities                                                                             565                   549
+            (d) Provisions                                                                                            388                   388
+            (e) Current tax liabilities (net)                                                                       2,195                 1,972
+           Total current liabilities                                                                            17,599                 14,(135
+           TOTAL LIABILITIES                                                                                    21,(176                17,563
+           TOTAL EQUITY AND LIABILITIES                                                                         46,974                 52,503
+
+                                                                   UCL TECHNOLOGIES LIMITED
+                                                  Corporate Identity Number: L74140DL1991PLC046369
+                                           Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                            Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                                   Website: www.hcltech.com; Telephone: +9111 26436336; Email: investors@hcltech.com
+
+
+
+Standalone Statement of Cash Flows of HCL Technologies Limited as per Ind AS:
+                                                                                                                                                        (< in erores)
+                                                                                                                                               Year ended
+                                                                   Particulars                                                       31MaICh2026        31MaICh2025
+                                                                                                                                       /Audited)          /Audited)
+A. Cash flows from operating activities
+Profit before tax                                                                                                                             10,024                16,474
+Adjustment for:
+Depreciation and amortization expense                                                                                                          2,316                    2,320
+Interest income                                                                                                                                 (861)                    (867)
+Dividend income from subsidiaries                                                                                                             (1,077)                    (109)
+Provision for doubtful debts / bad debts written off (net)                                                                                       (56)                     (31)
+Income on investments earned at fair value through profit and loss                                                                              (161)                    (183)
+Profit on sale of debt securities                                                                                                                 (2)                       -
+Interest expense                                                                                                                                 124                   138
+Profit on sale of property, plant and equipment (net)                                                                                             (9)                   (9)
+Share based payments to employees                                                                                                                113                    62
+Other non-cash charges (net)                                                                                                                      (1)                  (15
+                                                                                                                                              10,410                17,780
+Net change in
+Trade receivables                                                                                                                              1,707                (2,599)
+Inventories                                                                                                                                        -                    17
+Other financial assets and other assets                                                                                                          189                   362
+Trade payables                                                                                                                                 5,162                 1,507
+Other financial liabilities, contract liabilities, orovisions and other liabilities                                                           /3,078)                1,629
+Cash generated from operations                                                                                                                14,390                18,696
+Income taxes paid (net of refunds)                                                                                                            (2,261)               (2,705
+Net cash flow from ODl!ratinl! activities                      /Al                                                                            12,129                15,991
+
+B. Cash flows from investing activities
+Purchase of property, plant and equipment and intangibles                                                                                       (735)                 (461)
+Proceeds from sale of property, plant and equipment                                                                                               20                    22
+Payments for business acquisitions, net of cash acquired                                                                                           -                (1,358)
+Investments in bank deposits                                                                                                                  (2,742)               (4,464)
+Proceeds from bank deposits                                                                                                                    3,847                 6,959
+Deposits placed with body corporates                                                                                                             (90)               (1,251)
+Proceeds from deposits placed with body corporates                                                                                               714                 1,030
+Purchase of investments in securities                                                                                                        (47,701)              (43,059)
+Proceeds from sale/ maturity of investments in securities                                                                                     48,669                42,765
+Excess of cost over fair value reimbursed for treasury shares by direct and indirect subsidiaries                                                 33                    85
+Investment in equity instruments                                                                                                                  (8)                   (5)
+Investment in subsidiaries                                                                                                                       (80)                       -
+Dividend received from subsidiaries                                                                                                            1,077                      109
+Interest received                                                                                                                                663                      801
+Income taxes vaid                                                                                                                               /147)                    /180
+Net cash flow from investing activities            (Bl                                                                                         3,520                      993
+
+C. Cash flows from financing activities
+Repayment of long term borrowings                                                                                                                (13)                  (30)
+Proceeds from short term borrowings                                                                                                              318                   377
+Repayment of short term borrowings                                                                                                              (321)                 (374)
+Acquisition of treasury shares                                                                                                                  (711)                 (676)
+Dividend paid                                                                                                                                (14,618)              (16,250)
+Interest paid                                                                                                                                     (2)                    (3)
+Pavment of lease liabilities including interest                                                                                                 (334)                 (297)
+Net cash flow used in financinl! activities                  /Cl                                                                             (15,681)              (17,253'
+
+
+Net decrease in cash and cash equivalents (A+B+q                                                                                                (32)                     (269)
+Effect of exchange differences on cash and cash equivalents held in foreign currency                                                             41                        24
+Cash and cash eouivalents at the bemnn;no- of the vear                                                                                          592                       837
+Cash and cash eauivalents at the end of the vear                                                                                                601                       592
+Notes:
+1     The total amount of income taxes paid is< 2,408 crores (31 March 2025 'I' 2,885 crores).
+2    Cash and cash equivalents includes earmarked balances with banks of <22 crores (31 March 2025 <19 crores) which is of restricted use.
+
+                                                  HCL TECHNOLOGIES LIMITED
+                                         Corporate Identity Number: L74140DL1991PLC046369
+                                  Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019
+                                   Corporate Office: Plot No. 3A, Sector 126, Noida 201 304, U.P., India
+                          Website: www.hcltech.com; Telephone: +91 11 26436336; Email: investors@hcltech.com
+Notes:
+
+1   The consolidated and the standalone financial results for the three months and year ended 31 March 2026 were reviewed by the Audit
+    Committee and have been approved and taken on record by the Board of Directors at its meeting held on 21 April 2026. The statutory
+    auditors have issued unmodified audit report on these results.
+
+2   The Board of Directors at its meeting held on 21 April 2026 has declared an interim dividend of 124 per share.
+
+3   One-time impact of New Labour Codes : Effective 21 November 2025, The Government of India has consolidated multiple existing labour
+    legislations into a unified framework comprising four Labour Codes collectively referred to as the 'New Labour Codes'. Under Ind AS 19,
+    changes to employee benefit plans arising from legislative amendments constitute a plan amendment, requiring recognition of past service
+    cost immediately in the statement of profit and Loss. The New Labour Codes has resulted in estimated one time increase in provision for
+    employee benefits of the Group and the Company of 1 956 crores and 1 948 crores (along with consequential tax benefit of 1 237 crores and
+    1235 crores, resulting in decrease in profit after tax by 1719 crores and 1713 crores), respectively and the same has been recognized as an
+    employee benefit expense (exceptional item) in the three months period ended 31 December 2025 and year ended 31 March 2026. The
+    Government is in the process of notifying related rules to the New Labour Codes and impact of these will be evaluated and accounted for in
+    accordance with applicable accounting standards in the period in which they are notified.
+
+4   One-time impact of a material Bilateral Advance Pricing Agreement (BAPA) on Standalone financial results: During the current quarter,
+    the Company concluded a Bilateral Advance Pricing Agreement (BAPA) with a tax authority in foreign jurisdiction covering certain prior
+    financial years in relation to transaction with its wholly owned subsidiary. While the substantive terms and conditions have been mutually
+    agreed, the Company is in the process of completing the formalization of the BAPA with the foreign jurisdiction.
+
+    Consequent to above, the Company recognised an incremental impact of 16,436 crores during the quarter ended 31 March 2026, comprising
+    15,733 crores pertaining to periods up to 31 March 2025, as an exceptional item and 1703 crores pertaining to the nine months ended 31
+    December 2025, as a reduction from revenue from operations, with a corresponding adjustment in the wholly owned subsidiary.
+
+    The above expense has resulted in a tax benefit of 11,531 crores during the quarter ended 31 March 2026 which includes 11,317 crores for the
+    period upto 31 March 2025 and 1214 crores for the nine months ended 31 December 2025.
+
+    Accordingly, the net impact has resulted in a decrease in profit after tax of 14,905 crores for the quarter ended 31 March 2026 which includes
+    14,416 crores for the period upto 31 March 2025 and 1489 crores for the nine months ended 31 December 2025.
+
+5   Profit (loss) for the period/year, excluding one-time impacts of New Labour Codes and material BAPA and related tax impact,
+
+    a. For the Group is 14,801 crores for the quarter ended 31 December 2025; and 117,371 crores for the year ended 31 March 2026.
+
+    b. For the Company is 1 4,005 crores for the quarter ended 31 March 2026; 1 3,695 crores for the quarter ended 31 December 2025; and
+       112,756 crores for the year ended 31 March 2026.
+
+6   Financial results for all the periods presented have been prepared in accordance with the Companies (Indian Accounting Standards) Rules,
+    2015 (as amended from time to time) prescribed under Section 133 of the Companies Act, 2013 and other recognised accounting practices
+    and policies to the extent applicable.
+
+7   The figures of the last quarter are the balancing figures between audited figures in respect of the full financial year up to 31 March 2026 and
+    the unaudited published year-to-date figures up to 31 December 2025 being the date of the end of the third quarter of the financial year
+    which were subjected to a limited review.
+
+8   As per Ind AS 108 'Operating Segments', the Company has disclosed the segment information only as part of the consolidated financial
+    results.
+
+
+    By the order of the Board of Directors for HCL Technologies Limited
+
+
+     ROSHNI Digitally signed              VIJAYA    Digitally signed                                                  Digitally signed
+             byROSHNI
+     NADAR NADAR                                    by VIJAYA KUMAR
+                                                                                                         SHIV         by SHIV KUMAR
+                                          KUMAR
+     MALHOTR MALHOTRA
+                  Date: 2026.04.21
+                                                    CHINNASWAMY
+                                          CHINNASWA Date: 2026.04.21
+                                                                                                         KUMARi;~:A
+     A            17:18:13 +05'30'                                                                       WALIA ~~~~~:~05•30•
+                                          MY                17:17:36 +05'30'
+
+    Roshni Nadar Malhotra                C. Vijayakumar                                                   ShivWalia
+    Chairperson                          Chief Executive Officer and Managing Director                    Chief Financial Officer
+    DIN - 02346621                       DIN - 09244485
+
+
+
+    Noida (UP), India
+    21 April 2026
+

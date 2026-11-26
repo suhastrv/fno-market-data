@@ -1,0 +1,1589 @@
+November 05, 2026
+
+BSE Limited                                                             National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                                              Exchange Plaza, 5th Floor, Plot No. C/1
+Dalal Street,                                                           G Block, Bandra-Kurla Complex, Bandra (E)
+Mumbai - 400 001, Maharashtra, India                                    Mumbai - 400 051, Maharashtra, India
+Scrip Code: 544174                                                      Symbol: TBOTEK
+
+Sub: Transcript of the Investor Earnings Conference Call
+
+Ref: - Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 (‘Listing Regulations’)
+
+Dear Sir/ Ma’am,
+
+In continuation to our intimation dated October 28, 2026, and pursuant to Regulation 30 of the Listing
+Regulations, please find enclosed the transcript of the Earnings Conference Call held on Tuesday,
+November 03, 2026, on Unaudited Standalone and Consolidated Financial Results (“Results”) of the
+Company for the quarter and half year ended on September 30, 2026.
+
+This disclosure will also be available on the website of                                                       the      Company             at
+https://www.tbo.com/engagement/investors/#StockExchangeSubmission
+
+This is for your information and records.
+
+Thanking you,
+
+Yours faithfully
+For and on behalf of TBO Tek Limited
+        Digitally signed by NEERA CHANDAK
+
+
+NEERA
+        DN: C=IN, CN=NEERA CHANDAK,
+        O=Personal, ST=Uttar Pradesh,
+        postalCode=201014, serialNumber=
+        231b3bb4812657f595408f563f07bfa8f
+        bcc0e761114bf2e14710f31518a9c21,
+
+
+ CHAN
+        telephoneNumber=
+        74a2e504f6076ef4a0771395e169d68e
+        c6fe5ecf1f403e993ddca2b040bf769b,
+        title=9317
+        Reason: I am the author of this
+
+
+  DAK
+        document
+        Location:
+        Date: 2026.11.05 14:41:35+05'30'
+
+
+
+Neera Chandak
+        Foxit PDF Editor Version: 14.0.8
+
+
+
+
+Company Secretary & Compliance Officer
+
+Encl.: As above
+
+
+
+
+                                                                                                                  TBO Tek Limited
+                                                                                                                       CIN: L74999DL2006PLC155233
+                                                                                                             ✉️ info@tbo.com |    +91 124 4998999
+                                            Registered Office Address: Unit No. 501, 5th Floor, Worldmark-4, Asset Area No. LP-IB-04, Gateway District,
+                                                                                     Aerocity, Near Indira Gandhi International Airport, New Delhi – 110037
+                                                       Corporate Office Address: Plot No. 728, Udyog Vihar Phase- V Gurgaon-122016 Haryana, India
+
+                                                                                                    Your booking experience starts at www.tbo.com
+
+                        TBO Tek Limited
+           Q2 & H1 FY27 Earnings Conference Call
+
+                      November 03, 2026
+
+
+MANAGEMENT: MR. ANKUSH NIJHAWAN - CO-FOUNDER AND JOINT MD
+            MR. GAURAV BHATNAGAR - CO-FOUNDER AND JOINT MD
+            MR. AKSHAT VERMA – WHOLE TIME DIRECTOR & CTO
+            MR. VIKAS JAIN - CHIEF FINANCIAL OFFICER
+            MR. PRAMENDRA TOMAR – GENERAL COUNSEL
+            MR. SHRESHTH MAHAJAN , ASSOCIATE DIRECTOR-INVESTOR RELATIONS
+
+
+MODERATOR:    MS. AASHVI SHAH – ADFACTORS PR: INVESTOR RELATIONS
+
+
+
+
+                             Page 1 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+Aashvi Shah:        Good evening, everyone. This is Aashvi Shah from Adfactors PR Investor
+                    Relations. On behalf of TBO Tek Limited, I would like to welcome you all
+                    to the Earnings Conference Call for Q2 and H1 FY27.
+
+
+                    Today on the call, we have with us from the management, Mr. Ankush
+                    Nijhawan, Co-Founder and Joint Managing Director, Mr. Gaurav
+                    Bhatnagar, Co-Founder and Joint Managing Director, Mr. Vikas Jain, Chief
+                    Financial Officer, Mr. Akshat Verma, Whole-Time Director and Chief
+                    Technology Officer, Mr. Pramendra Tomar, General Counsel and Mr.
+                    Shreshth Mahajan, Associate Director- Investor Relations.
+
+
+                    We will begin today's call with opening remarks from the management,
+                    following which we will open the flow for Q&A. Before we begin, I would
+                    like to remind everyone that certain statements made during this call may
+                    be forward-looking in nature. These statements are based on
+                    management's current expectations and are subject to risks and
+                    uncertainties that could cause actual results to differ materially from
+                    those expressed or implied. TBO Tek undertakes no obligation to publicly
+                    update these or revise any forward-looking statements based on
+                    subsequent events or developments.
+
+
+                    With that, I would now like to hand over the call to Mr. Gaurav Bhatnagar
+                    for his opening remarks. Thank you, and over to you, sir.
+
+
+Gaurav Bhatnagar:   Thank you, Aashvi. Good evening, everyone, and thank you for joining our
+                    Q2 & H1 FY27 Earnings Call.
+
+
+                    We are very happy to report that despite a very difficult geopolitical
+                    climate, we have been able to deliver strong double-digit growth in the
+                    core organic business as well. We have shared the numbers, but I do want
+                    to highlight that the 16% growth in GTV led to a 27% growth in adjusted
+                    EBITDA. So, we are continuing to demonstrate operating leverage for the
+                    second consecutive quarter.
+
+
+                    These numbers could be a lot stronger, and I just want to highlight a few
+                    things to demonstrate that once things start to get better, where
+
+
+
+                                    Page 2 of 32
+
+                                                          TBO Tek Limited
+                                                         November 03, 2026
+
+eventually expect the business to be. Middle East, which has been the most
+impacted market because of the ongoing conflict, also delivered 10%
+growth on constant currency basis. With currency, we are seeing a 20%
+growth, but even on constant currency, Middle East delivered a 10%
+growth, which is quite remarkable given the circumstances that we are
+operating in. The market is obviously well below its baseline from a year
+ago. Our belief is that in a market like Middle East, we are continuing to
+gain share.
+
+
+Markets like Europe and APAC have delivered north of 30% growth.
+Europe on a fairly large base, has been becoming our largest source
+market now, which again is generally a consequence of the investment we
+had done in market development starting early 2025, which is also visible
+in the number of active agents continuing to grow at a solid pace.
+
+
+While the quarter has been tough, our belief in the organic business
+remains because of the fact that the underlying metrics, which is number
+of active agents, bookings per active agent, and growth in our ancillary
+businesses all continue to point to strong revival and strong, even faster
+growth once the geopolitical climate improves.
+
+
+The other bit that I want to highlight on is Classic Vacations. We have
+completed one year of that transaction now, and have started to get a good
+grip of that business. One of the key actions we have taken in the last six
+months is that we have expanded our sales team. We have hired about 20
+new people in sales since we acquired the business. About half of them are
+in the company less than six months. In fact, probably a quarter of them
+are less than three months. About half of them are less than six months in
+the company. There is going to be some lag between when this investment
+starts to deliver results, but we have a clear idea on how we want to
+develop this business.
+
+
+The investment thesis remains strong on Classic. The opportunity with
+Classic ease our entry into the luxury end of the segment, which is where
+we want to operate in the post-AI era. Classic is also giving us
+
+
+
+                Page 3 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+                    opportunities to develop a newest corridor, which is the U.S. to Europe
+                    corridor. Our belief is that if the conflict remains, if the conflict prolongs,
+                    then probably that is one corridor which will have relatively less
+                    headwinds because of what is happening elsewhere in the world.
+
+
+                    The final bit is we are continuing to focus on operational efficiencies.
+                    While we wait for markets to revive and there is a little bit of pause on
+                    new market development at this point in time, we are continuing to invest
+                    in building or using AI and technology to automate processes, to build
+                    tools for our sales team to become more effective, and tools for our
+                    operations team to automate a fair bit of work that they do. This is one of
+                    the reasons why you will see that our constant currency SG&A growth has
+                    been high single digits and significantly outpacing our top-line growth.
+
+
+                    I will take a pause here, and we will open for questions.
+
+
+Aashvi Shah:        Thank you, sir. We will now begin the Q&A session. Participants are
+                    requested to raise their virtual hands and to ask questions. We request
+                    you to introduce yourself and the firm you represent before you ask the
+                    question. We shall wait for few moments before everyone assembles for
+                    the question que. We will take the first question from Mr. Karan Uppal.
+                    Karan, please unmute yourself and go ahead with your question.
+
+
+Karan Uppal:        Thanks for the opportunity and fairly good set of numbers. First question
+                    is on the demand environment. Gaurav, you touched upon it, but just
+                    wanted to understand that given the elevated fares in international flights
+                    as well as uncertain geopolitical and macro environment, any pullback you
+                    are seeing in the demand, given that you cater to, let us say, the premium
+                    and the luxury end of the market? Just wanted to understand from you,
+                    how are you seeing the overall demand?
+
+
+Gaurav Bhatnagar:   No, Karan, there is definitely pressure on demand, and this has actually
+                    elevated in October because October has been a very very volatile month
+                    globally, as you are aware. The crisis in Saudi with the attacks happening
+                    on Saudi airports meant that both Saudi inbound and Saudi outbound has
+                    been very badly hit. Prior bookings have also gotten canceled. On top of it,
+
+
+                                     Page 4 of 32
+
+                                                                                  TBO Tek Limited
+                                                                                 November 03, 2026
+
+                    the spread of rioting across major European cities has also been a major
+                    headwind, especially cities like Paris, Euro countries, cities like Madrid,
+                    Barcelona, Italy. These are very large leisure destinations, we are seeing
+                    increased cancellations as well as some reduction in demand over there.
+
+
+                    Yes, I think there is stress. What we are kind of aiming for is that at least in
+                    spite of these headwinds, we maintain some positive growth on the overall
+                    business irrespective of these headwinds by, one, focusing on gaining
+                    market share because we have invested in market development, and that
+                    allows us to get more penetration with travel agents.
+
+
+                    Secondly, like you said, focus on transactions. Even if demand by numbers
+                    is reducing, demand by dollar revenue is still a little bit more stable and
+                    also focusing on high-value transactions.
+
+
+Karan Uppal:        Right. But given these headwinds, how do you think H2 will shape out to
+                    you? Will H2 be lower than H1 or maybe same as H1? Any sense there?
+
+
+Gaurav Bhatnagar:   See Karan, given where things are, I think H2 is just like Q4 is just too far
+                    away right now, given the U.S. elections are tomorrow, and then who
+                    knows what happens in the next 10 days. We know that historically, Q3 is
+                    also the weakest quarter in travel, so that is just how seasonality works.
+                    So, we do expect a tough Q3 because several headwinds in the industry
+                    right now.
+
+
+                    Internally, what we are aiming for is that just still manage to deliver year-
+                    on-year growth both on top line and bottom line. That is kind of like the
+                    framework we are working with right now, with the view that if things
+                    magically become much better, which could also happen, right? Things get
+                    worse before they get better, but it is like the U.S. elections feel like an
+                    inflection point one way or the other, right?
+
+
+                    So, either it could go bad or it could get much better. If it gets much better,
+                    we would expect to see a real quick spring back in the business. But if
+                    things go far worse, then the best we are hoping for is to continue to
+                    deliver some top line and bottom-line growth.
+
+
+
+                                      Page 5 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+Karan Uppal:        Got it. Another question I had on EBITDA to GP. Operating leverage is quite
+                    visible and playing out for the last two quarters, so congratulations on
+                    that. But how should we think about it from go-forward perspective? Will
+                    this number continue to improve? Your thoughts there.
+
+
+Gaurav Bhatnagar:   One thing to be mindful is that operating leverage goes both ways, right?
+                    Q2 is our best quarter of the year. It could have been much better if the
+                    situation was not what it is, but Q2 is traditionally the high summer season
+                    for most of Northern Hemisphere. From Q1 to Q2, or here, you will see that
+                    increasing GP is flowing through nicely to bottom line. But the reverse also
+                    happens, right? For example, if Q3, which historically is always lower than
+                    Q2, then you will see the reverse also happen.
+
+
+                    In the long run, conceptually, I feel we have gotten to a point where we
+                    know that the investment in SG&A should largely be less than the growth
+                    in GP that we are anticipating. That is the broad framework if I was to say,
+                    two, four, six, eight quarters. The seasonality will always come into play,
+                    so one useful way to look at it is trailing 12 months to really get a sense of
+                    where our average EBITDA margins are tending to.
+
+
+                    But we have confidence that we have, at this point in time, if we are able
+                    to demonstrate operating leverage in a very tough situation, we do not
+                    need any incremental investment, just the improvement in climate and
+                    any upside in GP that will happen will directly fall to the bottom line. So,
+                    that is some level of confidence now we have in our operating leverage
+                    play.
+
+
+Karan Uppal:        Got it. Thanks, and I will fall back in the queue. Thank you so much.
+
+
+Aashvi Shah:        Thank you, Karan. The next question is from the line of Mr. Manish Adukia.
+                    Sir, please unmute yourself and go ahead with your question.
+
+
+Manish Adukia:      Good evening. Thank you for taking my questions. This is Manish Adukia
+                    from Goldman Sachs. Great quarter again. Few questions. Starting with
+                    growth, you have had consistent broad-based growth across some of your
+                    regions like Europe, APAC, even North America on an organic basis.
+
+
+
+                                     Page 6 of 32
+
+                                                                                TBO Tek Limited
+                                                                               November 03, 2026
+
+                    As you mentioned, overall growth has been dragged down by Middle East.
+                    I am just trying to understand, and just tying up with your earlier
+                    comments that the investments you made last year is helping you grow in
+                    some of these regions. Let us say, Middle East recovers sometime next
+                    year lets assume, what is your outlook on organic growth in some of these
+                    regions like APAC, Europe, and North America, ex of Classic Vacations?
+
+
+                    I am just trying to think, like, if Middle East recovers, does that mean
+                    mathematically overall growth should improve? Or Given just the high
+                    base from some of these regions which are growing well today, they will
+                    drag down overall growth? Just trying to understand the interplay
+                    between these various regions, if you can maybe help us understand or
+                    throw some light on that.
+
+
+Gaurav Bhatnagar:   See Manish, the economics of the business, as we have discussed in the
+                    past, really comes down to how productive is our sales team on the
+                    ground. At this point in time, we do believe that their productivity has not
+                    maximized for two reasons. One, a lot of sales teams is still new, so less
+                    than a year in the business or maybe on average 15 months into the
+                    business. It takes three, four years for them to truly max out their own
+                    ability to kind of maximize their order book.
+
+
+                    Second is that the markets are depressed right now. There is significant
+                    headwind, whether it is Europe, whether it is APAC. Airfares are very high.
+                    There is stress in the Middle East market as well. Carriers like Etihad,
+                    Emirates, Qatar, because these are major transit carriers, and if people are
+                    not using these carriers, then east to west and west to east is also
+                    impacted. Now in that situation, if we have delivered high double-digit
+                    growth in these markets, I have a strong conviction that when things
+                    normalize, we should see a second uptick happen even on these bases. We
+                    had started to see hints of it in January, February of 2026, right before the
+                    war started. If you see our organic numbers for those two months, which
+                    we shared when we did the quarterly results, they were north of 50% in
+                    certain markets. I am not committing that that is again where we will get
+                    to, but we have not maximized the potential of the investments we have
+
+
+
+                                     Page 7 of 32
+
+                                                                                TBO Tek Limited
+                                                                               November 03, 2026
+
+                    already made just because of the timing of the war. We do believe that that
+                    should start to come back. If Middle East is delivering 10% growth in a
+                    quarter like the previous quarter, they will definitely expect it to deliver
+                    more growth next year when peace returns. So, there is strong conviction,
+                    Manish, that if organic is delivering whatever, 15% to 20% GTV growth
+
+
+                    In the international market, even in this quarter, the organic growth is
+                    28%. We would expect to do something reasonably more than that once
+                    recovery happens.
+
+
+Manish Adukia:      Very clear. Maybe a related and a follow-on question, because starting
+                    December quarter, you will consolidate Classic, or Classic will also be in
+                    your base. At least from whatever data we had in the past, Classic as a
+                    portfolio was not growing in a material way.
+
+
+                    Let us assume that from next quarter, including Classic Vacations, when
+                    we look at the numbers, would Classic be a drag to the overall growth of
+                    the business, at least for the foreseeable future? I know you talked about
+                    you making investments in sales in Classic, which probably will give you
+                    the goodness over the next few quarters. At least until then, is it safe to
+                    assume that Classic should be a drag on overall business growth?
+
+
+Gaurav Bhatnagar:   Just mathematically, yes, because I do not think I can claim that Classic can
+                    overnight start to grow, say, 30%, which is where your overall organic
+                    business is growing in the international market. Yes from that perspective,
+                    absolutely, it pulls the average down a little bit.
+
+
+                    Now, two, three things that we have to be mindful on in Classic is that
+                    because the booking windows are very long, the revenue we book in any
+                    quarter is really an outcome, especially on the groups business, the
+                    outcome of the booking window on groups is almost 365 days or
+                    something like that. So, it is really an outcome of what got booked almost
+                    a year ago.
+
+
+                    Similarly, in hotels, the outcome of what we booked several months ago
+                    or two or three quarters ago is what shows up in the books for a given
+
+
+
+                                     Page 8 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+                    quarter. But having said that, the upside with Classic is that the GP is
+                    significantly more, right? It is almost double the GP of the organic
+                    business, which means that if any $1 we add in Classic is equal $1 GTV we
+                    add in Classic is equivalent to $2 of GTV that we add to our organic
+                    business. I think that does play out a little bit.
+
+
+                    The other bit, Manish, I think Classic helps is the whole billboard effect of
+                    being a major player in the North America market, which will help us grow
+                    our organic TBO business also in that market. Look, net-net, Manish, our
+                    long-term hypothesis remains where it is on the enterprise growth thesis
+                    that we have been talking about. This one or two quarters, of course,
+                    because of more than Classic, the macro headwinds are there, which you
+                    really cannot control.
+
+
+Manish Adukia:      Very clear. My next question was on AI, and I know in the past you have
+                    articulated your thoughts on how that could impact, but I just want to
+                    maybe check from the last time we spoke, let us say three months ago, and
+                    given some of the recent evolution around personal AI assistants, let us
+                    say; a Meta Muse, for example, which maybe, impacts some of the
+                    consumer side tech applications more. Anything incrementally from your
+                    side that you want to call out as to how these could potentially impact your
+                    business, if at all? If you have any refreshed thoughts on that would be
+                    helpful.
+
+
+Gaurav Bhatnagar:   Manish, I think one thing that is becoming increasingly clear is that travel
+                    will be a significant use case for these AI agents, because probably it feels
+                    like consumer monetization is easiest on travel use cases. Mark
+                    Zuckerberg talked about it in his call as well, that they are looking at travel
+                    as a core use case. Instinct, the other AI bot they have talked about, that
+                    almost half of the billion dollars of transaction they have done is related
+                    to travel. So yes, it does feel like consumer behavior will, some of it will
+                    divert attention towards using these bots to research and book travel.
+
+
+                    Our conviction remains the same, Manish, that ultimately, at least for the
+                    foreseeable future, it is going to be a point-to-point transaction because
+
+
+
+                                      Page 9 of 32
+
+                                                                            TBO Tek Limited
+                                                                           November 03, 2026
+
+                 you will task a bot. It is much easier and much more predictable to say that
+                 I want to book a specific flight or a specific hotel, find me something, and
+                 put my credit card and book it over there. That is not what a travel agent
+                 really solves for. A travel agent or a travel advisor is solving for a long,
+                 complex itineraries with multiple touchpoints, multiple modes of
+                 transport, multiple destinations and cities, which is where. That is where
+                 we continue to focus, Manish, building out our multi-trip, multi-
+                 destination trip tools, potentially looking at opening them as headless
+                 services as well so that others or other bots can also consume them.
+
+
+                 We launched our MCPs on Claude and ChatGPT in a very experimental
+                 manner a few weeks ago. So, we continue to explore space. We do not see
+                 an imminent threat on our business right now, but we also acknowledge
+                 that travel is going to get impacted, and it may create some opportunities
+                 and maybe some threats as well.
+
+
+Manish Adukia:   Thank you. Very helpful. Just last question from me. On those couple of
+                 exceptional items and an item that you called out, one is the Rs. 8 crores
+                 of irregularities that you called out. One, maybe is this something that you
+                 have seen in the past as well, and what are you doing that something like
+                 that does not occur again?
+
+
+                 Second, also on that FEMA, which you, I do not think you have provisioned
+                 for that. Maybe you can remind us as to what are the implications of that,
+                 and beyond the penalty that has been called out, is there any like worst-
+                 case scenario in which the outcome can be worse? Just trying to maybe
+                 understand that. Thank you.
+
+
+Vikas Jain:      Sure. Let me come in, Manish. So, relating to the exceptional cost of Rs 8.1
+                 crores, just to give a background that after the quarter end, we had
+                 identified certain irregularities involving suspected collusion among some
+                 employees, which led to some unauthorized bookings made in some
+                 government travel agency account. Obviously, the payment for the same
+                 was not received by us.
+
+
+
+
+                                 Page 10 of 32
+
+                                                             TBO Tek Limited
+                                                            November 03, 2026
+
+The company's monitoring and review mechanism, which included a
+periodic review of the outstanding balances with travel agencies, helped
+in facilitating in identifying these irregularities. However, as we speak, we
+have appointed an external consultant to conduct a detailed investigation
+and assessment. But based on the preliminary assessment, we have
+estimated that net financial loss of around Rs. 8 crores in the subsidiary.
+We have filed police complaint both in India and UAE regarding the
+incident. The relevant authorities are carrying out their investigation into
+the matter, and obviously, we will keep everyone updated on any material
+development.
+
+
+As a group, we have also taken the insurance for such matter and
+incidents, and we have also initiated the process for the insurance claim
+in respect of the above matter. Regarding the past incidents related, like
+this, we have not had some similar kind of instances in the recent past. I
+would say at least last five to seven years, I do not recall any of such
+instance of collusion of employees.
+
+
+Actions being undertaken, as an immediate action to mitigate the risk of
+reoccurrence in the near future, we have implemented certain additional
+oversight measures involving relevant senior team members. From a
+long-term perspective, we are undertaking initiatives to automate some
+of the activities to minimize human interventions basically, so that the risk
+of collusion is mitigated. This is regarding the incident basically.
+
+
+Coming back to your question relating to the FEMA. Yes, this matter was
+already under adjudication. Subsequent to again the quarter end, we have
+received the adjudication order, and based on the advice from our legal
+consultants, we would be going ahead and filing an appeal against the
+same. Again, based on that legal advice, we believe that the chances of
+winning our appeal is high, and the penalty amount may not be sustained.
+And that’s the reason, as of now, we have not provided for any provision
+in the books regarding the same.
+
+
+
+
+                Page 11 of 32
+
+                                                                                  TBO Tek Limited
+                                                                                 November 03, 2026
+
+Manish Adukia:      Thank you for all the color. Very helpful. All the best.
+
+
+Aashvi Shah:        Thank you. The next question we will take from Mr. Nitin Padmanabhan.
+                    Sir, please unmute yourself and go ahead with your question.
+
+
+Nitin Padmanabhan: Ya. Hi. Good evening. Thanks for the opportunity. Two questions here
+                    actually. The first one is, you did mention that obviously as Middle East
+                    has sort of picked up, and obviously there is uncertainty in the region, and
+                    obviously Europe also looks like with these rioting and all of those, that
+                    has some impact. Do you think that sort of creates a risk of Q3 being
+                    relatively weaker than normal? That’s the first question.
+
+
+                    Secondly, with respect to Classic, from an integration perspective, what
+                    milestones have you sort of crossed, and when do you believe it becomes
+                    plausible to really expect some kind of an acceleration? You mentioned
+                    you had 20 people and all of those, and that would take a little bit of time.
+                    But broadly, in terms of tech integration and broader stuff, it would be
+                    great if you have some details about that.
+
+
+Gaurav Bhatnagar:   Sure, Nitin. I think Q3 has risks, no doubt about it. And like I articulated in
+                    previous answers, our internal aim right now is that irrespective of the
+                    turmoil, let us aim and deliver some top-line and bottom-line growth,
+                    which is, honestly at this point, it feels like a stretch target given where the
+                    situation is. But what we have seen in the past is that travel rebounds
+                    extremely quickly, and these days it rebounds within hours and days of
+                    when good news comes in. So, we have to wait for that.
+
+
+                    I think unfortunately what has happened in the last few weeks is both the
+                    Saudi issue actually started and constantly escalated instead of
+                    deescalating, and the same thing happened with the rioting in Europe. It
+                    started in one city, and suddenly every major city in Europe is having these
+                    riots. And then we have obviously the outcome of the Israeli election has
+                    not been clear, and the U.S. midterms are happening today. Between all of
+                    that, it is very hard to predict how Q3 goes. Internally, we are just focusing
+                    on making sure that wherever there are pockets of growth, we double
+
+
+
+
+                                     Page 12 of 32
+
+                                                            TBO Tek Limited
+                                                           November 03, 2026
+
+down on that and deliver it, keep a check on cost, and make sure that we
+are able to, both on top line, bottom line, give some growth.
+
+
+On Classic, Nitin, there are two, three internal milestones that we are
+focusing on. So one is, and which is largely completed now, was the
+ramping up the sales team because, see, Classic works with almost 10,000
+travel advisors across North America, and U.S. is a very large, as you know,
+it is a very large country. They were running on a very short-staffed sales
+org of 10, 12 people to service 10,000 bookers, and I think we were losing
+opportunity over there. The account management could be better. So, that
+process has started. It is almost complete, I would say.
+
+
+The other thing that is largely complete is that on a lot of back-office
+processes in Classic, we wanted to implement a CRM. So, they did not have
+an in-house CRM, which tracked the quality of service, stats, SLAs, all the
+stuff which is important to provide consistent service. For most of these
+processes, CRM implementation has also happened.
+
+
+The tech platform integration for TBO supply into Classic is completed.
+The tech integration for the TBO platform being available to Classic is in
+the works. A beta launch is expected to happen later this month, in the
+latter half of November. Then we will do a gradual rollout of it across the
+next several months.
+
+
+Keeping in mind that November is Thanksgiving, December is Christmas,
+and then January, February, March is peak booking season. So, we will do
+a gradual rollout over there. And beyond that, on an organizational front,
+we were only going to integrate the supply org, which has already
+happened. The Americas supply org, both for TBO and Classic, is now
+rolled into Joel, who came from Classic, and now she is in charge for both
+TBO and Classic supply for all of Americas. Similarly, Bonty, who again
+comes from Classic, is now in charge of all of Europe supply for both TBO
+and Classic. So, that bit has also happened, and that is the only org
+integration we were looking at.
+
+
+
+
+                Page 13 of 32
+
+                                                                                  TBO Tek Limited
+                                                                                 November 03, 2026
+
+                      Other than that, the orgs remain independent. So, that is the broad layout.
+                      This will start to deliver demonstrable results somewhere in the next
+                      couple of quarters. It is very hard to predict right now because multiple
+                      things are playing out, right? We also have all these headwinds that are
+                      playing out. At the same time, we are driving some investment into sales
+                      but driving some cost efficiencies as well. Multiple things are playing out.
+                      I don’t want to commit to a specific number on this in a specific timeline,
+                      but directionally, we are very confident we are moving in the right
+                      direction.
+
+
+Nitin Padmanabhan: Perfect. Very helpful. Broadly, what you are saying is all the bottlenecks
+                      are addressed, and it is just about execution, and obviously, it takes time
+                      for people to really ramp up. That is the only thing that is missing.
+
+
+Gaurav Bhatnagar:     Yes.
+
+
+Nitin Padmanabhan: Perfect. They are very helpful. Thank you so much, and all the best.
+
+
+Gaurav Bhatnagar:     Thank you.
+
+
+Aashvi Shah:          Thank you, sir. We will take the next question from Mr. Samarth Patel. Sir,
+                      please unmute yourself and go ahead with your question. Mr. Samarth.
+
+
+Samarth Patel:        This is Samarth Patel from Equirus Securities. I had a couple of questions.
+                      First one was on Europe. If I look at this quarter, Europe grew around
+                      36%, and now it is roughly 36% of total GTV for us. How much of this
+                      growth is coming from new source market, let us say Germany and
+                      Portugal, that we entered recently against the deeper penetration in the
+                      existing markets like U.K., France, Spain, et cetera? If you can give any
+                      flavor around that would be helpful.
+
+
+Gaurav Bhatnagar:     Okay. Samarth, I think the newer markets are growing very fast. I think
+                      almost triple-digit growth in certain those markets, but on a small base.
+                      U.K., Ireland is also growing significantly, but on a significantly higher
+                      base. U.K. and Ireland, I will say, is more of a depth that we are building.
+                      Some new markets, some of the Eastern European markets, or markets
+
+
+
+                                      Page 14 of 32
+
+                                                                               TBO Tek Limited
+                                                                              November 03, 2026
+
+                   like Germany, is really where we started to invest last year, and now they
+                   are starting to show results.
+
+
+                   I do not have an exact number on where this is, but it is genuinely both
+                   building depth in our existing markets and penetrating into new markets
+                   with you know early opportunities, which is why we remain confident to
+                   what Manish was asking earlier, that as things progress, even on this base,
+                   we should have a long runway for growth because these markets are like
+                   triple-digit growth on small base, so they have a long runway before they
+                   start to saturate.
+
+
+Samarth Patel:     Understood. That is really helpful. My second question was on India. If I
+                   look at the GTV growth for us this quarter, it was around 14%, but monthly
+                   transacting buyers fell around 2%. So, is it like a consolidation toward
+                   larger agency in the market or attrition among smaller ones? If you can
+                   just give any flavor around this particular aspect.
+
+
+Ankush Nijhawan:   So, Samarth, in the quarter, our monthly transaction in India have actually
+                   grown by 1%. Keeping in mind the base is very large because almost
+                   24,000 operate with us on a quarterly basis. On the H1, it was up by 4%.
+                   So, both of things are working, Samarth. The important ones, meaningful
+                   partners and agents are extremely important. Yes, we are trying to win
+                   more non-air business there, which is obviously higher on profitability.
+                   And obviously, it makes more sense for us to make sure that we keep
+                   continue to cross-sell on the large distribution what we have here.
+                   Hopefully, will play out and continue to grow also on the air business as
+                   we have done the last quarter. Obviously, see a good growth on the hotel
+                   business as well.
+
+
+Samarth Patel:     Understood. My next question is on Classic Vacations, and we touched
+                   upon that in the previous participant's question as well. TBO sales into
+                   Classic rose sharply to around 8% of the Classic GTV, which was, if I am
+                   not wrong, about 5% last quarter. I am not looking for, let us say, in next
+                   two to three quarters, but in the steady state, once the entire synergy plays
+                   out, what could be the steady state number here? A follow-up to that is,
+
+
+
+                                    Page 15 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+                    what does TBO Tek earn on these particular bookings? Is it a normal
+                    margin or some sort of a transfer pricing that we do?
+
+
+Vikas Jain:         On the margin, basically, yes, we keep whatever is required as per the
+                    arm's length basis transfer pricing margin between the two entities, and
+                    it can vary from entity to entity and market to market. But we are
+                    compliant with the transfer pricing norms.
+
+
+Gaurav Bhatnagar:   Samarth, on the other question, because now we have unified our
+                    contracting supply orgs, so this number would grow or shrink depending
+                    on where we put the contracts. As the team contracts more hotels, we may
+                    have an opportunity to get a separate contract for Classic as well, which
+                    we already have for TBO, because again, it is more efficient, it is more cost-
+                    efficient, there is no transfer pricing involved, the technology op does not
+                    happen, and all of that. So, that is a number which demonstrates some
+                    level of early synergies, but in the long run, because now the supply orgs
+                    are same, I would expect this number to not be the number that
+                    demonstrates synergies because of the fact that the same team will bring
+                    both contracts, both for Classic as well as for TBO.
+
+
+Samarth Patel:      Understood. That is helpful. And if I may squeeze one more here. Last
+                    quarter, I think our GTV split between the smaller agents and the API was
+                    roughly half and half. So, currently, which part of the business is growing
+                    faster for us, and any differential in take rate, any flavor around that would
+                    be helpful.
+
+
+Vikas Jain:         In the current quarter as well, the mix is 50:50 only. Both, I would say,
+                    businesses are growing per se, compared to the last year. In terms of the
+                    margins per se, basically, the revenue take rate would be lower in an API
+                    business because the revenue kind of flows through to the GP because we
+                    do not have any kind of servicing cost, et cetera, between the revenue and
+                    GP. But at the GP level, there would be some differences, but B2A business
+                    would obviously be marginally higher than the API business in terms of
+                    the, at the GP level.
+
+
+
+
+                                     Page 16 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+Samarth Patel:      Understood. That is it from my side. Thanks for providing me with the
+                    opportunity, and best of luck for the next quarter.
+
+
+Aashvi Shah:        Thank you. We will take the next question from Mr. Swapnil. Sir, please
+                    unmute yourself and go ahead with your question.
+
+
+Swapnil Potdukhe:   Hi, everyone. Thanks for the opportunity. My first question is more of a
+                    clarification, Gaurav. You mentioned that Q3 will face some headwinds,
+                    and you are expecting some growth. By some growth, do you mean CC
+                    growth, or are you alluding to the overall GTV growth? Because there is
+                    some currency benefit also available to us this quarter, 6% to 7%, if I am
+                    not wrong. So, just trying to understand what do you mean by some
+                    growth CC?
+
+
+Gaurav Bhatnagar:   I am keeping fingers crossed for constant currency growth. The currency
+                    uplift is on top of it because that is, we do not contribute to it. So, I am
+                    keeping fingers crossed on constant currency growth.
+
+
+Swapnil Potdukhe:   Got it, Gaurav. And the other question is, like, recently, one of your largest
+                    B2C players in India talked about having roughly around 26,000
+                    transacting partners in the agency business side. They also talked about
+                    having some support mechanism to support these partners. The question
+                    now here is, like, as B2C companies see the growing threat from AI, is there
+                    a possibility that these companies will divert some of their resources
+                    towards B2B, B2C kind of business as well?
+
+
+Ankush Nijhawan:    I think, Swapnil, the business, if I am not wrong, what I am understanding
+                    is the corporate business which the OTA or the company you are talking
+                    about is working, and that 26,000 is actually those corporate, not travel
+                    agencies. I think that is the clarification, or I think what you are trying to
+                    say is different.
+
+
+Swapnil Potdukhe:   No, the actual question, Ankush, is that, is there a possibility that the B2C
+                    companies, the OTAs, will eventually, if their core business gets impacted,
+                    they will try to focus a lot more on the agency side of the business? They
+                    will, by putting in the feet on street and just like you guys have operated.
+
+
+
+                                        Page 17 of 32
+
+                                                                                TBO Tek Limited
+                                                                               November 03, 2026
+
+Ankush Nijhawan:    Swapnil, nobody can stop them entering space, and why only one?
+                    Anybody can. But it is a completely different business. Some have tried in
+                    the past and failed. One, because there is a lot of knowledge which you
+                    need when it comes to the credit lines, et cetera, with the travel agents.
+
+
+                    Second, I think the channel conflict comes in very significantly here,
+                    because a lot of airline and hotel supplies are very cognizant of not
+                    extending this, if you are playing a B and a C both. So, there are challenges
+                    to enter the market. It is not as easy as it sounds. But yes, they can
+                    absolutely enter, and absolutely there is something which is a threat if it
+                    is, and obviously we will acknowledge it and compete as much as we can.
+
+
+Swapnil Potdukhe:   Got it. And staying on with you, Ankush. In the air business, especially the
+                    core air business, which excluding M&A, the take rates have substantially
+                    come down to around 2%. If I remember correctly, our take rates used to
+                    be around 2.5%. So, there is a significant decline in those take rates. Any
+                    particular reasons you can call out, and how do we see these rates going
+                    forward as well?
+
+
+Vikas Jain:         Yes. Swapnil, yes, like, the take rates have come down to 2% versus 2.3%
+                    or 2.4%, which used to happen earlier. So, there are certain, lower
+                    incentives, as well as some refund income lower in the current quarter, or
+                    I would say in H1. However, like the impact on the GP is not that high. We
+                    have kind of been able to pass on almost more than 50% of that impact to
+                    the travel agent. So, at the GP line, still we are managing around 1% GP in
+                    this quarter versus 1.1%, 1.12% last year.
+
+
+Swapnil Potdukhe:   Is there any possibility of a reversal?
+
+
+Vikas Jain:         Generally the GP, what we have been telling as well is, should range
+                    between 1% to 1.2%. We may see some quarters it is lower, and
+                    sometimes it may recover in the next quarters as well, depending upon
+                    sometimes the airlines launch some ad hoc incentives, et cetera. But ya, GP
+                    generally should remain between the range of 1% to 1.2%.
+
+
+
+
+                                    Page 18 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+Swapnil Potdukhe:   Vikas, on one of the line items, which is their FX loss, so in the past, we
+                    have discussed and said that there will be some hedging mechanisms that
+                    you put to avoid this kind of losses coming through. Despite that, we have
+                    seen two consecutive quarters, I mean, in the previous quarter also, we
+                    had some Rs. 5.5 crores, and this quarter, we have around Rs. 9 crores of
+                    loss there. Any reason you want to call out?
+
+
+Vikas Jain:         Swapnil, just to highlight and reiterate again, that this line item contains
+                    basically some line items related to the cost element, which would remain
+                    per se. Basically, the FX conversion-related cost or the hedging premium-
+                    related cost, because when we do hedging, obviously the premium cost, et
+                    cetera, gets accounted for, and that sits in this line. Because we are
+                    obviously now doing hedging, the cost line item would remain. However,
+                    as we mentioned earlier, we do not hedge the entire exposure. We
+                    generally hedge between 75% of our open exposures.
+
+
+                    So, on the unhedged exposures, in the last year, same quarter, we had a
+                    favorable impact, which was higher than the cost that we incurred, and
+                    that is the reason you saw a gain in the last quarter, same year. But in the
+                    current quarter, basically on that unhedged exposure, we had certain
+                    losses. So, overall, that is a kind of double whammy. Otherwise, the cost
+                    line items, if I see between the two quarters, they had kind of grown only
+                    with the growth of the business only. But because of this, the unhedged
+                    exposure gain or loss, that is impacting quarter-on-quarter numbers.
+
+
+Swapnil Potdukhe:   Okay. Just a last one on the working capital side. So, this time around, there
+                    was a meaningful release of working capital. Any particular reason to call
+                    out? Because we did not have much GTV coming from the U.S. business
+                    this time, where the booking windows are longer. So, why such a big
+                    release, and how do you see this by the end of this year?
+
+
+Vikas Jain:         As we had discussed during the March end as well, that in the March end,
+                    there was some investment which had gone into the working capital, and
+                    we had highlighted at the time as well that these are more the timing
+                    differences, and that should get released in the current year. So that is
+
+
+
+                                    Page 19 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+                    what has played out. For example, there were certain overdue, specifically
+                    in the Middle East, due to the war situation and the Eid at the March end,
+                    those receivables had got released. We had certain receivables because of
+                    the anticipation-related thing that we had not done in Brazil in the last
+                    year. Those receivables have been released. So, these are more timing
+                    differences which are getting released.
+
+
+                    Yes, overall, there are certain benefits that we are getting from the
+                    working capital per se in the business. Like earlier, we used to have credit
+                    cards, virtual credit cards, basically where we used to make advance
+                    payment to the banks or to the service providers. Now we have got some
+                    credit lines, so that has also helped in releasing some cash back into the
+                    system.
+
+
+Swapnil Potdukhe:   And should we see a positive impact by the end of this year also?
+
+
+Vikas Jain:         Yes.
+
+
+Swapnil Potdukhe:   Got it. Thanks a lot, guys. All the best.
+
+
+Aashvi Shah:        Thank you. We will take the next question from Mr. Vibhor Singhal. Sir,
+                    please unmute yourself and go ahead with your question.
+
+
+Vibhor Singhal:     Hi, Thanks for taking my question. This is Vibhor here from Nuvama.
+                    Congrats on a very solid performance in very volatile macro environment.
+                    Couple of questions from my side. I am just trying to understand the
+                    seasonality a bit here. If I look at our organic business, generally our Q3
+                    business, Q3 is typically soft because of the seasonality factor. But in
+                    Classic Vacations, it appears that Q2 is a softer quarter. Is that the right
+                    interpretation?
+
+
+Vikas Jain:         Yes, it is the right interpretation, but we also need to take into account
+                    that on organic business, basically we account for basis the bookings made
+                    per se. But because of the different nature of business in Classic, in Classic,
+                    we book basis the check-ins in the quarter.
+
+
+
+
+                                      Page 20 of 32
+
+                                                                               TBO Tek Limited
+                                                                              November 03, 2026
+
+Vibhor Singhal:   Got it. So, Q3 should not see a QoQ decline in the GTV. It should generally
+                  be a good trend going upwards, depending on, of course, the macro and
+                  all. Seasonality should not be impacting the GTV of Classic in Q3. That is
+                  what I just wanted to check.
+
+
+Vikas Jain:       Yes, so it should be better than Q2.
+
+
+Vibhor Singhal:   Got it.
+
+
+Vikas Jain:       Q2 is the weakest Classic.
+
+
+Vibhor Singhal:   Got it. Perfect. That is very helpful. Secondly, basically, if I can just check
+                  on the margins part. So, there has been softness in take rates at a consol
+                  level that, of course, is probably kind of a different mix as well. But I think
+                  our gross profit margins are holding up quite well. Does that relate to
+                  some discounts that we are giving to our basically clients, or do you think
+                  there is, I mean, if some that you can probably show on that part, and
+                  something on the churn rate of the agents as well?
+
+
+Vikas Jain:       On the margins, Vibhor, if you see in the organic business, while there is a
+                  decline in the take rate, but on the gross profit level, we have kept around
+                  same lines, 5.6% to 5.5%. As I explained earlier, at times in the take rate,
+                  what happens basically, some suppliers work on a commission model,
+                  some suppliers work on a net model. If a supplier is working on a
+                  commission model, we will get the commission recorded as revenue, and
+                  when we pass on some commission to the travel agent, it gets recorded as
+                  the cost. But at the GP level, if you see, the same trend is maintained. It is
+                  primarily coming because of the mix of the supplier.
+
+
+Vibhor Singhal:   Got it. I think that is really helpful. I think I should have probably
+                  understood that. Just one last question on the AI part. I understand our
+                  business is fairly AI-resilient because I think the kind of business that we
+                  follow is B2B. I think that is kind of, I would say, not completely, but yes,
+                  largely AI-proof. What is your opinion about apps like Muse and all
+                  disrupting our clients' business, the travel agents' business? I know you
+
+
+
+
+                                  Page 21 of 32
+
+                                                                                  TBO Tek Limited
+                                                                                 November 03, 2026
+
+                    mentioned that single-point itineraries those are kind of more disrupted
+                    rather than complicated ones.
+
+
+                    But given the kind of evolution, do you feel that at some point of time, the
+                    travel agent, it is just your view that I am seeking for, that there are travel
+                    industry agents, the travel agents, especially the offline travel agents, their
+                    business can get impacted because of AI, which might or might not impact
+                    our business, that is a second derivative. Do you see a risk to their business
+                    because of applications and evolution of these things?
+
+
+Gaurav Bhatnagar:   No. Vibhor, this is a great question, and we have been thinking very deeply
+                    about it. There are two, three things at play because of AI. If you step back,
+                    I think, and peek into the future, say, five or seven years down the line,
+                    there is a strong general sentiment that people will be working lesser.
+                    Especially in developed economies, there is going to be a universal basic
+                    income or some way to support you know the fact that there will be lesser
+                    work to do. That, combined with the fact that the demography of the
+                    developed world is significantly older and they have significantly more
+                    time to travel, there is a general sentiment that travel will become one of
+                    those AI-proof experiences.
+
+
+                    A lot of stuff that you do will probably be replaced with AI, but travel will
+                    remain one of those rare things which actually remain AI-proof in terms
+                    of just experiencing something more human. That is one sentiment that is
+                    likely to happen. Now, within that, there is a clear direction towards what
+                    kind of experiences and what kind of travel is taking shape in terms of
+                    consumer preferences. A lot of it is towards what we like to call connected
+                    and complex travel. It is not just I book a flight and a hotel and that is it. I
+                    am booking experiences, I am booking multiple things, I am booking
+                    multiple destinations. The average length of trip is increasing.
+
+
+                    The number of people who are aspiring to experience luxury when they
+                    travel is also increasing. There is this one broad macroeconomic view that
+                    travel will continue to gain in terms of just one sector where consumer
+                    spending will increase. Now overlap with the fact that the entry level of
+
+
+
+                                     Page 22 of 32
+
+                                                             TBO Tek Limited
+                                                            November 03, 2026
+
+travel, which is transactional point-to-point budget, it first went from a
+travel agent to the OTAs. It is entirely possible that this will move from the
+OTAs to these bots like Muse or Instinct, or the OTAs will reside within
+these bots, and there is some combination or direct supply versus these
+bots or the OTAs playing within this new bot ecosystem. I think that is
+likely more to happen. That probably does not really impact on a travel
+agent's income anyway. What can happen, and which is where I think the
+shift has to happen, is that even slightly more complex stuff, right? If you
+say that, point-to-point bookings earlier used to go to OTAs, and anything,
+a flight plus a hotel, probably I went to a travel agent. I think that
+complexity will also simplify and could potentially go inside a bot. So, if I
+was to tell Muse or Instinct that book a flight and a hotel, likely it can
+succeed in that. So, that probably is where the shift of business can happen
+from a travel agent to a bot. Now, our reaction to it and our steer to the
+travel agencies is that what we need to make sure is that we are moving
+up the value chain, right?
+
+
+We have far more ability to service a truly complex transaction. Not just
+the $2,000 booking, but the $10,000 or $15,000 or $20,000 booking,
+because that will require personal human experience, the fact that the
+travel advisor has visited that destination, and that is also where friction
+that happens post-booking is more meaningful, right? Even a flight and a
+hotel, there is less friction possible. But if you book you know several
+flights and train tickets and several destinations that you are going to and
+multiple experiences, friction and post-booking experience also matters a
+lot. So, that is the broad view.
+
+
+We do believe that there's some amount of redistribution of channels is
+going to happen because of AI. The first point of impact might be on the
+point-to-point transaction that used to go through a web or a mobile
+channel, goes through a bot channel, whether directly to the supplier or to
+an OTA. Some bit of complexity, which is a flight plus a hotel or a flight plus
+an airport transfer, could also transfer to a bot. Our belief remains that
+that is really the reason that we have been building this conviction for
+
+
+
+
+                 Page 23 of 32
+
+                                                                               TBO Tek Limited
+                                                                              November 03, 2026
+
+                    several years now, that we need to start steering our business towards
+                    true complexity and true luxury.
+
+
+Vibhor Singhal:     Got it. Yes, I think possibly the kind of segments that we are operating in
+                    should still remain AI-proof for a longer period. Point taken. Great. Thank
+                    you so much for answering the questions and wish you all the best.
+
+
+Ankush Nijhawan:    We can have a separate conversation on this, right? I think it is a longish
+                    one, we can have a separate chat as well.
+
+
+Vibhor Singhal:     Yes, absolutely, Ankush. Yes, I would really appreciate that. Thanks a lot.
+
+
+Aashvi Shah:        Thank you. We will take the next question from Mr. Chirag Kachhadiya.
+                    Sir, please unmute yourself and go ahead with your question.
+
+
+Chirag Kachhadiya: Hi, Chirag Kachhadiya from Motilal Oswal. Congratulations on good
+                    operating leverage in this quarter and posting a double-digit CC growth in
+                    GTV and all. Just one question on Classic integration part. In one of your
+                    remarks, you mentioned that some of the headcount you now provided a
+                    larger portfolio, like managing entire geo, which the staff person has come
+                    from Europe.
+
+
+                    At operational level, apart from top heads, what internal headcount
+                    addition or reduction took place in the entity post we acquired the
+                    business, so far in past three quarters from operating margin expansion
+                    point of view in the Classic business? That is just what I want to
+                    understand.
+
+
+Gaurav Bhatnagar:   Chirag, on the whole , we have added into the supply team. We have driven
+                    some operational efficiencies in terms of some of the finance process may
+                    be happening in India, or the supply org has been integrated, so some of
+                    the supply is now sitting in and some of the technology work is integrated
+                    into the broader TBO Tek team. But the core view on Classic remains that
+                    it is our conviction that this is not a cost-efficiency play because we are
+                    looking at it as a long-term play.
+
+
+
+
+                                    Page 24 of 32
+
+                                                                                   TBO Tek Limited
+                                                                                  November 03, 2026
+
+                      Given the previous question and the fact that truly entrenching ourselves
+                      in luxury is very important. So, it will remain an investment play and a top-
+                      line growth play, which should lead to better bottom line. That is the way
+                      we think of it. Yes, there are some low-hanging fruits on cost efficiencies,
+                      but that is not the play with Classic.
+
+
+                     The investment thesis is that what we learn on acquiring luxury supply, on
+                      selling to luxury travel advisors, engaging with luxury consortia like
+                      Virtuoso and Travel Leaders, et cetera, that will allow us to, one, build the
+                      right tools and right playbooks for growing the organic Classic business in
+                      North America, and then see that can those learnings be taken to other
+                      parts of the world to really entrench ourselves as a luxury seller. So, the
+                      short term, even short, medium, long-term play really is on learning the
+                      business better, investing into it, and then leading to a top-line growth
+                      which will drive bottom line, not just for Classic, but TBO and rest of the
+                      world.
+
+
+Chirag Kachhadiya: Okay. From sales and the top-line growth synergy point of view, let us say
+                      situation normalize two or three quarters down the line, are we planning
+                      to take advantage? Let us say pitch is ready, but we are just waiting for a
+                      situation to normalize and have a magic moment like a cross-selling
+                      synergy, which will once the situation is normalized. Any thought on that?
+
+
+Gaurav Bhatnagar:     Chirag, I think what we can this, I will just speak from an enterprise
+                      perspective, where your description is perfectly right? The pitch is ready,
+                      we have every right, like all the guns are loaded right now. It is a matter of
+                      things returning to normal for a lot of things to start firing in the right
+                      direction. Early signs are all there in terms of new agent addition, in terms
+                      of agent engagement, in terms of markets delivering good double-digit
+                      growth, small markets delivering triple-digit growth in spite of all the
+                      headwinds, right? So, everything is loaded up. Hopefully at an enterprise
+                      level, all of that will start to play out.
+
+
+                     Like we mentioned earlier as well, demonstrating synergies with evidence
+                      in a public forum is often very complicated because synergies happen
+
+
+
+                                        Page 25 of 32
+
+                                                                                  TBO Tek Limited
+                                                                                 November 03, 2026
+
+                     because your relationships that you acquired from Classic start playing
+                     out in TBO as well. The supplier that was not available to TBO earlier now
+                     becomes available because of Classic, but the contract is in Classic. The
+                     ability to attract talent comes from a different perspective. Some of the
+                     luxury supplier that all the platinum signups that will happen because of
+                     Classic will actually show up in TBO. So, it is going to be hard to say that,
+                     you what is that synergy number, especially with a business like Classic.
+
+
+                    But I will concur with you that two or three quarters down the line,
+                     hopefully when things return back to normal, maybe by next summer
+                     season, right, which is Q2 of next year, we should be really delivering good
+                     numbers as long as the macroeconomic climate clears out.
+
+
+Chirag Kachhadiya: Okay. That answers that. Yes. Thanks.
+
+
+Gaurav Bhatnagar:    Thank you.
+
+
+Aashvi Shah:         We will take the next question from Mr. Gaurav Malhotra. Please unmute
+                     yourself and go ahead with your question.
+
+
+Gaurav Malhotra:     Yes. Hi. Am I Audible. Just wanted one small clarification. Since you
+                     mentioned that you would hope for at least some CC growth in GTV for the
+                     3rd Quarter. Essentially, we are basically on a reported, we are looking at
+                     like a mid to high teens kind of a growth. Is that a fair sort of way to think
+                     about it?
+
+
+Vikas Jain:          It depends on the currency appreciation. We can’t forecast that out.
+
+
+Gaurav Bhatnagar:    Gaurav, I think that question has so many variables that it is impossible to
+                     get it right. I do not even want to comment on it.
+
+
+Gaurav Malhotra:     Got it. But I think this question has been asked, but just from your own
+                     perspective, how are you thinking you know of the second half, if things
+                     do not materially change from here, right? I think that can be one base case
+                     of thinking about it. How do you think this business will look like both air
+                     as well as hotels, please?
+
+
+
+
+                                     Page 26 of 32
+
+                                                                                TBO Tek Limited
+                                                                               November 03, 2026
+
+Gaurav Bhatnagar:   Gaurav, I think we will have to, and maybe the situation will become
+                    somewhat clearer over the next few weeks, and we will have to take a bet
+                    one way or the other to say that, yes, either we believe that situation is
+                    normalizing or we believe that we need to find growth elsewhere. Now the
+                    good thing is that we have, all our fingers in different pies. If we are
+                    starting with North America all the way till, say, Australia and APAC, right?
+
+
+                    We have the ability to rapidly invest and drive new growth in pockets
+                    where we may have not invested before. If the situation remains status
+                    quo, and let us say in the worst-case scenario, we feel that this is
+                    something which will continue for several more quarters, we do believe
+                    that the North America to Europe corridor is something that we can
+                    legitimately double down on.
+
+
+                    Of course, we are still investing in it, but that can really, we can divert
+                    energies in terms of better sales presence or better contracting for those
+                    destinations or opening new destinations which are relevant for U.S. as a
+                    source market. So that is definitely something that we will be looking at.
+                    Far East is a market that we have in the past not really invested too much
+                    on beyond Australia, and that could be another pocket.
+
+
+                    So our view, Gaurav, remains that right now it is a bit of a wait and watch
+                    because we do not know which way things will turn. As we come into the
+                    next year and we start budgeting, which will, budgeting exercise will start
+                    in a few weeks, we have to take a call to say that, okay, what is our best-
+                    case conviction. Is it that we really need to refocus energies on building
+                    out new markets, which we have the ability to do because we have people
+                    on the ground, we have entities, we have significant scale in North America
+                    as well as Europe? Or we do believe that business as usual can come
+                    return, which means that we can expect significant growth coming out of
+                    a Middle East or from APAC or from India as well.
+
+
+
+
+                                    Page 27 of 32
+
+                                                                              TBO Tek Limited
+                                                                             November 03, 2026
+
+                    In a nutshell, we do believe that irrespective, in most scenarios, unless
+                    some extreme scenarios play out, in most scenarios, even in most
+                    pessimistic scenarios, we will, by the next summer, find either existing
+                    pockets of growth refiring or new pockets of growth emerging.
+
+
+Gaurav Malhotra:    Got it. Cool. Thank you so much.
+
+
+Aashvi Shah:        Thank you. We will take the next question from Mr. Prateek Kumar.
+                    Prateek, please go ahead with your question.
+
+
+Prateek Kumar:      Ya Hi Good Evening. My first question is on your KAMs. So, you have said
+                    the existing KAM investment can support further agent addition. Is there
+                    a way to, I mean, you talked about how you could explore new regions,
+                    new investments. How much headroom would you see in onboarding and
+                    activating more agents for existing network, and how long can this drive
+                    growth before new cycle of investment can begin for the company?
+
+
+Gaurav Bhatnagar:   Prateek, I think I will keep the two, both the questions separate, and they
+                    are not correlated. We do believe that there is significant runway for
+                    growth with the existing KAMs, which is what is happening right now. You
+                    can see that our SG&A spends are only marginally up. On the whole,
+                    whatever investment we have been making in the last several quarters is
+                    what is firing right now. Given the situation, as things normalize, we
+                    should see new growth come out of it.
+
+
+                    The new cycle of investments is a separate discussion, and I do not want
+                    to correlate it with this existing discussion because new investment cycle
+                    may begin with different source markets depending on how geopolitics is
+                    playing out. There is a certain growth target that we work with, which we
+                    want to achieve irrespective of market situation beyond a point.
+
+
+                    If a war continues for a whole year, you can’t say that we will continue to
+                    wait for the war to end, and we have to figure out where else we can find
+                    growth. If that is what the circumstance happens to be, then there are new
+                    pockets where we will be able to invest and find fresh new growth, which
+
+
+
+
+                                    Page 28 of 32
+
+                                                                             TBO Tek Limited
+                                                                            November 03, 2026
+
+                 is somewhat more immune to the geopolitics that is playing out
+                 elsewhere.
+
+
+                 The answer on when, I do not have it yet because we have not started
+                 budget planning for next year. But for the rest of this year, we are not
+                 expecting to see any significant changes in our investment into market
+                 development.
+
+
+Prateek Kumar:   Okay. Another question, I am not sure if it is discussed already. On hotel
+                 GP margin, there is some sequential improvement despite competition
+                 remaining high in Middle East. So, How should we look at these margins
+                 for hotels?
+
+
+Vikas Jain:      If the situation, remains the same, we hope to continue with the similar
+                 kind of margins that we have achieved in Q2. Yes, obviously, if the supply
+                 is high and demand is low, and we get into a more competitive scenario,
+                 we may have to change our stance. But as of now, we are hopeful of
+                 remaining in the similar kind of margins percentages.
+
+
+Prateek Kumar:   Thirdly, has there been any discussion around, I mean, you mentioned
+                 about this earlier, regarding change in methodology about TBO versus
+                 Classic on bookings versus check-ins accounting?
+
+
+Vikas Jain:      Yes. For the Classic Vacations, Prateek, as we have explained earlier,
+                 because there is the booking window to check-in window is high and there
+                 are changes happening per se. From the accounting standard perspective,
+                 we record it on the check-in basis only, and that is what we started with
+                 the practice when we started consolidating the Classic number in last year
+                 Q3 and that is the same practice we would have to follow for the Classic
+                 Vacations. It will not be possible to change that practice and have a similar
+                 practice what TBO is following for the Classic Vacations because of the
+                 different nature of business that they are doing.
+
+
+Prateek Kumar:   Okay. Fourthly, on the Rs. 8 crores impact of fraud related to; this led to
+                 which geography for the company?
+
+
+
+
+                                 Page 29 of 32
+
+                                                                               TBO Tek Limited
+                                                                              November 03, 2026
+
+Vikas Jain:         It is pertaining to our Dubai, the Middle East, the UAE subsidiary.
+
+
+Prateek Kumar:      Okay, so some agent or like particularly based out of Dubai would have
+                    colluded for such fraud?
+
+
+Vikas Jain:         That we do not know for sure regarding agency involvement. That is what
+                    is getting investigated as we speak.
+
+
+Prateek Kumar:      Lastly, you said you are looking at some growth. I know multiple questions
+                    have come on this topic, but this some growth is like QoQ some growth
+                    you are saying or continuation of current growth trend into like 3rd
+                    Quarter?
+
+
+Gaurav Bhatnagar:   Prateek, Q2 to Q3, you know Q2 is our strongest quarter because of
+                    seasonality. We are talking year-on-year.
+
+
+Vikas Jain:         Even it is specifically for the Classic Vacations.
+
+
+Prateek Kumar:      Okay. You are generally very cautious while discussing outlook, probably
+                    because as it stands, you are generally accelerating into 2Q from 1Q, and
+                    things have changed in maybe different parts of the world.
+
+
+Gaurav Bhatnagar:   No, Prateek, 2Q is better than 1Q always, and 3Q is the weakest quarter
+                    always because of the fact that summer holidays are over, and we swing
+                    back after the September, October. October and November are usually
+                    weakest months for travel.
+
+
+Prateek Kumar:      Right. No, I was asking year-on-year trend only?
+
+
+Gaurav Bhatnagar:   Year-on-year
+
+
+Prateek Kumar:      Looking at 50%, 60%, and then kind of moderated in Q1 and March, and
+                    then Q2 improved. Ya, thats where I was coming from.
+
+
+Gaurav Bhatnagar:   See, Prateek, the challenge is, every time a disruption like what happened
+                    in Saudi happened or what happened in Europe happens, previously
+                    booked revenue also reverses, right? That is a challenge. The moment
+
+
+
+                                     Page 30 of 32
+
+                                                                                 TBO Tek Limited
+                                                                                November 03, 2026
+
+                    something happens in Paris, massive cancellations will happen. So, now
+                    the book revenue that you have already booked will have to be reversed.
+                    Hence, it is a very unpredictable quarter.
+
+
+Prateek Kumar:      Okay. Ya, we understand. These are my questions and all the best. Thank
+                    you.
+
+
+Aashvi Shah:        Thank you. We will take one more question from Mr. Ritwik Agarwal.
+                    Please unmute yourself and go ahead with your question.
+
+
+Ritwik Agarwal:     Hi, Thank you for the opportunity. I just had one question. Thinking from
+                    a business point of view, is there a possibility that geopolitical
+                    uncertainties create better opportunities for us? As in, when people see
+                    travel disruptions to occur or to potentially happen, will they shift more
+                    towards agents, and eventually, when all these things settle down, is there
+                    a possibility that they might shift to booking by themselves?
+
+
+Gaurav Bhatnagar:   No, I think this is something that we observed after COVID as well. In
+                    several markets, there was a strong perception that the booking directly
+                    with suppliers or with OTAs means that it is a bit impersonal. You have to
+                    get on or talk to call centers, or they just stick to policy without trying for
+                    waivers. Yes, that does play out, Ritwik. Hopefully, that plays out this time
+                    as well. Historically, yes, we have seen that post a crisis, often people will
+                    go back to travel agencies because they just find more comfort over there.
+
+
+Ritwik Agarwal:     Sorry, my question was more from this particular period point of view. I
+                    mean, given we are already in a crisis for the last past six months or seven
+                    months or maybe 11 months, just trying to understand maybe is that
+                    causing a clearer shift towards more agent booking, and once things settle
+                    down, will they go back to maybe booking by themselves on OTAs?
+
+
+Gaurav Bhatnagar:   No, Ritwik. See, at this point, it is not that the channel shift has happened
+                    towards travel agents, and which is why we believe that we would have
+                    grown faster if this whole crisis had not happened, right? Otherwise,
+                    because if you look at Jan-Feb numbers and now, growth has tapered
+                    down because just the markets are very depressed right now. So, these
+
+
+
+                                    Page 31 of 32
+
+                                                                                    TBO Tek Limited
+                                                                                   November 03, 2026
+
+                         phenomena usually play out post a crisis. In the middle of crisis right now,
+                         there is genuinely just travel is depressed.
+
+
+ Ritwik Agarwal:         Got it. Thanks for your answer.
+
+
+ Aashvi Shah:            Thank you, everyone. That was the last question for today. I would like to
+                         now hand it over to Mr. Ankush Nijhawan for his closing remarks.
+
+
+ Ankush Nijhawan:        Thank you, everyone, for joining the call today. If anybody has a follow-up,
+                         please, happy to take any calls. You can reach to any one of us, and look
+                         forward to you in January. Thank you.
+
+
+ Aashvi Shah:            Thank you, everyone. That concludes the conference. You may now
+                         disconnect your lines.
+
+
+Note: This Transcript has been slightly edited at few places for clarity and accuracy and may contain
+transcription errors. The Company or the sender takes no responsibility for such errors, although an
+effort has been made to ensure a high level of accuracy.
+
+
+
+
+                                          Page 32 of 32
+

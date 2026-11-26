@@ -1,0 +1,950 @@
+4 November 2026
+
+Corporate Relationship Department                National Stock Exchange of India Limited
+BSE Limited                                      Exchange Plaza, Plot No. C-1,
+Phiroze Jeejeebhoy Towers,                       Block G, Bandra – Kurla Complex,
+Dalal Street, Mumbai – 400 001                   Bandra (East), Mumbai – 400 051
+
+Script Code: 543981                              Symbol: RRKABEL
+
+
+Sub.: Submission of Transcript of Earnings Conference Call held on 29 October 2026.
+
+Dear Sir/Madam,
+
+Pursuant to Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed herewith the transcript of the Earnings Conference Call held
+on 29 October 2026 in relation to the unaudited financial results of the Company for the quarter and
+half-year ended on 30 September 2026.
+
+The aforementioned transcript is also uploaded on the website of the Company and can be accessed
+at the below weblink:
+https://www.rrkabel.com/wp-content/uploads/2026/11/Earnings-Call-Transcript-Q2_FY_26_27.pdf
+
+We request you to take the above on record.
+
+Thanking you,
+
+Yours faithfully,
+For R R Kabel Limited
+Digitally signed by ANUP
+V C KHANNA
+Date: 2026.11.04
+18:25:40 +05'30'
+Anup Vaibhav C. Khanna
+Company Secretary and Compliance Officer
+M. No. – F6786
+
+Encl.: as above
+
+                   “R R Kabel Limited
+     Q2 and H1 FY '27 Earnings Conference Call”
+                    October 29, 2026
+
+
+
+
+.
+
+
+
+
+MANAGEMENT: MR. MAHENDRAKUMAR KABRA – MANAGING
+            DIRECTOR – R R KABEL LIMITED
+            MR. RAJESH KABRA – JOINT MANAGING DIRECTOR –
+            R R KABEL LIMITED
+            MR. RAJESH JAIN – CHIEF OPERATING OFFICER – R R
+            KABEL LIMITED
+            MR. JIGAR MEHTA – CHIEF FINANCIAL OFFICER – R
+            R KABEL LIMITED
+
+MODERATOR:    MR. CHIRAG BHATIYA – MUFG INTIME
+
+
+
+
+                         Page 1 of 15
+
+                                                                                              R R Kabel Limited
+                                                                                               October 29, 2026
+
+Moderator:        Ladies and gentlemen, good day, and welcome to R R Kabel Limited Q2 and H1 FY '27 Earnings
+                  Conference Call hosted by MUFG. As a reminder, all participant lines will be in the listen-only
+                  mode and there will be an opportunity for you to ask questions after the presentation concludes.
+                  Should you need assistance during the conference call, please signal an operator by pressing star
+                  then zero on your touchtone phone. Please note that this conference is being recorded. I now
+                  hand the conference over to Mr. Chirag Bhatiya from MUFG. Thank you, and over to you, Mr.
+                  Bhatiya.
+
+
+Chirag Bhatiya:   Thank you, Renju. Good afternoon, everyone, and a warm welcome to all the participants on the
+                  Q2 and H1 FY '27 Earnings Conference Call of R R Kabel Limited. Joining us today are Mr.
+                  Mahendrakumar Kabra, Managing Director; Mr. Rajesh Kabra, Joint Managing Director; Mr.
+                  Rajesh Jain, Chief Operating Officer; and Mr. Jigar Mehta, Chief Financial Officer.
+
+
+                  Before we begin, I would like to give you a brief disclaimer. This call may contain forward-
+                  looking statements based on our current beliefs, opinion, and expectation as of today. These
+                  statements are not the guarantees of the future performance and are subject to risk and
+                  uncertainties that could cause actual outcome to differ materially. With this, I would like to now
+                  hand over the call to Mr. Mahendra Kabra Ji for his opening remark. Over to you, sir.
+
+
+Mahendra Kabra:   Good afternoon, everyone, and thank you for joining us for R R Kabel's quarter two FY '27
+                  earnings calls. I have with me Mr. Rajesh Kabra, our Joint Managing Director, Mr. Rajesh Jain,
+                  our Chief Operating Officer, and Mr. Jigar Mehta, our Chief Financial Officer.
+
+
+                  Let me begin with a very brief overview of the operating environment and our performance
+                  during the quarter. The broader economical environment continues to offer encouraging
+                  opportunities supported by India's sustained focus on infrastructure development, power and
+                  electrification, housing, and industrial investments. These structural drivers continue to support
+                  the long-term growth prospect of the wires and cable industry. While global uncertainties and
+                  evolving market dynamics remain factors to watch, we believe the industry's fundamentals
+                  remain strong, providing significant opportunity for organized players like R R Kabel.
+
+
+                  Against this backdrop, I am pleased to share that R R Kabel has delivered its highest ever half
+                  yearly revenue, operating EBITDA, and profit after tax. I am also pleased to share that our board
+                  has declared an interim dividend of INR 6.50 per equity share. Further, the board has approved
+                  an investment of INR 200 crores towards land acquisition in Rajasthan to support our future
+                  expansion plan. This decision reflects our continued focus on rewarding shareholders while
+                  investing in the long-term growth of our business. I would also like to highlight an important
+                  development during the quarter.
+
+
+                  On 25th September 2026, we entered into new business transfer agreement with UM Cables
+                  Limited, a wholly owned subsidiary of Usha Martin Limited. For the proposed acquisition of
+                  UM Cables business undertaking engaged in manufacturing and selling optical fibre and related
+                  cables.
+
+
+                  The agreed consideration is approximately INR 77 crores, subject to post-closing adjustments.
+                  The transaction remains subject to fulfilment of the condition precedent and has not recognized
+
+                                          Page 2 of 15
+
+                                                                                            R R Kabel Limited
+                                                                                             October 29, 2026
+
+                in our results as of September 2026and before I conclude, with Diwali just around the corner, I
+                would like to extend my warm wishes to all of you and your families for a happy, healthy, and
+                prosperous Diwali. With this, I would now invite Mr. Rajesh Kabra to share his perspective on
+                our business performance and outlook. Over to you, Rajesh.
+
+
+Rajesh Kabra:   Thank you, Mahendra-Ji, for the opening remarks. For H1 FY '27, our consolidated revenue
+                grew by 53% year-on-year. Operating EBITDA grew by 79%, and PAT increased by 87%. We
+                also delivered an improvement in EBITDA and PAT margins supported by higher gross profits,
+                operating leverage, and improved cost efficiencies. Our wires and cables business continued to
+                lead the performance with revenue growth of approximately 53% in Q2 and 55% in the first half.
+
+
+                We saw strong revenue growth across domestic and international markets, with exports growing
+                faster than domestic in Q2. Higher export growth reflects our strong competitive positioning in
+                international markets, while domestic business remains a key pillar of our growth strategy. Our
+                focus is clear to deepen market penetration, strengthen execution capabilities, and capitalize on
+                opportunities across infrastructure, construction, and industrial segments to drive sustainable
+                volume-led growth.
+
+
+                Improvement in operating profitability is another encouraging aspect of our performance. For
+                H1, wires and cables segment profit grew by around 78%, with segment margin improving by
+                approximately 124 basis points. This reflects disciplined commodity management, improved
+                operating cost absorption, and operating leverage. Turning to FMEG, we continued to build
+                business scale. The segment delivered revenue growth of approximately 42% in Q2 and 35% in
+                H1.
+
+
+                Growth was seen across key categories, with appliances making a particularly strong
+                contribution, including from new products. While FMEG segment reported a loss in the second
+                quarter, the H1 segment loss margin narrowed to 2.2% from 4.5% in corresponding period last
+                year. Our objective remains to achieve full year breakeven at segment profit level in FY '27.
+                Building scale, improving cost absorption, and maintaining operating discipline remains central
+                to this effort.
+
+
+                As we enter the second half, our focus is on building upon strong performance delivered in H1.
+                In wires and cables, we aim to sustain our growth momentum, further strengthen our
+                international presence, and capitalize on emerging opportunities in the domestic market. In
+                FMEG, our priority is to translate the growth scale of operations into improved profitability.
+
+
+                Across both businesses, we remain committed to margin improvement, operational efficiencies,
+                and stronger cash generations to drive sustainable growth. On that note, I would also like to wish
+                everyone a joyous and prosperous festive season ahead. With this, I will now hand over the call
+                to Rajesh Jain to take you through our financial and operational performance in greater detail.
+                Over to you, Rajesh-Ji. Thank you.
+
+
+Rajesh Jain:    Thank you, Rajesh Ji, and good afternoon, everyone. Let me start with our consolidated
+                performance for the second quarter. Revenue from operations stood at INR 3,284 crores,
+                compared with INR 2,164 crores in Q2 FY '26, representing year-on-year growth of 52%.
+
+                                        Page 3 of 15
+
+                                                                          R R Kabel Limited
+                                                                           October 29, 2026
+
+Operating EBITDA stood at approximately INR 286 crores, compared with INR 176 crores last
+year, a growth of 63%. The EBITDA margins improved to 8.7% from 8.1% in the corresponding
+quarter, an expansion of approximately 60 basis points.
+
+
+Profit before tax stood at approximately INR 242 crores, up 56% year-on-year. Profit after tax
+was approximately INR 181 crores, compared with INR 116 crores last year, a growth of 55%.
+PAT margin stood at 5.5%, compared with 5.4% a year ago. Coming to the first half
+performance, consolidated revenue increased to INR 6,452 crores from INR 4,222 crores in H1
+FY 2026, representing growth of 53%.
+
+
+Operating EBITDA grew by 79% of approximately INR 571 crores, compared with INR 319
+crores last year. EBITDA margins expanded by around 130 basis points to 8.9% from 7.6%.
+Profit after tax increased to approximately INR386 crores compared with INR 206 crores last
+year, a growth of 87%. PAT margin improved to 6% from 4.9% in H1 FY '26. Now coming to
+segment performance. Let me first cover wire and cable.
+
+
+During Q2, the segment recorded revenue of approximately INR 3,010 crores, compared with
+INR 1,971 crores in Q1 FY '26, representing growth of 53%. Segment profit before tax and
+interest was approximately INR 282 crores, compared with INR 180 crores last year, a growth
+of 57%. The segment profit margins improved to 9.4% from 9.2%. For H1, wire and cable
+revenue stood at approximately INR 5,890 crores, growing 55% year-on-year. Segment profit
+grew by 78% to around INR 568 crores, with segment margin expanding to 9.6% from 8.4% last
+year. Overall wire and cable volumes grew by high single -digit in Q2, and for H1, the volume
+growth stands at low teens. We remain focused on improving volumes, supported by disciplined
+pricing, execution, and cost management. Within wire and cable, the overall segment profit
+margins improvement was driven by higher gross profits, disciplined commodity management,
+and operating leverage.
+
+
+As we move ahead, maintaining this balance between growth and profitability will remain a
+priority. Turning to FMEG, revenue stood at approximately INR 274 crores during Q2,
+compared with INR 193 crores last year, a growth of 42%. For H1, the business recorded revenue
+of approximately INR 562 crores, up 35% year-on-year. The growth was broad-based. During
+Q2, revenue growth was seen across categories, led by robust performance in appliances and
+contribution from new products. The segment reported a loss of approximately INR 12 crores in
+Q2, similar to the corresponding quarter last year. However, the segment loss margins have
+narrowed to 4.5% from 6.1% a year ago. For H1, the segment losses reduced to approximately
+INR 12 crores from approximately INR 19 crores last year. The H1 loss margins narrowed to
+2.2% from 4.5%, supported by growth in scale and improved absorption of operating costs. We
+continue to focus on the full year objective of breakeven at the segment profit level. Our net
+working capital cycle improved to 46 days as of September '26, from 49 days in March and 50
+days in June.
+
+
+On the outlook, our priorities remain to strengthen volume growth in wires and cables, maintain
+operating cost efficiencies, manage working capital closely, and continue progressing towards
+
+
+
+
+                          Page 4 of 15
+
+                                                                                             R R Kabel Limited
+                                                                                              October 29, 2026
+
+                profitability in FMEG. We remain attentive to commodity price movements and their impact on
+                both realization and margins.
+
+
+                Overall, we are encouraged by our H1 performance while recognizing the importance of
+                sustainable volumes, cash conversion, and discipline execution in the quarters ahead. With this,
+                I would now request the moderator to open the floor for questions and answers. Thank you.
+
+
+Moderator:      Thank you. The first question comes from the line of Achal Lohade with Nuvama Institutional
+                Equities.
+
+
+Achal Lohade:   Congratulations for the strong quarter yet again. Two questions. First, in terms of the volume
+                growth, if you could split in terms of the wires and cables for the quarter. And also, if you could
+                also give us some sense in terms of domestic volume growth and the exports volume growth,
+                please.
+
+
+Rajesh Jain:    Yes. So our overall volume growth was like high single -digit. Sorry, can you come up again?
+
+
+Achal Lohade:   In terms of the volume growth, if you could split in cables and wires for 2Q. Also, in export and
+                domestic fashion for 2Q.
+
+
+Rajesh Jain:    Yes. Our overall volume growth. It seems we are getting disturbance from background. Can you
+                hear us better?
+
+
+Moderator:      Yes. Mr. Lohade, I think there is a disturbance from the background. Can you move to a place
+                where there is no disturbance in the background?
+
+
+Achal Lohade:   Is this better?
+
+
+Moderator:      Yes, please go ahead.
+
+
+Rajesh Jain:    Our overall volume growth was in high single -digits, where wire outpacing cables. If we further
+                see, our wires were growing in double digits, while cables, we have seen a single digit growth.
+                And same in our exports. Exports growth was faster than domestic.
+
+
+Achal Lohade:   Got it. Is there any weakness in the cables volume growth, in your opinion, given we are adding
+                capacities? So ideally, the cables should have grown faster than wires. So if you could help us
+                understand, how do we see this?
+
+
+Rajesh Jain:    No. You see, in quarter -on -quarter, you may see some variation, like depending, last quarter
+                was monsoon season also, and there are various factors. But fundamentally, nothing has been
+                changed in growth drivers of this industry, and we are quite positive in whatever expansion we
+                are doing in our cable capacity, which will help us to grow as per our growth plans.
+
+
+Achal Lohade:   And in terms of the growth expectation for the full year, how do we see for cable and wire
+                segment, sir, in terms of volume or value?
+
+
+Rajesh Jain:    Yes, on yearly basis, we are expecting to achieve the growth of around 14%, 15%.
+
+
+                                         Page 5 of 15
+
+                                                                                             R R Kabel Limited
+                                                                                              October 29, 2026
+
+Achal Lohade:    So, which means that we are looking at a high teens kind of a growth for second half. Is that a
+                 fair way of looking at it?
+
+
+Rajesh Jain:     I think already given the specific numbers, around 14%, 15%.
+
+
+Achal Lohade:    Okay. I am just curious to kind of figure out the expectations. But the second part, with respect
+                 to the margins, if you could help us understand, how do we see the margins playing out for FY
+                 '27 and '28, if there is any change?
+
+
+Rajesh Jain:     If you see our earlier guidance where we have guided for improvement of approximately 300
+                 basis points in three years, which was FY '26, '27 and '28. As per those, we have targeted to
+                 achieve growth of 9.5% EBIT margins in our wire and cable segment, where even if you see on
+                 a half yearly basis, we are at 9.6%. So our margin guidance remains the same. To be specific,
+                 9.5% for this year and approx. 10.5% for FY 2028.
+
+
+Achal Lohade:    Got it. Great, I will fall back in the queue for follow ups. Thank you so much Sir.
+
+
+Moderator:       Next question comes from the line of Praveen Sahay with PL Capital.
+
+
+Praveen Sahay:   Yes, many congratulations for a good set of numbers. Just on the volume side, as you had
+                 mentioned, 14%, 15% for a full year. That means a good volume growth in the H2. We believe,
+                 and we had seen in the last year, in the second half, your volume growth were very strong, like
+                 Q3 were very good, 30% of a growth, and then after also a double digit of a growth in the Q4.
+                 So even on the higher base, you are confident of delivering on the higher side of the mid-teens
+                 of a volume growth in the second half?
+
+
+Rajesh Jain:     Yes, Praveen. If you see normally H2 is always we have seen higher volumes year-on-year. I
+                 have experienced in over my experience of previous so many years. Still I think we will be able
+                 to achieve this, our growth plan, whatever we have done, even based on these higher volumes.
+                 We are quite confident to achieve that.
+
+
+Praveen Sahay:   Secondly, on the contribution of the export. Because we have seen that export contribution over
+                 the last 4 years, 5 years increase from some 20%-23% to now 33%-35%. Where do you want to
+                 see this export contribution for your business going up in the couple of years? Also secondly, in
+                 the export, is it still skewed towards a higher wire export or you are transitioning towards a
+                 cable?
+
+
+Rajesh Jain:     So if you see our overall always export was very big in our revenue pie and it was always in the
+                 range of 25%-30% and now we are moving towards approx. 35% kind of range also. But at the
+                 same time, we have equal focus in our domestic wires and cable side also. At the same time, the
+                 growth in export, majority is coming from cable side where earlier we were having limited
+                 capacities, but now after installing new capacities, now we see enough growth and more growth
+                 opportunities also in cable side of the business. Even in export also and as well as domestic.
+
+
+Praveen Sahay:   Okay, so the mix towards cable is also improving in export.
+
+
+
+
+                                          Page 6 of 15
+
+                                                                                                   R R Kabel Limited
+                                                                                                    October 29, 2026
+
+Rajesh Jain:           Yes.
+
+
+Praveen Sahay:         Sir, next question related to the balance sheet. One, on the working capital creditor days we have
+                       seen a jump up in the first half. Can you give some indication why it is increased and will it
+                       continue to be at that level?
+
+
+Rajesh Jain:           When you see the commodity prices are also on increasing trend and to have efficient control of
+                       available capitals, we have balanced more towards trade payable and trade. In that sense, our
+                       days have increased but overall net working capital is improving in a good trend and now we
+                       are in the range of 46 days, which was six months ago, it was around 49 days or 50 days. It will
+                       remain in that trajectory of 45 -50 days only.
+
+
+Praveen Sahay:         Okay. Lastly, on the capex, as you had given some indication last quarter call, that is around
+                       INR 600 crores -INR 650 crores of planned capex for FY '27 and as for the cash flow, you had
+                       already did INR 280 crores, and I believe INR 77 crores of UM Cables is also included in that.
+                       Are you still going on in the same pace, like of INR 600 crores, INR 650 crores for a full year
+                       of capex?
+
+
+Rajesh Jain:           First, let me clarify this. UM Cables amount is not included in this INR 281 crores. Yes, since
+                       payout is not still done. Secondly, yes, of course, whatever we have planned in the beginning of
+                       the year in the range of like INR 550 crores to INR 600 crores, it will be there. As our capex
+                       plan is on track and we are executing on time.
+
+
+Praveen Sahay:         Yes. And INR 200 crores of investment is over above this.
+
+
+Rajesh Jain:           Yes, that is different because. That is new capex, what we are working on that and this is INR200
+                       crores land acquisition is first step towards our new capex plan.
+
+
+Praveen Sahay:         That will outflow this year only?
+
+
+Rajesh Jain:           Major, maybe few part in this year and some part maybe in first half of next year.
+
+
+Praveen Sahay:         Thank you sir, and all the best.
+
+
+Moderator:             Next question comes from the line of Sanjeev Kumar Singh with Motilal Oswal Financial
+                       Services Limited.
+
+
+Sanjeev Kumar Singh:   My first question is on UM Cables business. What is the revenue potential at current capacity?
+                       What kind of margin can we expect? Is there any potential to improve the cost structure and
+                       operating margin? Apart from that, also, if you highlight what kind of potential we see next
+                       three, four years from this business?
+
+
+Rajesh Jain:           So as a first step, now we have acquired this business and now we are working on detailed
+                       business plan. Of course, there are opportunities to grow that business. But it will be too early
+                       to have some detailed plan regarding next three, four years. But I think by next quarter we will
+                       come with detailed plan. And since this plant was having very low capacity utilization, so we
+                       will improve our capacity utilization and improve revenue as immediate effect also.
+
+
+                                                Page 7 of 15
+
+                                                                                                      R R Kabel Limited
+                                                                                                       October 29, 2026
+
+Sanjeev Kumar Singh:   Okay. Secondly, on FMEG business, so we have again seen that the business has slipped into
+                       losses after breaking even in the previous quarter. So though you said that you want to, in the
+                       full year FY '27, you want to see it into break even, but which factors have led to profitability
+                       impact into 2Q FY '27?
+
+
+Rajesh Jain:           So first of all, even at the beginning of this year, we guided that on a yearly basis, we will achieve
+                       the EBIT margin breakeven. Though we achieved the breakeven in Q1 itself, but Q2 is always,
+                       since we have some seasonal effect also, and Q2 is always a little bit like demand is muted. So
+                       we could not achieve profitability in this quarter, but we are working as per our plan only, and
+                       we will achieve breakeven at yearly level by FY '27 levels.
+
+
+Sanjeev Kumar Singh:   Lastly, sir, in the previous question, there was a question on trade payables. So we have seen
+                       that trade acceptances had increased by around 3 x in FY '26, and currently also it seemed to be
+                       that it is increasing, which is also resulting in higher interest costs. So can you give us the figure
+                       for first half FY '27? I think FY '26 was closer to INR 1,100 crores.
+
+
+Rajesh Jain:           Since we are working with LC utilization, our limits or utilization has increased. But still, if you
+                       see majority of our purchases in metal, now we are doing on LC-backed trade facility. So you
+                       have seen higher levels of our payables. But it is like normal course of business where we are
+                       using efficient use of available working capitals.
+
+
+Sanjeev Kumar Singh:   Any number for trade acceptances, sir?
+
+
+Rajesh Jain:           Let me check and I will come back to you. Just give me a minute. Yes. Yes, it is like if I see
+                       overall amount of LC back there is INR 1,290 crores or something like that.
+
+
+Sanjeev Kumar Singh:   Okay sir, Thanks a lot.
+
+
+Moderator:             Next question comes from the line of Sandesh Shetty with HSBC.
+
+
+Sandesh Shetty:        Yes. First of all, I wanted to ask on 100 basis points contraction in gross margin, sir. So is it
+                       because of mix or something else there?
+
+
+Rajesh Jain:           One, it is always…
+
+
+Sandesh Shetty:        Pick up gross margin, sir.
+
+
+Rajesh Jain:           Yes. One is, of course, product mix is there. Secondly, since we are working on very high raw
+                       material base prices, there will be some impact. If we see overall profitability, as per our business
+                       plan only, we are moving ahead.
+
+
+Sandesh Shetty:        Also, sir, on the finance cost, we are seeing some pickup there. Is it the new normal or it will
+                       normalize by the end of year?
+
+
+Rajesh Jain:           Yes. With such a high raw material prices, interest cost seems to a normal way of business.
+
+
+
+
+                                                 Page 8 of 15
+
+                                                                                              R R Kabel Limited
+                                                                                               October 29, 2026
+
+Sandesh Shetty:   Also, sir, one more question. On the competition, there has been talks of increased competition
+                  from September because of the intent of a new competition. If you can share your thoughts
+                  because our business has more of wires components, how do you see the new competition
+                  intensity and how you plan to mitigate the impact from it?
+
+
+Rajesh Jain:      I always believe competition was always there, and it will remain always because competition
+                  is part of business, though there may be players may change or their competition intensity can
+                  be changed, but it is part of business and we have our own growth plans, and we will keep
+                  growing as per our planning by doing efficient utilizations of our plant and as well as improving
+                  on our sales and marketing strategy.
+
+
+Sandesh Shetty:   Sure Sir, that was it from my side. Thank you
+
+
+Moderator:        Next question comes from the line of Yash Jain with Ambit Capital.
+
+
+Yash Jain:        Sir, a couple of questions. First, when we talk about competition increasing in the domestic
+                  market, what are we doing on the export side to offset some of the pain? Are we trying to enter
+                  any new geographies or getting any new approvals? Something on that line, if you could help
+                  with that.
+
+
+Rajesh Jain:      As earlier also I said that we have equal focus on our growth, be it domestic market or export
+                  market or wire side or cable side of the business. Of course, we have very high contribution from
+                  my export side of business also. But at the same time, we are equally focusing on our domestic
+                  market also. It is not that just because of competition, we will have more focus. It is normal way
+                  where we are focusing on each and every opportunity of growing in either all product category
+                  also and all geography also. It is normal way where we will keep focusing on our growth.
+
+
+Yash Jain:        Right. But also any new approvals that you are trying to get or are in the process of obtaining
+                  any new approvals that open more further TAM for us in the export market?
+
+
+Rajesh Jain:      So this is, again, also normal process, where we keep getting or adding new approvals of three
+                  to four international approvals each year. Right now, also we are in process to getting few
+                  approvals, and it is again looking to new markets, new product category. It is continuous process
+                  where you keep seeing new additions in our approvals quarter on quarter or year on year.
+
+
+Yash Jain:        And one last question, sir. We have reduced your volume guidance for FY '27. What is the
+                  visibility that we have right now for FY '28? Any color on that from a volume growth
+                  perspective?
+
+
+Rajesh Jain:      In such a volatile market, I would not like to have a very focused comment on this. But we will
+                  keep focusing on our growth plan in terms of volumes.
+
+
+Yash Jain:        Okay, Thank you sir. (31:55)
+
+
+Moderator:        Next question comes from the line of Natasha Jain with Phillip Capital.
+
+
+
+
+                                          Page 9 of 15
+
+                                                                                                      R R Kabel Limited
+                                                                                                       October 29, 2026
+
+Natasha Jain:            Congratulations on a good set of numbers. My first question is on the existing plant. Apparently,
+                         some plant has shifted from one location to another. Could you just throw some light what is
+                         this and will it disrupt any production?
+
+
+Rajesh Jain:             Yes. No. In Roorkee, we are shifting our plant, but we have a plan in such a way that there will
+                         be no disturbance. But we will increase our capacity in FMEG also. But it is not disturbing any
+                         current production cycle like that.
+
+
+Natasha Jain:            Got it. And sir, the INR 200 crores acquisition of land, could you call out a little detail here as
+                         to what is the plan here? What kind of product will be manufactured of this land?
+
+
+Rajesh Jain:             As of now, we have not come up with detailed capex plan. As earlier we said that after maybe
+                         one or two quarters, we will come up with detailed capex plan. But of course, it will be towards
+                         our capex in wire and cable growth original plan only. So, it will enhance our capacities in that
+                         product range.
+
+
+Natasha Jain:            Got it. Sir, one last question. Receivables have increased very sharply. Is there any stress in
+                         terms of payment from the channel or from the customer given there are liquidity constraints in
+                         the channel? Or is it just a normal course of business?
+
+
+Natasha Jain:            Understood, Sir. Thank you so much and all the very best.
+
+
+Rajesh Jain:             It is quite a normal course of business because if you see my number of days have improved
+                         from 34 days to 32 days. So, though volumes are high because my business is also growing. At
+                         the same time, in terms of number of days, we are improving quarter-on-quarter.
+
+
+Moderator:               Next question comes from the line of Pathanjali Srinivasan with Sundaram Mutual Fund.
+
+
+Pathanjali Srinivasan:   I have couple of questions. Firstly, I see that all the peers in the industry are reporting kind of
+                         low volumes. Given that there's so much capacity coming amongst all of you, how do you see
+                         the environment panning out with this kind of environment there?
+
+
+Rajesh Jain:             No, we are quite confident to achieve our growth plans and since we are putting more capex
+                         towards enhancing our capacities and we see good growth in domestic as well as export market.
+                         So overall it seems we will be able to achieve our growth plan in spite of whatever others are
+                         doing.
+
+
+Pathanjali Srinivasan:   Anything you could call out in particular as to segments where things are seeing some bit of
+                         slowdown or there was some bit of reason why the growth was weaker and you have also tapered
+                         down on your guidance. Can you give us some color as to why you feel you will be able to do a
+                         lower volume growth this year? What is causing this to happen?
+
+
+Rajesh Jain:             See, on quarterly basis there may be some fluctuation, but fundamentally, I have not seen any
+                         indication where I see that growth will be taper down or there will be slow growth. Since we are
+                         doing better than industry and we will keep performing in that side only.
+
+
+
+
+                                                 Page 10 of 15
+
+                                                                                                       R R Kabel Limited
+                                                                                                        October 29, 2026
+
+Pathanjali Srinivasan:   No, sir, I am just checking because I think it cut down your volume guidance by 2%. So I just
+                         wanted to know if there is any segment where you are seeing a slowdown or something like that,
+                         which is what is making you trim your view on growth for the current year.
+
+
+Rajesh Jain:             See we have corrected by just few basis point on this. There is not huge change in scenario. As
+                         you have seen always, volatility is part of business where quarter-on-quarter there are so many
+                         changes we have seen which affects demand in near term. But overall, I don't find any
+                         fundamental change in industry growth or our growth plans. So I haven't seen any specific factor
+                         which is decreasing growth for this industry.
+
+
+Pathanjali Srinivasan:   Got it sir, Thank you.
+
+
+Moderator:               Next question comes from the line of Vidit Trivedi with Asian Market Securities.
+
+
+Vidit Trivedi:           Congratulations on great set of numbers. My first question is with respect to the exports. Just
+                         wanted to check which geographies and product categories are driving this increase. Secondly,
+                         in continuation of this, earlier, I remember our exports mix was leaning heavily towards the wire
+                         side. Just wanted your comment on that. How are we seeing this over the next 12-18 months?
+
+
+Rajesh Jain:             So now, since we started our journey from wire, of course, the wire was more in our export, but
+                         now with enhanced capacity in cable side also, we are focusing more and expecting more
+                         increase in cable exports. This ratio is slightly changing in favor of cable now. At the same time,
+                         since we have presence in so many continents, and we have seen equal growth in all continents,
+                         like specifically in Europe and Middle East, which are the biggest contributor in my export pie.
+
+
+Vidit Trivedi:           Sir, can you please call out the exact mix for this quarter in the exports?
+
+
+Rajesh Jain:             Exactly, breakup is not available with me, but it is like cable side is improving.
+
+
+Vidit Trivedi:           Got it, sir. Sir, secondly, on the FMEG side, we reported a loss of almost INR 12.5 crores this
+                         quarter, but in the earlier quarter, we did break even, and the top line in the FMEG segment grew
+                         by almost 42%. Just wanted to check what exactly drove the sequential deterioration and which
+                         categories are profitable and how do you see, going forward, the overall segment performance?
+
+
+Rajesh Jain:             If you see my overall revenue breakup in FMEG, we are fan-heavy company in FMEG segment
+                         side, and since this fan is low season period for this Q2, the other segments like light and
+                         appliances contributed more, while we are expecting more profitability or more growth from fan
+                         side.
+
+
+                         We always say that Q2 is always less in terms of profitability also and in terms of revenue also.
+                         We are expecting H2 at much higher levels with improvement in profitability, and that is the
+                         reason when we say that on yearly basis, we will achieve breakeven at EBIT level in spite of the
+                         cumulative losses of around INR 17 crores.
+
+
+Vidit Trivedi:           Great, sir. Sir, I just wanted to squeeze one more. Referring to Rajesh Ji's today's morning TV
+                         interview, I just wanted to check what led us to revisit our volume growth guidance for this
+                         particular year.
+
+                                                  Page 11 of 15
+
+                                                                                               R R Kabel Limited
+                                                                                                October 29, 2026
+
+Rajesh Jain:     Earlier, we were expecting around 16%-18%, and we have just fine-tuned around 15% and
+                 looking to the various factors, what we have seen volatility also in terms of so many factors
+                 which impact. This is just little bit fine-tuning. I will not say that we have done so much or very
+                 big change. We still like to remain frontrunner in this, and we would like to grow it faster in the
+                 industry, even for H2 also.
+
+
+Vidit Trivedi:   Got it sir, that’s helpful. Thank you and all the best.
+
+
+Moderator:       Next question comes from the line of Rahul Agarwal with IKIGAI Asset.
+
+
+Rahul Agarwal:   Sir, few clarifications. Firstly, the capex of INR 600 crores, does that include the Rajasthan land
+                 partial payment or it is excluded?
+
+
+Rajesh Jain:     No, it is apart from that. Rajasthan, that land is new capex than what we have now. We have
+                 started to execute.
+
+
+Rahul Agarwal:   Right. So we should budget another INR 100 crores for second half for Rajasthan land capex?
+
+
+Rajesh Jain:     Yes, you can.
+
+
+Rahul Agarwal:   Okay. Does that include the UM Cables payout or that is also separate?
+
+
+Rajesh Jain:     That will also be separate part of it.
+
+
+Rahul Agarwal:   Okay. Anything on relocation of Roorkee, have you spent or you will be spending?
+
+
+Rajesh Jain:     That is like we are taking on lease, so there will be not huge capex there.
+
+
+Rahul Agarwal:   Okay. Got it, sir. Just in terms of overall balance sheet and cash flow, what I am seeing is that
+                 the capex is going to be higher because there is another INR 180 crores of spending which will
+                 happen upwards of INR 600 crores, plus working capital will increase because of higher raw
+                 material pricing, number of days is better.
+
+
+                 Then we are also increasing dividends, and we are also seeing increase in debt. Overall, sir, just
+                 to understand if from a free cash flow perspective, is the debt expected to further go up from
+                 here? We are already seeing about INR 500 crores on the balance sheet. Should we budget for
+                 another INR 200 crores, INR 250 crores to fund this capex?
+
+
+Rajesh Jain:     Yes, there will be some increase in debt. See, first of all, if you see even my debt leverage is
+                 quite favourable. It is like we are not over-debt company, and quite efficiently we are working.
+                 It is around 0.55%, which is quite healthy for any growing company. In value terms, always you
+                 will see increase in debt, but it is part of, again, a normal business where on such a high raw
+                 material prices, there will be increase in debt or working capital requirement also.
+
+
+                 At the same time, very efficiently, we are doing working capital management. If you see number
+                 of days reduced in my receivables or even payables will increase by better utilization of LC
+
+
+
+
+                                          Page 12 of 15
+
+                                                                                                 R R Kabel Limited
+                                                                                                  October 29, 2026
+
+                 facilities. I will say nothing abnormal we are doing, but it is part of our original growth plan.
+                 Working capital utilization is under control. I hope this will answer your question.
+
+
+Rahul Agarwal:   Right. Next year, capex, we should budget for INR 300 crores, right? Is that a fair number?
+
+
+Rajesh Jain:     Seems okay. There may be some plus minus, but as of now it seems okay, INR 300 crores.
+
+
+Rahul Agarwal:   Okay, got it. Secondly, sir, on exports, could you just confirm the absolute INR crores revenue
+                 for this quarter? Is it about INR 1,000 crores?
+
+
+Rajesh Jain:     No, I will not give any exact figures for this, but you can have your own estimates.
+
+
+Rahul Agarwal:   Yes, sir. It was 32% of total sales. I am just trying to confirm that number.
+
+
+Rajesh Jain:     Yes.
+
+
+Rahul Agarwal:   Exports.
+
+
+Rajesh Jain:     Yes.
+
+
+Rahul Agarwal:   Total is about…
+
+
+Rajesh Jain:     Yes. Yes. Approximately, that range only.
+
+
+Rahul Agarwal:   Okay. Got it. In terms of growth rate, obviously it has been very high versus domestic. Anything
+                 you would call out for next year, like on a steady state basis, we should look at export growth a
+                 bit higher than domestic, right? That is how we should look at it.
+
+
+Rajesh Jain:     No. There also, Rahul, I said that we have equal focus on domestic as well as export, and always
+                 you can find some variation on quarter on quarter basis among product category also or among
+                 geography also. But at the same time, we will be like exports and domestic may grow at the
+                 same speed or similar speeds only.
+
+
+Rahul Agarwal:   Okay. Got it. And sir, lastly, on optic fibre, you said your capacity utilization will increase after
+                 you take over the asset. Just on the existing potential of the plant, right, even how much should
+                 we budget in terms of overall top line which can get added from UM Cables? Let us say second
+                 half, should it be like on a INR 80 crores run rate, should it be like INR 50 crores, INR 60 crores
+                 what we should budget every quarter?
+
+
+Rajesh Jain:     No, but first of all, we have yet to achieve the controls of that business, and after that only we
+                 will start working on those revenues. So, I will not suggest to consider any bigger revenue or
+                 any bigger pie in my overall revenue, at least for this year. And for next year, of course, we will
+                 come with detailed guidelines, maybe next quarter.
+
+
+Rahul Agarwal:   Okay, got it Sir, I will get back in the queue. Thank you so much and all the best.
+
+
+Moderator:       Next question comes from the line of Umang Mehta with Kotak Securities.
+
+
+
+                                         Page 13 of 15
+
+                                                                                                     R R Kabel Limited
+                                                                                                      October 29, 2026
+
+Umang Mehta:           Just a clarification, the single-digit volume growth in cables and double-digit in wires, this is at
+                       an overall level, right? Not in the domestic market. Is that the correct understanding?
+
+
+Rajesh Jain:           Yes.
+
+
+Umang Mehta:           And if that is the case, you mentioned that exports cables did better than wires. Is it that in
+                       domestic market, cables actually declined in volume terms? Would that be fair assessment?
+
+
+Rajesh Jain:           Not declined. I will not say declined, but yes, growth was less when I compare with wires
+                       growth.
+
+
+Umang Mehta:           Got it. And sir, in exports, this 80% odd growth, did it have anything episodic or do you think
+                       that the strength should continue for the rest of the year? I mean, on a full year basis, how much
+                       growth do you all anticipate in exports?
+
+
+Rajesh Jain:           So, like normally when we say, though due to change in product mix, the value growth may
+                       seem different quarter-on-quarter basis, even in domestic versus exports also. But overall, when
+                       we say that export share will remain in the range of 30%-35% for the remaining half also.
+
+
+Umang Mehta:           Understood. Just one last question. Other expenses grew by 35%, despite volume growth being
+                       slightly on the lower side versus last quarter. Any specific reason behind this? Was there any
+                       one-off costs in this quarter?
+
+
+Rajesh Jain:           No. Nothing like one-off kind of thing, but it is like normal course of business, where we have
+                       mix of variable and fixed cost. I have not seen any abnormal or anything in this increase in other
+                       expenses. It is normal course of business.
+
+
+Umang Mehta:           Understood sir, Thank you so much and all the best.
+
+
+Moderator:             Next question comes from the line of Rabindra Nath Nayak with Nirmal Bang.
+
+
+Rabindra Nath Nayak:   Sir, my question regarding this UM Cables. You acquired this company at one time sales, at a
+                       time when the optical fibre prices are in an all-time high. So what is the objective there? Whether
+                       we will keep it 80,000 fibre kilometre per year capacity as it is, and also go into your competitors,
+                       like Polycab is doing the EPC work or it is we want to go beyond the normal telecom cable to
+                       manufacture other high-end cable like data centre cables. Your thoughts, sir.
+
+
+Rajesh Jain:           So first of all, this is very small capex, what we have entered. But, since we have a focused
+                       growth area in this business also, we will come up with detailed business plan maybe after one
+                       quarter. As of now, I do not have a very detailed plan for this, but of course, we will focus on
+                       growth in that segment also.
+
+
+Rabindra Nath Nayak:   Okay. Any capex plan, you do not have any plan right now, sir?
+
+
+Rajesh Jain:           Not as of now.
+
+
+Rabindra Nath Nayak:   Okay Sir, Thank you very much
+
+
+                                               Page 14 of 15
+
+                                                                                               R R Kabel Limited
+                                                                                                October 29, 2026
+
+Moderator:       Next question comes from the line of Tushar with Shanghvi Family Office.
+
+
+Tushar Dhonde:   Most of my questions are answered. I just wanted to check on the increase in the long-term
+                 borrowings that we are seeing, I guess around INR 200 odd crores of increase from the FY '26
+                 level. Just wanted to understand, is it for the land acquisition that we are going to do at Rajasthan
+                 or other purpose?
+
+
+Rajesh Jain:     No, this is for current capex, what we are executing. Since we have capex of around INR 600
+                 crores in this year on this, so it is towards that only, and it was planned in the beginning of the
+                 year.
+
+
+Tushar Dhonde:   Okay, that helps. Thank you.
+
+
+Moderator:       Thank you. Ladies and gentlemen, that was the last question for today. We have reached the end
+                 of question-and-answer session. I now hand the conference over to Mr. Rajesh Jain for closing
+                 comments.
+
+
+Rajesh Jain:     Yes. Thank you everyone for taking the time to participate in today's call and for your continued
+                 interest in R R Kabel. We appreciate your questions and feedback, and remain committed to
+                 building on our strong first half performance. For any further queries, please feel free to reach
+                 out to us. As we conclude, I would also like to wish everyone a wonderful festive season ahead.
+                 Thank you once again, and we look forward to interacting with you soon.
+
+
+Moderator:       Thank you. On behalf of R R Kabel Limited, that concludes this conference. Thank you for
+                 joining us. You may now disconnect your lines.
+
+
+
+
+                                         Page 15 of 15
+

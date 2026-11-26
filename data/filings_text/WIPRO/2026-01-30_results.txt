@@ -1,0 +1,69 @@
+January 29, 2026
+
+The Manager- Listing
+National Stock Exchange of India Limited
+(NSE: WIPRO)
+
+Dear Sir/Madam,
+
+Sub: Response to the clarification sought by National Stock Exchange of India Limited
+(“NSE”) vide email dated January 23, 2026 (“Email”)
+
+We have received an email from (“NSE”) requesting clarification from Wipro Limited
+(“Company”) regarding the following matter:
+
+This is with respect to a Outcome of Board Meeting-Financial Results submitted to the
+Exchange dated 16-Jan-2026 of WIPRO: Wipro Limited. Following deficiency/ non submission
+have/has been observed in your result, you are requested to kindly clarify on below mentioned
+points.
+
+1. Financial results submitted in XBRL with discrepancies - In consolidated financial results,
+mismatch in Profit before tax figures
+
+Response:
+
+   1. The Company respectfully submits that the consolidated financial results are prepared
+      in accordance with Schedule III of Companies Act, 2013. The Company has certain
+      investments which are classified as associates under the relevant accounting standard.
+      The profit and loss from such associates are accounted under equity methods and are
+      included in the profit before tax numbers as prescribed under schedule III.
+   2. The XBRL format (as published) captures the profit and loss from associates at net
+      profit level and not as part of profit before tax.
+   3. The Company has also added the below note to this effect in its XBRL filling.
+
+       Note: 1 Profit before Tax excludes Share of net profit loss of associate and joint venture
+       accounted for using equity method
+
+
+
+
+[Type here]
+
+Below is the reconciliation for the same:
+                                                      Three months      Nine months
+                                                      ended as on 31st  ended as on 31st
+ Particulars                                          Dec'25            Dec'25
+ Profit before tax as per XBRL                                   41,311          126,516
+ Share of net profit/ (loss) of associate and joint
+ venture accounted for using the equity method                      28              230
+ Profit before tax as per consolidated financial
+ results                                                        41,339           126,746
+
+
+We trust that this explanation addresses the concerns and we request you to contact the
+undersigned in case you require any further information/ clarification.
+
+
+Thanking you,
+
+For Wipro Limited
+
+
+M Sanaulla Khan
+Company Secretary
+
+
+
+
+[Type here]
+

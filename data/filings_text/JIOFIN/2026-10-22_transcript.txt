@@ -1,0 +1,917 @@
+    October 22, 2026
+
+   BSE Limited                                National Stock Exchange of India Limited
+   Phiroze Jeejeebhoy Towers,                 Exchange Plaza,
+   Dalal Street, Fort,                        Plot No. C/1, G Block, Bandra-Kurla Complex,
+   Mumbai 400 001                             Bandra (East), Mumbai 400 051
+                                              ​
+   Scrip Code: 543940                         Trading Symbol: JIOFIN
+
+    Dear Sirs,
+
+    Sub:        Transcript of Presentation on Unaudited Financial Results (Consolidated and
+                Standalone) for the quarter and half year ended September 30, 2026
+
+    Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+    Regulations, 2015, the transcript of the presentation made to analysts on October 15, 2026,
+    on the Unaudited Financial Results (Consolidated and Standalone) of the Company for the
+    quarter and half year ended September 30, 2026, is attached and also available on the
+    Company’s website at https://www.jfs.in/financials/?doc=quarterly-results. The presentation
+    concluded at 8.10 p.m. (IST) on October 15, 2026.
+
+    This is for information and records.
+
+    Thanking you,
+
+    Yours faithfully,
+    For Jio Financial Services Limited
+    MOHANA Digitally
+            MOHANA
+                     signed by
+
+    VENKATA Date: 2026.10.22
+            VENKATACHALAM
+
+    CHALAM 15:25:27 +05'30'
+
+    Mohana V
+    Group Company Secretary and
+    Compliance Officer
+
+    Encl: a/a
+    ​
+
+
+
+
+Jio Financial Services Limited   Registered Address: 1st Floor, Building 4NA, Maker Maxity, Bandra Kurla Complex, ​
+                                 Bandra East, Mumbai - 400051, India​
+                                 +91 22 3555 4094 | www.jfs.in | investor.relations@jfs.in | CIN: L65990MH1999PLC120918
+
+Jio Financial Services Limited Q2 2026 – 2027
+Analyst Call Transcript
+
+
+
+
+Call Participants:
+Mr. Hitesh Sethia, MD & CEO – Jio Financial Services Limited
+Ms. Annapoorna Venkataramanan, Group Executive & Chief Financial Officer –
+Jio Financial Services Limited
+Mr. Ganesh A R, Group Executive & Chief Technology Officer – Jio Financial
+Services Limited
+Mr. Dipak Daga, Group Chief Strategy Officer and & Chief Investor Relations
+Officer – Jio Financial Services Limited
+
+
+Transcript:
+Mr. Dipak Daga (0:20):
+
+Good evening, everyone.
+
+It gives me immense pleasure to welcome all of you to the Q2 FY27 earnings
+conference call of Jio Financial Services Limited. My name is Dipak Daga and I am
+the Group Chief Strategy Officer and Chief Investor Relations Officer of Jio Financial
+Services.
+
+On the call with us today, we have Mr. Hitesh Sethia, Managing Director and Chief
+Executive Officer of Jio Financial Services Limited, who will take us through the
+Company’s overall financial performance during the quarter and six months ended
+September 30, 2026.
+
+We are also joined by Mr. Ganesh A R, Group Executive and Chief Technology
+Officer who will take us through our Data and AI initiatives, along with the operating
+performance of our Lending and Payments businesses.
+
+We are also joined by Ms. Annapoorna Venkatramanan, Group Executive and Chief
+Financial Officer who will then walk us through the operating performance of our
+Investments and Insurance businesses, followed by the financial performance of Jio
+Financial Services Limited.
+
+
+
+                                                                                     1
+
+The earnings presentation for the quarter has been uploaded on our website,
+www.jfs.in, as well as on the stock exchanges. I would like to remind all participants
+that this call will be conducted in a listen-only mode.
+
+Before I hand over the call, I would like to read out the Safe Harbor statement. This
+presentation contains forward-looking statements which may be identified by their
+use of words like plans, expects, estimates or other words of similar meaning. All
+statements that address expectations or predictions about the future, including, but
+not limited to, statements about strategy for growth, product development, market
+position are forward statements based on rationale and data. Actual results may vary
+materially given the market circumstances.
+
+I will now hand over the call to Hitesh to discuss our business in detail.
+
+Mr. Hitesh Sethia (2:16):
+
+Thank you Dipak.
+
+Good evening, everyone. Season’s greetings and a very warm welcome to our
+earnings conference call for the second quarter of fiscal 2027.
+
+During Q2 FY27, we made further progress towards our goal of bringing new-age,
+hyper-personalised financial services to the people of India. Our objective of bringing
+in truly customer-centric innovation to financial services was evident this quarter
+through some industry-first initiatives that were rolled out on the JioFinance app,
+which will redefine the way people experience and engage with their finances.
+
+This period was also marked by the further scale-up of our businesses, expansion of
+our pan-India, omnichannel distribution network, and significant developments in our
+strategy of bringing world-class financial services to India, in collaboration with
+marquee global partners.
+
+Our business performance for the quarter reflects strong operational velocity across
+all our business lines, with our core operations continuing to build scale and drive
+performance across verticals.
+
+In our lending business, Jio Credit‘s Gross Assets Under Management rose to Rs.
+37,320 crore as of September 30, 2026, representing a 154% year-on-year growth
+and a steady sequential expansion over Q1 FY27.
+
+In payments, Jio Payments Bank expanded its customer deposit base to Rs. 643
+crore, up 53% year-on-year across 40 lakh CASA accounts. At Jio Payment
+Solutions, Total Payment Value, or TPV, stood at Rs. 14,682 crore. The
+quarter-on-quarter adjustment in TPV was a deliberate outcome of our strategic pivot
+
+                                                                                     2
+
+towards margin-accretive merchant segments. While this focus led to planned
+customer churn in lower-margin segments, it helped us realise higher net processing
+margins, giving us a base to grow volumes further with strong unit economics.
+
+In asset management, JioBlackRock AMC saw its Closing AUM reach Rs. 22,746
+crore, growing 57% year-on-year and 24% sequentially.
+
+In insurance broking, Jio Insurance Broking Limited facilitated total premiums of Rs.
+346 crore.
+
+Our reinsurance business, Allianz Jio Reinsurance Limited underwrote Rs. 244 crore
+in Gross Written Premium. This sequential moderation was driven by primary
+insurers recalibrating their exposure on account of crop insurance to align with
+current seasonal and environmental factors.
+
+This broad-based performance underscores our strategic focus on driving
+disciplined, quality-led expansion while building operating leverage across our
+full-stack financial ecosystem.
+
+Our financial performance during the second quarter and the first half of Fiscal Year
+2027 reflects our consistent operational strength across our core operating
+businesses.
+
+As we had highlighted during our Q1 FY27 earnings call, a key accounting change
+effected this financial year is the full consolidation of Reliance Services and Holdings
+Limited, or RSHL, as a 100% step-down subsidiary of the company, through
+Reliance Industrial Investments and Holdings Limited, or RIIHL. This was with effect
+from April 29, 2026 and consequently, RSHL's financials are now consolidated on a
+line-by-line basis with the company.
+
+It is also pertinent to point out JFS receives dividends each year, including from
+Reliance Industries Limited on account of its shareholding in the company, held
+through RIIHL and RSHL. In the fiscal year ended March 2026, this dividend was
+paid in the second quarter; whereas in the current fiscal, this dividend was paid in
+the first quarter.
+
+Excluding the impact of dividend in Q2 FY26, Consolidated Total Income grew 132%
+year-on-year to Rs. 1,699 crore for Q2 FY27; Pre-Provisioning Operating Profit
+reached Rs. 574 crore, registering a 85% growth year-on-year.
+
+Consolidated Profit Before Tax, excluding this dividend impact, increased 51%
+year-on-year to Rs. 489 crore for the quarter. Profit after tax for the quarter stood at
+Rs. 340 crore.
+
+
+                                                                                      3
+
+For the six months ended September 2026, excluding dividend, Consolidated Total
+Income increased 136% year-on-year to Rs. 3,195 crore; Pre-provisioning operating
+profit was up 60% year-on-year to Rs. 1,079 crore; and Consolidated profit before
+tax increased to Rs. 951 crore, up 33% year-on-year. Profit after tax for this period
+stood at Rs. 1,171 crore.
+
+Crucially, our core operating entities continue to anchor our overall performance. Led
+by an expanding loan book, Jio Credit Limited saw Q2 Profit After Tax jump 140%
+year-on-year to Rs. 120 crore. Simultaneously, we are making targeted investments
+to scale our growth-stage companies and incubate nascent ventures across asset
+management, wealth, and insurance.
+
+Our capital foundation remains robust with Total Consolidated Shareholders' Equity
+standing at Rs. 1.3 lakh crore as of September 30, 2026. This capital strength
+provides us with significant firepower to pursue our growth aspirations while keeping
+our core capital base fully protected.
+
+The company achieved a few strategic milestones in Q2 FY27, which demonstrate
+our sharp focus on execution, reinforcing our ability to scale sustainably while
+deepening customer engagement.
+
+The JioFinance app, our primary digital storefront for our retail offerings, clocked 3.2
+crore unique users across all digital properties, serving as the core engine for user
+acquisition and cross-sell.
+
+With our new neural agentic marketplace, we are endeavoring to usher in a new
+paradigm in the financial services by creating a platform that makes engagement
+with financial services more rewarding – both in terms of tangible benefits as well as
+towards improving the holistic financial well-being of our users.
+
+Towards this end, we unveiled two new pioneering features during the quarter to
+make finance smarter and more rewarding:
+
+First, JioFinance+, a first-of-its-kind value-back membership program that shares a
+portion of the platform commissions directly with the customers as tangible benefits
+on eligible transactions. This helps bring down transaction costs for the
+end-customer and empowers greater engagement.
+
+Second, JioFinance360, an industry-first proposition that consolidates multi-source
+asset and liability data into a single, comprehensive report, anchored by a Financial
+Health Score across five core pillars.
+
+The details of these two new features are covered in more detail in the subsequent
+sections.
+
+                                                                                      4
+
+In our lending vertical, we struck a landmark partnership during the quarter with Bank
+of America agreeing to acquire a 49.9% stake in Jio Credit. The transaction, which is
+subject to regulatory approvals, is expected to bring around Rs. 18,000 crore in
+growth capital.
+
+In our investment vertical, JioBlackRock Asset Management broadened its product
+line across five categories… across categories, while JioBlackRock Broking went live
+with its self-directed investing platform, featuring an introductory zero-brokerage
+structure across stocks, ETFs, and IPOs.
+
+To contextualize our progress, I want to emphasize our overarching objective:
+building a full-stack financial services institution anchored by dedicated operating
+entities across the four pillars of Borrow, Invest, Transact and Protect, with the
+JioFinance app serving as the central engine supporting the incubation and scale-up
+of these diverse businesses, which together form a virtuous flywheel of financial
+offerings designed to cater to the needs of all Indians.
+
+This full-stack franchise is anchored by five structural moats: our brand strength, a
+strong capital base, zero tech-debt, cost engineering at scale and a late entrant
+advantage, which allows us to observe and learn from evolving market dynamics and
+adapt with agility.
+
+Jio Financial Services now has the unique distinction of partnering with three of the
+world’s most well-regarded financial institutions - known for their pedigree and
+expertise in their respective area of operations: BlackRock for investments, Allianz
+for insurance and Bank of America for lending.
+
+From inception, we recognized that combining world-class product and operational
+expertise with our deep local reach creates a highly compelling value proposition. It
+brings globally recognised financial services experiences to our customers in India,
+and helps us build more resilient franchises by bringing in best-in-class governance,
+technology and risk management practices.
+
+Jio Financial Services retains full ownership of customer engagement and
+distribution, which helps us maintain superior unit economics and lower customer
+acquisition costs, and build a highly robust full-stack ecosystem.
+
+Moving     on.     This   slide  illustrates the evolution of  our  product
+philosophy—transitioning from a traditional product-push model to a unified,
+three-layer digital marketplace.
+
+At the foundation is a layer of our proprietary product suite across Borrow, Invest,
+Transact, and Protect, which we are aggressively scaling.
+
+
+                                                                                    5
+
+The second layer introduces our marketplace aggregation framework. Recognizing
+that no single institution can fulfill every demographic's risk profile, we curate top-tier
+third-party offerings—like credit cards, personal loans, insurance, and fixed
+deposits—maximizing choice while maintaining strict risk discipline.
+
+Finally, the top layer represents our core pivot: an AI-native, conversational interface
+tailored for hyper-personalization of financial services to the level of each, unique
+individual user. Moving beyond static customer cohorts, our platform dynamically
+synthesizes real-time behavioral insights to recommend the exact right product for
+each individual's life stage—serving as an unbiased digital financial companion.
+
+Our distribution strategy is tailored specifically to the unique operational profile of
+each business line. High-frequency digital channels—namely the JioFinance app,
+MyJio, and our web portals—serve as our central digital storefronts, driving
+top-of-the-funnel customer acquisition across all entities.
+
+Where physical touchpoints are deployed, they are strategically calibrated to the
+specific requirements of the product segment. This omni-channel delivery footprint
+enables us to serve customers across more than 19,000 PIN codes in India.
+
+At Jio Credit Limited, where on-ground presence is required for physical verification
+and structured originations for mortgage loans, we have established 26 offices
+across 19 major cities.
+
+JioBlackRock Asset Management has proven the efficacy of our digital-first approach
+by successfully growing the overall segment as well as tapping the underpenetrated
+markets across the country. To further accelerate our growth trajectory, the AMC has
+established distribution partnerships with over 15,000 Distributors for Mutual funds
+and SIFs, combining digital reach with deep physical distribution.
+
+Jio Payments Bank has scaled its Business Correspondent network to over 633,000
+touchpoints, significantly deepening assisted digital banking access in semi-urban
+and rural centers.
+
+At Jio Payment Solutions, our merchant network spans 26 states, powered by
+AI-enabled merchant onboarding and automated deal negotiation tools.
+
+This fit-for-purpose distribution strategy ensures that as our product suite expands,
+our customer touchpoints remain highly accessible, operationally efficient, and
+cost-effective.
+
+I would like to invite our Group Executive and Chief Technology Officer, Mr. Ganesh
+A R to take you through our Data, Tech & AI initiatives, followed by updates on our
+NBFC and payments businesses.
+
+                                                                                         6
+
+Mr. Ganesh AR (15;36):
+
+Thank you Hitesh.
+
+Our investments in data, technology, and artificial intelligence are operationalizing
+deep structural capabilities across the group.
+
+As a digital-native organization built without legacy technology debt, our architecture
+is designed to integrate enterprise-wide intelligence directly into our workflows. This
+allows us to continuously optimize unit economics, improve process turnaround
+times, and scale our operating volume without a linear increase in cost structure.
+
+This slide illustrates the impact of our Data, Tech and AI initiatives across our four
+primary operational layers: Business Operations, Customer Experience, Risk &
+Fraud Management and Growth & Marketing.
+
+For instance, in Business Processes, Jio Credit has entirely digitised its debt
+collection and management process; whereas, Jio Payments Bank’s partner
+payment settlement process is now fully automated.
+
+In customer experience, our AI and machine learning models have driven
+hyper-personalized customer journeys on the JioFinance app, leading to a customer
+conversion rate uplift of 59%.
+
+And in terms of Growth and Marketing, data cohort-led campaigns drove a 172%
+improvement in conversion performance.
+
+These technology-led capabilities form the foundational bedrock as we drive
+execution across our core operating subsidiaries.
+
+Moving on to the performance of our lending entity, Jio Credit Limited.
+
+As we scale our lending franchise, our primary focus remains squarely on
+disciplined, risk-calibrated growth. We continue to build a high-quality loan book
+anchored entirely in secured lending segments and high-rated corporate exposures,
+ensuring that our growth is both sustainable and value-accretive.
+
+Gross Assets Under Management surged 154% year-on-year to reach Rs. 37,320
+crore, and up subsequent… sequentially from Rs. 30,667 crore in Q1 FY27. This
+sustained expansion in our loan book has been driven entirely by robust organic
+originations.
+
+
+
+
+                                                                                     7
+
+During the quarter, gross disbursements reached a new all time high of Rs. 13,135
+crore, representing a 98% year-on-year increase, and up from Rs. 11,252 crore in
+Q1 FY27.
+
+Our AUM mix remains well-balanced across our targeted borrowing cohorts.
+Mortgages, comprising Home Loans and Loan Against Property, account for 44.5%
+of the total portfolio, with an average ticket size of Rs. 1.4 crore and an average
+tenor of 15.9 years.
+
+Corporate and SME loans represent 44.2% of the book, with an average tenor of
+3.26 years, while retail Loan Against Securities accounts for 11.3%, carrying an
+average ticket size of Rs. 1.3 crore and an average tenor of 3 years.
+
+In terms of the disbursement mix for Q2 FY27, Mortgages contributed 26.1%, Loan
+Against Securities represented 20%, and Corporate and SME Loans accounted for
+53.9%.
+
+This prudent product diversification, coupled with our automated and digital-first
+underwriting frameworks, positions Jio Credit to capture market share, even as we
+continue to scale within risk management guardrails.
+
+Our liability strategy is built on maintaining a diversified, low-cost funding base
+backed by top-tier credit ratings and deep access to market liquidity. This enables us
+to maintain competitive product pricing while protecting our net interest margins.
+
+Looking at our borrowing trajectory for the quarter.
+
+Total borrowings stood at a little over Rs. 42,000 crore, representing a 250%
+year-on-year growth and up sequentially from Rs. 28,120 crore in Q1 FY27. This
+expansion directly supports the rapid scaling of our loan book.
+
+Our borrowing mix remains well-balanced across multiple debt instruments. Bank
+loans, including working capital demand loans and term loans, constitute around
+50% of our total borrowings, down from 60% in Q2 FY26. Additionally, cost efficient
+borrowing through TREPS were introduced during the quarter
+
+Our average cost of borrowing, excluding TREPS, stood at 7.08% in Q2 FY27,
+compared to 7.07% in Q1 FY27, demonstrating strong stability in a dynamic interest
+rate environment.
+
+On interest rate risk management, over 70% of our Assets Under Management are
+on floating rates, enabling interest rate adjustments to be seamlessly passed on to
+borrowers with minimal time lag.
+
+
+
+                                                                                    8
+
+Our capital position remains formidable. Total Shareholders' Equity stood at Rs.
+7,379 crore as of September 30, 2026, with a Capital Adequacy Ratio of 18.50%,
+providing comfortable headroom to support our future growth plans. The infusion of
+the first tranche of its investment of around Rs. 9,500 crore from Bank of America
+into Jio Credit Limited, subject to regulatory and statutory approvals, will further
+bolster our capital base and strengthen our balance sheet for long-term expansion.
+
+Looking at our financial performance for the second quarter.
+
+As our Assets Under Management continue to scale, the business is demonstrating
+strong operating leverage and scale-based cost efficiencies.
+
+Net Interest Income grew 116% year-on-year to Rs. 302 crore, and up sequentially
+from Rs. 257 crore in Q1 FY27. This growth reflects the expansion of our loan book
+combined with disciplined liability management.
+
+Pre-Provisioning Operating Profit surged 151% year-on-year to Rs. 201 crore, and
+up from Rs. 154 crore in the preceding quarter.
+
+Profit After Tax increased 140% year-on-year from Rs. 220 crore, and up from Rs. 96
+crore in Q1 FY27.
+
+This constant trajectory demonstrates that as we scale our lending franchise with a
+focus on risk-calibrated, secured assets, our operating model is delivering
+predictable, high-quality earnings growth.
+
+Moving on to our Payments vertical.
+
+Jio Payments Bank serves as a vital, high-frequency engagement layer across the
+entire group ecosystem. By capturing routine transaction velocity, it deepens
+customer stickiness and builds a natural cross-sell engine for our high-margin
+financial products.
+
+The bank saw strong operational execution that drove meaningful expansion in both
+our customer base and customer deposits.
+
+Our CASA customer base expanded 38% year-on-year to reach 40 lakh customers.
+This customer growth directly translated into strong deposit momentum, with total
+deposits growing 53% year-on-year to Rs. 643 crore.
+
+This underlying growth was further complemented by the expansion of our
+infrastructure-linked digital financial services. During the quarter, we expanded our
+toll operations footprint, which is now operational across 20 national highway toll
+plazas as well as 2 Multi-Lane Free-Flow barrierless toll plazas.
+
+
+                                                                                   9
+
+Consequently, our Total Income for the quarter grew 213% year-on-year to Rs. 94
+crore.
+
+During the quarter, we also received key regulatory approvals to launch our 3-in-1
+Savings Account as well as to act as ‘Banker to the Issue’ for public offerings,
+including IPOs, which will open up new revenue streams for the payments bank.
+
+Looking ahead, our strategic focus remains squarely on deepening customer
+stickiness and expanding high-margin fee streams.
+
+Moving on to Jio Payment Solutions.
+
+In this business, I would like to highlight our key product innovations that continue to
+strengthen our merchant value proposition. The new offerings launched during the
+quarter include contactless Tap-and-Pay on POS terminals for UPI and RuPay
+transactions and cross-border collection capabilities in over 100 currencies with T+2
+settlement for Indian exporters, among other solutions.
+
+Turning to our operating and financial metrics, our Total Payment Value for the
+quarter stood at Rs. 14,682 crore. As Hitesh mentioned earlier, the sequential
+movement in volume reflects our deliberate strategy to prioritize margin-accretive
+business. We are focused on ensuring that every transaction positively impacts both
+our top line and bottom line. Consequently, we chose to let go of certain
+high-volume, low-margin engagements, as our focus remains firmly on profitable
+growth rather than volume expansion alone.
+
+To drive profitable growth, we are actively pursuing high-margin segments, including
+small and medium businesses as well as exporters.
+
+As a direct result of this prudent customer mix and portfolio rationalization, our
+processing margins expanded significantly. Our net processing margin increased to
+14 basis points in Q2 FY27, up from 9 basis points in Q2 FY26 and 12 basis points
+in Q1 FY27.
+
+Correspondingly, Gross Fee and Commission Income reached Rs. 130 crore, while
+Net Fee and Commission Income grew 74% year-on-year to Rs. 21 crore.
+
+With the JioFinance app, we are reimagining what a financial services platform
+should look like for the future.
+
+Given what technology allows for today, and in line with the evolving needs of
+people, having a marketplace with the widest breadth of offerings is not enough by
+itself. Going forward, the moat in financial services is going to be owning the
+customer’s decision-making process. And that moat has to be built over time with
+
+                                                                                     10
+
+features that keep users engaged and guide them towards their financial well-being
+with trust, transparency and security.
+
+Earlier this year, we launched a major update to the JioFinance app, transforming it
+into a neural agentic marketplace powered by 50 AI agents and 10 machine learning
+models. This advanced architecture forms an intelligent, conversational layer that
+dynamically synthesizes customer data to deliver precise financial insights and
+personalized recommendations.
+
+Building on the intelligence and value-back propositions of the JioFinance app, we
+continue to expand our product suite, offering a comprehensive range of financial
+services.
+
+Today, our users have seamless access to an expansive suite of products, including
+71 credit card variants from 16 brands, 11 partner banks and NBFCs for personal
+loans, 7 deposit partners, and 94 insurance plans across 23 insurers. We have also
+recently expanded our offerings with the addition of JioSilver to our product suite.
+
+We recorded a 199% year-on-year rise in Jio Gold purchase transactions. Tax filings
+on the platform increased by 40% year-on-year, while Fixed Deposit Gross
+Merchandise Value grew by 50% quarter-on-quarter.
+
+While our Average Monthly Active Users stood at approximately 80 lakhs during the
+quarter—reflecting a temporary moderation in high-frequency, price-sensitive
+transaction volumes like digital gold due to external market conditions—our core
+user engagement continues to deepen significantly.
+
+During the quarter, we saw approximately 36,000 own and third-party products
+purchased daily across our digital platforms. Furthermore, our JioPoints loyalty
+program is yielding tangible cross-sell benefits: with 34 crore-plus points issued to 77
+lakh customers since launch, users engaged with JioPoints exhibit a 25% higher
+product-per-customer metric compared to the platform average.
+
+Complementing this intelligence is our integrated JioPoints rewards framework,
+which unifies everyday transactions into tangible savings. Customers earn JioPoints
+across routine in-app interactions and can redeem them across a wide network of
+over 110 premier partner brands.
+
+To further deepen customer engagement, we introduced two novel features on the
+app during the quarter—JioFinance+ and JioFinance360.
+
+JioFinance+ is a comprehensive membership program designed to deliver
+unmatched value across eligible marketplace products. Under its value-back model,
+a portion of the platform commission earned on eligible transactions is shared
+
+                                                                                     11
+
+directly with customers. Available complimentary for the first 365 days as an
+introductory offer, JioFinance+ offers tangible value through Assured Cash
+Valueback up to Rs. 5,000 on Personal Loans and up to Rs. 1,000 on Credit Cards,
+an extra 1% Jio Gold bonus on lump-sum purchases of Rs. 2,500 and above, and
+25% accelerated JioPoints across eligible transactions.
+
+Alongside this, JioFinance360 serves as an industry-first, complimentary financial
+health assessment platform. By combining Large Language Models with an
+intelligent rule-based engine, JioFinance360 consolidates fragmented assets and
+liabilities across multiple bank accounts, investments, loans, and insurance policies
+into a single, intuitive report. At its center is a personalized Financial Health Score,
+evaluated across five core pillars namely Spending, Borrowing, Wealth, Protection,
+and Tax. This equips users with actionable insights to eliminate spend leakages,
+address coverage gaps, and optimize tax planning.
+
+Together, these signature features form an intelligent engagement layer that
+enhances platform loyalty and positions JioFinance as a trusted, long-term financial
+companion.
+
+Our core strategic objective is to move beyond standard transaction facilitation by
+embedding smart, value-accretive tools directly into the customer journey. By offering
+proprietary capabilities that guide long-term financial health while rewarding routine
+usage, we deepen engagement across the customer lifecycle and increase customer
+lifetime value.
+
+With this, I would like to invite our Group Executive and Chief Financial Officer, Ms.
+Annapoorna Venkataramanan to discuss the progress across our Invest and Protect
+verticals followed by the financial performance for the quarter.
+
+Thank you.
+
+Ms. Annapoorna Venkatramanan (30:07):
+
+Thank you, Ganesh. Good Evening everyone.
+
+We will start with our Invest vertical, which comprises our Joint Ventures with
+BlackRock for asset management, wealth management and broking.
+
+JioBlackRock Asset Management’s AUM crossed Rs. 22,746 crore, reflecting robust
+growth both year-over-year and sequentially.
+
+As highlighted in our distribution strategy, we have now partnered with over 15,000
+Mutual Fund and Specialized Investment Fund distributors, and have launched
+Regular Plans across all our product offerings to complement our Direct Plans. Our
+
+                                                                                     12
+
+digital-first approach has proven highly successful in expanding the broader market.
+18.6% of our retail customers are new to mutual funds, while over 40% of our retail
+AUM originates from beyond the top 30 cities in India.
+
+I am happy to report that some of our specific funds have emerged as top performers
+in their segments.
+
+Our Liquid Fund has been the top performer in its segment since inception,
+maintaining a quarterly average AUM of over Rs. 10,000 crore during the quarter.
+Additionally, our Overnight and Arbitrage funds delivered strong performance,
+ranking among the top quartile in their respective categories since inception.
+
+In Specialized Investment Funds, or SIFs, our maiden fund reached an AUM of
+approximately Rs. 480 crore within just three months of launch, positioning
+JioBlackRock among the top 10 players in the SIF category with a single fund.
+
+Finally, another important milestone during the quarter was our GIFT City entity
+receiving regulatory approval from the IFSCA to launch the BlackRock Advantage
+World Equity Fund. The fund planned for launch during the current quarter, opens
+up global investment pipelines for Indian investors.
+
+In our wealth management franchise, JioBlackRock Investment Advisers, we
+launched Smart Switch during the quarter, an intelligent tool designed to dynamically
+reallocate capital and optimize an investor’s mutual fund portfolio.
+
+We now turn to the Protect vertical which includes our joint ventures with the Allianz
+Group and our insurance broking arm - Jio Insurance Broking Limited.
+
+As highlighted earlier, our reinsurance business, Allianz Jio Reinsurance Limited,
+underwrote Rs. 244 crore in Gross Written Premium during the quarter, bringing the
+total Gross Written Premium for its first six months of operations to Rs. 510 crore.
+
+Primary insurance carriers recalibrated their exposure to crop insurance to align with
+seasonal and environmental factors, which moderated sequential volume. During the
+quarter, we expanded our participation in surety bonds through strategic partnerships
+with leading insurance carriers.
+
+In general and health insurance, Jio Allianz General Insurance Limited is in
+advanced stages for securing regulatory approvals to commence operations.
+
+We continue to be strongly engaged with Allianz under the non-binding agreement to
+strategise the launch of our life insurance JV.
+
+
+
+
+                                                                                   13
+
+Finally, our distribution model, Jio Insurance Broking Limited saw total premium
+facilitated of Rs. 346 crore in Q2 FY27. Total Fee and Commission Income grew
+46% year-over-year to Rs. 54 crore. The premium facilitated by our Digital Point of
+Sales Person, or POSP channel saw a 7x year-on-year expansion, alongside a 55%
+sequential increase in direct-to-customer digital conversion rates.
+
+Let me touch upon the draft regulations on insurance distribution recently published
+by the IRDAI. We welcome any regulatory modifications aimed at enhancing
+customer transparency, boosting value, and safeguarding policyholder interests.
+
+We view this as a significant regulatory shift that will reshape the industry landscape
+and may lead to consolidation. However, larger, well-capitalized, and
+technology-driven players like Jio Insurance Broking should be able to strengthen
+their presence, also benefiting from being part of a larger and integrated financial
+services ecosystem.
+
+We will continue to remain customer-first with an unwavering focus on delivering
+simple, transparent, and seamless solutions tailored to the evolving needs of our
+customers. We are closely monitoring the developments surrounding these draft
+guidelines and will recalibrate our business strategy as appropriate based on the
+final regulations.
+
+With this, I will move on to discuss the financial performance of Q2 and H1 FY27.
+
+Our financial results for the quarter and six months ending September 30, 2026 are
+prepared in compliance with Indian Accounting Standards, as prescribed by the
+Ministry of Corporate Affairs.
+
+Before getting into the numbers, I would like to set some context and look at how our
+operational outcomes align with our overarching long-term strategy. As a Core
+Investment Company, we build and nurture diverse businesses designed to serve
+four core customer needs: the need to borrow, transact, invest, and protect.
+
+Across all our operating entities, our business expansion continues to be
+underpinned by robust risk management frameworks, stringent compliance
+standards, and prudent liquidity management. As our entities hit critical mass, our
+top-line expansion and unit economics reflect the strength of our digital-native
+models and disciplined cost engineering. Every capital allocation decision is strictly
+guided by our bedrock principles, including adherence to the highest standards of
+corporate governance and unwavering risk discipline.
+
+As Hitesh mentioned earlier, Reliance Services and Holdings Limited became a
+100% step-down subsidiary, resulting in its line-by-line consolidation with Jio
+
+
+                                                                                    14
+
+Financial Services with effect from April 29, 2026. It was earlier being accounted for
+under Share of Associates and Joint Ventures.
+
+This line-by-line consolidation adds to our consolidated total income and
+pre-provisioning operating profit, without impacting our profit after tax. Our financial
+performance for Q2 FY27 and H1 FY27 primarily reflects the robust, organic growth
+momentum we have delivered across all our businesses.
+
+Our consolidated total income, excluding dividend, increased 132% year-over-year
+and 14% sequentially to Rs. 1,699 crores.
+
+Interest Income increased 221% year-on-year and 31% sequentially to Rs. 1,258
+crore driven by strong organic traction in our lending business as well as higher
+scale of treasury operations.
+
+Fees and commission income stood at Rs. 277 crore, nearly doubling year-on-year,
+reflecting the operational scale-up and higher volumes witnessed across our
+payments businesses and insurance broking.
+
+The Net Gain on Fair Value Changes stood at Rs. 165 crore vs. Rs. 180 crore in Q2
+FY26 and Rs. 210 crore in Q1 FY27.
+
+We have maintained a disciplined and proactive treasury management strategy in
+this volatile macro environment. Through strategic portfolio reallocations executed
+during the quarter, we have ensured that our capital remains productively employed,
+by prioritizing safety, liquidity, and yield until these funds are systematically deployed
+into our high-growth operating businesses.
+
+On the expenses front, total expenses increased 166% year-on-year and 14%
+quarter-on-quarter to Rs. 1,125 crore. This was primarily due to a year-on-year and
+sequential increase in Finance Costs to Rs. 578 crore, in line with higher market
+borrowings to support the growth of our lending operations.
+
+Staff expenses stood at Rs. 147 crore from Rs. 95 crore in Q2 FY26 and Rs. 156…
+Rs. 152 crore in Q1 FY27. The sequential decline is on account of annual
+increments and performance bonus payouts for the fiscal year 2026, which were
+paid in Q1 FY27.
+
+Other operating expenses stood at Rs. 401 crore, in line with the scale-up of our
+business infrastructure.
+
+Consequently, our Pre-provisioning Operating Profit, or PPOP, stood at Rs. 574
+crore, up 85% year-on-year and 14% sequentially.
+
+
+
+                                                                                       15
+
+Provisions stood at Rs. 41 crore, in line with the regulatory provisioning requirement
+arising from the expansion of our loan book.
+
+As our joint ventures with BlackRock for asset management, wealth management
+and broking are at a nascent stage, they require necessary gestation expenses to
+scale operations and expand their market reach. During the quarter, we also made
+strategic investments to incubate our general insurance joint venture with Allianz.
+
+Consequent to these incubation investments and the reclassification of RSHL’s
+financials, our Share of Associates and Joint Ventures reported a loss of Rs. 44
+crore for the quarter.
+
+We received a total dividend of Rs. 462 crore in Q2 FY26 and Rs. 509 crore in Q1
+FY27 which includes dividend received on shares of Reliance Industries Limited held
+by Reliance Industrial Investments and Holdings Limited, or RIIHL, and RSHL.
+Adjusting for this dividend received in prior periods, profit before tax increased 51%
+year-on-year and around 6% quarter-on-quarter to Rs. 489 crore.
+
+Reported Profit After Tax stood at Rs. 340 crore vs Rs. 695 crore in Q2 FY26 and
+Rs. 830 crore in Q1 FY27.
+
+Moving on to our consolidated Balance Sheet.
+
+One of our foundational advantages is a strong, resilient balance sheet that provides
+the financial capacity to support long-term expansion. This balance sheet structure
+allows us to scale operations, invest in product and technology innovation, and
+evaluate strategic growth opportunities.
+
+As on September 30, 2026, our Consolidated Net Worth was close to Rs. 1.3 lakh
+crore. Our Total Assets stood at over Rs. 1.81 lakh crore, with Total Consolidated
+Investments accounting for approximately Rs. 1.3 lakh crore.
+
+Moving on to the standalone financial performance.
+
+Total income increased 73% year-on-year and 6% sequentially to Rs. 233 crore.
+Interest income during the quarter stood at Rs. 154 crore vs Rs 7 crore in Q2 FY26
+and Rs. 105 crore in Q1 FY27, due to the same factors mentioned earlier.
+
+Net gain on fair value changes stood at Rs. 78 crore vs Rs 107 crore in Q2 FY26
+and Rs. 110 crore in Q1 FY27.
+
+This overall top-line growth is a direct result of our enhanced corporate treasury
+operations as explained earlier.
+
+
+
+                                                                                   16
+
+Standalone total expenses stood at Rs. 59 crore. Within which, staff expenses stood
+at Rs 25 crore vs Rs. 24 crore in Q2 FY26 and other operating expenses stood Rs.
+33 crore vs. Rs. 36 crore same time last year.
+
+During the quarter, we received a dividend of Rs. 445 crore from RIIHL versus Rs.
+405 crore in Q2 FY26. Consequently, standalone PAT for the quarter stood at Rs.
+575 crore, representing a growth of 26% year-on-year and 447% sequentially.
+
+The Company’s standalone total assets as on September 30 stood at Rs. 35,657
+crore, including investments of over Rs 30,000 crore. Standalone net worth stood at
+Rs. 35,521 crore as of September 30, 2026 vs Rs. 29,305 crore as on March 31,
+2026. The increase was primarily due to the receipt of the second tranche of Rs.
+5,934 crore last quarter for the preferential warrants issued to the Promoters.
+
+Let us now take a detailed look at the performance of our NBFC, Jio Credit Limited.
+
+For the quarter ended September 30, 2026, Jio Credit’s net interest income
+increased 116% year-on-year and 17% sequentially to Rs. 302 crore. This
+performance was driven by a three-fold growth in interest income to Rs. 900 crore,
+reflecting the expansion in our assets under management. Sequentially, interest
+income grew 32%.
+
+Concurrently, interest expenses increased to Rs. 599 crore as the NBFC continued
+to tap external debt markets to fund its lending operations.
+
+Our net total income for the quarter stood at Rs. 322 crore, up 124% year-on-year
+and 18% sequentially.
+
+Our modular, modern tech architecture continues to drive strong operating leverage,
+allowing us to scale our last-mile fulfillment footprint while keeping our cost structure
+lean.
+
+Pre-provisioning operating profit, or PPOP, for the quarter grew to Rs. 201 crore, up
+15% YoY and 31% sequentially. I clarify, up 151% YoY and 31% sequentially.
+
+As highlighted earlier, provisions at Rs. 41 crore were in line with the regulatory
+provisioning requirement arising from the expansion of our loan book.
+
+Profit after tax was up 140% year-on-year and 24% sequentially to Rs. 120 crore for
+the quarter.
+
+Moving on to the balance sheet of Jio Credit.
+
+
+
+
+                                                                                      17
+
+Total Assets stood at Rs. 50,337 crore with net loans of Rs. 37,493 crore as of
+September 30, 2026. Total Shareholders’ Equity stood at Rs. 7,379 crore and total
+borrowings a little over Rs. 42,000 crore. Subject to necessary approvals,
+approximately Rs. 9,500 crore of initial investment from Bank of America into Jio
+Credit will further fortify our balance sheet, giving us a strong capital cushion for
+future expansion.
+
+In summary, our operational velocity is firmly established, with sustainable income
+from core operations increasingly driving overall top-line growth. We remain sharply
+focused on unit economics and value-accretive expansion across our businesses. By
+continuously leveraging cutting-edge tech, data, and AI, we are scaling business
+growth and delivering structural operational efficiencies.
+
+With this, I would now like to hand over the call to Dipak.
+
+Mr. Dipak Daga (51:16):
+
+Thank you Hitesh, Ganesh and Annapoorna.
+
+To summarize our progress, the second quarter of fiscal 2027 reflects sustained
+execution momentum and structural strength embedded across our entire
+ecosystem. All our operating businesses are gaining rapid scale and velocity—from
+our core lending and payments verticals operating with healthy, margin-accretive unit
+economics, to our newly operationalized ventures in reinsurance and asset
+management.
+
+A central pillar of our overarching strategy is the creation of a 360-degree financial
+ecosystem that seamlessly addresses the four core needs of Indian consumers and
+enterprises: Borrow, Transact, Invest, and Protect. To accelerate this journey and
+bring world-class capabilities to India, we continue to forge strategic joint ventures
+with global industry leaders. Strategic partnerships with global powerhouses such as
+BlackRock and Allianz—alongside our proposed venture with Bank of America,
+subject to necessary regulatory and statutory approvals—allow us to combine
+institutional-grade expertise, advanced technology, and global risk management
+frameworks with our vast local distribution and deep data analytics.
+
+This execution momentum is clearly reflected across our key operating metrics:
+JCL’s AUM reached Rs. 37,000 crore, JPSL’s TPV stood at approximately Rs.
+15,000 crore, JioBlackRock AMC scaled to Rs. 22,700 crore, and JPBL’s deposits
+touched Rs. 640 crore across 40 lakh customers. Additionally, our Reinsurance JV
+underwrote Rs. 510 crore in its first six months, while our wealth management and
+broking businesses prepare to gain scale.
+
+
+
+                                                                                   18
+
+At the center of this ecosystem, the JioFinance app with 3.2 crore unique users
+delivers innovative product features that drive daily high-frequency engagement and
+continuously power our financial flywheel.
+
+As we accelerate our growth engines, every strategic choice remains firmly anchored
+in our four foundational principles: Reputation above all, Regulatory adherence in
+letter and spirit, Return of capital, and Return on capital.
+
+Thank you for your continued trust and partnership. We invite you to review our
+detailed presentation uploaded on our website and stock exchanges.
+
+Have a wonderful rest of the evening.
+
+
+
+
+                                                                                 19
+

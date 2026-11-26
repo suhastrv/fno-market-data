@@ -1,0 +1,769 @@
+Ref: SEC/1422/2026-27
+
+                                                                                      November 12, 2026
+
+
+The Secretary, Listing Department                            The Manager, Listing Department
+BSE Limited                                                  National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                                   Exchange Plaza, 5th Floor, Plot No. C/1,
+Dalal Street,                                                G Block, Bandra-Kurla Complex, Bandra (E),
+Mumbai - 400 001.                                            Mumbai - 400 051.
+Maharashtra, India.                                          Maharashtra, India.
+Scrip Code: 500470                                           Symbol: TATASTEEL
+
+Dear Madam, Sir,
+
+                    Sub: Transcript of ‘Tata Steel 2QFY27 Earnings Discussion’
+
+This has reference to our letter dated October 30, 2026, intimating that post the announcement of
+Financial Results of Tata Steel Limited (‘Company’) for the quarter and half year ended
+September 30, 2026, the Company will host an Earnings Discussion on November 7, 2026 at 2:00
+p.m. (IST).
+
+The Board of Directors of the Company at its meeting held on November 7, 2026 inter alia
+approved the audited Standalone and unaudited Consolidated Financial Results of the Company
+for the quarter and half year ended September 30, 2026. The Company thereafter hosted its
+2QFY27 Earnings Discussion on November 7, 2026.
+
+In this connection, we enclose herewith the transcript of the ‘Tata Steel 2QFY27 Earnings
+Discussion’.
+
+The transcript is also available on the website of the Company at:
+https://www.tatasteel.com/investors/financial-performance/analyst-call-recording/
+
+This disclosure is being provided in compliance with Regulation 30 read with Para A of Part A of
+Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended.
+
+This is for your information and records.
+
+Yours faithfully,
+
+Tata Steel Limited
+PARVATHEESAM             Digitally signed by PARVATHEESAM
+                         KANCHINADHAM
+KANCHINADHAM             Date: 2026.11.12 21:43:31 +05'30'
+
+Parvatheesam Kanchinadham
+Company Secretary and Chief Legal Officer
+
+
+Encl.: as above
+
+CORPORATE PARTICIPANTS
+
+T V Narendran, CEO & MD - Tata Steel Limited
+Koushik Chatterjee, ED & CFO - Tata Steel Limited
+Samita Shah, VP Corporate Finance, Treasury, & Risk Management - Tata Steel Limited
+
+
+
+CONFERENCE CALL PARTICIPANTS
+
+Ashish Kejriwal, Nuvama
+Vibhav Zutshi, JP Morgan
+Rahul Gupta, Morgan Stanley
+Sumangal Nevatia, Kotak Securities
+Vikash Singh, ICICI Securities
+Ritesh Shah, Investec
+Parthiv Jhonsa, Anand Rathi
+
+
+
+PRESENTATION
+Operator
+Ladies and gentlemen, good day and welcome to the Tata Steel earnings call. Please note that this meeting is being recorded.
+I would now like to hand the conference over to Ms. Samita Shah. Thank you and over to you, ma'am.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+Thanks, Shohom. Good afternoon, everyone. Wishing you all a very happy Diwali and thank you for joining us today on this
+call to discuss our results for the second quarter of FY2027. We have with us Mr. T. V. Narendran, CEO and Managing
+Director, and Mr. Koushik Chatterjee, ED and CFO. The results have been sent to the stock exchanges, as well as a
+presentation that gives you a little bit of the background. We will answer any questions you may have on this call. I would just
+like to remind all our participants that the entire proceedings of this call will be governed by the Safe Harbour clause, which
+is on page two of the presentation. I will now request Naren to make a few opening comments, and then we will move on to
+Koushik. Thank you, and over to you, Naren.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Good afternoon, everyone. Happy Diwali to all of you, and sorry to drag you out on a weekend.
+Tata Steel delivered an improved performance in a seasonally softer quarter, despite significant cost inflation across the
+value chain due to the ongoing conflict in West Asia. Since the conflict has started, oil and freight rates have risen by about
+40%, and spot coking coal prices have also moved from about $235 per ton to $280 per ton, though they have come down
+a bit in the last few days. Key inputs used in value-added and downstream products, such as zinc, have also gone up. The
+disruption has also resulted in higher logistics costs through elevated vessel charter rates, demurrage charges, and insurance
+premia across key shipping routes, while currency movements in India have also added to the cost pressures. At the same
+time, Chinese steel exports continue to be over 10 million tons a month, and that has an impact on global trade flows.
+However, we were able to successfully navigate this higher-cost environment and generate close to 90 bps improvement in
+EBITDA margin, from 15% in 1Q to 16% in 2Q, on a consolidated basis.
+Let me now take you through each geography. In India, we focused on maximising volumes to offset the cost pressures.
+India's deliveries grew 16%, outpacing production growth of 7% on QoQ basis. Higher deliveries reflect healthy demand and
+our ability to translate market opportunities into performance despite the seasonal headwinds of monsoons. Our extensive
+
+
+                                                                                                                              1
+
+market reach, combined with a sustained focus on product mix and customer centricity, have enabled us to maintain strong
+market traction across chosen segments.
+Our Automotive & Special Products vertical continued to deepen presence in advanced applications, with hi-end sales
+growing 26% YoY. We secured approval for the CR IFHS340 grade for automotive skin panels, developed a chrome-free
+galvannealed product for 2 - wheeler fuel tanks, and progressed on customer approvals for specialised suspension and
+transmission applications. These developments reflect our ability to co-create solutions with our customers. Our flagship retail
+brand, Tata Tiscon, grew 13% YoY, supported by a distribution network that reaches nearly 97% of India's districts. In the
+last twelve months, Tata Tiscon sold ~2.7 million tons to around 500,000 customers. Embedded within Tata Steel, we now
+have Tata Tiscon retail franchise of about $1.8 billion, and the recently commenced 4.8 MTPA NINL expansion will support
+further growth of our retail business. Our digital platforms help us improve market access from districts of India to pin-codes
+across the country. We have also focused on strengthening our presence in solution-oriented and value-added businesses,
+moving beyond steel supply to provide next-gen construction solutions that address customer pain points and create mutual
+value. Our expanding portfolio including Sm@rtFAB, ReadyBuild (which are Cut & Bend, and Bore pile cages) and plate
+fabricated sections, all of which are seeing strong market acceptance. Overall, ready-to-use construction solutions grew 32%
+YoY in the second quarter, and we launched India's first CBRI-certified Mesh Masonry Reinforcement as an alternative to
+conventional RCC beams. We also secured the first order for low-carbon steel at a green premium from our Ludhiana facility.
+In addition, Tinplate and Tata Steel Colors grew 17% and 49% YoY, respectively. We are making good progress in sectors
+such as Oil & Gas and Shipbuilding, including supplies for Sagar Manthan, the ocean research vessel being built under the
+Government of India's Deep Ocean Mission.
+Moving to the UK, deliveries were ~0.38 million tons. While prices remained firm, volumes were impacted by elevated imports
+under the transitional safeguard arrangements. Orders booked before 14 th March 2026 were exempt from quota utilisation
+during July – September’26, this led to a surge in imports and inventory accumulation across the supply chain. which is taking
+some time to be flushed out. In addition, UK steel exports to the EU are now subject to quota restrictions, creating a further
+constraint on market access. We remain engaged with the authorities on a trade framework, including CBAM, that better
+reflects product-level demand and market dynamics.
+In Netherlands, Liquid steel production was ~1.52 million tons while deliveries were ~1.30 million tons. The Direct Sheet Plant
+restarted in early August under the terms agreed with the regulator. The technical measures implemented are delivering the
+intended outcomes, with Chromium-6 emissions reducing materially and currently remaining below prescribed limits. We
+continue to closely monitor developments regarding the EU ETS, CBAM and other regulatory matters that could influence
+the operating environment.
+With this, I will hand over to Koushik for his comments. Thank you.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Thank you, Naren. Good afternoon to all who have joined in. Before we begin, I would like to wish you all a very happy Diwali.
+
+The first half of this financial year was characterised by significant external volatility. The conflict in West Asia continued to
+disrupt global trade flows, with vessels rerouted around the Cape of Good Hope, extending transit times by 10 – 14 days,
+increasing fuel consumption by almost 40%, and keeping war-risk insurance costs materially above pre-conflict levels. Freight
+rates remained elevated and European gas prices were more than twice the January 2026 levels. Meanwhile, Chinese steel
+exports remained persistently high at 86 million tons year-to-date and are expected to again exceed 100 million tons this
+calendar year.
+
+Against this backdrop, our focus at Tata Steel has been the same: strengthening earnings, maintaining operational agility,
+and improving cost efficiency to improve cash generation. Our performance in the first half of this financial year is best
+assessed through this lens. Consolidated revenues stood at Rs 1,26,231 crores and EBITDA was Rs 20,035 crores, which
+translates to an EBITDA margin of about 16%. Consolidated EBITDA improved by 21% or Rs 2,160 per ton on YoY basis.
+These results reflect the strength of our India business, supported by disciplined cost management and capital allocation.
+
+I would now like to elaborate on three themes. Firstly, the quality of our India earnings and plans to grow both volume and
+product portfolio. Secondly, our assessment of the evolving situation in the Netherlands and the UK; and finally, our focus on
+cash generation and continued cost transformation, with the launch of a multi-year program to drive efficiencies, operating
+model resets, and cost takeouts to sustain competitiveness.
+
+
+                                                                                                                                2
+
+Let me start with India, which continues to be the anchor of our performance and accounts for nearly three-fourths of our
+crude steel production. In a quarter that is traditionally impacted by monsoons and weaker construction activity, as Naren
+mentioned, we delivered our strongest-ever second quarter performance. Healthy demand enabled growth of 16% QoQ in
+deliveries and outpaced the highest-ever second-quarter production.
+
+At the same time, raw material and logistics costs increased meaningfully during the quarter. Total raw material costs were
+higher by about Rs 2,408 crores. While benchmark coking coal prices increased by 12% between July and September, the
+impact on our imported coal consumption cost was limited to around 3%, or approximately Rs 250 crores, reflecting the
+benefits of our coal blending strategy and increased focus on leaner coals. The balance of the increase was primarily driven
+by higher inbound logistics costs, reflecting elevated freight rates, demurrage and vessel charter expenses, as well as higher
+purchases of coke and scrap. Inventory drawdown of around 68 kt in the second quarter compared with a build-up in the first
+quarter led to a further increase of Rs 2,066 crores. Overall, Material costs were up Rs 4,475 crores or Rs 4,128 per ton on
+QoQ basis. However, this was partly offset by improvement in conversion costs to the extent of Rs 3,317 per ton, driven by
+operating leverage on account of higher volumes and cost take-outs. As a result of the above, Standalone EBITDA per ton
+moderated to around Rs 17,257 per ton while absolute EBITDA increased 10% QoQ to Rs 10,315 crores.
+
+NINL recorded an EBITDA of Rs 318 crores at a margin of 21%. The 4.8 MTPA expansion project has entered the execution
+phase and remains on track for commissioning in FY2030. Site development works, including road and area grading, are
+underway, while ordering of key equipment such as the blast furnace package, continues to advance. The project comprises
+four long-product rolling mills, including rebar and wire rod facilities. Although the overall ramp-up will be aligned with the
+commissioning of the steelmaking complex, one rebar mill is expected to come on stream earlier, enabling an initial production
+ramp-up ahead of the upstream facilities. The amalgamation of NINL with Tata Steel remains on track for completion this
+financial year, subject to final NCLT approval which is scheduled for hearing later in November.
+
+Volume growth remains important for us, but equally so is increasing the value intensity of our portfolio. Our downstream
+projects are progressing well. The 0.7 MTPA HRPGL project has entered the construction phase, with structural erection and
+piping works underway. This first-of-its-kind facility in India will serve the energy, automotive and construction segments and
+introduce galvannealed products, enabling Tata Steel to address customer requirements and support import substitution.
+The doubling of tinplate capacity is also advancing with civil and structural works underway and will aid in market consolidation
+in the packaging segment. Alongside these, we recently launched Colorcoat, our globally recognised pre-painted steel brand,
+in India, bringing proven European technology to the country's growing construction sector. We also continue to expand our
+tubes business and ready-to-use construction solutions to address evolving customer needs. Our downstream growth will
+continue to get priority as we move forward.
+
+Let me now turn to Netherlands. The key development during the quarter was the restart of the Direct Sheet Plant. In the first
+quarter, we effectively lost almost the entire output of this facility, which represents around 1.4 million tons of annual
+processing capacity and about 18% of the total volumes in the Netherlands. The plant successfully restarted in early August
+under the terms of agreement with the regulator and is presently operating at rated capacity, subject to periodic review.
+Importantly, the technical measures implemented are delivering the intended outcomes, with Chromium-6 emissions reducing
+materially and currently remaining below prescribed limits. The significance of the restart extends well beyond volumes. It
+strengthens our product mix, improves the efficiency of the integrated production chain and lowers conversion costs. As a
+result, EBITDA increased from €4 million in the first quarter to €72 million in the second quarter, which translates to about
+€56 per ton. Turning to the broader situation in the Netherlands. Since the signing of the Joint Letter of Intent in September
+2025, we have completed engineering and technical work on the integrated health and decarbonisation project. While this
+work has further matured the DRI – EAF pathway, it has also reinforced our view that the long-term competitiveness of the
+IJmuiden site will be determined by the resolution of a number of critical external factors, rather than project design alone.
+
+Firstly, discussions continue with the Regulator and the Province of North Holland regarding the timing and sequencing of
+the proposed closure of Coke & Gas Plants 2 and 1. Our position remains unchanged: any closure process must be executed
+in a safe, responsible and operationally controlled manner. We have provided detailed technical assessments and continue
+to engage constructively with all stakeholders to support an orderly transition. However, the timing and outcome of the
+process remain uncertain. Secondly, we remain engaged on the evolving framework governing steel slag management.
+Temporary disruptions to slag off-take have resulted in additional stockpiling at site. A range of mitigation measures are being
+pursued, including technical assessments, alternative storage and disposal solutions, and ongoing stakeholder engagement.
+More broadly, the economics of both the existing business and any future decarbonisation pathway will depend on the
+resolution of these matters, together with greater visibility on long-term energy affordability, capital requirements, permitting
+
+
+                                                                                                                               3
+
+timelines and the broader investment framework. Many of these factors are external to the company and their timing and
+outcomes remain difficult to predict.
+
+Against this backdrop, Tata Steel, the Government of the Netherlands and the Province of North Holland have agreed to
+extend the Joint Letter of Intent by five months to March 2027. The extension provides additional time for the parties to work
+towards a more comprehensive framework that supports both decarbonisation and the long-term competitiveness of the site.
+Importantly, while the DRI – EAF pathway remains the reference case under the Joint Letter of Intent, we continue to assess
+a range of strategic alternatives and sequencing options. The optimal pathway will ultimately depend on how the various
+external factors evolve and the implications they have for future cash flows and competitiveness.
+
+Given the extent of these uncertainties, it is difficult to form a reliable view on the range of potential outcomes or assign
+probabilities to them. The Board and Management therefore believe that realising any change in the carrying value of the
+business at this time would not faithfully represent the company’s position, given the uncertainty of the outcomes. We continue
+to monitor developments closely and will reassess the position as key uncertainties are resolved. We expect greater clarity
+by 1st March 2027, the revised maturity date of the Joint Letter of Intent. The extension is intended to provide time to conclude
+discussions on the critical outstanding issues, establish a clear direction and enable a more definitive assessment of the
+long-term.
+
+Moving to the UK, the market has become very challenging. While the second-quarter net realisations improved by around
+£72/t on a QoQ basis, deliveries declined to about 0.4 million tons. The key point is that the effective market available to UK
+producers has essentially become smaller. Domestic demand remains weak, with automotive and construction activity
+expected to decline by 2 – 4% in the current calendar year, while import pressure remains elevated. Between April and July
+2026, imports averaged around 738 kt per month, about 22% above the 2025 levels. This has resulted in flat steel inventories
+in the UK rising to roughly 865 kt by September, nearly 60% above normal levels and equivalent to almost three months of
+demand. With the change in quotas, the market is rebalancing, but it is taking longer than what we had initially estimated to
+liquidate old inventories. Having said that, it is important to view the UK business through the lens of the broader Tata Steel
+system rather than as a standalone operation. While TSUK continues to report EBITDA losses during this transition period,
+its downstream assets provide strategic access to customers and end markets and, in many respects, operate as an
+extension of Tata Steel India's value chain. As India's steel production continues to grow, these assets effectively represent
+a fifth hot strip mill for the Tata Steel Group, enabling Tata Steel to convert substrate into higher-value products closer to
+customers. Consequently, while Tata Steel UK is currently loss-making on a standalone basis, the wider system economics
+and value creation for Tata Steel remain materially more positive than what is reflected in the UK entity's standalone
+performance. Further, the exports from the UK into the EU are now subject to quota restrictions, creating an additional
+constraint on market access. We continue to engage closely with the Government of UK and trade authorities on measures
+that improve market balancing and ensure the trade framework better reflects prevailing market conditions.
+
+Turning to the transition project, execution remains on track. The Llanwern pickle line has fully ramped up, and the 3.2 MTPA
+EAF project continues to progress in line with plan. Major enabling works have been completed and key contracts have been
+awarded. As project activity ramps up, our engagement with the UK Government and other stakeholders is increasingly
+focused on ensuring an appropriate investment framework, trade quotas, competitive energy prices and timely grid
+connectivity, all of which are important to the long-term competitiveness of the site.
+
+Overall, operating cashflow before capex was Rs 5,160 crores for the quarter. Capital expenditure was Rs 3,280 crores in
+the quarter, taking the first half spend to Rs 6,860 crores. During the quarter, the Company also paid a dividend of around
+Rs 5,000 crores. Consistent with our capital allocation framework, cashflows continue to be prioritised towards growth
+opportunities in India. This is reflected in the strong returns being generated by the business, with Return on Invested Capital
+(ROIC) of the India operations at 27% and consolidated ROIC at 14%. Net debt stands at Rs 91,423 crores. Part of the rise
+in debt of about Rs 2,200 crores was on account of increase in leases post the acquisition or consolidation of TMILL. Net
+debt to EBITDA remained stable at ~2.4x, well within the stated threshold and group liquidity remains strong at Rs 40,076
+crores.
+
+Before I conclude, a brief update on the cost transformation. During the first half, the crisis in West Asia, planned shutdowns
+in India, the Direct Sheet Plant outage in Netherlands and the unfortunate fire at Tata Steel UK distorted some of the cost
+take-out profile. As a result, the benefits of our cost transformation programme were not fully visible in the reported numbers.
+Our FY2027 target remains unchanged at about Rs 7,000 crores of savings primarily across India and Netherlands
+operations. In the first half, we delivered about Rs 1,800 crores. The program is generally weighted to the second half. The
+
+
+                                                                                                                               4
+
+specific levers such as coal blend, procurement optimisation, energy and logistics, inland waterways among others, are
+progressing.
+
+With that, I will end my commentary and open the floor to questions. Thank you so much.
+
+
+QUESTIONS AND ANSWERS
+
+
+Operator
+Thank you, sir. We will now begin with the Q&A session. The first question is from Ashish Kejriwal of Nuvama. Ashish, please
+go ahead.
+
+
+Ashish Kejriwal, Nuvama
+Good afternoon, everyone. Happy Diwali. There are two questions from me. The first is on India. We have been talking about
+post 2030, we want to maintain our competitiveness and our margins. In that regard, before that, are we going to increase
+our sales volume in iron ore also over the next three years? And what kind of value addition are we trying to do, at least in
+the pipes and tubes segment? Are we open to inorganic expansion also there? That's my first question on India.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Iron ore sales, yes, are very much part of our plan. This year, Koushik, if I remember right, we will be doing about 8 million
+tons or something like that.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+About 10 million tons.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Yes, about 10 million tons of iron ore sales, and last year I think we did about 2 million tons or something. So that is very
+much part of our plan. We optimise on the qualities of ore that are available for our use as well as what is available for sale,
+and we will continue to grow that side of the business going forward.
+As far as growth in downstream is concerned, we are always looking at growth opportunities. Today a lot of our growth has
+come from what we call conversion partners, who convert the steel for us, and that has been the capital-light way of growing
+for us in both tubes and wires. Otherwise, we will constantly look at the opportunities that there are. Koushik, do you want to
+add anything?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+No, I just gave the commentary on the downstream growth, which also includes what we have done in tubes growth in the
+last couple of years through the tube partners. In the other areas, some of the growth is organic and currently underway. I
+gave a commentary on that, and I don't want to add anything to that.
+
+
+Ashish Kejriwal, Nuvama
+Sir, my second question is, the way we have performed in our Indian business, in this quarter also, Rs. 17,000-plus EBITDA
+per ton is really worthy. My question is whether we are going to sustain that, and if you can guide for the second quarter also,
+the way you have guided. In the case of the Netherlands, we have done $60-plus per ton EBITDA, do we see a further
+increase in that until the time we go for the next phase of expansion in the Netherlands? And lastly, any sense on UK
+operations, whether we are ever going to break even?
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Let me talk about India. I think you are probably asking about 3Q, right? 2Q is behind us.
+
+                                                                                                                              5
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Second half.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+So, I think we expect the second half to be stronger than the first half, for two or three reasons. One is that, from a Tata Steel
+point of view, we will have a bit more volume in the second half than we had in the first half. Secondly, even in the first half,
+prices went up in April and May, then dropped in June, July, and August, and then started going up again in September. So,
+we have come into this quarter at a reasonably high level of prices, and normally January to June is always the best period
+for the steel business, because the monsoons and festivals are behind us and activity is at its peak. So, for many reasons,
+we expect the second half to be better than the first half.
+As far as the Netherlands is concerned, we expect a better 3Q and 4Q than 1Q and 2Q. So again, the second half will be
+much better than the first half. As far as the UK is concerned, yes, this is something we have been struggling with for multiple
+reasons. While we have taken a lot of action internally, currently the problem, as Koushik said, is that we are selling only
+about 400,000 tons a quarter, as against the 600,000 tons a quarter that we want to be selling in the UK. That is largely
+because the imported material lying in the UK market is quite high, and we will see through this quarter and next quarter
+before most of that gets flushed out. While the prices are good and the spreads are good, the volumes are not good, and
+hence, that has a negative impact on our costs. Despite taking out almost £400 million of fixed costs, we are still a business
+with reasonably high fixed costs, which cannot afford volumes to be at two-thirds of where they should be. So, our own
+expectation is that we will come close to breakeven in 4Q, when most of the stocks would have got flushed out of the system.
+We have had a few setbacks in the UK, so obviously, until we are there, it doesn't look like our promises are happening. But
+we are expecting that by 4Q we will be close to breakeven.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+If I can just add, Naren, we also see that the reason the improvement in the Netherlands and the UK is forecasted is that
+prices are increasing, especially due to the contract renegotiation in both geographies. Therefore, the spread impact is more
+positive than where we are today, and that will be the key reason why we expect a much better Netherlands and also lower
+losses as far as the UK is concerned. And if the inventory is washed out by the fourth quarter, then I think volumes will also
+start coming back.
+
+
+Operator
+Thank you, sir. The next question is from Vibhav Zutshi of J.P. Morgan. Vibhav, please go ahead.
+
+
+Vibhav Zutshi, JP Morgan
+Hi, thanks for the opportunity. I just wanted to follow up on the inventory situation in Europe. Any sense that you can give on
+Europe volumes for the second half, both in the Netherlands and the UK? Obviously, pricing has improved a little bit, but
+some of the peers have tried to take pricing as far as €780 – €800 per ton, and that has not really come through. With the
+contract negotiations happening in November, how is the environment looking? Thank you.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+I think the inventory issue that we described is for the UK, not for Europe, because Europe has already implemented quotas,
+so imports have come down. CBAM is coming in. So, prices in Europe are strong, and the inventory of imports which we are
+dealing with in the UK is not there in Europe. That is why you see a better flow-through, not only of prices but of volumes, in
+the Netherlands.
+The inventory issue that we described is mainly for the UK, where import orders that were booked before, I think, 14 th March,
+were allowed to be imported till the July – September quarter, and that brought in a lot of material. We think some of it is
+getting flushed out now, but it will be March by which most of it will get flushed out, and in some categories until June next
+year. The prices there, in fact, the UK prices are actually higher than European prices just now, but the problem is more of
+volumes. We need to get to 500,000 to 600,000 tons a quarter of volume to really come to that break-even level that we have
+been discussing.
+
+                                                                                                                                6
+
+As far as the Netherlands and the UK are concerned, this is the time when we do the price negotiations for next year, so the
+packaging contracts, auto contracts, etc. This negotiation is currently being done in market conditions which are quite strong,
+so we expect a good outcome, and that will get reflected in the 4Q realisations. That is why we said 4Q for both the UK and
+the Netherlands should be better than the previous quarters. As far as specific prices are concerned, the price levels that you
+indicated are around the levels at which it is in Europe just now.
+
+
+Vibhav Zutshi, JP Morgan
+Okay, got it. My second question is on India, so two quick questions. Firstly, can you highlight whether there are any positive
+auto contract price revisions that have come in or can come in this quarter? And secondly, construction and infrastructure
+sales volumes have declined in 2Q on a YoY basis, from 1.4 to 1.2 million tons. Are there any reasons behind this? Thank
+you.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+On auto contracts, we actually saw a lot of the benefit in 2Q, because a lot of the contracts that were negotiated for 1Q also
+got their realisations in 2Q. So 2Q got a bump-up. While negotiations are going on for 3Q and 4Q, there may be price
+increases, but the bump-up in 2Q, from 1Q and 2Q coming together [inaudible]. More importantly, auto volumes are very
+strong, which is reflected in the release that we gave, and that helps us. Within auto also, the product mix is very good. We
+have a 50% share, which we continue to maintain.
+As far as construction is concerned, I would assume that is because we have sold more in retail, which is always our preferred
+segment. Samita can later clarify the numbers. Last month we sold 270,000 tons of Tata Tiscon in the retail segment. So,
+that eats into what we typically sell to the bigger construction companies, because we get a far better price when we sell in
+retail than when we sell to big construction companies. That is the only reason I can think of; us optimising the market.
+Samita?
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+Vibhav, if you look at our segments, retail is shown separately from construction. When you think of construction, retail is
+essentially construction, so you might want to club those together and see.
+
+
+Operator
+Thank you. The next question is from Rahul Gupta of Morgan Stanley.
+
+
+Rahul Gupta, Morgan Stanley
+Thank you for taking my question. I have two questions. One is on the Netherlands. We saw a sharp moderation in volumes
+QoQ. Can you help us understand what drove that? And with capacity now running at full operations and with inventory build-
+up QoQ, how should we look at the overall volumes in the Netherlands in the second half? That's my first question.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+In 1Q, we lost most of the quarter as far as the Direct Sheet Plant (DSP) is concerned. The DSP is about [inaudible], and
+that was closed because of some of the regulatory issues we were dealing with. That started coming back in August, so we
+got most of August and all of September of DSP production, and that is why volumes got better in 2Q. In the second half of
+the year, hopefully the DSP is going to be running all the time, and we are also looking to drive better stability in the rest of
+the plant. I don't think we give quarter-wise volume guidance, but like I said, overall, we expect the second half to be better
+than the first half. Koushik, do you want to add anything?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+I think that's fine. Overall, from a production point of view, for the full year we should target more around 6.5 MTPA and
+deliveries around 6 MTPA. That would effectively mean that the next two quarters we will go back to the average of what we
+normally do, 1.7 million tons.
+
+
+
+                                                                                                                               7
+
+Rahul Gupta, Morgan Stanley
+I got it. What I wanted to understand was that your volumes are materially lower than production in the second quarter as
+well. I understand production got impacted because of the DSP shutdown, but what impacted sales volume during the
+quarter?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Because we don't keep so much inventory. There is a correlation between production and deliveries, right, Rahul? If the
+production numbers are lower. So, we also had issues in production on the hot metal side this quarter. The DSP was shut
+for [inaudible], and at March-end we had inventories which got liquidated in the first quarter, which is why the sales volume
+was not correlated so much with the volume production. If you look at it, the flushing of inventories did happen in the first
+quarter, not out of the production of the first quarter itself, but because where it carried forward. Then in the second quarter
+we had that being liquidated. So, you can see the change in stock.
+
+
+Rahul Gupta, Morgan Stanley
+Got it. Thank you. My second question is just an extension of the UK business that we discussed earlier. I understand that
+the break-even of the business has been pushed out to later this year. But I just want to harp more on the fact that you now
+say the UK business should not be treated as a standalone business but as an extension of the overall Tata Steel. How
+should we look at the profitability of the business beyond the end of FY27? Does that mean the profitability of this business
+may remain a drag vis-à-vis the entire group profitability? Thank you.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+The reason I made that comment is that today we supply a significant part of the substrate from India to the UK till the EAF
+is built. The reason why I said that it is an extension, then you look at the combined profitability, the EBITDA, of the volume
+that gets supplied from India to the UK. The part in India makes about, say, Rs. 8,000 per ton of EBITDA margin. It goes off
+to the UK for subsequent rolling, finishing, downstream, etc. The same coil, if you extend further, as of last quarter made
+about Rs. 5,000 to 6,000 per ton. So, if I add the same, it is somewhere around Rs. 13,000 to 14,000 per ton. That is the
+reason why I said that. It will change once the EAF comes in, because then the profitability will be measured based on the
+cost of steel that the EAF makes and the rolling that it does.
+
+
+Rahul Gupta, Morgan Stanley
+Got it. Thank you so much. Wishing everyone a very happy Diwali.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Thank you.
+
+
+Operator
+Thank you. The next question is from Sumangal Nevatia of Kotak Securities. Sumangal, please proceed with your question.
+
+
+Sumangal Nevatia, Kotak Securities
+Good afternoon. Thanks. The first question is on steel prices and costs. Could you guide how we are seeing prices and costs
+move across geographies in 3Q vs. 2Q?
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+In India, we expect the realisations to be about Rs. 3,500 to 3,600 per ton higher in 3Q compared to 2Q. In the UK, it will be
+about £28 to £30 per ton higher in 3Q compared to 2Q. In the Netherlands, while on a product-to-product level it will be about
+€30 per ton higher, but because of the mix that we are selling we are expecting it to be about €11 per ton lower in 3Q
+compared to 2Q. The annual contract benefits will only come from 1Q next year, while they are being negotiated this quarter.
+
+
+
+                                                                                                                              8
+
+As far as costs are concerned, the coking coal impact is expected to be about $15 a ton, both in the Netherlands and in India,
+in 3Q compared to 2Q, on a consumption basis. In the UK, as you know, we don't buy coal, so it is not relevant. The
+Netherlands will get the benefit of about a $5 per ton reduction in iron ore consumption price.
+
+
+Sumangal Nevatia, Kotak Securities
+Understood, that's very helpful. I just wanted to understand the iron ore sales. In the first half, how much have we sold? I
+believe for the full year we are looking at 8 to 10 million tons. And generally, I understand there is a higher royalty if you are
+selling. Could you share some economics as to what the contribution is at the EBITDA level per ton of iron ore?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Because of various reasons, we don’t want to give this seperately, but all I want to say is that it is the same iron ore which
+gets charged to the plant for steelmaking. Based on the price that we get in the market, as set by domestic iron ore prices,
+we are able to sell it.
+
+
+Sumangal Nevatia, Kotak Securities
+Sure. But on volumes, we are looking at 8 to 10 million tons this year. What would it be over the next one to two years?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+We should ramp up to about 14 to 15 million tons.
+
+
+Sumangal Nevatia, Kotak Securities
+In FY28?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Yes.
+
+
+Sumangal Nevatia, Kotak Securities
+Got it, that's useful
+
+
+Operator
+The next question is from Vikash Singh of ICICI Securities. Vikash, please go ahead.
+
+
+Vikash Singh, ICICI Securities
+Good afternoon, sir. Thank you for the opportunity, and happy Diwali to all of you. Sir, my first question pertains to our sales
+volume targets. We will reach 27 million tons of peak sales capacity, and our next capacity is coming in FY2030. So, is there
+any product enrichment, or will the value addition percentage [inaudible] continue to improve during this year, which would
+support at least the EBITDA?
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+I think the question is, while there is not much volume growth, will there be product mix enhancement? The answer is yes.
+One is the cold rolling mill and galvanising lines in Kalinganagar, while they have ramped up in volume, the product mix
+continues to get ramped up as we get more and more approvals from the auto companies. You will see more and more
+movement from what we call Steelium, which is cold rolled steel sold in the market, to cold rolled steel sold to automotive
+customers. We will also see enrichment in galvanised as well. We are growing in Colors, which is the business that we
+acquired; the JV that we had with BlueScope, which we bought out. We are seeing growth in tubes continuously. We are
+
+
+
+                                                                                                                                9
+
+also seeing our tinplate project, which will be ready in another two years, which is the doubling of the tinplate capacity. We
+continue to grow in wires as well. So pretty much across downstream, we are growing.
+The other thing that is growing a lot is our downstream for construction. In addition to the retail sales, which are growing and
+helping us get better realisations for the same product, we are also doing a lot of what we call cut-and-bend, mesh, and bore-
+pile cages, ready-to-use solutions for the construction industry, and that is also growing very fast. So across multiple sectors
+and multiple products, the value-added part is growing much faster, because that doesn't require that much time or capital to
+build. The value there comes more from the equity that we have with the customers and the solutions that we are developing
+for them. So, we are seeing a lot of growth in those areas.
+
+
+Operator
+Thank you, sir. The next question is from Ritesh Shah of Investec. Ritesh, please go ahead.
+
+
+Ritesh Shah, Investec
+Thank you so much. I have a few questions. First, starting with the UK, just to understand, what percentage of our volumes
+will face higher tariffs? Is there a Plan B to avoid those tariffs, specifically with respect to sales to the EU? Second Question
+is, are we looking at any support from the UK government, and if at all, why, and what is the underlying math? Third, assuming
+we have the EAF ready, how are we looking at the variable cost structure, including fuel and power? And fourth, specific to
+India, is it possible to further crystallise the cost transformation numbers that we have given? I think these are the four
+questions. Thank you.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Ritesh, there is no duty on the slabs that we send to the UK; we don't pay any duty. If your question is about the UK to
+Europe, yes, that is a negotiation going on between the UK and Europe, because we used to sell almost 0.7 to 0.8 million
+tons into Europe from the UK. So, there are some restrictions there. That is being negotiated between the UK government
+and the EU. The UK has an advantage in exports to the US, where there is a 25% import duty on products from the UK and
+50% on products from Europe. So, the UK has an advantage vis-à-vis Europe as far as the US is concerned. Government-
+to-government, they are trying to sort out the UK-EU part. But for us to send the slabs to the UK to get converted, we have
+an exemption, so there are no duties. I will ask Koushik to comment on the other questions that you raised.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Ritesh, our engagement with the UK government is fairly continuous. We talk on a couple of things. One is the market, as
+Naren just talked about, with the trade regulatory authorities, and also the environment where we can look at public
+procurement of steel, increasing more domestic products rather than imports, and ensuring there is a level playing field as
+far as the UK is concerned. As you know, we have a grant funding agreement with the UK government for the project, and
+we are also engaged with them on the National Grid connectivity and any implication on any increase in capex due to the
+delay in the National Grid. So, there are multiple things that we continue to keep talking to the UK government about.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+On the cost, I think the question was on cost transformation. What is the progress, and what kind of numbers are we looking
+at?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+As I mentioned, our cost transformation program, which was about Rs. 11,000 crores last year, is around Rs. 7,000 crores
+this year. It is about Rs. 1,800 crores currently, because of the volume issues that we have faced across geographies. We
+would target to continue to reach up to that level, but we are also looking at a multi-year structural cost transformation program
+taking us through to 2030, over the next three and a half years, which will look at various other operating models which we
+have not looked at so far, and which can deliver more sustainable cost take-out. This is now an ongoing cadence of taking
+out costs from the system; not just as cost but also enhancing productivity and efficiency. So, I think this is a program that
+we are certainly going to be very focused and serious about, leading up to 2030.
+
+
+
+                                                                                                                               10
+
+Operator
+Thank you, sir. The next question is from Parthiv Jhonsa of Anand Rathi. Parthiv, please go ahead with your question.
+
+
+Parthiv Jhonsa, Anand Rathi
+Happy Diwali to you.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Happy Diwali to you.
+
+
+Parthiv Jhonsa, Anand Rathi
+Sir, my first question is pertaining to the European operations, both the UK and the Netherlands. This quarter, we saw a
+substantial increase in other expenses. Can you quantify the reasons, especially on a per ton basis?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Other expense is actually a mixed bag, because often when you don't have the volumes, on a per ton basis it does increase,
+which is what the effect is, since there are many fixed-cost overheads. The second part is that there have been freight cost
+increases because of the war. All taken together, it has increased, and the volume has come down, so therefore, you see a
+per ton increase.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+There was also an increase due to consumables because we restarted Llanwern.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Llanwern and also the DSP.
+
+
+Parthiv Jhonsa, Anand Rathi
+Okay, sir. My second question is pertaining to the debt. You have 2.4x net leverage today. When can we expect debt levels
+to go back to, say, sub-1.5x or 2x?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Sub-1.5x is never our target. It happened in FY22, when the market was of a different nature. But if you are spending Rs.
+20,000 crores on capex, I don't think that is our target. We have always said our debt should be less than 3x. We are
+comfortable at 2.3x to 2.4x. Our EBITDA growth will keep happening because of additional volume coming in next year. We
+will have more volume because all our plants in India will be at capacity. We expect more stabilisation as far as the
+Netherlands and the UK are concerned, and then as we spend more and more in NINL and others. From an absolute debt
+perspective, it has to be related to the EBITDA, and so long as we are in that zone of 2.3x up to 3x, we should be fine,
+because we will chase growth. If we chase growth, there is a timing issue between the deployment of that capital and the
+earnings. So, I honestly don't see us going to 1.5x in a hurry, because then we would have to stop part of our growth. But we
+are absolutely comfortable in servicing debt. Our interest cover is more around 5x plus, so I don't think there is any concern
+around that, because we will be spending more capex. If every year we are going to spend Rs. 20,000 crores, you will see
+some level of debt, but the important thing is the circularity of the capital. As we spend that capital and get the earnings back
+into the P&L, we will be hovering around that zone.
+
+
+Parthiv Jhonsa, Anand Rathi
+Okay, thank you, sir. If I may, I would like to squeeze in one last question. I think one of your subsidiaries, Brahmani River
+Pellets Limited (BRPL), is going to do some work for the Joda East or Joda West mine or something like that, and a couple
+of other mines. Can you walk us through what exactly this contract or arrangement is?
+
+
+                                                                                                                              11
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+BRPL is a subsidiary, a joint venture that we have. In the past, we have been using Mine Developer and Operator (MDO)
+operations from other parties for some of our mining operations. BRPL has that capability, so they will be doing it for us.
+Instead of company X, it is BRPL. That is about it. And being a subsidiary which has the capability, it actually helps us on a
+net economics basis also and ensures that we can get better outcomes from that MDO.
+
+
+Operator
+Thank you, sir. I would now like to hand over the conference to Ms. Samita Shah for the chat questions. Ma'am, over to you.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+Thanks, Shohom. I think we have answered a lot of the questions. A couple remain which you might want to address. The
+first is actually on the Netherlands and the notes to the accounts that we had on it. I think the broad question, looking through
+the questions, is, given what has been happening in TSN, what are the three or four big takeaways that investors and analysts
+should think of when looking at the Netherlands operations?
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Naren, if I take this one. If you really look at it, we have signed an agreement, or rather a term sheet, with the Netherlands
+government on the JLoI, which is the Joint Letter of Intent. That needs to get to a certain amount of finality. For getting into
+that finality regarding the decarbonisation project, we are exploring multiple options along with the government to ensure that
+we have an investment case or options which ensure the sustainability of Tata Steel Netherlands in some form or the other.
+There are regulatory issues that need to be sorted out. The closure of the CGP, the coke and gas plant, is being asked to be
+done, and we have offered various options through fairly intensive preparation. This is an engagement with the regulator, so
+we need clarity on that. Steel slag storage and export is an issue where the regulator and us are in engagement along with
+the government, and we need a resolution of that. These two are pretty fundamental to looking at the future. Third is to look
+at an investment case which makes the cut, effectively, for making Tata Steel Netherlands a more profitable and competitive
+company. There are a lot of things and a lot of moving pieces. I think over the next six months, we will come to it and take a
+final view.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+Thank you. I think the last question that we will take is on the prioritisation of capital allocation between India, Netherlands
+and the UK.
+
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+I have said this in the past, and Naren has also repeated it; almost 70% of the capital allocated during the year is on India.
+Our India growth is both on the mining side, upstream, midstream, and downstream. We are just now in the midst, or the
+starting point, of the NINL expansion. I have listed out a number of downstream expansions. We will continue to grow in our
+downstream, and we will also continue to grow the optionality of our upstream growth, both in Kalinganagar as well as in
+Meramandali. That is very much on the anvil in the longer term. We are working with the Maharashtra government on a site
+in Maharashtra, and that is another greenfield site which will get capital allocation. So, growth in India is important for us. We
+will grow in a methodical way, both in downstream as well as the upstream. That is our priority. The UK is currently allocated
+capital for its EAF, and for the Netherlands, based on the outcome that will come, we will find an appropriate funding solution.
+It depends on the investment case.
+
+
+Samita Shah: VP CFTRM - Tata Steel Limited
+Ok, Thank you. With that, I think we will end the call. Thank you, everyone, for joining us, and again, Happy Diwali to all of
+you, and enjoy the festivities. Thank you.
+
+
+
+
+                                                                                                                               12
+
+Koushik Chatterjee: ED & CFO - Tata Steel Limited
+Thank you.
+
+
+T. V. Narendran: CEO & MD - Tata Steel Limited
+Thank you.
+
+
+
+
+                                                    13
+

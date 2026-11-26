@@ -1,0 +1,869 @@
+October 30, 2026
+
+1. The Manager- Listing
+   National Stock Exchange of India Limited
+   (Scrip Symbol: NAUKRI)
+
+2. The Manager- Listing
+   BSE Limited
+   (Scrip Code: 532777)
+
+Dear Sir/Madam,
+
+Subject: Transcript of Earnings Conference Call on financial results for the quarter and half year
+        ended September 30, 2026
+
+In furtherance to our letter dated October 28, 2026 and pursuant to Regulation 30 of the Securities and
+Exchange Board of India (Listing Obligations & Disclosure Requirements) Regulations, 2015, we wish to
+inform that the transcript of Earnings Conference call on the Financial Results for the quarter and half year
+ended September 30, 2026, held on Wednesday, October 28, 2026 at 4:00 pm IST, post declaration of
+results, is enclosed herewith. The copy of the transcript is also available on the Company’s website at
+www.infoedge.in.
+
+Request you to take the same on record.
+
+Thanking you.
+
+Yours faithfully,
+
+For Info Edge (India) Limited
+Jaya              Digitally signed by
+                  Jaya Bhatia
+
+Bhatia            Date: 2026.10.30
+                  19:47:47 +05'30'
+Jaya Bhatia
+Company Secretary & Compliance Officer
+
+Encl.: As above
+
+
+
+
+                                           INFO EDGE (INDIA) LIMITED
+              Corporate Office: B-8, Sector - 132, Noida - 201304, Tel.: 0120 - 3082000, Fax: 0120-3082095
+              Email: investors@naukri.com URL: http://www.infoedge.in CIN: L74899DL1995PLC068021
+                   Regd. Office: Ground Floor, 12A, 94, Meghdoot, Nehru Place, New Delhi-110019
+
+             “Info Edge (India) Limited
+         Q2 FY2027 Results Conference Call”
+
+
+
+
+                      October 28, 2026
+
+
+
+MANAGEMENT:
+Mr. Sanjeev Bikhchandani – Founder & Vice Chairman
+Mr. Hitesh Oberoi – Co-Promoter & Managing Director
+Mr. Himanshu Agarwal – Chief Financial Officer
+
+INVESTOR RELATIONS:
+Mr. Vineet Ranjan – Head, Investor Relations
+
+Anand Bansal: Good afternoon, everyone. I'm Anand Bansal, joined by my colleague Vineet
+Ranjan. Thank you for joining us. We'll wait for a couple of minutes to allow more participants
+to log in.
+
+Vineet, we currently have 100 participants with us. Over to you to get us started.
+
+Vineet Ranjan: Thank you, Anand. Good evening, everyone. Welcome to InfoEdge India
+Limited Q2 FY27 earnings conference call. Joining us today from the management, we have
+Mr. Sanjeev Bikhchandani, Founder and Vice Chairman, Mr. Hitesh Oberoi, Co-Promoter and
+Managing Director, and Mr. Himanshu Agarwal, Chief Financial Officer. Before we begin, I
+would like to draw your attention to the detailed disclaimer included in the presentation for
+good order's sake. Kindly note that this conference call is being recorded and all participant
+lines will be on mute, and there'll be an opportunity for Q&A towards the end of the call.
+
+Now I'll hand over the call to Hitesh for his opening remarks. Thank you, and over to you,
+Hitesh.
+
+Hitesh Oberoi: Thank you, Vineet, and a very good evening to everyone. Thank you for joining
+InfoEdge's earnings call for the second quarter and first half of FY27. I will start with our
+overall read for the quarter and the half year and then take you through each business in
+more detail.
+
+In Q2, standalone billings grew 13% YoY. Revenue grew 13% to Rs.842 crores and operating
+profit grew 30% to Rs.347 crores. The operating PBT margin was 41%, up 541 basis points
+year on year. Cash generated from operations was Rs.373 crores, up 27%.
+
+For the first half, billings grew 14%, revenue grew 12% and operating profit grew 32%. Cash
+generated from operations in H1 was Rs.598 crores, up 27%, and we ended September with
+a cash balance of Rs.4,976 crores. The detailed numbers are in the earnings deck.
+
+Recruitment, 99acres and Jeevansathi together are growing faster than the standalone
+numbers suggest, while reported growth is diluted by Shiksha, which is undergoing a
+structural transition. Excluding Shiksha, standalone billings grew over 14% in Q2 and about
+16% in H1, against reported growth of 13% and 14%, respectively.
+
+Starting with the Recruitment segment, in Q2, Recruitment billings grew 13% and revenue
+grew 13%. Operating profit increased 20% at an operating PBT margin of 59%, and cash from
+operations increased by 20%. As we indicated in our billing update earlier this month, the
+timing of customer renewals affected reported growth this quarter. Some clients renew
+ahead of schedule while others defer to a later quarter, shifting billings between quarters
+without changing the underlying trend.
+
+In Q1, timing lifted reported growth to 17.5%. In Q2, it worked in the opposite direction.
+Adjusting for these timing differences, we estimate underlying growth at around 15% in Q1
+and around 14% to 15% in Q2. For this reason, we believe the half-year performance provides
+a more reliable read than any single quarter. H1 Recruitment billings grew 15%, and over a
+longer period, these timing differences partly even out.
+
+In our core India B2B recruitment business, the drivers are broadly similar to Q1. Hiring
+activity stayed steady, led mainly by replacement demand, with some pickup in a few
+segments. Enterprise renewal rates held up and premium hiring continued to do better than
+the broader market. Across sectors, Q2 billings grew 3% in IT, Tech and BPM, 7% for GCCs and
+18% in other sectors, while recruitment consultant billings grew 7%. As renewal timing
+affected these numbers as well, the half year gives a relatively better picture. In H1, growth
+was 9% in IT, Tech and BPM, 19% in GCCs, 16% in other sectors and 5% for consultants. Other
+sectors' growth improved in H1 over last year, led mainly by BFSI, Consumer, Retail and
+Manufacturing sectors.
+
+Beyond B2B, our jobseeker business, Naukri 360, grew billings by 37%. Paid subscribers are
+now 2.7% of monthly active users, compared with 1.3% in January'25. AI-led services are
+playing a growing role in conversion. The business operated at an operating PBT margin of
+64%. Job Hai, while still small, grew billings by 86%, with investment levels broadly
+unchanged. Lastly, NaukriGulf grew by 9%. It remains profitable at margins of around 36%,
+and we see scope for growth to recover as and when conditions in the region normalize.
+
+AI and data products billings now contribute a high single-digit share of our Recruitment
+topline, with an annualized run rate of around Rs.240 crores based on Q2. This comes from
+AI-Rex and Talent Pulse on the B2B side, and from AI-led services for jobseekers such as mock
+interviews, our jobseeker agent Neo and the AI resume making service.
+
+Enterprise uptake normally follows a familiar path. Customers first try the product. They start
+small, embed it in their hiring workflows, and then commit larger budgets. Early feedback on
+both AI-Rex and Talent Pulse has been very positive. Our focus now is to add customers,
+deepen usage and show measurable value, so that consumption grows materially over time.
+
+Building an AI product is getting easier. Getting it adopted at scale is not. We work with over
+150,000 paying recruiter clients through a sales network across 80+ cities, and our platform
+with 120 million profiles, with around 20,000 added and over 9 lakh updated every day. This
+combination of distribution, data and jobseeker scale is difficult to replicate, and we believe
+it gives us a clear right to win in AI-led hiring.
+
+At its core, Naukri is a sourcing platform. Recruiters search our resume database to find and
+reach the right candidates, complemented by job postings. Hiring volumes follow the macro
+environment, so our effort is focused on what we can influence: our share of hiring and what
+we earn per hire. We are doing this by building a broader set of hiring solutions around the
+core, including AI-led sourcing, talent intelligence, employer branding, assisted hiring and
+assessments, across the premium, mid-market and value segments.
+
+In the premium segment, which includes Naukri Top Tier, PremiumX, iimjobs and Hirist,
+several capabilities are packaged at no extra cost today, leaving room for further
+monetization. In the mid-market, the focus is recruiter productivity and adjacent services,
+while in the value segment, Job Hai is building an AI-enabled marketplace for SMEs and
+enterprises hiring full-time and gig workers, and recruitment firms. For jobseekers, we are
+adding career insights, upskilling and interview preparation through Naukri 360, Minis and
+Coding Ninjas. These are largely self-serve and margin accretive.
+
+Moving over to the Real Estate segment, growth in 99acres continues to accelerate. Billings
+grew by 21% YoY in Q2, up from 17% in Q1. Revenue grew 17%. Operating losses reduced
+significantly by 93% from Rs.23 crores in Q2FY26 to less than Rs.2 crores in Q2 FY27. 99acres
+generated cash from operations of Rs.22 crores in Q2, against Rs.2 crores a year ago.
+
+Our leadership position strengthened further across key operating metrics. Web time share
+amongst the top three portals was 49% in Q2 and 51% in September. App time share was 49%
+in Q2 and 50% in September, up from 27% in Q2 of last year, based on SimilarWeb's revised
+app data series. App DAUs grew 25% YoY.
+
+Supply momentum remained healthy across categories. Live listings across resale, rental and
+commercial grew 23% YoY from owners and 14% from brokers, while new project listings
+grew 15%. More brokers, developers and owners are choosing 99acres to market residential
+and commercial properties across the country.
+
+Traffic leadership, wider supply and product improvements are translating into higher
+engagement. Property enquiries across all categories put together grew 33% YoY. We also
+continue to optimize our marketing mix and get more out of our marketing spend. Marketing
+investment was about 13% lower YoY, while enquiries kept growing. This demonstrates how
+market leadership can begin to translate into better economics. We continue to apply AI
+across user experience, enquiry generation, marketing and operations, with early benefits
+visible in engagement and marketing efficiency improvements.
+
+Looking ahead, we aim to gain further share in H2, in both traffic and revenue, and will
+continue to invest to support this while improving profitability at the same time. New Projects
+remain a significant opportunity, which we estimate at about Rs.6,000 crores across digital
+and non-digital spend. Expanding our presence here is a strategic priority, through
+investments in content, product and client delivery. We are also taking 99Shorts beyond NCR
+to more cities. As our lead over other portals widens across supply, traffic and monetization,
+we expect operating leverage to emerge progressively through the rest of FY27. We expect
+99acres to generate positive operating cash for FY27, with cash generation strengthening over
+time.
+
+Moving over to the Matchmaking segment. Matchmaking billings grew 23% in Q2, with
+Jeevansathi up 18% and Aisle up 40%. The segment operated near breakeven at the operating
+PBT level. Jeevansathi reported an operating profit of Rs.2 crores and Aisle an operating loss
+of Rs.3 crores. Cash generated from operations for the segment was Rs.3 crores versus a cash
+loss of Rs.2 crores in Q2 of last year.
+
+In Jeevansathi, we retained a profile share of over 45% in Hindi-speaking markets and
+continue to lead on daily logged-in users in these markets. The team is testing a number of
+new features and paywall formats around value, convenience and affordability, and AI is
+improving recommendation quality. We expect Jeevansathi's billing growth to accelerate in
+the second half. We expect Aisle to continue on a high-growth trajectory. Since moving to a
+freemium model for women, we believe Aisle has one of the highest shares of female users
+amongst dating apps in India, which improves the experience on both sides of the platform.
+
+Lastly, the Education segment. Shiksha's billings declined 27% and revenue declined 9%. The
+business operated near breakeven at the operating PBT level, with cash losses from
+operations of Rs.16 crores. AI-driven changes in search behaviour have reduced the referral
+traffic Shiksha relied on, and this continues to affect delivery outcomes for clients. These
+changes require us to evolve the business model. That pivot is underway. We are building
+domestic counselling, supported by AI voice bots, to create a direct relationship with students
+rather than depending on search. In Study Abroad, we are widening destination coverage to
+the UK, UAE and continental Europe as student demand shifts. Our focus is on returning
+Shiksha to growth while keeping losses contained during the transition.
+
+A little on AI across InfoEdge. Let me just tell you how we are thinking about it. Beyond
+product-specific applications, AI is changing how we operate, with efficiency gains across
+functions including marketing, pricing, lead qualification, telecalling and product
+development. Across Recruitment, Real Estate and Matchmaking, our proprietary data,
+marketplace relationships and domain expertise position us to benefit from AI through better
+matching, recommendations and customer outcomes. At the same time, AI is changing how
+users discover information, and we need to keep evolving our products and business models.
+We continue to step up investment in AI infrastructure, talent and tools. In most products, AI
+improves outcomes within the core offering. Where it is sold separately, it contributes to the
+AI revenue discussed earlier.
+
+A brief word on our investment portfolio. Our investment portfolio now spans around 135
+companies across AI, deeptech and consumer tech, with about Rs.5,000 crores invested
+through our balance sheet and AIFs. Several companies have listed, and others have raised
+follow-on rounds from credible investors. We invest early and hold for the long term, and we
+expect the portfolio to create significant value for shareholders over time.
+
+Let me close with how we see the years ahead. Our strategy rests on three pillars. First,
+strengthening our core marketplaces through technology, AI and better customer outcomes.
+Second, growing our AI monetization through AI-first products, products which would not
+have existed without AI, products like AI-Rex and Talent Pulse for recruiters and AI services
+for jobseekers. Third, scaling a broader set of growth engines, including Naukri 360, Coding
+Ninjas, Job Hai, AmbitionBox, 99acres, Jeevansathi and Aisle, that expand our opportunity.
+Several have moved beyond early validation and are now scaling, with headroom from deeper
+penetration, share gains, pricing and new customer segments. As these businesses scale,
+much of the incremental revenue can be generated on our existing platforms, creating room
+for operating leverage, stronger margins and higher cash generation over time. Together,
+these give us confidence in building a more diversified and sustainable growth platform for
+the long term.
+
+Before we move to Q&A, as we announced today, I will be stepping down as Managing
+Director and CEO at the close of business on December 2nd, after nearly 27 years at InfoEdge,
+and Sanjeev will take on the role of Executive Vice Chairman, Managing Director and Group
+CEO from the 3rd of December. It has not been an easy decision, but it is one I have thought
+through carefully over time. I believe the company now has the depth of leadership and
+institutional strength to move confidently into its next phase. Subject to shareholder
+approval, I will continue on the Board as a Non-Executive Director. I would like to thank all of
+you for your trust and support over the years. With that, we are happy to take your questions.
+
+Vineet Ranjan: Thank you, Hitesh. Anand, we have a few questions already there in the
+queue. Maybe we can start with them.
+
+Anand Bansal: Thanks, Vineet. Anyone who wishes to ask a question may raise your hand.
+We have a couple of questions; we'll take them and the rest will follow one by one. The first
+question is from Sachin from Bank of America. Sachin, go ahead and ask your question.
+
+Sachin Salgaonkar: Thanks, Anand. Good day, management. I have three set of questions.
+Hitesh, your decision is surprising. Two questions out here. I just wanted to understand, will
+Sanjeev be taking over as a full-time CEO, or is it more like a stopgap arrangement till we hire
+someone new? From a transition point of view, anything we need to look at? Presume you
+will be involved in strategic decisions now that you will be a board member, subject to
+shareholder approval.
+
+Hitesh Oberoi: Sanjeev, you want to take that?
+
+Sanjeev Bikhchandani: We haven't thought about that yet. Obviously, Hitesh is still there for
+a month, and beyond that, he's there anyway and available, and I'll be taking his counsel. I'll
+be obviously talking to the NRC, and we'll figure out how to evolve the leadership structure
+at the top going forward. There's no decision taken on hiring more people yet. As far as I'm
+concerned, I'll be taking over. I'll be listening a lot. I'll be observing. I'll be asking questions. I'll
+be learning. I'll take Hitesh's guidance. The good bit is that the leadership below him, who
+work around him, is very, very good. Already I've done three meetings today in the last two
+hours, and people are totally on top of their jobs. I don't think I'll have actually that much to
+do.
+
+Sachin Salgaonkar: Got it. Thank you. Very clear. Second question, Hitesh, on the business,
+and this is largely on the billings growth in this quarter. Last quarter, we saw billings growth
+of close to around 17%, and adjusting for that one-off, let's say it was 15%. When you look at
+the revenue, typically the last quarter billing growth does translate into revenue. In that
+context, it looked a bit softer at 13%. Anything to look into that, now that the AI billings is also
+a high single digit in terms of share? Is that influencing it? Is there something out there? The
+related question is, billings growth in this quarter was 13%. Is this the new normal, or is there
+a timing issue out there where numbers could move just the way they moved last quarter?
+
+Hitesh Oberoi: Billing gets affected. A lot of our clients renew at quarter end. Sometimes
+negotiations drag. Sometimes deals close early and sales get pulled, and billing gets pulled
+into a quarter, and sometimes it gets deferred. From a billing standpoint, it's always better to
+look at YTD or at least H1, because timing differences tend to get evened out over time. In
+Q1, we actually had said on the call last time that 17.5% was not the real number. To us, it
+was more like 14-15% because some sales got pulled in. In this quarter, the timing differences
+sort of work in the other direction. Our sense is that our business is growing at 14-15% right
+now. Internally, these are the kind of targets we are setting for the sales team as well going
+forward. So that's what it looks like right now. Now, as far as revenue recognition is
+concerned, revenue is recognized over 12 months because most of our deals are annual in
+nature. Even if you renew in Q1, that deferral kicks in over the next three quarters.
+
+Sachin Salgaonkar: Got it. Directionally, revenue should be in the 14-15% range as the billings
+growth stabilizes out there. Last question I have on margins. Wanted to understand, is this
+shift towards AI-Rex directly helping in terms of margins? How to think about margins at the
+recruitment business? Clearly, for 99acres, we could see the market share change. Wanted to
+understand if this is structural, and hence, on the back of it, we should continue to see margin
+improvements at 99acres as well.
+
+Hitesh Oberoi: The AI offerings we've launched are of course very high gross margin. Our go-
+to-market strategy right now, especially on the B2B side, is to go for penetration and
+adoption. We have 150,000 customers in Naukri. There are at least 40,000 large clients who
+renew annually, who buy a big product, where ARPU is high. Technically, Theoretically, it
+should be possible to sell AI-Rex to everybody, all these 40,000 accounts. Right now, the
+number of accounts who are trying AI-Rex is 2,000. Normally, when clients start with a new
+product, they start small. They try it out. If they're happy, they renew, they buy more. On the
+AI-Rex front, our strategy is to make it like a no-brainer for clients who try it out, because we
+are very confident of the product and our ability to deliver. Our goal for the next, I would say,
+maybe 24 months is going to be to drive penetration, to get as many customers to use AI-Rex
+as possible, and then to get them to adopt it, use it and then renew, and at renewal time, get
+them to upgrade and buy more. In the end, we believe that customers who move to AI-Rex
+will end up hiring more people through Naukri. Our hiring share will grow with them. They
+will also be able to hire talent faster and better, and their recruiters will become more
+productive. Ultimately, this will mean more revenue for us and higher growth for us, and at
+high margins, because once the technology is developed, once the Capex is done, there's not
+much incremental cost. That's our philosophy. This is the approach we followed with Resdex
+maybe 25 years ago when we launched Resdex. Today, a large percentage of our revenue
+comes from Resdex. 70-80% of our revenue in Naukri comes from Resdex. In the early years,
+we gave Resdex for free. Then we made it half price. Then after that also, we gave a lot of
+discounts. If you look at where we are today, we perhaps charge maybe 5x or 10x of what we
+used to charge back then. Because once the product starts to work, once customers get
+hooked, once it starts to deliver, once they start making a lot of hiring through it, then it's
+easy to realize value. That's the approach we're taking for both AI-Rex and Talent Pulse.
+
+On the jobseeker side, our AI offerings are doing really well. AI is allowing us to price them
+cheap. AI is allowing us to launch new products which could not have been possible without
+AI, like interview prep. We've launched a jobseeker agent, Neo. These products will keep
+improving. But already, if you look at what has happened over the last five or six quarters,
+jobseeker penetration of paid products has moved from maybe 1.5% to 2.6-2.7% of monthly
+active users on Naukri. We see a huge opportunity here. There are many more products which
+are under development. We have a huge product pipeline as well, both on the jobseeker and
+on the recruiter side. We feel confident about this strategy. We are going to keep pushing in
+this direction. Our hope and our core belief is that if, in the end, more people get hired
+through Naukri, if our hiring share continues to increase, revenue growth will follow. Business
+models may keep evolving, will keep evolving.
+
+Sachin Salgaonkar: Very clear, Hitesh. Any number in terms of where steady-state margins
+could be in case of the new normal, where AI-Rex becomes a larger part of the product?
+
+Hitesh Oberoi: I don't know. It'll depend on what our hiring share ultimately ends up being. If
+today 40% of all people are hired through Naukri, if that number goes to 60% over time, who
+the knows where margins will go? Margins are not really our focus right now. It's about getting
+more sales, it's about getting more users, more clients, it's about getting adoption going.
+Inherently, the product is high gross margin. If you are able to sell and if you are able to
+upgrade clients. Like last quarter, we did notice that clients who bought our AI offerings ended
+up paying us on the average at least 10 to 15% more than clients who did not buy AI offerings.
+We were able to get higher upgrades. Clients also want to try these out, and hopefully they'll
+work. I don't think margins will go down. Margins will only improve if we are successful. But
+we have to ensure that sales keep growing at higher than 10% year on year.
+
+Similarly, your other question was around 99acres. There we've been highlighting for the last
+seven, eight quarters now that we've been gaining traffic share, and revenue share follows
+with a lag. That's how it's playing out. Our business grew by 21% last quarter. In fact,
+September growth was even higher. In almost every city now, we are clear leaders. Our
+revenue market share, according to us, in our core categories, is now hitting 50%, and we
+continue to gain share. Our sense is that our competition, in both cases, their revenue actually
+declined last quarter. That's what we're hearing from the market. We continue to get stronger
+and stronger. Like any marketplace business, this is a network effect business; there's a
+flywheel. If you get strong, if you start gaining share, it's very hard for others to catch up. At
+the same time, because of what has happened in our category, the competitive intensity has
+gone down. Housing, which was owned by REA earlier, has sold their business to Aurum, and
+Aurum has gone on record saying that they want to break even over the next four to five
+quarters. This means lower marketing cost. We are under no pressure to spend more on
+marketing. Platform is built, operating leverage is playing out, 99acres generated Rs.20
+crores+ cash this quarter. If we continue to execute like this, things will only get better.
+
+Sachin Salgaonkar: Thank you. Very clear.
+
+Anand Bansal: Thanks, Sachin. Next question is from Vijit Jain from Citi. Vijit, go ahead and
+ask your question.
+
+Vijit Jain: Thank you so much for the opportunity. Hitesh, again, I'll echo what Sachin said
+earlier; it came as a bit of a surprise. My question is, if my understanding is right, property
+and other segments have CBO positions already. I know Pawan left the platform a few months
+back. Is that the structure that you would again seek to go back to for the recruitment
+business as well? If my understanding is right, there is no CBO at the moment there.
+
+Hitesh Oberoi: Like Sanjeev said earlier, he's going to take over as Group CEO, and he's going
+to meet everybody and then slowly make up his mind on what next. For the longest time, I
+believe now that we have a crack team in all our verticals. We have people who've been
+around for several years. They have grown with the business. They have matured as leaders.
+We have a crack team in Naukri. We have solid leadership in Job Hai, 99acres, Jeevansathi.
+That actually gave me the confidence to move on. I guess what you're saying, and I guess
+Sanjeev will sort of take over and then.
+
+Sanjeev Bikhchandani: I think nothing in a hurry. The first priority will be to give internal
+people an opportunity to grow. Then we'll take a look. Like I said, I'll listen to Hitesh a lot. He
+
+is there, is around, is available even after December 2. I'll listen to the NRC a lot. I'll listen to
+the current people inside the company a lot, and then we'll figure it out.
+
+Vijit Jain: Understood. Thank you, Sanjeev. Appreciate that. My second question, good to see
+the AI billings disclosure. Wanted to understand the ARR a little bit. Suffice to say that the
+ARR, the Rs.2.4 billion, is higher than what you would have seen in 2Q, right? So just wanted
+to get a sense of the pace of growth we are looking at there. Second, should we think of this
+as additive versus last year or is there an element of the nature of deals changing as well
+there?
+
+Hitesh Oberoi: There was some AI revenue last year as well. We did not report it separately,
+especially on the jobseeker side. Talent Pulse was there last year as well, so there was some
+revenue from Talent Pulse. AI-Rex is new. We got only a little revenue from AI-Rex in Q1, but
+it scaled up massively in Q2. When I say ARR is Rs.240 crores, what we really mean is Q2
+revenue into four is what we see as ARR. Q2 revenue from AI-first products and services,
+products which could not have been possible to launch without AI, was around Rs.60 crores.
+That's what we mean by it.
+
+Sanjeev Bikhchandani: Not as if it's cannibalizing existing revenue.
+
+Vijit Jain: So, this is nearly all additive, and there would have been a non-zero number in the
+base but mostly coming from Talent Pulse. Understood. Perfect. Thank you so much.
+
+Hitesh Oberoi: And jobseeker services. There were some jobseeker services which had been
+launched by Q2 of last year.
+
+Vijit Jain: Understood. A related question to that, and this is more an in-principal question. In
+general, do you think that bundled pricing is the way AI and AI offerings would seep through
+into your billings and revenue overall? By that, I mean is you don't necessarily charge for each
+individual AI product, but your clients use them, and it enables you to raise your pricing over
+time. Is that the right way to think about pricing, a bundled approach versus a disaggregated
+approach?
+
+Hitesh Oberoi: No, right now, we are pricing them separately. We have a price for AI-Rex per
+mandate: Rs.3,500 per mandate for companies, Rs.2,500 for consultants. That was the other
+big thing, we rolled out AI-Rex for consultants also in Q2. We had not rolled it out for
+consultants in Q1. There's a rate card rate. Similarly, there's a rate card rate for Talent Pulse.
+But often, when we sell to clients, they buy multiple products at the same time, and then
+there's a negotiation. They may buy Resdex, they buy job listings, they may buy AmbitionBox,
+they may buy AI-Rex, they may buy Talent Pulse, and there's a negotiation. In that sense,
+when it is sold, it is sold as a bundle, but there is a separate rate card for Talent Pulse.
+
+Vijit Jain: Understood. Perfect. Thank you. My last question, on advertisement spends, just
+on the B2C side. Given that is growing very strongly, 37% this year YoY, I'm wondering, with
+AI-powered offerings there and all the growth you're seeing there, and given where the
+market dynamics are, does it warrant higher ad spends, maybe targeted more towards
+candidates, which highlights some of these things? Or it's not necessary because candidates
+come to your platform anyway?
+
+Hitesh Oberoi: Like I said, we are selling paid services to 2.7% of all our monthly active users
+on Naukri right now. There are a whole bunch of users still left to sell something to. This
+number was 1.5% one year, maybe four, five, six quarters ago. There's ample room to sell AI
+services and our AI offerings to more jobseekers on Naukri. We don't need to advertise for
+this purpose. We may want to advertise because we want more jobseekers on the platform.
+We want to grow our share amongst jobseekers, etc. That's a different reason, but not to sell
+these services.
+
+Vijit Jain: Understood. Thank you so much and again, best of luck to you, Hitesh, and to
+everyone else. I look forward to seeing you guys soon again.
+
+Anand Bansal: Thank you, Vijit. The next question is from Vivek from Ambit Capital. Vivek, go
+ahead and ask your question.
+
+Vivekanand Subbaraman: Thanks for taking my call. Hitesh and Sanjeev, just a couple of
+questions on your transition. In the last one year, we've seen Chintan and Pawan go. Was it
+really necessary for you to step down at this juncture, given that the CBO role is also vacant?
+How are you thinking about filling these leadership roles? I heard Sanjeev's answer that
+internal succession is what he'll prioritize, but in terms of org structure, any thoughts that will
+help? A related question, Hitesh, for you. Now, as co-promoter, you still have 5% stake in the
+company. What's your medium to long-term plan regarding your equity stake as you
+transition away from day-to-day responsibilities?
+
+Hitesh Oberoi: I have a lot more than 5%, but there is no plan, on that front, I remain
+financially and emotionally attached to the company. Subject to shareholder approval, I will
+continue to be on the Board. I am stepping down from my full-time operating role but not
+stepping away. The reason, I thought about it, it's not been an easy decision to make. Been
+doing this for 27 years. In my head, there were some goals which I had set for myself. This
+whole AI transition we've been going through for several years, we wanted to have a clearly
+articulated AI strategy for the company and in Naukri. I think we've done a fairly good job on
+that front. It's now there, at the back end and now in terms of products, which are generating
+revenue. I think we are sorted on that front.
+
+Similarly, 99acres. It's been a long journey, and it's been a tough one to crack, but we made
+tremendous progress over the last couple of years, and we are now a clear leader, and we are
+generating cash, and the business's growth is actually accelerating. That gives me a lot of
+confidence that we've now got a second big growth engine in the form of 99acres.
+Jeevansathi, which several investors and analysts have encouraged us to shut down several
+times over the last couple of decades, also now is generating cash and is profitable. Along
+with Aisle, it is actually growing in the mid-20s and will, I'm sure, create a lot of value in the
+medium term. Of course, it'll never become as large as Naukri, but it will create shareholder
+value. Job Hai, which is strategic, more long-term, at least there we have product-market fit,
+we are monetizing, we are growing 80-90% year on year. That also, at least over a five-to-
+seven-year period, will get somewhere.
+
+This, along with what Sanjeev mentioned, the fact that we have a very solid management
+team now. We have a whole bunch of people, senior leaders who've been around for more
+
+than 20 years, and of course, a lot of young people, ambitious folks who joined over the last
+five or seven years, who want to make an impact, who want to make a difference. So very,
+very smart. Most of them are smarter than I am. Institutionally, we are much stronger. We
+have good management bandwidth, and that again gives me a lot of confidence. There is
+never going to be the right time. There's always going to be a lot to do. This is, unfortunately
+or fortunately, the business we are in. We will have new things happening every now and
+then, and every now and then, people like us start new businesses, and there's always stuff
+to do. But I just felt that this is perhaps the right time to move on, for the reasons I mentioned.
+Personally also, I would like to do something different and spend more time with my family
+and support some initiatives I've been involved in. That's why now.
+
+Vivekanand Subbaraman: Okay. The other question is on the portfolio now. As far as
+recruitment is concerned, you have seen a good deal of verticalization, with not just the core
+product, but also a focused approach towards Naukri 360, then iimjobs, and of course, now
+you have PremiumX, Job Hai as well. In terms of each of these verticals now, you are
+essentially the market, right? You're defining how the market should grow. If you could help
+us understand now how you view the TAM, given the success of AI-Rex as well as increased
+scalability of the candidate services piece, Gulf, etc. If you can help through the TAM for the
+recruitment services market better, that'll help. Also, any further colour on Job Hai and where
+you can get, let's say, as an aspiration, in the next three to five years. Thanks.
+
+Hitesh Oberoi: I've said earlier also, if you look at the market, if you want to segment the
+market into value, mid-segment and premium, the mid-market is where we've been very
+strong as a platform. But there's volume pressure there. All said and done, IT companies are
+not hiring as many people as they were hiring earlier. There's volume pressure there. The
+value segment is growing rapidly, thanks to growth in gig workers and delivery services and
+so many other things that are happening in that segment. Demand for workers and jobseekers
+in that segment is growing. This segment, of course is low value, but they're increasingly all
+online now. A lot of SMEs are also online. A lot of large enterprises are also hiring such
+workers. This segment will continue to be a growth segment for several years to come. Digital
+adoption is only getting started now.
+
+We are seeing more demand for premium talent. In fact, premium jobseeker views on Naukri
+grew by 25% year on year in Q2. There's more demand, thanks to these new skills, AI skills,
+and thanks to new demand in sectors like manufacturing and several other things that are
+happening. There's more demand for high-end talent. Therefore, we have a three-pronged
+strategy. Try and grow our share in premium, which we are trying to do through iimjobs,
+Hirist, PremiumX, all the other things that we are doing. Value segment, Naukri can only do
+this much, but Job Hai, along with Naukri, can become really large. More AI and more tech to
+enable companies to hire more, even in the mid-segment. In the mid-segment, it's not as if
+100% of all hiring happens through Naukri. Let's say 40% of all hiring happens through Naukri,
+or 50% of all hiring happens through Naukri. There, by deploying AI, by deploying AI-Rex, we
+can increase our share of hiring, and that can help us grow our wallet share from customers.
+
+What we're also doing is we are trying to help companies with talent planning as well. We are
+trying to help them with assessments. We are trying to help them with recruitment software.
+HR tech and talent planning, like Talent Pulse is a huge hit. There are 750 companies now who
+use Talent Pulse. This kind of product is impossible for anybody else to offer, because nobody
+
+else has the kind of data we have on salaries, talent and skills. Nobody else has it. We made
+it available on demand, on tap, to recruiters and comp and ben departments of companies,
+and usage is growing through the roof. What is the ultimate TAM of all this? I don't know. I
+don't know how big the value segment can actually become over time. If you look at Kanzhun
+in China, they do $1.2 billion. Maybe China's 20 years ahead. They work with 7 million
+businesses. In Naukri, we work with 150,000. In the premium segment, we have an option.
+One, the market is growing fast. Two, we are not the big daddy in premium. LinkedIn is very
+strong in leadership hiring. We are gaining share. There's a lot of runway for us in premium.
+
+Then all these new categories that we are creating. Take for example, we work with 40,000
+large and medium, mid-sized companies. If you can sell Talent Pulse to 8,000, 10,000 of them
+and get Rs.3-4 lakhs a year, that's a Rs.300-400 crores market opportunity. If we can take AI-
+Rex to 10,000, 12,000, 15,000, 20,000 companies, get Rs.2-3 lakhs per company over time,
+you can do the math. AmbitionBox, our social listening and employer branding platform, it's
+a new category we are creating. It's not as if companies were spending a lot of money on this
+earlier, but they're finding it useful. If 3,000, 4,000 companies end up using AmbitionBox over
+time at Rs.3-4 lakhs per annum, you get Rs.100-200 crores.
+
+On the jobseeker side, we were till now, always very wary of pushing these jobseeker services
+to jobseekers, because they were mostly delivered by humans, hard to scale, and so on. With
+AI, one, we are able to offer them cheaper. Two, we are able to offer services we could not
+offer earlier. A lot of students and jobseekers say, can you help us prepare for interviews? We
+had no way of delivering that service. But with AI, we can offer it. We can offer it really cheap.
+Jobseeker agent, a very new thing, but good adoption. We have a three-year roadmap for
+Neo. We think we can do crazy things with Neo over time. If 10% of all jobseekers on Naukri
+start using paid services and they start paying us Rs.1,500 a year, I don't know, it's a large
+market. But we have to make these things happen. What AI has done is, it has opened up new
+market opportunities. Most companies are using AI to become more efficient. We are also
+doing that, and that's what is helping us keep our costs under control. But more importantly,
+we are big believers in using AI for innovation, for creating new products, for solving problems
+which could not have been solved earlier, for serving customer segments which could not
+have been served earlier, for entering markets which we could not have entered earlier.
+That's largely the focus of our product development and innovation team, and that's where
+we see the big opportunity in the long run.
+
+Sanjeev Bikhchandani: I'd add that all these AI products you launched, with now Hitesh saying
+it's a Rs.240 crores run rate. If you'd asked him six months ago, " How much will it sell for?",
+he'd have said, "I don't know. We'll try it and we'll see what response the market gives, and
+then we'll figure it out."
+
+You are limited by your imagination. You try various things. Some things work, some things
+don't work, and the market gets created. We are back to the year 2000, when we were into
+creating a market, as far as AI products are concerned. We have to wait and watch and see
+what happens. But obviously, there is significantly decent traction in what has been launched
+so far, which is why we are getting to a place where Hitesh is now saying it's a Rs.240 crores
+run rate. Now, where will it go? Can't say.
+
+Vivekanand Subbaraman: Sure. This is really helpful. Thanks, Hitesh, for being so candid in
+sharing your reasons for departure. My last question is on 99acres. Given that you now have
+a very dominant share of traffic, is that helping you monetize builders and new launches also
+better, or is it still just the same secondary market, broker-dominated kind of franchise?
+Because when I look at the billings breakdown, not much seems to have changed on that
+front; two-thirds of billings is still coming from brokers. Is there any change in the market
+standing that you have with new launches and builders, and how you can monetize it now,
+thanks to your traffic leadership? Thanks.
+
+Hitesh Oberoi: Let me just spend two minutes on this. At the heart of our strategy in 99acres
+is our leadership in resale and in the secondary market, because that's a problem Google and
+Meta can't solve. If you want to buy a secondary property, a property in the secondary
+market, if you want to rent a house, you have to come to us. That's what gets users to us.
+That's the flywheel. It takes time to develop this market. It's a market which perhaps did not
+even exist a few years ago. But now at least we've got 30,000 brokers on our platform, and
+they post a lot of listings. We've got them in every location, in every city, in every locality, in
+every micro-market, gets us the supply, gets us the traffic.
+
+The new home market is also several markets. At the highest end is the new launch market,
+and then there's an under-construction market. Not every home gets sold at launch time and
+so maybe half the inventory, and it depends on the developer, it depends on the nature of
+the market. Hot markets are different from markets that are difficult to sell in. But not every
+home gets sold at launch time. Of course, every developer makes a big bang at launch time
+because they want people to know about the project. But let's say 40-50% of the inventory
+gets sold in the first few months, and then the rest gets sold over the next few years. A lot of
+buyers don't want to buy at launch time. They would like to see the home, and they would
+like to see construction and a lot of it before they buy. What happens when you get these
+buyers on your platform, because you have all the resale listings, you have all the other
+listings, is that many of them actually naturally also explore under-construction properties.
+Enough of them don't mind waiting for a year, year and a half to move in, if they get the right
+deal, in the right location, with all the right relevant amenities, and so on and so forth. As you
+gain share in the secondary part of the business, you also start gaining share in the primary
+market.
+
+New launches are a slightly different ballgame. There, we are constantly working on
+improving our offering so that we become sort of like a destination site to look for new
+projects, which is why we launched 99Shorts. We started with NCR, and now we're taking it
+to other cities. We're making a lot of changes. If you go and check out 99acres today, you'll
+find that the new home experience is very different from what it used to be six, nine months
+ago. Because new homes need to be marketed. They're not listings. They can't be sold like
+listings, which is how we used to do it earlier. They need to be marketed like ads and like
+projects, which is how all this happens on Meta and Google. We're making a lot of progress
+in that area. Our traffic for new homes on the platform is growing. The responses we generate
+on the platform for new homes are growing 40-50% year on year. But we are still a tiny part
+of the market. That's where the opportunity is. If you can grow this part of the business faster
+than the resale and rental business, then it can become an even bigger opportunity than what
+it is today. We are making good progress in that area.
+
+New homes are also sold through brokers. They're not just sold through builders. They're also
+sold through channel partners. Increasingly, we are seeing the market move more and more
+towards channel partners. Because what happens is, it's cheaper to sell through channel
+partners, because channel partners tie up with multiple developers, and therefore there's
+something to sell to everybody, unlike developers who may just have one project to sell at
+one point in time, and then the cost of marketing is very high, and so on. Our understanding
+of our business is that, as the business moves more and more towards channel partners, we
+work well for channel partners. Because you can be on 99acres through the year. You can list
+multiple projects. You keep getting responses, a bit like you get a few responses every day,
+and the ROI then starts to work for you. For developers, it's a little different, because
+developers sell mostly at launch time, and they go big bang. At that time, they put up
+hoardings, they put out newspaper ads, they advertise on Meta, Google, everywhere, and we
+get a small fraction. But as more and more business moves towards channel partners, that
+will actually play to our advantage as a platform. We are already seeing that in NCR. A lot of
+the home sales are through channel partners. In Mumbai and Bangalore, increasingly, we are
+seeing more and more business move through channel partners. That seems to be the trend,
+and that trend will work to our advantage in the long run.
+
+Vivekanand Subbaraman: Okay. Thanks, Hitesh, again for your elaborate answers, and all the
+very best.
+
+Anand Bansal: Thanks, Vivek. Next question is from Swapnil from JM Financial. Swapnil, go
+ahead and ask your question.
+
+Swapnil Potdukhe: Hi, everyone. Thanks for the opportunity. My first question is with respect
+to the transition itself. Sorry to poke you on that again, but can you help us understand any
+potential leaders that you just talked about, that we should be looking forward to? Is this
+someone who is leading the existing businesses of yours? Should we look from that angle?
+
+Hitesh Oberoi: I think we have existing leaders in place for our matrimony business. We have
+a business head for matrimony, we have a business head for Shiksha, we have a business head
+for Job Hai, we have a business head for 99acres. These people have been with the company
+for a very long time. They've been running these businesses, and they'll continue to do so. In
+Naukri, Pawan ran the business for several years. He left a few months back. We have a crack
+team in Naukri. There are people, somebody running marketing, somebody running sales,
+somebody running AI, somebody running product. These are people who are veterans.
+They've been around for a long time, and they're exceptionally good at what they do. So that's
+what we meant.
+
+Sanjeev Bikhchandani: We're not in a position to identify any one leader right now, certainly
+not on this call. But those are internal matters we'll be reviewing in the next few weeks and
+months.
+
+Swapnil Potdukhe: Got it. Now coming back to the business, especially the Naukri business.
+What I can see is that there was no growth in unique customers. I mean, that number was flat
+on a YoY basis at 46,000. On a QoQ basis also, there was a dip from 49,000. Anything to read
+on that?
+
+Hitesh Oberoi: We've changed a lot of these small customers. There's an 80-20 principle at
+work in Naukri. The top 20% of the customers give us 80% of the revenue. Maybe the top 50-
+60% of the customers give us 97%, 98% of our revenue. We get a lot of customers who pay
+us Rs.1,000, Rs.2,000, Rs.3,000 a month, and they used to buy a single listing, and we had all
+kinds of these offerings on our platform. They used to buy mostly online. These sales used to
+happen online on the platform. We've changed our approach there a little bit. We've
+revamped our e-commerce offerings. In the process, we've also made them a little more
+expensive, but we believe they will deliver more value and result in better outcomes for our
+customers and higher renewal rates over time. I would not read too much into that. Our e-
+commerce revenues are up, but the number of customers who are buying has gone down a
+little bit.
+
+Swapnil Potdukhe: Did I hear you right, that currently there are 2,000 enterprises who are
+using AI-Rex, and the potential pool of customers where you can take this will be around
+40,000 enterprises?
+
+Hitesh Oberoi: There are 2,000 customers who are using AI-Rex. Not all of them are large
+enterprise customers. Many of them are small consultants as well. Potentially, we should be
+able to sell AI-Rex maybe 40,000, maybe 60,000-80,000 customers over time. Most customers
+who are currently using AI-Rex are trying it out. They are small customers. They are not
+spending tons of money on it, because they want to sample it, they want to try it out, they
+want to see whether it makes a difference to their hiring outcomes. Our goal is to drive, one,
+more penetration, and two, more adoption, and then get them to sort of buy more over time.
+
+Swapnil Potdukhe: Potentially, if everything goes right, your AI revenues from these
+customers will only keep on increasing.
+
+Hitesh Oberoi: Provided, provided the ones who are using it right now renew it next year, and
+then it'll go on growing.
+
+Swapnil Potdukhe: Just one thing on your Job Hai revenues also. Is there any meaningful
+change to talk about over here? Will it be fair to say that the drag on your margins, the
+recruitment margins, is roughly around Rs.15-20 crores a quarter because of Job Hai
+investments that you're doing right now? Potentially, as and when Job Hai breakseven, this
+could add to your overall margins. So, 59% margins can go potentially to at least 62%, if not
+more.
+
+Hitesh Oberoi: Job Hai billings last year were close to Rs.15 crores. This year, we are targeting
+100% growth in Job Hai. Let's see where we end up. Job Hai burn is around Rs.45 crores a year
+right now. It takes away, I think, about 2-3% from our margin at an overall level in Naukri. If
+revenues keep ramping up like we expect them to ramp up, then I don't see the burn going
+up. Our internal calculations show that we can break even at about Rs.100-125 crores of
+topline in Job Hai. But it may take a couple of years to get there.
+
+Swapnil Potdukhe: Got it. Very useful, Hitesh. Thanks a lot for answering my questions, and
+all the best.
+
+Anand Bansal: Thanks, Swapnil. Next question is from Gaurav from Axis Capital. Gaurav, go
+ahead and ask your question.
+
+Gaurav Malhotra: Hitesh, a little surprising to see you leave. Sanjeev, just wanted to
+understand, you are becoming the Group CEO as an interim arrangement, and then you will
+be looking at external options, or are you full-time?
+
+Sanjeev Bikhchandani: There has been no such conversation on the Board right now. Having
+said that, I'm 63 years old. I cannot continue for 20 years. That isn't happening. But let me go
+in, let the situation stabilize, and then let's see what happens.
+
+Gaurav Malhotra: Thank you.
+
+Anand Bansal: The next question is from Kunal from Banyan. Kunal, go ahead and ask your
+question.
+
+Kunal Thanvi: Thanks for the opportunity. Hitesh, thank you for what you have done all these
+years. As shareholders, we have appreciated the way you created the company along with
+Sanjeev, and the kind of value you've delivered. Really happy to see where Naukri is today,
+especially when this transition of AI happened. All the best to you for your future endeavours,
+and we hope that you are glued to the strategy the way you are, for many years to come. Just
+one surprising bit, because when we have looked at Naukri for so many years, you guys have
+planned much ahead of time for everything. Like AI, you've been investing three years prior
+to when AI became the big thing. In this case, we were surprised to see that we have not
+groomed a CEO, because, as Sanjeev said, because of his age, he will not be able to be there
+for the next decade or so as the MD and CEO.
+
+Sanjeev Bikhchandani: I said 20 years.
+
+Kunal Thanvi: Sure. That was one slight observation, that unlike the way we have seen you
+guys in terms of the business planning, that you've always been ahead of the changes in the
+industry, etc., this time around, in this particular decision, we have not seen that. It came
+abruptly to us. Perhaps you guys have done it internally; we are not sure about that. That was
+on your transition, if you can throw some light on. On the business, just one question on Job
+Hai. Can you spend some more time in terms of competitive intensity there and our progress
+from last year? You spoke about something about it in the last comments, but can you go
+more deeper on Job Hai? Is it really a large opportunity? Can it be really profitable the way
+the core platform is? Also, if you can touch upon the frequency of the usage of that service
+by the jobseekers and the employers, it will be helpful. Thanks.
+
+Hitesh Oberoi: Firstly, Kunal, thank you for your confidence in us and for your support over
+the years. The reality of life is it's very hard to find people outside the company who are
+smarter than the people we have inside the company, and people who are smarter than
+Sanjeev. We are managing; so that's where we are. For many years, Sanjeev has given me a
+tough time, and it's my turn now to give him a tough time on the Board. Just jokes apart. But
+we have groomed a lot of people over the years, and I think they need to get a chance. I think
+they will get even more empowered, and they will get even more space to operate with time.
+We've always believed in creating this culture where we are not hierarchy-driven, but more
+
+ideas-driven, data-driven. That continues to be the DNA of the company. The leadership issue
+will sort itself out, in my view, over time.
+
+As far as Job Hai is concerned, it's not a very large market today, and it's unlikely to be a big
+market in the next three, four years. What we can see is that it's a huge market in terms of
+volume. It's growing fast. It's slowly moving online. These are early days, but it's strategic for
+InfoEdge. It can potentially be a very large market, but over a 5-10, 7-8 years period, not over
+a two-three years period. Like with every internet business, it takes eight, ten years to get
+anywhere. If you don't get in early, then you'll have other players who will take the market
+away from you, and then it's very hard. I gave the example of China, but China is so large that
+it's very hard to compare with China. But in China, Kanzhun is a very, very large player. I think
+if we can get to even 30% or 20% of Kanzhun's size in the next five, ten years, it will be a big
+achievement. It is strategic, it's important, and we need to be in this space. As it scales, it'll be
+possible to make money. I don't know what the ultimate margins will be like. But like I
+mentioned earlier, at Rs.120-130 crores a year, it should be possible to break even, and after
+that, there will be operating leverage even in this category.
+
+Kunal Thanvi: Perfect. Thank you, and all the very best to all of you. Thanks.
+
+Anand Bansal: Next question is from Vibhor from Nuvama. Vibhor, go ahead and ask your
+question.
+
+Vibhor Singhal: Thanks for taking my question. Hitesh, I wish you all the best for your future
+endeavours. Just two quick questions from my side, on the business side. In the IT segment,
+we have seen a decent growth of around 9% this quarter, and it's kind of been there with the
+high single-digit growth that we have recorded for over the past four or five quarters also.
+Now, given that most of the IT companies are literally not hiring, and if I look at the top tech
+companies, net headcount addition is barely in low single digits, some are even flat and
+negative as well, do you believe this mid-to-high single-digit growth in the IT segment is
+sustainable? If yes, then where is that confidence coming from? Similar question on GCC. Very
+strong growth in GCC, and we've talked about this before in our calls as well. How do you see
+the pipeline in this GCC segment in terms of maybe new GCCs opening up, or the current GCCs
+expanding their scope of work, which probably will lead to incremental demand? Will this
+high-teens growth in GCC also be expected to continue?
+
+Hitesh Oberoi: A very difficult one. You're absolutely right that IT companies are not growing
+headcount by a lot. They are mostly replacing the people who are leaving. Hiring activity has
+picked up a little bit, but not by that much, and it's nowhere close to what it used to be. We
+continue to be the most efficient way to hire for IT companies. Normally, what we have seen
+in the past is that whenever there's a slowdown, companies tend to cut channels which are
+more expensive. Which is why, if you look at our revenue growth from consultants, that has
+slowed down actually. Our revenue growth from consultants was 5% in H1, and some of this
+growth came because of AI-Rex. Otherwise, it would have been maybe 2-3%. I'm assuming
+we've lost clients who used to work primarily for IT services companies. IT services companies,
+maybe they find us more efficient, so they are insourcing more and more hiring. Now, can we
+sustain this growth rate? It'll depend on what hiring in IT services companies is like going
+forward. If it accelerates, then our growth rates should improve. Not only will our growth rate
+with companies improve, but our growth rate with consultants will also improve.
+
+As far as GCCs are concerned, there are the smaller GCCs, there are the mid-sized ones, and
+there are large ones who set up shop many years ago. The large ones are fairly large. Some of
+the largest GCCs have 30% of their global workforce in India. Now here, if something happens
+to these companies in the US, the Indian GCCs also get impacted. If there's a big layoff in the
+US, then there's a very high chance that people get laid off in India. What has been happening
+with GCCs is that we are growing faster with the mid-size GCCs, the smaller GCCs, because
+they're still small. They're still setting up shop in India. Maybe just 2% or 3% or 4% or 5% of
+the global headcount is in India. Maybe this can go to 10%, 15%, 20%, 30% over time. There's
+a lot of headroom for growth, and they don't get impacted by what happens globally. With
+the larger ones, it's hard to say. Like Oracle laid off people in India recently as well. We've
+been growing in the teens with GCCs. Number of GCCs is growing in India. Many existing GCCs
+are setting up more centres. With them, we'll continue to grow. But I can't be sure of what
+will happen with the larger GCCs. Let's see how this plays out.
+
+Sanjeev Bikhchandani: I'd like to add something. You see, when a company sack 2,000 and
+hires 2,000, what shows up to you is net addition zero. But they've actually hired 2,000, and
+for that hiring, they will use us. What is happening is you're letting go of one skill set and
+hiring another skill set, because the demands of clients are changing. If you are shifting base
+towards IT-oriented or AI-oriented sort of hiring, you will hire some people and you'll fire
+some people. Net could be zero. For hiring of people, you will still use us.
+
+Vibhor Singhal: Basically, we don't get impacted by the firing part, but we definitely benefit
+from the hiring part.
+
+Sanjeev Bikhchandani: We are hiring business, not the firing business.
+
+Vibhor Singhal: Got it. Thanks for taking my questions and wish you all the best.
+
+Anand Bansal: Vineet, that was the last question we had for the day.
+
+Vineet Ranjan: Thank you, everyone, for joining. Maybe we can conclude this call. Thank you,
+Hitesh. Thank you, Sanjeev.
+
+Sanjeev Bikhchandani: Thank you, everyone, for taking the time out.
+

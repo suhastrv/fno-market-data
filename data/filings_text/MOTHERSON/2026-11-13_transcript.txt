@@ -1,0 +1,1228 @@
+                                         Samvardhana Motherson International Limited
+                                         Head Office: C-14 A & B, Sector 1, Noida – 201301 Distt. Gautam Budh Nagar, U.P. India
+                                         Tel: +91-120-6752100, 6752278, Fax: +91-120-2521866, 2521966, Website www.motherson.com
+
+
+                                                                                                           November 13, 2026
+
+BSE Limited                                                  National Stock Exchange of India Limited
+Phiroze Jeejeebhoy Towers,                                   Exchange Plaza, 5th Floor,
+Dalal Street,                                                Plot No. C/1, G-Block
+Mumbai – 400001,                                             Bandra-Kurla Complex, Bandra (E)
+Maharashtra, India                                           Mumbai – 400051, Maharashtra, India
+
+
+Scrip Code: 517334                                           Symbol: MOTHERSON
+
+Ref:      Transcript of earning conference call for the second quarter and half year ended
+          September 30, 2026
+
+Dear Sir (s) / Madam (s),
+
+Pursuant to Regulation 30(6) read with Part A of Schedule III of the Securities and Exchange Board
+of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed
+the Transcript of the earnings conference call for the second quarter and half year ended September
+30, 2026, for your information and records.
+
+The transcript of earnings call is also available on the Company’s website at www.motherson.com.
+
+The above is for your information and records.
+
+Thanking you,
+
+Yours truly,
+For Samvardhana Motherson International Limited
+ALOK              Digitally signed by
+                  ALOK GOEL
+
+GOEL              Date: 2026.11.13
+                  16:57:14 +05'30'
+
+Alok Goel
+Company Secretary
+
+
+
+
+Regd Office:
+Unit – 705, C Wing, ONE BKC, G Block
+Bandra Kurla Complex, Bandra East
+Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L35106MH1986PLC284510
+Email: investorrelations@motherson.com
+
+       Samvardhana Motherson International Limited
+                   Q2 FY27 Results Conference Call
+                         November 05, 2026
+
+
+
+
+Management:
+
+Mr. Vivek Chaand Sehgal
+Chairman
+
+Mr. Laksh Vaaman Sehgal
+Director
+
+Mr. Pankaj Mital
+Whole-Time Director and President
+
+Mr. Gandharv Tongia
+Group Chief Financial Officer
+
+Mr. Rajat Jain
+Chief Operating Officer, Vision Systems and Vehicle Systems Business Division
+
+
+
+
+                                      Page 1 of 20
+
+                                                                 Samvardhana Motherson International Limited
+                                                                                         November 05, 2026
+Moderator:             Ladies and gentlemen, good day and welcome to the Q2 FY 2027 Results Conference Call
+                       hosted by Samvardhana Motherson International Limited. As a reminder, all participant
+                       lines will be in the listen-only mode, and there will be an opportunity for you to ask
+                       questions after the presentation concludes. Should you need assistance during the call,
+                       please signal an operator by pressing star then zero on your touch-tone phone.
+
+
+                       I now hand the conference over to Mr. V.C. Sehgal, Chairman of the company. Thank you,
+                       and over to you, Mr. Sehgal.
+
+
+V.C. Sehgal:           Thank you. Good evening, everyone, and thank you for joining us on the Q2 Financial Year
+                       2027 earnings call of SAMIL. We are pleased with SAMIL's performance during the quarter,
+                       particularly given the evolving global environment and continued inflationary and
+                       commodity-related pressures. Our results demonstrate the resilience of our business and
+                       the continued trust of our customers.
+
+
+                       Our teams continue to remain focused on operational efficiency and excellence, cost
+                       optimization, and automation, helping us navigate higher commodity and other input
+                       costs while progressively integrating our newly acquired businesses. Our booked
+                       business has reached USD 106 billion and providing strong growth and reflecting the
+                       confidence our customers place on Motherson across businesses and geographies.
+
+
+                       Looking forward, our priorities remain clear: support our customers, improve the
+                       performance of the existing businesses, realize synergies from recent acquisitions, and
+                       pursue opportunities that create sustainable long-term value.
+
+
+                       With that, I conclude my opening remarks. For in-depth details on the results, I would hand
+                       over to Vaaman for a team walkthrough and business insights. Thank you. Over to you,
+                       Vaaman.
+
+
+Laksh Vaaman Sehgal:   Thank you, Papa. Good evening, everyone, and thank you for joining us for Q2 FY 2027
+                       earnings call. We are pleased to report our highest-ever quarterly and half-yearly revenues
+                       despite a challenging global environment, like Papa said. In Q2 FY 2027, our revenue stood
+                       at INR38,280 crores, registering a year-on-year growth of 27% and a sequential increase
+                       of 9%. This growth was primarily driven by the integration of Autoelectric and Yutaka
+                       Giken, along with robust performance in our wiring harness business.
+
+
+                       For the first half of FY 2027, revenues exceeded INR73,500 crores, reflecting a year-on-
+                       year growth of 22%. This performance was achieved against a relatively weak global
+                       automotive production backdrop. Global light vehicle production declined by 2.3% year-
+                       on-year, while China witnessed a decline of 5.5%. North America declined by 3.8%, and
+                       Europe just down at -0.6%. India, however, remained a clear bright spot, recording a
+                       growth of 15%.
+
+
+
+
+                                                Page 2 of 20
+
+                                                               Samvardhana Motherson International Limited
+                                                                                       November 05, 2026
+                   Commercial vehicle production demonstrated greater resilience, increasing by 7.6%
+                   globally. North America and India recorded particularly strong growth of 43.6% and 18.9%
+                   respectively. We expect this positive momentum in commercial vehicle production to
+                   continue in the second half of FY 2027.
+
+
+                   Turning to profitability, our EBITDA increased by 23% year-on-year to INR3,353 crores.
+                   EBITDA margin stood at 8.8% compared with 9% in Q2 FY 2026, representing a small
+                   contraction of approximately 20 basis points, but this was primarily attributable to the
+                   integration of the newly acquired businesses, which I mentioned before. This impact was
+                   partially mitigated by ongoing cost optimization initiatives, particularly those driven by our
+                   modules and polymer division.
+
+
+                   In addition to cost optimization, automation continues to be an important lever for
+                   strengthening operational resilience and enhancing our productivity. As part of our Vision
+                   2030 strategy, the 1,000-plus automation initiatives which we have kicked off in the group,
+                   which brings together physical, digital, and AI-led automation capabilities across the
+                   group, with the goal of implementing over 1,000 automation projects by next year.
+
+
+                   We have already built a pipeline of approximately 940 projects across our business
+                   verticals, covering robots, collaborative robots, and Automated Guided Vehicles, or AGVs,
+                   for applications such as assembly, intra-logistics, and end-of-line testing. Importantly,
+                   excluding the impact of acquisitions, margins improved both year-on-year and
+                   sequentially, supported by ongoing engagement with customers to secure input cost
+                   pass-throughs, along with benefits of our operating leverage.
+
+
+                   For the first half of FY 2027, EBITDA grew by 25% to INR6,457 crores, outpacing revenue
+                   growth. EBITDA margins improved by approximately 20 basis points to 8.8%, despite
+                   significant commodity cost inflation.
+
+
+                   Moving to the bottom line, these operational improvements and the scale-up across
+                   businesses translated into strong profitability growth. Normalized PAT for the quarter
+                   stood at INR1,175 crores, representing a year-on-year increase of 37%. For the first half of
+                   FY 2027, normalized PAT grew 45% to INR2,207 crores, reflecting the strong underlying
+                   performance of the group.
+
+
+                   With that, I would like to hand over to Gandharv, our CFO, who will discuss our capital
+                   allocation strategy and balance sheet position.
+
+
+Gandharv Tongia:   Thank you, Vaaman. While the automotive industry continues to see subdued growth, we
+                   have consistently strengthened our book business. In fiscal 2023, our book business
+                   stood at $59 billion. This increased to $96 billion in fiscal 2026 and has now reached an
+                   all-time high of $106 billion, despite the challenging industry environment. This represents
+                   a CAGR of approximately 13% between FY 2023 and first half of the current financial year,
+                   reflecting the continued confidence our customers place in Motherson.
+
+
+                                            Page 3 of 20
+
+                                            Samvardhana Motherson International Limited
+                                                                    November 05, 2026
+To support our customers and execute our growing order book, we continue to make
+substantial investment during the quarter. We incurred capex of INR1,971 crores in
+second quarter of current financial year, taking our first half capex to INR3,585 crores. This
+is in line with our full year guidance of INR6,000 crores with a range of plus or minus 10%.
+
+
+Our H1 capex represents approximately 56% of our EBITDA for the first half. Our growth
+investments, particularly in emerging markets and non-automotive businesses, remain a
+key priority. Approximately 60% of our guided full year capex is earmarked for non-
+automotive businesses. This reflects our confidence in the growth potential of these
+segments and is aimed at supporting their expansion and strengthening our capabilities
+over the coming years. During the quarter, one of our greenfield facilities, which will
+manufacture PCBs, became operational.
+
+
+This facility will provide valuable backward integration for our lighting and vision system
+businesses. We also announced five additional facility expansion during the quarter,
+taking the total number of facilities at various stages of development to 17. Of these, 10
+are expected to become operational during the current financial year.
+
+
+Emerging markets continue to be the primary focus of our organic growth strategy, with all
+of these expansions being undertaken in these markets. Coming to our balance sheet and
+leverage position, our leverage ratio remained stable at 0.8x despite significant capex
+investment and the acquisition of Autoelectric and Yutaka Giken. This remains
+comfortably within our financial policy ceiling of 2.5x and our internal aspiration of
+maintaining leverage below 1.5x.
+
+
+Effective net debt increased to INR11,292 crores at the end of September compared with
+INR9,757 crores at the end of June. The increase was primarily attributable to higher
+working capital on account of copper price increase, higher capex, and lease liabilities
+arising from the consolidation of Autoelectric and Yutaka Giken. We continue to maintain
+ample liquidity and remain comfortable with our overall balance sheet position.
+
+
+Our commitment to financial discipline and maintaining a robust balance sheet provides
+us with sufficient headroom to pursue further inorganic growth opportunities. We ended
+the quarter with strong liquidity of INR1,747 crores and a comfortable debt maturity
+profile. Having covered our balance sheet position, let me briefly touch upon the broader
+industry environment. The automotive industry continues to face a challenging time.
+
+
+Global light vehicle production has declined, led by declines in China, prompting several
+OEMs to revise their production and business outlooks globally. Our legacy OEM
+customers are also navigating a difficult phase, and we continue to work closely with them
+to support their evolving needs. On margins, we continue to face pressure from higher
+input costs, particularly copper, aluminium, and polymers. While these are largely
+external factors, our focus remains on what we can control.
+
+
+
+                         Page 4 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+                       Cost optimization, increased automation, and the pass-through of higher input costs to
+                       customers are helping us mitigate these pressures. While the automotive industry
+                       continues to face headwinds, our non-automotive businesses are witnessing encouraging
+                       growth. Our aerospace business registered growth of more than 20% year-on-year during
+                       the quarter. We also announced the acquisition of Rotary Connectors during the quarter,
+                       further strengthening and broadening our aerospace and defence capabilities.
+
+
+                       Our consumer electronics business continues to build strong momentum, delivering
+                       robust revenue growth and improved profitability during the year. We have also
+                       commenced trial production at our GF3 plant, with commercial production scheduled in
+                       fourth quarter of the current financial year. Together, these businesses are contributing to
+                       greater diversification of our portfolio and enhancing the overall resilience of the group.
+
+
+                       To summarize, we delivered a strong quarter with record revenues, resilient operating
+                       performance, and continued investment in future growth, and remain positive about the
+                       company's growth prospects.
+
+
+                       Thank you. With that, we will now open the floor for questions.
+
+
+V.C. Sehgal:           On a lighter note, what is the Hindi version of $106 billion?
+
+
+Gandharv Tongia:       INR10 lakh crores.
+
+
+V.C. Sehgal:           Well done. Back to you, please.
+
+
+Moderator:             Thank you very much. We will now begin the question-and-answer session. The first
+                       question is from Siddhartha Bera from Nomura. Please go ahead.
+
+
+Siddhartha Bera:       Yes. Hi, sir. Thanks for the opportunity, and Diwali wishes to the entire team. Sir, my first
+                       question is on the modules and polymer business. You have talked about focusing on
+                       various white space geographies and broadening the product portfolio to drive growth,
+                       given the weakness in the key markets. Can you share some more color?
+
+
+                       What are these initiatives where we can see some offsetting, which can support the
+                       growth? Second is, there has been two acquisitions which got integrated in the quarter,
+                       both Nexans and Yutaka. If you can share some more color on what was their revenues
+                       and margins, and which segments have they been integrated in the current quarter?
+
+
+Laksh Vaaman Sehgal:   Okay, thanks. I will take the first one. Look, on MPP, it is a global product for us. It is one of
+                       the very few segments where we are completely open to technology to any customer
+                       anywhere in the world. Of course, you are seeing India in a very bright spot, so we are
+                       having a lot of growth opportunities for our capabilities of interiors, exteriors, and plastics.
+                       In India, also, a lot of new customers are coming in.
+
+
+
+
+                                                 Page 5 of 20
+
+                                                                Samvardhana Motherson International Limited
+                                                                                        November 05, 2026
+                   We are having success with that as well, with our capabilities that we bring to the premium
+                   market. All of those things are doing well. If you look at the flip side as well, Europe also is
+                   going through a little bit of a, let us say, a churn, because customers are still deciding
+                   whether EV platforms are coming in or not, what are the new platforms that are coming in.
+
+
+                   There are also a lot of Chinese cars that are being sold in the market. Volkswagen
+                   themselves have come and done announcements, just like the other customers are all
+                   talking about these things. We are following their direction. Wherever they tell us that they
+                   are increasing demand, that is where we are increasing as well and putting our footprint.
+                   Where they are saying they are reducing demand, we, in the same term, have to breathe
+                   with the market and reduce.
+
+
+                   It is a bit of a mixed bag. I think the growth opportunities are definitely there. There are also
+                   some places where we are, just like our customers, also breathing with the market
+                   because they are readjusting their product lines that are coming up in the future. But
+                   overall, you see that our reorganization initiatives that we have taken are taking effect.
+
+
+                   You can see that that is improving our financial strength in those locations, and we
+                   continue to have firepower to invest in places that they have growth. It is more of a, I think,
+                   continent-wide kind of an approach. But overall, as you can see, there is tremendous
+                   amounts of growth.
+
+
+                   The customers are supporting us tremendously and wanting us to get into even more
+                   products, as there are more issues in the world as well. But MPP continues to remain
+                   strong and get leaner, and also focus on where growth is to be able to invest in that. I hope
+                   that answers the first question. Is it okay to first move on to the second one for the new
+                   acquisitions?
+
+
+Siddhartha Bera:   Yes, sir. Yes, sir, please.
+
+
+Gandharv Tongia:   Yes. Thank you, Siddhartha, for your question, and thank you for your warm Diwali wishes.
+                   We heartily reciprocate the same to you and your team. As you are aware, we integrated
+                   two new acquisitions in the current quarter. The first one is Autoelectric, which has been
+                   integrated in wiring harness business. This is very strategic acquisition for us.
+
+
+                   Generally speaking, we didn't have a sizable presence in passenger vehicle wiring harness
+                   business outside India, and this particular acquisition is going to give us this opportunity
+                   to further penetrate this particular market outside India. The second one is Yutaka Giken.
+                   This is a new capability, and therefore, it has been included as sub-vertical within the
+                   emerging businesses. Both of these businesses put together, they have ability to give us,
+                   to start with, around annual revenue of around $2 billion or thereabout.
+
+
+                   That is what we should expect, generally speaking, in the first full year of operations. I am
+                   sure, Siddhartha, you will have question on profitability. As of now, it is slightly a shade
+
+
+
+                                                 Page 6 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+                       lighter than what we enjoy at the group level, and we anticipate in times to come, both of
+                       these businesses will have a better profitability once we are able to integrate them fully
+                       and are able to get the operational efficiencies as well as integration benefits.
+
+
+V.C. Sehgal:           Pankaj, on another note, I think the acquisition of wiring harness is very exciting because
+                       it opens up globally. We can make wiring harness for passenger vehicles, which we were
+                       not doing up till now.
+
+
+Pankaj Mital:          That's right. Also, the engineering capabilities as co-designing and designing the products
+                       with the customers. That's what, there is a very good team for design at the customer side.
+
+
+V.C. Sehgal:           What passenger vehicle harnesses we are making at the moment? Just an idea.
+
+
+Pankaj Mital:          We are doing all the German car makers. BMW is the biggest customer for Autoelectric.
+                       We are doing Daimler as well as Porsche and Audi.
+
+
+V.C. Sehgal:           Thank you.
+
+
+Siddhartha Bera:       Got it, sir. Thanks a lot. I will come back later.
+
+
+Moderator:             Thank you. The next question is from Rishabh Rathi from Goldman Sachs. Please go
+                       ahead.
+
+
+Rishabh Rathi:         Good evening, sir, and thank you for taking my questions. I just have two related questions
+                       regarding the EBITDA margin. Most of the ancillary which we see has suffered EBITDA
+                       margin decline, but both in modules and polymers, as well as wiring harness, adjusting for
+                       the new acquisitions, we sort of increased our margins.
+
+
+                       I am just trying to understand, has some cost pass-through happened? Is there more cost
+                       pass-throughs yet to happen? So, what could we be looking at in terms of margin the
+                       second half for both of these businesses as we pass on some of the cost and Autoelectric
+                       Nexans gets integrated into wiring harness?
+
+
+Laksh Vaaman Sehgal:   Okay, for the first side, look, we don't really guide on margins. It's a moving target for us.
+                       We do have pass-throughs in some commodities, but some others, it also depends on
+                       customer, it depends on product, it depends on location. Yes, of course, during the
+                       quarter, of course, depending on the contracts with the customers, some things are also
+                       resolved. There are some things that are still pending.
+
+
+                       There are some implications that have also happened with how price moved up in this
+                       quarter and then subsequently came down. All those things are constantly going on. It's
+                       not a one-quarter kind of a thing that happens. It'll constantly keep happening, and
+                       especially because the volatility is high, so it happens even more.
+
+
+
+
+                                                  Page 7 of 20
+
+                                                                   Samvardhana Motherson International Limited
+                                                                                           November 05, 2026
+                       In the past, it has not been such a big problem because it has been more gradual or moving
+                       in a certain direction, and so it's easier to do over a longer period of time. But now with the
+                       high volatility, as you can imagine, these conversations are happening a lot more
+                       frequently with the customer, and so are the different customers are taking their different
+                       positions.
+
+
+                       But overall, from the operational side, I can tell you that we have been talking in the last
+                       few quarters as well, as how we have reduced footprint because, as in headcount, in the
+                       direction of how the volumes have also been reduced. We have also implemented a lot of
+                       AI and automation to make our plants completely competitive, and as the demand of the
+                       customers are there to the significant cost pressures that are everywhere.
+
+
+                       We're also taking those similar steps and using those people where we can for growth and
+                       investing over there, and in those places that we are seeing softness because of the
+                       numerous challenges that are all over the world, we are able to also, let's say, reduce our
+                       weight over there to be able to deal with the fluctuations in the volumes that are
+                       happening.
+
+
+                       I think that we're seeing some of that result, and that's why we're able to maintain good
+                       profitability during these tough times, because we've really been and fully focused on
+                       being extremely light in those locations where there are issues.
+
+
+Rishabh Rathi:         Thank you, sir, for that answer. Just one question on the consumer electronics space. Is it
+                       fair to assume right now the Greenfield 1 and 2 plant are close to full utilization, and GF3
+                       would come there, start resulting in revenues in fourth quarter? Or any update you can
+                       give on where it's standing right now?
+
+
+Laksh Vaaman Sehgal:   Yes, you are very right. One and two is already producing and growing. The GF3, which is
+                       the biggest plant that we have, is almost finished and also already running pilots and all
+                       those kind of things. We definitely should see in the next couple of quarters, I would say
+                       two quarters, it just depends on how. There are, like I said, a lot of challenges still with
+                       launching a plant this side, with the logistics coming from all over the world.
+
+
+                       But we are sure that we will be able to show you a really good progress in the next two
+                       quarters, which is what I have been also saying in the past. Things are on track. Small
+                       things which are normal in terms of delays and challenges that I would say obstacles that
+                       we need to cross to get it up and running, but nothing that we see as a showstopper.
+
+
+Rishabh Rathi:         Right, sir. Thank you so much. Have a good day.
+
+
+Moderator:             Thank you. The next question is from Jyoti Singh from Haitong. Please go ahead.
+
+
+Jyoti Singh:           Yes, thank you for the opportunity, and congrats on good execution in this quarter. My
+                       question is around global lighting side. You mentioned as well, decline during the Q2,
+                       particularly in China. How are you assessing demand trend across Europe, North America,
+
+                                                 Page 8 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+                       and China for H2 and FY 2028, and which geography are likely to drive incremental growth
+                       for this segment?
+
+
+                       Another on the wiring harness side that we have a good growth in Q2. How much of this
+                       growth is attributable to Autoelectric integration against underlying business momentum?
+                       Can this current trajectory we are expecting to sustain next few quarters or a year?
+
+
+Laksh Vaaman Sehgal:   Okay, ma'am. Thank you. A lot of questions there. Look, for the light vehicle production,
+                       like you're seeing, it's again a very mixed bag sort of a scenario. India is going through a
+                       very bright, positive phase where there is a lot of growth, and we've also talked about how
+                       many new plants that we are launching in the region.
+
+
+                       They've already launched on the different product side. Some are still launching. I think it's
+                       on the presentation as well. What slide is that? I'll just tell you the exact slide for the plant.
+                       You can have a look at that. It gives you a really good indication of a lot of orders which we
+                       have in hand. 12 is the slide number. You can have a look at that.
+
+
+                       It gives you a good idea of that there's a very significant order book, $106 billion, which is
+                       a record for Motherson Group. That is also will give you a good indication that it's a mixed
+                       bag. Of course, volumes in Europe are contracting. Again, I think it's only a pass-through
+                       kind of a phase till the customer product lines all get fixed up as to which other product
+                       lines that they want to come into.
+
+
+                       U.S. has been strong for us in terms of customer giving us opportunities. Of course, we
+                       don't track exactly to the market as well. We have been successful in winning a lot of
+                       contracts in that region, and they should come in the next couple of years. Hopefully, we
+                       should again see some good growth opportunities for our different product groups over
+                       there.
+
+
+                       I've already mentioned Europe a bunch of times, so you understand that there is some
+                       transition that will happen, but eventually we'll come back to growth as well. Yes, I think
+                       that Papa's diversification strategy, which he taught us all, 3CX10, no country, no
+                       customer, no component more than 10% of our business, is really helping us to, even
+                       during these really challenging times, to continue to show growth.
+
+
+                       Because definitely some customer or some product group in some location is growing,
+                       and we're able to catch those waves to counterbalance where we see the headwinds
+                       coming due to many difficulties, which is not just single pointed. You want to answer the
+                       question on the Autoelectric as part of the sales?
+
+
+Gandharv Tongia:       Sure.
+
+
+Laksh Vaaman Sehgal:   Autoelectric.
+
+
+
+
+                                                 Page 9 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+Gandharv Tongia:       This was perhaps one of the better quarters for our wiring harness business. As you would
+                       have noticed in the presentation, this particular business grew almost 68%. I think there
+                       are two or three drivers for this growth. One is in the American market, commercial vehicle
+                       industry grew almost north of 40%, which contributed to this growth.
+
+
+                       Second, as Vaaman and Mr. Sehgal mentioned, India continues with its bright phase of
+                       growth after GST relaxation, so that also contributed. The third piece is the acquisition of
+                       Autoelectric. Broadly speaking, out of the total growth, we can roughly assume one-third
+                       came from acquisition and balance came from other reasons.
+
+
+Jyoti Singh:           Okay. Sir, can we expect this current trajectory to sustain, and what is your view for a few
+                       quarters or for the year?
+
+
+Laksh Vaaman Sehgal:   Ma'am, I wish we had a crystal ball. We are only following the customers' directives. Again,
+                       I think there is always positive. We are very optimistic that in the growth locations, this will
+                       continue. So, we are bullish on that, and we are geared up with the capacities as well, as
+                       you can see with our new plant footprint and what we have already done.
+
+
+                       We are ready for these volumes, and we anticipate these volumes coming. So, we are
+                       optimistic, and I think, again, our diversified strategy will really help us to show continued
+                       growth, even though, like I said, some segment or some location may face a challenge.
+                       But we are so diversified that we should do well to catch the growth tailwind as well.
+
+
+Jyoti Singh:           Sure. Thank you so much.
+
+
+Moderator:             Thank you. Participants who wish to ask questions may press star and one. The next
+                       question is from Amyn Pirani from J.P. Morgan. Please go ahead.
+
+
+Amyn Pirani:           Yes. Hi, and thanks for the opportunity. Just going back to the impact of acquisitions, just
+                       one clarification. Is the Yutaka Giken also consolidated for the full quarter, or was it just
+                       about there for a small? Just trying to get some context on the impact on emerging
+                       business revenue growth as well.
+
+
+Gandharv Tongia:       Yep. Thanks, Amyn. Thanks a lot for your question. Yutaka Giken got consolidated for two
+                       months in this quarter, and Autoelectric got consolidated for the entire quarter, for all the
+                       three months.
+
+
+Amyn Pirani:           Okay. As I was just looking at your segmental numbers, what struck me was that your
+                       emerging business EBITDA now on a quarterly basis is hitting INR543 crores, which is
+                       actually crossing the vision systems and integrated assemblies and growing faster.
+                       Maybe, it is an observation as well as a request. Maybe you need to start breaking that up
+                       and providing some more color on a quarterly basis if possible.
+
+
+                       It is just a request from our side, because it has become a very sizable EBITDA contributor
+                       in a very short period of time, to be fair. Lastly, as I was looking at your new plant list, in the
+
+
+                                                 Page 10 of 20
+
+                                                                      Samvardhana Motherson International Limited
+                                                                                              November 05, 2026
+                       consumer electronics space, in 4Q, you have the capacity expansion as well as backward
+                       integration. Obviously, this new plant will significantly enhance your revenue base.
+
+
+                       But can you give us some color as to this backward integration and what impact can it have
+                       on the profitability or organic profitability of the business? Because as we understand, last
+                       year was the first year you already started making high single-digit EBITDA margins. After
+                       the backward integration and the ramp-up, inherently, is this a strong mid-teens, high-
+                       teens kind of a EBITDA margin business? Some context would be helpful.
+
+
+Laksh Vaaman Sehgal:   I mean, look, we take your suggestion in a positive way. I think we will look at that after the
+                       end of the year and see what is it moving forward, because a lot of these businesses are
+                       coming to that size. But we have been giving you indication of that with what we have been
+                       investing in and where we are putting it in.
+
+
+                       This is really the start of our journey in some of those product groups. The exciting piece is
+                       that, look, the strategy has been the same. We have followed the customer's direction,
+                       partnered with a capable partner, found global growth opportunities, and then become
+                       successful in that product. That is exactly what we are doing in these as well.
+
+
+                       As you can see with the aerospace, we partnered with a company in India, then built the
+                       trust with the customer, got the global opportunity of acquisition, and now we are really
+                       looking to scale that. Similar thing with the consumer electronics business as well. We will
+                       give you more. I think a lot of exciting things are in the pipeline.
+
+
+                       Like I said, now that we have become entrenched into this business, we are looking at
+                       many things that we can do to support our own business. There are more things that we
+                       are going to announce at the right time. A lot of things are cooking. I can tell you because
+                       we are very conscious of our Vision 2030 target, so that will require a lot of new things as
+                       well to come in.
+
+
+                       I am very excited to tell you that a lot of these things are moving in the really right direction.
+                       I think, again, please give us a couple of quarters. We are also having our Investor Day next
+                       year at the 2.5-year mark. I think there are going to be a lot of things that we are going to
+                       tell you at the other investor time, because that has given us enough runway from the start
+                       of this five-year plan now to really come and tell you where we stack up and where the next
+                       couple of years are going to go. That will give you a really good indication for this next 2.5
+                       years moving forward.
+
+
+                       We have been doing a lot of the work now, and we are getting into a lot of more
+                       components, stuff that we will tell you as soon as that will happen. I can assure you that a
+                       lot of this getting deeper into the newer products, getting deeper into the vertical
+                       integration, a lot of exciting new products are coming with the new partners and
+                       acquisitions and greenfields.
+
+
+
+
+                                                 Page 11 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+                       All that is yet to come, and we will show you something, I hope, with all the things going
+                       right in the next year, close to that. That kind of detail will only happen at that point.
+
+
+Amyn Pirani:           Thanks for that. Maybe something on the backward integration in consumer electronics,
+                       and what kind of a profitability zone can this business potentially be in, say, whenever the
+                       full ramp-up happens, wherever?
+
+
+Laksh Vaaman Sehgal:   Look, we stick to the 40% ROCEs, and of course, we are only going to go after businesses
+                       where we can see a sight to be able to get those. You cannot get that with the size of scale
+                       of executions that we are doing in year one. It does take a five-year plan to get that. But
+                       yes, it has got very attractive margins.
+
+
+                       It is only going to be accretive to where we are today. We will continue to work to make this
+                       only better and not bring it down. At the same time, I think also see that with all the
+                       challenges in the world, we are still holding very, very strong in terms of financial
+                       performance with all the headwinds.
+
+
+                       So also show how much the teams are really working and strengthening this foundation
+                       that we have on the automotive side, which is funding basically everything that we are
+                       doing in the new business. It is a really great show. The board really congratulated the
+                       team to have this kind of a performance with so many headwinds and so many new things
+                       that are going on.
+
+
+                       I can assure you that we are very focused on making this only better from here and
+                       improving on all fronts. I think we have the size and scale now to be able to continuously
+                       show that, and that is the endeavour from the team here.
+
+
+Amyn Pirani:           Great. Thanks for that, and all the best.
+
+
+Moderator:             Thank you. The next question is from Raghunandhan from Nuvama Research. Please go
+                       ahead.
+
+
+Raghunandhan:          Thank you, sir, for the opportunity. Congratulations on good results and wishing a happy
+                       Diwali. Sir, firstly on the emerging business, within that, aerospace is seeing an extremely
+                       strong trajectory. Given the strong order book, increasing capacity, and inorganic
+                       initiative, do you see the progress happening towards the $1 billion revenue mark before
+                       the next Vision 2030?
+
+
+Laksh Vaaman Sehgal:   Absolutely. I think if it is just $1 billion, we will be short of where we want it to be. I hope it
+                       is in multiples of that. Again, I do not see any reason why not, because we are performing.
+                       There are challenges in that. There are a lot of growth opportunities, and it is a sector which
+                       is really growing globally in terms of not just the entire aerospace, so to speak, even space,
+                       and there is so much that is happening there.
+
+
+
+
+                                                 Page 12 of 20
+
+                                                                     Samvardhana Motherson International Limited
+                                                                                             November 05, 2026
+                       That should really throw out a lot of opportunities. We have the customers' trust, which is
+                       most important, and we are very, very busy executing that. I do not believe that there will
+                       be a dearth of opportunities as long as we continue to deliver to the customers'
+                       expectations.
+
+
+Raghunandhan:          Thank you for the update. Even organically, it can go towards that $1 billion mark without
+                       considering acquisitions, given the strong potential?
+
+
+Laksh Vaaman Sehgal:   That really goes on the definition. I mean, there will be a lot of greenfields that will be
+                       required. Greenfields take time for us to do. I think, of course, there will be some inorganic
+                       also that needs to come in, but that inorganic will come with organic growth opportunities,
+                       which we are taking it for and setting up new facilities. It is really a mix. I cannot say it will
+                       be just based on what we have today, because we are already running at such high
+                       capacities with all the new plants, and we are thinking of building even more to go after it,
+                       which takes time...
+
+
+V.C. Sehgal:           See, Vaaman, the customer is telling us actually what to get…
+
+
+Laksh Vaaman Sehgal:   Yes
+
+
+V.C. Sehgal:           Into the fold as quick as possible.
+
+
+Laksh Vaaman Sehgal:   Yes.
+
+
+V.C. Sehgal:           That means immediate sales?
+
+
+Laksh Vaaman Sehgal:   Yes. Look, there are a lot of things that are in the pipeline. Again, we cannot disclose it till
+                       we do not have agreements, but we are very much looking at more acquisition
+                       opportunities and customers. It is all customer-led. It is not something that we are not
+                       normal way that Motherson does, it is the customers we have. There are many such
+                       opportunities that are live right now.
+
+
+Raghunandhan:          Thank you. For Wiring Harness segment, how do you see profitability improving ahead?
+                       There has been recently some stabilization in copper prices, and you would also be getting
+                       the pass-through of commodity prices. I was asking both from the perspective of SAMIL
+                       and the associate company, Motherson Sumi Wiring India Limited.
+
+
+V.C. Sehgal:           Pankaj?
+
+
+Pankaj Mital:          Raghunandhanji, basically, MSWIL has already explained in their commentary and in their
+                       discussions with investor relations. At a global level, what Gandharv mentioned is that it
+                       is a mix of the acquired entities integration in this quarter, which is having lower margin as
+                       it is the first quarter of integration.
+
+
+
+
+                                                  Page 13 of 20
+
+                                                                Samvardhana Motherson International Limited
+                                                                                        November 05, 2026
+                  We have a good future because we can improve together as it becomes one company, part
+                  of Motherson. The other is that you are right, because it is a big if the commodity prices get
+                  stabilized because they keep growing quarter-on-quarter, then definitely, yes, there will
+                  be a stability. However, we have to look at the numerator-denominator effect when we
+                  start looking only as percentages.
+
+
+                  The endeavour of all the teams has been to first, of course, care that all the increases
+                  which have been there, that how do we take care of them, and despite the inflationary
+                  markets, have done phenomenally well.
+
+
+Pankaj Mital:     Also, one thing which is very good is that while in some of the markets, the volumes have
+                  grown at a very fast pace, the teams have performed well to not burn themselves out and
+                  deliver to the customers flawlessly. That is, again, very good performance.
+
+
+V.C. Sehgal:      Raghunandhanji, appreciate that up till last quarter, means almost 40 years, people have
+                  been complaining that we cannot do business on passenger cars outside India. Now,
+                  global market is within reach. I sure hope that all of you appreciate that fact. So watch.
+
+
+Raghunandhan:     Yes, sir. I am sure you will repeat the same success everywhere. Thank you. Thank you so
+                  much for the thoughts, and best wishes for future. Thank you, sir.
+
+
+Moderator:        Thank you. The next question is from Manpreet Arora from Northern Lights Wealth. Please
+                  go ahead.
+
+
+Manpreet Arora:   Yes, thank you. Vaaman, just a quick question on the acquisition strategy. You have
+                  previously spoken that we acquire only when our customers tell us about something that
+                  is interesting for acquisition, and we don't really go out to chase capabilities. Is that true
+                  only on the automotive side or also on the emerging business side?
+
+
+                  What I'm trying to understand is, will we, like on the aerospace side, go and acquire
+                  capabilities if there is something that's missing, or will the same apply there as well, where
+                  we'll wait for…
+
+
+V.C. Sehgal:      I think you're very right. I think you're very right. This is Chaand Sehgal speaking. We will
+                  acquire. The customer doesn't come to us and tells us, "Look, this is a good company.
+                  Take it over," or something. The customer is 99% in trouble because of that company going
+                  into trouble. So, he wants us to take it over.
+
+
+                  So, it's a very good circumstance under which we take over this company. You're right that
+                  we would, in any of our businesses, anywhere, if the customer tells us to take it over, we
+                  don't hesitate. We are absolutely in the game. We will take it over. So, we're known as a
+                  not-yet company, which means we'll do anything and everything that the customer is
+                  willing to sustain, we're willing to take it over.
+
+
+
+
+                                            Page 14 of 20
+
+                                                              Samvardhana Motherson International Limited
+                                                                                      November 05, 2026
+Manpreet Arora:   Thank you, sir. Just a continuation to that, I wanted to understand the next step, which is
+                  the integration. So, let's take the example of Yutaka, which is also in the exhaust system
+                  side. Now, will we add that as a global capability after that and maybe bring it to India as
+                  well?
+
+
+V.C. Sehgal:      It's already in India.
+
+
+Manpreet Arora:   Okay.
+
+
+V.C. Sehgal:      It's supplying to Indian carmakers. It's already there. It's not just only the exhaust system.
+                  Do you know it's also a very big player in two-wheeler? In fact, ABS brakes is now
+                  compulsory in all the things, and they make the…
+
+
+Rajat Jain:       The brake discs.
+
+
+V.C. Sehgal:      Why don't you speak louder, Rajat?
+
+
+Rajat Jain:       Besides exhaust, they are also doing brake discs. In India, of course, we are supplying to
+                  all the major two-wheelers. In ASEAN, they are in Philippines, they are in Indonesia, in
+                  Thailand. Two-wheeler market is a big market for Yutaka.
+
+
+V.C. Sehgal:      That is in millions, right? Probably.
+
+
+Rajat Jain:       In Indonesia, two-wheeler market is 5.5 million vehicles.
+
+
+V.C. Sehgal:      Yes.
+
+
+Rajat Jain:       It is growing. It is growing rapidly in…
+
+
+V.C. Sehgal:      We have taken over the whole of Yutaka. That means even in America, even in Mexico,
+                  wherever they are, China also, wherever they are, we are taking from.
+
+
+Manpreet Arora:   Good. Thank you.
+
+
+V.C. Sehgal:      If you have any suggestions, please do tell us. We are always willing to look into it.
+
+
+Manpreet Arora:   The reason I brought up exhaust systems is because it is a fairly concentrated market with
+                  only two, three big players. It is a concentrated profit pool. I was wondering if we are going
+                  after that market as well. Good to know about that, sir. My next question is on the question
+                  to Rajat. It is a continuation of the question I asked in the previous call about the AIS-184,
+                  the regulatory tailwinds that we may see on the vision system side.
+
+
+                  I just wondered your thoughts, Rajat, on how do you see this whole thing evolving?
+                  Because, one, there is some lack of clarity in whether the aftermarket is also a part of this
+                  regulation or it is only for the new vehicles. Because if it is aftermarket, then maybe it is a
+                  much bigger market for us to serve.
+
+
+                                            Page 15 of 20
+
+                                                                 Samvardhana Motherson International Limited
+                                                                                         November 05, 2026
+                   Also, how do you see this playing out in terms of OEMs adoption? Because what we are
+                   hearing is that the regulation is not very strict on how it should be implemented. Therefore,
+                   there are non-camera ways of doing it also, and some of the OEMs are probably going that
+                   route and not using a camera for driver drowsiness monitoring. Just your view on how you
+                   think how this whole thing will play out.
+
+
+Rajat Jain:        I think everything you said is right. This is going to evolve. As any other regulation in India,
+                   it is introduced, then withdrawn, and then it gradually comes back again. The same thing
+                   is also in the ABS in two-wheeler. It came in, and now it will slow down a little bit, but it will
+                   eventually come back. So, same is for all of these other ADAS requirements as well. I think
+                   it takes time for OEMs to respond.
+
+
+                   The regulators perhaps are not taking that aspect into consideration because they are
+                   seeing it from the point of view of what is required by the market. But again, there are
+                   discussions, deliberations, there are forums where then OEMs are coming together,
+                   explaining what is the practical timeline. Then it is fine-tuned. So I would say, we are also
+                   part of these deliberations.
+
+
+                   You are right, there are workarounds being managed by the OEMs as of now, not to use
+                   expensive technologies. But again, you can imagine this is not going to be like this forever.
+                   It is going to evolve because they will not really deliver the outcomes which are intended.
+                   So they can be there for a short while, but then eventually, more mature technologies will
+                   have to be brought into regulation.
+
+
+                   That is good for us in the long run, because we are already there, and as you would know
+                   that we already invested in a startup in China, Autocruis, which has these technologies on
+                   commercial vehicle. So, we already have started building that foundation on which that
+                   we can grow as these regulations come in.
+
+
+Moderator:         Thank you. The next question is from Kumar Rakesh from BNP Paribas. Please go ahead.
+
+
+Kumar Rakesh:      Hi, good evening, and thanks for taking my question. My first question was around the
+                   capex plan. Can you just update what is the total capex plans for the consumer electronic
+                   part of the business?
+
+
+Gandharv Tongia:   I think total is around INR7,500 crores. The two plants are up and running, and as Vaaman
+                   mentioned a while back, the fourth plant should be, commercial production should start
+                   in the fourth quarter.
+
+
+Kumar Rakesh:      Got it. That would be the biggest plant, I understand.
+
+
+Gandharv Tongia:   Absolutely.
+
+
+Kumar Rakesh:      Yes. The initial plan was for…
+
+
+
+
+                                             Page 16 of 20
+
+                                                                   Samvardhana Motherson International Limited
+                                                                                           November 05, 2026
+V.C. Sehgal:           33 football fields.
+
+
+Kumar Rakesh:          I noticed that. The initial plan was for a capex of INR2,600 crores, I remember. It has tripled
+                       since then. Have we increased the target capacity of the plant, or the cost estimates have
+                       changed? What is the difference between these two numbers?
+
+
+Gandharv Tongia:       The increase in capacity as well as backward integration. We will go deeper into
+                       processes. We are doing a particular type of processes to a particular stage. We will do
+                       more, and we will also add more products.
+
+
+Kumar Rakesh:          Got that. Will you be able to give some sense in terms of ramp-up? I remember Vaaman
+                       last quarter had said that unlike the auto plant, the ramp-up in this particular case would
+                       be faster. Any sense that by when would we expect the full capacity to be up and running?
+
+
+Laksh Vaaman Sehgal:   Yes, by next year. So, like I said, we will kick off in a couple of quarters, and hopefully in
+                       two subsequent quarters after that, we should be at full.
+
+
+Kumar Rakesh:          Got that. My final question was around margins in the wiring harness business. Last
+                       quarter, we had spoken about that we will start passing on the commodity inflation, the
+                       copper price inflation to the customers, and should benefit in margin. I understand in this
+                       quarter there is an impact of acquisition as well. But if we adjust for that, will you be able
+                       to give some sense how the margin would have performed now that you have started
+                       passing on the pressure to the OEMs?
+
+
+Pankaj Mital:          I think what you see is a very good result. As we mentioned always that we work on return
+                       on capital employed. This business is very wide, and it is all across the world. So it is not
+                       like that one particular aspect can impact something and give a result, because more than
+                       130,000 people are working around the world to produce these parts which get
+                       consolidated. So, there are a lot of variables, and at the end of it is what we see the result
+                       in this report.
+
+
+                       Considering all the issues which have happened in the world, logistic costs, movement of
+                       commodity pricing, which have led to child part pricing, everything is all included, and then
+                       this result, we believe, is very good. Yet, there is a pass-through of the commodity prices,
+                       which has a lag of about three months. In some cases, six, but mostly three.
+
+
+V.C. Sehgal:           Pankaj, 43 years we have tried to explain to our friends, I think we are not good in our
+                       explanation, that we are a growth company, not a margin company. Sorry. This is straight
+                       to what you are saying, but I was just thinking…
+
+
+Pankaj Mital:          No, because it has many different types of products which we make for agriculture
+                       equipment, for commercial vehicles, for passenger-
+
+
+V.C. Sehgal:           Aircraft, trains.
+
+
+
+
+                                                Page 17 of 20
+
+                                                                  Samvardhana Motherson International Limited
+                                                                                          November 05, 2026
+Pankaj Mital:          Rolling stock. It is a mix of so many things. It is a huge number of variables which come in
+                       together.
+
+
+Kumar Rakesh:          Thank you so much for answering my question, and wish you the best.
+
+
+Pankaj Mital:          Thank you.
+
+
+Kumar Rakesh:          Thank you.
+
+
+Moderator:             Thank you. The next question is from Naman from Sanghi Family Office. Please go ahead.
+
+
+Naman:                 Hi. Congrats, team, on a good performance, and very good to see Motherson becoming
+                       truly something out of just the auto anc opportunity. Just quickly wanted to gain some
+                       sense on the medical device, medical and health application, and what sort of product
+                       range are we looking at, if we can talk about it. Also wanted to understand, at last quarter,
+                       we had highlighted about humanoid-related order wins. How is it tracking with all the
+                       buzz? Just on these two emerging aspects, if you could talk, that would be great.
+
+
+Laksh Vaaman Sehgal:   Sure. So, look, we're very excited about all the emerging businesses. Medical's first plant
+                       is already up and running in Chennai. The same strategy what we are doing that was
+                       successful for the automotive piece, which was B2B kind of supply to our, the top brands
+                       in the world. They are very enthused by seeing Motherson capabilities. The order book is
+                       growing gradually, organically.
+
+
+                       We've also done an acquisition of a company called Irillic, which is making full devices in
+                       the diagnostics place, which is doing well. They're ramping up as well. That gives us, again,
+                       a lot more visibility into the market and for the other brands to also know that Motherson
+                       is there. The idea is, again, to be the B2B D.E.M.A.L partner for all the top brands. Of
+                       course, India is a big market, but not just give them India, be able to supply them globally.
+
+
+                       Plastics, electronics, metal, wherever that, again, we have the group strength in. If there
+                       are new joint ventures where the customers wants us, we're also exploring those. Like I
+                       said, India is a huge potential market. A lot of imports that are currently being done. So,
+                       good opportunity for international brands to come in, set up, and also local Indian brands,
+                       which we are supporting as well. So, overall, also very exciting.
+
+
+                       A bit slower out of the blocks because, as you know, COVID really gave huge boost to this
+                       industry, so difficult to penetrate when there was such huge growth. Now only things are
+                       a little bit more tapering that we have ability to really push through what we want to do in
+                       that division. But equally excited about the possibilities and what's happening over there
+                       on the medical division. What was your second question again?
+
+
+Naman:                 On the humanoids also, if you could talk about. Right.
+
+
+
+
+                                               Page 18 of 20
+
+                                                                    Samvardhana Motherson International Limited
+                                                                                            November 05, 2026
+Laksh Vaaman Sehgal:   Right. Look, again, this is a very, very nascent industry and a start. We do see that robotics
+                       and physical AI as a whole is going to have meaningful impact on manufacturing. Not only
+                       are we using it, I talked about 1,000 plus automations that we have initiated within the
+                       group with all our plants, giving up particular proposals of automations, whether, again,
+                       it's not really using humanoids.
+
+
+                       But using more cobots, robots, and all sorts of things, which is on the way to using, I think,
+                       humanoids. That will still take time. But I think, again, it's very exciting to see that
+                       customers are also seeing the capability of engineering of Motherson to be able to get into
+                       these new products and grow with them.
+
+
+                       The revenue is very, very marginal right now because these are all in concept phase, and
+                       nothing that we can, again, report that is hugely substantial. But yes, exciting part of the
+                       106 billion portfolio order book, record of order book that we have. I am sure if we continue
+                       to do these things, it will continue to grow.
+
+
+Naman:                 Super. Just one follow-up, right? This is onto the auto anc part of it. When we see the
+                       integrated assembly, right, could you just give me some direction that at what point the
+                       stress in Europe and OEMs could push them to actively move away from their
+                       manufacturing and prefer a much more asset-light, like an outsourcing model on an
+                       increasing trend? Or is that not the right direction or not the right way to look at it?
+
+
+Laksh Vaaman Sehgal:   No, the customer wants suppliers like us to do more and more of assembly. I think
+                       historically, if you understand why the OEMs were doing the manufacturing in the first
+                       place was because engine technologies were extremely critical and were the focus of the
+                       main IP of the car makers. I am simplifying it a bit, but they wanted to protect that, so they
+                       wanted to do that entire assembly in-house. Now that it has reached quite a mature
+                       phase…
+
+
+Naman:                 Mature.
+
+
+Laksh Vaaman Sehgal:   Of course, going to hybrids and EVs, their batteries are also being imported completely.
+                       The complete assembly piece is not as attractive for them as it is for us in Motherson
+                       because that is what we do. I think that opens up a lot of opportunities. Again, we can also
+                       do multiple different customers, multiple different platforms from one location, which is
+                       again something that the OEMs cannot do because they can usually only do one brand or
+                       one vehicle type from the plant location.
+
+
+                       So the flexibility is lesser than a supplier like us who is supplying to multiple different
+                       brands, plants. So it obviously becomes attractive for them to partner with someone
+                       reliable to be able to do this for them. We are able to de-risk it by bringing different
+                       customers' models into those kind of things, and that is what we are really trying to do.
+
+
+
+
+                                                Page 19 of 20
+
+                                                                                     Samvardhana Motherson International Limited
+                                                                                                             November 05, 2026
+                                  And again, the whole idea with MSAS was to take a giant leap towards that, and I am very
+                                  proud to say that I think we have full capability now to assemble full vehicles, and I am
+                                  sure the day is near where the customer will ask us to do so.
+
+
+Naman:                            Okay. Great. Now, congratulations and all the best. Keep executing. Thanks.
+
+
+Laksh Vaaman Sehgal:              Thank you.
+
+
+Moderator:                        Thank you very much. We will take that as the last question. I would now like to hand the
+                                  conference over to Mr. V.C. Sehgal for closing comments.
+
+
+V.C. Sehgal:                      Vaaman, what would you want to say to them? Wish them very Happy Diwali and all the
+                                  best wishes to them and their family, and keep the action going. Motherson is on its way.
+                                  We are trying to focus on the right things. Please remember, we are not yet a company.
+                                  Thank you. Thank you all very much.
+
+
+Laksh Vaaman Sehgal:              Thank you so much. Thank you.
+
+
+V.C. Sehgal:                      Wish you a very happy Diwali, all of you. Thank you.
+
+
+Gandharv Tongia:                  Thank you. Happy Diwali.
+
+
+Moderator:                        Thank you very much. On behalf of Samvardhana Motherson International Limited, that
+                                  concludes this conference. Thank you for joining us, ladies and gentlemen. You may now
+                                  disconnect your lines.
+
+
+
+
+Disclaimers: This transcript for the Investors’ call has been made for compliance under SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015. No part of this document shall be reproduced or transmitted in any form or by any means without
+the prior written consent of Samvardhana Motherson International Limited (“Company”). This transcript has been edited for the
+purpose of factual accuracy, better reading and clarity. Best efforts have been made while editing the translated audio recording to
+ensure grammatical, punctuation, and formatting are correct, so that it does not result in any edits to the content or discussion. The
+audio recording of transcript is available at the website of the Company, viz. www.motherson.com . The statements of the
+participants as captured in this document are dependent on currently held beliefs and assumptions of the management of the
+Company, which are expressed in good faith and, in their opinion, are reasonable and may include forward-looking statements.
+Forward-looking statements inter-alia involve known and unknown risks, contingencies, uncertainties, market conditions, certain
+assumptions and expectations of future events, economic conditions affecting demand/supply and price conditions in the domestic
+and overseas markets in which the Company operates, changes in or due to the environment, government regulations, tariffs,
+geopolitical conflicts, laws, statutes, judicial pronouncements and other factors, which may cause the actual results, financial
+condition, performance, or achievements of the Company or industry results, to differ materially from the results, financial condition,
+performance, or achievements, directly or indirectly expressed or implied by such forward-looking statements. The Company assumes
+no responsibility to publicly amend, modify or revise any forward-looking statements, on the basis of any subsequent developments,
+information, events or otherwise. The Company disclaims any obligation or liability to any person for any loss or damage caused by
+errors or omissions, whether arising from negligence, accident, or any other cause and in no event shall be liable for any liabilities arising
+therefrom. Readers of this document should each make their own evaluation and assessment of the Company and of the relevance
+and adequacy of the information and should make such other examination as they deem necessary.
+
+
+
+
+                                                               Page 20 of 20
+

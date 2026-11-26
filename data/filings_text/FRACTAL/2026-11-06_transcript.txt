@@ -1,0 +1,1024 @@
+Ref./No./FRACTAL/SE/2026-27/073
+
+Date: November 6, 2026
+
+
+  National Stock Exchange of India Limited                                        BSE Limited
+  Exchange Plaza, Plot No. C/1, G Block,                                          Phiroze Jeejeebhoy Towers,
+  Bandra Kurla Complex,                                                           Dalal Street, Fort,
+  Bandra (East), Mumbai 400051                                                    Mumbai 400 001
+  Maharashtra, India                                                              Maharashtra, India
+
+  Scrip Symbol: FRACTAL                                                           Scrip Code: 544700
+
+
+Sub: Transcript of Earnings Conference Call pertaining to the Unaudited Consolidated and Standalone
+Financial Results for the quarter and six months ended September 30, 2026
+
+Dear Ma’am / Sir,
+
+Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please ﬁnd enclosed herewith the transcript of the Earnings Conference call held on
+Wednesday, November 04, 2026, for the Unaudited Consolidated and Standalone Financial Results for the
+quarter and six months ended September 30, 2026.
+
+The said transcript is also available on the website of the Company at: https://fractal.ai/docs/Investor-
+Relations/Financial-Statements-and-Annual-Reports/2027/Q2/Fractal-Transcript-Q2-FY2027.pdf
+
+
+This disclosure will also be hosted on the Company’s website at: https://fractal.ai/investor-relations
+
+Kindly take the same on records and arrange to bring this to the notice of all concerned.
+
+Thanking you.
+
+Yours sincerely,
+
+For Fractal Analytics Limited
+
+                      Digitally signed by
+ SOMYA SOMYA AGARWAL
+ AGARWAL Date: 2026.11.06
+         12:14:29 +05'30'
+________________________
+Somya Agarwal
+Company Secretary and Compliance Oﬃcer
+Membership No: A17336
+
+Encl: a/a
+
+
+
+
+Fractal Analytics Limited (formerly known as Fractal Analytics Private Limited)
+CIN: L72400MH2000PLC125369
+Registered address:
+Level 7, Commerz II, International Business Park, Oberoi Garden City,
+Off W. E. Highway Goregaon (E), Mumbai - 400063, Maharashtra, India.
+W: www.fractal.ai | P: +91 22 6850 5800 | E: investorrelations@fractal.ai
+
+              Fractal Q2 FY2027 Earnings Conference Call
+
+                          November 4, 2026
+
+
+
+
+Management:      Mr. Srikanth Velamakanni – Co-Founder & Group
+                 CEO
+                 Mr. Pranay Agrawal – Co-Founder & CEO
+                 Ms. Shilpa Kedia – Chief Financial Officer
+                 Mr. Satish Raman – Chief Strategy Officer
+                 Ms. Svetlana Joshi – Investor Relations
+                 Ms. Anjali Garg – Investor Relations
+
+
+
+
+                              Page 1 of 19
+
+                                                                                                  Fractal Analytics
+                                                                                                 November 4, 2026
+
+Moderator:                Ladies and gentlemen, a very good morning. My name is Inba. I will be moderating today's
+                          session. Welcome to Fractal's Q2 FY2027 Earnings Conference Call. All participant lines
+                          will be in listen-only mode, and there will be an opportunity for you to ask questions after the
+                          management's remarks. Please note the call is being recorded. I will now hand over the call
+                          to Ms. Svetlana Joshi from Fractal's Investor Relations team. Thank you, and over to you,
+                          Svetlana.
+
+
+Svetlana Joshi:           Thank you, Inba. Good morning, everyone, and thank you for joining us today. We will be
+                          discussing Fractal's performance for Q2 of FY2027, which ended on September 30, 2026.
+                          Our results, investor presentation, and fact sheet have been filed with the exchanges and are
+                          also available on our investor relations website. Joining me on the call today are Srikanth
+                          Velamakanni, Co-Founder and Group CEO, Pranay Agrawal, Co-Founder and CEO, Shilpa
+                          Kedia, Chief Financial Officer, and Satish Raman, Chief Strategy Officer. Before we begin,
+                          please note that certain statements made during this call may be forward looking in nature.
+                          These statements are based on our current expectations and are subject to risks and
+                          uncertainties that could cause actual results to differ materially. Such statements or comments
+                          are not guarantees of future performance, and Fractal undertakes no obligation to update
+                          them. Please refer to the cautionary statements in our investor presentation and regulatory
+                          filings. We will first hear from Srikanth on the business update and then from Shilpa on the
+                          detailed financial performance, post which we will take questions. With that, let me hand
+                          over the call to Srikanth.
+
+
+Srikanth Velamakanni: Good morning, everyone. It has been 100 days since our last earnings call, and in the world
+                          of AI, that is a really long time. AI is now contributing to significant scientific breakthroughs,
+                          but the world of enterprises is still catching up. The enterprise AI floodgates have not opened
+                          yet. We stand ready to capitalize on that when it happens. Meanwhile, we had a great quarter.
+                          For the first time, our revenue crossed the $100 million threshold. Revenues grew 20%,
+                          adjusted EBITDA grew 30%, and net income grew 139%.
+
+
+                          Let me walk you through the details. Revenue for quarter 2 was INR 957 crore, up 20% year-
+                          over-year and 5% quarter-over-quarter. In constant currency terms, revenue growth was 10%
+                          year-over-year and 4% quarter-over-quarter. Here is how this breaks down by industry.
+
+
+                          Consumer packaged goods and retail (CPGR), our largest vertical, grew by 11% year-over-
+                          year, reflective of some of the challenges of inflation and consolidation in this sector. Our
+                          healthcare and life sciences (HLS) business continued to be the growth leader, growing at an
+                          exceptional 79% year-over-year. As I said in the last quarter, technology, media & telecom
+                          (TMT) has bottomed out. It grew sequentially by 6%, though it remains a sector going
+                          through a lot of change. Banking, financial services and insurance (BFSI) grew 30% year-
+
+
+
+
+                                                   Page 2 of 19
+
+                                                                         Fractal Analytics
+                                                                        November 4, 2026
+
+over-year. Our energy, travel, and industrial clients, which we report as “others”, grew 47%
+year-over-year.
+
+
+Now, let me walk you through in terms of geography. Americas led the revenue growth with
+22%, while Europe was close behind with 20% growth. APAC grew by 7% year-over-year.
+That’s the top line. Here are three numbers underneath that are very, very interesting.
+
+
+        •      One, our Net Promoter Score was 76, which tells us that our clients are very
+               satisfied with our work and want to work with us more.
+        •      Second, they are also spending more with us. Our Net Revenue Retention was
+               115% in Q2, up from 112% last year, and new clients added another five points
+               of growth.
+        •      Third, we now have 58 clients with more than $1 million in annual revenue, and
+               20 of them are above $5 million. At the same time, our top 10 and top 20 clients
+               make up a smaller share of revenue. That means we’re growing without
+               becoming more concentrated.
+
+
+On profitability, Shilpa Kedia will go deeper, but here are some headlines. Gross margin was
+at 44%, down 225 basis points year-over-year, mainly because we invested in developing
+precious AI research and AI engineering talent ahead of growth.
+
+
+Adjusted EBITDA grew 30%, and adjusted EBITDA margin reached 16%, up 123 basis
+points. Net income grew 139% to INR 79 crore, and net income margin rose from 4% to 8%.
+Excluding our share of Qure.ai losses, net income was at INR 102 crore. Overall, I’m very
+happy with how our profitability is shaping up. So, those are the numbers for this quarter.
+
+
+Now, let me make a few qualitative comments. I’m excited about a few things.
+
+
+Number one, products. Our products revenue is at INR 38 crore for the quarter, which is 4%
+of our overall revenue. Our products portfolio is now at a run rate of more than INR 150 crore
+a year, up 39% year-over-year. In addition, our remaining performance obligations, RPO,
+which is defined as contracted revenue yet to be delivered and recognized for products, stands
+at over INR 200 crore. So, product business is starting to become significant. Cogentiq, our
+agentic AI platform, is gaining traction globally and especially in India. Clients are using this
+platform directly and the products are built on it, such as Cogentiq Invoice to Cash and
+Cogentiq CX. Fractal Alpha, which holds Asper.ai and Analytics Vidhya (AV), grew 40%
+year-over-year to INR 34 crore. The Pricing One transaction that we closed yesterday gives
+Asper.ai a base in Europe, and AV is shifting now towards enterprise clients. So, this is the
+first point.
+
+
+
+
+                            Page 3 of 19
+
+                                                                                      Fractal Analytics
+                                                                                     November 4, 2026
+
+                Second, growth levers. Our largest relationships are growing. Now, six clients bring in more
+                than $20 million each, up from four a year ago. Our new client additions continue to be
+                healthy at about one new client every 10 days. We are more dialed in than ever, and our win
+                rates are moving in the right direction. We’re also deliberately building the capability to win
+                larger multi-year programs. Our M&A pipeline is healthy, and our balance sheet is strong.
+                It’s an opportune time to use the M&A lever to strengthen our right to win.
+
+
+                The third thing I am excited about is the leadership changes we are making. We are
+                consciously raising the bar on our team, and we are finding exceptional people who want to
+                build Fractal with us.
+
+
+                Now, speaking of game-changing talent joining us, I am delighted to welcome Shilpa Kedia,
+                who joined us as Chief Financial Officer last month. She brings a wealth of experience from
+                global giants like Johnson & Johnson and Unilever. Shilpa’s charter is to accelerate our
+                growth while improving profitability. She’ll also help turn our research and product
+                investments into one of our most important growth levers. Shilpa will now take you through
+                the financials in greater depth. Over to you, Shilpa.
+
+
+Shilpa Kedia:   Thank you, Srikanth, for the warm welcome and for making me part of the team. Good
+                morning, everyone. I’m delighted to join you all today. It’s been an exciting two weeks so
+                far. I have long admired Fractal, how it has been helping clients convert AI excitement into
+                tangible outcomes. Having been on the other side of the table, I understand the challenges
+                clients face, how they assess return on AI investment, and what they expect from a partner
+                like Fractal. I look forward to bringing that perspective to help us deliver even greater value
+                to our clients and drive the next phase of growth.
+
+
+                Turning now to the quarter, let me walk you through our financial results in detail and the
+                key drivers of our performance. In Q2 FY 2027, our revenue from operations crossed $100
+                million for the first time, which makes this a milestone quarter for Fractal. Revenue was INR
+                957 crore, up 20% year-over-year and 5% quarter-over-quarter. In constant currency terms,
+                growth was 10% year-over-year and 4% quarter-over-quarter.
+
+
+                As Srikanth mentioned, we continue to see robust growth in HLS and BFSI verticals. TMT
+                recovered sequentially this quarter with 6% growth. HLS and BFSI have now delivered strong
+                growth for three consecutive quarters. The quality of growth remains robust. 58% of our
+                revenue came from input-based engagements, 42% from output and outcome-based
+                engagements, including 4% from products. The entire revenue growth was organic. Top 10
+                client concentration fell from 53.2% to 51.7% of revenue, which reflects a broadening client
+                base.
+
+
+
+
+                                         Page 4 of 19
+
+                                                                        Fractal Analytics
+                                                                       November 4, 2026
+
+Moving on to profitability, adjusted EBITDA margin for Q2 FY 2027 was 16.2%, with
+expansion of 123 basis points versus Q2 FY 2026. We have invested ahead of the curve,
+which is reflected in the gross margin for the quarter, while operating leverage has continued
+in SG&A.
+
+
+Let’s take a closer look at each one of these. We define gross margin as revenue from
+operations minus direct costs, which include employee and other direct expenses. Gross
+margin was 44% for Q2 FY 2027, down 225 basis points year-over-year. There is a short-
+term impact as we have invested in AI engineering talent, which is both scarce and expensive
+today. This investment led to a negative impact of 279 basis points.
+
+
+The other two components have opposing influences on the variance. Annual merit increases
+had a negative impact of 216 basis points, while the weaker rupee provided a benefit of 270
+basis points. Operating leverage continued in SG&A. While in absolute, it grew by 5%, as a
+percentage of revenue, it fell from 27% in Q2 FY 2026 to 23.6% in Q2 FY 2027. These
+actions drove EBITDA expansion ahead of revenue, with overall adjusted EBITDA growing
+30% year-over-year against 20% revenue growth.
+
+
+Moving to R&D. R&D funds our AI research and turns it into our own IP, products, and
+platforms that set us apart and open new growth avenues. R&D investment rose 13% year-
+over-year to INR 60 crore in Q2 2027, which is 6.3% of our revenue. Of the INR 60 crore,
+INR 40 crore was expensed, the rest was capitalized. Most of this investment goes into
+building Cogentiq and Asper.ai.
+
+
+Moving to Fractal Alpha. Fractal Alpha segment includes Asper.ai and Analytics Vidhya.
+Asper.ai has done a capital-light transaction this month with the European firm Pricing One.
+This transaction provides Asper.ai with a focused foothold in Europe.
+
+
+Fractal Alpha’s revenue from operations grew by 40% year-over-year and by 41% quarter-
+over-quarter to INR 34 crore.
+
+
+On a constant currency basis, growth was 32% year-over-year and 41% quarter-over-quarter.
+The adjusted segment loss was INR 10 crore for Q2 2027, with a gross margin of 54%.
+
+
+We have continued investment in building the B2B leg of Analytics Vidhya, and it has
+weighed on the margins for the quarter. The same is expected to normalize by the end of the
+year.
+
+
+Moving over to net income. Net income for Q2 2027 grew by 139% to INR 79 crore, and
+margin expanded by 413 basis points year-over-year to 8.3% of revenue. Excluding the share
+of loss from associate, net income for Q2 2027 is INR 102 crore or 10.7% of revenue. ESOP
+
+
+
+                        Page 5 of 19
+
+                                                                                   Fractal Analytics
+                                                                                  November 4, 2026
+
+             charges, including cash bonus linked to options and one-time retention bonus, declined to
+             0.5% of revenue in Q2 2027 versus 2.8% in Q2 2026.
+
+
+             Talking about Qure.ai, it is an associate company, and hence we only consolidate our share
+             of loss or gain based on our 31.5% holding. That share of loss for us was INR 23 crore for
+             Q2 2027. Qure.ai continues its growth momentum with revenue of INR 28 crore in Q2 2027,
+             with 82% growth year-over-year.
+
+
+             Diluted EPS for Q2 2027 is at INR 4.48, which is 132% higher than Q2 2026. Diluted EPS
+             without the share of loss from associate is at INR 5.76.
+
+
+             Moving on to cash. Our cash flow from operations was INR 407 crore on a trailing 12-month
+             basis, which grew by 11% year-over-year. Overall, our H1 2027 cash flow from operations
+             is negative INR 24 crore due to payout of variable compensation in Q1 2027. The H1 2027
+             cash flow is in line with our historical trend. Days sales outstanding (DSO) has increased by
+             five days to 76 days in Q2 2027 versus 71 days in Q2 2026. This was mainly a timing effect
+             of collections moving into the next quarter. We expect DSO to return to its historical range
+             by the end of the year.
+
+
+             As of 30 September 2026, we had cash and cash equivalents, including mutual funds and
+             fixed deposits, of INR 1,728 crore, including IPO proceeds of INR 608 crore. In line with the
+             plan outlined in our IPO filings, we utilized INR 81 crore over the quarter, with the majority
+             directed towards research and development.
+
+
+             Let me now summarize our H1 FY 2027 performance. Our revenue from operations was INR
+             1,869 crore, which grew by 20% year-over-year and 10% in constant currency. Adjusted
+             EBITDA margin went up by 155 basis points to 16.5% from H1 FY 2026. Net income grew
+             by 114% to INR 151 crore, and net income margin expanded by 356 basis points year-over-
+             year to 8.1% of revenue. Excluding the share of loss from associate, net income for H1 FY
+             2027 is INR 198 crore or 10.6% of revenue.
+
+
+             Let me summarize the key takeaways. We delivered the quarter with 20% revenue growth,
+             30% adjusted EBITDA growth, and 139% net income growth.
+
+
+             Over our next few interactions, I am looking forward to hearing your perspectives as I start
+             partnering with the team to drive our next phase of growth. With that, I will hand over the
+             call back to Inba for the Q&A session. Thank you.
+
+
+Moderator:   Thank you. Ladies and gentlemen, we will now move to the Q&A segment. To ensure we
+             provide space for as many participants as possible, we request you to limit yourselves to two
+             questions per turn. Anyone who wishes to ask a question may use the raise hand icon located
+
+
+
+                                       Page 6 of 19
+
+                                                                                                   Fractal Analytics
+                                                                                                  November 4, 2026
+
+                          at the bottom toolbar on your screen. When called upon, you will receive a prompt to unmute.
+                          We will wait for a moment while the question queue assembles. We will take the first question
+                          from Gaurav Rateria of Morgan Stanley. Please go ahead.
+
+
+Gaurav Rateria:           Good morning, and, congrats on a good comeback on revenue performance. I actually have
+                          three questions. My first question is with respect to the differentiation in growth across our
+                          verticals that we are seeing. So, is it to do with the greater client acceptance of our solutions
+                          in one vertical versus other, or is it to do with our own solutions in much more advanced stage
+                          in healthcare versus other verticals? My second question is on the progress on Cogentiq. If
+                          you could share some highlights on pipeline and the kind of deals that we are winning? Is it
+                          more license-based revenue? Is it more short-term engagements right now? And the last
+                          question is on the investment that you highlighted, which is a pretty meaningful, one on the
+                          gross margin. Is it more like an investment on the people who are on the research side or the
+                          people who are eventually likely to be billed, but right now they are not utilized and hence
+                          that is a drag on the margins? Thank you.
+
+
+Srikanth Velamakanni: Thank you, Gaurav. Firstly, on the performance vertical-wise, it’s a mix of where the industry
+                          is, the adoption, complexity, and the macroeconomic situations in those industries. It’s not as
+                          much to do with our execution as it is about some of the industry dynamics at play. Healthcare
+                          is an extremely complex industry that will benefit significantly from AI. Life sciences
+                          especially is a very profitable industry that is always investing in their growth. So those are
+                          very good segments because of which we are growing. CPG, on the other hand, has some of
+                          the large players who have had meaningful consolidation in the last year, and there’s
+                          significant inflation-related concerns. So, it’s a little muted relative to that. Secondly, I think
+                          to some extent, we also have very deep solutions in both CPG and healthcare.
+
+
+                          Those are also helping us in growing overall in those sectors, with the macroeconomic factors
+                          taken care of. Coming to your second question on products, Cogentiq is doing really well,
+                          and all of this is licensed revenue. We are seeing traction not only on the platform, which
+                          essentially Cogentiq is an agentic AI platform that brings that context layer, knowledge layer,
+                          and ontology layer, and builds that harness, which is responsible for delivering results.
+                          Imagine great AI models, let us say the best frontier models. They are still exceptional at
+                          bringing world knowledge, but they have zero context of how to solve problems inside an
+                          organization. Whatever you build outside of the model is called the harness. That is what
+                          helps these models perform exceptionally well.
+
+
+                          Fractal’s Cogentiq builds that harness and dramatically accelerates performance, and we can
+                          see in many, many situations, competitive situations, that it beats all existing options out
+                          there, including building something on their own. That is what we are seeing as a platform.
+                          The second thing I have to say is that the deeper applications you build on it, for example,
+
+
+
+
+                                                   Page 7 of 19
+
+                                                                                         Fractal Analytics
+                                                                                        November 4, 2026
+
+                  when you build Cogentiq Invoice to Cash, we deeply understand the FP&A process,
+                  understand how to accelerate collections, and we really know how to distinguish which
+                  people are going to pay or not pay. We build those custom models and build the depth of
+                  understanding of the process on top of Cogentiq. Those are getting a lot of traction.
+
+
+                  Similarly, Cogentiq CX really deeply understands the entire process of customer service and
+                  bringing in the voice API, etc., at very competitive rates, and that also is the reason, because
+                  of building of depth that we are winning in that space. All of that is licensed revenue. The
+                  additional factors that we are looking at is how can Cogentiq be the default way in which we
+                  deliver all our services? We are still early days of that, and as it becomes the norm of Fractal
+                  delivering on top of Cogentiq everything that we do, I think we will see meaningful
+                  improvement in the overall economics as well. But Cogentiq is overall now reaching a place
+                  where we feel like it becomes a very significant growth lever in the next few quarters and
+                  years.
+
+
+                  The last one on the gross margin. This is part of our delivery expense, right? That is why it is
+                  part of the gross margin. These are not exactly research investments. These are meant to be
+                  billed. But what we are seeing is increased need for forward deployed engineering (FDE)
+                  talent and deep AI engineering talent, again, at the senior levels, right? We are building out a
+                  very strong team of various kinds of Forward Deployed Engineers, including what we call as
+                  Cogentiq Forward Deployed Engineers, as well as other platform Forward Deployed
+                  Engineers related to the platforms that we work with very closely. Those are the investments,
+                  which we think are very important for future revenue growth. And the gross margin that is
+                  meaningfully lower this quarter is going to come back up as early as next quarter, and then
+                  also the following quarter. Generally speaking, you know that our gross margins are lowest
+                  in quarter one.
+
+
+                  This year, we shifted some of the wage hikes, etc., to June, which meant that most of the
+                  impact was felt in quarter two. Some of that is also going to sort itself out in the Q3 and Q4.
+                  Net-net, we think gross margins will recover quite significantly in Q3 and Q4, and some of
+                  these investments are very important investments for when enterprise AI really takes off in a
+                  very big way. The most important thing in getting enterprise AI right is to have these deep
+                  AI engineers who work as Forward Deployed Engineers, work with clients, and solve their
+                  problems, whiteboard it, solve it, deeply understand the platform, deeply understand the
+                  overall problem that we are solving. That, we think, will set us up well for future revenue
+                  growth and future profitability. I hope I answered all your questions, Gaurav.
+
+
+Gaurav Rateria:   Yes, really thank you for the detailed answer. I will fall back in queue for more questions.
+
+
+Moderator:        Thank you. Our next question is from Aditi Patil of ICICI Securities. Please go ahead.
+
+
+
+
+                                          Page 8 of 19
+
+                                                                                                    Fractal Analytics
+                                                                                                   November 4, 2026
+
+Aditi Patil:               Congratulations on a good quarter. My first question is on the sequential decline in the CPG
+                           vertical. You mentioned it is due to M&A and macro challenges, consolidation activity on
+                           the client side. Has there been any discontinuation of a project in this quarter, and will it also
+                           impact in the next couple of quarters? What are we doing to offset these macro challenges in
+                           this vertical? My second question is on the G&A cost outlook. Our G&A cost has ranged
+                           around 12% for the last two quarters. Should we expect to get the benefit of operating leverage
+                           on this cost going forward, or should it range around 12% of revenue?
+
+
+Srikanth Velamakanni: Got it. Thank you, Aditi. Firstly, on the CPG sequential decline, part of this is seasonal. It is
+                           something that we experience every year, that April, May, June quarter is usually a very solid
+                           quarter. We call it a surge inside Fractal. We see some surge in AMJ, and then Q2 is post
+                           that. It is linked to some of the budgetary timelines that clients have. We have seen this
+                           throughout our history. So, part of that is that, which is a sequential one. But even our year-
+                           over-year growth has not been spectacular, and that is because of the things that we just
+                           mentioned, like high inflation and some consolidation that has happened in this industry. So,
+                           that has led to some of the contracts getting slightly delayed in signing, which led to some of
+                           the slightly lower growth that we see here.
+
+
+                           We expect this to sort itself out, and sequentially, we will grow in the next quarter and the
+                           following quarter as well. But in terms of the overall growth, this is not as spectacular as we
+                           would like it to be, and we expect that by next fiscal, that growth will be much better. But in
+                           this quarter and in the coming quarter and the following quarter, we will see CPG grow
+                           sequentially.
+
+
+                           Maybe to the second question, that is around the G&A outlook. Overall, our G&A outlook
+                           remains. We want to grow G&A at a slower rate than our revenue growth. That has been the
+                           model for Fractal, that as our sales growth happens, our G&A growth should be roughly half
+                           of that. That continues to be the kind of way in which we are building it out. We will continue
+                           to see some G&A efficiencies while we also make growth investments. So, G&A will
+                           certainly not increase at the same pace as revenue, but sales costs, we will ramp it as required
+                           to capitalize on the enormous opportunity ahead of us.
+
+
+Aditi Patil:               Okay. Got it. Thank you for answering my questions.
+
+
+Moderator:                 Thank you. Our next question is from CA Shaishav Vora of Prudent Investments. Please go
+                           ahead. Shaishav, could you please unmute your microphone and go ahead with your question?
+                           There seems to be no response from this connection. We will therefore move to our next
+                           participant. It is a follow-up from Gaurav Rateria of Morgan Stanley. Please go ahead.
+
+
+Gaurav Rateria:            Thank you for taking my question again. I saw pretty interesting deal win announcements,
+                           which are partnership led in the current quarter across different verticals. I just wanted to
+
+
+
+                                                    Page 9 of 19
+
+                                                                                                    Fractal Analytics
+                                                                                                   November 4, 2026
+
+                           understand the nature of our go-to-market engagements and the kind of deals that you are
+                           winning? Also, you alluded to working on some initiatives to boost up our large deals, so if
+                           you could highlight what exactly we are doing to ensure that we kind of build a portfolio of
+                           the larger deals? And last question is on the G&A investment. So just curious that the S&M
+                           has given a lot of operating leverage to us in this year in the first half, but G&A looks like we
+                           have continued to invest in this year? So what kind of investments are these and at what point
+                           in time the operating leverage from the G&A should start coming in?
+
+
+Srikanth Velamakanni: Yeah. So, I think the first question is about partnerships. Clearly, this is one of the things that
+                           we recognized earlier this year, that the partnership muscle needs to be strengthened at
+                           Fractal. Lately, we are seeing a lot of action on the partnership front, and Fractal has not
+                           capitalized on it as much in previous years. This year, we have made it a priority to get
+                           stronger alignment with partners, and we are seeing some of the benefits of that already play
+                           out. We are getting a lot of inbound leads from some of the frontier labs. So, for example, if
+                           you look at our Cogentiq CX, one of the frontier labs who has a very good voice solution, is
+                           bringing us in, saying for whatever places where they are not able to kind of cover with their
+                           flagship voice AI solution, they think Cogentiq CX will be a great complement to that or great
+                           substitute to that in places where the size of their solution may not fit the client requirements.
+                           They are bringing us in. Similarly, another frontier lab is seeing a lot of interest in helping
+                           people activate their products with us and also build out some harnesses that help them in
+                           solving interesting problems inside enterprises. They are bringing in a lot of inbound leads,
+                           which is helping really grow our business quite a bit.
+
+
+                           And there are places, like, for example, we have been the Retail and CPG partner of the year
+                           with Microsoft. That partnership looks good. Our work with AWS is also expanding quite
+                           beautifully. Overall, we see a lot more joint partner activity, and they also recognize that
+                           Fractal is a special player, right? We are not an IT services player. We have very deep AI
+                           capabilities, and that is why they have seen Fractal as a critical part of their overall success.
+                           As we strengthen this joint go-to-market and overall partnership alignment, we think that the
+                           partnership-led revenues will become more meaningful part of our overall revenue growth.
+                           This is definitely one of the levers of growth that we think can go up.
+
+
+                           Next, we go to the second question, which is around large deals. I will say that we are still in
+                           the early phases of completely figuring this out, and we think that large deals should play a
+                           more meaningful role in our overall growth equation. But we have begun the process of
+                           building out a team that can go and win larger deals. In general, deal sizes are becoming larger
+                           from a Fractal point of view. Again, you may see it from tech services point of view, where
+                           the opposite is true. But from a Fractal point of view, deal sizes are actually getting larger
+                           because the complexity of what enterprises are trying to solve and reimagine or redesign their
+                           workflows is a much larger scope than building out, let us say, set of models that power
+
+
+
+
+                                                   Page 10 of 19
+
+                                                                                                 Fractal Analytics
+                                                                                                November 4, 2026
+
+                        decisions in one aspect, right? Decisions are one part of that. Building those actions, building
+                        those workflows become very critical, and therefore, the size of the deals is anyway going
+                        up.
+
+
+                        We are setting up a large deals team, which is going after these much larger transactions out
+                        there, which involve building this enterprise knowledge layer and the context layer across the
+                        organization, building out a brain, right? Many companies that we work with, let us say, a
+                        large insurance company I can think of right now, one of the most prestigious insurance
+                        companies, is building out what is called as a digital brain, right? Which has every knowledge
+                        of everything that is happening in the business, can learn from every transaction, and suggest
+                        what to do for every person in the organization. That kind of enterprise brain, these are larger
+                        and more complex engagements. We are seeing interest in that.
+
+
+                        We are looking at how to make sure that Fractal has a strong right to win, because
+                        traditionally, the way you bid for these is different from how we have bid for them in the past.
+                        That is why we are building out a special capability to make sure that our win rates are
+                        extremely high in this space. Expect more from this. It is not a meaningful part of our current
+                        revenue growth, but we think it will be a very meaningful part of our future revenue growth.
+
+
+                        The last question from you, Gaurav, was about G&A. It is nothing spectacular, I will say, that
+                        we are making in terms of increasing our G&A expenses beyond what we have right now.
+                        We have continued to be very disciplined, and we expect that the rate of growth of G&A
+                        expenses will be much lower than the rate of growth of revenue overall, which means that the
+                        operating leverage will continue to play out for us across this fiscal and the next fiscal. We
+                        feel we are on track to improving profitability, not just these next two quarters, but all of next
+                        fiscal as well. We expect SG&A operating leverage to continue to play an important role in
+                        the overall profitability improvement. We will meet, like we had promised at the time of IPO,
+                        that we will continue to improve our profitability. We have delivered on that, and we will
+                        continue delivering on that profitability and get to the numbers that we had projected in our
+                        own minds about where our profitability should be. Those healthy profitability levels are kind
+                        of within arm’s length right now. We are continuing to improve, and even by Q4 this year,
+                        we should have a decent improvement in overall profitability.
+
+
+Gaurav Rateria:         Just to clarify, Srikanth, when you say improvement in profitability for second half, you
+                        meant on a sequential basis, or you meant on a Y-o-Y basis?
+
+
+Srikanth Velamakanni: Both. Absolutely both.
+
+
+Gaurav Rateria:         Okay, great. Thank you. Good to hear that.
+
+
+
+
+                                                Page 11 of 19
+
+                                                                                                 Fractal Analytics
+                                                                                                November 4, 2026
+
+Moderator:               Thank you. Anyone who wishes to ask a question may click on the raise hand icon from the
+                         participant tab. We take the next question from Pritesh Thakkar of PL Capital. Please go
+                         ahead. Pritesh, could you please unmute your microphone? Pritesh, go ahead.
+
+
+Pritesh Thakkar:         So, congrats on the good set of numbers. So, I have a question on the TMT segment. It is
+                         good to see that we turned positive for this quarter after sequential decline over the last five
+                         quarters. So just wanted to check I mean this growth is sustainable for the next coming
+                         quarters and how are the pipeline and engagements there in TMT segment? The reason why
+                         I am asking is a lot of the high-tech side of the companies, especially the hyperscalers, have
+                         disproportionately taken their spends towards building the infrastructure versus opex side?
+                         So just wanted to check how it is falling for us?
+
+
+Srikanth Velamakanni: Thank you, Pritesh. Our Q3 and Q4 will continue to see recovery, so we expect that the TMT
+                         sector will sequentially continue growing, number one. Number two is that, remember most
+                         of our TMT work is with the commercial organization of these TMT industries. So, these are
+                         very AI starved, right? So, Fractal's AI really helps them quite significantly. Though these
+                         TMT companies are extraordinary in terms of AI capabilities on their own right, but most of
+                         that is focused on their engineering side and most of these companies are structured half and
+                         half as engineering and commercial. So, we work with the commercial half, and we do some
+                         very interesting AI for their commercial business. So that is not seeing the similar kind of
+                         headwinds. So, I expect that Fractal will improve its overall performance on the TMT vertical
+                         over the next few quarters and this will remain a very important industry for Fractal in the
+                         future as well.
+
+
+Pritesh Thakkar:         Thank you so much. Secondly, on the Fractal Alpha side of the segment, I mean, this quarter
+                         we grew 40% sequentially, but if I look at the segment, the loss is recovering but still on a
+                         negative, I would say, trajectory. So, when can we expect this to turn break-even, if at all?
+                         Do you have any internal targets?
+
+
+Srikanth Velamakanni: Now, that is a great question. We are going to see profitability improvements in the Alpha
+                         sector, and we will be approaching breakeven as early as end of this year, right? So, it is
+                         trending well. Growth rate is up, and we also see a lot of interest in the products of Fractal.
+                         So sequentially, we expect growth to be robust and at higher margin and so the overall
+                         profitability is trending in the right direction for the next two quarters, and by the end of this
+                         year, we will be approaching breakeven. Certainly, next year we will break even on the
+                         products on the Alpha segment. So overall, it is moving in really good direction.
+
+
+Pritesh Thakkar:         Thank you so much and lastly, on the investments that we made on the FDE side. I mean,
+                         correct me if I am wrong, last quarter we reported billable per employee and it was a little
+
+
+
+
+                                                 Page 12 of 19
+
+                                                                                                  Fractal Analytics
+                                                                                                 November 4, 2026
+
+                          elevated stage, but I think this time reported a decline in terms of overall billable FTE, so
+                          when can we expect this FDE to get deployed in the coming quarters and start billing clients?
+
+
+Srikanth Velamakanni: Yes. No, this is an important metric that we do look at the revenue per employee metric, and
+                          while in rupee terms it’s marginally up, dollar terms it’s a little lower. This is not to do with
+                          our pricing. It’s to do with some of the capacity that we have increased, because what we are
+                          seeing is an enormous appetite for enterprise AI. It is not yet fully played out, and we want
+                          to make sure that we have game-changing talent available to increase the revenue. We are
+                          also looking, even when we do some of the M&A, some acqui-hire type M&A as well as
+                          some deep engineering type of AI engineering type of M&A, we are building out for that.
+                          We expect that there will be significant scale-up of enterprise AI in the next year, because
+                          two things are happening.
+
+
+                                 •     AI is getting more capable by the day. Therefore, it is able to solve many more
+                                       complex problems, do long horizon tasks, and get even deterministic accuracy
+                                       with probabilistic models. We are getting to that place with a higher quality of
+                                       harness. I think we can see that we can get deterministic accuracy on probabilistic
+                                       models, which is perfectly the right thing that enterprise AI needs, number one.
+                                 •     The costs of running this AI are continuously going down. So, there is a 48%
+                                       reduction in cost of fixed intelligence quarter-over-quarter, which means that in
+                                       a year, there is a 93% decrease in the cost of intelligence coming from a
+                                       foundation model. So, when these foundation models become capable of longer
+                                       horizon tasks and are much, much cheaper, we will reach a threshold where it
+                                       will become quite irresponsible for somebody to not fully deploy AI in a
+                                       significant way. That is the time that we are building this company for.
+
+
+                          This is all in preparation for that, and we expect that that will play out as early as FY 2028 in
+                          a very meaningful way. This will, I think it will sort itself out in our revenue per employee
+                          and other metrics like those will meaningfully improve in that fiscal.
+
+
+Moderator:                Pritesh, may we request you to return to the queue, please, as there are several participants
+                          waiting for their turn. We will take the next question from Suyash Kela of Singularity Asset
+                          Management. Please go ahead.
+
+
+Suyash Kela:              Thank you for taking my question. Srikanth, this is a hypothetical question. If you were a
+                          private company, as you were previously, and you had Rs.1700 crores in cash, what would
+                          you have done to grow, like on constant currency basis at 30% Y-o-Y instead of 10% where
+                          we are at? I know I think as analysts we ask you to balance both growth and profitability, but
+                          if you were given a little bit of a freer hand to grow and capture the market share in the
+                          accounts that we are already at, how your strategy would have changed or how would your
+
+
+
+
+                                                  Page 13 of 19
+
+                                                                                                 Fractal Analytics
+                                                                                                November 4, 2026
+
+                          approach would have changed? And same on the M&A question is the strategy to build up
+                          capabilities for higher growth or more profitability, I think on both those points?
+
+
+Srikanth Velamakanni: Suyash, thanks for that great question. You are absolutely right that at any point of time, we
+                          have to balance based on what we have agreed with a set of investors. It could be public
+                          investors, or it could be private investors. We always work with a certain framework of how
+                          we want to grow and how we want to balance profitability with that. Throughout the history
+                          of Fractal, we have had that implicit or explicit emotional contract, so to speak, with our
+                          investors that this is how we are going to build it. Right now, that construct is that increase
+                          revenue growth as much as possible while taking EBITDA to a 22% level. That is the thing,
+                          that is how we are thinking of it.
+
+
+                          Get Fractal.ai’s EBITDA as close to 22% while maximizing revenue growth is how we have
+                          currently set up that equation with our public investors. At least that is what we have in mind.
+                          This would have been somewhat different if we were a privately held company right now,
+                          because we could have gone and with a private set of investors, we would have said, "Hey,
+                          this is an amazing time in the world of AI, and we might want to change this equation a little
+                          bit towards greater AI R&D investments, building out Cogentiq even further, and deploying
+                          the FDE talent a lot more around the world and keeping ready so that let’s not worry about
+                          GM for the next couple of quarters, let us not worry about things like utilization and things
+                          like that. Just let’s worry about how do we stay ready to maximize enterprise AI growth. That
+                          is what we would have done, and that would have resulted in much higher growth than
+                          otherwise.
+
+
+                          Not to say that we are not doing that right now. We are making most of those investments,
+                          but there is a certain agreement that we have in terms of significantly improving profitability,
+                          so we are keeping that in mind. That profitability constraint we may have removed from
+                          ourselves for the next, let’s say, three, four quarters if we were a privately held company.
+                          Given that we are not, we want to continue respecting that implicit agreement that we have
+                          about trending the profitability to the 22% kind of a number while maximizing the growth
+                          rate.
+
+
+Suyash Kela:              And Srikanth, on the M&A, what will be the priorities with the M&A?
+
+
+Srikanth Velamakanni: As far as M&A is concerned, Suyash, we are quite active. We have a very decent pipeline,
+                          and our Board is very keen also to explore this dimension. So, expect that we will be
+                          extremely active in this space and come out with some things. For example, we just did
+                          Pricing One thing, which is more of an acqui-hire, but we expect that more deals will come
+                          through. There are an amazing number of deals in the market, especially deep AI engineering
+                          talent with strong local presence in various geographies. They are looking very interesting to
+
+
+
+
+                                                  Page 14 of 19
+
+                                                                                              Fractal Analytics
+                                                                                             November 4, 2026
+
+                        us. We are also seeing excitement in industry specific deep expertise because that also helps
+                        us tremendously in building out more complex solutions deeply inside an industrial vertical.
+                        So, we are seeing those kinds of deals. Nothing is stopping us now because we have plenty
+                        of cash in hand and very exciting deals out there. We just have to make sure that we are doing
+                        them in order to increase our overall right to win and that is most important.
+
+
+                        We do not look at inorganic as just a growth lever. We think of it as improving our right to
+                        win, so it has to significantly increase our chances of future growth, not just one plus one
+                        equal to two, but what is a much more multiplicative impact on Fractal's overall growth
+                        potential. We are looking at a lot of these deals right now, and we expect to do some stuff
+                        very, very soon.
+
+
+Suyash Kela:            Thank you, Sir.
+
+
+Moderator:              Thank you. We will move to our next question that is from Anil Nahata of Parami Financial.
+                        Please go ahead.
+
+
+Anil Nahata:            Srikanth I understand that you had read out a roadmap that you want to reach 20% of your
+                        revenue for licensing and everything around products. Now, if you look at the current
+                        scenario, this calls for a tall order of around 78% CAGR and as each quarter we do not hit
+                        that CAGR number, the order becomes even taller. So how do you think about that? That is
+                        the first question.
+
+
+Srikanth Velamakanni: Oh, thank you so much, Anil. You’re absolutely right that we aim to do roughly a $100
+                        million run rate by the time, in about 12 quarters from now, right? That’s the tall order that
+                        we have set for ourselves in terms of product revenue. This is going to be a hockey stick
+                        because it is non-linear by design. I think the most important thing to look at is, are the
+                        products being received well? Do we have a strong right to win? When we are in a competitive
+                        situation- what is our win rate and what is the feedback from the clients? Once we have
+                        deployed it, how is it being received?
+
+
+                        How is it being used, and how fast are we able to grow that base from, let’s say, one
+                        geography to all the geographies of a large company, or one division of a company to all the
+                        divisions of the company? How do we see that growth happening of product usage across the
+                        company? Once we start seeing those positive indications, we know that this non-linearity
+                        will kick in as soon as we have a solid product which is being received very well. I would
+                        call them as the first moment of truth and second moment of truth. The first moment of truth
+                        is, in a sales situation, how do clients respond to the products? Do they see the magic? Do
+                        they appreciate the magic? Two is, once we deploy it, do they love it? How well they’re using
+                        it.
+
+
+
+
+                                               Page 15 of 19
+
+                                                                                                   Fractal Analytics
+                                                                                                  November 4, 2026
+
+                          We are seeing very good feedback on both these moments of truth as far as our products are
+                          concerned. That makes me feel pretty good about how this hockey stick or this J-curve will
+                          play itself out. It is not an easy one, no question about that, but I feel pretty good about the
+                          traction that we are seeing. As we see the next few quarters, Anil, it will be useful to look at
+                          how this product revenue is shaping up and what fraction of the revenue. As long as it is that
+                          4% is going to five and then six and seven, and it is trending in that direction, it does not have
+                          to be necessarily. The CAGR will take care of itself as long as it is meaningfully increasing
+                          in the next few quarters sequentially and as a part of overall revenue. The first two moments
+                          of truth are trending in the right direction. I feel pretty good about that.
+
+
+Anil Nahata:              Thanks, Srikanth. We would love to hear more on this in the coming quarters, as well as more
+                          metrics on this kind of business. My second question is on Qure.ai. Can you just give us a
+                          better understanding of the Qure.ai business in terms of how the business is shaping up, why
+                          there are so many fluctuations on a quarterly basis, and overall, how does Qure.ai look to you,
+                          and what are the investments we are making further in Qure.ai?
+
+
+Srikanth Velamakanni: Thank you, Anil. That is a wonderful question. Qure.ai is an amazing business. Very fortunate
+                          that we set it up, incubated it, and spun it out in 2020. It has been one of the most important
+                          AI companies on the planet, recognized in the TIME 100 most influential companies of 2025.
+                          It is working in areas like lung cancer and tuberculosis. For example, in lung cancer, we work
+                          very closely with AstraZeneca. We have a way to diagnose lung cancer from a chest X-ray,
+                          and this really dramatically improves the odds of patient survival from 10% if it is detected
+                          late to 70% if detected early. There is a 7x improvement in overall survival if we detect early.
+                          Because AstraZeneca has a wonderful lung cancer drug, it becomes a really good way for the
+                          drug to reach a lot of the population that needs it.
+
+
+                          Qure is enabling something like that. Similarly, in tuberculosis, it is now present in more than
+                          105 countries. It has touched more than 50 million lives and detecting tuberculosis from an
+                          X-ray. Beyond that, Qure has a number of other very interesting AI solutions, including being
+                          able to capture the doctor-patient conversation and suggesting the right questions as well as
+                          the right tests and treatment to the doctor while the doctor is having a conversation with the
+                          patient. There are some very interesting things that Qure is doing. It is a very meaningful
+                          company. What happened last year was that as soon as the Trump administration took charge,
+                          and the DOGE program was created, they completely shut down USAID, and that created
+                          what we did not realize as well was how much of the TB programs on the world are directly
+                          or indirectly funded by USAID.
+
+
+                          That was a huge blow to the overall, let us say, health of the globe, and certainly it also had
+                          an impact on Qure.ai’s revenue. It declined quite precipitously when that move was
+                          announced. Qure.ai had to build back the business by building a much stronger U.S. business,
+
+
+
+
+                                                  Page 16 of 19
+
+                                                                                                   Fractal Analytics
+                                                                                                  November 4, 2026
+
+                          much stronger Europe business, and we are seeing some very good results out there, and they
+                          have a fantastic pipeline and a backlog in the rest of the year. We expect Qure.ai to do
+                          phenomenally well. It will be a great company. It has an incredibly rich valuation. It is a very,
+                          very good company. We do not invest any further because it is a 31% company.
+
+
+                          It is an associate company, so it can only be hugely positive to us in terms of the overall value
+                          of Fractal, though I think the market is pretty much treating it as giving us potentially negative
+                          valuation because we are getting multiplied by the profitability, where Qure is a drag on that.
+                          That is the unfortunate calculations of the way the market works, but it is a fantastic asset. It
+                          will perform exceedingly well, and I am not only very excited about how that will do as a
+                          business, but also the impact it has on the world. Overall, its prospects are very good. There
+                          are some fluctuations because of the change of business, but we remain very optimistic about
+                          its future success and the impact on the world that Qure will have.
+
+
+Moderator:                Mr. Nahata, may we request you to please return to the queue? Thank you. We will take our
+                          next question from Mohit Bhalla of Indium Investment Advisors. Please go ahead. Mr. Mohit
+                          Bhalla.
+
+
+Mohit Bhalla:             Good morning, Srikanth and team, and congratulations on reaching the quarterly milestone
+                          of $100 million revenue. My question is on the service offerings and capabilities of the
+                          services business, so could you please know if you would have got a revenue breakup by
+                          service lines or capabilities? In the prospectus, we have mentioned AI, engineering, design,
+                          and functional as different capabilities. If you could provide some color on the breakup, that
+                          would help us understand the operations of the company in a better manner. Thank you.
+
+
+Srikanth Velamakanni: Thank you, Mohit. It’s a great question, and I would think of this as the kinds of problems
+                          we solve for companies. If you look at that, the most important thing that we do for companies
+                          is to help them grow faster or grow better, understand customers better, understand their sales
+                          better, personalize their products to the customers, and so on. That is the part that we work
+                          most on, improving the overall growth rate of any company that we serve, including doing
+                          commercial analytics for them and so on. That part of that is about roughly 40% of our
+                          revenue comes from enabling growth and enabling the transformation that leads to higher
+                          growth, number one.
+
+
+                          Number two is we look at their operational effectiveness. How do we make companies more
+                          profitable? How do we reduce their inefficiencies? How do we make them more productive?
+                          Things that have a direct bottom line impact on the company. That is roughly 30% of our
+                          revenue. Whether it is supply chain, whether it is forecasting, whether it is improving revenue
+                          per employee in the company, managing their risks better, understanding their credit risks,
+
+
+
+
+                                                  Page 17 of 19
+
+                                                                                         Fractal Analytics
+                                                                                        November 4, 2026
+
+                these are all part of that. So that’s 30% of our revenue. Roughly 10%-15% of our revenue
+                comes from helping them on their R&D innovation product development side.
+
+
+                Wherever companies are saying, "I have to discover a new drug," or, "I have to build a new
+                consumer product, I have to understand what the world is saying, how my competition is
+                performing, what are the gaps, white spaces in the market, and therefore, what products
+                should I build in my R&D pipeline and how should I commercialize them?" That’s the part
+                which is the third part of our business, which is about 10%-15% of our revenue.
+
+
+                A fourth part of our revenue, which is about, again, 10%-15% of our revenue, is on managing
+                their day-to-day performance, right? How do I manage, something has happened in the
+                business today, how do I respond to that? How do I make decisions, tactical day-to-day
+                decisions driven with AI? How do I do that? That is about 10%-15% of our revenues.
+
+
+                And roughly under 5% of our revenue comes from managing long-term growth and
+                sustainability, ESG, and AI that enables some of that as well. So those are how we think of
+                as the problems that we are solving. This is one way to understand Fractal’s business and the
+                work that we do in helping them out.
+
+
+                Second way to look at it is the themes that are playing out in terms of how companies are
+                thinking of it. There are three key themes as AI expands and becomes more capable. One is,
+                how can I use AI to redesign my decisions? How do I redesign workflows? How do I
+                transform my business and workflows with AI? That is one part of the business. A large
+                majority of our revenues come from that aspect of it, whether it is revenue growth, whether
+                it’s profitability, all that is there.
+
+
+                Second, companies are also thinking of building their enterprise knowledge layer and their
+                context layer that enables them. So, some of the performance work, et cetera, that we talked
+                about earlier, that all is part of that. That is the second vertical. And the third part is, how do
+                I redesign work? In a world of AI, I may have to redesign how incentives work. I may have
+                to redesign how people are trained, how they work with agents.
+
+
+                These are the things that we do, which in terms of redesigning the work itself. So that’s
+                another way of sort of slicing our revenues. And so that is I don’t have a full breakup of that
+                in terms of revenue concentration or revenue breakup between these three, but think of it as
+                roughly 60, 35, and 5. Like, AI transformation, roughly 60%. 35% comes from more of the
+                knowledge creation and context layer creation and so on. And 5% comes from, let us say,
+                helping them redesign their work. So, these are two kind of different lenses on the revenue
+                breakup in terms of the work that we do on a daily basis.
+
+
+Mohit Bhalla:   Thanks a lot, Srikanth, for the detailed answer. All the best.
+
+
+
+                                           Page 18 of 19
+
+                                                                                                Fractal Analytics
+                                                                                               November 4, 2026
+
+Moderator:                 Thank you, everyone. That concludes the question-and-answer session. I will now hand the
+                           conference over to Anjali Garg from Fractal's Investor Relations team.
+
+
+Anjali Garg:               Thank you everyone for joining us today. If you have any further questions, including any
+                           that we were unable to address during the call today, feel free to reach out to us at
+                           investorrelations@fractal.ai. We look forward to seeing you again next quarter. Thank you
+                           once again, and wish you a good day.
+
+
+Moderator:                 Thank you. Ladies and gentlemen, thank you for joining us today. You may now click on the
+                           leave button to exit the meeting. Goodbye.
+
+
+
+
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings.
+
+
+
+
+                                                  Page 19 of 19
+

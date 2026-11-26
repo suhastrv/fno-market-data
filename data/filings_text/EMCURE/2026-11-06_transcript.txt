@@ -1,0 +1,976 @@
+Emcure
+
+
+   Ref: EPL/CS/SE/0099/2026                                                         Date: November 06, 2026
+
+   To,
+
+     National Stock Exchange of India Limited                 BSE Limited
+     Exchange Plaza, C-1, Block G,                            P J Towers,
+     Bandra Kurla Complex, Bandra (East),                     Dalal Street,
+     Mumbai – 400 051                                         Mumbai - 400 001
+
+     Script Symbol: EMCURE                                    Scrip Code/Symbol: 544210/ EMCURE
+
+   Dear Sir/Madam,
+
+   Subject: Transcript of Earnings Call – Q2 FY27
+
+   Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+   and Disclosure Requirements) Regulations, 2015 and further to our intimation dated
+   October 14, 2026, please find enclosed the transcript of the Earnings Call for Q2 FY27, held on
+   Tuesday, November 03, 2026 at 4:00 p.m. (IST).
+
+   The above-mentioned transcript is also being uploaded on the website of the Company i.e.
+   www.emcure.com.
+
+   You are requested to take the above information on your records.
+
+   Thanking you,
+
+   For Emcure Pharmaceuticals Limited
+                 Digitally signed
+    AMRUTA    by AMRUTA AMIT
+    AMIT      YANGALWAR
+    YANGALWAR Date: 2026.11.06
+              16:35:38 +05'30'
+
+   Amruta Yangalwar
+   Company Secretary & Compliance Officer
+   ICSI Membership Number: A25687
+
+
+
+
+                                    Emcure Pharmaceuticals Limited
+  Registered Office: Plot No. P-1 & P-2, IT-BT Park, Phase-II, M.I.D.C., Hinjawadi, Pune - 411057, Maharashtra, India
+                       Phone Nos.: +91 20 – 35070033/ 35070000 Fax No.: +91 20 3507 0060
+          E-mail: corporate@emcure.com Website: www.emcure.com CIN: L24231PN1981PLC024251
+
+        Emcure Pharmaceuticals Limited
+              Q2 FY27 Earnings Conference Call
+                            November 03, 2026
+
+
+
+
+MANAGEMENT PARTICIPANTS:
+
+  - Mr. Satish Mehta – Chairman, Managing Director & CEO
+
+  - Mr. Tajuddin Shaikh – Chief Financial Officer
+
+  - Mr. Samit Mehta – Whole-Time Director and Chief Operating Officer
+
+  - Mr. Vikas Thapar – President, Corporate Development, Strategy & Finance
+
+  - Mr. Piyush Nahar – Executive Vice President, Corporate Development & Strategy
+
+  - Mr. Saurabh Paliwal – Head, Investor Relations
+
+
+
+
+                                                                              Page 1 of 16
+
+Prepared Remarks Session
+
+
+Moderator:         Ladies and gentlemen, good day, and welcome to the Emcure Pharmaceuticals Limited Q2 and
+                   H1FY27 Earnings Conference Call. As a reminder, all participants will be in the listen-only mode
+                   and there will be an opportunity for you to ask questions after the presentation concludes. Please
+                   note that this conference is being recorded. I now hand the conference over to Mr. Saurabh
+                   Paliwal, Head of Investor Relations. Thank you, and over to you.
+
+
+Saurabh Paliwal:   Thank you, Danish. Good afternoon, everyone. I welcome you to Emcure's Q2FY27 earnings
+                   conference call. Thank you for joining us today. Today on the call with me are Mr. Satish Mehta,
+                   our Chairman, Managing Director and CEO; Mr. Samit Mehta, Whole-Time Director and Chief
+                   Operating Officer; Mr. Taj Shaikh, Chief Financial Officer; Mr. Vik Thapar, President, Corporate
+                   Development, Strategy and Finance; and Mr. Piyush Nahar, Executive Vice President, Corporate
+                   Development and Strategy.
+
+
+                   The quarterly financial results were published earlier today. They are available on the NSE and
+                   BSE and on our website. We will begin today's call with brief opening remarks from
+                   management, followed by a Q&A session. I would like to remind everyone that the safe harbour
+                   provisions detailed in the results presentation and the press release released earlier today apply
+                   to this conference call. Please note that this call is being recorded, and both the call audio and
+                   the transcript will be made available on our website in due course.
+
+
+                   With that, I will now hand the call over to Mr. Mehta to begin with his opening remarks. Over to
+                   you, sir.
+
+
+Satish Mehta:      Thank you, Saurabh. Good afternoon to all of you and really appreciate and thank each and every
+                   one of you for joining us. We appreciate your continued interest and support. Before I start
+                   talking about our performance, I would like to wish every one of you a very happy and
+                   prosperous Diwali and New Year to you and all your dear and near ones. Thank you once again.
+
+
+                   I'm pleased to report another strong quarter for Emcure with broad-based growth in revenue,
+                   profitability and earnings. Our team's determination to rise to challenges underpins this
+                   performance. The resilience shown by every Emcurean, especially in the current geopolitical
+                   situation is extremely praiseworthy, and I very much appreciate the efforts of each and every
+                   team member of Emcure. We at Emcure remain focused on achieving our goals and delivering
+                   sustained progress for all our stakeholders. Now let me focus on financial performance for the
+                   current quarter.
+
+
+                   Revenue grew by 24% year-on-year to INR2,820 crores, supported by growth across all
+                   geographies and it has increased 9% sequentially. Profitability outpaced revenue growth,
+                   EBITDA rose 31% to INR575 crores and the EBITDA margins expanded by about 100 basis
+                   points to 20.4%, driven by productivity gains and operating leverage. Profit after tax increased
+                   29% to INR325 crores. With that, let me turn to our business performance. I would now first
+
+
+
+                                                                                                         Page 2 of 16
+
+focus on the domestic market that is India, which is very close to my heart as I've been telling in
+all the calls.
+
+
+In India, our business grew by 12% year-on-year to INR1,155 crores in Q2. It was also second
+consecutive quarter of double-digit growth with growth improving from 10% in Q1. Organic
+growth for the quarter was 10% versus 6% that we had seen in quarter 1. We expect to build
+upon this improvement in the second half of the current fiscal year. Women's health,
+cardiometabolic and CNS portfolios were the primary growth drivers during the quarter.
+
+
+Zuventus' performance improved sequentially with key brands showing good traction.
+
+
+Beyond prescription medicines, our Consumer Health business is also gaining traction with
+brands such as Bitter Drops and Galact building scale. Over time, we see this becoming an
+additional growth engine. We remain focused on making our big brands bigger, improving our
+field force productivity and building scale in chronic and specialty therapies.
+
+
+On 12th October, our Board approved the amalgamation of Zuventus Healthcare and Emcutix
+Biopharmaceuticals, both wholly owned subsidiaries into Emcure. This corporate action is part
+of our One Emcure vision and continued efforts to simplify the group holding structure. Zuventus
+brand and teams remain an integral part of our India business. The scheme will allow for
+synergies in our back-end operations and corporate functions and is subject to necessary
+approvals, including that of NCLT.
+
+
+After having spoken about our domestic business, now let me focus on our international
+business.
+
+
+Our international business delivered another strong quarter, complementing our performance
+in India. Revenue in the international markets grew by 34.5% year-on-year to INR1,665 crores
+and accounted for 59% of our total revenue. Continued expansion of our base business and
+contribution from new launches obviously drove this performance.
+
+
+As far as Europe is concerned, Europe for us grew by 36% to INR604 crores, supported by strong
+delivery across both U.K. and Continental Europe. Growth was broad-based, led by our base
+portfolio, new launches and continued scale-up of liposomal amphotericin B. Business
+momentum is expected to continue in second half as well.
+
+
+As far as Canada is concerned, Canada grew by 24% to INR431 crores, driven by continued
+growth in our base business, and recent launches. We expect further launches in the second half,
+and we continue to build a very strong pipeline for the Canadian market.
+
+
+After having spoken about Europe and Canada, let me now focus on rest of world, we call it as
+emerging markets. The rest of world (RoW) business grew by 41% to INR630 crores.
+
+
+The ARV business continued with strong performance, while non-ARV growth accelerated by
+support of new launches and expansion of portfolio in key markets in Latin America, CIS, Asia
+and Africa. We are very bullish about the emerging markets. We are dealing in a lot of countries
+as well as the continents that I mentioned.
+
+
+                                                                                       Page 3 of 16
+
+                   And we do expect our rest of world business to continue to grow over the year, and that is going
+                   to be backed by science, technology, innovation, about which I've been speaking in all the
+                   investor calls. So, we'll be having a good pipeline as far as the emerging markets are concerned.
+
+
+                   Having spoken about Europe, Canada and rest of world, now let me focus on R&D and pipeline.
+                   R&D investments during the quarter were INR111 crores, about 4% of revenue from operations.
+                   These investments will step up in the second half as per plan. During the quarter, we received
+                   over 20 product approvals, including liposomal amphotericin B in Brazil and Mexico and
+                   bevacizumab for wet AMD (wet age-related macular degeneration) in India. We also received a
+                   positive recommendation from India's Subject Expert Committee for lenacapavir injection for
+                   PrEP indication.
+
+
+                   As part of bringing lenacapavir to patients in rest of the world markets, we filed our dossier with
+                   WHO and U.S. FDA and look forward to progressing the reviews over the next few quarters.
+                   These approvals and filings strengthen our launch pipeline and give us visibility on sustained
+                   growth across markets.
+
+
+                   Now let me focus on outlook as far as the balance part of the year is concerned.
+
+
+                   In summary, Q2 delivered strong broad-based growth and profitable growth. The strength and
+                   resilience of Emcure business, as I mentioned some time back, is evident in our first half FY '27
+                   performance. The foundation gives us confidence that the momentum will continue in the second
+                   half of FY '27 and to raise our full year FY '27 revenue growth outlook. We now expect revenue
+                   growth to exceed 20% compared to mid-teens mentioned earlier.
+
+
+                   EBITDA margin improvement for the year is now expected to be at the upper end of our guidance
+                   range of 75 to 100 basis points.
+
+
+                   Our first half '27 performance also reinforces our confidence in us achieving our 5-year goals
+                   that we have defined for ourselves and creating long-term value. Before I close, I would like to
+                   thank all our employees, partners and shareholders for their continued unstinted support to all
+                   of us.
+
+
+                   With that, I will now request, Taj, our CFO, to review the financials before we open the floor to
+                   questions. Thank you very much once again. Over to you, Taj.
+
+
+Tajuddin Shaikh:   Thank you, Satish Bhai. Good afternoon, everyone. I will take you through our financial
+                   performance for the second quarter and first half of FY '27. All comparisons are year-on-year,
+                   unless stated otherwise. All the numbers are in INR.
+
+
+                   Revenue from operations for Q2 was INR2,820 crores, up 24.3% year-on-year and 9.3%
+                   sequentially. India grew 12% to INR1,155 crores. And our international business grew 34.5% to
+                   INR1,665 crores, accounting for 59% of our consolidated revenues. Europe and U.K. grew 36%
+                   to INR604 crores. Canada grew 24% to INR431 crores. Rest of the world grew 41% to INR630
+                   crores.
+
+
+
+
+                                                                                                          Page 4 of 16
+
+                    On the profitability, gross margin for the quarter was 59.5%. Our Q-o-Q gross margin improved
+                    by about 110 basis points, driven by business and product mix. Employee costs were INR435
+                    crores, up 13%.
+
+
+                    Other expenses were INR669 crores, up 20%, primarily on account of higher sales and higher
+                    R&D expenditure. R&D spend was 4% of revenue.
+
+
+                    As a result, EBITDA, excluding other income, was INR575 crores, up 31%. EBITDA margins
+                    expanded by about 100 basis points Y-o-Y and about 70 basis points sequentially to 20.4%.
+
+
+                    Other income was INR16 crores compared to INR39 crores last year, primarily on account of
+                    lower foreign exchange gains.
+
+
+                    Depreciation and amortization was INR110 crores, in line with Q1. Finance cost was INR36
+                    crores, reflecting the increase in borrowings. The increased borrowings were to fund
+                    acquisition-related payouts.
+
+
+                    Profit before tax was INR446 crores, up 31%.
+
+
+                    The effective tax rate was 27%. Profit after tax was INR325 crores, up 29% with a PAT margin
+                    of 11.5%, an improvement of 45 basis points.
+
+
+                    For the first half of FY '27 revenue was INR5,401 crores, up 23.6%. EBITDA was INR1,083 crores,
+                    up 28.6% with a margin of 20% and expansion of about 80 basis points. Profit after tax was
+                    INR618 crores, up 33% with a PAT margin of 11.4%, an expansion of 75 basis points. Coming to
+                    the net debt.
+
+
+                    Net debt as of September stood at INR1,317 crores, an increase of INR263 crores over March '26.
+                    During the first half, we also made acquisition-related payouts of INR551 crores. These primarily
+                    include the final payout for Canada acquisition, the acquisition of minority stake in Genova and
+                    payment towards the U.K. product portfolio. We remain committed to our objective of becoming
+                    net cash by the end of FY '28. With that, I request the moderator to open the line for questions.
+
+
+Moderator:          Thank you so much sir. Our first question comes from the line of Tushar Manudhane. Please go
+                    ahead.
+
+
+Tushar Manudhane:   Congratulations on good set of numbers. Sir, just on amphotericin, how much would that
+                    be now contributing to the Europe segment as well?
+
+
+Piyush Nahar:       Thanks, Tushar. So, we don't break out by product. But as I think Satish Bhai mentioned in his
+                    readout, ampho is one of the growth drivers. It's a key growth driver for Europe growth, but it's
+                    not the only one. We are seeing growth even in our base portfolio out there.
+
+
+Tushar Manudhane:   Okay. Any other product which would be -- which is like worth calling out, it's not in the
+                    base business, but maybe over next 12 months, which would also contribute like
+                    amphotericin for Europe and for the other geographies?
+
+
+
+
+                                                                                                           Page 5 of 16
+
+Samit Mehta:        Yes. Tushar, this is Samit. The other product that we think will contribute significantly in Europe
+                    is treprostinil.
+
+
+Tushar Manudhane:   Okay. If you could elaborate on market size, competitive factors?
+
+
+Samit Mehta:        I think there's limited competition. I won't have the exact the number of players there, but we
+                    see this as an attractive market. Probably not a very large volume product, but in terms of value
+                    as well as margin, it could be very strong product for us.
+
+
+Tushar Manudhane:   Got it. And lastly, with respect to the increased guidance of 20%, if you could give a little
+                    further detail in terms of which geography the growth prospects got further better
+                    compared to earlier guidance?
+
+
+Piyush Nahar:       So, I think if you look at it, there's 2 factors, right? One, domestic, we are seeing good traction
+                    out. I think it's going in line with what we have been talking about, and we see further
+                    acceleration in 2H versus the numbers we have. I think a big part is also the international,
+                    especially the ROW and Europe which are scaling up much better. So I think some of the product
+                    approvals that you were expecting have come through, they are ramping up.
+
+
+                    So that gives us good confidence.
+
+
+Vikas Thapar:       I think even on the ARV side of the Rest of World business, we've seen a strong order book. So,
+                    we're confident of obviously some of the revenue recognition related to that in the second half
+                    of the year continuing as well.
+
+
+Moderator:          Our next question comes from the line of Alankar Garude.
+
+
+Alankar Garude:     Congrats to the team on a pretty good performance as well as the increase in the guidance.
+                    Sir, first question on domestic growth. You have spoken about Zuventus' performance
+                    improving sequentially. There's also been an increase in the Y-o-Y organic growth if we
+                    compare it with the first quarter. So how long do you think will it take for Zuventus'
+                    growth and our overall organic domestic growth to be, say, at par with the market growth?
+                    Will it take 1 quarter, 2 quarters, more than that? Any color on that would be helpful.
+
+
+Vikas Thapar:       Alankar, this is Vik here. So, what we've been seeing even with Zuventus is obviously, for the last
+                    couple of quarters, we've seen a robust growth and stabilization within the team and the
+                    operation. If you look at some of the exits and some of the attrition that happened in Zuventus,
+                    that was predominantly in the second half of last year. So, vis-a-vis that, I think given where we
+                    stand, we expect half 2 of this year to obviously be strong relative to the prior year. So, we think
+                    that, that growth and acceleration for Zuventus certainly will continue half 2 of this year versus
+                    half 2 of the prior year.
+
+
+Alankar Garude:     And broadly, Vik, by the end of this year, can we expect the growth to be more or less in
+                    line with the IPM growth?
+
+
+Vikas Thapar:       Yes.
+
+
+
+
+                                                                                                            Page 6 of 16
+
+Alankar Garude:   Okay, perfect. The second question is, can you talk a bit about Poviztra? How is the
+                  traction there? Is the market shaping up more or less in line with your expectations in
+                  terms of your strategies and even the innovator? I mean, is there any change in the
+                  approach do you feel that is required to drive growth further? Any color there would be
+                  helpful.
+
+
+Satish Mehta:     Alankar, this is Satish Mehta. So Poviztra is getting traction month after month. And as far as
+                  IQVIA is concerned, in the last month, we were the number 4 brand, I believe. As far as we are
+                  concerned and based on the numbers that we had for the month of October, we should probably
+                  improve our rank at least by 1. The other thing that is happening that the story of rDNA and this
+                  being a biologic that seems to be resonating with the medical profession.
+
+
+                  And as far as this obesity market is concerned, we are shaping that market along with Novo
+                  Nordisk, and we are also fortunate to get a lot of data from Novo Nordisk. So, to that extent, it's
+                  a great investment which Emcure has made because this market is only going to grow. But at the
+                  same time, it requires patience and understanding of the market.
+
+
+                  It's not really going to happen in a day, but we obviously see ourselves a long-term player in this
+                  particular market and things are happening in the right direction. It's not earth-shattering the
+                  way it was felt some time back, but we are right there. We are doing a great job, and we are
+                  getting traction day after day.
+
+
+Alankar Garude:   Understood. The second set of questions is on the international business. Now
+                  international, for example, in this quarter is almost 59% of sales. Now given that you don't
+                  have a U.S. business per se, a B2C business, I mean, just to help understand and get some
+                  color on the international business, broadly, what would be the contribution of, say, the
+                  top 3 or top 5 molecules to overall sales within international?
+
+
+Vikas Thapar:     Actually, quite well spread out because of the international markets, when you look at individual
+                  segments like Europe, Canada or ROW, they're all contributing mid-teens plus. And then within
+                  each of those markets, there's hardly any product concentration. In fact, Canada and Rest of
+                  World are quite broadly spread out.
+
+
+                  And Europe is also -- despite having lipo ampho in there, is a fairly well-spread portfolio as well.
+                  So, we really don't have a large product concentration in that context of that 59% of the business.
+                  But in terms of the kind of products, obviously, as we've been highlighting, it's really led by a
+                  number of complex injectables that are having good traction across markets.
+
+
+Alankar Garude:   Understood. So, would it be fair, Vik, to say that even something like amphotericin B
+                  would be less than, say, 10% of our international sales?
+
+
+Vikas Thapar:     For sure. And in fact, as we've been highlighting and we continue to get approvals in some of the
+                  key ROW markets, and we've yet to even commercialize the product in a number of those
+                  markets. So, I think to that extent, the contribution from the ROW markets may go up over time.
+                  In Europe, we anticipate at some point, obviously, we will face some competition.
+
+
+
+
+                                                                                                          Page 7 of 16
+
+                  So, we're fairly well placed in terms of our in-house capacities being able to cater to what we
+                  think is going to be the overall demand between Europe, Canada and the emerging markets for
+                  that product. But even despite that, I think there won't be overdependence per se on that
+                  product.
+
+
+Satish Mehta:     Vik, I completely echo what you are saying. As of now, Alankar, we are not seeing anything in the
+                  Canadian market. And as far as the emerging markets are concerned, we have just started getting
+                  approvals. As I mentioned in my address, we just got approval in Brazil and Colombia and
+                  Mexico. So, it is just Europe which is contributing.
+
+
+                  So, to that extent, whatever performance that we have had in the second quarter -- yes,
+                  amphotericin has helped, but at the same time, I mean, one thing I would like to make it very
+                  clear, it is very broad-based.
+
+
+Alankar Garude:   That's very helpful. And final question before I come back into the queue. What would be
+                  the constant currency growth in this quarter?
+
+
+Vikas Thapar:     I think on the international business, about 10% has been the currency impact to the top line.
+
+
+Piyush Nahar:     Yes. So, 10% on the international. So constant currency growth international was about 24%.
+                  Overall, it's 18.5%.
+
+
+Moderator:        Thank you. Request all the participants please use the raise hand feature available on your
+                  dashboard. Thank you. Our next question comes from the line of Nitin Jain.
+
+
+Nitin Jain:       This is Nitin Jain from Fairvalue Equity Advisory. Congratulations to the management on
+                  a great set and the guidance raise. Not really looking for an exact number, but will the
+                  management be able to guide on how they see FY '28 shaping up? Do you think you will be
+                  able to replicate this year's numbers next year, too?
+
+
+Vikas Thapar:     Yes. So, this is Vik. I'll take a stab. So, while we're not putting out any specific guidance for '28
+                  just yet, at the same time, obviously, management feels very good about the business and bullish
+                  heading into half 2. And so, we certainly hope that some of the momentum that's carrying over
+                  into half 2 will continue to build on for FY '28.
+
+
+                  I think, previously, we've sort of guided what we think each of the different verticals are capable
+                  of growing at on a midterm basis. And I think management continues to stay confident in that
+                  sort of assumption.
+
+
+Nitin Jain:       Right. And do you think this will be driven more by international? Or will domestic also
+                  rebound?
+
+
+Vikas Thapar:     So, I think on domestic, what we've highlighted is if you see our last couple of quarters, the
+                  growth, including the organic growth specifically has been accelerating. And I think on the
+                  Zuventus piece, I already talked about half 2 being strong relative to where we were in half 2 of
+                  last year. So, we definitely see ourselves growing in line or slightly above industry on an organic
+
+
+
+
+                                                                                                           Page 8 of 16
+
+                basis. And then, of course, we continue to look for in-licensing opportunities as well. So overall,
+                we feel good about the domestic business.
+
+
+Moderator:      Our next question comes from the line of Bansi Desai.
+
+
+Bansi Desai:    This is Bansi from JPMorgan. So, my first question is on the domestic growth. So, you
+                alluded we should come back to industry growth shortly. So, question is what is going to
+                drive that? And in what time frame should we expect Emcure to beat the industry growth?
+
+
+Piyush Nahar:   Thanks. I think, Bansi, what we are seeing is, as we have mentioned, right, the base business ex-
+                Zuventus continues to do very well. Zuventus, we are seeing quarter-on-quarter improvement.
+                So, as we head into 2H, we think we will be more in line with the industry. For the full year, I
+                think we should probably end up closer to low-teens growth overall. So, I think the exit of FY '27,
+                we should be at or above industry growth.
+
+
+Bansi Desai:    And Zuventus would be what in terms of number first half?
+
+
+Piyush Nahar:   Zuventus is roughly about 25% of our revenues overall.
+
+
+Bansi Desai:    No, in terms of growth?
+
+
+Piyush Nahar:   We don't break it out by Zuventus, by this thing. But I think what we're talking about sequentially
+                from 4Q, we have seen a significant improvement in Zuventus.
+
+
+Bansi Desai:    Okay. But then it means that it remains substantially below the acute category or IPM
+                category, because I'm assuming that chronic continues to do well for us.
+
+
+Piyush Nahar:   Yes, that will be a fair reflection, but we're not breaking out exact numbers. But as I said, our ex-
+                Zuventus is growing faster than the industry.
+
+
+Bansi Desai:    Okay. And what will bridge that? Is it volume growth in Zuventus that will help us get
+                there? Or is it going to be a combination of new launches, volume growth in your view?
+
+
+Satish Mehta:   This is Satish Mehta. I mean, basically, as I mentioned some time back that as far as Zuventus is
+                concerned, we had massive exodus last year. So basically, there are 3 things that I keep on saying,
+                stability, consolidation and acceleration. So as far as Zuventus is concerned, it took us some time
+                to get back the stability. So, consolidation was very important.
+
+
+                I believe these 2 things are behind us, and now we are in the process of accelerating the business.
+                So, I will essentially stick to what Piyush and Vik mentioned. I think it has taken time. It's not
+                easy as a pharma industry brand building takes time. But at the same time, every reason to
+                believe that the worst is behind us, and we are on the right track.
+
+
+Bansi Desai:    Understood, sir. And just secondly, the question is around profitability across our
+                businesses. So, without quantifying, if you could help us understand the hierarchy of
+                profitability, where does India sit in the overall mix? From our past conversation, I do
+                recall that businesses like Canada, et cetera, are extremely profitable for us. And now we
+
+
+
+                                                                                                         Page 9 of 16
+
+                   also have complex launches in markets like Europe as well. So, if you have to just provide
+                   us a hierarchy, it would be helpful.
+
+
+Vikas Thapar:      Yes. So, I'll take a stab at that. This is Vik. I think India continues to be obviously our number 1
+                   vertical in terms of profitability. Having said that, we've always highlighted that a component of
+                   the India business also includes the in-licensing relationships we have with some of our
+                   multinational partners.
+
+
+                   That piece of the business, obviously, is at a lower stand-alone margin profile. So, on a blended
+                   basis then, obviously, you have to look at India in that context. On the international side, I think
+                   Europe and Canada continue to be very strong profitable business as is the ROW non-ARV
+                   component. On the ARV side, obviously, the margin profile is, I would say, lower than the overall
+                   corporate margins. Having said that, on the R&D front, we've always been guiding to 4% or 5%
+                   overall spend on revenues.
+
+
+                   That is probably tilted more towards a bigger component of R&D spend being on the
+                   international pieces of the business. So, post R&D, obviously, that also plays into the overall
+                   profitability of those businesses, especially as we continue to invest on a number of these more
+                   complex opportunities for those markets.
+
+
+Bansi Desai:       That's helpful, Vik. And also, from an ROW standpoint, while ARV margins probably would
+                   be lower, as you highlighted, but growth has been pretty solid this year. So, given these
+                   are tender businesses, what kind of visibility do we have if we have to think slightly
+                   medium term for tender business, particularly in ROW?
+
+
+Vikas Thapar:      Yes. So, I think at least from what we've been seeing, the traction continues to be strong. Also, as
+                   you know, we are one of the few players that have the opportunity on lenacapavir, where we've
+                   also filed our product. And so, I think in the medium term, lenacapavir will be an important part
+                   of the ARV portfolio.
+
+
+                   And we believe that, that will come and be margin accretive to where we stand on the portfolio
+                   today. So overall, we feel good about the ARV segment continuing to show strength over the next
+                   short to medium term.
+
+
+Moderator:         Our next question comes from the line of Foram Parekh.
+
+
+Foram Parekh:      My first question is on the Europe market. So, on the amphotericin B, if you can just give
+                   us some colour, have we penetrated in all the geographies or are there any incremental
+                   geographies to be penetrated?
+
+
+Tajuddin Shaikh:   Yes, there are a few geographies we've just got approval. So, we have just penetrated to 50% of
+                   the market and a few geographies still pending. We have just got our approval.
+
+
+Foram Parekh:      Sure. So, if you can give us some count of this 50% of the penetration, like how many
+                   geographies and what's the count?
+
+
+Tajuddin Shaikh:   About 20 countries probably where we have still to get into.
+
+
+                                                                                                          Page 10 of 16
+
+Foram Parekh:      Sure. And my second question is on the ROW side. So, if you can give us the breakup
+                   between ARV and non-ARV, as last quarter the ARV pie was around 67%. So, are we still
+                   in the same trajectory now?
+
+
+Piyush Nahar:      Foram, this is Piyush here. So, this quarter, we will be roughly about 50%, half and half.
+
+
+Foram Parekh:      Okay. And may I ask, we have got approval for amphotericin B in the non-ARV side, so in
+                   a couple of markets. So, by when can we launch in those markets?
+
+
+Samit Mehta:       I think for a lot of the markets, the batches are already under production, especially the ones
+                   which we've got approval recently. So, across the next half, at least a couple of buckets of markets
+                   we should be launching in.
+
+
+Foram Parekh:      Okay. And my third question is on the R&D side. In our opening remarks, we mentioned
+                   that the R&D cost will go up in the second half, while I also hear that R&D contribution
+                   would be around 4% to 5%. So the increased R&D would be in the same bandwidth or how
+                   should we look at it?
+
+
+Samit Mehta:       Yes. I think the first half R&D was at 4%, and we've guided for a total year of anywhere between
+                   4% to 5%. So, it will continue to remain within that bracket itself.
+
+
+Moderator:         Our next question comes from the line of Dr. Kartick Bane.
+
+
+Kartick Bane:      Congratulations on a good set of numbers. This is Dr. Kartick Bane from Bajaj Life. I
+                   missed the name of the molecule, the second molecule that you mentioned apart from the
+                   liposomal amphotericin B. If you can spell it out?
+
+
+Vikas Thapar:      You're talking about the Europe opportunity.
+
+
+Tajuddin Shaikh:   Treprostinil.
+
+
+Kartick Bane:      Sorry, come again.
+
+
+Tajuddin Shaikh:   Treprostinil. T-R-E-P-R-O-S-T-I-N-I-L.
+
+
+Kartick Bane:      Okay. And second question is on the amphotericin manufacturing sites. How many sites
+                   do we have at this point in time? When was the last inspection? When is the next
+                   inspection planned? And do we have any diversification on the manufacturing of that?
+
+
+Samit Mehta:       So very good question. So, we've already diversified. We have 2 different manufacturing sites,
+                   and each one is broken out by the market it caters to. And depending on the market, most of the
+                   regulatory agency audits are very recent, and they have all been closed as well. So, we expect
+                   that at least in the next 18 to 24 months, we should have the facilities being able to cater without
+                   any restriction.
+
+
+Satish Mehta:      One more thing I would like to add. Important country like U.K., it has approval in both the sites.
+                   And we are also -- Europe, which is another important market for us. So, it will also have approval
+
+
+
+
+                                                                                                          Page 11 of 16
+
+                  in due course of time at both the sites. So, to that extent, we are in terms of risk management,
+                  fairly well covered.
+
+
+Moderator:        Our next question comes from the line of Alankar Garude.
+
+
+Alankar Garude:   Satish Bhai, we have seen IPM growth picking up quite well over the last 3, 4 quarters.
+                  What factors do you think are contributing to this increase? Have you seen any changes
+                  in the end market? And do you think that this is sustainable?
+
+
+Vikas Thapar:     Yes. I think, Alankar, this is Vik here, and I'll let others also chime in. You're absolutely right.
+                  We've obviously seen a very robust growth for the entire industry with a number of peers also
+                  putting up good numbers. My own take on this is it's a couple of -- 2, 3 key factors that are
+                  contributing to it.
+
+
+                  One is obviously overall access to healthcare and the awareness that is causing this sort of slight
+                  uptick in volumes. Secondly, all said and done, there was this sort of push of generic-generic, but
+                  I believe that we're seeing that the demand for quality branded generics continues to be strong.
+
+
+                  And finally, to some extent, possibly because of the whole GLP-1 category and a lot of noise
+                  around that, there's also possibly additional diagnostics that are happening that are possibly
+                  feeding into that as well. So overall, I think there's a number of contributing factors where
+                  perhaps a year ago, the volume seemed a little bit more anaemic in terms of the growth for the
+                  industry seem to be much more robust this time.
+
+
+Satish Mehta:     I will give some colour. You made a very interesting point, because what really happens that as
+                  far as your obesity market is concerned, the Mounjaro is a brand of almost INR1,600 crores,
+                  INR1,800 crores. So, they do more than INR130 crores per month. And I think if you put all the
+                  brands of semaglutide together, they should be contributing around INR50 crores, INR60 crores.
+                  So, if you add this INR180 crores to a market of, say, INR25,000 crores, which is the current size
+                  of the market, I mean, at least 4% or 5% for sure is being contributed by obesity.
+
+
+                  So that's also one of the reasons why you are seeing an uptick. I mean one has to study, but just
+                  trying to tell you what's going on. And the other thing that I have seen, Alankar, in my 30 years
+                  of association with the domestic market, once the economic growth picks up, normally, I have
+                  seen the growth of the pharma industry is 1.5x that of the economic growth that we have. So, if
+                  you are growing at 8%, 12% is granted, it is going to happen, 11%, 12%.
+
+
+                  And add to that, the new product launches and the new concept obesity, which has come, that's
+                  how you are showing, by and large, industry showing 14%, 15% by the way of growth. And it's
+                  a very, what I would say, qualitative assessment. One has to do a little deep dive and go into the
+                  numbers and see how sustainable it is.
+
+
+Alankar Garude:   Understood. No, very interesting points. I think most of the reasons that you outlined
+                  seem to suggest that this could possibly continue, maybe not to the same extent, if you
+                  look at FY '28 as well. Would that be a fair assessment?
+
+
+
+
+                                                                                                         Page 12 of 16
+
+Satish Mehta:       I don't know. I mean, it's very difficult to say because the other thing that happens, how the
+                    geopolitical situation plays out, you wouldn't know. Suppose tomorrow, the Iran war flares up,
+                    the oil price is $120, $130 per barrel, the situation will turn to, I mean, much less growth. So, it
+                    is very, very difficult to say in which direction it will go. As of today, it looks good.
+
+
+                    But at the same time, I wouldn't like to hazard a guess about future. One has to -- I mean, I'm
+                    always inclined to look quarter-by-quarter. And let's move on and then we'll see what happens.
+
+
+Alankar Garude:     Understood. That actually brings me to the second question. We've not really seen any
+                    impact of higher raw material cost as far as this quarter is concerned. Of course, there are
+                    other factors which are driving the gross margins as well. But would you like to highlight
+                    where are you in terms of any raw material impact? I mean, if you can talk about the
+                    second quarter and also if you can highlight about the second half, is the situation
+                    relatively comfortable?
+
+
+Vikas Thapar:       I think, Alankar, I mean, for us, definitely, there has been some amount of impact on account of
+                    the imported raw material cost. I also think that freight costs and insurance costs as well as the
+                    transit times have increased across the board, right? So, I think on the one hand, we benefited
+                    from some favourable currency impact. On the other side, I think some of these costs are wiping
+                    out a big chunk, if not most of those gains. So that's why, I think, overall, our gross margin impact
+                    has been relatively muted. But certainly, we have been seeing, in many cases, some rising input
+                    costs.
+
+
+Alankar Garude:     Got it. Another question, what was the share of ARV in this quarter compared to 65% in
+                    the first quarter?
+
+
+Piyush Nahar:       Roughly half of the ROW sales were ARV.
+
+
+Alankar Garude:     Got it. So broadly, Piyush, would you like to maintain an earlier number of 50%, 55% ARV
+                    contribution in FY '27?
+
+
+Piyush Nahar:       Yes, we'll end up there.
+
+
+Alankar Garude:     Okay. Fair enough. And final question, when do you expect to start supplies of semaglutide
+                    in Quebec for your partner, Dr. Reddy's?
+
+
+Piyush Nahar:       I think we are waiting for the supply. So, depending on when we get the supplies, we'll be ready
+                    to launch. I think Reddy's has talked about sometime in November, but we'll direct to do that.
+
+
+Moderator:          Next question comes from the line of Tushar Manudhane.
+
+
+Tushar Manudhane:   This is Tushar Manudhane. Sir, just on the opex side, if you could share anything
+                    meaningful that would come up either in the terms of capacity further scaling up or in
+                    terms of marketing side, which will lead to higher other expenses compared to revenue
+                    growth?
+
+
+Tajuddin Shaikh:    No, nothing on that side right now.
+
+
+
+                                                                                                                Page 13 of 16
+
+Piyush Nahar:       So, Tushar, I think what we have always talked about is a lot of the margin improvement that you
+                    will see is going to come from operating leverage. So, you will see our SG&A growth be slower
+                    than the revenue growth.
+
+
+Tushar Manudhane:   Got it. And with the significant improvement in the domestic formulation growth, could
+                    you just sort of refresh in terms of the number of MRs and the MR count which you intend
+                    to take probably over next 12 to 15 months?
+
+
+Piyush Nahar:       I think the MR count remains similar about 4,100-odd, 4,100 to 4,200. We are not looking to add
+                    right now any new MRs in the near term.
+
+
+Tushar Manudhane:   And just conceptually or strategically, has there been any change on the, what do I say,
+                    incentive scheme, which is sort of with the same MR team, we are able to sort of improve
+                    the growth reasonably well in line with industry and believe that we can grow better than
+                    the industry. If you can throw some light on that aspect.
+
+
+Piyush Nahar:       There's been no change on the incentives that we have made, right? I think what we have all been
+                    talking about for, if you look at the last 2, 3 quarters, right, the focus is a lot more on execution
+                    in terms of are we reaching out to the right doctors, how are we engaging with the doctors, a lot
+                    on scientific promotion, and that is what is driving us.
+
+
+                    So, if you look at even some of our top brands, I think for us, the differentiator is a lot of our top
+                    brands are where you have something different innovative to talk about. So, if you take Orofer
+                    XT, where whole anemia franchise or even our current molecules like Asomex and Metpure and
+                    all, those are seeing good growth out there for us.
+
+
+Vikas Thapar:       Yes. And I think what I would just say is from time to time, we keep tweaking the incentive
+                    scheme marginally to try and see that a greater percent of overall population of the MRs are
+                    qualified. So, I think with the right incentive structure and focus that Piyush talked about, we feel
+                    confident that without significantly increasing our MR head count, we can indeed continue to
+                    grow. In fact, we've seen even in the current quarter, an uptick in the productivity per rep
+                    compared to the prior quarter.
+
+
+Tushar Manudhane:   Got it. And lastly, while you're on the brand, specific -- we do get to understand from
+                    certain data like IQVIA. But if you could throw some more colour on the hospital side
+                    within domestic formulation, how does that contribute? And what has been the growth in
+                    that particular section?
+
+
+Piyush Nahar:       I won't have the offhand numbers, offhand on hospital side, but it's going to be in single digits
+                    somewhere. It's not going to be very large.
+
+
+Satish Mehta:       I mean, just to chime in, as far as we are concerned, our focus is more on generating prescriptions
+                    in the trade, meeting the doctors. And as far as hospitals are concerned, typically, most of the
+                    products are injectables. And to that extent, we are very well placed because our all solid dosage
+                    formulations are doing exceedingly well, like Orofer XT, Pause, Metpure that Piyush just
+                    mentioned.
+
+
+
+                                                                                                             Page 14 of 16
+
+Moderator:      Our next question comes from the line of Alok Dalal. Please introduce yourself and you can
+                proceed ahead with the question.
+
+
+Alok Dalal:     A few quick ones. Any update on your filing for semaglutide in Canada?
+
+
+Piyush Nahar:   This fiscal, so probably in the next few months.
+
+
+Alok Dalal:     Next few months. Okay. And Piyush, what is the contribution of in-licensed products to
+                India sales today?
+
+
+Piyush Nahar:   It's about high teens.
+
+
+Alok Dalal:     High teens range. Okay. And similar number, if you can give for biosimilars for India and
+                overseas?
+
+
+Piyush Nahar:   India will be about 10%. International will be lower than that, because internationally, we are
+                only selling in the emerging markets.
+
+
+Moderator:      Next question comes from the line of Foram Parekh.
+
+
+Foram Parekh:   My question is on the domestic side. If you can help us give the OTC contribution to the
+                domestic sales?
+
+
+Piyush Nahar:   Foram, it's still scaling up, so we won't want to break it out right now. I think once it reaches a
+                meaningful size, that's when we'll probably talk about it separately.
+
+
+Satish Mehta:   We are obviously seeing green shoots and the response is very good, but early days.
+
+
+Foram Parekh:   Sure. But would it be fair to assume that it would be in mid-single-digit or would it be
+                lower than that?
+
+
+Piyush Nahar:   I don't think we want to break that out right now actually, Foram.
+
+
+Foram Parekh:   Sure. No problem. And my second question is on the international front. So, for both
+                Europe and Canada, if you can help us give the split between organic and inorganic sales?
+
+
+Piyush Nahar:   Europe and Canada both is organic. There's nothing inorganic right now there.
+
+
+Foram Parekh:   Okay. So, the base portfolio would be contributing how much percentage?
+
+
+Piyush Nahar:   The whole right? So, the growth is largely driven by base plus new launches because we haven't
+                had any acquisitions out there in Europe, Canada. There's one small, Cutimed, but that's a quite
+                small sale. There's been nothing in the last 12 months.
+
+
+Vikas Thapar:   I mean, Europe, yes, the acquisition happened longer than 1.5 years ago and a very tiny
+                acquisition of Cutimed in Canada. But by and large, it's the base business that's growing.
+
+
+Foram Parekh:   Sure. And if you would help us, give us the contribution from new product launches.
+                Would it be fair to assume around 10% for both the geographies?
+
+
+                                                                                                      Page 15 of 16
+
+Piyush Nahar:               We haven't broken that out. But yes, a big part of the growth is going to come from new launches.
+
+
+Moderator:                  Ladies and gentlemen, as there are no questions from the participants, I would now like to hand
+                            the conference over to Mr. Saurabh Paliwal for closing comments. Thank you, and over to you,
+                            sir.
+
+
+Saurabh Paliwal:            Thank you, everyone, for joining us today. If you have any further questions or queries that you
+                            need answers to, please feel free to get in touch with us. With that, we close the conference call
+                            for this quarter. Wish you all a very happy Diwali and a great evening. Goodbye.
+
+
+Moderator:                  Thank you so much, Saurabh, sir. Ladies and gentlemen, on behalf of Emcure Pharmaceuticals
+                            Limited, that concludes this conference. Thank you for joining us, and you may now disconnect
+                            your lines.
+
+
+
+
+Note: The contents of this transcript have been edited to improve accuracy and readability
+
+
+
+
+                                                                                                                 Page 16 of 16
+

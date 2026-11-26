@@ -1,0 +1,1268 @@
+                                                                                             Tech Mahindra Ltd
+                                                                                             Sharda Centre, Off Karve Road,
+                                                                                             Erandwane, Pune 411 004
+                                                                                             Tel: +91 20 66018100
+                                                                                             www.techmahindra.com
+
+
+21 October 2026
+
+ To,
+ BSE Limited                                                          National Stock Exchange of India Limited
+ Phiroze Jeejeebhoy Towers,                                           Exchange Plaza, 5th floor,
+ Dalal Street,                                                        Plot No. - C/1, G Block,
+ Mumbai - 400 001                                                     Bandra-Kurla Complex, Bandra (East),
+ Scrip Code : 532755                                                  Mumbai - 400 051
+                                                                      NSE Symbol : TECHM
+
+Subject: Transcript of the quarterly earnings conference call for the quarter ended 30 September 2026–
+          Regulations 30 and 46 of the Securities and Exchange Board of India (Listing Obligations and
+          Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”)
+Ref:      Intimation of quarterly earnings conference call vide letter dated 2 October 2026 and audio
+          recording of quarterly earnings conference call vide letter dated 15 October 2026.
+
+Dear Sir/Madam,
+
+In terms of Regulations 30 and 46 read with clause 15 of para A of Part A of Schedule III of the SEBI Listing
+Regulations and in furtherance to the outcome and audio recording of the quarterly earnings conference call
+filed on 15 October 2026, please find enclosed the transcript of the said quarterly earnings conference call
+of the Company for the quarter ended 30 September 2026, held on Thursday, 15 October 2026 after the
+meeting of the Board of Directors for your information and records.
+
+The text transcript is also uploaded on the website of the Company and can be accessed at the weblink:
+https://insights.techmahindra.com/investors/tml-q2-fy-27-earnings-transcript.pdf
+
+
+Please note that the Company has referred to publicly available documents for discussions and no
+unpublished price sensitive information has been shared during the aforesaid meeting.
+
+This intimation is also available on the website of the Company at the weblink:
+https://www.techmahindra.com/investors/
+
+Kindly take the above on record.
+
+Thanking you,
+
+For Tech Mahindra Limited
+RUCHIE RAVI Digitally signed by RUCHIE
+            RAVI KHANNA
+
+KHANNA      Date: 2026.10.21 20:49:22
+            +05'30'
+
+Ruchie Khanna
+Company Secretary
+
+Encl.: as above
+
+
+
+Regd. Office: Gateway Building, Apollo Bunder, Mumbai 400 001 India | CIN: L64200MH1986PLCO41370                              1
+
+                “Tech Mahindra Limited
+          Q2 FY27 Earnings Conference Call”
+                    October 15, 2026
+
+
+
+
+MANAGEMENT: MR. MOHIT JOSHI – CHIEF EXECUTIVE OFFICER AND
+            MANAGING DIRECTOR – TECH MAHINDRA LIMITED
+            MR. ROHIT ANAND – CHIEF FINANCIAL OFFICER –
+            TECH MAHINDRA LIMITED
+            MR. ATUL SONEJA – CHIEF OPERATING OFFICER –
+            TECH MAHINDRA LIMITED
+
+
+
+
+                         Page 1 of 20
+
+                                                                                   Tech Mahindra Limited
+                                                                                        October 15, 2026
+
+Moderator:     Ladies and gentlemen, good day, and welcome to Tech Mahindra Limited Q2 FY27 Earnings
+               Conference Call. We have with us today Mr. Mohit Joshi, Managing Director and Chief
+               Executive Officer; Mr. Rohit Anand, Chief Financial Officer; and Mr. Atul Soneja, Chief
+               Operating Officer.
+
+
+               As a reminder, all participant lines will be in the listen-only mode, and there will be an
+               opportunity for you to ask questions after the presentation concludes. Should you need assistance
+               during the conference call, please signal an operator by pressing star, then zero on your touch-
+               tone phone. Please note that this conference is being recorded.
+
+
+               I now hand the conference over to Mr. Mohit Joshi for his opening remarks. Thank you, and
+               over to you, sir.
+
+
+Mohit Joshi:   Thank you, and thank you all for joining us, and welcome to our Q2 FY27 earnings call. I just
+               wanted to begin by highlighting a significant milestone in Tech Mahindra's journey as we
+               celebrate our 40th anniversary this quarter, a very proud moment for associates, customers,
+               shareholders, and partners.
+
+
+               Over four decades, we have built deep client relationships, developed expertise across industries,
+               and adapted through successive waves of technology change. From our roots in
+               telecommunications, we have grown into a global technology company offering AI-powered
+               technology consulting and digital solutions to global enterprises across industries.
+
+
+               Through all this change, the entrepreneurial spirit that shaped Tech Mahindra has endured. It
+               drives us to pursue new opportunities, build for the long term, and keep learning at our heart.
+               We believe that technology must create meaningful value for our clients and communities.
+               Today, that spirit finds its clearest expression in our promise to help clients scale at speed. As
+               we mark this milestone, I'm also pleased to announce that our Board of Directors has
+               recommended a bonus share issue in a ratio of 1:1 for our shareholders.
+
+
+               Turning to our quarterly performance, we delivered a very strong quarter with broad-based
+               growth across the business. Revenues were US$1.693 billion, representing 6.8% year-on-year
+               growth on a reported basis and 7.2% growth in constant currency. Positive m omentum across
+               our verticals and the ramp-up of large deals supported this performance, and we are now winning
+               share based on our talent investment and their focus. We have above-industry-tenured staff
+               focused on delivering business outcome-oriented solutions to our clients. Operating margins for
+               the quarter stood at 14.8%.
+
+
+               From a vertical perspective, in Communications, revenues grew 9.5% year-on-year, supported
+               by the ramp-up of the Orange large deal and new strategic engagements. We continue to see
+               opportunities across AI-led operational transformation, fiber and network modernization, and
+               B2B platform modernization. We also believe the next wave of cost transformation will be
+               driven more by technology-led transformation beyond merely AI benefits and labor arbitrage,
+               which plays to Tech Mahindra's strengths and deep telecom expertise.
+
+
+               In this quarter, we launched Zero-Gravity Telco Architecture, our North Star framework,
+               enabling telecom operators to reduce enterprise gravity by addressing the architectural
+
+                                       Page 2 of 20
+
+                                                                    Tech Mahindra Limited
+                                                                         October 15, 2026
+
+constraints that limit safe AI agent deployment, supporting their transition to AI-native
+operations. This is a timely and differentiated capability, especially in light of widespread and
+heightened concerns about security and reliability of AI agents.
+
+
+The BFSI business grew 4.6% year-on-year. We remain focused on deepening our presence in
+payments and wealth management, modernizing client platforms, and strengthening our
+insurance capabilities. During the quarter, we were recognized as a global leader in the ISG
+Guidewire Services Ecosystem 2026 study for the first time, reflecting the progress we have
+made in insurance.
+
+
+Manufacturing grew 7% year-on-year. Aerospace saw good traction, supported by engineering
+demand and industrial opportunities centered on AI-led efficiency, supply chain visibility, and
+system consolidation. Hi-Tech grew 6.7% year-on-year, supported by new deal wins. AI-led
+product engineering and platform modernization are driving demand. At the same time, cost
+optimization and consolidation initiatives continue to support a healthy pipeline.
+
+
+Retail, Travel and Logistics grew 9.2% year-on-year, supported by new client wins and the
+ramp-up of consolidation and transformation engagements in the Americas. We continue to see
+opportunities to expand our share within existing accounts and help client s strengthen the
+infrastructure, data, and platforms needed for AI adoption.
+
+
+Healthcare grew 6.2% year-on-year. Our focus remains on expanding our presence across
+providers and life sciences, with vendor consolidation and AI-led transformation as key areas of
+opportunity. We are building on our AI solutions portfolio and ecosystem partnerships to support
+clients in areas such as post-market surveillance and regulatory compliance.
+
+
+Coming to the progress we made under TechM Helix, our AI initiative, this quarter, we
+strengthened the platforms, partnerships, and industry capabilities that underpin all of our AI
+offerings. Our Helix investments are translating into strategic engagements across industries and
+geographies, with many moving beyond pilots towards larger-scale implementation within core
+business processes.
+
+
+During the quarter, we secured AI engagements across professional services, healthcare,
+insurance, communications, consumer health, and technology. Let me share examples to
+illustrate how clients are approaching AI as part of broader business transformation. A European
+professional services firm, for instance, selected us to embed AI and agentic AI across more than
+40 customer-facing platforms and products and modernize software engineering, displacing a
+longstanding incumbent.
+
+
+Secondly, a US healthcare technology leader engaged us to deploy a multi-agent AI solution
+across its post-market surveillance complaints lifecycle, accelerating triage while preserving
+traceability, regulatory governance, and expert oversight. And thirdly, an APAC communication
+and media provider selected us to transform customer experience operations, embedding AI
+agents across voice and digital interactions, agent assistance, quality, and knowledge
+management.
+
+
+
+
+                        Page 3 of 20
+
+                                                                   Tech Mahindra Limited
+                                                                        October 15, 2026
+
+For us, the opportunity being enabled by our latest offerings is not simply to deliver existing
+work more efficiently, but to take on a wider scope of responsibility and help clients achieve
+better outcomes. Helix brings together our industry knowledge, engineering expertise, and
+enterprise integration capabilities to support this shift.
+
+
+I will now share three examples of how Helix is bringing together our industry knowledge,
+engineering expertise, and enterprise integration capabilities to deliver changes. Our work with
+AWS demonstrates this in practice. We launched an Agentic Process Transformation Center of
+Excellence whose first solution, Collections Guru, is already deployed at Target Group. It
+delivers approximately 40% efficiency gain in arrears management, a measurable improvement
+in a live business process.
+
+
+Secondly, our Zero-Gravity Telco Architecture is gaining traction. A Tier 1 UK operator is
+progressing a proof of value trial. Two European mobile network operators are evaluating
+adoption, and a leading Asian operator is deploying pilots.
+
+
+The accompanying Zero-Gravity Index benchmarks AI readiness and guides investment
+priorities, while collaboration with hyperscalers, NVIDIA, and TM Forum supports adoption.
+Potential benefits include reductions of 50% to 80% in time to market, 15% to 30% in technical
+debt, and 25% to 50% in architectural costs.
+
+
+Thirdly, we launched a Consumer Agentic Experience Studio, an immersive center showcasing
+end-to-end solutions across the consumer industry value chain. Since its launch, it has hosted
+more than 20 customers and multiple partners and begun generating busin ess in its first quarter
+of operations. The studio has also helped us deepen our partnerships with Google, SAP, and
+Blue Yonder, strengthening our cloud, AI, digital supply chain, and enterprise transformation
+capabilities.
+
+
+Our broad partnerships complement these investments with the integration and security needed
+for enterprise deployment. They also help us develop capabilities that can be applied across
+client engagements and enhanced over time. Here are four examples of additional work with
+partnerships. With ServiceNow, we have announced an expanded multiyear partnership to help
+enterprises move from AI pilots to production scale deployments.
+
+
+With Cisco, we announced an AI-driven Security Service Edge offering to reduce security
+complexity, improve visibility and control, and help enterprises manage and secure AI agents as
+they scale cloud and hybrid work and AI adoption. Our partnership with SpaceX.ai combines
+industry expertise, engineering excellence, and AI innovation to help organizations transform
+software development into a competitive advantage by bringing together SpaceX's AI-native
+platform and Tech Mahindra's deep domain knowledge, engineering scale, and transformation
+expertise.
+
+
+This partnership reinforces our AI Delivered Right strategy. Finally, we continue to invest in
+technologies with a longer horizon. Makers Lab, which marked its 12th anniversary this quarter,
+remains an important part of this effort. In quantum technologies, we partnered with IHub
+
+
+
+
+                          Page 4 of 20
+
+                                                                    Tech Mahindra Limited
+                                                                         October 15, 2026
+
+Quantum Technology Foundation to develop middleware for India's indigenous 20-qubit
+trapped-ion quantum computer.
+
+
+Completion is expected by December 2026, with commercialization activities expected
+thereafter. We also won the first prize and I'm really proud of this at the 5th Quantum Hackathon
+organized by possibly the world's leading quantum institute, the National Quantum Computing
+Centre, working alongside talented university participants to tackle a network optimization
+challenge using quantum computing.
+
+
+Coming to deal wins, our total deal wins for the quarter were US$1.023 billion. Wins were
+broad-based across verticals and geographies. For instance, we were selected by a leading
+Canadian insurer as a strategic partner for an integrated applications management services
+engagement, spanning core insurance applications, vulnerability management, environment
+services, release engineering, and run operations. The engagement will strengthen platform
+modernization, improve operational efficiency, strengthen security, and enhance observability.
+
+
+We were selected by a leading digital network business to deliver a transformative mainframe-
+as-a-service program supporting critical communications infrastructure. Leveraging Tech
+Mahindra's strengths in infrastructure transformation, managed services, automation, and
+telecom domain expertise, the engagement will help deliver reliable connectivity services across
+the UK.
+
+
+We were also selected by a leading Australian telecom operator as their strategic managed
+services partner for a 5-year engagement spanning application management, development,
+testing, and AI engineering services. This was obviously enabled by our proven experience in
+AI engineering services and managing mission-critical technology environments.
+
+
+I will close where it begins, with our talented staff. None of what I have described happens
+without them. We were recognized this quarter at the Brandon Hall HCM Excellence Awards
+and the Stevie Awards for Great Employers. These recognitions are important, but what matters
+most is the work behind them. A company building for the future must invest not only in
+technology capabilities, but also in creating meaningful opportunities for people to learn,
+contribute, and grow.
+
+
+I wanted to close with our Global Chess League, Season 4 in Bangalore, which delivered 9 days
+of world-class chess and a truly global audience.
+
+
+Chess brings together imagination, discipline, patience, and adaptability. It rewards the ability
+to look beyond immediate moves while responding thoughtfully to a changing position. As Tech
+Mahindra completes 40 years, those qualities offer a fitting perspective on the journey ahead.
+We will continue to build on our strengths, learn and adapt while staying focused on the
+commitments we make.
+
+
+Also on the GCL piece, I just want to mention that through our GCL app, we have also
+transformed how audiences connect with the sport while bringing together leading partners,
+including SBI, AMD, Google Cloud, and many others.
+
+
+
+                        Page 5 of 20
+
+                                                                                   Tech Mahindra Limited
+                                                                                        October 15, 2026
+
+               And with that, I will hand you over to Atul, who will take you through our operational
+               transformation and AI progress for the quarter.
+
+
+Atul Soneja:   Thank you, Mohit, and hello, everyone, and thanks for joining in. AI is reshaping the economics
+               of technology services. The market is rapidly moving from AI experimentation to enterprise-
+               scale adoption.
+
+
+               Our focus at Tech Mahindra is to help clients translate AI investments into measurable business
+               outcomes through improved productivity, accelerated innovation, and sustainable value creation
+               while embedding AI into a structurally more efficient delivery mode.
+
+
+               With Helix, our AI journey is moving decisively from capability building to scaled execution.
+               Helix is becoming the agent for AI-led transformation across TechM, connecting innovation to
+               execution, productivity, and growth.
+
+
+               Our strategy is to build an AI growth engine under Helix, which has two complementary
+               dimensions, AI tool chain for every service line, which is around embedding AI into how we
+               design, engineer, modernize, deliver, and operate technology services. And second is around AI
+               transformation for every vertical, which is around applying AI to reimagine industry-specific
+               business processes, operating models, and customer experiences.
+
+
+               Let me just give you a few concrete examples. An example of AI tool chain is when a Tier 1
+               telco operator in Europe expanded its partnership to build a private cloud platform using
+               platform engineering and AI-first operations. The strategic relevance is that AI becomes
+               embedded in the operating fabric of clients' infrastructure, creating a scalable foundation for
+               productivity gains, automation, and long-term business value rather than a standalone
+               technology initiative.
+
+
+               An example of our cross-service AI foundation tool chain is TechM Orion and the Orion
+               Marketplace, which leverages TechM's AI IP and reusable agent capabilities, enabling service
+               lines to accelerate AI adoption from a common platform rather than building solutions
+               independently.
+
+
+               Let's now consider the AI transformation for every vertical. For Telecom, we established a zero-
+               gravity architecture which enables a diagnostic framework to help telcos overcome legacy
+               complexity and move towards autonomous operations. We partnered with FICO in banking
+               domain for AI-powered decisioning.
+
+
+               In manufacturing, we partnered with Infinite Uptime to bring prescriptive intelligence into plant
+               workflows. These examples show a progression from generic AI capability to industry-specific
+               intellectual property, solutions, and transformation offerings. Our Zero Gravity Architecture for
+               Telecom is an example of the above convergence.
+
+
+               It brings together AI-ready architecture, enterprise context, and agentic capabilities to simplify
+               complex telco environments and enable intelligent operations across networks, customer
+               journeys and business processes. Our Customer Agentic Experience Studio accelerates solutions
+               across retail, consumer, travel, and logistics.
+
+
+                                        Page 6 of 20
+
+                                                                     Tech Mahindra Limited
+                                                                          October 15, 2026
+
+Our model strategy is evolving into a family of multimodal, purpose-built models, and Orion
+provides a model-agnostic enterprise AI platform that brings together these capabilities across a
+growing partner ecosystem. Our portfolio includes more than 200 AI assets, which we are
+rationalizing into reusable blueprints, platforms, and accelerators. During the quarter, we
+completed 25 prioritized industry and horizontal AI use cases while progressing more than 100
+additional vertical use cases across communications, financial services, healthcare,
+manufacturing, retail, energy, insurance, travel, and logistics.
+
+
+Last time, we spoke about domain-specific language models. Our focus was on establishing the
+foundational capability to build smarter, efficient, and specialized AI models to ensure our
+customers get the benefit of doing a specific task in a domain or a subdomain effectively. Since
+then, we have extended this capability, and we are now seeing opportunities in three separate
+directions. First, DSLMs are now part of AI toolchains. DSLMs enter these AI toolchains as an
+important component which helps us deliver these transformations, keeping them cost-effective.
+
+
+Our AI toolchains built specifically for industries now have these DSLMs embedded within
+them. Second, from language models to agentic business processes. Our focus is no longer just
+on building a model that can answer industry-specific questions. We are combining DSLMs with
+AI agents that can understand enterprise processes, reason over domain information, and take
+governed actions within customer environments.
+
+
+And third, from technology development to commercialization. We are connecting our domain -
+specific AI capabilities with our broader agentic AI platforms, industry solutions, and delivery
+ecosystem for repeated enterprise offerings. In short, we have progressed from building models
+to building domain-specific intelligence that can drive business actions. That is where we believe
+the long-term value creation opportunity lies.
+
+
+Trust is fundamental to scaling AI. Responsible AI is embedded throughout the solution
+lifecycle, with red teaming, trusted data, traceability, security, and IP provenance built into how
+we design, deploy, and operate AI solutions. We have also established a dedicated responsible
+AI practice spanning across consulting, delivery, and talent enablement, which is helping us
+strengthen our ability to help clients move from experimentation to production with more
+confidence.
+
+
+We are also moving decisively from co-sell to co-create, which is around combining Tech
+Mahindra's domain depth, engineering excellence, deep client relationships, and global delivery
+scale with inherent strengths of our partners to build differentiated solutions and unlock greater
+client value.
+
+
+This is already taking shape through cloud and AI innovation with Google Cloud, AWS, and
+Microsoft; intelligent enterprise transformation with SAP, ServiceNow, and Salesforce; AI
+infrastructure and edge solutions with NVIDIA, Dell, Intel, and Qualcomm. Across these and
+many more partnerships, we are no longer simply taking products to market together. We are
+jointly creating industry solutions, talent, accelerators, and new sources of measurable business
+value for our clients.
+
+
+
+
+                         Page 7 of 20
+
+                                                                      Tech Mahindra Limited
+                                                                           October 15, 2026
+
+The impact is visible across industries. In banking, AI-enabled service operations are supporting
+stronger conversion and growth. In healthcare, multi-agent workflows are addressing high-
+volume product safety processes while keeping specialists in the decision loop. In insurance and
+telecom, AIOps, self-healing operations, and embedded agents are improving responsiveness
+and operating efficiency. In engineering, AI-assisted development and testing are shortening
+cycle times and improving release readiness.
+
+
+AI is not only transforming client operations, it is also redefining the economics of service
+delivery. Across client fixed-price and outcome-based programs, we are intensifying the use of
+AI to improve productivity, optimize delivery effort, and strengthen execution economics. Our
+focus is on systematically embedding AI into how work is delivered, enabling us to deliver more
+efficiently, improve margins, and scale proven practices across the account base.
+
+
+Our biggest currency is our talent, which continues to scale alongside execution. More than
+24,000 IT associates have been upskilled on AI productivity tools, over 4,500 have been skilled
+on agent platforms, and approximately 48,000 hold an AI certification.
+
+
+We are now moving beyond broad-based AI enablement towards specialized client-facing
+capabilities through forward-deployed engineering teams. AI Velocity Cells, a new program we
+started to bring these capabilities closer to the client demand, has already delivered 16 client-
+relevant capstones in seven weeks and operating at full allocation. These teams are designed to
+demonstrate value quickly and industrialize successful solutions across our service lines.
+
+
+As the world moves towards smaller, domain-contextual models, it is imperative that our
+workforce gets trained on it because of the multitudes of open models. We have curated a special
+internal course to ensure 200 engineers get trained in the next quarter on some deep techniques
+to hone models and harnesses.
+
+
+Let me also address the broader economic implications of AI for our industry. AI is and will
+change the economics of technology services. In some areas, automation will reduce the effort
+required to deliver existing services and may put pressure on effort-based revenue models. But
+we are also seeing significant momentum in work related to consulting, modernization, data and
+analytics as our clients accelerate their AI journey.
+
+
+All of this translates to expanding scope within existing clients, accelerating transformation
+demand, supporting higher volumes, winning new clients, and evolving our new commercial
+models. This positions us to participate more directly in the value we create for our clients rather
+than measure progress only in units of effort.
+
+
+Let me close with our approach to AI revenue. We have established a framework across three
+value pools: build the enterprise, create intelligence, and run and scale with confidence. The first
+category, which is build the enterprise, includes consulting, AI foundations, and transformation.
+The second, create intelligence, covers enterprise intelligence and agentic orchestration. The
+third, run and scale with confidence, includes AI operations, trust and assurance, and frontier
+innovation.
+
+
+
+
+                         Page 8 of 20
+
+                                                                                   Tech Mahindra Limited
+                                                                                        October 15, 2026
+
+               Our principle is simple. AI revenue must be evidenced by client-funded work and reconcilable
+               to financial records. The validation process spans sales, delivery, and finance, distinguishing
+               direct AI revenue from AI-influenced pipeline and internal productivity benefits. We expect to
+               introduce AI revenue reporting as part of our H2 FY27 disclosures and continue it on an ongoing
+               basis, refining the methodology as our portfolio and the markets mature.
+
+
+               To conclude, our ambition goes beyond participating in the AI opportunity. It is to establish
+               Tech Mahindra as a differentiated, AI-led transformation partner, delivering measurable
+               business outcomes for clients, driving structural improvements in productivity, and creating a
+               foundation for sustained, profitable growth.
+
+
+               Project Helix is the engine of this transformation, bringing together AI toolchains across every
+               service line and AI-led transformation across every industry vertical. This is what AI Delivered
+               Right means for Tech Mahindra. Turning AI from a technology opportunity into a scalable
+               business advantage to our clients, our people, and our shareholders.
+
+
+               Thank you, and with this, I hand over to Rohit for detailed financial performance commentary.
+
+
+Rohit Anand:   Thanks, Atul. Good evening, everyone, and thank you all for joining. We delivered another
+               strong quarter with broad-based growth across verticals and geographies, 12th consecutive
+               quarter of margin expansion, and new deal wins exceeding $1 billion
+
+
+               Reported revenue stood at US$1,693 million, up 2% Q-o-Q and 6.8% Y-o-Y on a reported basis.
+               On a constant currency basis, revenue grew 2.4% Q-o-Q and 7.2% Y-o-Y. Organic revenue grew
+               2.3% Q-o-Q and 7% Y-o-Y in constant currency. Revenue in INR terms stood at INR16,180
+               crores, up 3% Q-o-Q and up 15.6% on a Y-o-Y basis.
+
+
+               Communications business grew 6% Q-o-Q, supported by ramp-up of large deals and strategic
+               new engagements. Retail, Transport and Logistics grew 9.6%, driven by scale-up of new deals
+               and growth in existing accounts. Technology, Media and Entertainment grew 2.8% Q-o-Q,
+               followed by Healthcare and Life Sciences at 1.4%.
+
+
+               BFSI grew at 0.4% Q-o-Q and 1% Q-o-Q in constant currency. Manufacturing revenue declined
+               3.9% sequentially against a higher prior-quarter base following the accelerated execution of a
+               large European automotive program in the prior quarter, which I'd mentioned last time. A
+               sequential revenue headwind associated with the program is expected in Q3 as well, though to a
+               much smaller extent.
+
+
+               Our total deal wins for the quarter stand at US$1,023 million. On a last-12-month basis, deal
+               wins stand at US$4,270 million, up 34.8% Y-o-Y. The momentum in the deal wins was broad-
+               based across verticals, across geographies through Comms, BFSI, Manufacturing, and Retail,
+               Logistics and Transport verticals.
+
+
+               EBIT for the quarter stood at US$250 million with an EBIT margin of 14.8%, up 40 basis points
+               on a Q-o-Q basis and 260 basis points on a Y-o-Y basis. The margin improvement was driven
+               by strong volume growth and Project Fortius savings, partially offset by the wage hikes. In rupee
+               terms, operating profit stood at INR2,387 crores, up 40.5% Y-o-Y, aided by INR depreciation.
+
+
+                                       Page 9 of 20
+
+                                                                     Tech Mahindra Limited
+                                                                          October 15, 2026
+
+Effective tax rate for the quarter came in at 29.9% due to a one-time tax adjustment related to
+prior periods tax matters. Excluding this one-time item, our tax rate was 26.6%. Profit after tax
+for the quarter was US$166 million, representing a 23.2% increase Y-o-Y. In INR terms, profit
+after tax stood at INR1,586 crores with a PAT margin of 9.8% and expansion of 130 basis points
+on a Y-o-Y basis.
+
+
+We generated US$135 million of free cash flow during the quarter. Although the cash flow this
+quarter was impacted by ramp-up of the new rebadged deals, which will normalize the next
+quarter. We reiterate our stance to maintain 90% to 100% free cash flow to PAT on a full-year
+basis. DSO stands at 88 days, up four days Q-o-Q, but down six days on a Y-o-Y basis.
+
+
+I will now share highlights of our progress in making AI-era investments. We continue to
+strengthen TechM Helix through strategic investments in industry solutions, engineering
+capabilities, and our people. Zero-Gravity telco architecture and Consumer Agentic Experience
+Studio are part of this effort to make AI more relevant to clients' business needs.
+
+
+We established the Toronto Innovation Hub to bring together client co-creation and AI
+innovation. Additionally, we launched the Engineering Experience Center to help organizations
+move faster from concept to commercialization of their products. This builds on our investment
+in Manufacturing Experience Center, Communication Experience Center, and Retail CPG
+Experience Center, with each center focusing on distinct technology and transformation needs
+for the industries we serve.
+
+
+We are also investing in AI models built for specific industries and sovereign requirements. Our
+focus is on solutions that understand clients' business context, give them greater control over
+their data, and make AI more practical and cost-effective to deploy. We launched Indus-Terra,
+a 30-billion-parameter model built with NVIDIA and AWS, a part of IndiaAI Mission.
+
+
+A key part of our AI investment is in deploying our workforce to support AI-led delivery. We
+introduced an AI-driven, skill-led model linking career progression to capability, domain
+proficiency, and AI fluency.
+
+
+Our hedge book as of September end stands at $0.4 billion. Under hedge accounting guideline,
+the mark-to-market movement was US$13.83 million, of which $8.7 million was recorded in the
+P&L and $5 million reflected in reserves. Our hedge book stands at less than 12 months in line
+with the changed hedging guidelines.
+
+
+Our return to capital employed stood at 31.2% for the quarter, reflecting a sequential
+improvement of 290 basis points. On a Y-o-Y basis, the ROCE improved by 680 basis points.
+The board has declared an interim dividend of INR15 per share, reaffirming our commitment to
+the laid-out capital allocation policy of returning 85% and above of free cash flow back to
+shareholders.
+
+
+To sum up, our Q2 performance reflects the execution of our strategy and the continued trust of
+our clients amid an evolving macroeconomic environment. We will continue to invest in
+capabilities that address clients' needs and application across engagement s while maintaining
+
+
+
+                        Page 10 of 20
+
+                                                                                      Tech Mahindra Limited
+                                                                                           October 15, 2026
+
+                financial discipline, support, sustained profitable growth. We reiterate that we remain on track
+                to achieve our full-year FY27 EBIT margin target of 15%.
+
+
+                As we mark our 40th anniversary and we recognize the strength built over this journey, enduring
+                client relationships, deep industry expertise, and the ability to adapt through successive waves
+                of change, our task now is to build on this strength and translate them into consistent business
+                performance while building a stronger business for the 3 years ahead.
+
+
+                In closing, I would like to thank our shareholders, who have been an integral part of this journey.
+                As Mohit shared earlier, the board has recommended 1:1 bonus share issue, allowing us to mark
+                the anniversary milestone with them for their continued trust and support. Our commitment to
+                our shareholders remain to build long-term value through disciplined execution and sustained
+                financial performance.
+
+
+                We can now open it up for question-and-answer.
+
+
+Moderator:      Thank you so much, sir. Ladies and gentlemen, we will now begin with the question-and-answer
+                session. The first question comes from the line of Kumar Rakesh with BNP Paribas. Please go
+                ahead.
+
+
+Kumar Rakesh:   Hi. Good evening. And thank you for taking my question. Mohit, my first question was more
+                about your service capabilities. You share the numbers by vertical and geography, and that is
+                clear to see that you are gaining share and there is a solid execution which is happening across
+                those two slices of your revenue.
+
+
+                But on service offering, we don't get to see a lot that what has transformed, especially in the last
+                couple of years and you have launched multiple new platforms, such as TechM Orion. How that
+                is helping you in gain more share? More importantly, where do you see that you have the
+                momentum and strong offering to continue this strong growth? Which are those pockets still left
+                for you to continue to capture?
+
+
+Mohit Joshi:    Sure. Thanks, Rakesh. Look, I think as is evidenced by our numbers this quarter, we had pretty
+                strong performance across, as you've seen. So, first from a vertical perspective, right, the fastest-
+                growing for us on a year-on-year basis was retail, which grew at about 9.5% Y-o-Y. But even
+                the slowest that we had was BFSI, which grew at 5.4% CC Y-o-Y, right? So really the growth
+                was within a band fairly high pretty much across the board.
+
+
+                And the reason I'm mentioning verticals, even though you asked about service lines, is because
+                the story from a service line perspective also is quite similar. We had very significant growth,
+                as you can imagine, in our digital enterprise applications.
+
+
+                So this is the ServiceNow, Salesforce, SAP, Oracle portfolio of our business. And this business
+                grew at almost 13% year-on-year, right? While even businesses which were relatively slower in
+                this quarter, like, for instance, our BPS business, still had a very healthy 6.5% year-on-year
+                growth. So there you have sort of the two ends of the spectrum. BPS, as you know, has
+                traditionally been our fastest-growing business for many years.
+
+
+
+                                         Page 11 of 20
+
+                                                                                        Tech Mahindra Limited
+                                                                                             October 15, 2026
+
+                The point I'm trying to make is that across our service lines as well, ADMS, digital core services,
+                which is infrastructure, cloud, security, network services; BPS; engineering services; and our
+                package applications business. Probably the one business which has been relatively weaker
+                compared to the others has been our experience design and our consulting businesses. But we're
+                very much in growth mode in these businesses. And as you know, for our BORN business, we
+                shifted the focus of that business from mid-market more to our largest enterprise clients. So that
+                transition is still very much in place.
+
+
+                But for our vertical businesses, for our service lines as well, growth has been strong across the
+                board. From our perspective, we see digital enterprise applications business continuing to be a
+                strong driver for our growth now and in the future. And we also see opportunities in engineering,
+                in BPS, in our digital core services business, which has done well.
+
+
+                Traditionally, ADMS, while it has grown very well this quarter, 7.6% year-on-year, that business
+                is actually seeing the productivity expectations on large contract renewals. So maybe that will
+                be a little bit muted. But overall, we remain optimistic about all of our service lines. The trick is
+                to have a differentiated AI toolchain for each and every single service line, and that is what we're
+                very focused on doing.
+
+
+                On the vertical side, we're focused on making sure that we have the industry transformation
+                roadmaps. I think a combination of both of them, the AI toolchain and the industry roadmaps,
+                will lead to above-industry-average growth rate across the verticals and the service lines.
+
+
+Kumar Rakesh:   Thanks a lot, Mohit, for quantifying the flavor on that. My second question was maybe around
+                margin. So earlier we have spoken about that our margin expansion journey would be more
+                driven by gross margin. Now after several quarters of head-count reduction, in this quarter, we
+                have now started seeing an increase in head count, which is great to see from growth perspective,
+                but also, it indicates that your utilization possibly at some stage will start peaking.
+
+
+                So, is it that your gross margin expansion potential is near to the peak where it could potentially
+                have led to, or you still see there is more expansion potential on the gross margin side?
+
+
+Mohit Joshi:    Okay. So, I'll just start, and then I'll pass it on to Rohit and maybe Atul, if they want to add right.
+                So, look, I think the thing is that for this quarter, obviously, we had, as a result of the significant
+                large deal with Orange, we had an employee transfer as well in certain geographies. And so, I
+                would not read too much into a movement in a single quarter.
+
+
+                As far as the margin expansion opportunity is concerned and the linkage to growth, look, while
+                our utilization for this quarter has been high, the reality is that we do expect, as a result of the
+                specific AI toolchain, we're building for each and every single service line, to be able to release
+                head count across our fixed-price projects and gives us an opportunity to continue to grow while
+                releasing head count from fixed-price projects to enable growth.
+
+
+                We don't believe for a moment that the gross margin opportunities in the business have been
+                fully tapped out, and we continue to work diligently to make sure that we can continue to expand
+                margins while we obviously prioritize on growth.
+
+
+
+                                         Page 12 of 20
+
+                                                                                            Tech Mahindra Limited
+                                                                                                 October 15, 2026
+
+Rohit Anand:          I think, Mohit, you covered well. So nothing more to add, Rakesh. All I would say is that, if you
+                      remember, when we started this journey, we had a huge gap in the structure that we have with
+                      years of experience, which, over a time, has become an advantage from an AI context
+                      perspective. So from a margin perspective, we've really not tapped into that.
+
+
+                      As we go forward, that opportunity of rationalizing towards the right equilibrium still exists
+                      versus the industry peers, right? While we continue to take advantage of that skill gap that we
+                      have. So I think we do see opportunities on gross margin that will continue not just for the second
+                      half, but the next three years as well, as we make our journey ahead.
+
+
+Kumar Rakesh:         Great. That's very reassuring. Thanks a lot, Mohit and Rohit.
+
+
+Mohit Joshi:          Thank you, Rakesh.
+
+
+Moderator:            Thank you. Our next question comes from the line of Sudheer Guntupalli with Kotak Mahindra
+                      AMC. Please go ahead.
+
+
+Sudheer Guntupalli:   Hi, Mohit and team. Congrats on a great set of numbers. My first question: some of the AI coding
+                      tools like Claude Code have been seeing stagnation in their ARR, at least for three-odd months
+                      now. Do you think that the peak of the deflation impact on services business is already behind
+                      if we were to take this ARR trajectory as some proxy for AI deflation? What are you
+                      incrementally seeing in your client conversations?
+
+
+Mohit Joshi:          Well, look, I think I don't want to comment on what Anthropic specifically is seeing in the
+                      Claude Code ARR expansion. But I do want to make the point which we've been making
+                      throughout, right? Is that this whole deflation debate is completely warped, in the sense that the
+                      opportunity for us is not really to deliver only existing work more efficiently. That has always
+                      been the case, right?
+
+
+                      You always have had to deliver existing work, whether through automation or through
+                      rationalization and streamlining, more efficiently. Really the opportunity for us is to take a wider
+                      scope of responsibility and to help clients achieve better outcomes while the complexity of their
+                      businesses is increasing dramatically. It is true that clients have started looking at open router
+                      and other models to be able to incrementally move AI inference workloads to cheaper open -
+                      source, open-weight models.
+
+
+                      But this is something that we had called out a couple of quarters ago, that the shift that people
+                      were expecting, that the revenue will move from services directly to the model builders who will
+                      continue to be able to scale up pricing limitlessly, we had said that is not going to happen. This
+                      is going to be like the cloud.
+
+
+                      The model capability is like the compute and storage capability, which continues to diminish in
+                      terms of pricing power, and clients will always have the flexibility, like there's not a single
+                      enterprise client I know, a Fortune 500 company, that uses only a single cloud. And so similarly,
+                      clients will use multiple models. And unlike the cloud, they have the option of open -source
+                      model as well. And so they will use that option even if it gives them 98% or 97% of what a
+                      frontier model gives.
+
+
+                                              Page 13 of 20
+
+                                                                                            Tech Mahindra Limited
+                                                                                                 October 15, 2026
+
+Sudheer Guntupalli:   Fair enough, Mohit. Secondly, how do you think about growth now? Your three-year plan
+                      envisaged outperformance versus larger peers on growth. Now with 7.2%-odd year-on-year
+                      growth, you are already significantly ahead of the large-cap peers. So, ceteris paribus, how do
+                      you think of the next growth milestone? Do you foresee a likelihood of growth potentially
+                      touching double digits sometime next year, assuming a stable macro? Or is there some other
+                      growth benchmark you are gunning for?
+
+
+Mohit Joshi:          I think, Sudheer, it's too early for us to start making commitments about the next three-year plan
+                      before we have completely met this three-year plan. As you can see, we've made significant
+                      progress. While we hope to be higher than the average, we are actually closer to double or triple
+                      the average so far in the first half of the year. We want to absolutely make sure that we nail it
+                      for the remainder of the year, deliver the margin, deliver the growth.
+
+
+                      But clearly, the \emphasis of the company has moved towards growth in the past three quarters,
+                      as we had always said as part of our initial roadmap. As we come closer to announcing the next
+                      three-year roadmap, we will, like we had the first time round, clearly identify the expectations
+                      in terms of growth.
+
+
+                      But I can promise you, without giving you a number today, that the focus of the company is very
+                      much on growth because that also gives us the operating leverage to expand our margins. But
+                      we will never be in a situation where we will be either buying revenue or doing deals that create
+                      long-term damage for the institution.
+
+
+Sudheer Guntupalli:   Fair enough, Mohit. Just one last quick question. The second half of the year, do you expect
+                      normal seasonality, or is there any peculiar change that you notice this year?
+
+
+Mohit Joshi:          No, we expect normal seasonality. We continue to see some weaknesses in our European auto
+                      manufacturing business, but those are all manageable within the existing portfolio that we have.
+                      So we do not expect unreasonable seasonality or unreasonable furloughs in Q3 or Q4.
+
+
+Sudheer Guntupalli:   Thanks, Mohit. All the very best.
+
+
+Mohit Joshi:          Thank you, Sudheer.
+
+
+Moderator:            Thank you. Our next question comes from the line of Abhishek Pathak with Motilal Oswal
+                      Financial Services Limited. Please go ahead.
+
+
+Abhishek Pathak:      Yes. Hi. Thank you for the opportunity. And, Mohit, congrats again on a great quarter. My
+                      question was around margins. I mean, you've kind of hit it absolutely out of the park when it
+                      comes to the margin guide. Now going forward, does it make sense to leverage AI to, like you
+                      said, drive more efficiencies around gross margins, or is there a possibility of, I mean, not buying
+                      growth, but kind of sacrificing a bit of that extra margin gains to maybe move towards near
+                      double-digit growth? So internally, in terms of that trade-off between margins and growth, how
+                      is the company thinking, and how should we kind of expect the priorities to line up going
+                      forward? Thank you.
+
+
+
+
+                                              Page 14 of 20
+
+                                                                                           Tech Mahindra Limited
+                                                                                                October 15, 2026
+
+Mohit Joshi:       Sure. So I think, look, one of our key focuses, and I sort of alluded to this, but I'll pull the threads
+                   together for this question. The first is we are building a differentiated AI toolchain for every
+                   single service line that we have in the company. As we build that differentiated AI toolchain, it
+                   will therefore enable us to get higher productivity, especially for our fixed-price and our
+                   managed services contracts, which will then, expand gross margin, but also allow us to grow
+                   revenue without necessarily -- so our high utilization just now doesn't mean that we cannot grow
+                   anymore, right?
+
+
+                   So we expect that to fully play into the remainder of the year and beyond, which is differentiated
+                   AI toolchain resulting in lesser greater productivity and lesser head-count requirements,
+                   therefore feeding back into our growth as those people are released from existing fixed-price
+                   projects.
+
+
+                   Secondly, we have now reached a stage where we are within 20 basis points of the margin
+                   aspiration that we had stated. But we had also said that as we get into the third year of the
+                   transformation roadmap the focus will very much pivot on growth, profitable growth, absolutely,
+                   but very much on growth.
+
+
+                   And I don't anticipate this to change in our next 3-year plan either. The focus of the company
+                   will very clearly be on outgrowing our peer group and, more than our peer group, really setting
+                   our own standards in terms of growth for TechM for the future. The future is very much about
+                   growth.
+
+
+Abhishek Pathak:   Thanks, Mohit. And just very quickly, just double-clicking on the vertical mix a bit, looks like
+                   Comms has stabilized quite nicely, and BFSI seems to be a little bit on and off. So again, kind
+                   of from a medium-term perspective, do you do you see Comms now leading growth for us? Or
+                   do you see BFSI kind of chipping in? And what interventions, if any, do we need to make on the
+                   BFSI side if you want to kind of grow slightly ahead of the market and gain some market share
+                   in that vertical? Thank you.
+
+
+Mohit Joshi:       Thanks. Thanks for that question. So look, I think firstly, I just want to point out that while
+                   Comms has obviously had a very good quarter as we've ramped up on the Orange large deal, the
+                   real standout over the past year or so has been our manufacturing business, right, which has
+                   consistently grown very fast, and our Retail, Travel and Transportation business, which has
+                   grown at 10% plus over the past 4 quarters or more, right?
+
+
+                   So we continue to see a broad-based growth. As far as the BFSI piece is concerned, we have
+                   grown at about 5.4% CC in the current quarter, but the past 2 quarters prior to this, right, we
+                   grew at upwards of 8%. And we fully expect to get back to that or higher levels of growth in the
+                   next quarter.
+
+
+                   From a BFSI perspective, look, we had set high aspirations for ourselves, and I think as President
+                   Kennedy had said, we do these things not because they're easy, but because they're hard.
+                   Obviously winning market share in BFSI, growing, shifting the revenue distribution of a large-
+                   sized company like ours is a hard thing to do.
+
+
+
+
+                                            Page 15 of 20
+
+                                                                                        Tech Mahindra Limited
+                                                                                             October 15, 2026
+
+                   We feel that we have all the ingredients now in place. We have made a few small changes to the
+                   team. We have brought in additional leadership, and we remain very confident about our medium
+                   to long-term opportunities in BFSI. It has been slower burn candidly than I had expected when
+                   I started, but I can assure you that clearly has a huge amount of focus within the organization.
+
+
+                   Not because the other verticals are less important, it's because the size of the prize in BFSI is
+                   very significant. But even at this BFSI is actually on a year-on-year basis, among our slower-
+                   growing verticals, but we are still growing in line or slightly ahead of our larger peers.
+
+
+Abhishek Pathak:   Thanks, Mohit, and all the best.
+
+
+Mohit Joshi:       Thank you.
+
+
+Moderator:         Thank you. Our next question comes from the line of Rod B with DeepDive Equity Research.
+                   Please go ahead.
+
+
+Rod B:             Thank you.
+
+
+Mohit Joshi:       Hello, Rod.
+
+
+Rod B:             Yes. Hey, first on -- hey, there. First question on growth drivers. I particularly want to ask
+                   whether your growth is primarily coming from deeper wallet share within your existing strategic
+                   accounts or from clients that are improving their overall spending volume, which is enabling
+                   Tech Mahindra to maybe move up into higher spending tiers? Can you add some specificity on
+                   that?
+
+
+Mohit Joshi:       Sure. Thank you, Rod. So look, I think this is a very important question, because what we've
+                   said just when we started out our journey is that it is very important that we continue to win
+                   market share and we continue to grow in our largest customers, because I've always felt that
+                   when growth moves from the largest customer to the more marginal customers, that growth is
+                   more brittle.
+
+
+                   And so therefore, as a result of our turbocharge program, we have always been focused on
+                   revenue from accounts where we get more than US$20 million in revenues, and we do report it
+                   on an annual basis. I'm happy to share that revenues from accounts with more than US$20
+                   million in revenues continue to outpace the rest of the company. For the most recent quarter, it
+                   was 3.1% quarter-on-quarter growth from our largest clients and a shockingly high 11.7% on a
+                   year-on-year basis.
+
+
+                   So therefore, that gives us the comfort that growth is coming in accounts where we are therefore,
+                   getting more into multi-product sales, we are winning market share, also referenced by our very
+                   high NPS for these customers. We believe that these 20 million-plus customers still have very
+                   significant headroom for growth.
+
+
+                   And candidly, if our Top 10 accounts were the same size as the Top 10 accounts for an Infosys
+                   or for an Accenture or a TCS, the organization would be much larger, right? So the average size
+
+
+
+
+                                           Page 16 of 20
+
+                                                                                    Tech Mahindra Limited
+                                                                                         October 15, 2026
+
+               of these accounts is increasing significantly ahead of the rest of the company, and we believe it's
+               a very good marker for future growth and future success.
+
+
+Rod B:         That's helpful color. I want to follow-up question on quantum. You highlighted multiple
+               quantum-related initiatives for the quarter. You've got the partnership, I think, with I-Hub
+               Quantum Technology Foundation, and then the win at the UK National Quantum Computing
+               Centre, the Hackathon. So, the question here is, could you share to what extent you're seeing a
+               business upside opportunity in quantum over the next 3 to 5 years?
+
+
+Mohit Joshi:   Thank you, Rod. Look, I think quantum is a very, very interesting and exciting space. And if
+               you look at what is really happening in the broader market on quantum, right? Quantum
+               valuations are through the roof. There's a company that recently came into th e market with, I
+               think, US$30 million in revenues and has now a US$15 billion market capitalization, right?
+
+
+               And quantum really is a technology that plays a lot to many specific areas where our clients are
+               interested in. For instance, for telecom, there is a huge amount of interest in using quantum for
+               network optimization and for reducing energy consumption within grids, right? Just to give you
+               sort of a ballpark number, something like between 1% and 2% of the entire energy consumption
+               of the UK goes to support BT's networks, right, roughly.
+
+
+               So quantum is a very powerful tool over here for them to optimize the network and to reduce
+               energy consumption. The same is true for operators really across the world, right? And so by
+               building this quantum capability ahead of all of our peers, and for those who follow quantum,
+               they will know that the National Quantum Computing Centre in the UK is the single most
+               prestigious quantum research organization in the world.
+
+
+               And for Tech Mahindra to be number one in the annual Hackathon, I feel, and with a telco
+               network optimization use case, I think is a remarkable statement of prowess. The most obvious
+               use case for quantum, obviously, is post-quantum cryptography, and both from an R&D
+               perspective, as well as from a customer research perspective, our teams continue to make
+               significant progress over here.
+
+
+               While it will not be an important revenue line item for us over the next 12 months or so, beyond
+               that, as the number of qubits per quantum computer keep increasing, we feel this will become a
+               commercially viable technology. And really, we're talking about modernization for AI now.
+               We'll be talking about modernization, code modernization from a quantum perspective. And all
+               this quantum use cases getting a sort of lead onto the market at this stage, we feel, will yield
+               tremendous results in the future.
+
+
+Rod B:         Thank you.
+
+
+Mohit Joshi:   Thank you, Rod.
+
+
+Moderator:     Thank you. Our next question comes from the line of Gaurav Rateria with Morgan Stanley.
+               Please go ahead.
+
+
+
+
+                                       Page 17 of 20
+
+                                                                                        Tech Mahindra Limited
+                                                                                             October 15, 2026
+
+Gaurav Rateria:   Hi. Thanks for taking my questions. Congratulations on a great set of numbers. I have three
+                  questions. First one for Mohit, for any outlook on communication vertical based on the kind of
+                  pipeline and demand drivers that you're seeing.
+
+
+                  Second question is for Rohit, on outlook from margin perspective, the key driver being fixed-
+                  price project that you have been highlighting, how much of the juice we have squeezed out from
+                  that? And at what point in time, the employee pyramid will start working as one of the key lever
+                  for margins?
+
+
+                  And the last question is for Atul, great case studies that you explained on some of the AI tools
+                  and use cases. A lot of these billing actually get optically clubbed either in time and material and
+                  fixed-price, right? But are you seeing some real use cases of where you kind of end-to-end
+                  owning the entire transformation, and it's like a real outcome-based model, which kind of makes
+                  the entire engagement very, very non-linear? Thank you.
+
+
+Mohit Joshi:      Yes. Thanks. So I'll just take the first question then, Gaurav, very quickly, which is the Comms
+                  pipeline remains strong. Visibility in Comms remains strong. Obviously, there is a significant
+                  amount of client concentration that we have in this business, and so therefore, there is a degree
+                  of volatility that comes there.
+
+
+                  But many of the deals that we spoke about this quarter, for instance, the mainframe
+                  modernization one in the UK or the Australian operator with whom we won a very large
+                  consolidation opportunity, these will start scaling up in the next few quarters and so therefore
+                  should provide the necessary momentum for our business. We continue to be actively involved
+                  in many large-deal pursuits, and we remain very confident about our ability to win this business.
+                  Rohit?
+
+
+Rohit Anand:      Yes. So, Gaurav, on margins, I would say when you look at the business on the T&M side, as
+                  I've mentioned before, we've done a lot of progress. So when we base ourselves to best -in-class
+                  in the industry, we're quite close to that. We'll continue to improve it based on new skills, new
+                  demand. So that progress will continue, but the impact will not be meaningful.
+
+
+                  From an FP perspective, as we've discussed, you know, we've made significant progress over
+                  the last few years. Now this year that was majority of the driver. But as we go forward, I would
+                  say still, you know, we've got enough opportunity there as we continue to drive efficiency,
+                  automation, and rationalization in terms of how we deliver those programs. So a significant
+                  opportunity still remaining.
+
+
+                  When you look at the pyramid, as I mentioned earlier, I think when we started the journey, there
+                  was a gap of at least 3% to 4% on margin that could have been driven by pyramid rationalization,
+                  which we've not really exercised, because from a demand perspective, that pyramid's been a
+                  huge benefit for us, and we're trying to make sure that we get the right billing and the appropriate
+                  realization for that skill.
+
+
+                  So as we go forward, definitely there's a movement that we can still drive on that in terms of
+                  margin expansion. Now the question that Mohit then articulated or the response he gave is that
+
+
+
+                                            Page 18 of 20
+
+                                                                                      Tech Mahindra Limited
+                                                                                           October 15, 2026
+
+                opportunity is enough on margin, how we balance that to reinvest in growth, something we'll
+                share as we discuss the long-term plan with you. Atul?
+
+
+Atul Soneja:    Yes. And again, very quickly on how are we looking at it from a pricing perspective. See, if you
+                look at it, about three quarters back, we had spoken about how we had come out with a pricing
+                mechanism which could price for both the human and agents working together and where is a
+                human in the loop and where is a human on the loop. And that pricing model, as we are taking
+                to our clients as an outcome-based process, I think it is being very well understood and adopted.
+
+
+                We have seen some early successes where clients want to use that in specific portfolios. We
+                have seen some successes in F&A processes where the clients are looking at using our Vector
+                Squad-based pricing to really start looking at driving outcomes which was different from a
+                typical FP or a T&M kind of contracts. But these models and the pricing models of agent and
+                humans working together is being adopted across multiple industry segment s, right?
+
+
+                I mean, telco, we have a couple of use cases, in financial services as well. So the adoption is
+                increasing. This requires maturity also in our client organizations to understand how this will
+                work, how will the token economics work, because we are pricing the tokens as well when we
+                are looking at agent pricing along with the human in the loop. So, yes, the adoption is increasing
+                significantly from the pilot that was there about a couple of quarters back.
+
+
+Moderator:      Thank you.
+
+
+Mohit Joshi:    Thank you, Gaurav.
+
+
+Moderator:      Our next question comes from the line of Sandeep Shah with Equirus Securities. Please go ahead.
+
+
+Sandeep Shah:   Yes. Thanks for the opportunity. Mohit, just first question with some slowdown in the AI-led
+                capex by the enterprise client, do you believe the budgets of the enterprise client can now shift
+                towards system integration and services? Whether your discussion with the client imply these
+                kind of a pipeline? If yes, whether that pipeline is getting converted into deal wins considering
+                the macro issue which may keep the client slightly cautious?
+
+
+Mohit Joshi:    That's a very good question. A very good question. Thank you for that. Look, I'll mention a
+                couple of things. One is, I don't think client spend on capex -- on AI capex was ever a very
+                significant factor candidly in budgets, right? Because most enterprise clients are spending a very
+                small fraction of their overall IT budget on tokens. Even for the largest companies, it's in the
+                tens of millions, not the hundreds of millions of dollars. It wasn't a very significant item.
+
+
+                The more significant item candidly for our clients was the increase in cloud costs and the
+                increase in the hardware costs, right, because of the chip and memory cost increases, which can
+                partly be attributed to the large AI build-out that was happening. Now that AI build-out doesn't
+                happen anymore, and the cost of memory and semiconductors goes down, it is possible that
+                clients will be spending less on hardware, and so therefore, they will have more to spend on
+                services or more broadly on technology. So I think that on an overall basis, it should be positive
+                for the industry.
+
+
+
+                                        Page 19 of 20
+
+                                                                                        Tech Mahindra Limited
+                                                                                             October 15, 2026
+
+                And I do feel that sort of the cost increase on tokens will not be a very material factor candidly
+                for most client IT budgets. Whether that results in sort of a significant benefit for the industry,
+                that is harder to gauge. I feel that clients, whether or not they deliver productivity internally, will
+                continue to expect productivity from their partners and from their vendors.
+
+
+                And as you know, the competitive pressures within the industry are still very high. So that's the
+                sort of a trade-off, right? I do feel that a lot of the cost compression, or the price compression
+                that we've seen in the industry, has been because of competitive intensity rather than purely
+                because of budget diversion towards AI.
+
+
+Sandeep Shah:   Okay. Thanks. And, Rohit, just one passing comment you made that the reversal of one-time
+                project of 60, 70 bps has not reversed in 2Q. It may reverse in 3Q. Can you give some clarity on
+                this?
+
+
+Rohit Anand:    Are you talking about the revenue impact from the European auto? That's what you are asking,
+                Sandeep?
+
+
+Sandeep Shah:   Yes, Yes.
+
+
+Rohit Anand:    Yes. So that reduction Q-o-Q majority has happened, but there's an impact again in Q3, which
+                will be broadly 0.5%, and that will then normalize after that.
+
+
+Sandeep Shah:   Okay. So this reversal is happening in two quarters.
+
+
+Rohit Anand:    No, it's not reversal. It's not reversal, Sandeep. It's a ramp-up that happened in Q1 and hence, a
+                Q-o-Q decline over Q2 and Q3.
+
+
+Sandeep Shah:   Got it. Thank you.
+
+
+Rohit Anand:    Yes. Thanks.
+
+
+Moderator:      Thank you so much. Ladies and gentlemen, that was the last question for today due to the time
+                constraint. I now hand the conference over to the management for the closing remarks. Thank
+                you, and over to you team.
+
+
+Mohit Joshi:    Well, thank you all. Thank you all for your questions. From our perspective, another strong
+                quarter really reinforces our belief that the investments that we have made over the last three
+                years are delivering results across the business. We are seeing clear momentum in client
+                engagement, AI adoption, and deal activity, while we continue to strengthen our industry-
+                leading execution.
+
+
+                As we move into the second half of FY27, we remain confident about sustaining business
+                momentum going into the December quarter. On behalf of the entire Tech Mahindra family, I
+                would like to wish you and your families an early and very Happy Diwali. Thank you.
+
+
+Moderator:      Thank you so much, sir. Ladies and gentlemen, on behalf of Tech Mahindra Limited, that
+                concludes today's call. Thank you for joining us and you may now disconnect your lines.
+
+
+
+                                         Page 20 of 20
+

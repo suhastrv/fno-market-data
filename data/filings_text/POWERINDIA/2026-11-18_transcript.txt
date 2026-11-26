@@ -1,0 +1,1104 @@
+November 18, 2026
+                                                                                  HITACHI
+The Secretary,                                          The Manager,
+Listing Department,                                     Listing Department,
+BSE Limited,                                            National Stock Exchange of India Limited,
+1st Floor, Phiroze Jeejeebhoy Towers,                   ‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,
+Dalal Street,                                           Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 001                                        Mumbai - 400 051
+Scrip Code: 543187                                      Scrip Symbol: POWERINDIA
+
+
+Subject: Transcript of the conference call with Analysts/ Investors held on November 12, 2026
+
+Dear Sir / Madam,
+
+Pursuant to Regulation 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we are enclosing herewith the transcript of the conference call that was organized with
+the Analysts/Investors on Thursday, November 12, 2026 and the same can be accessed at:
+https://www.hitachienergy.com/in/en/investor-relations/analyst-section.
+
+Kindly take the same on your records.
+
+Thank you,
+
+Yours faithfully,
+
+For Hitachi Energy India Limited
+AMMATANDA                   Digitally signed by
+                            AMMATANDA CHINNAPPA
+CHINNAPPA                   POOVANNA
+                            Date: 2026.11.18 13:10:24
+POOVANNA                    +05'30'
+Poovanna Ammatanda
+General Counsel and Company Secretary
+
+
+Encl.: as above
+
+
+
+
+Hitachi Energy India Limited
+Registered and Corporate Office:
+8th Floor, Brigade Opus, 70/401,
+Kodigehalli Main Road, Bengaluru - 560 092
+Email ID: investors@hitachienergy.com
+Phone: 080 68473700
+CIN: L31904KA2019PLC121597
+hitachienergy.com/in
+
+                                                                               HITACHI
+                           Hitachi Energy India Limited
+                   “Q2 FY27 Analyst Conference Call”
+                                    November 12, 2026
+
+
+
+
+MANAGEMENT:
+
+
+Mr. N Venu – Managing Director & CEO, Hitachi Energy India Limited
+Mr. Ajay Singh – Chief Financial Officer, Hitachi Energy India Limited
+Mr. Poovanna Ammatanda - General Counsel & Company Secretary, Hitachi Energy India Limited
+Ms. Priyanka Bhagat – Investor Relations, Hitachi Energy India Limited
+
+
+
+
+                                                 Page 1 of 17
+
+                                                                                  Hitachi Energy India Limited
+                                                                                           November 12, 2026
+
+
+
+
+Moderator:         Ladies and gentlemen, good day and welcome to Hitachi Energy India Limited Q2 FY27 Analyst
+                   Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there
+                   will be an opportunity for you to ask questions after the presentation concludes. Should you need
+                   assistance during this conference call, please signal an operator by pressing “*” then “0” on your
+                   touchtone phone. Please note, this conference is being recorded.
+
+
+                   I now hand the conference over to Ms. Priyanka Bhagat, Investor Relations, Hitachi Energy
+                   India Limited. Thank you, and over to you.
+
+
+Priyanka Bhagat:   Good evening, everyone, and thank you for joining Hitachi Energy India's Q2FY27 Earnings
+                   Conference Call. We appreciate your continued interest in the company and welcome this
+                   opportunity to take you through the performance of the company. Before we begin, I would like
+                   to remind everyone that certain statements made during today's call may constitute forward-
+                   looking statements.
+
+
+                   These are based on our current expectations and are subject to risks and uncertainties that may
+                   cause actual results to differ materially from those expressed or implied. With that, I am pleased
+                   to invite Mr. N. Venu, Managing Director and CEO of Hitachi Energy India Limited, to share
+                   his perspective on our performance.
+
+
+Venu Nuguri:       Thank you, Priyanka, and good evening, ladies, and gentlemen. Thank you very much for joining
+                   our Hitachi Energy India's Q2FY27 Earnings Conference Call. Let me begin by wishing all of
+                   you a belated happy Diwali. Hope this Diwali will bring to you and your families and loved ones
+                   a lot of prosperity, happiness, wealth, and health. Today, we announced our results for the second
+                   quarter and first half of FY27. I will take you through our performance and some of the key
+                   developments during this period.
+
+
+                   You can follow the presentation through the webcast or download it from the stock exchange
+                   website. I will refer to the relevant slide numbers as we progress. I am joined today by our CFO,
+                   Ajay Singh, and Poovanna Ammatanda, General Counsel and Company Secretary. Before we
+                   turn to the numbers, let me briefly share how we see the energy landscape evolving in India.
+
+
+                   Electrification is expanding across industry, mobility, infrastructure, and households, while the
+                   way electricity is generated and consumed is also changing. Electricity is becoming backbone
+                   of India's economic growth, and like the International Energy Agency suggests, we are in the
+                   “Age of electricity.”
+
+
+                   India's grid investment cycle is being driven by a structural transformation in how electricity is
+                   generated, transmitted, and consumed. Renewables, electrification, and digital infrastructure are
+                   reinforcing this long-term need.
+
+
+                   We are moving from centralized and predictable generation and consumption to a much more
+                   distributed, dynamic, and electricity-intensive system. Renewables are changing where and
+                   when power is generated. Rooftop solar is creating two-way power flows. Electrification is
+                   adding new sources of demand. Data centers and AI are adding another layer of concentrated
+
+
+                                           Page 2 of 17
+
+                                                                Hitachi Energy India Limited
+                                                                         November 12, 2026
+
+power requirements. Electricity is becoming central to India's economic growth, and in these
+times, it has become critical to India's energy security too.
+
+
+All this places the grid at the center of the transition. The grid now needs to do much more than
+transmit electricity. It needs to balance variability, manage bidirectional power flows, respond
+to changing demand patterns, and maintain reliability in real time. That requires continued
+investments in transmission, substations, grid expansions, digitalization, automation, protection,
+control, and energy storage. Importantly, these investments need to happen ahead of demand,
+not after it.
+
+
+Grid infrastructure takes years to plan and build. What we are investing in today must therefore
+be ready for the electricity system India will need tomorrow. Energy security further strengthens
+this imperative. Renewable energy, electrification, and localizations are increasingly important
+not only from a sustainability perspective, but also for India's resilience and competitiveness.
+For Hitachi Energy India, this structural transformation plays directly to the breadth of our
+portfolio and capabilities.
+
+
+Our focus remains clear: execute with discipline today while investing in the capacity,
+technology, talent required for the grid of tomorrow.
+
+
+With that, let me take you through the performance for Q2 and H1 FY27.
+
+
+Slide 3: License to operate: Safety
+
+At Hitachi Energy, safety, integrity and quality are our license to operate and remain
+fundamental to how we run our businesses.
+
+
+During the first half, we conducted more than 1,100 life-saving rule inspections and more than
+2,000 safety observation tours, enabling us to close all high-risk hazards identified during the
+period. We also continued our health and safety programs and training across our facilities,
+keeping us firmly focused on achieving our total recordable injury frequency rate (TRIFR) target
+of 0.09 at Hitachi Energy. Our motto is to ensure that people who work for us directly or
+indirectly, they go home safely every day.
+
+
+Moving to the next slide number 4
+
+
+Slide 4: ESG targets and action plan
+
+Sustainability continues to be central to our strategy, particularly the decarbonization of our
+operations. We expect to achieve most of our 2030 sustainability targets by the end of this
+financial year. Our progress is also being recognized externally.
+
+
+During the quarter, our Peenya plant in Bengaluru received the “Excellence in Waste
+Management” Award from Federation of Karnataka Chambers of Commerce and Industry in
+association with the UN Global Compact Network India. At the same time, our CRISIL ESG
+score improved from 61 in 2025 to 69 in 2026, reflecting the progress we continue to make
+across our sustainability agenda.
+
+
+
+
+                         Page 3 of 17
+
+                                                                Hitachi Energy India Limited
+                                                                         November 12, 2026
+
+ Moving to the slide number 5
+
+
+ Slide 5: India's energy transition driving grid investments
+
+ As you know, India's energy transition continues to drive investments across the grid, supported
+ by renewable generation and electrification and growing digital infrastructure.
+
+
+ Renewable energy capacity reached almost 300 GW, to be specific, 299.25 GW by the end of
+ September 2026, against India's 900 GW ambition for 2035-36. As generation capacity expands,
+ the focus is increasingly shifting towards the transmission and storage infrastructure required to
+ connect these new sources of power with demand.
+
+
+ More importantly, long-term plans are now translating into approvals and investments. The
+ recent cabinet approvals, including PM-DHARA, the Green Energy Corridor Phase-III, represent
+ another step in this direction, with around Rs 1.86 lakh crores of investments moving forward,
+ including investment in 50 GWh of battery energy storage.
+
+
+ In addition to this, to support large-scale renewable energy integration, India has approved its
+ first-ever 1150 kV AC system to strengthen inter-regional connectivity.
+
+
+ This transition from planning to approval reinforces our conviction that grid investment is a
+ multi-year structural opportunity, consistent with the outlook we have been communicating over
+ the past several quarters. Data centers represent another opportunity. The market outlook
+ projects operational capacity of 5- 8 GW by 2030, compared with 1.57 GW in August 2026.
+
+
+ Electricity demand from data centers could reach anywhere between 15- 17 GW by 2032. Please
+ note, all these are market projections based on our various reports, CEA, and other things, rather
+ than our company guidance. The slide also highlights developments in nuclear power, mobility,
+ and semiconductors. Together, these areas broaden the requirements for a reliable electricity
+ infrastructure.
+
+
+ Moving to slide 6
+
+ Slide 6: Solid performance driving growth and building margins
+
+ Against this market backdrop, we secured orders worth Rs 4,120.8 crores during Q2FY27, taking
+ our H1FY27 order intake to Rs 9,217.3 crores.
+
+
+ To provide a more meaningful view of the underlying business momentum, we have also
+ presented order growth excluding HVDC. On this comparable basis, Q2 FY27 order intake grew
+ 85.9% YoY and 21.8% QoQ. For H1 FY27, order intake grew 53.1% compared with H1 FY26,
+ reflecting strong momentum across the underlying business.
+
+
+ This strong order momentum was complemented by disciplined execution. During Q2 FY27,
+revenue reached ₹2,996.5 crores, increasing to 63.5% YoY and 20.2% QoQ. This took H1 FY27
+revenue to ₹5,490.2 crores, up 65.8% compared with H1 FY26.
+
+
+Despite the product mix executed during the quarter, continued supply-chain pressures and raw-
+
+                         Page 4 of 17
+
+                                                                   Hitachi Energy India Limited
+                                                                            November 12, 2026
+
+  material price escalation, we maintained a healthy double-digit operational EBITDA margin of
+  16.5% in Q2 FY27, demonstrating the resilience of our operations and continued execution
+  discipline.
+
+
+  Growth in order intake during the quarter was supported by wins across segments. Among the key
+  orders were four TBCB orders from two leading EPC players, including a STATCOM order. In
+  grid automation, we secured multiple orders from two leading utilities, further strengthening our
+  portfolio of strategic wins. We also continued to see strong traction in the data center segment,
+  with multiple orders from global hyperscalers. What makes this quarter particularly noteworthy is
+  the breadth of our service orders, including an order from a semiconductor customer, reflecting
+  the expanding application of our technologies across emerging, high-growth sectors.
+
+
+  As a result, we closed the quarter with a strong order backlog of Rs 33,335.4 crores, representing
+  robust double-digit growth year-on-year and providing healthy revenue visibility for the coming
+  years
+
+
+  Let us move to next slide.
+
+ Slide 7: Powering growth through successful project execution
+
+ Technology leadership must be matched by reliable project execution, and that has been our
+ hallmark for several quarters. During the quarter, we delivered several notable projects across grid
+ infrastructure.
+
+
+We have delivered the first of its kind, India's first grid-forming STATCOM projects, 400 kV, 2x
+550 MVAR STATCOM projects in Fatehgarh. Proud to highlight the inauguration of our major grid
+automation project for the country's largest power utility, covering more than 180,000 circuit
+kilometers of transmission line.
+
+
+These projects reinforce our execution strength across industries, segments, and geographies. Our
+end-to-end capabilities enable us to deliver reliable solutions at scale, supporting our customers and
+the modernization of the power grid.
+
+
+Beyond project delivery, we continue to invest in capacity building to support long-term growth,
+which we are going to discuss in the next slide.
+
+
+Slide 8: Capex completion targets: 2026-2028
+
+With a robust order backlog and a strong opportunity pipeline ahead of us, we have been saying this,
+we continue to invest ahead of demand to position the business for the next phase of growth.
+
+
+We have communicated these investments to the market over time, and I would now like to give
+you a perspective on how they are strengthening our readiness across the portfolio. Our capex
+program spans several strategic projects across transformers, high voltage products, and grid
+automation. These investments are aim at strengthening manufacturing readiness to capture the
+opportunities emerging from the continued expansion and modernization of the grid.
+
+
+
+
+                               Page 5 of 17
+
+                                                                   Hitachi Energy India Limited
+                                                                            November 12, 2026
+
+Majority of these projects are targeted for completion by the end of next year, progressively adding
+capacity across our portfolio. In parallel, our new large power transformer facility, which we just
+announced and started, is targeted for 2028, further strengthening our long-term manufacturing
+capabilities.
+
+
+Slide 9: Powering India’s energy future through collaboration and leadership
+
+Progress requires diverse perspectives, healthy debate, and a willingness to navigate trade-offs
+together, which came as the essence of these conversations.
+
+
+During the quarter, we actively engaged in talent development, innovation, and industry thought
+leadership through several key initiatives:
+
+
+     India–Japan Annual Summit in the presence of Hon'ble Prime Minister Shri Narendra Modi
+      and Hon'ble Prime Minister of Japan, Sanae Takaichi
+
+     As the energy transition accelerates, conversations with peers across the sector help us better
+      understand how the grid must evolve to meet changing demands. Gatherings like
+      #CIGRE2026 demonstrate productive discussions with customers, partners, and global
+      energy leaders focused on long-term planning for grid connections.
+     Our meeting with the Hon’ble Chief Minister of Tamil Nadu reaffirmed the importance of
+      harnessing local talent and capabilities to accelerate the development of India’s clean energy
+      infrastructure.
+     Hosted engineering students at Vadodara Energy Technology Experience Center is notable
+      example of how companies can build future ready talents by bridging the gap between
+      education and real time experience.
+
+
+Slide 10: Order growth in transmission and industries segment fuelled Q2FY27 performance
+
+Order growth in the domestic market excluding HVDC orders during Q2FY27 was driven by strong
+momentum across transmission, industries, and data center.
+
+
+Looking at the order mix, products remained the largest component at 60%, while the project share
+increased to 34% from 19% a year earlier. Service represented approximately 7% of orders. The
+sectoral mix became more balanced compared with the utilities-heavy mix last year. Utilities
+accounted for 52%, industries for 24%, and transport and infrastructure 23%. We also saw a shift in
+domestic channels, with EPC and distributers accounting for higher shares of orders than in the
+previous year.
+
+
+Overall, the quarter’s order composition shows a larger contribution from projects and a broader
+domestic sector mix. These percentages describe the composition of orders, so changes in share
+should not be interpreted as changes in absolute order value.
+
+
+Slide 11: Export and service orders are key levers of growth
+
+Our Service business is demonstrating strong momentum, with order intake growing 77.1% YoY in
+Q2 FY27. This growth was broad-based, with wins across utilities, industries and EPC customers
+
+
+
+                            Page 6 of 17
+
+                                                                                 Hitachi Energy India Limited
+                                                                                          November 12, 2026
+
+              for digitally enabled services and service-level agreements (SLAs), GIS augmentation, and
+              extensions for substations.
+              Our export business also maintained healthy momentum. The export orders in Q2 FY27 grew 41%
+              YoY, with wins spanning Asia, Africa, the Middle East, Europe, and the USA, (including TenneT
+              Order). This geographic breadth reflects the growing role of our India operations in serving both
+              domestic and global demand.
+
+
+              For the next two slides, I now hand over the call to our CFO, Ajay Singh, for a detailed analysis of
+              our financial performance. Over to you.
+
+
+Ajay Singh:   Thank you, Venu, and good evening, everyone. I will just run through the financial performance for
+              Q2FY27.
+
+
+              Slide 12: Financial performance
+
+
+              If you see the slide for the Q2FY27, the order booking was Rs 4,120.8 crores. Excluding HVDC,
+              we saw strong momentum in Q2 FY27, with order intake growing 85.9% YoY and 21.8%
+              sequentially Even if you see half-yearly basis, we reached Rs 9,217.3 crores of orders. If I compare
+              with the last year, order book of half-yearly, there is a dip of 32%, but if you remove the HVDC
+              order, then the growth is 53.1%.
+
+
+              Revenue from operations was Rs 2,996.5 crores with the robust execution of the order backlog, and
+              we achieved 63.5% growth Y-o-Y on the revenues. Now, if I compare on a half-yearly basis, we
+              reached Rs 5,490.2 crores, showing a huge growth of 65.8% over the same period last year.
+
+
+              On profitability, PBT grew by 22% YoY to Rs 430.4 crores in Q2FY27 and QoQ PBT growth was
+              10.5%. On a half-yearly basis, PBT grew to Rs 819.9 crores, which is 54.8% growth YoY.
+
+
+              PAT reached Rs 318.5 crores in Q2FY27, which is 20.5% YoY growth compared with Q2F26. On
+              a half-yearly basis, we reached Rs 612 crores, which is 54.7% YoY growth.
+
+
+              On operational performance, EBITDA (in absolute terms) increased 69.5% YoY and 23.6%
+              sequentially to Rs 494.4 crores in Q2 FY27. For H1 FY27, EBITDA reached Rs 894.3 crores, nearly
+              double the corresponding prior year period, demonstrating the continued resilience of our underlying
+              operations. Operational EBITDA margin, we have achieved 16.5%.
+
+
+              It is also important to highlight that PBT and PAT for the quarter include the impact of a Rs 88.1
+              crore notional forex exchange loss. As this is non-operational in nature, it is excluded from EBITDA.
+              Accordingly, EBITDA provides a clearer view of the underlying operational performance and
+              resilience of the business during the quarter.
+
+
+              Slide 13: Financial statement analysis
+
+
+              Let us now take a deeper look at our financial performance.
+
+
+
+
+                                            Page 7 of 17
+
+                                                                                      Hitachi Energy India Limited
+                                                                                               November 12, 2026
+
+                  During the quarter, other income is Rs 56.8 crores, coming from the interest income on the deposits
+                  that we have put into the bank. Our material cost, if you see, is 61.7%. which is moving based on
+                  the product mix that we have executed.
+
+
+                  Personnel expenses are 6.2% for the quarter. Operational expenses, that is other expenses, is 16.6%.
+                  In this quarter, we have exchange and commodity loss of Rs 56.1 crores, that is 1.9%. Depreciation
+                  and finance costs are in line. And overall if you see, we closed PBT of Rs 430.4 crores, that is 14.4%.
+                  PAT of Rs 318.5 crores, that is 10.6%. So operationally, I think whatever we have been talking, we
+                  have been going in that direction only.
+
+
+                  With this, I would like to hand over to Venu for the next slide.
+
+
+Venu Nuguri:      Thank you, Ajay. To go to the last slide before we open for Q&A.
+
+
+                  Slide 14: Priorities
+
+
+                  The first half of the year demonstrates the strength of our business model and disciplined execution.
+                  We delivered robust growth in orders, revenues, and profitability, while continuing to invest in
+                  capacity, technology, and talent. Our record order backlog and healthy bidding pipeline provide
+                  strong visibility for growth. Our focus is on translating this opportunity into disciplined execution
+                  and sustainable value creation.
+
+
+                  For FY27, our priorities remain clear: strengthen our core businesses in Utilities and HVDC, build
+                  momentum in Mobility, and enhance our Services business. We will also pursue opportunities in
+                  battery energy storage and data centers, while expanding our exports and digital businesses.
+
+
+                  Our priority is to convert our strong backlog into profitable growth, supported by capacity
+                  expansion, operational excellence, productivity, quality, and customer satisfaction.
+
+
+                  Alongside this, we will continue to upskill and cross-skill our workforce to build the capabilities
+                  required for the energy transition and our long-term growth.
+
+
+                  We remain confident in our ability to create long-term value for all stakeholders while contributing
+                  to a more resilient, secure, and sustainable energy future.
+
+
+                  With that, we would now open the floor for the Q&A. Thank you.
+
+
+   Moderator:     Thank you very much. We will now begin the question-and-answer session. We will take our first
+                  question from the line of Mohit Kumar from ICICI Securities. Please go ahead.
+
+
+   Mohit Kumar:   Yes, good evening.
+
+
+   Venu Nuguri:   Good evening.
+
+
+   Mohit Kumar:   Congratulations on an exceptionally good quarter and thanks for the opportunity.
+
+
+   Venu Nuguri:   Thank you.
+
+                                               Page 8 of 17
+
+                                                                                    Hitachi Energy India Limited
+                                                                                             November 12, 2026
+
+Mohit Kumar:    My first question is, sir, can we just talk about the execution progress on both the HVDC contracts;
+                Bhadla to Fatehpur and Khavda to Nagpur, and what percentage of contracts has been booked in
+                revenue till now? If not, when do we expect the revenue bookings to start?
+
+
+Venu Nuguri:    So, the execution starts as soon as we get the project, because execution means we start doing the
+                engineering and we start securing the long lead items like semiconductor, et cetera. Hence, we start
+                placing the orders or getting those things. So Khavda is in the range of around 10% revenue, and
+                the last one, is the name correct? Bhadla or Khavda, Ajay?
+
+
+Ajay Singh:     Bhadla.
+
+
+Mohit Kumar:    Bhadla.
+
+
+Venu Nuguri:    The first one is the Bhadla, which is 10% of revenue, and the last one, Khavda, is in the range of
+                4%-5% of revenues has come in.
+
+
+Ajay Singh:     Cumulatively.
+
+
+Venu Nuguri:    Cumulatively.
+
+
+Mohit Kumar:    Understood. My second question, your data center. Are you booking grid-to-rack solutions or only
+                transformers as of now? Are you looking to manufacture the grid-to-rack modular solution in India
+                or importing?
+
+
+Venu Nuguri:    Grid-to-rack solutions we have already launched. We are discussing with the customers. Whenever
+                we have those orders, grid-to-rack will be manufactured in India. We are looking for combination
+                of various things, including not only the transformer, GIS, automation, also the substations, and
+                network studies, etcetera.
+
+
+Mohit Kumar:    Understood, sir. Thank you, and all the best, sir. Thank you.
+
+
+Moderator:      Thank you. Next question is from the line of Rahul Gajare from Macquarie Capital. Please go
+                ahead. Rahul?
+
+
+Rahul Gajare:   Hi. Thanks for the opportunity. Sir, you talked about this in your Slide 5. The government recently
+                approved this 1150 kV transmission line. I want to understand how much of this would be imported
+                or how much is localized for these higher transmission projects?
+
+
+Venu Nuguri:    Just for information, we are the first one to complete the 1150 kV transformer design, manufacture,
+                and fully tested in India. Both the big components, 1150 kV transformer, and the switchgear, hybrid
+                switchgear, and as well as the automation is fully localized in India.
+
+
+Rahul Gajare:   Okay, that is great. Sir, on the backlog, I want to understand how much of your backlog is from
+                data center now. And if possible, if you could split that into U.S. specific order from the data center
+                side?
+
+
+Venu Nuguri:    We do not give a backlog with any segment. Just for information, we do not have any orders in our
+                backlog for US data center.
+
+
+                                             Page 9 of 17
+
+                                                                                     Hitachi Energy India Limited
+                                                                                              November 12, 2026
+
+Rahul Gajare:   Okay, great. Sir, the last question is on the service. Service obviously would be a high-margin
+                business. How much of the service would be domestic and how much would be overseas? Is it
+                more skewed towards domestic or you have started to see increase in service business for the
+                overseas business also?
+
+
+Venu Nuguri:    Also, we have been saying consistently, Rahul, about our service focus; we have created a large
+                installed base in India, and we would like to first leverage our service focus in India, and many
+                customers in India are looking forward to that.
+
+
+                So today, our service focus is predominantly in India, but at the same time, we are also looking at
+                other geographies going forward. But right now, we have an incredibly huge opportunity. That is
+                the reason we are investing in more feet on the ground.
+
+
+                We are also investing in productization of our service offerings to our customers. We are investing
+                in the digital offerings to our customers. And we see a huge amount of traction on that, Almost
+                close to 70% increase in the orders of the service in this quarter. Which is reflecting our efforts on
+                the ground, and the customers also feeling the same way.
+
+
+Rahul Gajare:   Sure, sir. This is extremely helpful. Thank you, and all the best.
+
+
+Venu Nuguri:    Thank you very much.
+
+
+Moderator:      Thank you. Next in line is Amit Anwani from PL Capital. Please go ahead.
+
+
+Amit Anwani:    Hi, sir. Congrats for the strong set of numbers.
+
+
+Venu Nuguri:    Thank you.
+
+
+Amit Anwani:    Thanks for the opportunity. First question, on the strong inflow, you also alluded to 9,200, and if
+                we exclude the one large order of 1,700, still the number is quite robust. Just wanted to understand,
+                is this a new run rate? There would be expansion to this. You also highlighted some wins from the
+                EPC players and STATCOM as a project win. So wanted to understand the base order pipeline in
+                domestic and export. In export, you highlighted all the data center order wins are ex-USA.
+
+
+Venu Nuguri:    Yes.
+
+
+Amit Anwani:    Which are the other geographies where we are winning this export data center orders, if you could
+                highlight that?
+
+
+Venu Nuguri:    Thank you very much. We do not want to call this as a run rate for the next quarter. What we are
+                looking at, that the tailwinds are strong, and multiple vectors are playing there. We are talking
+                about the renewable, because as you look at our portfolio, our portfolio is a little bit broader
+                compared to many other things.
+
+
+                Our portfolio is a bridge between the generation and the consumption. We have a play in every
+                part, including the transportation segment, which many people do not have. That is the reason we
+                get multiple focuses, multiple segments on that.
+
+
+
+                                           Page 10 of 17
+
+                                                                                 Hitachi Energy India Limited
+                                                                                          November 12, 2026
+
+               As I said, tailwinds are strong, and we try to leverage on those tailwinds. You have seen our
+               expansion plans, and we will start booking some of the orders for our new factory soon, but we are
+               not started on that yet. We hope that we will have a decent market share going forward, in a base
+               business as well.
+
+
+               The second one, when you are talking about data center, as I said, we do not supply anything to
+               US data centers. We supply only our power quality products to the US.
+
+
+               So where are we supplying this? We are supplying in India, we are supplying in the Southeast
+               Asian markets, and we are supplying in the Asia Pacific region.
+
+
+Amit Anwani:   Sure. Secondly, sir, on the gross margins, with the current product mix and the order backlog as
+               export has also increased, and the service component has also increased, can we expect gross
+               margins mix to be favorable in coming years?
+
+
+Venu Nuguri:   We do not give any guidance, but directionally, we are increasing our revenue growth, so volume
+               leverage is coming in. Exports and service orders are increasing, then those will also work in our
+               favour over time. If you add all, then our fixed costs will even out at some point in time, which is
+               then going to result in what you are looking forward to.
+
+
+Amit Anwani:   Understood, sir. Thank you, and all the best, sir. Thanks.
+
+
+Venu Nuguri:   Thank you.
+
+
+Moderator:     Thank you. Next question is from the line of Jason Soans from IDBI Capital. Please go ahead.
+
+
+Jason Soans:   Yes, sir. Thank you so much for taking my question. First question just pertains to, of course, order
+               inflow growth has been extremely healthy. Now I just want to talk about revenue execution. For
+               base orders and exports for the next one, two years, I understand we don't give guidance, but
+               directionally, do we see a healthy growth both in terms of base orders, when I talk about base
+               orders, of course, it's ex-HVDC, and exports as well for the next two to three years? How do you
+               see directionally, some colour on that?
+
+
+Venu Nuguri:   I would say that we are not looking at the short-term fixes. We are looking widely at a long-term
+               horizon, and that's the reason you have seen our slide, and I've given a very clear view on that, how
+               we are investing in multiple facilities, not only one particular product line, because all of our
+               portfolio will go into that, and that's the reason our capex spend is very strong in Indian market.
+               We have the visibility up to 2035, based not only on the CEA guidelines, but also our interactions
+               with the customers, authorities, and industry leaders. And then the new age things are additional.
+               For example, data center. Energy storage is a big opportunity, and we have announced the first
+               order last quarter.
+
+
+               Our portfolio will take care of these kinds of growth opportunities. With that, we believe that we
+               will have a robust growth in the base orders going forward.
+
+
+Jason Soans:   Sure. And sir, I mean, of course, there is also some concern on the data center slowdown going
+               ahead, in terms of power shortages and capex, free cash flow, problems for the investing
+
+
+                                         Page 11 of 17
+
+                                                                                    Hitachi Energy India Limited
+                                                                                             November 12, 2026
+
+                 companies. Just, sir, what is your take? How is it going? And of course, with the midterm elections
+                 in the U.S. as well.
+
+
+                 Just wanted to know what are you hearing on the ground in terms of data center slowdown? If that
+                 is the case, can we recoup orders from other infra segments to mitigate this risk? Just your take on
+                 that?
+
+
+Venu Nuguri:     My take was clear. As I said, data center has come as a positive surprise, it is only just started. We
+                 were not looking at a data center opportunity in U.S. anyway from the beginning, because that was
+                 not our mandate. We were looking at the data centers in India and APAC region,
+
+
+                 Recently, I was attending the data center conference in Singapore and every stakeholder whom I
+                 met, they were all talking. Those plans are solid plans. They are on the ground. They are looking
+                 at commissioning schedules very clearly defined. I do not foresee any slowdown in the geography
+                 where we are targeting.
+
+
+Jason Soans:     Thank you so much, sir. I will get back in the queue. Thank you.
+
+
+Venu Nuguri:     Yes, thank you.
+
+
+Moderator:       Thank you. Next question is from the line of Sameer Thakur from Ambit. Please go ahead.
+
+
+Sameer Thakur:   Hi. Thanks. I just wanted to know what the TAM for you in the battery storage would be system.
+
+
+Venu Nuguri:     Yes, sure. We do not give an exact number, but every battery energy storage, the batteries are in
+                 the range of 60%. So, you remove the batteries, and the remainder is within our scope.
+
+
+Sameer Thakur:   Okay, the 40%. Okay, fine. That is huge. Just for modeling purpose, is it possible to give exports
+                 orders number in absolute terms?
+
+
+Venu Nuguri:     No, absolute terms, we do not give that, but it is always in the range bound of anywhere between
+                 25%-30% of revenues.
+
+
+Sameer Thakur:   Okay, thank you. Okay, thank you. I will get back in the queue. Thank you.
+
+
+Venu Nuguri:     Yes.
+
+
+Moderator:       Thank you. Next question is from the line of Sumit Kishore from Axis Capital. Please go ahead.
+
+
+Sumit Kishore:   Good evening. Thanks for the opportunity. Extraordinarily strong execution, inflow, and operating
+                 leverage performance in the quarter. My question is in relation to material costs, which have gone
+                 up year-on-year in the three-month period and the six-month period in FY27 so far?
+
+
+                 While you attributed this to mix, you also mentioned that there has been a pickup in revenue
+                 booking for the two HVDC projects. Is there any correlation? Is there a lower gross margin mix
+                 impact because of more revenue booking of HVDC projects that we should be marking in? Your
+                 thoughts on that is my first question?
+
+
+
+
+                                            Page 12 of 17
+
+                                                                                     Hitachi Energy India Limited
+                                                                                              November 12, 2026
+
+Venu Nuguri:     I think the first question; I will ask Ajay to answer about the metal cost. Ajay?
+
+
+Ajay Singh:      The metal cost is coming out of the mix of the product that we execute in a particular quarter. So
+                 that is why if you see quarter-on-quarter, in some quarter, we are at the level of 60%. In this quarter,
+                 we are 61%. It is majorly the mix that plays a significant role.
+
+
+                 And the second question, you talked about the HVDC piece. So right now, it is difficult to explain
+                 more on the mix that is playing out.
+
+
+Venu Nuguri:     Thank you.
+
+
+Sumit Kishore:   But the mix would normalize towards the sort of material cost levels you had in FY26?
+
+
+Ajay Singh:      Yes. I think that it will, because exports will come in, service will come in, and many other things
+                 will come in. In our view, it will normalize it.
+
+
+Sumit Kishore:   Sounds good. My second question is in relation to your operating cash flows that you have reported
+                 in the BSE filing. The net cash flow from operating activities has fallen to Rs 91 crores in H1 FY27
+                 versus Rs 874 crores in the previous period. There is clearly a working capital increase. Could you
+                 please explain that? Is it also in relation to these HVDC projects?
+
+
+Ajay Singh:      Yes. You are correct. We have reported Rs 91 crores vs Rs 874 crores last year. This is majorly
+                 because of the movement of the large HVDC projects. That is sitting in the contract assets. As and
+                 when the invoicing happens, it will be recouping the cash. Your observation is correct.
+
+
+Sumit Kishore:   Clear. Just one last point. If you could outline what are the HVDC opportunities on the annual for
+                 the next 12-24 months? That will be all from my side?
+
+
+Venu Nuguri:     In our view, the next 12 to 24 months, at least four to five projects are coming in. One project is
+                 already approved, NCT. The recent technology, first time is approved, 800 kV VSC technology.
+                 We are fully ready with that technology. That has been approved.
+
+
+                 Similarly, there are other projects that are expected to be approved in the next three to six months’
+                 time.
+
+
+Sumit Kishore:   Thank you and wish you all the best.
+
+
+Venu Nuguri:     Also, just wanted to add, we always take a lot of investment ahead of the curve, and one such
+                 example was the 1150 kV AC, and we are the only company today in India fully tested transformer,
+                 design tested, and we did it seven years ago, but the projects are coming in now, which is approved
+                 just now. So, we are always ahead of the curve in terms of bringing the technology, absorbing the
+                 technology, and ensuring that the technology is ready whenever the projects come in.
+
+
+Sumit Kishore:   Thank you.
+
+
+Venu Nuguri:     Thank you.
+
+
+Moderator:       Next question is from the line of Abhijeet Singh from Systematix. Please go ahead.
+
+
+                                            Page 13 of 17
+
+                                                                                     Hitachi Energy India Limited
+                                                                                              November 12, 2026
+
+Abhijeet Singh:    Thank you for the opportunity, and good to see such impressive performance. My question is on
+                   the forex loss of Rs 88 crores. How have we accounted for that loss in the P&L?
+
+
+Ajay Singh:        Rs 88 crores is an unrealized forex loss. If I talk about, if you see the P&L, the overall exchange
+                   commodity loss, including realized gain and unrealized loss is Rs 56 crores. But operationally, Rs
+                   88 crores is a notional loss. That is why you see our operational EBITDA is more compared to
+                   what we see in the PBT.
+
+
+Abhijeet Singh:    Right. And lastly, on the margin difference between domestic and export markets. I think in one of
+                   the previous con calls, I think we mentioned that there is about 300-500 basis points. We have
+                   more margin on the export side. Is that the case even now? Is that the difference even now?
+
+
+Venu Nuguri:       Overall basis, yes. Some products may vary here and there, but overall basis, yes. 3% - 4%
+                   difference will be there.
+
+
+Abhijeet Singh:    Right, sir. Thank you for answering my question. I will get back.
+
+
+Venu Nuguri:       Yes.
+
+
+Moderator:         Thank you. Next question is from the line of Balasubramanian from Arihant Capital. Please go
+                   ahead.
+
+
+Balasubramanian:   Good evening, sir. Thank you so much for the opportunity. Sir, export order has grown very
+                   strongly, but if you look at exports are typically low margin than domestic utility orders due to
+                   logistics and competitive bidding. So, I just want to understand this Rs 88 crore notional loss is
+                   majorly related to export-related revenue or it is raw material related?
+
+
+                   Secondly, if the growing strong export orders, this currency volatility becomes a structural P&L
+                   risk rather than a timing issue. So how do you understand in the coming quarter in terms of our
+                   hedging activity side and how we are going to manage export orders, like covering logistics and
+                   other aspects?
+
+
+Venu Nuguri:       I think Ajay will add more on that but let me give basic colour on that. As part of the mark-to-
+                   market, we always evaluate all the contracts on fair value basis. So, it is not profit or loss. Maybe
+                   Ajay.
+
+
+Ajay Singh:        As per the accounting policy, at each period end close, we must evaluate the open purchase order.
+                   It is not impacting per se operationally, it is just an accounting policy that we must follow. So, we
+                   call it a notional loss.
+
+
+                   The fluctuation in foreign exchange that is taking place is to be considered in our P/L account. We
+                   go by our hedging policy rather than speculating on the market. As and when the currency rates
+                   movement happen, this notional loss/gain gets there. Hence, it is a timing issue.
+
+
+                   Once the contracts will get fully executed, then on actual whatever is the delta, plus, minus, then
+                   we will be able to understand the actual position. Right now, the accounting policy is what we have
+                   been following.
+
+
+
+                                               Page 14 of 17
+
+                                                                                     Hitachi Energy India Limited
+                                                                                              November 12, 2026
+
+Venu Nuguri:       Yes. From the hedging standpoint, we have a very solid hedging process and SOPs, and as soon as
+                   when we have a contract, it will be hedged, and there is no issue on that.
+
+
+Balasubramanian:   Got it. Sir, my next question, India data center demand is projected to reach 17 GW by 2031-32
+                   range. Your order range nearly Rs 4,000 crores quarterly. Just want to understand our capability
+                   side, especially for data centers, whether these orders for standard grid automation or substation
+                   equipment, or is there any scope for higher value HVDC power electronics content, especially for
+                   hyperscalers? I just want to understand what our capabilities in the data center value is chain.
+
+
+Venu Nuguri:       Around Rs 4,000 crores are total orders for the quarter.
+
+
+Balasubramanian:   Yes, yes, yes, sir.
+
+
+Venu Nuguri:       I think we have done in the multiple times, our capabilities we have shown, and we are expanding
+                   our capabilities consistently. For example, depending upon the data center, their buying pattern,
+                   etcetera. Some customers buy first long lead items like a transformer, high voltage equipment while
+                   others may buy them together with the grid connections and the studies and automation, etcetera.
+                   We have also seen that the challenges being faced by the data center developers. We have
+                   announced the new product portfolio, what we call as a grid-to-rack solutions. Grid-to-rack
+                   solution is pre-engineered and will reduce dramatically the complete time required for powering
+                   the data center.
+
+
+                   We have been actively discussing with many of the data center players in that. From our portfolio
+                   standpoint, we have complete offerings in that. Right from the grid connection to the rack-level
+                   plugging. We have a broader portfolio.
+
+
+Balasubramanian:   Got it, sir. Thank you.
+
+
+Moderator:         Thank you. Next question is from the line of Amit Anwani from PL Capital. Please go ahead.
+
+
+Amit Anwani:       Hi, sir. Thanks for the follow-up. One question, you said we are already ahead of the curve for the
+                   UHVAC orders, which recently came into in the last quarter of the year. Just wanted to understand,
+                   the recent NCT meeting has highlighted three projects, Rs 18,000 crores, Rs 18,000 crores, and
+                   some Rs 32,000 crores, so totalling about more than Rs 75,000 crores. What could be our
+                   addressable TAM, and are we considering all these projects since we are ahead of the curve
+                   whenever they come for bidding?
+
+
+Venu Nuguri:       We do not know the addressable market now, because we don’t know in what form and what shape
+                   it comes, whether it comes as a complete solution-oriented or product orientation. But for HVDC,
+                   we have 50% market share. Many other things like a 1200 kV AC, the addressable market will be
+                   also much higher in that.
+
+
+                   From a readiness standpoint, we are ready. As I said, from 1150 kV AC, we have done much many
+                   years back. The design is ready, tested, and is also used. We are ready from the engineering
+                   standpoint, from readiness of the manufacturing localization. We are ready right now.
+
+
+Amit Anwani:       These three projects will be a prospective pipeline, will be part of the prospective pipeline?
+
+
+                                               Page 15 of 17
+
+                                                                                   Hitachi Energy India Limited
+                                                                                            November 12, 2026
+
+Venu Nuguri:   Yes.
+
+
+Amit Anwani:   Thank you, sir. Thanks.
+
+
+Venu Nuguri:   Thank you.
+
+
+Moderator:     Thank you. Next question is from the line of Jason Soans from IDBI Capital. Please go ahead.
+
+
+Venu Nuguri:   That would be last question.
+
+
+Moderator:     Okay, sir. Noted.
+
+
+Jason Soans:   Yes. Thank you, sir, for taking my question again. My question just pertains to Slide number 10.
+               Industries, you mentioned that the order mix industries have grown from 12% last quarter to 24%,
+               and even transport and infra has grown from 13% to 23%. I just wanted to know, this 24% in
+               industries, which industries are contributing to order mix?
+
+
+               Even transport and infra, we are strong in railway and metro, I know that, but is there any other
+               vertical of the transport segment?
+
+
+Venu Nuguri:   I think all the industries; we don't have clearance to take their names. These are the very precision
+               manufacturing industries where the reliability must be 99.99%. and, semiconductor industries, that
+               is an extremely big play for us. That is where we bring our portfolio to our customers.
+
+
+               Also, on top of that, we are adding a digital service layer to ensure preventive or predictive
+               maintenance we are offering to our customers as part of our service. Together with that, we can
+               reliable product from the design and the technical standpoint.
+
+
+               The third one is the predictive maintenance suite, so that the customers can understand. Because
+               these are all very connected machines, and if there is one issue there are several lines will stop, and
+               that needs a huge amount of reliability in their things in that.
+
+
+Jason Soans:   Sure. Transport and infra, sir, will be mostly rail and metro?
+
+
+Venu Nuguri:   Yes. That is mostly rail and metro.
+
+
+Jason Soans:   Sure. Thank you so much for answering my question. Thank you so much.
+
+
+Moderator:     Thank you. We will take our next question from the line of Sanjeev from Antique. Please go ahead.
+
+
+Sanjeev:       Yes, sir. Thanks for taking my question. Sir, in recent weeks, there have been some SYNCON
+               orders that have been awarded. So, have that come at the cost of potential STATCOM orders? How
+               should we view it?
+
+
+Venu Nuguri:   SYNCON is not replacing STATCOMs. STATCOMs are with a different technology. SYNCONs
+               are different technology. One is not at the expense of the other.
+
+
+Sanjeev:       Okay. Thanks, sir.
+
+
+
+                                          Page 16 of 17
+
+                                                                                   Hitachi Energy India Limited
+                                                                                            November 12, 2026
+
+Venu Nuguri:   Yes. Thank you.
+
+
+Moderator:     Thank you. Ladies and gentlemen, that was the last question for today. I now hand the conference
+               over to Mr. N. Venu, MD and CEO, for closing comments. Over to you, sir.
+
+
+Venu Nuguri:   Thank you very much. Once again, really thank you all of you and wish you and your families
+               belated Diwali greetings. We continue to see robust market demand and a strong pipeline of
+               opportunities while maintaining our focus on disciplined execution. At Hitachi Energy India, we
+               are investing in our capabilities, skills, and infrastructure needed to enable the next phase of India's
+               energy transition and strengthen energy securities much ahead of the curve.
+
+
+               As we pursue these opportunities, our priorities remain unchanged, delivering sustainable and
+               profitable growth, executing on our commitments, and creating long-term value for our
+               shareholders.
+
+
+               Thank you for your continued confidence in Hitachi Energy India. If you need any further
+               information, please contact our Investor Relations team, Priyanka, and we are happy to engage
+               with you and provide any information you may require. Thank you very much, and good evening
+               to all of you.
+
+
+Moderator:     Thank you, members of the management team. On behalf of Hitachi Energy India Limited, that
+               concludes this conference. Thank you all for joining us. You may now disconnect your lines.
+
+
+
+
+                                          Page 17 of 17
+

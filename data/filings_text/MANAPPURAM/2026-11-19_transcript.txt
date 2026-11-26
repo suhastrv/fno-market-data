@@ -1,0 +1,1248 @@
+Ref. No.: SEC/ SE/175/ 2026 - 27
+Date: November 19, 2026
+
+
+ BSE Limited                                         National Stock Exchange of   India             International
+                                                     India Limited                Exchange (IFSC) Ltd
+ Phiroze Jeejeebhoy Towers
+ Dalal Street                                        5th Floor, Exchange Plaza    1st Floor, Unit No. 101,
+ Mumbai- 400001                                      Bandra (East)                The Signature, Building no. 13B,
+ Scrip Code: 531213                                  Mumbai – 400 051             Road 1C, Zone 1, GIFT SEZ, GIFT
+                                                     Symbol: MANAPPURAM           City, Gandhinagar, Gujarat –
+                                                                                  382355
+
+
+Dear Sir/Madam,
+
+
+Sub.: Transcript of Q2 FY 2026-27 Results Conference Call held on November 12, 2026
+Please find attached the revised transcript of the Q2 FY 2026-27 Results Conference Call held on
+November 12, 2026. This filing is being made in supersession of our earlier submission vide Ref. No.
+SEC/SE/174/2026-27 dated November 18, 2026, pursuant to the identification of clerical error in the
+transcript.
+
+
+The same has also uploaded on the website of the Company:
+https://www.manappuram.com/investor-call
+
+
+Kindly take the same on record.
+
+
+Yours faithfully,
+For Manappuram Finance Limited
+
+Aparna              Digitally signed by Aparna Menon
+                    DN: c=IN, o=Personal,
+                    postalCode=680004, st=Kerala,
+                    serialNumber=17ec18802f8fa0d223804
+
+
+Menon
+                    bcd7255a7273ee8c667c53d9ec13c6f33
+                    6820d20e8a, cn=Aparna Menon
+                    Date: 2026.11.19 17:12:39 +05'30'
+
+
+
+Aparna Menon
+Company Secretary
+
+             “Manappuram Finance Limited
+          Q2 FY27 Earnings Conference Call”
+                  November 12, 2026
+
+
+
+
+MANAGEMENT: MR. VP NANDAKUMAR – CHAIRMAN AND MANAGING
+            DIRECTOR – MANAPPURAM FINANCE LIMITED
+            DR. SUMITHA NANDAN – EXECUTIVE DIRECTOR –
+            MANAPPURAM FINANCE LIMITED
+            MR. BUVANESH THARASHANKAR – GROUP CHIEF
+            FINANCIAL OFFICER AND CHIEF FINANCIAL OFFICER
+            – MANAPPURAM FINANCE LIMITED
+            MR. MANOJ PASANGHA – MANAGING DIRECTOR AND
+            CHIEF EXECUTIVE OFFICER – ASIRVAD
+            MICROFINANCE
+            MR. AMANDEEP SINGH – CHIEF FINANCIAL OFFICER –
+            ASIRVAD MICROFINANCE
+            MR. RAKESH SHARMA – CHIEF EXECUTIVE OFFICER –
+            MANAPPURAM HOME FINANCE
+            MR. SUVEEN P.S. – DEPUTY CHIEF EXECUTIVE
+            OFFICER – MANAPPURAM HOME FINANCE
+            MR. ROBIN KARUVELY – CHIEF FINANCIAL OFFICER –
+            MANAPPURAM HOME FINANCE
+
+MODERATOR:   MR. ABHIJIT TIBREWAL – MOTILAL OSWAL
+             FINANCIAL SERVICES LIMITED
+
+
+
+
+                         Page 1 of 19
+
+                                                                                  Manappuram Finance Limited
+                                                                                          November 12, 2026
+
+Moderator:          Ladies and gentlemen, good day and welcome to the Manappuram Finance Q2 FY27 Earnings
+                    Conference Call hosted by Motilal Oswal Financial Services Limited. As a reminder, all
+                    participant lines will be in the listen-only mode, and there will be an opportunity for you to ask
+                    questions after the presentation concludes. Should you need assistance during the conference
+                    call, please signal an operator by pressing star then zero on your touchtone phone.
+
+
+                    I now hand the conference over to Mr. Abhijit Tibrewal from Motilal Oswal Financial Services
+                    Limited. Thank you, and over to you, sir.
+
+
+Abhijit Tibrewal:   Yeah, thank you, Rutuja. Good evening, everyone. I am Abhijit Tibrewal from Motilal Oswal,
+                    and it is our pleasure to welcome you all to this earnings call. Thank you very much for joining
+                    us for the Manappuram Finance call to discuss Q2 FY27 earnings.
+
+
+                    To discuss the company's earnings, I am pleased to welcome Mr. V.P. Nandakumar, CMD, Dr.
+                    Sumitha Nandan, ED, Mr. Buvanesh Tharashankar, Group CFO and CFO, Mr. Manoj
+                    Pasangha, MD and CEO, Asirvad Microfinance, Mr. Amandeep Singh, CFO, Asirvad
+                    Microfinance, Mr. Rakesh Sharma, CEO, Manappuram Home Finance, Mr. Suveen P.S.,
+                    Deputy CEO, Manappuram Home Finance, and Mr. Robin Karuvely, CFO, Manappuram
+                    Home Finance. On behalf of Motilal Oswal, we thank the senior management and the investor
+                    relations team of Manappuram Finance for giving us this opportunity to host you today.
+
+
+                    I now invite Mr. Nandakumar for his opening remarks, post which we will open the floor for a
+                    Q&A. With that, over to you, sir.
+
+
+V.P. Nandakumar:    Thank you. Good evening, everyone, and a warm welcome to Manappuram Finance Q2 FY27
+                    earnings and investor call. I hope you all had a joyous Diwali, and I extend my wishes for the
+                    festive season. Thank you for asking the time to join us today. We sincerely appreciate your
+                    continued trust and confidence in Manappuram Finance. It is a pleasure to connect with you
+                    once again. We review our performance for this quarter two of FY27, discuss the
+                    developments shaping our business, and share our priorities for the months ahead.
+
+
+                    Operational environment. Indian economy continued to demonstrate underlying strength
+                    through the second quarter of FY27, even as the global environment remained unsettled by
+                    geopolitical tensions, trade-related uncertainties, and fluctuations in commodity prices.
+                    Domestic activity drew support from consumption, services, public infrastructure investment,
+                    and a gradual improvement in private sector investment.
+
+
+                    The gold market presented a distinct set of dynamics during the quarter. Domestic gold prices
+                    remained significantly higher than a year earlier, although they had moderated from the recent
+                    peaks and remained volatile. According to the World Gold Council, data indicates that Indian
+                    gold demand, by volume, recovered sequentially in the July-September quarter but remained
+                    lower year-on-year. In value terms, however, it was higher, reflecting elevated prices. For gold
+                    lenders, these developments have important implications.
+
+
+                    Although domestic gold prices have softened modestly in the first half of FY27 from their
+                    peak in March quarter, they remain well above the year-ago level. This continues to support
+                    the value of eligible collateral and customer access to secured financing. At the same time, the
+
+                                            Page 2 of 19
+
+                                                                                 Manappuram Finance Limited
+                                                                                         November 12, 2026
+
+                   recent moderation and continued volatility reinforce the importance of prudent loan-to-value
+                   practices, accurate valuations, and robust risk management.
+
+
+                   Our Q2 FY27 performance should be seen in the context of the opportunities and operating
+                   conditions across our businesses. Our gold loan franchise remains the principal driver of the
+                   Group's performance, accounting for 83% of consolidated assets under management, while our
+                   diversified businesses are being managed with a focus on portfolio quality, operating discipline
+                   and sustainable returns.
+
+
+Moderator:         I am so sorry to interrupt you, Mr. Nandakumar. We are unable to hear you, sir, clearly. Your
+                   voice is sounding muffled.
+
+
+V.P. Nandakumar:   Am I audible now clearly?
+
+
+Moderator:         It is still sounding muffled, sir.
+
+
+V.P. Nandakumar:   How is it now?
+
+
+Moderator:         Maybe if you are connected on a handset, if you are connected on Bluetooth or anything, can
+                   you just switch on the handset mode?
+
+
+V.P. Nandakumar:   Okay. How is it now?
+
+
+Moderator:         Please go ahead, sir.
+
+
+V.P. Nandakumar:   Is it okay now?
+
+
+Moderator:         Yes, please go ahead.
+
+
+V.P. Nandakumar:   Okay. During the quarter, consolidated Assets Under Management stood at INR73,303 crores,
+                   up by 60.1% year-on-year, and up by 5.3% quarter-on-quarter. While the consolidated revenue
+                   was INR3,356 crores, up by 10.2% quarter-on-quarter. Profit after tax stood at INR701 crores
+                   compared to INR217 crores in the corresponding quarter of the previous year. On a quarter-on-
+                   quarter basis, PAT increased by 19.9% from INR585 crores in Q1 FY27. The performance
+                   reflected due to higher growth in gold loan.
+
+
+                   Our focus remains on ensuring that business growth translates into quality earnings. We
+                   continue to assess opportunities across our lending businesses with a clear emphasis on
+                   customer sustainability, prudent underwriting and collections, and the efficient use of capital.
+                   Our balance sheets and funding positions remain important enablers of our business strategy.
+
+
+                   We continue to work with a diversified set of funding partners and maintain liquidity and
+                   capital buffers appropriate to the scale and the nature of our operations. Gold lending remains
+                   the foundation of Manappuram Finance. Our longstanding presence in this business with a
+                   legacy that goes back to 1949 has given a deep understanding of customer needs, the nuances
+                   of gold appraisal, and the operational requirements of secured lending. Through the quarter,
+                   our gold loan business continued to benefit from the relevance of gold-backed credit for
+                   customers seeking timely and convenient financing.
+
+                                              Page 3 of 19
+
+                                                               Manappuram Finance Limited
+                                                                       November 12, 2026
+
+Elevated domestic gold prices have increased the collateral value of household gold holdings
+beyond the price cycle. However, the demand was on a structural need. For many households,
+small traders, and farmers, a gold loan is the quickest form of secured credit and a way to
+access liquidity without selling an asset of financial, personal, or family significance.
+
+
+Borrowing against household gold also continues to shift from informal sources to regulated
+lenders. Higher gold prices also require lenders to remain disciplined. Our emphasis is on
+responsible customer acquisition, appropriate loan-to-value levels, accurate appraisal, secure
+custody of pledged gold, and timely monitoring of accounts. We explain loan terms and
+auction procedures clearly to our customers. These practices protect our customers as well as
+the quality of our portfolio.
+
+
+Competition is intensifying as banks and NBFCs widen their reach. Our response is to deepen
+our presence where we can serve customers best. We plan to add around 500 branches by
+March 2027 to our existing consolidated network of 5,375 branches. Alongside this, we
+continue to strengthen the customer experience through technology and process improvements.
+
+
+We see further room to grow in the organized gold loan markets by serving customers
+responsibly, improving service standards, and using technology to make access to credit in a
+more seamless manner. We are growing strongly, and we intend to keep that growth
+disciplined. We expect gold loan growth of 25% to 30% this year, supported by branch
+expansion and digital channels, and governed by the same appraisal and loan-to-value and
+custody standards. A diversified lending business will remain an important part of our long-
+term strategy.
+
+
+They allow us to serve customers across different borrowing needs and life stages by
+broadening the organization's sources of business and earnings. We are, however, mindful that
+each segment has its own risk characteristics and operating cycle. In microfinance, the sector
+has been working through the stress of the past two years.
+
+
+Industry assessments have begun to point to improving collection trends and a gradual
+recovery of disbursements, although conditions are not uniform across regions and institutions.
+Our response has been to strengthen borrower assessments, improve collection intensity,
+recalibrate customer acquisition, and focus on responsible lending practices.
+
+
+As a result, microfinance remained profitable during the quarter, and we will continue to grow
+cautiously, guided by repayment behavior and portfolio quality. In Vehicle Finance, we have
+paused credit disbursements. Our focus is on strengthening collection, protecting asset quality,
+and running down the existing book in an orderly manner.
+
+
+We reassess the business in April 2028. Our housing finance and the MSME lending business
+remain focused on customer segments whose repayment capacity we understand well. And we
+are prioritizing disciplined underwriting, operating efficiency, and sustainable risk-adjusted
+returns over rapid and cheap expansion.
+
+
+Across these businesses, the objective is consistent: to strengthen the underlying portfolio,
+improve operating performance, and build franchises that can contribute meaningfully to the
+
+                         Page 4 of 19
+
+                                                                                      Manappuram Finance Limited
+                                                                                              November 12, 2026
+
+                         organization over the long term. Asset quality remains central to the way we manage the
+                         organization. We continue to monitor portfolio performance at both the consolidated and the
+                         business segment levels, recognizing that risk profile and recovery dynamics differ across
+                         products.
+
+
+                         As on September 30, 2026, standalone gross non-performing assets stood at 1.79%, net non-
+                         performing assets at 1.24%, and the provision coverage ratio at 31.3%. Our gold loan business,
+                         with the underlying collateral supported by disciplined appraisal, custody, and auction process,
+                         remains an important risk mitigator. The portfolio loan-to-value ratio stood at 64.5% at the
+                         quarter end, which is within regulatory limits. We remain appropriately focused on
+                         provisioning and the recognition of stress.
+
+
+                         Our approach is to address asset quality challenges in a timely manner rather than defer
+                         corrective action. Our capital adequacy stood at 22.3% as of September 30th, 2026, compared
+                         with the applicable regulatory requirements of 15%. Our liquidity position remains adequate,
+                         supported by available cash and liquid assets, committed and unutilized fund lines, and access
+                         to diversified funding channels.
+
+
+                         We will continue to manage capital, liquidity, and funding costs carefully, ensuring that our
+                         growth plans remain aligned with our risk appetite and balance sheet capacity. Looking ahead,
+                         India's medium- to long-term financial services opportunity remains significant. Rising
+                         formalization of credits, wider digital access, growing financial awareness, and the financing
+                         needs of households and small businesses provide a meaningful opportunity for responsible
+                         lenders.
+
+
+                         At the same time, the outlook will be shaped by inflation, interest rates, and funding costs,
+                         monsoon conditions and rural demand, oil and other global commodity prices, and the ability
+                         of the borrowers to sustain repayment capacity. We believe our established gold loan
+                         franchise, customer relationship, distribution capabilities, and experience in servicing
+                         unbanked customers provide a strong foundation.
+
+
+                         By combining these strengths with disciplined execution across our diversified businesses, we
+                         aim to build a more balanced and sustainable financial services platform. Before I conclude, I
+                         would like to thank our employees for their commitment and hard work, our customers for
+                         placing their trust in us, our banking and lending partners for their continued support, and our
+                         shareholders for their confidence in Manappuram Finance.
+
+
+                         With that, I will hand over the call to our President and Group CFO, Mr. Bhuvanesh
+                         Tharashankar, who will take you through the detailed financial and operational performance
+                         for the quarter. He will then be pleased to take your questions. Thank you.
+
+
+Buvanesh Tharashankar:   Good evening, ladies and gentlemen. This is Buvanesh. Thank you for joining us for our
+                         discussion on our financial results for the second quarter and half year ended September 30th,
+                         2026. Our consolidated AUM for Q2 FY27 was INR73,303 crores, up 5.3% sequentially and
+                         60.1% year-on-year. Gold loan continues to be our key growth driver with an AUM of
+
+
+
+
+                                                 Page 5 of 19
+
+                                                          Manappuram Finance Limited
+                                                                  November 12, 2026
+
+INR60,640 crores, up 6.4% quarter-on-quarter and 92.5% year-on-year, supported by strong
+customer demand.
+
+
+Gold loan business constitutes 83% of the consolidated AUM, versus 82% in Q1 of this year
+and 69% last year. For Q2, consolidated PAT before OCI and minority interest was INR701
+crores, which is up 20% sequentially and 223% year-on-year. We closed the first half of the
+year with a consolidated PAT before OCI and minority interest of INR1,286 crores, which was
+up 268% year-on-year.
+
+
+Coming to the standalone businesses, our standalone AUM for MAFIL as at end Q2 was
+INR63,733 crores, up 4.5% sequentially and 68.5% year-on-year. Gold loan AUM in the
+standalone business was INR58,097 crores, up 6.3% quarter-on-quarter and up 92.2% year-on-
+year. Gold loan constitutes 91% of our standalone AUM versus 90% in the prior quarter and
+80% in prior year. For the quarter, our standalone PAT before OCI and minority interest was
+INR665 crores, which is up 20% sequentially and up 77% year-on-year.
+
+
+For the first half of the year, our standalone PAT was INR1,217 crores, which was up 58.4%
+year-on-year. Our standalone GNPA as at September 30 was 1.79% versus 1.56% during the
+previous quarter. Credit cost for the standalone entity was 1.4%. Standalone borrowing cost
+has gone down by 2 basis points in the second quarter.
+
+
+Coming to the gold loan business, strong momentum in customer acquisition continued, and
+we were able to add 3.15 lakh new customers. Our outstanding number of customers was 27.2
+lakh, an increase of 2.9% quarter-on-quarter and 11.7% year-on-year. Our average gold loan
+LTV remains stable at 64.5% in Q2 versus 65.6% in Q1. Online gold loan book constitutes
+about 91% of the total gold loan book.
+
+
+Coming to the microfinance business, Asirvad AUM stands at INR7,919 crores, and this
+includes a gold AUM of INR2,508 crores, up 10% quarter-on-quarter and 28.5% year-on-year.
+For the quarter, MFI disbursements was at INR1,461 crores versus INR1,055 crores in the
+prior quarter. The proportion of the new MFI book has gone up to 79% versus 68% in Q1 and
+23% in Q2 of last year.
+
+
+PAT before OCI was INR32 crores in Q2 FY27 versus INR21 crores in Q1 and a loss of
+INR168 crores in Q2 of last year. For the first half, Asirvad PAT was at INR53 crores versus
+loss of INR436 crores in the first half of last year. Net NPA is at 1.1% versus 1.4% in Q1
+FY27. Asirvad CRAR as at September 30th stood at 29.2%. Coming to the vehicle finance
+business. In vehicle finance, we have reported an AUM of INR2,169 crores, which is down
+sequentially 15.3% and about 46.5% year-on-year.
+
+
+Focus is on collections with GNPA standing at 16.9% versus 13.4% the prior quarter. Loans to
+MSME and allied business, the AUM was at INR3,361 crores with a disbursement of INR238
+crores versus INR191 crores disbursed in the prior quarter. GNPA in quarter two was at 6.4%
+versus 5.9% in the prior quarter.
+
+
+The home loan business had a total book of INR1,814 crores, marginally declined quarter-on-
+quarter by about 1.7% and down 4.5% year-on-year. Quarter 2, the disbursements was INR121
+
+                          Page 6 of 19
+
+                                                                                 Manappuram Finance Limited
+                                                                                         November 12, 2026
+
+                   crores versus INR103 crores in the prior quarter. Board has declared an interim dividend of
+                   INR1 for this quarter. Our capital position is strong and our capital adequacy is at 22.36%.
+                   Consolidated net worth stood at INR17,289 crores as at September 30th, 2026, with book
+                   value per share at INR184.2. We can now proceed to the question-and-answer session.
+
+
+Moderator:         Thank you very much. Ladies and gentlemen, we will now begin the question-and-answer
+                   session. First question is from the line of Gaurav Gupta from Capital Farming Consultants.
+                   Please go ahead.
+
+
+Gaurav Gupta:      Yeah. Thanks a lot. I have couple of questions. My first question is like, there has been
+                   commentary from couple of your peers, the NBFC, especially in the gold loan segment, that
+                   there has been some increase in the delinquencies among those who have been borrowing gold
+                   loan, right? If you can share some color on your customers that how is the delinquencies or if
+                   there has been some increase in the tendency to not repay in 30 plus, 60 plus kind of bucket.
+
+
+                   That is the first question. Second question is, in our last call also, management said that we are
+                   targeting somewhere around 500 branches to open during financial year 2027, right? But what
+                   we have observed in the first ending September 30th, the number of branches added during
+                   first six months is hardly 100, or I would say even less than 100, right?
+
+
+                   Considering that just 70 branches has been added in first six months, are we still that we will
+                   be achieving 500 odd branches during the FY27 or we are downsizing that guidance, right?
+                   The third question is specifically on some operational aspects that of late we have been
+                   observing as analysts and as shareholders, right?
+
+
+                   That the senior management personnel who joined our organization post Bain Capital deal,
+                   right? Some of them have resigned. Any commentary or any guidance on the management
+                   stability, right? Because that matters a lot when you are expanding your book, giving
+                   confidence to the investor community, right? These are my third questions. Thanks a lot.
+
+
+V.P. Nandakumar:   Concerning this delinquency, first of all, you should note, our average LTV remains around
+                   65%, perhaps the lowest in the industry. Our stage 3 is only 1% in gold loan. We are the
+                   players who have the experience over the last four decades in handling gold in different
+                   scenarios of declining gold prices, etcetera, and managing it efficiently. I understand some of
+                   the players, maybe many new to the industry, whereas we are not new to the industry. We have
+                   established presence in the gold loan segment.
+
+
+                   Second about is our branch opening. Even though we have opened nearly 100 branches so far,
+                   another 250 branches, the work is in the full swing, and we expect that to be opened in another
+                   couple of months. We are really confident about reaching 500 branches with regard to branch
+                   opening.
+
+
+                   Regarding the operational aspect of CEO, the earlier CEO has resigned on personal ground,
+                   etcetera,. New CEO is expected to take charge. The recruitment is already over, and he is
+                   expected to take charge from 1st of January. The CTO also resigned due to frequent travel
+                   between Mumbai and Kerala.
+
+
+
+                                            Page 7 of 19
+
+                                                                                       Manappuram Finance Limited
+                                                                                               November 12, 2026
+
+                         Other than that, from the new recruitment, there is no attrition. There is great stability with
+                         regard to new recruitments. These are the two attrition levels. For CTO positions also, we are
+                         closing on some good candidates with a reputed background in the industry and having done
+                         some IT transformation. Any more clarity is required?
+
+
+Gaurav Gupta:            Just a follow-up, like in the cost of borrowing, finance team has done a tremendous job while
+                         the repo rate has increased by 25 basis points, but we are able to see that 3 basis point has been
+                         saved in cost of borrowing. Would you like to give certain guidance that going forward, what
+                         will be the trajectory?
+
+
+                         If you can expect certain more savings on the cost of borrowing. Second, any guidance on
+                         what we can expect that what could be the possible or a tentative AUM while we will be
+                         closing FY27, and any guidance on the possible AUM?
+
+
+V.P. Nandakumar:         The second part I will answer. The first part I will leave to the CFO to answer. We have given
+                         the guidance. We are expecting a growth of nearly 25%-30% AUM to the current year. We
+                         have been telling about 25%-30%. We are expecting a growth of some 30% to the current
+                         year.
+
+
+Buvanesh Tharashankar:   Hi, Gaurav. So, on the cost of borrowing, you rightly noted that despite difficult, choppy,
+                         volatile market conditions, we've been able to hold to the Q1 levels and maybe shave off a
+                         couple of basis points. But having said that, given the environment and the expected rate
+                         increases, from an overall Q4 exit, you could probably expect my cost of borrowing to go up
+                         more towards the 9% handle.
+
+
+                         And that is in line with what was communicated in the Q1 call as well. So, that is what we are
+                         holding to, that in terms of the exit cost of borrowing will probably increase by about 25 to 30
+                         basis points.
+
+
+Gaurav Gupta:            Yeah, thanks a lot. Thank you very much.
+
+
+Moderator:               Thank you. Next question is from the line of Rajiv Mehta from YES Securities. Please go
+                         ahead.
+
+
+Rajiv Mehta:             Yeah. Hi, good evening. Congratulations on very good numbers. Firstly, sir, if you can give us
+                         some breakup of the gold loan portfolio between bullet loans, monthly servicing loans, and
+                         EMI loans, if any. And second, if you can also give some disclosure about how the Stage 2
+                         loans have moved Q-on-Q in the standalone gold loan business.
+
+
+Buvanesh Tharashankar:   So, hi. Yes, sir, please go ahead.
+
+
+V.P. Nandakumar:         No, no. Buvanesh, you can go ahead.
+
+
+Buvanesh Tharashankar:   Okay, sir. In terms of the composition, I would say mostly the book continues to be the longer
+                         tenor book, which, in terms of the EMI and the shorter tenor book is a more smaller
+                         component of our overall portfolio. So that is what we have. In terms of the staging, I think, in
+
+
+
+
+                                                   Page 8 of 19
+
+                                                                                         Manappuram Finance Limited
+                                                                                                 November 12, 2026
+
+                         terms of the Stage 2 increases, we are looking at single digit as a percentage of overall AUM.
+                         So that is where we are.
+
+
+Rajiv Mehta:             Okay. And when the long tenure book, so it implies that these are bullet loans and where the
+                         interest is also not actually contractually due, right? On a regular basis.
+
+
+Buvanesh Tharashankar:   See, they may not be contractually due, but the behavior of the customer, we have seen about
+                         almost 60% to 65% of our customers, they pay interest promptly even though there is no
+                         scheduled payment as such.
+
+
+Rajiv Mehta:             Correct
+
+
+Buvanesh Tharashankar:   That is behavior what we observed in the past, and we do not see any change in that behavior
+                         going forward as well.
+
+
+Rajiv Mehta:             On the Stage 2 spike of being fixed in a material number, how do we plan to solve this, or how
+                         do you plan to ensure that the customer do not move buckets forward and they are able to roll
+                         back or regularize whatever they have missed, if the loan is shorter tenure or if the interest is
+                         missed in the end date?
+
+
+V.P. Nandakumar:         We send the notices, we contact the customers. When the notices are received, they come and
+                         they meet the interest and make up the LTV also to the current level. This is the practice which
+                         has been followed, and this is nothing new.
+
+
+Rajiv Mehta:             Just lastly…
+
+
+V.P. Nandakumar:         The default option is very, very low.
+
+
+Rajiv Mehta:             Okay. Lastly, on gold loan growth, sir, you said that 25% to 30% growth. I think it should have
+                         been the first half. The portfolio growth grown by 19%, and right now, it is in the Q1Q growth
+                         run rate, it is 5%, 6%. Are we seeing that 5%, 6% growth rate at the AUM level is continuing
+                         even in October, November? That would be the level of
+
+
+V.P. Nandakumar:         There are fluctuations in accordance to the seasonal fluctuations are there. The first quarter
+                         used to be very good, the other quarters, the growth used to be moderate at a rate of 5% to 6%.
+                         First quarter used to be good, etcetera. As I said, we are expecting some 30% growth in the
+                         gold loan AUM this year.
+
+
+Rajiv Mehta:             Okay. Thank you, sir. That's it, sir.
+
+
+V.P. Nandakumar:         Yeah. Thank you.
+
+
+Moderator:               Thank you. Next question is from the line of Gaurav Khandelwal from JP Morgan. Please go
+                         ahead.
+
+
+Gaurav Khandelwal:       Yeah. Hi, good evening. Thanks for taking my questions. My first question is on the Stage 2 of
+                         gold loans. I am sorry if I missed it. Can you tell us about the Stage 2 gold loans, and when do
+                         you expect it to settle down? Some details on that, please.
+
+
+                                                    Page 9 of 19
+
+                                                                                        Manappuram Finance Limited
+                                                                                                November 12, 2026
+
+V.P. Nandakumar:         What is Stage 2 and Stage 3?
+
+
+Buvanesh Tharashankar:   On Stage 2 and Stage 3, while we are seeing a bit of a spike, again, compared to peer group,
+                         we are much lower than what peer groups are operating at. Having said that, a couple of things
+                         that I would like to note here. It is largely behavioral, right? in April, you had this change to
+                         regulations that came into effect, and you had a set of new products that were launched, which
+                         were the shorter tenor and the EMI-based products.
+
+
+                         These products are something that the customers have never experienced before. They are used
+                         to the traditional one-year consumption kind of loan, which is traditionally a bullet payment,
+                         right? That is the behavior that they are used to.
+
+
+                         In terms of spike, typically what we have seen is that, what it requires to correct this is
+                         basically increase the customer contact and educate them in terms of the difference between
+                         the traditional product and the new products that have been launched. What we have seen in
+                         terms of early reads is quite encouraging, in terms of the spike that we are seeing in Stage 2.
+
+
+                         We have seen a large quantum of these customers coming back and paying either in full or in
+                         part, and therefore, regularizing the amounts outstanding, which therefore does not necessitate
+                         us to go down the auction path. I think, I would say, it is a phenomenon which I think should
+                         normalize in probably in the next couple of quarters, and reach a more normal level as
+                         customers get used to these kind of products.
+
+
+                         Having said that, we are monitoring it, the overall levels for any stress. But thus far, I think we
+                         are quite comfortable with what we are seeing, and we will continue to keep up the intensity in
+                         terms of reaching out to the customers and collecting from these customers.
+
+
+Gaurav Khandelwal:       Got it. Thanks for that. My follow-up question is on competition. Can you share your thoughts
+                         on how competition is evolving, and do you anticipate that over the next 6-12 months, is there
+                         a possibility of yields moving lower in terms of because of competition?
+
+
+Buvanesh Tharashankar:   Sorry, I didn't get the last part.
+
+
+V.P. Nandakumar:         The competition is there. For any attractive product, there will be competition. But our strength
+                         is our knowledge, which we have gained over decades of doing that, managing different
+                         situations, including price risk, etc. Many of the newcomers may not have that capability.
+                         Regarding the pricing, our pricing remains one of the lowest in the industry. We are able to
+                         look at our customer acquisition and tonnage increase.
+
+
+                         Even in a scenario of the price falling down compared to the previous quarter, our new
+                         customer acquisition has remained very high. Our total customer base has gone up by 11%
+                         year-on-year. Quarter-on-quarter also, our customer base is growing by more than 3%.
+                         Tonnage also is increasing. In spite of the competition, we are able to grow, and we are
+                         confident of withstanding the competition.
+
+
+Gaurav Khandelwal:       Thank you. Those are all my questions.
+
+
+
+
+                                                   Page 10 of 19
+
+                                                                                       Manappuram Finance Limited
+                                                                                               November 12, 2026
+
+Moderator:               Thank you. Next question is from the line of Piran Engineer from CITIC International. Please
+                         go ahead.
+
+
+Piran Engineer:          Yeah. Hi, sir. Congrats on the quarter. Just two questions. One is, your provisioning of INR220
+                         crores on a standalone basis, how much is gold versus non-gold?
+
+
+V.P. Nandakumar:         Buvanesh.
+
+
+Buvanesh Tharashankar:   Yeah, I think largely it will be driven by gold. We also have some prudent management
+                         overlays that we've taken and built into the numbers.
+
+
+Piran Engineer:          Okay, but can you quantify the non-gold part of it?
+
+
+Buvanesh Tharashankar:   Yeah, we will get back to you on that. We will quantify it.
+
+
+Piran Engineer:          Okay, sure. Secondly, how should we think about the trend in opex going forward? You all
+                         have contained it pretty well, but at some point, you are opening 500 branches, you will add
+                         more people, you will have to incentivize your employees. How do we think about opex
+                         growth?
+
+
+V.P. Nandakumar:         See, our online gold loan, OGL, is around 91%. Our existing branches are also growing
+                         without adding more people. With more OGL and technology in place, actually, we have
+                         reduced the manpower in branches without affecting the customer service. Our ability to shift
+                         our customers to online gold loan is really helping us.
+
+
+                         When we add 500 branches, we do not expect much of the employee cost to increase because
+                         we are in the process of rationalizing the field employees. We do not expect that. The opex to
+                         AUM will come down even in spite of opening 500 branches. The employee cost to AUM will
+                         come down.
+
+
+Piran Engineer:          Understood. Yeah. Okay, sir. That is it from my end. Thanks, and wish you all the best.
+
+
+Moderator:               Thank you. Next question is from the line of Srishti Sarda for Oaklane Capital. Please go
+                         ahead.
+
+
+Srishti Sarda:           Sir, I just wanted to know the split of gold loan and non-gold in GNPA. Can you quantify
+                         Stage 2 numbers?
+
+
+V.P. Nandakumar:         Buvanesh.
+
+
+Buvanesh Tharashankar:   Yeah. I'll take the Stage 2 first. On Stage 2, I would say it is between low and mid-single digit.
+                         That's what we have on Stage 2. In terms of GNPA—
+
+
+V.P. Nandakumar:         Just a minute.
+
+
+Buvanesh Tharashankar:   Gold GNPA is about 1.04% for the quarter.
+
+
+Srishti Sarda:           Okay, sir.
+
+
+
+                                                 Page 11 of 19
+
+                                                                                        Manappuram Finance Limited
+                                                                                                November 12, 2026
+
+Buvanesh Tharashankar:   From the overall total GNPA of 1.79%.
+
+
+Srishti Sarda:           Sir, just one more follow-up. Can you also quantify the number of Stage 2 of Q2 FY 2026, if
+                         possible?
+
+
+Buvanesh Tharashankar:   Stage 2 would be much lower. I mean, if you look at gold, because the other portfolios have
+                         been undergoing changes. Overall, MAFIL, I mean, you had VF and other products which are
+                         in wind-down mode. I think, from a gold perspective, it was much lower. It was probably less
+                         than half a percent, same time last year, is what I would look at.
+
+
+Srishti Sarda:           Okay, sir. Thank you.
+
+
+Moderator:               Thank you. Next question is from the line of Shubhranshu Mishra from Phillip Capital. Please
+                         go ahead.
+
+
+Shubhranshu Mishra:      Yeah. Hi, good evening. The first question is around the EMI products. If you do EMI
+                         products, it has to be yield mitigating versus a bullet loan, where the interest is getting accrued
+                         at the end of it or not. How is it at a similar kind of a yield? Can you please elaborate on that?
+                         Second is basically data-keeping questions, if you can quantify on the auctions this quarter.
+                         What is the gold price per gram in INR, and what is the accrued interest as a percentage of
+                         AUM? Thank you.
+
+
+V.P. Nandakumar:         The gross yield on the EMI and the bullet payment combined will remain somewhere around
+                         17.5%-18.5%. That is the expectation. Yield will remain somewhere within that range.
+                         Regarding the auction, yes, Raju, that you can
+
+
+Raju Narayanan:          Yeah. Auction amount is nearly INR100 crores in this quarter. Gold price is on this quarter
+                         two is INR13,526.
+
+
+Shubhranshu Mishra:      What is the accrued interest as a percentage of AUM?
+
+
+Buvanesh Tharashankar:   It is more or less same as that of Q1. We will come back.
+
+
+Shubhranshu Mishra:      What is the number?
+
+
+Buvanesh Tharashankar:   We will come back on that number.
+
+
+Shubhranshu Mishra:      Right. If I can just squeeze in one last question. When we speak to various competition,
+                         whether it is banks or other NBFCs, they come back with the feedback saying that we have
+                         started a price war in various markets, at least five to six states, wherein we are offering very
+                         low teaser rates, less than 1% per month, which basically would be a cumulative or an
+                         effective interest rate of around 12% to 13% on an annualized basis.
+
+
+                         So, if we can speak on that and how is competition yielding to it, and is that a strategy going
+                         forward as well? Or is that something that the new promoters are asking us to do? So, what is
+                         the idea behind all of this? If you can speak on this and clarify this. Thanks.
+
+
+
+
+                                                 Page 12 of 19
+
+                                                                                        Manappuram Finance Limited
+                                                                                                November 12, 2026
+
+V.P. Nandakumar:         We are not in competition and not on a price war, etcetera. We wanted to remain as one of the
+                         attractive lenders for the consumers. So, we are keeping our rates as one of the lowest in the
+                         industry to ensure that our customers are retained and we are able to acquire customers and
+                         make them long-term repeat customers, etcetera.
+
+
+                         It is a long-term strategy. We feel like that will make our business model more sustainable. But
+                         still, whatever we have given the guidance to the market with regard to our ROA and ROE, we
+                         will stick to that. We told ROA to be somewhere between 3.5% to 4% and ROE between 15%
+                         to 18%. We stick to that.
+
+
+Shubhranshu Mishra:      Right. What is the board-approved policy for the pricing of the loans? Do we have a minimum
+                         and so a floor and a ceiling? Has the board approved the policy on that?
+
+
+V.P. Nandakumar:         Yeah. See, we have the board-approved policy. We go by the board-approved policy. Yes, this
+                         changes from time to time with regard to the market rate, etcetera. It is taken to the board and
+                         that takes the board approval. So, it is all market-related. Yeah.
+
+
+Shubhranshu Mishra:      Right. Thank you so much. I will come back in the queue. Best of luck for achieving quarters.
+
+
+V.P. Nandakumar:         Yeah.
+
+
+Moderator:               Thank you. Next question is from the line of Sanket from DAM Capital. Please go ahead.
+
+
+Sanket:                  Yeah, sir. I heard you saying Stage 2 is lower single digit, but it would be helpful if you can
+                         put up a number to it. We are seeing sharp increase in Stage 2 for other peers, and hence the
+                         question. It would be really helpful if you can spell out the number.
+
+
+Buvanesh Tharashankar:   Stage 2, I would say it is about 5% or thereabouts.
+
+
+Sanket:                  Okay.
+
+
+Buvanesh Tharashankar:   This is on the gold AUM.
+
+
+Sanket:                  Okay. Cool, sir. The other thing that we have seen in PPT is that this quarter you have
+                         reclassified some ARC, loss on ARC sale to provisions. How much that amount would be?
+
+
+Buvanesh Tharashankar:   That is about INR14 crores. It is a very small amount.
+
+
+Sanket:                  Okay. Besides that, have we created any overlay since the profitability was strong?
+
+
+Buvanesh Tharashankar:   Yes, we have taken some prudent management overlays over and above the ECL provisioning.
+                         That is something which is dynamic, and we will decide in terms of the environment. We have
+                         just considered it to be prudent to build some management overlays given the strong
+                         momentum.
+
+
+Sanket:                  How much that overlay quantum would be for this quarter?
+
+
+Buvanesh Tharashankar:   We will get back to you on that number.
+
+
+
+                                                 Page 13 of 19
+
+                                                                                       Manappuram Finance Limited
+                                                                                               November 12, 2026
+
+Sanket:                  Okay. Cool. Thank you.
+
+
+Moderator:               Thank you. Next question is from the line of Sameer Bhise from Dymon Asia. Please go
+                         ahead.
+
+
+Sameer Bhise:            Yeah, hi. Thanks for the opportunity and congrats on the quarter. Just wanted to ask how are
+                         you thinking on gold loan growth, especially given the way prices have moved and say
+                         assuming it stays around current level, by next quarter we will be on a lower price on a year-
+                         over-year basis, meaningfully lower price on a year-over-year basis. So how should one think
+                         on growth for the year and maybe next couple of quarters, if you can kind of give a sense?
+
+
+V.P. Nandakumar:         See, we have told you, told the market from the very beginning, we are expecting a growth of
+                         25% to 30%. So we stick to that. We expect we will be able to grow at around 30% in the
+                         current year. And we are able to acquire customers also, customer acquisition has improved,
+                         collections also has improved. So this momentum will continue.
+
+
+Sameer Bhise:            Sure. And just can we have the Stage 2 number for Q1 2027 as well? On the gold business.
+
+
+Buvanesh Tharashankar:   So on the gold business, it was about close to 50 basis points.
+
+
+Sameer Bhise:            Okay, sure. Thanks.
+
+
+Moderator:               Thank you. Next question is from the line of Deep Vakil from Bandhan AMC. Please go
+                         ahead.
+
+
+Deep Vakil:              Sir, we had, I mean, some regulations around to classify loans as income generation and
+                         consumption. I think certain if it's income generation, then we had to kind of write some
+                         underwriting around cash flow-based underwriting. Do we have any color on that? I mean,
+                         what is that proportion of IGL versus consumption loans in us, I mean, in our book? I mean,
+                         what underwriting practices we follow or any color on that?
+
+
+V.P. Nandakumar:         For income generating gold loans, we underwrite the customer. We look at his cash flow, we
+                         look at his other borrowings, etc. On the basis of cash flow, we consider it as a cash flow based
+                         lending. That practice, other than the bullet loan, this is a very different practice where we
+                         have already trained our employees. The numbers Buvanesh can support.
+
+
+Deep Vakil:              Okay.
+
+
+Buvanesh Tharashankar:   Yeah, on…
+
+
+Deep Vakil:              Sir, any proportion that Yeah, sir, sorry, go on.
+
+
+Buvanesh Tharashankar:   No, you were saying something.
+
+
+Deep Vakil:              Yeah, sir. Any proportion that you can give of our overall gold loan book, what will be IGL
+                         and consumption loan? I mean, some ratio.
+
+
+Buvanesh Tharashankar:   Income generating loan is a very small component in my overall gold loan base.
+
+
+                                                 Page 14 of 19
+
+                                                                                      Manappuram Finance Limited
+                                                                                              November 12, 2026
+
+Deep Vakil:              Okay, so it is majorly consumption loans then. Okay.
+
+
+Buvanesh Tharashankar:   Yes, yes.
+
+
+V.P. Nandakumar:         IGGL, income generating gold loan is growing slowly because we have introduced that in a
+                         phased manner, training our employees to assess cash flow, etcetera. You will see gradual
+                         increase in the disbursal in IGGL going forward.
+
+
+Deep Vakil:              Okay. And sir, any analysis that we do around, I mean, some percentage fall in gold price and
+                         what impact does it have on our LTV? And sir, I think in some of the parts, people asked the
+                         question of gold price in rupees. Can you please repeat that number?
+
+
+V.P. Nandakumar:         See, at the beginning itself, the opening remarks also about our average LTV, today in our
+                         books is around 65%. You look at the published data of other lenders, all of them are much far
+                         higher than LTV than us, most of them. That shows our prudent practices in managing the
+                         LTV.
+
+
+Buvanesh Tharashankar:   Gold price mentioned earlier is INR13,526.
+
+
+Deep Vakil:              INR13,526. Okay, sir. Okay, thank you.
+
+
+Moderator:               Thank you. Next question is from the line of Nidhesh Jain from Investec. Please go ahead.
+
+
+Nidhesh Jain:            Thanks for the opportunity. The first question is on distribution of LTV. What percentage will
+                         be above 80% LTV?
+
+
+V.P. Nandakumar:         Buvanesh.
+
+
+Buvanesh Tharashankar:   We will have to get back to you on that.
+
+
+Nidhesh Jain:            Sure, sure. And second, what percentage of our book will be bullet loan and what will be non-
+                         bullet?
+
+
+Buvanesh Tharashankar:   Most, large component, I mean, the majority of our book is largely bullet. And given that, you
+                         know, these schemes are been recently introduced, you know, in the first quarter, they are a
+                         smaller component, both the IGGL and the EMI based loans, they are much smaller
+                         component. Majority is all bullet schemes.
+
+
+Nidhesh Jain:            So majority basically 90%, we should take 90%+ or?
+
+
+Buvanesh Tharashankar:   Yeah, 90% plus. Yeah, yeah, absolutely.
+
+
+Nidhesh Jain:            What is the quantum of auction we have done in this quarter and in first half?
+
+
+Buvanesh Tharashankar:   INR100 crores in this quarter.
+
+
+Nidhesh Jain:            Okay. In the first half?
+
+
+Raju Narayanan:          Okay. One, three. Yeah, first quarter is INR13 crores a. So total INR115 crores.
+
+
+                                                    Page 15 of 19
+
+                                                                                      Manappuram Finance Limited
+                                                                                              November 12, 2026
+
+Nidhesh Jain:            Okay. This is based on this monthly scheme. Going forward, we will continue to see share of
+                         monthly schemes going up, or how do you see that playing out?
+
+
+V.P. Nandakumar:         It is gradual. As I mentioned, it will be gradual. We are training our employees, and that has
+                         been done in a phased manner. Gradually, it will improve.
+
+
+Nidhesh Jain:            But if you can get some color on how the share of monthly scheme on incremental
+                         disbursement, that would be useful.
+
+
+V.P. Nandakumar:         Gradually, can you check?
+
+
+Raju Narayanan:          Currently around this less than 10% only, 8%-10% only, this monthly or quarterly payment
+                         category scheme. As told earlier, it's gradual only because customer also we are sharing details
+                         and educating them, and also employee also. It will be in the gradual mode.
+
+
+Nidhesh Jain:            Is it even on the incremental disbursement, the share is 10%?
+
+
+Raju Narayanan:          That level only. Majority are bullet at the moment.
+
+
+Nidhesh Jain:            Sure. Thank you, sir. That is it from my side.
+
+
+Moderator:               Thank you. Next question is from the line of Gaurav from MLP. Please go ahead.
+
+
+Gaurav:                  Yeah, thank you for taking my question. I have a couple of questions. One is, sir, if you can
+                         quantify what was the quantum of overlay that you created in this quarter? If you can quantify,
+                         because provisions seem to have gone up sequentially. Just wanted to understand the overlay
+                         or the discretionary element of the provisions.
+
+
+Buvanesh Tharashankar:   In terms of the overlay, I would say of the 1.79% cost that we are seeing, you can say about 70
+                         to 80 basis points would be the overlay.
+
+
+Gaurav:                  Understood. Perfect. The second question is regarding the Stage 2. Stage 2 currently is at 5%.
+                         Let's say by end of this year, do you expect this to normalize? Normalize as in what we saw in
+                         1Q, we were at about 50 basis points, give or take. Do you expect this in the next couple of
+                         quarters to self-cure?
+
+
+Buvanesh Tharashankar:   Early reads, what we are seeing right now are encouraging in terms of getting the collections
+                         on from the customer. But as I said, these are all early reads and largely attributable to
+                         behavior of customers getting used to this kind of product. As of now, because it's something
+                         very new, it's difficult to predict what the normalized trend would be, right, in a particular
+                         product.
+
+
+Gaurav:                  Sure. But it's already started trending down. Is that a fresh statement to make, let's say in
+                         October or November?
+
+
+Buvanesh Tharashankar:   Yeah. The early reads are that from the levels of what we have seen in September-
+
+
+Gaurav:                  Right
+
+
+                                                  Page 16 of 19
+
+                                                                                         Manappuram Finance Limited
+                                                                                                 November 12, 2026
+
+Buvanesh Tharashankar:   We have been able to collect a fair bit. This is something that is on a rolling basis, you will see
+                         a certain inflow as well into Stage 2. Where it will normalize and that would be a normal trend,
+                         that is a little difficult to predict at this stage.
+
+
+Gaurav:                  Understood. Just a data-keeping question. On the overall, let's say, management overlay over
+                         and above your ECL, how much overlay are we carrying on our books cumulatively? If you
+                         can highlight that.
+
+
+Buvanesh Tharashankar:   I will get back to you on terms of overall how much overlay we are carrying. We continue to
+                         maintain prudent overlays in our financials. It is almost akin to like a countercyclical buffer
+                         given the overall conditions that we are seeing.
+
+
+Gaurav:                  Got it. Is it something that we have been creating earlier also, or it is only something that we
+                         started last quarter and this quarter? Or this is something we have been carrying for legacy
+                         book as well?
+
+
+Buvanesh Tharashankar:   It is something that we assess every quarter. It is not necessarily a FY27 phenomenon. There
+                         are overlays which we have taken in the past, and we will continue to assess and create prudent
+                         buffers where required.
+
+
+Gaurav:                  Right. Understood. That is perfect. Just last question is on Asirvad. This time we saw AUM
+                         growth of 10% sequentially. Going forward, typically second half is always better in case of
+                         MFI. Can we assume the growth rate to pick up in the second half from here?
+
+
+Manoj Pasangha:          It is not growth focused. We are going to continue to have a very calibrated method of
+                         growing. If circumstances allow us, with absolutely no compromise to underwriting, and if the
+                         growth was to happen in spite of our strict underwriting norms, so be it. But we are not looking
+                         at anything to perpetually go for growth behind growth.
+
+
+Gaurav:                  Understood. But anything that you are targeting, let us say next year? This year, while I
+                         understand it is going to be calibrated, let us say for next year, what kind of growth should be
+                         penciled in for Asirvad?
+
+
+Manoj Pasangha:          The way they are building the book now, I think there is a very positive trend from the Q4 of
+                         last year to Q1 of this year and the Q2 of this year. I think our top line has been growing, and
+                         the running down of a book is now a thing of the past. Going by this trend, I think we are
+                         looking at a steady book, steady growth in the same kind of growth rates that you've seen over
+                         the last two quarters. I see no difference in the next year as well.
+
+
+Gaurav:                  Perfect. Thank you so much for answering all my questions. That's all from my side, and all
+                         the best.
+
+
+Moderator:               Thank you. Next question is from the line of Vedant Sarda from Nirmal Bang Securities.
+                         Please go ahead.
+
+
+Vedant Sarda:            Thank you for the opportunity. My question is with respect to the yields. We are telling with
+                         respect to competition that you are providing the attractive rates. That is agreed, you will
+
+
+                                                    Page 17 of 19
+
+                                                                                 Manappuram Finance Limited
+                                                                                         November 12, 2026
+
+                   always provide attractive rates as compared to industry. But what is your take on the yields
+                   part? In coming two- three years, how do you look at the gold on yields to settle down at?
+
+
+V.P. Nandakumar:   I expect that to be somewhere in the range of in three years, maybe around 17% in three years.
+                   But all depends on the borrowing cost, how it is going to be, the borrowing cost, the policy.
+                   Accordingly, then that can be changed also. It can be even 18%, even more also. A lot of
+                   external factors are also influencing that.
+
+
+Vedant Sarda:      Yes, borrowing cost is one factor. I am asking you with respect to the competitive intensity,
+                   like other participants also competing and considering that thing?
+
+
+V.P. Nandakumar:   So, I believe there is some agreements around somewhere around 18% now, among the top
+                   players.
+
+
+Vedant Sarda:      Okay, 17% to 18% kind of yield you see.
+
+
+V.P. Nandakumar:   Yeah.
+
+
+Vedant Sarda:      Thank you. Thank you for your answers, sir.
+
+
+Moderator:         Thank you. Next question is from the line of Bhaskar Basu from Jefferies. Please go ahead.
+
+
+Bhaskar Basu:      Yeah, thanks for taking my call. One question I had was regarding the shorter tenure gold loan
+                   products which you are offering. As we have seen across players, there has been an increase in
+                   Stage 2, etcetera. What is the thought process? Would you like to keep pushing this product, or
+                   would you like to kind of revert back to the traditional bullet product? Is there any thought
+                   process around it? Few players have actually stopped doing this product, is what we
+                   understand.
+
+
+V.P. Nandakumar:   We are also slowly moving to from three months to six months product to one-year product.
+                   We lend to these short-term products only after assessing the customers. It will come down.
+                   Short-term products will come down, and more of it will go down to one-year product.
+
+
+Bhaskar Basu:      To be clear, you are essentially trying to move back to those earlier traditional bullet products
+                   or…
+
+
+V.P. Nandakumar:   For those customers who are very clear about short-term requirement, we will continue with
+                   that. For others who have no certainty about short-term redemption, we will move to one year
+                   term.
+
+
+Bhaskar Basu:      Okay. Thanks. That's all, man.
+
+
+V.P. Nandakumar:   We don't induce the customer to avail short-term loans.
+
+
+Bhaskar Basu:      Okay. Yeah, because the collection intensity, etcetera, is much more intense requirements in
+                   this segment. Yeah, which is what some other players are realizing.
+
+
+
+
+                                           Page 18 of 19
+
+                                                                              Manappuram Finance Limited
+                                                                                      November 12, 2026
+
+V.P. Nandakumar:   Yeah. In the case of short-term products, managing the price risk could be better. But at the
+                   same time, we should put customers, go after customer's demands also. Options with the
+                   customer.
+
+
+Bhaskar Basu:      Okay. Thanks.
+
+
+Moderator:         Thank you. Ladies and gentlemen, that was the last question for today. I now hand the
+                   conference over to management for closing comments.
+
+
+V.P. Nandakumar:   Well, thank you very much for your active participation. Any further questions, we are
+                   available, and management is available. Thank you.
+
+
+Moderator:         Thank you. Ladies and gentlemen, on behalf of Motilal Oswal Financial Services Limited and
+                   Manappuram Finance, that concludes this conference. Thank you for joining us, and you may
+                   now disconnect. Thank you.
+
+
+V.P. Nandakumar:   Thank you.
+
+
+
+
+                                         Page 19 of 19
+

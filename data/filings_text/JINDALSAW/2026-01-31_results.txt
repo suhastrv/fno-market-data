@@ -1,0 +1,4162 @@
+
+
+
+       Price Waterhouse Chartered Accountants LLP
+
+
+
+
+Independent Auditor's Report
+
+
+
+To the Members of Jindal Saw Limited
+
+
+
+Report on the Audit of the Standalone Financial Statements
+
+
+
+
+Opinion
+
+
+
+
+1.   We have audited the accompanying standalone financial statements of Jindal Saw Limited ("the Company"),
+
+     which comprise the Standalone Balance Sheet as                                at March 31,       2023,      and the Standalone Statement of Profit
+
+     and Los        (including Other Comprehensive Income), the Standalone Statement of Changes i n Equity and the
+
+     Standalone          tatement of Cash Flows for the year then ended, and note                                  to the standalone financial statements,
+
+     including a summary of significant accounting policies and other explanatory information a n d which include
+
+     the financial         tatements of Jindal Saw Employee Welfare Trust (the "Trust") for the year ended on that date.
+
+
+
+
+2.   In our opinion and to the best of our information and according to the explanations given to us, the aforesaid
+
+     standalone financial statements give the information required by the Companies Act,                                                       2013      ("the Act") in the
+
+     manner so required                 and give a true and fair view in conformity with the accounting principles generally
+
+     accepted in India, of the                 tate of affairs of the Company as at March 3 1 , 2 0 2 3 , and total comprehensive income
+
+     (comprising of profit and other comprehensive income), changes in equity and its cash flows for the year then
+
+     ended.
+
+
+
+
+Basis for Opinion
+
+
+
+
+3.   We conducted our audit i n accordance with the Standards on Auditing (SAs) specified under Section 143(10)
+
+     of the Act. O u r responsibilities under those Standards are further described in the "Auditor's Respon i b i l i ti es
+
+     for the Audit of the               Standalone Financial              Statements         section     of our report.              We are independent of the
+
+     Company in accordanc                      with the Code of Ethics issued by tile Institute of Chartered Accountants of India
+
+     together with tbe ethical requirements that ar                              relevant to our audit of the financial statements under the
+
+     provisions of the Act and the Rules thereunder, and we have fu l fi l l e d our other ethical responsibilities in
+
+     accordance with these requirements and the                                Code of Ethics.        We believe that the audit evidence we have
+
+     obtained is sufficient and appropriate to provide a basis for our opinion.
+
+
+
+
+Emphasis of Matter
+
+
+
+
+4.    We draw your attention to Note 51 to the standalone financial statements regarding related party transactions
+
+      entered into by the Company, which are in excess of the limits approved by the Audit Committee of the Board
+
+      of Directors and the shareholders as required under Regulation                                         23    of the SEBI (Listing Obligations                              and
+
+      Disclosure        Requirements)               Regulations,        2015    (as   amended).        The     Company has                 intimated the              said non­
+
+      compliance to the stock exchange(s), and action, if any, against the Company by the Securities and Exchange
+
+      Board of India is presently not ascertainable.
+
+
+
+
+     Our opinion is not modified in respect of this matter.
+
+
+
+
+      Price Waterhouse Chartered Accountants LLP, Building No. 8, 8th Floor, Tower - B, DLF Cyber City, Gurugram - 122 002
+
+      T: + 9 1 (124) 4620000, F: + 9 1 (124) 4620620
+
+
+      Registered office and Head office: 1 1 - A , Vishnu Digamber Marg, Such eta Bhawan. Gate No 2,   1 s t Floor, New Delhi - 1 1 0 0 0 2
+
+
+
+
+      Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartorod Accountants LLP (a Limited Liability Partnership with LLP idenlity no: LLPIN AA C - 5 0 0 1 )
+
+      with effect from July 25, 2 0 1 4 .   Post Its conversion to Price Waterhouse Chartered Accountants LLP,   its ICAI registration number is 0 1 2 7 5 4 N / N 5 0 0 0 1 6 (ICAI   registration
+
+      number before conversion was 012754N)
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+
+Report on Audit of the Standalone Financial Statements
+
+Page 2 of7
+
+
+
+
+Key audit matters
+
+
+
+
+5.   Key audit matters are those matters that, in our professional judgement, were of most significance in our audit
+
+     of the standalone financial statements of the current period. These matters were addressed in the context of
+
+     our audit of the standalone financial statements as a whole and in forming our opinion thereon, and we do not
+
+     provide a separate opinion on these matters.
+
+
+
+
+     Key audit matter:
+
+
+
+
+5. 1 Assessment of the carrying value of investment in and loans granted to a subsidiary, Jindal
+
+     ITF   Limited      [Refer    to   note    3.6,   3.12(a),    4(0   and   note    60    to   the   Standalone       Financial
+
+     Statements]
+
+
+
+
+     Description of Key Audit Matter:
+
+
+
+
+     The carrying amount of the Company's investment in its subsidiary, Jindal ITF Limited (the 'subsidiary') as
+
+     at March 31, 2023 is Rs. 64,663.28 lakhs, which includes investment in redeemable preference shares ("RPS")
+
+     of the subsidiary amounting to Rs. 52,550.81 lakhs. During the year, the redemption date of the RPS was
+
+     extended by five years and a redemption premium payable on maturity with effect from the date of issue of
+
+     the RPS, was introduced. These modifications to the terms of the RPS resulted in a change in fair value of the
+
+     debt component of the RPS and recognition of a gain of Rs. 19,783.01 lakhs in the Statement of profit and
+
+     loss. Further, the outstanding balance of loans and advances granted to the said subsidiary is Rs. 144,191.02
+
+     lakhs as at March 31, 2 0 2 3 .
+
+
+
+
+     The subsidiary had entered into a contract in the financial year 2015-16 with a public sector undertaking
+
+     ('PSU') for transporting imported coal to one of the PSU's power generating stations. The contract was for a
+
+     period of seven years and the subsidiary was the sole transporter and accordingly, had made significant
+
+     investments to develop the facility. The contract had a clause for compensation in case the supply was lesser
+
+     than the minimum guaranteed quantity ('MGQ') mentioned in the contract and had specific clauses to be
+
+     adhered to by both the parties before terminating the contract.
+
+
+
+
+     The PSU stopped taking the supplies during the first year of operation and refused to pay compensation
+
+     towards MGQ and terminated the contract subsequently. The matter was referred to arbitration where the
+
+     arbitrator had awarded an interim award amounting to Rs. 35,631.18 lakhs in favour of the subsidiary relating
+
+     to first 2 years of MGQ which was paid by the PSU, against an equivalent amount of bank guarantee furnished
+
+     by the subsidiary. Subsequently, the arbitrator issued the final order in favour of the subsidiary awarding Rs.
+
+     189,108 lakhs plus interest and applicable taxes.
+
+
+
+
+     The PSU has filed an appeal with Hon'ble High Court of Delhi against the final arbitration order. The Hon'ble
+
+     High Court passed an interim order directing the PSU to pay Rs. 50,000 lakhs as an interim compensation
+
+     which was paid by the PSU against an equivalent amount of bank guarantee furnished by the subsidiary.
+
+     Currently,   the   matter   is   under   litigation   and   pending   before   the   Hon'ble   High   Court   of   Delhi.   The
+
+     management, in consultation with their legal counsel on the likely outcome of the case, has assessed that the
+
+     carrying amount of investments in and loans granted to the subsidiary including interest thereon, are good
+
+     and recoverable.
+
+
+
+
+     This has been determined as a key audit matter as the investment made, and loans granted are material to
+
+     the Standalone Financial Statements and the subsidiary is currently having insignificant operations. Further,
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+
+Report on Audit of the Standalone Financial Statements
+
+Page 3 of7
+
+
+
+    the recovery of investment and loan granted depends on the ultimate recovery of the remaining compensation
+
+    from the PSU by the subsidiary.
+
+
+
+
+    How our audit addressed the key audit matter:
+
+
+
+
+    We performed the following procedures :
+
+
+
+
+•   Understood and evaluated the design and performed testing of operating effectiveness of controls over
+
+    recognition and assessment of recoverability of the investment in and the loans given to the subsidiary.
+
+•   Obtained an understanding of the matter and enquired about updates over the legal case and the proceedings
+
+    that took place during the year.
+
+•   Evaluated appropriateness of the accounting policy of the Company in respect of impairment assessment of
+
+    equity investments, loans given and modification to the terms of a compound financial instruments (i.e.,
+
+    RPS).
+
+•   Perused the contract between the subsidiary and the PSU to corroborate the matters stated in the appeal and
+
+    details of the claim filed by the subsidiary with the Arbitration Tribunal and the final arbitration order issued
+
+    in this regard.
+
+•   Evaluated the recoverability of the said loans and investments considering the arbitration order decided in
+
+    favour of the subsidiary.
+
+•   Evaluated the opinion obtained from the Company's external legal counsel on likely outcome of the case
+
+    which supports the Company's assessment about recoverability of the said loan and investment balances.
+
+•   Read the minutes of the meetings of the board of directors and understood the modification to the terms of
+
+    the RPS of the subsidiary
+
+•   Read the opinions obtained by the Company and involved auditor's experts to assess the appropriateness of
+
+    the gain recognised on modification to the terms of the RPS.
+
+•   Evaluated the appropriateness of presentation and adequacy of the disclosures          made in the standalone
+
+    financial statements.
+
+
+
+    Based on the procedures above, the management's assessment of the carrying value of the investment and
+
+    Joans in the said subsidiary was considered to be reasonable.
+
+
+
+
+5.2 Assessment of carrying value of investments in a subsidiary, Jindal Quality Tubular Limited
+
+    and an associate, Jindal Fittings Limited [Refer to note 3 . 6 , 3.12(a), 4(0 and note 8 to the
+
+    Standalone Financial Statements]
+
+
+
+    Description of Key Audit Matter:
+
+
+
+
+    The   carrying value of Company's    investments include unquoted investments       in the form   of equity and
+
+    preference shares in a subsidiary, Jindal Quality Tubular Limited (JQTL) and in an associate, Jindal Fittings
+
+    Limited (JFL), aggregating Rs. 14,823.38 lakhs respectively. The Company accounts for equity investments
+
+    in subsidiaries and associate at cost (subject to impairment assessment) and preference shares are carried at
+
+    amortised cost. The carrying value of these investments as at the year end has been assessed for impairment
+
+    by the Company basis an independent valuation carried out by a third party.
+
+
+
+    The key inputs and judgements involved in the impairment assessment of unquoted investments include:
+
+
+
+•   Forecast cash flows including assumptions on growth rates
+
+•   Discount rates of 1 2 . 8 2 % for JFL and 14.17% for JQTL
+
+•   Terminal growth rate of 4% for JFL and 1 % for JQTL
+
+•   Economic and entity specific factors incorporated in the valuation.
+
+
+
+    The assessment of carrying value of such investments is a key audit matter as the determination of recoverable
+
+    value for impairment assessment involves significant management judgement and estimates.
+
+ INDEPENDENT AUDITOR'S REPORT
+
+
+
+ To the Members of Jindal Saw Limited
+
+ Report on Audit of the Standalone Financial Statements
+
+ Page a of z
+
+
+
+      How our audit addressed the key audit matter:
+
+
+
+      We performed the following procedures:
+
+
+
+
+ •    Understood and evaluated the design and tested the operating effectiveness of the Company's controls over
+
+      monitoring the performance of the subsidiary and associate and performing an impairment assessment.
+
+ •    Evaluated the appropriateness of the accounting policy of the Company in respect of impairment assessment
+
+      of investments in equity and preference shares.
+
+ •    Obtained the management's valuation calculations supported by an independent report of a third party and
+
+      performed enquiries with the management to understand the assumptions, including the discount rate and
+
+      the growth rates, underlying in the forecast.
+
+ •    Assessed the reasonableness of the growth rates used in the forecast with the current orders in hand and
+
+      historical growth rates where the impairment indicators exist.
+
+ •    Assessed, with the involvement of auditor's expert, the appropriateness of financial projections, discount rate
+
+      and terminal values used in the valuation calculations.
+
+ •    Performed sensitivity tests over the key assumptions and considered .them to be within a reasonable and
+
+      foreseeable range.
+
+ •    Assessed the historical accuracy of the forecasts by comparing the forecast used in the prior year valuation
+
+      with the actual performance in the current year. In case the actual performance was lower than the forecast,
+
+      we obtained the reasons thereof from the management.
+
+ •    Tested the mathematical accuracy of the underlying calculations.
+
+ •    Evaluated the appropriateness of presentation and adequacy of the disclosures made in the Standalone
+
+      Financial Statements.
+
+
+
+
+     Based on the above audit procedures, the management's assessment of the carrying value of the investments
+
+     in the subsidiary and associate company was considered to be reasonable.
+
+
+
+
+     Other Information
+
+
+
+6.   The Company's Board of Directors is responsible for the other information. The other information comprises
+
+     the information included in the Annual report, but does not include the financial statements and our auditor's
+
+     report thereon.
+
+     Our opinion on the financial statements does not cover the other information and we do not express any form
+
+     of assurance conclusion thereon.
+
+     In connection with our audit of the financial statements, our responsibility is to read the other information
+
+     and,   in   doing   so,   consider whether the      other     information   is   materially   inconsistent   with   the   financial
+
+     statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If, based
+
+     on the work we have performed, we conclude that there is a material misstatement of this other information,
+
+     we are required to report that fact.
+
+     We have nothing to report in this regard.
+
+
+
+
+Responsibilities of management and those charged with governance for the standalone financial
+
+statements
+
+
+
+7.   The Company's Board of Directors is responsible for the matters stated in Section 134(5) of the Act with respect
+
+     to the preparation of these standalone financial statements that give a true and fair view of the financial
+
+     position, financial performance, changes in equity and cash flows of the Company in accordance with the
+
+     accounting principles generally accepted in India, including the Accounting Standards specified under Section
+
+     133 of the Act. This responsibility also includes maintenance of adequate accounting records in accordance
+
+     with the provisions of the Act for safeguarding of the assets of the Company and for preventing and detecting
+
+     frauds      and   other   irregularities;   selection   and   application   of   appropriate    accounting    policies;    making
+
+
+     judgments     and estimates that are reasonable and prudent; and design, implementation and maintenance of
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+
+Report on Audit of the Standalone Financial Statements
+
+Page 5 of7
+
+
+
+     adequate   internal   financial   controls,   that   were   operating    effectively    for   ensuring   the   accuracy    and
+
+     completeness    of the   accounting   records,   relevant   to   the   preparation     and    presentation   of the   financial
+
+     statements that give a true and fair view and are free from material misstatement, whether due to fraud or
+
+     error.
+
+
+
+
+8.   In preparing the standalone financial statements, management is responsible for assessing the Company's
+
+     ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+
+     going concern basis of accounting unless management either intends to liquidate the Company or to cease
+
+     operations, or has no realistic alternative but to do so. Those Board of Directors are also responsible for
+
+     overseeing the Company's financial reporting process.
+
+
+
+
+Auditor's responsibilities for the audit of the standalone financial statements
+
+
+
+9.   Our objectives are to obtain reasonable assurance about whether the standalone financial statements as a
+
+     whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+
+     includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit
+
+     conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements
+
+     can arise from fraud or error and are considered material if, individually or in the aggregate, they could
+
+     reasonably be expected to influence the economic decisions of users taken on the basis of these standalone
+
+     financial statements.
+
+
+
+
+10. As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+
+     scepticism throughout the audit. We also:
+
+
+     •   Identify and assess the risks of material misstatement of the standalone financial statements, whether due
+
+         to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence
+
+         that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material
+
+         misstatement resulting from fraud is higher than for one resulting from error,                   as fraud may involve
+
+         collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+     •   Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+
+         are appropriate in the circumstances. Under Section 143(3)(i) of the Act, we are also responsible for
+
+         expressing our opinion on whether the Company has adequate internal financial controls with reference
+
+         to financial statements in place and the operating effectiveness of such controls.
+
+     •   Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates
+
+         and related disclosures made by management.
+
+     •   Conclude on the appropriateness of management's use of the going concern basis of accounting and, based
+
+         on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that
+
+         may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a
+
+         material uncertainty exists, we are required to         draw attention in        our auditor's   report to the related
+
+         disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our
+
+         conclusions are based on the audit evidence obtained up to the date of our auditor's report. However,
+
+         future events or conditions may cause the Company to cease to continue as a going concern.
+
+     •   Evaluate the overall presentation, structure and content of the standalone financial statements, including
+
+         the disclosures, and whether the financial statements represent the underlying transactions and events in
+
+         a manner that achieves fair presentation.
+
+
+
+
+11. We communicate with those charged with governance regarding, among other matters, the planned scope and
+
+     timing of the audit and significant audit findings, including any significant deficiencies in internal control that
+
+     we identify during our audit.
+
+
+
+
+12. We also provide those charged with governance with a statement that we have complied with relevant ethical
+
+     requirements regarding independence, and to communicate with them all relationships and other matters that
+
+     may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+Report on Audit of the Standalone Financial Statements
+Page 6 of7
+
+
+
+13. From the matters communicated with those charged with governance, we determine those matters that were
+
+   of most significance in the audit of the standalone financial statements of the current period and are therefore
+
+   the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes
+
+   public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter
+
+   should not be communicated in our report because the adverse consequences of doing so would reasonably be
+
+   expected to outweigh the public interest benefits of such communication.
+
+
+
+
+Other Matter
+
+
+
+14. We did not audit the financial statements of the Trust included in the standalone financial statements of the
+
+   Company, which constitute total assets of Rs. 1,576.54 lakhs and net assets of Rs. 70.91 lakhs as at March 31,
+
+   2023, total revenue of Rs. 45,43 lakhs, net excess of income over expenditure of Rs. 26.89 lakhs and net cash
+
+   flows amounting to Rs. (138.87) lakhs for the year then ended. These financial statements have been audited
+
+   by other auditors whose         report has been furnished to us          by the management,             and   our opinion    on the
+
+   standalone financial statements in so far as it relates to the amounts and disclosures included in respect of the
+
+   Trust, is based solely on the report of such other auditor.
+
+
+
+
+   Our opinion is not modified in respect of above matter.
+
+
+
+
+Report on other legal and regulatory requirements
+
+
+
+15. As    required   by   the   Companies   (Auditor's      Report)   Order,   2020    ("the   Order"),     issued   by   the   Central
+
+   Government of India in terms of sub-section (11) of Section 143 of the Act, we give in the Annexure B a
+
+   statement on the matters specified in paragraphs 3 and 4 of the Order, to the extent applicable.
+
+
+
+
+16. As required by Section 143(3) of the Act, we report that:
+
+
+    (a)   We have sought and obtained all the information and explanations which to the best of our knowledge
+
+          and belief were necessary for the purposes of our audit.
+
+
+
+    (b)   In our opinion, proper books of account as required by law have been kept by the Company so far as it
+
+          appears from our examination of those books.
+
+
+
+    (c)   The    Standalone     Balance   Sheet,   the   Standalone      Statement    of    Profit   and    Loss   (including    other
+
+          comprehensive income), the Standalone Statement of Changes in Equity and the Standalone Statement
+
+          of Cash Flows dealt with by this Report are in agreement with the books of account.
+
+
+
+    (d)   In our opinion, the aforesaid standalone financial statements comply with the Accounting Standards
+
+          specified under Section 133 of the Act.
+
+
+
+    (e)   On the basis of the written representations received from the directors as on March 3 1 , 2023, taken on
+
+          record by the Board of Directors, none of the directors is disqualified as on March 31, 2023, from being
+
+          appointed as a director in terms of Section 164(2) of the Act.
+
+
+
+   (f)    With respect to the adequacy of the internal financial controls with reference to financial statements of
+
+          the Company and the operating effectiveness of such controls, refer to our separate Report in "Annexure
+
+          A".
+
+
+
+
+   (g)    With respect to the other matters to be included in the Auditor's Report in accordance with Rule 11 of the
+
+          Companies       (Audit and Auditors)     Rules,   2014   (as   amended),    in   our opinion and to the best of our
+
+          information and according to the explanations given to us:
+
+
+
+
+           i.   The Company has disclosed the impact of pending litigations on its financial position in its financial
+
+                statements - Refer Note 52 to the standalone financial statements;
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+
+Report on Audit of the Standalone Financial Statements
+
+Page 7 of7
+
+
+
+           ii.   The     Company          has       long-term      contracts     as    at   March     31,    2023    for    which        there    are   no    material
+
+                 foreseeable losses. The Company did not have any long-term derivative contracts                                                  as at March 31,
+
+                 2023;
+
+
+          m.     There      has     been       no    delay   in   transferring        amounts,       required     to   be    transferred,         to    the   Investor
+
+                 Education and            Protection Fund by the Company                       except in respect of dividend                    amounting to Rs.
+
+                 334.38 lakhs which according to the information and explanation provided to us by the management,
+
+                 has been kept in abeyance due to legal cases [refer note 30 to the standalone financial statements];
+
+
+
+
+          iv,    (a) The management has represented that, to the best of its knowledge and belief, as disclosed in the
+
+                       notes to the accounts, no funds have been advanced or loaned or invested (either from borrowed
+
+                       funds or share premium or any other sources or kind of funds) by the Company to or in any other
+
+                       person(s)     or entity(ies), including foreign entities                       ("Intermediaries"),           with the understanding,
+
+                       whether      recorded          in   writing    or   otherwise,        that    the   Intermediary           shall,   whether,      directly     or
+
+                       indirectly, lend or invest in other persons or entities identified in any manner whatsoever by or
+
+                       on behalf of the Company ("Ultimate Beneficiaries") or provide any guarantee, security or the like
+
+                       on   behalf       of    the    Ultimate       Beneficiaries          [Refer    Note    so(k)(I)       to    the     standalone         financial
+
+                       statements];
+
+
+
+
+                 (b) The management has represented that, to the best of its knowledge and belief, as disclosed in the
+
+                       notes   to   the       accounts,      no   funds    have    been      received      by the    Company          from       any    person(s)     or
+
+                       entity(ies),      including         foreign    entities     ("Funding         Parties"),     with     the    understanding,            whether
+
+                       recorded in writing or otherwise, that the Company shall, whether, directly or indirectly, lend or
+
+                       invest in other persons or entities identified in any manner whatsoever by or on behalf of the
+
+                       Funding Party ("Ultimate Beneficiaries") or provide any guarantee, security or the like on behalf
+
+                       of the Ultimate Beneficiaries [Refer Note 5o(k)(II) to the standalone financial statements]; and
+
+
+
+                 (c)    Based       on   such        audit   procedures        that    we     considered       reasonable           and     appropriate         in   the
+
+                       circumstances,              nothing    has    come     to      our    notice    that   has      caused        us    to    believe      that   the
+
+                       representations under sub-clause (a) and (b) contain any material misstatement.
+
+
+
+
+           v.    The dividend declared and paid during the year by the Company is in compliance with Section 123 of
+
+                 the Act.
+
+
+
+          vi.    As proviso to Rule 3(1) of the Companies (Accounts) Rules, 201 4 (as amended), which provides for
+
+                 books of account to have the feature of audit trail, edit log and related                                         matters in the accounting
+
+                 software used by the Company,                       is applicable to the Company only with effect from financial year
+
+                 begi n ning April            1,   2023,   the    repo rt ing under clause           (g)   of Rule     11   of the    Companies          (Audit and
+
+                 Auditors) Rules, 201 4 (as amended), is currently not applicable.
+
+
+17.   The Company has paid/ provided for managerial remuneration in accordance with the requisite approvals
+
+      mandated by the provisions of Section 197 read with Schedule V to the Act.
+
+
+
+
+ For Price Waterhouse Chartered Accountant LLP
+
+ Firm Registration Number: 01 2754N/ N 5 0001 6
+
+
+
+
+ Sou:r.,;v �v-
+
+ Partner
+
+      embership Num b er : 0 57 0 84
+
+ U D I N: 2 30 57 0 84 B GY F RG8 3 67
+
+
+
+ Place : Gurugram
+
+ Date: May 17, 2023
+
+Annexure A to Independent Auditor's Report
+
+
+
+Referred to in paragraph 16(f) of the Independent Auditor's Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 1 of 2
+
+
+
+Report on the Internal Financial Controls with reference to Financial Statements under
+
+clause (i) of sub-section 3 of Section 143 of the Act
+
+
+
+1.   We have audited the internal financial controls with reference to financial statements of Jindal Saw
+
+     Limited ("the Company") as of March 31, 2023 in conjunction with our audit of the standalone financial
+
+     statements of the Company for the year ended on that date.
+
+
+
+Management's Responsibility for Internal Financial Controls
+
+
+
+2.   The Company's management is responsible for establishing and maintaining internal financial controls
+
+     based on the internal control over financial reporting criteria established by the Company considering
+
+     the essential components of internal control stated in the Guidance Note on Audit oflnternal Financial
+
+     Controls    Over      Financial   Reporting       ("the    Guidance    Note")    issued    by   the    Institute     of Chartered
+
+     Accountants      of    India   ("ICAI").    These      responsibilities   include    the    design,       implementation         and
+
+     maintenance of adequate internal financial controls that were operating effectively for ensuring the
+
+     orderly    and   efficient     conduct     of   its   business,   including     adherence       to    company's      policies,   the
+
+     safeguarding     of its   assets,   the    prevention      and    detection   of frauds    and       errors,   the   accuracy and
+
+     completeness of the accounting records, and the timely preparation of reliable financial information,
+
+     as required under the Act.
+
+
+
+Auditor's Responsibility
+
+
+
+3.   Our responsibility is to express an opinion on the Company's internal financial controls with reference
+
+     to financial statements based on our audit. We conducted our audit in accordance with the Guidance
+
+     Note on Audit of Internal Financial Controls Over Financial Reporting (the "Guidance Note") and the
+
+     Standards on Auditing deemed to be prescribed under Section 143(10) of the Act to the extent applicable
+
+     to an audit of internal financial controls, both applicable to an audit of internal financial controls and
+
+     both issued by the ICAI. Those Standards and the Guidance Note require that we comply with ethical
+
+     requirements and plan and perform the audit to obtain reasonable assurance about whether adequate
+
+     internal financial controls with reference to financial statements was established and maintained and
+
+     if such controls operated effectively in all material respects.
+
+
+
+4.   Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal
+
+     financial controls system with reference to financial statements and their operating effectiveness. Our
+
+     audit    of internal financial      controls with         reference to financial    statements         included obtaining        an
+
+     understanding of internal financial controls with reference to financial statements, assessing the risk
+
+     that a material weakness exists, and testing and evaluating the design and operating effectiveness of
+
+     internal control based on the assessed risk. The procedures selected depend on the auditor's judgement,
+
+     including the assessment of the risks of material misstatement of the financial statements, whether due
+
+     to fraud or error.
+
+
+
+5.   We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+
+     our audit opinion on the Company's internal financial controls system with reference to financial
+
+     statements.
+
+Annexure A to Independent Auditor's Report
+
+
+
+Referred to in paragraph 16(t) of the Independent Auditor's Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 2 of z
+
+
+
+Meaning of Internal Financial Controls with reference to financial statements
+
+
+
+6.    A company's internal financial controls with reference to financial statements is a process designed to
+
+      provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+
+      financial statements for external purposes in accordance with generally accepted accounting principles.
+
+      A company's internal financial controls with reference to financial statements includes those policies
+
+      and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and
+
+      fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable
+
+      assurance that transactions are recorded as necessary to permit preparation of financial statements in
+
+      accordance with generally accepted accounting principles, and that receipts and expenditures of the
+
+      company are being made only in accordance with authorisations of management and directors of the
+
+      company;     and    (3)   provide       reasonable    assurance      regarding      prevention    or    timely    detection   of
+
+      unauthorised acquisition, use, or disposition of the company's assets that could have a material effect
+
+      on the financial statements.
+
+
+
+Inherent Limitations of Internal Financial Controls with reference to financial statements
+
+
+
+7.    Because of the inherent limitations of internal financial controls with reference to financial statements,
+
+      including   the    possibility     of   collusion    or   improper    management        override       of   controls,   material
+
+      misstatements due to error or fraud may occur and not be detected. Also, projections of any evaluation
+
+      of the internal financial controls with reference to financial statements to future periods are subject to
+
+      the   risk that   the   internal   financial   controls     with   reference   to    financial   statements      may become
+
+      inadequate because of changes in conditions, or that the degree of compliance with the policies or
+
+      procedures may deteriorate.
+
+
+
+Opinion
+
+
+
+8.   In our opinion, the Company has, in all material respects, an adequate internal financial controls system
+
+     with reference to financial statements and such internal financial controls with reference to financial
+
+     statements were operating effectively as at March 31, 2023, based on the internal control over financial
+
+     reporting criteria established by the Company considering the essential components of internal control
+
+     stated in the Guidance Note issued by ICAI.
+
+
+
+
+For Price Waterhouse Chartered Accountants LLP
+
+Firm Registration Number: 012754N/N500016
+
+
+
+
+     D�/,,vJ{_,-,
+Sougata Mukherjee
+
+Partner
+
+Membership Number 057084
+
+UDIN: 23057084BGYFRG8367
+
+
+
+Place: Gurugram
+
+Date: May 17, 2023
+
+Annexure B to Independent Auditors' Report
+
+
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements as of and for the year ended March 31, 2023
+
+Page 1 of io
+
+
+
+
+1.   (a)   (A) The Company is maintaining proper records showing full particulars, including quantitative
+
+           details and situation, of Property, Plant and Equipment.
+
+
+
+           (B) The Company is maintaining proper records showing full particulars of Intangible Assets.
+
+
+
+     (b)   The Property, Plant and Equipment are physically verified by the Management according to a
+
+           phased programme designed to cover all the items over a period of 3 years which, in our opinion,
+
+           is reasonable having regard to the size of the Company and the nature of its assets.                   Pursuant to
+
+           the programme, a portion of the Property, Plant and Equipment has been physically verified by
+
+           the Management during the year and no material discrepancies have been noticed on such
+
+           verification.
+
+
+
+     (c)   The title deeds of all the immovable properties (other than properties where the Company is the
+
+           lessee and the lease agreements are duly executed in favour of the lessee), as disclosed in Note 5
+
+           to the financial statements, are held in the name of the Company, except for the following:
+
+
+
+
+            Description              Gross         Held in           Whether             Period held -        Reason for
+
+            of property             carrying       the name              held by           indicate            not being
+
+                                value (Rs               of          promoter,               range,            held in the
+
+                                    Lakhs)                          director or             where             nameofthe
+
+                                                                          their          appropriate           Company
+
+                                                                    relative or
+
+                                                                     employee
+
+
+
+            Freehold            1,950.00        Multiple            No                   10-15 years         Change inland
+
+            Land                                third                                                        use not yet
+
+                                                parties                                                      approved by
+
+                                                                                                             government
+
+                                                                                                             authorities
+
+
+
+
+     (d) The Company has not revalued its Property, Plant and Equipment (including Right of Use assets)
+
+           and intangible assets during the year. Consequently, the question of our commenting on whether
+
+           the revaluation is based on the valuation by a Registered Valuer, or specifying the amount of
+
+           change, if the change is 10% or more in the aggregate of the net carrying value of each class of
+
+           Property, Plant and Equipment (including Right of Use assets) or intangible assets does not arise.
+
+
+
+     (e)   Based on the information and explanations furnished to us, no proceedings have been initiated
+
+           on   the   Company       for   holding benami      property     under   the   Prohibition   of Benami     Property
+
+           Transactions Act, 1988 (as amended in 2016) (formerly the Benami Transactions (Prohibition)
+
+           Act,   1988   (45   of   1988))   and   Rules     made   thereunder,     and    therefore   the   question   of our
+
+           commenting on whether the Company has appropriately disclosed the details in its financial
+
+           statements does not arise.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 2 of io
+
+
+
+
+ii.    (a) The physical verification of inventory excluding stocks with third parties has been conducted at
+
+           reasonable intervals by the Management during the year and, in our opinion, the coverage and
+
+           procedure of such verification by Management is appropriate. In respect of inventory lying with
+
+           third parties, these have substantially been confirmed by them. The discrepancies noticed on
+
+           physical verification of inventory as compared to book records were not 10% or more in aggregate
+
+           for each class of inventory and have been appropriately dealt with in the books of account.
+
+
+
+       (b) During the year, the Company has been sanctioned working capital limits in excess of Rs. 5 crores,
+
+           in aggregate, from banks             on the basis of security of current assets. The Company has filed
+
+           quarterly returns or statements with such banks, which are in agreement with the unaudited
+
+           books of account. However the Company has not filed return or statements for the quarter ended
+
+           March      31,    2023   with   the    banks    and   accordingly,   we   are   unable   to    comment     on   such
+
+           reconciliations as required by clause 3(ii)(b).
+
+
+
+iii.    (a) The    Company has made investments                  in   one company,    one mutual fund       scheme,   granted
+
+           unsecured loans to one company and 314 employees and stood guarantee to one subsidiary
+
+           company and one joint venture. The Company during the year has not granted any secured loans
+
+           oradvances in nature ofloans or provided security to any parties during the year. The aggregate
+
+           amount during the year, and balance outstanding at the balance sheet date with respect to such
+
+           loans and guarantees to subsidiary and joint venture are as per the table given below:
+
+
+
+
+                                                                            Guarantees                      Loans
+
+                                                                           (Rs. in Lakhs)                (Rs. in Lakhs)
+
+
+
+
+             Aggregate         amount      granted/        provided
+
+             during the year
+
+                                                                                      2,462.02                      1,380.00
+                  -     Subsidiary
+
+                                                                                     14,500.00                               -
+                  -    Joint Venture
+
+                                                                                              -                       658.49
+                  -     Others
+
+
+
+             Balance        outstanding    as    at   balance   sheet
+
+             date in respect of the above
+
+                  -    Subsidiary
+                                                                                     23,053.50                  144,191.02
+                  -    Joint Venture
+                                                                                     14,500.00                               -
+                  -    Others
+                                                                                              -                       497.55
+
+
+
+
+           (Also refer Note 5o(n) to the financial statements)
+
+
+
+       (b) In respect of the aforesaid investments/ guarantees/loans, the terms and conditions under which
+
+          such loans were granted/investments were made/guarantees provided are not prejudicial to the
+
+          Company's         interest.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 3 of io
+
+
+
+
+    (c)   In respect of the aforesaid loans, the schedule of repayment of principal and payment of interest
+
+          has been stipulated by the Company, except for the following instances, the parties are repaying
+
+          the principal amounts, as stipulated, and are also regular in payment of interest as applicable.
+
+
+
+
+            Name of the entity                Amount            Due Date             Extent of delay       Remarks (if any)
+
+                                               (Rs. in
+
+                                              Lakhs)
+
+
+
+           Vista Mining Pvt. Ltd.                1,227.81       Monthly              Last day of every     Fully provided in the
+
+                                                                installments due     month                financial statements
+
+                                                                on various dates
+
+
+
+
+          In respect of the following loans (also refer note 10), no schedule for repayment of principal and
+
+          payment of interest has been stipulated by the Company. Therefore, in the absence of stipulation
+
+          of repayment terms, we are unable to comment on the regularity of repayment of principal and
+
+          payment of interest.
+
+
+
+
+            Name of the entity                      Amount            Due Date                  Remarks (if any)
+
+                                                     (Rs. in
+
+                                                     Lakhs)
+
+
+
+           JITF Urban Infrastructure                              -   Payable on demand         JUISL has repaid the
+
+           Services Limited (JUISL)                                                             outstanding loan amount
+
+                                                                                                (Rs.12,304.05 lakhs) during the
+
+                                                                                                year
+
+
+
+           Jindal ITF Limited                            144,191.02   Payable on demand         Refer note 60 to the standalone
+
+                                                                                                financial statements
+
+
+
+
+           Ralael Holdings Limited                        4,666.08    Payable on demand         Fully provided in the financial
+
+                                                                                                statements
+
+
+
+
+    (d)   In respect of the following loan, the total amount overdue for more than ninety days as at March
+
+          3 1 , 2023   is Rs.   1 , 2 2 7 . 8 1 lakhs.   In such instance, in our opinion, reasonable steps have been taken
+
+          by the Company for the recovery of the principal amount and interest thereon.
+
+
+
+
+            No. of cases           Principal and Interest Amount                   Remarks (if any)
+
+                                   Overdue (Rs. in Lakhs)
+
+
+
+
+                   1                                                  1,227.81     Fully provided in the financial statements
+
+
+
+
+    (e) There were no loans /advances in nature of loans which fell due during the year and were
+
+          renewed/extended. Further, no fresh loans were granted to same parties to settle the existing
+
+          overdue loans/advances in nature ofloan.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 4 of io
+
+
+
+
+      (f)   Following loan was granted during the year, to related parties under Section 2(76), which was
+
+            repayable on demand. There were no loans/advances in nature ofloans were granted during the
+
+            year, where no schedule for repayment of principal and payment of interest has been stipulated
+
+            by the Company.
+
+
+
+
+                                                           All Parties        Promoters           Related Parties
+
+                                                           (Rs. in Lakhs)     (Rs. in Lakhs)      (Rs. in Lakhs)
+
+
+
+
+             Aggregate of loan
+
+             -   Repayable on demand
+
+             - Agreement does not specify any terms           1,380.00                 -                1,380.00*
+
+
+             or period of repayment
+                                                                  -                    -                      -
+
+
+
+
+             Percentage of loan to the total loan               100%                   -                  100%
+
+             granted during the year
+
+
+
+
+            * repaid during the year itself
+
+
+
+            (Also refer Note 50(0) to the financial statements)
+
+
+
+iv.         In our opinion, and according to the information and explanations given to us, the Company has
+
+            complied with the provisions of Sections 186 of the Companies Act, 2013 in respect of the loans
+
+            and investments made, and guarantees provided by it and there were no securities provided
+
+            under aforesaid section. The Company has not provided any loans/guarantees/security and made
+
+            any investments to the parties covered under Section 185 of the Act.
+
+
+
+v.          During the year, the Company has not accepted any deposits or amounts which are deemed to be
+
+            deposits from the public within the meaning of Sections 73, 74, 75 and 76 of the Act and the Rules
+
+            framed there under to the extent notified. In our opinion, and according to the information and
+
+            explanations given to us, the Company has complied with the provisions of Sections 73, 74, 75
+
+            and 76 or any other relevant provisions of the Act and the Rules framed thereunder to the extent
+
+            notified, with regard to the deposits accepted from the public in earlier years and transferred to
+
+            Investor Education and Protection Fund during the year. According to the information and
+
+            explanations given to us, no order has been passed by the Company Law Board or National
+
+            Company Law Tribunal or Reserve Bank of India or any Court or any other Tribunal on the
+
+            Company in respect of the aforesaid deposits, the question of our commenting on whether the
+
+            same has been complied with or not does not arise.
+
+
+
+vi.         Pursuant to the rules made by the Central Government of India, the Company is required to
+
+            maintain cost records as specified under Section 148(1) of the Act in respect of its products. We
+
+            have broadly reviewed the same and are of the opinion that, prima facie, the prescribed accounts
+
+            and   records   have   been   made      and   maintained.    We   have   not,   however,   made   a   detailed
+
+            examination of the records with a view to determine          whether they are accurate or complete.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page g of io
+
+
+
+
+vii. (a)   According to the information and explanations given to us and the records of the Company
+
+           examined by us, in our opinion, the Company is generally regular in depositing undisputed
+
+           statutory dues in respect of income tax, employees' state insurance and labour welfare fund,
+
+           though there has been a slight delay in a few cases, and is regular in depositing undisputed
+
+           statutory dues, including provident fund, service tax, goods and services tax, duty of customs,
+
+           duty of excise, value added tax, cess, and other material statutory dues, as applicable, with the
+
+           appropriate     authorities.   Also,   refer   note     52(iv)   to    the   financial   statements   regarding
+
+           management's assessment on certain matters relating to provident fund.
+
+
+
+     (b)   According to the information and explanations given to us and the records of the Company
+
+           examined by us, there are no statutory dues of employees' state insurance, goods and service tax,
+
+           labour welfare fund which have not been deposited on account of any dispute. The particulars of
+
+           other statutory dues referred to in sub-clause (a) as at March 31, 2023 which have not been
+
+           deposited on account of a dispute, are as follows:
+
+
+
+
+            Nameofthe            Nature of            Amount                Period to which            Forum where the
+
+                statute             dues          (Rs. in Lakhs)*                the amount           dispute is pending
+
+                                                                                  relates**
+
+
+
+            Custom Act,         Custom Duty               538.00                   2008-09            High Court of Gujarat,
+
+            1962                                                                                     Ahmedabad
+
+
+
+            Custom Act,         Custom Duty               174.67                    2014-15          CESTAT, Mumbai
+
+            1962
+
+
+
+            Custom Act,         Custom Duty               12.50                     2009-10          CESTAT, Mumbai
+
+            1962
+
+
+
+            Central Excise      Excise                    161.43            2007-08 to 2009-10       High Court of Gujarat,
+
+            Act, 1944                                                                                Ahmedabad
+
+
+
+            Central Excise      Excise                    159.97            2008-09 & 2009-10        CESTAT, Ahmedabad
+
+            Act, 1944
+
+
+
+            Central Excise      Excise                     2.00                    2009-10           CESTAT, Mumbai
+
+            Act, 1944
+
+
+
+            Central Excise      Excise                    65.95              February 2010 to        Deputy Commissioner,
+
+            Act, 1944                                                             March 2012         Nashik
+
+
+
+            Central Excise      Excise                    876.61                 March,2011 to       High Court of Gujarat,
+
+            Act, 1944                                                             March, 2013        Ahmedabad
+
+
+
+            Central Excise      Excise                    610.39            2008-09 to 2009-10       Commissioner
+
+            Act, 1944                                                                                (Appeals), Rajkot
+
+
+
+            Bombay Stamp       Stamp Duty                  1.20                     2013-14          High Court of Gujarat,
+
+            Duty, 1958                                                                               Ahmedabad
+
+
+
+            Finance Act,       Service Tax                70.27              December-2012 to        CESTAT, Ahmedabad
+
+            1994                                                                 February-zora
+
+
+
+            Finance Act,       Service Tax                165-41            2012-13 to 2015-16       CESTAT, Ahmedabad
+
+            1994
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 6 of to
+
+
+
+
+           Nameofthe          Nature of           Amount            Period to which         Forum where the
+
+                statute           dues        (Rs. in Lakhs)*          the amount          dispute is pending
+
+                                                                           relates**
+
+
+
+          Finance Act,      Service Tax              6.17                   2007-08        Commissioner
+
+          1994                                                                             (Appeals), Lucknow
+
+
+
+          Finance Act,      Service Tax              3.13                  2008-09         CESTAT, Mumbai
+
+          1994
+
+
+
+          Finance Act,      Service Tax              2.82                  2008-09        CESTAT, Mumbai
+
+          1994
+
+
+
+          Finance Act,      Service Tax              1.98            2012-13 & 2015-16    CESTAT, Ahmedabad
+
+          1994
+
+
+
+          Finance Act,      Service Tax              1.40            2013-14 & 2015-16    CESTAT, Ahmedabad
+
+          1994
+
+
+
+          Finance Act,      Service Tax              0.10                   2012-13       CESTAT, Ahmedabad
+
+          1994
+
+
+
+          Finance Act,      Service Tax             10.09            2013-14 & 2014-15    Assistant
+
+          1994                                                                            Commissioner, Nashik
+
+
+
+          Finance Act,      Service Tax              0.16           2012-13 to 2015-16    CESTAT, Ahmedabad
+
+          1994
+
+
+
+          Finance Act,      Service Tax             20.37                   2015-16       CESTAT, Ahmedabad
+
+          1994
+
+
+
+          Finance Act,      Service Tax              0.39                   2015-16       CESTAT, Ahmedabad
+
+          1994
+
+
+
+          VAT Act, UP       Sales Tax                17.50                  1996-97       High Court of Allahabad
+
+          2008
+
+
+
+          VAT Act, UP       Sales Tax                2,40                  2004-05        High Court of Allahabad
+
+          2008
+
+
+
+          VAT Act, UP       Sales Tax                1.42                   1991-92       High Court of Allahabad
+
+          2008
+
+
+
+          VAT Act, UP       Sales Tax                3.12                  1995-96        High Court of Allahabad
+
+          2008
+
+
+
+          VAT Act,          Sales Tax                1.09                   2010-11       Assistant
+
+          Andhra Pradesh                                                                  Commissioner,
+
+                                                                                          Peddapuram
+
+
+
+          Gujarat VAT       VAT                     38.79                  2012-13        Commercial Tax,
+
+          Act                                                                             Tribunal, Ahmedabad
+
+
+
+          Gujarat Sales     Sales Tax               45.42                  2002-03        Supreme Court
+
+          Tax Act
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 7 of io
+
+
+
+
+           Nameofthe          Nature of           Amount            Period to which         Forum where the
+
+               statute            dues        (Rs. in Lakhs)*          the amount          dispute is pending
+
+                                                                           relates**
+
+
+
+          Maharashtra       VAT                      87.72                  2012-13        Maharashtra Sales Tax
+
+          VAT Act, 2002                                                                    Tribunal, Mumbai
+
+
+
+          Employees         Provident                74-41             April 2012 to       EPF Appellate Tribunal/
+
+          Provident and     Fund                                      December 2015        CGIT
+
+          Miscellaneous
+
+          Fund Act, 1952
+
+
+
+          Income Tax Act,   Income Tax               26.91                  1994-95        High Court of Delhi
+
+          1961
+
+
+
+          Income Tax Act,   Income Tax               8.11                   2004-05        Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax              176.79                 2007-08        Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax              130.56                 2008-09        Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax              363.73                  2011-12       Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax              325.05                  2012-13       Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax              582.12                  2013-14       Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax               8.63                   2014-15       Commissioner of
+
+          1961                                                                            Income Tax Appeals
+
+                                                                                          (CIT-A)
+
+
+
+          Income Tax Act,   Income Tax              576.42                  2015-16       Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income Tax             11,726.57                2016-17       Income Tax Appellate
+
+          1961                                                                            Tribunal [ITAT]
+
+
+
+          Income Tax Act,   Income   Tax            654.62                  2017-18       Commissioner of
+
+          1961                                                                            Income Tax Appeals
+
+                                                                                          (CIT-A)
+
+
+
+          Income Tax Act,   Income Tax              117.72                 2019-20        Commissioner of
+
+          1961                                                                            Income Tax Appeals
+
+                                                                                          (CIT-A)
+
+
+
+          Income Tax Act,   Income Tax             8,969.05         2018-19 & 2019-20     Commissioner of
+
+          1961              (excluding                                                    Income Tax Appeals
+
+                            interest)                                                     (CIT-A)
+
+
+        * Amounts reported above are net of payments made
+        ** In respect of Income Tax, the period refers to the Assessment Year.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 8 of io
+
+
+
+
+vm.         According to the information and explanations given to us and the records of the Company
+
+            examined by us, there is no income surrendered or disclosed as income during the year in the tax
+
+            assessments under the Income Tax Act, 1961, that has not been recorded in the books of account.
+
+
+
+ix.   (a)   According to the records of the Company examined by us and the information and explanation
+
+            given to us, the Company has not defaulted in repayment of loans or other borrowings or in the
+
+            payment of interest to any lender as at the balance sheet date.
+
+
+
+      (b) According to the      information       and   explanations   given to   us    and on       the basis   of our audit
+
+            procedures, we report that the Company has not been declared Wilful Defaulter by any bank or
+
+            financial institution or government or any government authority.
+
+
+
+      (c)   According to the records of the Company examined by us and the information and explanations
+
+            given to us, the Company has not obtained any term loans during the year and there were no
+
+            unutilized balances from term loans obtained by the Company in earlier years.
+
+
+
+      (d) According to the information and explanations given to us, and the procedures performed by us,
+
+            and on an overall examination of the financial statements of the Company, we report that no
+
+            funds raised on short-term basis have been used for long-term purposes by the Company.
+
+
+
+      (e)   According to the information and explanations given to us and on an overall examination of the
+
+            financial statements of the Company, we report that the Company has not taken any funds from
+
+            any entity or person on account of or to meet the obligations of its subsidiaries, associates or joint
+
+            ventures.
+
+
+
+      (-0   According to the information and explanations given to us and procedures performed by us, we
+
+            report that the Company has not raised loans during the year on the pledge of securities held in
+
+            its subsidiaries, joint ventures or associate companies.
+
+
+
+x.    (a)   The Company has not raised any money by way of initial public offer or further public offer
+
+            (including debt instruments) during the year. Accordingly, the reporting under clause 3(x)(a) of
+
+            the Order is not applicable to the Company.
+
+
+
+      (b) The Company has not made any preferential allotment or private placement of shares or fully or
+
+            partially or optionally convertible debentures during the year. Accordingly, the reporting under
+
+            clause 3(x)(b) of the Order is not applicable to the Company.
+
+
+
+xi.   (a)   During the course of our examination of the books and records of the Company, carried out in
+
+            accordance   with   the   generally   accepted   auditing   practices      in   India,   and   according   to   the
+
+            information and explanations given to us, we have neither come across any instance of material
+
+            fraud by the Company or on the Company, noticed or reported during the year, nor have we been
+
+            informed of any such case by the Management.
+
+
+
+      (b)   During the course of our examination of the books and records of the Company, carried out in
+
+            accordance   with   the   generally   accepted   auditing   practices   in      India,   and   according   to   the
+
+            information and explanations given to us, a report under Section 143(12) of the Act, in Form
+
+            ADT-4, as prescribed under rule 13 of Companies (Audit and Auditors) Rules, 2014 was not
+
+            required to be filed with the Central Government. Accordingly, the reporting under clause
+
+            3(xi)(b) of the Order is not applicable to the Company.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 9 of io
+
+
+
+
+        (c)   During the course of our examination of the books and records of the Company carried out in
+
+              accordance      with   the   generally   accepted   auditing   practices   in   India,    and   according   to   the
+
+              information and explanations given to us,            and as represented to us by the management, no
+
+              whistle-blower complaints have been received during the year by the Company. Accordingly, the
+
+              reporting under clause 3(xi)(c) of the Order is not applicable to the Company.
+
+
+
+xii.          As the Company is not a Nidhi Company and the Nidhi Rules, 2014 are not applicable to it, the
+
+              reporting under clause 3(xii) of the Order is not applicable to the Company.
+
+
+
+xiii.         The   Company      has   entered   into   transactions   with   related    parties   in   compliance   with      the
+
+              provisions of Sections 177 and 188 of the Act. The details of related party transactions have been
+
+              disclosed in the financial statements as required under Indian Accounting Standard 24 "Related
+
+              Party Disclosures" specified under Section 133 of the Act. Also, refer paragraph 4 of our main
+
+              audit report.
+
+
+
+xiv. (a)      In our opinion and according to the information and explanation given to us, the Company has
+
+              an internal audit system commensurate with the size and nature of its business.
+
+
+
+xiv. (b)      The reports of the Internal Auditor for the period under audit have been considered by us.
+
+
+
+xv.           The Company has not entered into             any non-cash transactions with its directors            or persons
+
+              connected with him. Accordingly, the reporting on compliance with the provisions of Section 192
+
+              of the Act under clause 3(xv) of the Order is not applicable to the Company.
+
+
+
+xvi. (a)      The Company is not required to be registered under Section 45- IA of the Reserve Bank of India
+
+              Act, 1934. Accordingly, the reporting under clause 3(xvi)(a) of the Order is not applicable to the
+
+              Company.
+
+
+
+        (b)   The Company has not conducted non-banking financial/ housing finance activities during the
+
+              year. Accordingly, the reporting under clause 3(xvi)(b) of the Order is not applicable to the
+
+              Company.
+
+
+
+        (c)   The Company is not a Core Investment Company (CIC) as defined in the regulations made by the
+
+              Reserve Bank of India. Accordingly, the reporting under clause 3(xvi)(c) of the Order is not
+
+              applicable to the Company.
+
+
+
+        (d) Based on the information and explanations provided by the management of the Company, the
+
+              Group does not have any CICs, which are part of the Group. We have not, however, separately
+
+              evaluated whether the information provided by the                management is       accurate     and complete.
+
+              Accordingly, the reporting under clause 3(xvi)(d) of the Order is not applicable to the Company.
+
+
+
+xvn.          The Company has not incurred any cash losses in the financial year or in the immediately
+
+              preceding financial year.
+
+
+
+xviii.        There has been no resignation of the statutory auditors during the year and accordingly the
+
+              reporting under clause (xviii) is not applicable.
+
+Annexure B to Independent Auditors' Report
+
+Referred to in paragraph 15 of the Independent Auditors' Report of even date to the members of Jindal Saw Limited
+
+on the standalone financial statements for the year ended March 31, 2023
+
+Page 10 of io
+
+
+
+
+XIX.         According to the information and explanations given to us and on the basis of the financial ratios
+
+             (Also refer Note 5o(h) to the financial statements), ageing and expected dates of realisation of
+
+             financial   assets   and   payment   of financial   liabilities,   other   information   accompanying   the
+
+             financial statements, our knowledge of the Board of Directors and management plans and based
+
+             on our examination of the evidence supporting the              assumptions,     nothing has come to our
+
+             attention, which causes us to believe that any material uncertainty exists as on the date of the
+
+             audit report that Company is not capable of meeting its liabilities existing at the date of balance
+
+             sheet as and when they fall due within a period of one year from the balance sheet date. We,
+
+             however, state that this is not an assurance as to the future viability of the Company. We further
+
+             state that our reporting is based on the facts up to the date of the audit report and we neither give
+
+             any guarantee nor any assurance that all liabilities falling due within a period of one year from
+
+             the balance sheet date will get discharged by the Company as and when they fall due.
+
+
+
+xx.    (a)   The Company has transferred the amount of Corporate Social Responsibility remaining unspent
+
+             under sub-section (5) of Section 135 of the Act in respect of "other than ongoing projects" to a
+
+             Fund specified in Schedule VII to the Act within a period of six months of the expiry of the
+
+             financial year in compliance with second proviso to sub-section (5) of Section 135 of the Act. (Also
+
+             refer Note 49(b) to the financial statements)
+
+
+
+       (b)   There are no ongoing projects, as at balance sheet date, therefore, the Company does not have
+
+             any amount remaining unspent under Section 135(5) of the Act.                Accordingly, reporting under
+
+             clause 3(xx)(b) of the Order is not applicable.
+
+
+
+xxi.         The reporting under clause 3(xxi) of the Order is not applicable in respect of audit of Standalone
+
+             Financial Statements. Accordingly, no comment in respect of the said clause has been included
+
+             in this report.
+
+
+
+
+For Price Waterhouse Chartered Accountants LLP
+
+Firm Registration Number: 012754N/N500016
+
+
+
+
+       t>�.,tl,7��
+
+
+Sougata�ukherjee                  U
+Partner
+
+Membership Number: 057084
+
+UDIN: 23057084BGYFRG8367
+
+
+
+Place: Gurugram
+
+Date: May 17, 2023
+
+      Price Waterhouse Chartered Accountants LLP
+
+
+
+
+INDEPENDENT AUDITOR'S REPORT
+
+
+
+To the Members of Jindal Saw Limited
+
+
+
+Report on the Audit of the Consolidated Financial Statements
+
+
+
+
+Opinion
+
+
+
+
+1.    We      have      audited        the     accompanying             consolidated            financial        statements               of Jindal            Saw        Limited
+
+      (h    reinafter referred to as the "Holding Company") and its subsidiaries (Holding Company and its
+
+        ub idiaries together referred to as "the Group')                                it   associate company and joint ventures (r fer Note
+
+      3.3    and     51       to   the attached           consolidated financial              statements)           which         comprise th                   consolidated
+
+      Balance Sheet as at March                          31,   2023,   and the consolidated Statement of Profit and Lo                                               (including
+
+      Other Comprehensive Income), the consolidated Statement of Changes in Equity, the consolidated
+
+      Statement of Cash Flows for the year then ended, and notes to the consolidated financial statements,
+
+      including           a    summary              of   significant      accounting           policies       and         other      explanatory                  information
+
+      (hereinafter referred to as "the consolidated financia1 statements").
+
+
+
+
+2.    In our opinion and to the best of our information and according to the explanation                                                                   given to us, the
+
+      aforesaid consolidated financial statement                              give the information requir d by the Companies Act, 2013
+
+      ("the Act") in the manner so required and give a true and fair view in conformity with the accounting
+
+      principles generally accepted in India, of the con olidated state of affairs of the Group                                                                  its associate
+
+      company and joint ventures as at March                                   31,   2023,       of consolidated               total comprehensive income
+
+      (comprising of profit and other comprehensive income), consolidated changes in equity and its
+
+      consolidated cash flows for the year then ended.
+
+
+
+
+Basis for Qualified Opinion included in Auditors' report of a Subsidiary Company
+
+
+
+
+3.    The audit report on the financial statements of DERWENT SAND SARL, a subsidiary of the Holding
+
+      Company,            issued by an              independent firm            of auditors vide its                report dated April                       20,     2023        and
+
+      furnished to us              contains the following modification, which is reproduced by us as under:
+
+
+
+      "Continuity of operations: During our mission, we recall that the company is in liquidation, under
+
+      article 711 bis 11 of the Commercial Code".
+
+
+
+      The above modification does not impact our opinion on the consolidated financial statements as the
+
+      subsidiary company is                    under liquidation              and the         same      has been           disclosed in the Consolidated
+
+      Financial Statements (refer note 50 to the attached consolidated financial statements).
+
+
+
+4.   We conducted our audit in accordance with the Standards on Auditing (SAs) specified under Section
+
+      143(10) of the Act. Our responsibilities under those Standards are further described in the "Auditor's
+
+     Responsibilities for the Audit of the Consolidated Financial Statements" section of our report. We are
+
+      independent of the Group                           its associate company and joint ventures in accordance with the ethical
+
+      requirements that are rele vant to our audit of the consolidated financial statements in India in terms
+
+      of the Code of Ethics issued by the Institute of Chartered Accountants of India and the relevant
+
+     provisions of the Act, and we have fulfilled our other ethical responsibilities in accordance with these
+
+     requirements. We believe that the audit evidence we have obtained and the audit evidence obtained
+
+     by the other auditors in terms of their reports referred to in sub-paragraph 16 and 17 of the Other
+
+     Matters section below, is sufficient and appropriate to provide a basis for our opinion.
+
+
+
+
+     Price Waterhouse Chartered Accountants LLP, B                                                         r, Tower - B, DLF Cyber City, Gurugram - 122 002
+
+     T: + 9 1 (124) 4620000, F: + 9 1 (124) 4620620
+
+
+
+
+     Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP {a Limited Liability Partnership with LLP idenlity no: LLPIN AAC-5001)
+
+     with effect from July 25, 2 0 1 4 . P o s t its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI   registration   number is 0 1 2 7 5 4 N / N 5 0 0 0 1 6 (ICAI registration
+
+     number before conversion was 0 1 2 7 5 4 N )
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page 2 o f 7
+
+
+
+
+ Emphasis of Matter
+
+
+
+ 5.    We draw your attention to Note 51 to the Consolidated financial statements regarding related party
+
+       transactions entered into by the Holding Company, which are in excess of the limits approved by the
+
+      Audit Committee of the Board of Directors and the shareholders as required under Regulation 23 of
+
+      the SEBI (Listing Obligations and Di closure Requirements) Regulations,                        2015    (as amended). The
+
+       Holding Company has intimated the said non-compliance to the stock exchange(s), and action, if any,
+
+      against the   Holding Company by the             Securities     and Exchange         Board    of India   is   presently not
+
+      ascertainable.
+
+
+
+      Our opinion is not modified in respect of this matter.
+
+
+
+Key Audit Matters
+
+
+
+
+ 6.   Key audit matters are those matters that, in our professional judgment, were of most significance in
+
+      our audit of the consolidated financial statements of the current period. These matters were addressed
+
+      in the context of our audit of the consolidated financial statements as a whole, and in forming our
+
+      opinion thereon, and we do not provide a separate opinion on these matters. We have reported key
+
+      audit matters in our report of even date on the audit of standalone financial statements of the Holding
+
+      Company with respect to assessment of carrying of value of investments in and loans granted to two
+
+      subsidiary    companies      and   carrying     value    of   investments      in   an   associate    company.    We    have
+
+      determined    that   there   are   no   other   key     audit   matters   to   communicate       in    our    report   on   the
+
+      consolidated financial statements.
+
+
+
+Other Information
+
+
+
+
+ 7.   The Holding Company's         Board of Directors is responsible for the other information.                        The other
+
+      information comprises the information included in the Annual Report but does not include the
+
+      consolidated financial statements and our auditor's report thereon.
+
+
+
+      Our opinion on the consolidated financial statements does not cover the other information and we do
+
+      not express any form of assurance conclusion thereon.
+
+
+
+      In connection with our audit of the consolidated financial statements, our responsibility is to read the
+
+      other information and, in doing so, consider whether the other information is materially inconsistent
+
+      with the consolidated financial statements or our knowledge obtained in the audit or otherwise
+
+      appears to be materially misstated. If, based on the work we have performed and the reports of the
+
+      other auditors as furnished to us (Refer paragraph 16 below), we conclude that there is a material
+
+      misstatement of this other information, we are required to report that fact.
+
+
+
+      We have nothing to report in this regard.
+
+
+
+Responsibilities of Management and Those Charged with Governance for the Consolidated
+
+Financial Statements
+
+
+
+
+ 8.   The Holding Company's Board of Directors is responsible for the preparation and presentation of
+
+      these consolidated financial statements in term of the requirements of the Act that give a true and fair
+
+      view of the consolidated financial position, consolidated financial performance and consolidated cash
+
+      flows, and changes in equity of the Group including its associate company and joint ventures in
+
+      accordance with the accounting principles generally accepted in India, including the Accounting
+
+      Standards specified under Section 133 of the Act. The respective Board of Directors of the companies
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page g of7
+
+
+
+
+       included       in    the      Group        and     of    its    associate      company        and     joint    ventures       are    responsible            for
+
+       maintenance             of   adequate        accounting          records       in    accordance       with     the    provisions      of    the     Act     for
+
+       safeguarding the assets of the Group and for preventing and detecting frauds and other irregularities;
+
+       selection and application of appropriate accounting policies; making judgments and estimates that
+
+       are reasonable and prudent; and the design, implementation and maintenance of adequate internal
+
+       financial     controls,        that      were    operating           effectively     for   ensuring     accuracy and          completeness            of the
+
+       accounting          records,       relevant      to     the     preparation         and     presentation       of    the    consolidated           financial
+
+       statements that give a true and fair view and are free from material misstatement, whether due to
+
+       fraud or error, which have been                         used for the purpose               of preparation          of the   consolidated financial
+
+       statements by the Directors of the Holding Company, as aforesaid.
+
+
+
+
+ 9.    In preparing the consolidated financial statements, the respective Board of Directors of the companies
+
+       included in the Group and of its associate company and joint ventures are responsible for assessing
+
+       the ability of the Group and of its associate company and joint ventures to continue as a going concern,
+
+       disclosing,        as    applicable,       matters        related      to    going   concern     and       using    the    going    concern         basis   of
+
+       accounting unless management either intends to liquidate the Group or to cease operations, or has no
+
+       realistic alternative but to do so.
+
+
+
+
+ 10.   The     respective        Board         of Directors       of the       companies          included     in   the    Group     and     of its       associate
+
+       company and joint ventures                       are    responsible          for   overseeing    the    financial         reporting    process        of the
+
+       Group and of its associate company and joint ventures.
+
+
+
+
+Auditor's Responsibilities for the Audit of the Consolidated Financial Statements
+
+
+
+
+ 11.   Our     objectives           are   to     obtain     reasonable          assurance         about     whether        the     consolidated           financial
+
+       statements as a whole are free from material misstatement, whether due to fraud or error, and to issue
+
+       an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance but is
+
+       not    a   guarantee         that    an    audit      conducted         in    accordance       with     SAs    will   always       detect      a   material
+
+       misstatement when it exists. Misstatements can arise from fraud or error and are considered material
+
+       if,   individually or in            the    aggregate,          they could      reasonably be         expected        to   influence      the   economic
+
+       decisions of users taken on the basis of these consolidated financial statements.
+
+
+
+
+ 12.   As    part    of    an    audit     in    accordance           with    SAs,    we    exercise      professional       judgment           and       maintain
+
+       professional scepticism throughout the audit. We also:
+
+
+
+
+       •      Identify and assess the risks of material misstatement of the consolidated financial statements,
+
+              whether due to fraud or error, design and perform audit procedures responsive to those risks,
+
+              and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+
+              The risk of not detecting a material                           misstatement resulting from fraud is higher than for one
+
+              resulting         from       error,      as      fraud     may        involve       collusion,      forgery,        intentional      omissions,
+
+              misrepresentations, or the override of internal control.
+
+
+
+       •      Obtain       an    understanding              of internal        control      relevant   to    the    audit    in    order   to   design       audit
+
+              procedures that are appropriate in the circumstances. Under Section 143(3)(i) of the Act, we are
+
+              also   responsible           for   expressing           our   opinion        on   whether     the     Holding      company        has       adequate
+
+              internal financial controls with reference to consolidated financial statements in place and the
+
+              operating effectiveness of such controls.
+
+
+
+       •      Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+
+              estimates and related disclosures made by management.
+
+
+       •      Conclude on the appropriateness of management's use of the going concern basis of accounting
+
+              and, based on the audit evidence obtained, whether a material uncertainty exists related to events
+
+              or conditions that may cast significant doubt on the ability of the Group and its associate company
+
+              and joint ventures to continue as                         a going      concern.      If we conclude that a material uncertainty
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page 4 of?
+
+
+
+
+             exists, we are required to draw attention in our auditor's report to the related disclosures in the
+
+             consolidated :financial statements or, if such disclosures are inadequate, to modify our opinion.
+
+             Our conclusion      are based on the audit evidence obtained up to the date of our auditor's report.
+
+             However, future events or conditions may cau             e the Group and its associate company and joint
+
+             ventures to cease to continue as a going concern.
+
+
+        •    Evaluate the overall presentation, structure and content of the consolidated financial statements,
+
+             including the     disclosures,    and whether the       consolidated     financial   statements   represent the
+
+             underlying transactions and events in a manner that achieves fair presentation.
+
+
+
+        •    Obtain sufficient appropriate audit evidence regarding the financial information of the entities
+
+             or business activities within the Group and its associate company and joint ventures to express
+
+             an   opinion    on the     consolidated   financial   statements.   We   are   responsible   for the   direction,
+
+             supervision and performance of the audit of the financial statements of such entities included in
+
+             the consolidated financial statements of which we are the independent auditors. For the other
+
+             entities included in the consolidated financial statements, which have been audited by other
+
+             auditors, such other auditors remain responsible for the direction, supervision and performance
+
+             of the audits carried out by them. We remain solely responsible for our audit opinion.
+
+
+
+ 13.   We communicate with those charged with governance                   of the     Holding Company and such other
+
+       entities included in the consolidated financial statements of which we are the independent auditors
+
+       regarding, among other matters, the planned scope and timing of the audit and significant audit
+
+       findings, including any significant deficiencies in internal control that we identify during our audit.
+
+
+
+ 14.   We also provide those charged with governance with a statement that we have complied with relevant
+
+       ethical requirements regarding independence, and to communicate with them all relationships and
+
+       other matter        that may reasonably be thought to bear on our independence, and where applicable,
+
+       related safeguards.
+
+
+
+ 15.   From the matters communicated with those charged with governance, we determine those matters
+
+       that were of most significance in the audit of the consolidated financial statements of the current
+
+       period and are therefore the key audit matters. We describe these matters in our auditor's report
+
+       unless law or regulation precludes public disclosure about the matter or when, in extremely rare
+
+       circumstances, we determine that a matter should not be communicated in our report because the
+
+       adverse consequence         of doing so would reasonably be expected to outweigh the public interest
+
+       benefits of such communication.
+
+
+
+
+Other Matters
+
+
+
+ 16.   We did not audit the financial statements/financial information of all the subsidiarie s included in the
+
+       consolidated financial results, whose financial statements/ financial information reflect total assets
+
+       of Rs 692,384.62 lakhs and net assets of Rs 134,470.95 lakhs as at March 31, 2023, total revenue and
+
+       total net loss after tax of Rs 281,993.92 lakhs and Rs 8,227.79 lakhs, total comprehensive loss of Rs
+
+       8,063.64 lakhs for the year ended March 31, 2023 and cash flows (net outflow) amounting to Rs
+
+       2,085.50 lakhs for the year ended on that date, as considered in the consolidated financial statements.
+
+       The consolidated financial statements also include the Group's share of net profit/floss) after tax of
+
+       Rs. Nil and Rs (46.12) lakhs and total comprehensive income/(loss) of Rs. Nil and Rs. (46.12) for the
+
+       year ended March 31, 2023 respectively, as considered in the consolidated financial statements, in
+
+       respect    of one    associate   company   and two joint venture,         whose financial     statements/    financial
+
+       information have not been audited by us. These financial statements/ financial information have been
+
+       audited by other auditors whose reports have been furnished to us by the Management, and our
+
+       opinion on the consolidated financial statements in so far as it relates to the amounts and disclosures
+
+       included in respect of these subsidiaries, joint ventures and associate company, is based solely on the
+
+       reports of the other auditors.
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page S of7
+
+
+
+
+ 17.    We did not audit the financial statements of the Jindal Saw Employee Welfare Trust (the 'Trust')
+
+        included in the standalone financial statement of the Company, which constitute total assets of Rs
+
+        1,576.53 lakhs and net assets of Rs 70.90 lakhs as at March 31, 2023, total income of Rs. 45.43 lakhs,
+
+        net excess of income over expenditure of Rs 26.89 lakhs and net cash outflows amounting to Rs 138.87
+
+        for the year ended on that date. These financial statements and other financial information have been
+
+        audited by other auditor whose report has been furnished to us by the Management, and our opinion
+
+        on the consolidated financial statements in so far as it relates to the amounts and disclosures included
+
+        in respect of the Trust, is based solely on the report of the other auditor.
+
+
+
+         Our opinion on the consolidated financial statements, and our report on Other Legal and Regulatory
+
+         Requirements below, is not modified in respect of the above matters with respect to our reliance on
+
+         the work done and the reports of the other auditors.
+
+
+
+
+  Report on Other Legal and Regulatory Requirements
+
+
+
+
+  18.        As required by the Companies         (Auditor's     Report) Order,   2020     ("CARO   2020"), issued by the
+
+             Central Government of India in terms of sub-section (11) of Section 143 of the Act, we give in the
+
+             Annexure B, a statement on the matter specified in paragraph 3(xxi) of CARO 2020.
+
+
+
+  19.        As required by Section 143(3) of the Act, we report, to the extent applicable, that:
+
+
+
+
+       (a)    We have sought and obtained all the information and explanations which to the best of our
+
+              knowledge and belief were necessary for the purposes of our audit of the aforesaid consolidated
+
+              financial statements.
+
+
+       (b)    In our opinion, proper books of account as required by law relating to preparation of the aforesaid
+
+              consolidated financial statements have been kept so far as it appears from our examination of
+
+              those books and the reports of the other auditors.
+
+
+       (c)    The Consolidated Balance Sheet, the Consolidated Statement of Profit and Loss (including other
+
+              comprehensive income), the Consolidated Statement of Changes in Equity and the Consolidated
+
+              Statement of Cash Flows dealt with by this Report are in agreement with the relevant books of
+
+              account and records maintained for the purpose of preparation of the consolidated financial
+
+              statements.
+
+
+    (d)       In our opinion, the aforesaid consolidated financial statements comply with the Accounting
+
+              Standards specified under Section 133 of the Act.
+
+
+    (e)       On the basis of the written representations received from the directors of the Holding Company
+
+              as on March 31, 2023 taken on record by the Board of Directors of the Holding Company and the
+
+              reports   of the   statutory   auditors   of its   subsidiary   companies,   associate   company     and joint
+
+              ventures   incorporated in India,     none of the      directors   of the Group   companies,   its   associate
+
+              company and joint ventures incorporated in India is disqualified as on March 31, 2023 from being
+
+              appointed as a director in terms of Section 164(2) of the Act.
+
+
+    (f)       With respect to the adequacy of internal financial controls with reference to consolidated financial
+
+              statements of the Group and the operating effectiveness of such controls, refer to our separate
+
+              report in Annexure A.
+
+
+    (g)       With respect to the other matters to be included in the Auditor's Report in accordance with Rule
+
+              11 of the Companies (Audit and Auditor's) Rules, 2014, in our opinion and to the best of our
+
+              information and according to the explanations given to us:
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page 6 o f 7
+
+
+
+
+           i.   The consolidated financial statements disclose the impact, if any, of pending litigations on
+
+                the consolidated financial position of the Group, its associate company and joint ventures -
+
+                Refer Note 49 to the consolidated financial statements.
+
+
+
+
+          ii.   The Group, its associate companies and joint ventures has long-term contracts as at March
+
+                31, 2023 for which there are no material foreseeable losses. The Group, its associate joint
+
+                ventures did not have any long term derivative contracts as at March 31, 2023.
+
+
+
+
+         iii.   There has been no delay in transferring amounts required to be transferred to the Investor
+
+                Education      and   Protection        Fund by the        Holding   Company and            its subsidiary companies,
+
+                associate company and joint venture incorporated in India except in respect of dividend
+
+                amounting to Rs 334.38 lakhs which according to the information and explanation provided
+
+                to us by the management, has been kept in abeyance due to legal cases [refer note 30 to the
+
+                Consolidated Financial Statements].
+
+
+
+
+         iv.    (a)The   respective      Managements           of the     Company and         its   subsidiaries, joint venture           and
+
+                associate which are companies incorporated in India whose financial statements have been
+
+                audited under the Act have represented to us and the other auditors of such subsidiaries,
+
+                joint venture and associate respectively that, to the best of their knowledge and belief, other
+
+                than   as    disclosed     in   the    notes   to   the    accounts,     no   funds       (which      are   material   either
+
+                individually or in the          aggregate) have been           advanced or loaned or invested (either from
+
+                borrowed funds or share premium or any other sources or kind of funds) by the Company or
+
+                any    of such   subsidiaries,        joint    venture     and   associate     to    or   in   any    other    person(s)    or
+
+                entity(ies), including foreign entities ("Intermediaries"), with the understanding, whether
+
+                recorded in writing or otherwise, that the Intermediary shall, directly or indirectly, lend or
+
+                invest in other persons or entities identified in any manner whatsoever by or on behalf of the
+
+                Company or any of such subsidiaries, joint venture and associate ("Ultimate Beneficiaries")
+
+                or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries.
+
+
+
+
+                (b) The respective Managements of the Company and its subsidiaries, joint venture and
+
+                associate which are companies incorporated in India whose financial statements have been
+
+                audited under the Act have represented to us and the other auditors of such subsidiaries,
+
+                joint venture and associate respectively that, to the best of their knowledge and belief, as
+
+                disclosed in the notes to the accounts, no funds (which are material either individually or in
+
+                the aggregate) have been received by the Company or any of such subsidiaries, joint venture
+
+                and    associate     from    any      person(s)     or    entity(ies),    including       foreign      entities   ("Funding
+
+                Parties"),   with    the    understanding,          whether      recorded     in    writing      or   otherwise,   that    the
+
+                Company or any of such subsidiaries, joint venture and associate shall, directly or indirectly,
+
+                lend or invest in other persons or entities identified in any manner whatsoever by or on
+
+                behalf of the Funding Party ("Ultimate Beneficiaries") or provide any guarantee, security or
+
+                the like on behalf of the Ultimate Beneficiaries.
+
+
+
+
+                (c) Based on the audit procedures, that has been considered reasonable and appropriate in
+
+                the circumstances, performed by us and those performed by the auditors of the subsidiaries,
+
+                joint venture      and   associate      which     are    companies       incorporated       in   India      whose financial
+
+                statements have been audited under the Act,                      nothing has come to our or other auditor's
+
+                notice that has caused us or the other auditors to believe that the representations under sub­
+
+                clause (i) and (ii) of Rule n(e) contain any material misstatement.
+
+INDEPENDENT AUDITOR'S REPORT
+
+To the Members of Jindal Saw Limited
+
+Report on the Consolidated Financial Statements
+
+Page 7 o f 7
+
+
+
+
+          v.   The dividend declared and paid during the year by the Holding Company, its subsidiary
+
+               companies, associate company and joint venture, is in compliance with Section 123 of the
+
+               Act.
+
+
+
+         vi.   As proviso   to Rule 3(1) of the Companies (Accounts) Rules,      2014 (as amended), which
+
+               provides for books of account to have the feature of audit trail, edit log and related   matters
+
+               in the accounting software used by the Group, associate company and          joint venture, is
+
+               applicable to the Group, associate company and joint venture only with effect from financial
+
+               year beginning April 1, 2023, the reporting under clause (g) of Rule 11 of the Companies
+
+               (Audit and Auditors) Rules, 2014 (as amended), is currently not applicable.
+
+
+
+
+ 20. The Group, its associate company and joint venture have paid/ provided for managerial remuneration
+
+       in accordance with the requisite approvals mandated by the provisions of Section 197 read with
+
+       Schedule V to the Act, as applicable.
+
+
+
+
+ For Price Waterhouse Chartered Accountants LLP
+
+ Firm Registration Number: 012754N/N500016
+
+
+
+
+ Sougar::v��
+ Partner
+
+ Membership Number: 057084
+
+ UDIN: 23057084BGYFRH7313
+
+
+
+ Place: Gurugram
+
+ Date: May 17, 2023
+
+Annexure A to Independent Auditor's Report
+
+
+
+Referred to in paragraph 19(f) of the Independent Auditor's Report of even date to the members of Jindal Saw
+
+Limited on the consolidated financial statements for the year ended March 31, 2023
+
+Page 1 of g
+
+
+
+
+Report     on   the   Internal    Financial      Controls    with       reference         to   Consolidated       Financial
+
+Statements under clause (i) of sub-section 3 of Section 143 of the Act
+
+
+
+1.   In conjunction with our audit of the consolidated financial statements of the Company as of and for
+
+     the year ended March 31, 2023, we have audited the internal financial controls with reference to
+
+     financial statements of Jindal Saw Limited (hereinafter referred to as "the Holding Company"), its
+
+     subsidiary    companies     and   its   associate   company     and   Joint     Venture,     which   are     companies
+
+     incorporated in India, as of that date.
+
+
+
+
+Management's Responsibility for Internal Financial Controls
+
+
+
+2.   The   respective   Board of Directors      of the   Holding     Company,       its   subsidiary companies      and   its
+
+     associate company and Joint Ventures, to whom reporting under clause (i) of sub section 3 of Section
+
+     143 of the Act in respect of the adequacy of the internal financial controls with reference to financial
+
+     statements is applicable, which are companies incorporated in India, are responsible for establishing
+
+     and maintaining internal financial controls based on internal control over financial reporting criteria
+
+     established by the Company considering the essential components of internal control stated in the
+
+     Guidance Note on Audit of Internal Financial Controls Over Financial Reporting ("the Guidance
+
+     Note") issued by the Institute of Chartered Accountants of India ("ICAI"). These responsibilities
+
+     include the design, implementation and maintenance of adequate internal financial controls that
+
+     were operating effectively for ensuring the orderly and efficient conduct of its business, including
+
+     adherence to the respective company's policies, the safeguarding of its assets, the prevention and
+
+     detection of frauds and errors, the accuracy and completeness of the accounting records, and the
+
+     timely preparation of reliable financial information, as required under the Act.
+
+
+
+
+Auditor's Responsibility
+
+
+
+3.   Our responsibility is to express        an opinion on the       Company's        internal financial controls with
+
+     reference to financial statements based on our audit. We conducted our audit in accordance with the
+
+     Guidance Note issued by the ICAI and the Standards on Auditing deemed to be prescribed under
+
+     Section 143(10) of the Companies Act, 2013, to the extent applicable to an audit of internal financial
+
+     controls, both applicable to an audit of internal financial controls and both issued by the ICAI. Those
+
+     Standards and the Guidance Note require that we comply with ethical requirements and plan and
+
+     perform the audit to obtain reasonable assurance about whether adequate internal financial controls
+
+     with reference to financial statements was established and maintained and if such controls operated
+
+     effectively in all material respects.
+
+
+
+4.   Our audit involves performing procedures to obtain audit evidence about the adequacy of the
+
+     internal   financial   controls   system   with   reference   to   financial    statements     and   their   operating
+
+     effectiveness. Our audit of internal financial controls with reference to financial statements included
+
+     obtaining an understanding of internal financial controls with reference to financial statements,
+
+     assessing the    risk that a material weakness        exists,   and testing      and evaluating the design        and
+
+     operating effectiveness of internal control based on the assessed risk. The procedures selected
+
+     depend on the auditor's judgement, including the assessment of the risks of material misstatement
+
+     of the financial statements, whether due to fraud or error.
+
+Annexure A to Independent Auditor's Report
+
+
+
+Referred to in paragraph 19(f) of the Independent Auditor's Report of even date to the members of Jindal Saw
+
+Limited on the consolidated financial statements for the year ended March 31, 2023
+
+Page 2 of g
+
+
+
+
+5.   We believe that the audit evidence we have obtained and the audit evidence obtained by the other
+
+     auditors in terms of their reports referred to in the Other Matters paragraph below is sufficient and
+
+     appropriate to provide a basis for our audit opinion on the Holding Company's internal financial
+
+     controls system with reference to consolidated financial statements.
+
+
+
+
+Meaning of Internal Financial Controls with reference to financial statements
+
+
+
+6.   A company's internal financial control with reference to financial statements is a process designed
+
+     to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+
+     of financial statements for external purposes in accordance with generally accepted accounting
+
+     principles. A company's internal financial control with reference to financial statements includes
+
+     those policies and procedures that (1) pertain to the maintenance of records that, in reasonable
+
+     detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;
+
+     (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation
+
+     of financial   statements   in    accordance with generally accepted         accounting principles,       and that
+
+     receipts and expenditures of the company are being made only in accordance with authorisations of
+
+     management      and   directors    of the   company;   and   (3)   provide   reasonable   assurance       regarding
+
+     prevention or timely detection of unauthorised acquisition, use, or disposition of the company's
+
+     assets that could have a material effect on the financial statements.
+
+
+
+
+Inherent       Limitations     of     Internal    Financial       Controls    with     reference     to    financial
+
+statements
+
+
+
+7.   Because   of the   inherent    limitations   of internal   financial   controls   with   reference   to   financial
+
+     statements, including the possibility of collusion or improper management override of controls,
+
+     material misstatements due to error or fraud may occur and not be detected. Also, projections of any
+
+     evaluation of the internal financial controls with reference to financial statements to future periods
+
+     are subject to the risk that the internal financial control with reference to financial statements may
+
+     become inadequate because of changes in conditions, or that the degree of compliance with the
+
+     policies or procedures may deteriorate.
+
+
+
+
+Opinion
+
+
+
+8.   In our opinion, the Holding Company, its subsidiary companies and its associate company and Joint
+
+     Venture, which are companies incorporated in India, have, in all material respects, an adequate
+
+     internal financial controls system with reference to financial statements and such internal financial
+
+     controls with reference to financial statements were operating effectively as at March 31, 2023, based
+
+     on the internal control over financial reporting criteria established by the Company considering the
+
+     essential components of internal control stated in the Guidance Note issued by the ICAI.
+
+Annexure A to Independent Auditor's Report
+
+
+
+Referred to in paragraph 19(t) of the Independent Auditor's Report of even date to the members of Jindal Saw
+
+Limited on the consolidated financial statements for the year ended March 31, 2023
+
+Page 3 of g
+
+
+
+
+Other Matter
+
+
+
+9.    Our aforesaid reports under Section 143(3)(i) of the Act on the adequacy and operating effectiveness
+
+      of the internal financial controls with reference to financial statements insofar as it relates to nine
+
+      subsidiary companies and one associate company, which are companies incorporated in India, is
+
+      based on the corresponding reports of the auditors of such companies incorporated in India. Our
+
+      opinion is not modified in respect of this matter.
+
+
+
+
+For Price Waterhouse Chartered Accountants LLP
+
+Firm Registration Number: 012754N/N500016
+
+
+
+
+        arAAv��
+ ougata Mukherjee
+
+Partner
+
+     embership Number: 057084
+
+UDIN: 23057084BGYFRH7313
+
+
+
+Place: Gurugram
+
+Date: May 17, 2023
+
+Annexure B to Independent Auditors' Report
+
+
+
+Referred to in paragraph 18 of the Independent Auditors' Report of even date to the members of Jindal Saw
+
+Limited on the Consolidated Financial Statements as of and for the year ended March 31, 2023
+
+
+
+
+As required by paragraph 3(:xxi) of the CARO 2020, we report that the auditors of the following companies have given
+
+qualification or adverse remarks in their CARO       report on the standalone financial statements           of the respective
+
+companies included in the Consolidated Financial Statements of the Holding Company:
+
+
+
+1. Cash Loss reported by subsidiaries:
+
+
+
+ s.       Nameofthe          CIN                 Relationship with        Date of the      Paragraph number and
+
+ No.      Company                                the Holding              respective       comment in the respective
+
+                                                 Company                  auditors'        CARO report reproduced
+
+                                                                          report           below
+                                                 (Holding
+
+                                                 Company/
+
+                                                 Subsidiary/
+
+                                                 Associate/ Joint
+
+                                                 Venture/ Jointly
+
+                                                 Controlled
+
+                                                 Entities)
+
+
+
+ a.      Quality Iron and    U12000DL2007        Subsidiary              April 14,         (xvii) The Company has not
+
+         Steel Limited       PLC163469                                    2023             incurred cash loss during the
+
+                                                                                           current financial year and cash
+
+                                                                                           loss of Rs 0.55 lakhs in the
+
+                                                                                           immediately preceding
+
+                                                                                           financial year.
+
+ b.      Jindal Tubular      U28910UP2015        Subsidiary              April 14,         (xvii) The Company has
+
+          (India Limited     PLC068768                                    2023             incurred cash loss during the
+
+                                                                                           year amounting to Rs. 36.82
+
+                                                                                           lakhs and Rs 174.23 lakhs in the
+
+                                                                                           immediately preceding
+
+                                                                                           financial year.
+
+
+
+ c.      Sulog               U61200UP2011        Subsidiary              April 20,         (xvii) The Company has
+
+         Transshipment       FLC089538                                    2023             incurred cash loss during the
+
+         Services Limited                                                                  year amounting to Rs. 2,769.65
+
+                                                                                           lakhs. However, there were
+
+                                                                                           cash loss to Rs.276.64 lakhs in
+
+                                                                                           the immediately preceding
+
+                                                                                           previous year.
+
+
+
+ d.      Jindal ITF          U74900UP2007        Subsidiary              May 9, 2023       (xvii) The Company has
+
+         Limited             PLC069247                                                     incurred cash loss during the
+
+                                                                                           year amounting to Rs.
+
+                                                                                           12,992.79 lakhs and Rs
+
+                                                                                           11,074.86 lakhs in the
+
+                                                                                           immediately preceding previous
+
+                                                                                           year.
+
+
+
+
+2. Jindal SAW Limited (CIN L27104UP1984PLC023979) (Parent Company) vide auditor's report dated May 17, 2023
+
+which is reproduced by us as under:
+
+         3 (iii) (a) In respect of the aforesaid loans, the schedule of repayment of principal and payment of interest has
+
+      been stipulated by the Company.     Except for the following instances, the parties      are repaying the principal
+
+      amounts, as stipulated, and are also regular in payment of interest as applicable.
+
+Annexure B to Independent Auditors' Report
+
+
+
+Referred to in paragraph 18 of the Independent Auditors' Report of even date to the members of Jindal Saw
+
+Limited on the Consolidated Financial Statements as of and for the year .ended March 31, 2023
+
+
+
+
+            Name of the              Amount       Due Date             Extent of             Remarks (if any)
+
+            entity                   (Rs. in                           delay
+
+                                     Lakhs)
+
+
+
+           Vista Mining Pvt.          1,227.81    Monthly              Last day of every    Fully provided in the
+
+           Ltd.                                   installments         month                financial statements
+
+                                                  due on various
+
+                                                  dates
+
+
+
+
+          In respect of the following loans, no schedule for repayment of principal and payment of interest has been
+
+          stipulated by the Company. Therefore, in the absence of stipulation of repayment terms, we are unable to
+
+          comment on the regularity of repayment of principal and payment of interest.
+
+
+
+
+            Name of the entity          Amount            Due Date                Remarks (if any)
+
+                                        (Rs. in
+
+                                        Lakhs)
+
+
+
+           Jindal ITF Limited            144,191.02       Payable on demand       Refer note 60 to the
+
+                                                                                  standalone financial
+
+                                                                                  statements and Refer note 59
+
+                                                                                  of consolidated financial
+
+                                                                                  statements.
+
+
+
+           Ralael Holdings Limited         4,666.08       Payable on demand       Fully provided in the financial
+
+                                                                                  statements
+
+
+
+
+    (b)   In respect of the following loans, the total amount overdue for more than ninety days as at March 31,
+
+          2023 is Rs. 1,227,81. In such instances, in our opinion, reasonable steps have been taken by the Company
+
+          for the recovery of the principal amounts and interest thereon.
+
+
+
+
+            No. of cases    Principal and Interest Amount            Remarks (if any)
+
+                            Overdue (Rs. in Lakhs)
+
+
+
+
+                  1                                       1,227.81   Fully provided in the financial statements
+
+
+
+
+3. Jindal Intellicom Limited (CIN U74899DL1988PLC033588) (Subsidiary) vide auditor's report dated April 07, 2023
+
+which is reproduced by us as under:
+
+
+
+
+     3 (iii) (C)In respect of loans given to the wholly owned subsidiary, the loan is payable on demand. In respect of
+
+     other loans and advances in the nature of loans given the schedule of repayment of principal and payment of
+
+     interest has been stipulated and the repayments or receipts are regular as per the schedule stipulated except in
+
+     case of advances made in earlier.years to two companies.
+
+Annexure B to Independent Auditors' Report
+
+
+
+Referred to in paragraph 18 of the Independent Auditors' Report of even date to the members of Jindal Saw
+
+Limited on the Consolidated Financial Statements as of and for the year ended March 31, 2023
+
+
+
+
+     (D) The details of principal and interest amount overdue for more than ninety days are here below:
+
+
+
+
+    Particulars                Principal Amount (Rs in Lakhs)             Interest (Rs in Lakhs)
+
+
+
+
+    Overdue   for    more                     250.00                                        27.43
+    than 90   days   as   at
+
+    March 31, 2023
+
+
+
+
+For Price Waterhouse Chartered Accountants LLP
+
+Firm Registration Number: 012754N/N500016
+
+
+
+
+    c,�,/,,�t-Lj-
+Sougata J'ukhe1jee
+
+Partner
+
+Membership Number: 057084
+
+UDIN: 23057084BGYFRH7313
+
+
+
+Place: Gurugram
+
+Date: May 17, 2023
+
+¡INDAL SAW LIMITED
+Regd, ofi: Á-1, UPS¡DC lndl. Areî, N¡ndgaon Road, Kosi K¡laD, DistL M¡thur¡ (U,P.)-281403
+Corp. Omcer lindal Cenbe, 12, Bhikei¡i Cama Place, New Delhi- 110066
+ctN- L27r04UP1984PLC023979
+Statenent ofaudlted standalone flnanclal results for the quafrer and year ended March 31,2023
+
+ s.    Panlculars                                                                                                ended                                          Year
+No,                                                                                  31.03.2023               31.12.2022                                 31.03,2023
+
+       lncon¡€
+       Revenue fron operations                                                         4,519,59                 4,474,51            3,29 t,24              ls,2a231       11,022,27
+       0ther itrcome                                                                     1É6.64                   162.34               53.47                  420.74         221-73
+       Total lncome (l)                                                               4,676,23                 4,640.8s            3,344,7L               15,703.05      11,243.40
+ II    Expenses
+       cost of mâbri¡ls consùùrêd                                                      2,74r.t5                 2,935.71            2,044.79                9,780.18       6,442,67
+       Purchases of Sbck-in-TIade                                                         66.60                                                                66.ó0          r7.t9
+       Changes iD ¡nventor¡es                                                            105.78                    (2.23)              26.19                  (2s.481      (2s9.so)
+       Employee benefìB erpense                                                          259.56                  219,22               190,7 4                 477,04        770,31
+       Fi¡rance cosb                                                                     134.29                   137,94               97,16                  529,09        369.20
+       Deprecìat¡on and ânortisation expense                                              99.0ó                    93,73               93,32                  373,75        371.77
+       Otherexpenses                                                                     a29.65                   849.70             691.55                 3.177.37      2.4A7.60
+       Total expenses (¡l)                                                            4,236.O9                 4,274.O7            3,143.75               14778.55       10,s99.24
+ilt Proflt before exceptlonal ltemsand tax (l-ll)                                       440,14                   366.78              200.96                  924.50         644.16
+tv Exceptlonal items (refer note 4)                                                                                                     7.05                                   7,05
+   Proflt beforebx (lll-lV)                                                             440,14                   366.74              193.91                  924.5O         637.tI
+VI     Taxexpcnse:
+       Currentw [r€fer not€ 6)                                                            90,71                    67.07               70.12                                229,32
+       Deferred hr lexpense/ (dedit)]                                                      (s.   l6l               3418                 8,85                   32,95           2,30
+    Total hr expense (vl)                                                                85.55                   10l,zs               7A,97                  215.18        231.62
+vn  Net profltafter bx (V-VI)                                                           354.59                   265.53              L14,94                  709.32        40s.49
+vul Other Comprehens¡ve lnco¡ne (OCl):
+    Itemsthat wlll not be Íeclasslfledto proflt orloss:
+    (l) Re-meåsurementgain/(lossl on defìnedbenentphns                                     (6.32)                   4.17                7.66                    6.18         ,6,66
+    (¡i) lncom€ k effectotr above item                                                      1,60                   (1.0s1             (1.s2)                   (1.ss)         (4.1e)
+    Total other coÌ¡pÍehenslve lncome for theyear/pe¡lod (Vlll)                           {4.72)                   3.12                s,74                    4.63          L2,47
+ tx Tohl Comprehenslve lncome for theye¡¡/perlod Ofl+VIll)                              319.47                   264.65             120.68                   713.95         417.96
+ x Earnlngs per equltyshare ofl 2/. each
+       (il Basic (t)                                                                      11.16                     8,3ó                3,62                   22.33         12,76
+      (¡¡l Diluted ({l                                                                    11.16                     8,36                3,62                   22.33         12,76
+                                                                                (Notennuelised)        (NoteDnualised)       (Notannualised)
+XI    Networth
+      (i) Peid-up equity shâr€ capihl (t 2 per shâre)                                     ó3,95                    63.95               63,95                   63.95         63,95
+      (ii) ReseNes/othêr equ¡ty                                                        8,075,65                 7,725,AO           7,425,t0                 8,075.65      7,425.10
+      [iii) Networth                                                                   8,139.60                 7,749.75           7,4A9.05                 8,139,60      7,4A9,05
+
+XII Râtiosr
+      (i) Debt Equity Rrtio                                                                0,38                     0.58               0.51                     0,38          0.51
+      (i¡) D€btServ¡c€ Coverage Rât¡o'                                                     3,37                     3.85               1.81                     2.21          L.74
+      (iii) ¡nterestService Coverage Ratio                                                 s.02                     4,34               4.03                     3.45          3.75
+      (iv) Curretrt rat¡o                                                                  1.39                                        1.37                     1.39          1.37
+      (v) Long term debt to workitrg capihl                                                0.39                     0.48               0,62                     0.39          0.62
+      (vi) 8ad debB to trade recejvâble ratio                                              0.01                     0.02               0,03                     0.01          0,03
+      (vii) Current Iiability râtio                                                        0.77                     0.80               0.73                     0,77          0.73
+      (viii) Tohl debtr to tohl asseB                                                      0.19                     0.27               0.29                     0,19          0,29
+      (ix) Debtors trrnover "                                                              5.A2                     7.24               8,67                     6,24          ó.53
+      (x) Inventory turnover ^                                                             3.91                     3.61               3.17                     3,47          2.73
+      [xi) Operatlìg margin (%)                                                           9,4 toÂ                  7,700/a            7,240                    6.470Á        7.3sot
+      [xii) NetprontnRrs¡n (%)                                                            7.5æ/o                   5.720              3,440Á,                  4,520/¿       3,61ot6
+      lviiiì Assêt Côvêrãtê fôr NCDs                                                       5n3                      \.27                4.31                    s.a3          4.?1
+
+      ^ Ratios for th€ quarter have been annuaÌised
+       Formulae for computation ofratios are as follows :
+       (¡) Debt Equity Rât¡o: Tohl Debt (excludi¡rg ¡eese liâbilirr)/ Networth
+       Tokl Debt: Secured Loâns + UDsecur€d Loâns - Liquid InvestrnenB ând fìxed deposi6 with originâl maturity ofless than three months
+       NetWorth: Equ¡tyShaÌe CâpiÞl + ReseNes
+
+      repayment oflong term debt dur¡ng the period)
+
+
+      Debenilres ofT 250 crores,
+      (iii) lnterestService Coverage Ratio: EBDIT / Fi¡ance cosß
+       EBDIT: Profìt beforeTa\€s + D€preciâtiotr ând âmortizâtion + Fin¡nc€ cosb + Exceptionâl it€hs (noD câsh), ifâny
+      (iv) Current Ratio I Currentâsseb / Current liab¡lities
+
+      ter'ì debt)l
+      (vi) Bad debb totÌade receivable ratio: Provis¡on for doubtful debt/closing gross trade receivable
+      (vii) Currentliâb¡lity ret¡o: Current Liâbilit¡es / ToÞl ¡iebil¡ties
+      (viii) Totel debb to totel asseb : ToÞl Borrowings (exclud¡¡ìg leâse liabil¡ty) / Tohl âsseB
+      [ix] Debtors turDover: Sâle ofgoods and sery¡c€s / Average ofop€ning atrd closing trâde receivable
+      (xJ l¡rventory turnover râuo : (Cost of maErial consu med+ Purchâse o I Stock-hFTrâde+ Chan ges in Dventories of fìu islred goods, Sbck-
+                                                                                                          i                                      ¡   n -Trâde ând
+      work- in-progress l/ Averâge ofopening and closing inve¡bry ofRM, SFC, FC ând Scrâp
+      (xi) 0pereting mârgin (%): [Netprofitb€fore w - Interest from bânk deposiB end loâns - other non operat¡ng inconre + fìDance cost ) / Revenue from
+      operations'100
+      (xiil Net proit nì¡rglr (%) : PÌolìt âfter bx / Tobl ¡trconre '100
+      (xiii) AssetCoverâge for NCDs I Net Property, plmtand equ¡pment ¡ncluding CWIP/ LoDg term loans and NCDs (i[cluding irterestaccured and notdu€
+      on the same) hâving fìÌstpari-påssu chârge on PPE includ¡ng CWIP
+
+JINDAL SAW TIMITED
+Statement of audited standalone assets and liabilities
+
+ s.   Particulars                                                                             As at         As at
+No,                                                                                     3t.03.2023    3L.03.2022
+                                                                                           Audited       Audited
+      ASSETS
+(1) Non-Current Assets
+      (a) Properry, plant and equipment                                                   5,667.29      5,683.92
+      (bJ Capital work-in-progress                                                          206.46        165.64
+      (cl Right-of-use assets                                                               145.30        160.98
+      (d) Intangible assets                                                                   7.47          8.90
+    (e) Financial assets
+          (i) Investments                                                                 1,270.03      L,024.96
+         (ii) Trade receivables                                                               5.74          8.44
+         (iii) Loans                                                                          2.78        124.89
+         (iv) 0ther financial assets                                                        L66.84        114.30
+    (f) Non-current tax assets (netJ                                                         s7.74         56.58
+    (g) Other non-current assets                                                             4L.92        200.67
+(2) Current Assets
+    (a) Inventories                                                                       3,3 51.19     3,07L.49
+    (bJ Financial assets
+         (i) Trade receivables                                                            3,L68.45      r,443.57
+         (ii) Cash and cash equivalents                                                      40.53        438.73
+         (iii) Bank balances other than (iii) above                                          22.03         77.99
+           (iv) Loans                                                                     t,445.68      1,315.01
+           (v) Otherfinancial assets                                                         11.80         t9.73
+      (cJ Contract assets                                                                   tt7.66       L45.70
+      (d) Other current assets                                                             426.85         499.r9
+                                                                         TOTAL ASSETS   L6,155,76     14.560.69
+      EQUITYAND TIABITITIES
+(1) Equity
+      (a) Equity share capital                                                               63.95         63.95
+      (b) Other equity                                                                    8,075.65      7,425.10
+      Liabilities
+(21   Non-Current Liabilities
+      (a) Financial liabilities
+           (i) Borrowings                                                                  786.L9       1,03r.72
+           (ii) Lease liabilities                                                            96.52        133.90
+           (iii) Other financial liabilities                                                 29.4L         29.4L
+      (bJ Provisions                                                                        26.86          38.33
+      (c) Deferred tax liabilities (netJ                                                   642.70         608,20
+    (dJ 0ther non-current liabilities                                                      246.1r          96.82
+(3) Current Liabilities
+    (a) Financial liabilities
+         (i) Borrowings                                                                   2,335.42      3,L4L.47
+         (ii) Lease liabilities                                                              39.L6         36.94
+         (iii) Trade payables
+             (A) total outstanding dues of micro enterprises and small
+                  enterprises; and                                                           26.35        15.86
+             (BJ total outstanding dues of creditors other than micro
+                  enterprises and small enterprises                                       2,814.85      1,32r.s0
+           (iv) Other financial liabilities                                                 207.87       195.68
+      (bJ 0ther current liabilities                                                         622.86       328.40
+      (cJ Provisions                                                                         84.40        83.57
+      (d) Current tax liabiliries (net)                                                      57.46        L0.44
+                                                      TOTAT EQUITY AND LIABILITIES      16,LSS,76     14,s60.69
+
+Jindal SAW Limited
+Statement ofaudited standalone cash flows for the year ended March 31, 2023
+                                                                                                                                                f{ Croresl
+Partlculars                                                                                                      Year ended                    Year ended
+                                                                                                              March 31,2023                 Marchgl,2O2Z
+                                                                                                                    Audlted                       Audlted
+A. CASH TNFLOW/ (OUTFLOW) FROM OPERATTNG ACT|VITIES
+Net proflt before tax and after exceptlonal ltems                                                                   924.5O                        637.11
+Adjustments for:
+Add/(less)
+Deprec¡ation and amortisation expense                                                              373.75                        377.77
+lncome from government grant /export incentive                                                     (74.441                       (10.68)
+Finance costs                                                                                      529.09                        369.20
+Loss on sale ofproperty, plantand equipment and intângible assets (net)                               5.07                          1.75
+Balarìces written off/(written back) (net)                                                           (4.0s)                        (0.26)
+Provision for doubtful debts and âdvances (net)                                                      10.51                        20.67
+Provision ofliability for share based payments                                                        6.92                         6.14
+Effect of unrealised foreign exchange (gain)/loss                                                    (3.82)                        7.05
+Unrealised (gain)/ loss on derivatives (net)                                                         (1.3s)                        (0,331
+Net (gainJ/loss on current investments                                                               (0,14)                       (0.2s)
+Gain on Redeemable preference shares                                                              [1e7.83)
+Redemption premium on Redeemable preference shares                                                  (16.6e)
+Provisiorì for impairmentofloans and advances - exceptional items                                                                  7.05
+Interest iIcome on Ioans, fìxed deposits, compound financial instrument and others                (176.54)          510.48      (1.86.13)         58S.98
+Operâtlng proflt before worklng capltal changes                                                                   1,434.94                      1,223,O9
+Changes in operating assets and liabilities:
+Inventories                                                                                       (27e.71.)                     (677.34)
+Trade receivables                                                                               (7,279.70)                       276.96
+Loans, other financial assets and other assets                                                       (0.6e)                     (106.6e)
+Trade payables                                                                                   1,588.95                       {386.s81
+0ther fÌnancial liabilities, provisions and other liabilities                                       11.65            4t.to       tïe.92)         f893.57ì
+Cash generated from operatlons                                                                                    1,476.04                        329,52
+Taxes pâid                                                                                                          [138,33)                      [138.44)
+Net cash lnRow/ (outflow) from operatlng actlvltles                                                               1,337.75                        191.08
+B. CASH TNFLOW/ (OUTFTOW) FROM INVEST|NG ACTTV¡TtES
+ Purchase ofproperty, plant and equipment and intangible assets                                   (1es.8s)                      (331.6e)
+Sale proceeds from property, plant and equipment and intangible assets                                7.99                         9.03
+Proceed from sale ofmutual funds                                                                      0.r4                        60.24
+IDvestment in subsidiaries ând associates                                                          {15.30)                      (143.631
+Sale of non-current iìrvestments                                                                     0.02
+Investment ¡n treasury shares by lindal Saw Employee Welfare Trust                                   0.74                         (3.s0)
+Loan received back froìn related and other pârties                                                 136.44                       r20.40
+Loan given to related and other parties                                                            (13.80)                        (e.80)
+Interest received                                                                                   32.49                         11.35
+Net cash lnnow/ (outflow) from lnvestlng actlvltles                                                                 (47.33)                      (287.60)
+c, cAsH INFLOW/ (OUTFLOW) FROM FINANCTNG ACI|VtTtES
+Dividend paid (net ofutlclaimed / unpaid dividend)                                                 (63.10)                      (63.07)
+Repay¡nent of non-current borrowings                                                              (356,60)                     (347.15)
+Repayment of debentures                                                                                                         (2s0.00)
+Payment of lease liabilities                                                                       {73.28)                       (s3.82)
+lncrease/ (Decrease) in current borrowings                                                        (6es.40)                     1,220.62
+Interest and bank charges paid                                                                    (500.33)                     1345.221
+Net cash lnflow/ (outflo$,) from flnanclng actlvltles                                                            í,6AA.711                        761.36
+Net changes ln cash and cash equlvalents                                                                           (3e8.2e1                        64.44
+Cash and cash equivalents at beginning ofthe year                                                                   434.73                        373.49
+Exchange difference on translation offoreign currency cash ând cash equivâlents                                       0.09
+Cash and cash equlvalents at end ofthe perlod                                                                        40.53                        434,73
+
+NOTES:
+1. Increase/(decrease)   in currerrt borrowings are shown net of repayments.
+2. Figures in bracket indicates cash outflow.
+3. The above cash flow statement has been prepared under the indirect method set out in tND AS - 7 'Staternent ofCash Flows'
+
+ Notes:
+
+ 1. f indal ITF Limited, subsidiary of the company, had won an arbitral award allowing various claims to the tune of   I
+ 1,891.08 crores plus interest and applicable taxes. During the financial year 201"9-20, the subsidiary had filed
+enforcement application under section 36 of Arbitration and Conciìiation Act, 1996, for the execution of arbitral
+award being pronounced in favour ofthe subsidiary whereas the customer had preferred appeal under Section 34 of
+Arbitration and Conciliation Act L996, challenging the said arbitral award. Both the aforesaid cases are presently sub-
+judice before Hon'ble High Court of Delhi. As per interim relief granted by Hon'ble High Court, the subsidiary received
+ { 856.31 crores on submission ofbank guarantees.
+Based on the current status and the expert legal advice received, the company is expecting a favourable outcome
+which would cover all the investments, loans and advances in f indal ITF and consequently no adjustments have been
+made to the carrying values of loans and investments in the books of the company.
+
+2. The Company had invested T 20,100 lakhs in redeemable preference shares (RPS) of findal ITF Limited, subsidiary,
+on December 07,20'15, redeemable at the end of seven years which was accounted for at fair value as a compound
+financial instrument. During the yea¡ the terms of the RPS were modified extending the redemption date by 5 years
+and introducing a redemption premium of 'J.to/o at monthly rest payable on maturity, with retrospective effect from
+its date of issue, Based on opinions taken by the Company, the modification has resulted into extinguishment of old
+debt component of RPS and recognition of same on its new fair value. On this account, a gain of f 197.83 crores
+fincluding I 113.40 crores recognised during quarter ended December 3]., 2022) has been recognized as other
+income.
+
+3. The Company has one primary business segment i.e. Iron & Steel products, on standalone basis.
+
+
+4. Exceptional item for the quarter and year ended March 3t,2022 includes provision of { 21,05 crores towards
+impairment of investment in subsidiary and reversal of impairment provision of { 1"4 crores in investment in an
+associate company.
+
+5. The Company has invested T 15.30 crores towards 510/o shareholding in joint venture, findal Hunting Energy
+Services Limited.
+
+6. Tax expense are inclusive ofprior period tax adjustments.
+
+
+7. The Company has opted for fìling of its income tax return under the provisions of Section 115BAA of Income Tax
+Act, 1,9 6t from financial year 2022-23.
+
+                                                                                t
+B. The company has issued 8.25o/o non-convertible debentures amounting to 500 crores (Coupon rate has been
+revised to 8.50% p.a. from 1"9th September 2022). These are secured by first pari-passu charge on the Company's
+moveable and immovable properties. Asset cover ratio for NCD's was 5.83 and 4.30 as on March 31,,2023 and March
+31,2022 respectively.
+
+9. The Board of Directors has recommended payment of dividend @ { 3 per equity share of { 2 each for the year
+ended March 31,2023 aggregating to t 95.93 crores.
+
+10. The second motion application for approval of composite scheme of amalgamation of Jindal Quality Tubular
+Limited, findal Fittings Limited and findal Tubular India Limited with the Company has been filed with Hon'ble
+Allahabad Bench of NCLT. 0n April 19, 2023 NCLT has issued the notices to all the statutory authorities and the
+petition is listed for hearing on June 7,2023.
+
+11. The second motion application for approval of merger of Sulog Transshipments Limited (step down subsidiaryJ
+with findal ITF Limited (subsidiary) is pending with Hon'ble Allahabad Bench of NCLT and listed for hearing on May
+24,2023.
+
+L2. The Hon'ble Hyderabad bench of NCLT vide its order dated March 31., 2023, approved the resolution plan
+submitted by the Company for Sathavahana Ispat Limited. The conditions precedents as per the said Plan were
+achieved on April 26,2023, the closing date. Accordingly, Sathavahana Ispat Limited stands merged with the Company
+on the said date.
+
+1,3, Company is a large corporate as per the applicability criteria. The annual disclosure made by the Company as a
+large corporate as under:
+
+Annexure - A
+Initial Disclosure to be made                        Identified as a la                 for the Financial Year 2023-24
+  S. no                          Particulars                               FY 2022-23                             FY 2021.-22
+
+         1..         Name of the Company                        findalSAW Limited
+         2.          CIN                                        L27 70 |UP 798 4PLC02397 9
+
+         3.          0utstanding borrowing                 of   Borrowings < 1,034.+2 Crores         Borrowings T 1,383.31 Crores
+                     Company (in Rs, Crores) *                  Lease Obligation ? 135.68            Lease Obligation I 170.85
+                                                                Crores                               Crores
+         4.          Highest Credit Rating During the           a) CARE AA- ; Outlook stable         a) CARE AA; Outlook
+                     previous F,Y. along with name of           For long term banking facilities          negative
+                     the Credit Rating Agency                   and NCDs                             For long term banking facilities
+                                                                B) BWR AA : Stable                   and NCDs
+                                                                For Long term NCDs of { 500          b) BWRAA:Stable
+                                                                crores only.                         For Long term NCDs of ? 500
+                                                                                                     crores only.
+         5        Name of the Stock Exchange in                 National Stock Exchange of India Limited
+                  which the fine shall be paid, in case
+                  of shortfall in the required
+                  borrowing under the framework
+* Note: The amount of outstanding borrowing stated is as per the definition laid down under para 2.2 (ü) of SEBI
+circular SEBI/H 0/DDHS / CIR/ P / 20L8 / 144 dated November 26, 201,8.
+
+We confirm that we are a Large Corporate as per the applicability criteria given under the SEBI circular
+SEB I/H 0/D DHS / CIR / P / 20 18 / 1.4 4 dated November 2 6, 20 78.
+
+
+Annexure-81
+Annual Disclosure to be made by entity Identified as a Large Corporate
+
+        1..    Name of the Company                                                            findal Saw Limited
+        )      CIN                                                                            L27 7 0 4U P L9 B +P LC0 23 9 7 9
+        3.     Report filed for the financial year ended (Tl                                  March 31",2023
+        4.     Details ofthe Current block all      res in Rs. Crore
+  S. No.                                                        Particulars                                                       T
+ t.              Z-year block period (Speciff financial years)                                                                T:2022-23
+                                                                                                                           T+1:2023-24
+ u,              Incremental borrowing done in FY (T) (a)                                                                       Nil
+ Itl.            Mandatory borrowing to be done through debt securities in FY (Tl (b) = (2So/o of a)                            Nil
+
+ IV              Actualborrowing done through debt securities in FY (T) (c)                                                       Nil
+                 Shortfall in the borrowing through debt securities, if any, for FY (T- LJ carried forward                        Nil
+                 to FY fTl, ldl
+VI               Quantum of (dJ, which has been met from [c) (e)                                                                  Nil
+vll.             Shortfall, if any, in the mandatory borrowing through debt securities for FY [T)                                 Nil
+                 {after adjusting for any shortfall in borrowing for FY (T-1J which was carried forward
+                 to FY (r)) 1fl= @)-t(c)-(e)l
+                 llf the calculated value is zero or negative, write "nil")
+        5. Details of               to be       if        tn      ect to       us block               in Rs crore
+      S. No.                                             Particulars                                                      T
+         t.            Z-year Block period (Specifu financial years)                                      T:2022-23
+                                                                                                          T+1,:2023-24
+         n.           Amount of fine to be paid for the blocþ if appìicable                                          Nil
+                       Fine = 0.2o/o of {(d)-(e)} *
+        #: [d) and [e] are same as mentioned at 4[v) and 4(vi) of this annexure
+
+14. The figures of the quarter ended March 3L, 2023 and March 3t,2022 are the balancing figures between the
+audited figures in respect ofthe full fìnancial year and the published unaudited year to date figures upto third quarter
+of the respective financial year which were subject to limited review by the auditor.
+
+L5. These results are reviewed by the Audit Committee and approved by the Board of Directors in their meeting held
+on May t7,2023.
+
+
+
+                                                                                       By Order ofthe Board
+                                                                                     For fINDAL SAWLIMITED
+                                                                                                              ,
+
+
+Place: New Delhi                                                                                     findal
+Date: May 17,2023                                                                         ManagÍng Director
+                                                                                             DIN: 00005317
+
+IINDAL SAW LIMITED
+Regd, Off.: A-1, UPSIDC Indl.Area, Nândgaon Road, Kosi Kalan, Dìstt. Mathura (U.P.)-281403
+Corp.0fficer findal Centre, 12, Bhikaiii Cama Place, New Delhi- 110066
+ctN, L2 7 104UP198 4P LC02397 9
+Statement ofconsolidated audited lìnancial results for the quarter and year ended Marchgl,2023
+
+ s.     Partlculars                                                                                                                           Consolldated
+No.                                                                                                                      Ouârter Ender                                                      ed
+                                                                                                  37.O3.2023             37,12,2022            37,03,2022           31,03.2023               37,O3,2022
+                                                                                                 RêfoÌ Nôtê l2            llnândllêd          Rêfêr Nôtp 12          A¡rdltêd                    Âurlltêd
+ t     Income
+       Revenue ftom operations                                                                           5,188.04               5,157.94              3,969.90           17,A67,AO                73,294.42
+       Other income                                                                                         78 80                  44.24                 4'l .7 6           17A.É6                   '152 SS
+       Total lncome (l)                                                                                 s,266.A4               5,202,74               4,077,66          74,O46,36                 73,450.97
+ II Expenses
+       cost of nraterials consumed                                                                      3,082.r7               3,377.26               2,452.76           t7,t64,36                 8,165.80
+       Purchases of Stock-iD-Trade                                                                          67.21                 (0.01)                  2.24                  64.23                 26.97
+       Changes in inventories                                                                               99.88                 (8,83)                 22.34                  l40.2sl             (2e0.s2)
+       Employee benefits expense                                                                          34t.39                 296.52                 242.35            1.,179,75                7,014.47
+       Finance costs                                                                                      160.84                 764,44                 119,38              637.59                   460.72
+       Depreciatio¡r and anìortisation exÞense                                                            125.64                 118.10                 118.45              47 0.7A                  472.99
+       Other expenses
+       Total expenses (lt)                                                                              4,A74.20               4,949.70               3,407,72          17,370.46                 12,429.50
+III Prol¡t,/(loss) before share of proflt/(loss) of lolnt venture, associate,
+       exccptional items and tax (l-ll)                                                                   392.64                 252.4A                 204.54              735.50                   627.47
+tv   Exceptional items (refer note no 4)                                                                                                                                        (2s.04)
+     Share of profìt/(loss) ofJoint venture and associate                                                   (0.18)                 (0.07)                                        (0,46)
+ vt Prolìt/(loss) before tax (lll+lV+V)                                                                   392.46                 252,47                 204,5+              710.00                   627.47
+vtt Tax expensci
+     Current tax (refer note no 5l                                                                         95.45                  77.79                  75.14              220.t3                   247.93
+     Defeued tax Iexpense/(credit)l                                                                             2.a2              37.39                     7.56                47.77
+     Total tax expense (VII)                                                                               94.27                 109.18                  42,70              267.24                   245.59
+VIII Net proñt/(loss) afte¡ tax (VI-VII) (A)                                                              294,79                 743.23                 727.44              442.76                   375.aA
+       Attrlbutable to:
+       Owners oftlìe Pare¡rt                                                                              353,68                 214.44                 t26.93              632.39                   41t.75
+       Non-control¡ing interest                                                                           (se.4e)                (7r.21')                 (s.0e)                                     (3s.87)
+ B     other Comprehenslve Income (OCI)i
+       a. Items thât wlll not be reclassifìed to profit or loss:
+       li) Re-measurement ìosses on defined benefìt plans                                                   (6.20)                  4.26                    8.64                     6.47             17.77
+       (ii) Equ¡ty Insh uments through Other Comprehensive Income                                               0.01                                        0.04                     0.01               0.04
+       liii) Income tax effect on above items                                                                   1.56               [1.07)                 (2.7e)                                       (4.49\
+       b, Items that will be reclass¡f¡ed to prof¡t or lossl
+       [i) Exchange differences in translating the foreign operation                                       (16.42)                15.51                     9.20                45,33                 14.77
+       (ii) Debt Instrunents through Other Conìp¡ehensive Inconìe                                               0.21                0.24                    0.15                     0.34              0.38
+       liii) l¡ìcoDre tax effect on above itenìs                                                           [0.04)                  (0.06)                 [0.03)                                       (0.06)
+       Total other comprchensive income for the year,/period (B)                                          120,88)                 18.88                  15.81                  so.42                 32,47
+       Attributable to:
+       Owners ofthe Parent                                                                                (20.e0)                 18.86                  17.83                  52.58                 36.49
+       Non-controlling interest                                                                                 0.02               0.02                   (2.02)                 (2.76)                [4.08)
+
+ c     Total Comprehens¡ve Income for the year/pertod lC=A+Bì                                            273.37                  762.77                 737.65             493.18                    404.29
+       Attributable tol
+       owners ofthe Parent                                                                                332.74                 233.31                 144.75              684.97                   444.23
+       Non-controlling ¡¡rterest                                                                                                 (71.20)                  17.10)           (ret,7e)                  (3e.e4)
+
+D      Earnlngs per equity share ofT 2/- each
+       [i) Basic                                                                                           17,74                   6.75                     4.00                19.91                 72.96
+       lii) Diluted                                                                                        17.14                   6.75                     4.00                L9,97                 72.96
+                                                                                               INot annualised)        INot annualised]      INot annualised)
+E      Networth
+       (i) Paid{¡p equity share capital [I 2 per share)                                                    63.95                  63.95                  63.95               63.95                    63.95
+       [ii) ReseNes/other equity                                                                                                                                          7,858.81                 7,300.23
+
+F     Ratiosi
+       (i) Debt Dqu¡ty rat¡o                                                                                0.59                   0,83                     0.7 4                0,59                  0.7 4
+
+       [ii) Debt service coverage ratio*                                                                    2.34                   2.47                     1.41                                       t.52
+       [iii) I¡terest service coverage ratio                                                                4.22                   3.19                     3,77                 2,89                  3.38
+       liv') Current ratio                                                                                  1.11                   1.05                     1.02                 1.11                  7.02
+       (v) Long tern debt to lvorking capital                                                               1.70                   2.AO                     3.64                 1.70                  3.64
+       lvi) Bad debts to trade rece¡vable ratio                                                             0,02                   0,03                     0.04                 0.02                  0.04
+       (vii) Current liability ratio                                                                        0.73                   0.76                     0.71                 0.73                  0.71
+       [viii) Total debts to total assets                                                                   0.26                   0.33                     0,32                 0,26                  0.32
+       lix) Debtors turnover "                                                                              5.93                   7.24                     8.45                 6.35                  6.42
+       lx) InventorT turnover ^                                                                             3.64                   3.40                     3.42                 3.29                  2.76
+       [xi) Operating margin [o/o)                                                                                                7.5Ao/o                7.27o/o                6.                    7.250/o
+       lÌiìì Net nrôfìt nr¡roin fol"ì                                                                                             2 7 So/"               3 O4o/¡
+
+
+       " Ratios for the quarter ended have been annualised
+      Formulae for conputation ofratios are as follows :
+      (¡) Debt Equity R¿tio : Total Debt (excluding lease liability)/ Net Worth
+      Total Debt: Secured Loans + Unsecured Loans - Liquid investments and fìxed depositJ with original matllrity ofless tlìan three montlìs
+      Net Worth : Equity Share Capital + Reseryes
+
+
+      ternl debt during the period)
+
+      250 crores.
+      (iii) Interest Scryice Coverage Ratio : EBDIT / Finance costs
+       EBDIT : Profit before Taxes + Depreciation and amortisation + Finance cosb + Exceptional iterns (non c¿sh), ifany
+      (iv) Current Ratio I Current assets / Cun ent liabilities
+
+
+
+      (v¡) Bad debts to trade receivable ratio : Provision for doubtful debt / closing gross tlade receivable
+      (vii) Currcnt liability ¡atio : Current L¡abilities / Total liabilities
+      (viii) Tohl debts to total assets : Total Bor¡owings (excluding lease liability) / Tobl assets
+      (ix) Debtors tltrnover : Sale ofgoods and Services / Average of opening and closing t¡ ade receivable
+
+      and closing inventory ofRM, SFG, FG and Scrap
+
+
+
+      [xii) Net profit nìarg¡n (%) : Profìt after tax / Total income'100
+
+IINDAT SAW LIMITED
+Statement of consolidated audited assets and liabilities
+                                                                                                 Crores
+ s.                                    Particulars                             Consolidated
+No.                                                                             As at               As at
+                                                                          31.03.2023          3r.o3.2022
+                                                                             Audited             Audited
+      ASSETS
+(1) Non-Current Assets
+       (aJ Property, plant and equipment                                    7,121.06            7,t12.60
+       (b) Capital work-in-progress                                           299.87              293.09
+       (c) Right-of-use assets                                                242.64              234.20
+       [d) Intangible assets                                                    7.93                9.96
+       [e) Financial assets
+            (i) Investments                                                  245.60               2L3.17
+            [iiJ Trade receivables                                             5.74                 8.44
+           [iii) Loans                                                         58,75              798.20
+           [iv) Other financial assets                                       868.20               849.04
+      [fJ Deferred tax assets (net)                                          394.81               407.09
+      [g) Non-current tax assets (Net)                                        57.74                56.57
+      (hJ Other non-current assets                                            47.99               200.83
+(2) Current Assets
+      (a) lnventories                                                       4,104.82            3,755.51
+      (b) Financial assets
+           (il Investments                                                      4.93               10.38
+           (ii) Trade receivables                                           3,562.86            7,805.77
+           (iii) Cash and cash equivalents                                     77.56              496.62
+           (iv) Bank balances other than (iii) above                          135.64              175.88
+           (v) Loans                                                           97.70               64.90
+           (vi) Other financial assets                                        24,42                24.rt
+      (c) Contract assets                                                    724.69               153,72
+      [d) Current tax assets (net)                                            51.99                32.73
+      [e) Other current assets                                               726.95               748.69
+                                                          TOTAL ASSETS    18,255.89           16,850.30
+      EQUITYAND LIABILITIES
+(1) Equity
+      [aJ Equity share capital                                                63.95                63.95
+      (bJ Other equity                                                      7,858.81            7,300.23
+      [c) Non-controlling interest                                          (644.47)             (s 1s.04J
+      Liabilities
+(2) Non-Current Liabilities
+      (a) Financial liabilities
+           [i) Borrowings                                                   7,734.81            1,832.63
+           (iiJ Lease liabilities                                             272.64             222.08
+           [iii) 0ther financial liabilities                                  29.47                29.41
+      [b) Provisions                                                           44.1.5             52.08
+      [c) Deferred tax liabilities (net)                                     667.39              629.30
+      (d) Other non-current liabilities                                      246.77                96.82
+(3) Current Liabilities
+      [a) Financial Liabilities
+          [i] Borrowings                                                   2,950.26            3,954.58
+          (ii) Lease liabilities                                              24.22                2L,9L
+          (iii) Trade payables
+             (A) total outstanding dues of micro enterprises and small
+                  enterprises; and                                            28.67                16.89
+             (B) total outstanding dues ofcreditors other than micro
+                  enterprises and small enterprises                        2,976.78            L,523.23
+          [iv) Other  financial liabilities                                  307.10              286.79
+      [bJ 0ther current liabilities                                        1,555.04            7,273.69
+      [cJ Provisions                                                          95.56               95.46
+      [d) Current tax liabilities (netJ                                      105,52               26.29
+                                           TOTAL EQUITY AND LIABITITIES       55.89           16,850.30
+
+JINDAL SAW LIMITED
+Consolidated audited segment information for the quarter ended March 31,2023
+
+  s.    Particulars                                                                                 Consolidated
+ No.                                                                                Quarter ended                               Year Ended
+                                                                  31.03.2023         31.12.2022       31.o3.2022        31,o3.2023      3r.03.2022
+                                                                Refer Note 12         Unaudited     Refer Note 12          Audited            Audited
+  t    Segment Revenue
+       aJ lron & Steel                                                 5,L60.24         5,t28.0L         3,94t.86        L7,758.65           13,L82.L2
+       b) Waterways Logistics                                              8.51              6.90            6.49            28.74               27.L6
+       cJ Others                                                          20.62            2 3.03           22.08            82.47               90.63
+       Sub Total                                                      s,189.37         5,157.94         3,970.43         17,8'69.86      13,299.91
+       Less: Inter-segment Revenue                                          1.33                                0.53           2.06                1..49
+       Total                                                          5,188.04         5,L57.94         3,969.90         17.867.AO       13.294.42
+
+ 2     Segment Results
+       Profit/(loss) before finance costs, exceptional items,
+       unallocable expense/income and tax
+       a) Iron & Steel                                                   52L.63           402.9+           299.72          r,295.29             962.t9
+       bJ Waterways Logistics                                               0.56            0.33            (s.31)            (14.1s)           (rs.z7)
+       c) Others                                                           r0.25)           0.25            f   0.011          0.51               9.92
+       Total segment profit/(loss) before finance costs,                szt.94           403.52           294.40          1,28r.65             956.84
+       exceptional items, unallocable expense/income and
+       tax
+       Finance costs                                                    (160.84)         (168.84J         (11e.38)         (637.s9)            (460.t2)
+       Unallocable corporate income/expense (netJ                         31.54            t7.80            29.52             91.44             r24.75
+       Profit/(loss) before tax and exceptional items                   392.64           252.48           204.54            735.50             621.47
+       Exceptional items- income/(expense)(refer note no 4J                                                                  (2 s.04)
+       Share of profit/(loss) ofloint venture and associate               r0.1Bl           r0.07ì                             r0.46ì
+       Profit/(loss) before tax                                         392.46           252.41           204.54            710.OO             621.47
+       Less: Tax expense                                                  98.27           109.18            82.70           267.24              245.59
+       Profìt/(loss) after tax                                          294.19           143.23           t2t.B4           442.76              375.88
+
+ 3     Segment Assets
+       a) Iron & Steel                                                16,038.01        L7 ,0t7.86       74,557.06        16,038.01           14,55 1.06
+       b) Waterways Logistics                                          7,253.73         7,263.26         t,266.7r         L,253.73            r,266.7L
+       c) Others                                                          54.79            53.11           50.06             54.79              50.06
+       dJ Unallocated                                                    909.36           908.38          982.47            909.36             982.47
+       Total Segment Assets                                        18,255.89          L9,242.61        16,850.30        18,255.89        16.850.30
+
+ 4     Segment Liabilities
+       a) Iron & Steel                                                4,574.02          +,238.00         2,624.08         4,574.02            2,624.08
+       b) Watelways Logistics                                           9r4.70            900.32          91.0.64           914.70              970.64
+       c) Others                                                         30.74             28.5L            23.63            30.74               23.63
+       dJ Unallocated                                                 s.Asa.74          7.070.79         6.442.47         5,458.74         6,442.8r
+       Total Segment Liabilities                                  7    977.60         12,237.62        10,001.16        10,977.60        10.001.16
+
+IINDAL SAW LIMITED
+Consolidated audited statement ofcash now for the year ended March 31,2023
+
+Particulars                                                                                                         Year ended                       Year ended
+                                                                                                                   March 31,2023                  lúarch31,2022
+                                                                                                                       Aud¡ted                        Audited
+A. CASH TNFLOW/ (OUTFLOWì FROM THE OPERAT|NC ACTMTIES
+Net prof¡t before tax                                                                                                                710.O0                         621.47
+Adiustments for :
+Add/flessl
+Depreciation and amortisation expense                                                                               470.78                        472.99
+Incone from government grant/export incentive                                                                        (r4.44)                      (10,68)
+Finance Costs                                                                                                       637.59                        460.L2
+Share of ioint venture and associates                                                                                 0.46
+Loss on sale of property, pìant and equipment and intangible assets (net)                                             7.93                          (2.6r)
+Bâlances written off/(written back) [net)                                                                            [23.0e)                        (7.s8)
+Other operational income - Provision for doubtful debts written back                                                  (1.6e)
+Loss on sale ofvessel - exceptioÌìal item                                                                             25.04
+Other operationâl income - Provision for doubtful debts ard advances (net)                                             0.20                        26.83
+Provision of liability for share based payments                                                                        6.92                         6.74
+Effect of Unrealised foreign exchalge [gain)/loss                                                                      0.33                         7 .0s
+
+Unrealised (gain)/loss on derivatives                                                                                 (3.62)                       (0.3 7)
+Net (gain)/loss on sâle of current irvestments                                                                        (L.1,2)                       (0.7e)
+Net (gain)/loss on fair valuation of investment                                                                       (0.02)                         0.01
+IDterest income on loans, fixed deposits and others                                                                  195,911        1,009.36     1111.63)           839.48
+Operating prolit before working capital changes                                                                                     1,719.36                      1,460.95
+Changes in operating assets and llabilities:
+lnventories                                                                                                         (3L2.13)                     (818.40)
+Trade receivables                                                                                                 (7,234.40)                      308.86
+Loans, other financial assets aId other assets                                                                       (64.12)                     (220.03)
+Trade payables                                                                                                     1,684.t3                      (454.38)
+0ther financial liabilities, provisions and other liabilities                                                        (r4.r4')          59.34      (4e.7\)         (L,233.66)
+Cash generated from operations                                                                                                      1,778.70                        227.29
+Taxes paid                                                                                                                           (161.281                      t153.81t
+Net cash inflow / (outflow) from operating activities                                                                               1,617.42                         73.44
+B. CASH TNFLOW/(OUTFLOWì FROM INVESTMENT ACTtVtTtES
+Purchase ofproperty, plant and equipment and intangible assets                                                     (322.s0)                      (4s3.4e)
+Sale proceeds from properly, plant and equipmerìt and intangible assets                                              86.7 4                       100,96
+Purchase of non-current investments                                                                                  [1s,30)                      (7 s.7B)
+Investmerìt in nrutual funds                                                                                        (76.62')                      (1s,e3l
+Proceed from sale of mutual funds                                                                                    76.21                         7t.6r
+(lnvestment)/Sale of treasury shares by findal Saw Employee Welfare Trust                                             0.14                         (3.s0)
+Loans received back from related aìrd other parties                                                                 763.44                        224.40
+Loarìs given to related and other parties                                                                           (40.s2)                       (64.2s)
+(Purchase)/sale of goveiluneÌt socuritics                                                                             o.o2
+lÌterest received                                                                                                    58.23                         24.67
+Net cash inflow/[outflow) from investing activities                                                                                   (7o.761                      [191.3 1l
+c. cAsH TNFLOW/(OUTFLOW) FROM FINANCING ACTIVTTTES
+Dividend pa¡d (net of unclaimed / unpaid dividend)                                                                  (63.101                       (63.07)
+Proceeds from non-current borrowiDgs                                                                                762.t2
+Repayment of non-cu rreIt borrowings                                                                               (464.s6)                      (46s.77)
+Repayment of debentures                                                                                                                          (2s0.00)
+Payment of lease liabilities                                                                                        (67.79)                       (41.08)
+lncrease/ (decrease) in currerìt borrowings                                                                        (e13,811                     1,325.25
+I¡rterest and bank charges paid                                                                                    (62t.97')                     (432.89')
+Loan repaid to related parties                                                                                      (42.s7')                      (1r.70)
+Loan taken from related parties                                                                                      37.20                          0.20
+Net cash inflow/(outflow) from f¡nancing activities                                                                                t1,968.48)
+Net changes in cash and cash equivalents                                                                                             (427.22)                       (s6.83)
+Cash a¡rd cash equivaìents at beginning of the year                                                                                  496.62                         551.91
+Exchange difference on translation of foreign curreììcy cash and cash equivalents                                                      2.16                             .54
+Cash and cash equ¡valents at end ofthe period                                                                                         77                            496.62
+
+Cash and cash equivalents at end ofthe period                                                                                         77.56                         496.62
+
+
+
+Notes:
+1. Increase/(decreaseJ in short term borrowings are shown net of repayments.
+2. Figures iD brâcket indicates cash outflow.
+3. The above cash flow staternent has been prepared under the indirect method set out in IND AS - 7 'Statement   of Cash Flows'
+
+Notes:
+
+1. Jindal ITF Limited, subsidiary of the company, had won an arbitral award allowing various claims to the tune of { 1,891.08
+crores plus interest and applicable taxes. During the financial year 201,9-20, the subsidiary had filed enforcement application
+under section 36 of Arbitration and Conciliation Act, 7996, for the execution of arbitral award being pronounced in favour of
+the subsidiary whereas the customer had preferred appeal under Section 34 of Arbitration and Conciliation Act, 1996,
+challenging the said arbitral award, Both the aforesaid cases are presently sub-judice before Hon'ble High Court of Delhi, As
+per interim relief granted by Hon'ble High Court, the subsidiary received I 856.31 crores on submission of bank guarantees.
+Based on the current status and the expert legal advice received, the company is expecting a favourable outcome which would
+cover all the investments, loans and advances in Jindal ITF and consequently no adjustments have been made to the carrying
+values of loans and investments in the books of the company.
+
+2. The Group has two primary business segments i.e, lron & Steel products and Waterways Logistics.
+
+
+3. The Group has invested T 15.30 crores towards 51% shareholding in joint venture, Jindal Hunting Energy Services
+Limited.
+
+4. Exceptional item for the year ended March 3t,2023 represents the loss on sale of vessel in subsidiary Sulog
+Transshipment Services Limited.
+
+5. Tax expense are inclusive ofprior period tax adjustments.
+
+
+6. Jindal Saw Holding FZE a subsidiary, has acquired 51% shareholding in findal Saw Gulf LLC effective May 10, 2022 from
+other shareholder making the entity, a t00o/o step down subsidiary.
+
+7. The consolidated financial results include the financials information of the step-down subsidiary, Derwent Sand SARL
+which is under liquidation.
+
+B.TheBoardof Directorshasrecommendedpaymentofdividend@{3perequityshareofl 2eachfortheyearendedMarch
+3L,2023 aggregating to { 95.93 crores.
+
+9. The second motion application for approval of composite scheme of amalgamation of Jindal Quality Tubular Limited, Jindal
+Fittings Limited and Jindal Tubular India Limited with the Company has been filed with Hon'ble Allahabad Bench of NCLT. On
+April 19, 2023 NCLT has issued the notices to all the statutory authorities and the petition is listed for hearing on lune 7,2023.
+
+10. The second motion application for approval of merger of Sulog Transshipments Limited (step down subsidiary) with Jindal
+ITF Limited (subsidiary) is pending with Hon'ble Allahabad Bench of NCLT and listed for hearing on May 24,2023.
+
+11. The Hon'ble Hyderabad bench of NCLT vide its order dated March 3t,2023, approved the resolution plan submitted by
+the Company for Sathavahana Ispat Limited. The conditions precedents as per the said Plan were achieved on April 26,2023,
+the closing date. Accordingly, Sathavahana Ispat Limited stands merged with the Company on the said date.
+
+12,The figures of the quarter ended March 3I,2023 and March 37,2022 are the balancing figures between the audited figures
+in respect ofthe full financial year and the published unaudited year to date figures upto third quarter ofthe financial year
+which were subject to limited review by the auditor.
+
+13. These results are reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on May
+t7,2023.
+                                                                                             By Order ofthe Board
+                                                                                            ForflNDAL SAW L
+
+
+
+Place: New Delhi                                                                                         u findal
+Date: May 17,2023                                                                                Managing Director
+                                                                                                  DIN:00005317
+
+J¡nÐÀt
+
+
+
+            May t7,2023
+
+             BSE Limited                                                   National Stock Exchange of lndia Ltd
+            Corporate Relation DePartment                                  Listing DePartment
+            1't Floor, New Trading Ring,                                   Exchange Plaza,
+            Rotunga Building, P'J. Towers                                  Bandra Kurla ComPlex,
+             DalalStreet,                                                  Bandra (East),
+             Mumbai - 400 001                                              Mumbai - 400 051
+             Scrip Code : 500378                                           Scrip Code :JINDALSAW
+
+
+             Sub, :
+
+                                                                  o
+                       20L5
+
+             Dear Sir/Madam,
+
+                                                                                that the Auditors' Report on
+             This is with reference to the captioned subject, we hereby declare
+                                                                                     of the Company for the
+             the Anhual Audited (Standalone & Consolidated) Financial Statements
+             year ended on 31't March, 2023 does not contain any modified opinion.
+
+             This is foryour information and record please'
+
+             Thanking you,
+
+             Yours faithfullY,
+             For JINDAL SAW LTD.,
+
+                                         1
+
+
+
+
+              N       NDRA
+              cFo
+
+
+
+
+                                 Corporate Office: Jindal Centre, 12 Bhikaiji Cama Place, New Delhi- 110066, lndia
+                         28, Shivaji Marg, Najafgarh Road, New Delhi- 110015, lndia. Phone: +91 (11) 66463827, 66463544
+     Reglstered Office: A-1, UPSIDC, lndl. Area, Nandgaon Road, Kosi Kalan, Distt, Mathura (U,P,) - 281403, lndia . Website: www.jindalsaw.com
+                                                         CIN: 1271 04UP1 984P1C023979
+

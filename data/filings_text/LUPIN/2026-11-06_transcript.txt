@@ -1,0 +1,741 @@
+  November 06, 2026
+
+  National Stock Exchange of India Limited                             BSE Limited
+  Exchange Plaza,                                                      P. J. Towers, Dalal Street,
+  Bandra Kurla Complex,                                                Mumbai Samachar Marg,
+  Bandra (East),                                                       Mumbai - 400 001
+  Mumbai - 400 051
+
+  Symbol: LUPIN                                                        Scrip Code: Equity - 500257
+
+  Subject:      Transcript of Q2 FY2027 Earnings Conference Call
+
+  Dear Sir/Madam,
+
+  In continuation to our letters dated October 19, 2026 & November 04, 2026 and pursuant to Regulation 30 read
+  with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+  Requirements) Regulations, 2015, we are pleased to enclose a copy of the Transcript of the Earnings Conference
+  Call Q2 FY2027 held on November 04, 2026.
+
+  The said Transcript is available on the website of the Company at www.lupin.com.
+
+  The above is for your information and dissemination.
+
+  Thanking you,
+
+  For LUPIN LIMITED
+   AMIT         Digitally signed by AMIT KUMAR GUPTA
+                DN: c=IN, st=Maharashtra,
+                2.5.4.20=f72cf02f52d2a7e595b45b84659bdca28c
+                8f26a939bb35835a169f2a237229a3,
+
+
+
+   KUMAR
+                postalCode=400705, street=C701 Shivdarshan
+                CHS Ltd Sector16 Plot No5 Navi Mumbai,
+                pseudonym=d3a468d0d03546efabffd2a7cb7aaaa
+                e, title=7875,
+                serialNumber=de9bbd80d8994e4be9f0dd239914
+
+
+   GUPTA
+                4eba7e782d70287df6aad1994f0b522fa08a,
+                o=Personal, cn=AMIT KUMAR GUPTA
+                Date: 2026.11.06 20:26:35 +05'30'
+
+
+
+
+  AMIT KUMAR GUPTA
+  COMPANY SECRETARY & COMPLIANCE OFFICER
+  (ACS -15754)
+
+  Encl: a/a.
+
+
+
+
+LUPIN LIMITED
+Registered Office: 3rd Floor, Kalpataru Inspire, Off W. E. Highway, Santacruz (East), Mumbai - 400 055 India. Tel: (91-22) 6640 2323.
+Corporate Identity Number: L24100MH1983PLC029442                                                      info@lupin.com | www.lupin.com
+
+                                                           November 4, 2026
+
+
+
+
+        “Lupin Limited Q2 FY2027 Earnings Conference Call”
+                            November 04, 2026
+
+
+MANAGEMENT:
+
+
+ •   MS. VINITA GUPTA – CEO, LUPIN LIMITED
+ •   MR. NILESH GUPTA – MANAGING DIRECTOR, LUPIN LIMITED
+ •   MR. RAMESH SWAMINATHAN – EXECUTIVE DIRECTOR, GLOBAL CFO & HEAD OF IT
+     AND API PLUS SBU, LUPIN LIMITED
+ •   MR. RAVI AGRAWAL – M&A AND INVESTOR RELATIONS, LUPIN LIMITED
+
+
+
+
+                                  Page 1 of 15
+
+                                                                            November 4, 2026
+
+
+Moderator:      Hello, good evening, welcome to Lupin Limited's Q2 FY27 Earnings
+                Conference Call. Thank you for your participation in the call today. Please note
+                that all participants' line will be in listen-only mode, and there will be an
+                opportunity for you to ask questions after the opening remarks. Please also
+                note that this conference is being recorded. I now hand over the conference
+                to the management. Thank you, and over to you.
+Vinita Gupta:   Hello friends, welcome to our Q2 FY27 earnings call.
+                Joining me here are Nilesh, our Managing Director; Ramesh, our Chief
+                Financial Officer; and Ravi, our Head of Investor Relations. We are pleased to
+                share our performance for the second quarter, the progress we are making
+                on our strategic priorities, and our outlook for the remainder of the fiscal year.
+                We delivered another quarter of steady performance, supported by sustained
+                momentum across most of our major geographies. Our organic revenue
+                growth remained in double digits, driven by strong performance in India and
+                Other Developed Markets. Importantly, this growth reflects the increasing
+                strength and diversification of our business, with multiple markets
+                contributing meaningfully to our overall performance. We expect this
+                momentum to continue into the second half of the year, with organic growth
+                of around 20% excluding U.S.
+                On profitability, we delivered EBIDTA margins of around 25% during the
+                quarter, despite increased investments in R&D and a challenging geopolitical
+                and operating environment. We remain committed to our FY27 margin
+                guidance of around 24–25%, while recognizing that margins are likely to
+                moderate in the coming quarters. This reflects intensifying competition in
+                some of our key U.S. products, increased investment in our R&D pipeline, and
+                higher input costs arising from the challenging macroeconomic environment
+                in the Middle East.
+                Turning to individual business segments.
+                Our U.S. business continued to navigate an evolving competitive environment
+                during the quarter. As anticipated, competition in Tolvaptan intensified with
+                the entry of two additional generic players. While our base portfolio benefited
+                from higher volumes and contributions from seasonal products, these gains
+                were offset by pricing pressures in certain products, particularly Tolvaptan.
+                We expect competitive intensity in Tolvaptan to increase further, with the
+                possibility of additional entrants over the coming quarters.
+                For FY27, we continue to expect U.S. revenues in the range of USD 1.1 billion
+                to USD 1.2 billion. Growth in our base business, new injectable launches, and
+                contributions from Pegfilgrastim are expected to help offset the impact of
+                increasing competition in key products.
+                More importantly, our mid to long-term plan for the U.S. remains on track.
+                Our priority is to double the share of complex products in our U.S. portfolio,
+                with respiratory products, complex injectables, and biosimilars serving as key
+                growth drivers. We are on track to file more than 15 products during the
+                current fiscal. Over the next three years, we expect to launch more than 60
+
+
+                                     Page 2 of 15
+
+                                                          November 4, 2026
+
+
+products in the U.S., including approximately 25 injectable and respiratory
+products, 5 biosimilars, and 2 – 3 505(b)(2) products. This pipeline represents
+an important step in reshaping our U.S. business toward higher-complexity
+products, creating a more sustainable growth platform over time.
+Turning to India, our business delivered 14.7% YoY growth this quarter, with
+the core prescription business growing 13.8% aided by volume growth of 6%.
+For the first half, our prescription business grew 14.4%, compared with 14.3%
+growth in the IPM. Our chronic segment grew 19.5%, ahead of the IPM’s
+17.2% growth. Chronic therapies now account for around 66% of our
+portfolio, up from around 65% in FY26, and we aim to increase this share to
+70% over the next five years.
+Most of our key therapy areas outpaced their respective markets. In the first
+half, our Anti-Diabetes and Cardiac segments grew at 1.5x and 1.1x their
+respective category growth rates. Our Diabetes segment was a particular
+highlight, delivering 25% plus YoY growth this quarter— our third consecutive
+quarter of 20% plus growth. This performance was led by our market
+leadership in Huminsulin® and the successful launch of Semaglutide injection.
+The IPM market growth reached a six-quarter high of 14.7% in Q2. We are
+well positioned to capitalize on this momentum and remain confident that
+our India formulations business will grow at 1.2x to 1.3x the IPM growth rate,
+supported by our prescription sales force of nearly 11,400 people and a
+pipeline of more than 80 new product launches over the coming years.
+Looking further ahead, our target is for novel proprietary products to
+contribute one third of our India revenues within the next 10 years. We will
+build this portfolio through in-house development and in-licensing, drawing
+on our partnership track record and our brand-building, development,
+regulatory and clinical capabilities. We were very pleased to get approved for
+the first green propellant MDI in India this past week.
+Our Other Developed Markets—Europe, Canada, and Australia—delivered
+46% YoY sales growth this quarter and accounted for 15% of our revenues,
+compared with 11% in FY26 and 14% in Q1FY27. Within this, our European
+business sustained strong momentum, with 45% YoY growth.
+During the quarter, we entered an exclusive licensing partnership with
+Tenpoint Therapeutics to commercialize Yuvezzi ™ in Europe. This once-daily,
+dual-agent eye drop for presbyopia advances our ophthalmology portfolio
+and builds on our strategy to expand specialty care through innovative
+therapies that address significant unmet patient needs.
+Europe remains an under-indexed market for us, with a clear pathway for
+growth across complex generics, biosimilars, and specialty. We are very
+pleased with the strong foundation we are building in Europe on the
+Ophthalmology front through the recent acquisition of VISUfarma and the
+addition of Yuvezzi ™ in the near future.
+R&D remains central to our growth strategy, with investment at 7.9% of sales
+this quarter focused on complex and specialty platforms. The tentative
+
+
+
+                    Page 3 of 15
+
+                                                                                 November 4, 2026
+
+
+                      approval of our novel Apixaban Oral Suspension through the 505(b)(2)
+                      pathway during the quarter underscores the strength of our R&D capabilities.
+                      Our pipeline includes more than 55 injectable and respiratory products under
+                      active development. We are also preparing to file 4 – 5 biosimilars for the U.S.
+                      market over the next few years. We have built a strong 505(b)(2) pipeline,
+                      with product launches expected to begin this fiscal year and a potential launch
+                      of Apixaban Oral Suspension in FY28. In India, we continue to strengthen our
+                      innovation portfolio through in-house development and in-licensing of late-
+                      stage assets.
+                      Quality and compliance remain fundamental to our business. At Pithampur
+                      Unit II, we have submitted our responses and remain on track with our
+                      remediation efforts. We are pleased with the outcomes of the inspections we
+                      have had this calendar year across our network. We are fully committed to
+                      upholding the highest standards of quality and compliance across all our sites
+                      globally.
+                      In closing, we remain on track to achieve our FY27 revenue growth and
+                      profitability goals as we navigate an increasingly competitive and challenging
+                      operating environment. We are investing on multiple fronts, including
+                      building scale to capture the growth opportunities in India, enhancing our
+                      specialty capabilities in Europe, and tapping the growing biosimilar
+                      opportunities in the US. This coupled with our strong pipeline provides a firm
+                      foundation for sustainable growth and more resilient business going forward.
+                      With this, I hand it over to Ramesh for a detailed analysis of our financials.
+                      Ramesh, over to you.
+Ramesh Swaminathan:   Friends, I welcome you all to our Q2FY27 earnings call. As you may have seen
+                      from the results, this has been a steady quarter for the company with results
+                      within the overall guidance we shared in our last interaction in August. While
+                      revenue from operations has grown at a healthy 11% YoY, the overall margins
+                      have been impacted by the additional competition we have witnessed in
+                      some of our key products in the US.
+                      Diving into the numbers, total revenues from operations, including other
+                      operating income for Q2FY27 came in at INR 7,827 crores as compared to INR
+                      7,048 crores in Q2FY26 last year, a growth of 11% YoY.
+                      Amongst the key markets, the US grew 9.3% YoY, India grew 14.7%, Other
+                      Developed Markets grew around 46% YoY and API grew around 20% YoY.
+                      Emerging markets declined by 4% YoY. As Vinita mentioned, our organic
+                      growth was in double digits, highlighting the resilience of our diversified
+                      business model.
+                      U.S Business
+                      Speaking about the U.S. business, this quarter, the U.S. business recorded
+                      sales of USD 317 million, a decline of 13.4% QoQ on constant currency basis.
+                      The QoQ decline is largely due to increased competition and Loss of
+                      Exclusivity on some of our key products like Mirabegron and Tolvaptan,
+
+
+                                           Page 4 of 15
+
+                                                           November 4, 2026
+
+
+partially offset by seasonal demand and volume growth in some select
+products.
+While we continue to benefit from our differentiated strategy on focusing on
+complex products, as indicated in our earlier interaction, we see the U.S.
+business significantly impacted in the short term from the increased
+competitive intensity on some of these key products. This will be offset by the
+commercial launch of our biosimilar portfolio in the U.S. this year and from
+the anticipated launch of Apixaban Oral Suspension for which we received
+tentative approval this quarter. I would like to mention that we have a rich
+pipeline including complex injectable and respiratory products, exclusive first
+to files, biosimilars and 505 (b) (2)s which augur well for the long-term growth
+of our U.S. business.
+India
+Turning to India, the India region business grew by 14.7% YoY during the
+quarter. Within this, our core prescription business grew 13.8% YoY and
+14.4% YoY during the quarter and H1, respectively.
+Key segments like Diabetes, Cardiology and Dermatology handsomely
+outperformed their category growing at 1.5x, 1.1x, and 1.5x respectively
+during the first six months while volume growth has been a healthy 6.1%
+during the same period. The chronic segment grew 19.5% in H1 vs IPM growth
+of 17.2% and the chronic share in the mix has increased to around 66% in
+H1FY27 from around 65% in FY26. The share of in-licensed products is around
+6%, similar to the FY26 levels. We have launched 12 products in H1FY27 and
+plan to launch about 20 products in FY27, vis-a-visa 15 products which we had
+launched in FY26.
+We remain confident that our India Formulations business will continue to
+outperform IPM by 1.2x - 1.3x supported by a strong sales force of more than
+11,000 people and pipeline of more than 80 new product launches over the
+coming years including innovation in-house and in-licensed products.
+Other Developed Markets
+As far as Other Developed markets are concerned, revenues in our other
+developed markets were INR 1,182 crores, representing a growth of around
+46% YoY. This was led by strong sales in Australia, Canada and Europe. We are
+focusing on various strategic initiatives to grow our business in this segment,
+especially in Europe going ahead.
+Other Emerging Markets
+Other Emerging markets de-grew by 4% YoY in the quarter, with lower sales
+in Brazil offsetting double digit growth in key markets like South Africa,
+Philippines, and Mexico.
+Coming to the P&L.
+Other Operating Income
+
+
+
+                     Page 5 of 15
+
+                                                            November 4, 2026
+
+
+Other Operating Income at INR 42 crores as against INR 216 crores in Q2FY26,
+has decreased around 81% YoY, primarily due to lower export benefits from
+the PLI schemes during the quarter.
+Gross Margins
+Gross margins came in at 74.2% as compared to 73.3% last year and 74.6% in
+Q1. While margins have sequentially benefitted from increased volumes, cost
+initiatives, and higher profitability in India, we have also seen downsides from
+increased competitive intensity on some key products in the U.S. and elevated
+geo-political risks in the Middle East.
+Employee Benefit Expenses
+Employee benefit expenses at INR 1,424 crores increased around 29% YoY
+from INR 1,106 crores in Q2FY26, translating to 18.3% of sales as compared
+to 16.2% in Q2 last year. This change is largely attributable to higher costs due
+to regular annual increments, and business growth during the period.
+Manufacturing & Other Expenses
+Q2FY27 manufacturing and other expenses came in at INR 2,438 crores,
+increasing around 23% YoY from INR 1,980 crores in Q2FY26, translating to
+31.3% of sales versus 29.0% last year. The expenses were higher mainly due
+to higher volumes in normal course of the business, higher SG&A expenses on
+account of field force expansion and license fee payments as part of
+settlement agreements.
+R&D
+R&D at INR 618 crores is 7.9% of sales as compared to INR 522 crores in Q2
+last year. On an H1 basis, R&D was INR 1,226 crore representing 7.7% of sales.
+For the full year, as indicated, we expect R&D to be around 8%.
+EBITDA
+EBITDA excluding Forex and other income was INR 1,957 crores vis-a-vis INR
+2,138 crores in the same period last year with a margin of 25.1% vis-a-vis
+31.3% last year in the same period. For the full year, as indicated in our earlier
+interaction, we expect EBITDA margins to be around the 24%-25%.
+ETR
+Turning to the tax rate, ETR in H1 was at 28.5%. For the full-year, we expect
+ETR to be around 27%-28%
+Balance Sheet
+Operating Working capital
+Operating working capital stands at INR 7,542 crores as of 30th September,
+against INR 7,132 crores as of 31st March'26, which translates to 87 days of
+working capital against 90 days in the previous quarter.
+Net Cash
+
+
+                     Page 6 of 15
+
+                                                                                    November 4, 2026
+
+
+                         Net cash stood at INR 3,349 crores as against INR 4,636 crores on 31st March
+                         2026 largely due to the closure of our VISUfarma acquisition and dividend
+                         payouts this year. Whilst we focus on increased cash generation for our
+                         business, we would like to highlight that we continue to explore strategic
+                         allocation of our capital to ensure the long-term mission of the company,
+                         including on the specialty front.
+                         ESG
+                         Our sustainability agenda continued to make strong progress in Q2FY27. We
+                         achieved Zero Waste to Landfill certification across eight manufacturing sites,
+                         including seven Platinum ratings advancing our circularity ambitions and
+                         enabling more responsible management of waste and resources. We also
+                         strengthened responsible sourcing through ESG assessments of 130 suppliers,
+                         while advancing diversity and leadership development.
+Moderator:               Thank you very much, sir. We will now begin the question-and-answer
+                         session. Requesting all the participants who wish to ask questions to raise
+                         their hands on the participant tab on the screen. We will wait for 30 seconds
+                         for the queue to assemble.
+Moderator:               We will take the first question from Dhara Ganatra.
+Dhara Ganatra:           My question was on the gross margin front. As Tolvaptan and Mirabegron
+                         were exclusive products and have come off in this quarter, we are clearly
+                         seeing that in the decline in revenues, but the same impact has not been
+                         reflected on the gross margin side. What is the other offsetting factor that
+                         explains this?
+Vinita Gupta:            I just wanted to clarify that the decline is primarily in Tolvaptan. Mirabegron
+                         has been relatively stable. Please go ahead, Ramesh.
+Ramesh Swaminathan:      It is clearly because of that in the Americas, but there is a mix change in other
+                         parts. Moreover, there have been tailwinds in terms of forex associated with
+                         the impact on gross margins, and that is the reason why you actually say that
+                         the gross margins are more or less slightly on the higher side vis-a-vis the
+                         previous quarter. I mean, vis-a-vis the previous quarter, there is a decline, but
+                         it is not so steep.
+Moderator:               The next question is from Shashank Krishnakumar.
+Shashank Krishnakumar:   Just wanted to understand on Apixaban, typically the way reimbursement
+                         works for some of these 505(b)(2) products. There could be a few challenges
+                         with respect to getting reimbursement codes assigned and then getting
+                         coverage. Do you anticipate any of those challenges post-launch in the first
+                         few months? Could there be a lag in terms of the product gaining traction and
+                         revenue getting recognized?
+Vinita Gupta:            The differentiated products, 505(b)(2)s, are obviously not the same as
+                         substitution generics. So, it is incremental effort, additional effort on gaining
+                         market access. But our team has been working hard, building the right
+                         expertise and the right relationships into the channels that we target for the
+                         product to be able to gain share on a rapid basis. We still expect it to be a
+
+
+                                              Page 7 of 15
+
+                                                                                     November 4, 2026
+
+
+                         build-up over the months and quarters. We expect to launch the product in
+                         the first quarter of FY28, and as we gain traction in the channels that we have
+                         targeted, we expect the share to build up.
+Shashank Krishnakumar:   If you could just comment on the progress made with respect to some of our
+                         respiratory filings, Respimat, Ellipta platforms, etc. Where are we in terms of,
+                         I think we had guided to close to seven filings this year. If you could update
+                         on the progress, there?
+Vinita Gupta:            We have made really good progress on Respimat; exhibit batches are done,
+                         and the filing is this fiscal year on Spiriva Respimat®. On the Ellipta franchise,
+                         we have had good progress on the Breo product, so that is expected to be
+                         filed later this fiscal year. It probably will slip a couple of months into first
+                         quarter next fiscal year, but the seven to eight products that we targeted with
+                         these two plus the MDIs remain on track to be filed within this fiscal year or
+                         within a couple of months of the end of the fiscal year.
+Shashank Krishnakumar:   The R&D spend for the current year is guided to around 8%. What we have
+                         seen in case of some of our peers is probably some optimization of R&D
+                         spend, which also has been happening. So sometime next year, FY28, is this
+                         also a line item which you could look to optimize given where margins might
+                         stand at that point? Or given your focus incrementally on complex filings, you
+                         expect R&D spend to remain in this range?
+Vinita Gupta:            We will take a look and have been reviewing the R&D spend to determine the
+                         best way for us to maximize our opportunities while not compromising on the
+                         material products. As we are investing into commercialization in a few areas,
+                         like specialty in Europe, as well as 505(b)(2), like Apixaban, and biosimilars,
+                         we are looking to moderate and optimize on the other lines, including R&D.
+Moderator:               The next question is from Bino Pathiparampil.
+Bino Pathiparampil:      What are your thoughts on FY28 U.S. revenues? Would you be able to match
+                         the FY27 number, or will there be some decline?
+Vinita Gupta:            Revenue should remain at a billion dollars plus, which is a bar that we want
+                         to be able to maintain. In terms of matching levels of FY27, we have some
+                         pressures with Tolvaptan coming off with additional competition. Post-
+                         September next year, we would expect additional competition on
+                         Mirabegron. Apixaban, Dalbavancin and the biosimilars, particularly
+                         Pegfilgrastim, should help us grow. We hope to be able to be at least at a
+                         billion dollars plus. As we look out in FY29 and get the full-year impact of some
+                         of these more durable pipeline products, we would expect the business to
+                         grow.
+Bino Pathiparampil:      Do you have a filing of Etanercept in the U.S., and what is the status?
+Vinita Gupta:            We are in a very good position with Etanercept across the world, and are
+                         expecting to file later this fiscal year in the U.S.
+Bino Pathiparampil:      Would you be in the first wave, and what would be the timeline?
+Vinita Gupta:            We expect to be in the first wave in 2029.
+
+
+                                              Page 8 of 15
+
+                                                                                 November 4, 2026
+
+
+Bino Pathiparampil:   Europe and Other Markets revenue seem to be pretty weak this quarter. If I
+                      adjust for VISUfarma, it seems to be even down YoY. Is there any particular
+                      reason for that?
+Vinita Gupta:         Europe was pretty strong, double digit, even without VISUfarma. The Other
+                      Markets, in particular Latin America and Brazil, had additional competition in
+                      Dapagliflozin, where we had tremendous upsides over the last two years. That
+                      was primarily the reason for the decline in Emerging Market revenues.
+Moderator:            The next question is from Neha Manpuria.
+Neha Manpuria:        On the gross margin number, if I look at the Fx, the Fx has not increased
+                      materially QoQ. I think it is up a percent and a half.
+                      Also, if you could just give us some colour on what is the exit Tolvaptan market
+                      share that we have, to make sense of the gross margin number and how we
+                      should think about it going forward. And is it fair that we are expecting one
+                      more competitor to come through in Tolvaptan in this quarter?
+Vinita Gupta:         We expect potentially a couple of additional competitors can come in. We
+                      had market share of 50% in the last couple of months, being the sole generic
+                      in the marketplace. With this additional competition, obviously, we will be
+                      giving up some share.
+                      The bigger impact is on pricing. We would expect the generic share to
+                      continue to grow, and we are certainly continuing to maintain a big
+                      percentage of our channel partners but would expect the margin contribution
+                      and revenue contribution to come down significantly.
+Neha Manpuria:        In this context, is Fx the only reason we have been able to offset the Tolvaptan
+                      impact on gross margins?
+Ramesh Swaminathan:   When I spoke about forex, it is in the context of forwards that I had taken in
+                      the first quarter. When we started the year, it was around 89 to 90. Some of
+                      the forwards were around that range. It had depressed overall realizations for
+                      the first quarter, which is not there in the second quarter. That is what I meant
+                      by tailwinds in the second quarter.
+Neha Manpuria:        Okay, understood. I think as we go forward, this should probably unwind itself
+                      a little bit as the INR stabilizes?
+Ramesh Swaminathan:   Absolutely.
+Neha Manpuria:        Second question is on Apixaban. I know you said that it is too early for us to
+                      say as to what could be the share that we could take, etc. But in your
+                      assessment, how easy is it to launch a 505(b)(2) to take this share? When you
+                      say incremental effort would be required, would this also mean investment
+                      on the ground or additional investment that we would need to make in the
+                      coming quarters before the launch?
+Vinita Gupta:         Yes, we are planning to make additional investments in the next couple of
+                      quarters to be able to get the right market access and channel expertise and
+                      relationships to be able to build share in the exclusive window that we have
+                      prior to the generics coming in. In particular, we would expect to retain some
+
+
+                                           Page 9 of 15
+
+                                                                                November 4, 2026
+
+
+                      share after the generics come in segments that benefit from a liquid dosage
+                      form. So, we have built in incremental efforts on the commercial front to be
+                      able to build share.
+Neha Manpuria:        Given this is a differentiated dosage, could it be slightly more durable even
+                      after generics come in FY29?
+Vinita Gupta:         That is what we are expecting. As we look at the 505(b)(2)s, the thought is
+                      that you get a longer window from a business and margin perspective relative
+                      to exclusive generics.
+Moderator:            The next question is from Kunal Dhamesha.
+Kunal Dhamesha:       On the Apixaban strategy, would it be focused more on B2B customers,
+                      getting formulary access and then leading to substitution, or would it be more
+                      of a B2C strategy?
+Vinita Gupta:         It is more targeted on channels where we believe that we can impact through
+                      the efforts that we make, as opposed to direct B2C. It would be aspirational
+                      to get products, and this would have been a good one if we had multiple years
+                      before other generics got in to do B2C.
+Kunal Dhamesha:       For India, we are suggesting growth of 1.2x to 1.3x times the market, but H1
+                      is more or less around 1.1x. What are the drivers of acceleration in H2?
+Nilesh Gupta:         For H1, we are 16% ahead of the market, but definitely not where we need to
+                      be. We have seen respiratory in particular at very slow growth, which is
+                      pulling down the average. Cardiac has slowed a little bit as well, but we
+                      continue to be well ahead of the market. Diabetes is where we are excelling.
+                      We expect respiratory to pick up. Usually, the second half is better for
+                      respiratory. There is no reason why cardiac should not bounce back as well.
+                      Our goal is 20%-30% ahead, so we are short of that. We have some new
+                      launches, the business is doing well, and the entire chronic share is solid. We
+                      would expect to build back growth.
+Kunal Dhamesha:       In respiratory, is this slowdown more on tablets or on the inhaler side?
+Nilesh Gupta:         On the inhaler side. Everybody has been coughing in India the last few
+                      months. I think those remain strong. That is not our focus area. Our focus is
+                      on the inhalation side, MDI, DPI, and nebulization, and that part has been
+                      slower. You seem to see these alternate years of very solid growth and then
+                      lower growth. Last year was very solid. The year before that was actually
+                      slower. The year before that was very solid again. There is no sense in this
+                      pattern, but I do see it picking up in second half.
+Kunal Dhamesha:       On capital deployment, we have some room to kind of lever up to add
+                      inorganic growth. What are your thoughts in terms of capital deployment
+                      priorities beyond capital expenditure?
+Ramesh Swaminathan:   We are an acquisitive company but will be judicious in our choice of
+                      investments. Our first choice would be specialty in Europe and America, and
+                      equal importance to acquisitions in India, but only at a cost appropriate from
+                      our perspective.
+
+
+                                          Page 10 of 15
+
+                                                                                  November 4, 2026
+
+
+Kunal Dhamesha:       Will there be a very active pipeline that we would be looking at right now?
+Ramesh Swaminathan:   We have entered the ophthalmic space and would like to grow in that space
+                      across the globe. India, of course, based again on the proposition. In our
+                      overall capital, we would keep the threshold limits of twice the EBITDA. So
+                      that would potentially mean about INR 16,000 crore – INR 17,000 crore for
+                      debt, and about INR 3,000 crore – INR 4,000 crore that we have on our
+                      balance sheet. So, we could go up to INR 20,000 crore really, but the
+                      proposition should be compelling enough.
+Moderator:            The next question is from Kunal Randeria.
+Kunal Randeria:       On Xywav®, litigation is still on with the innovator, while one Indian filer has
+                      settled. Is this an FY29 opportunity, and do you expect sole or shared
+                      exclusivity?
+Vinita Gupta:         It is not FY29; it is a further-out opportunity. We believe we were sole
+                      exclusive and first to file. The brand can always launch an authorized generic
+                      or partner with companies that they settle with, but we are not privy to those
+                      arrangements.
+Kunal Randeria:       Are Dulera and Diazepam nasal spray still opportunities for next year, and can
+                      they be meaningful?
+Vinita Gupta:         We are expecting Diazepam for certain, and hopefully Dulera also, depending
+                      on the queries we get from the FDA. Hopefully, it is an opportunity next year
+                      or early FY29.
+Kunal Randeria:       On Apixaban, you may have a 10-month window before ANDA generics hit
+                      the market. Are you confident of maintaining or enhancing FY28 Apixaban
+                      revenues in 2029 and 2030?
+Vinita Gupta:         We hope so. We will learn a lot through this launch. The time we have prior
+                      to generics coming in is likely the most valuable, but we expect to retain
+                      share, especially in channels where the liquid dosage form brings real benefit
+                      to patients. We hope to have a tail in the coming years.
+Moderator:            The next question is from Shyam Srinivasan.
+Shyam Srinivasan:     As you prepare to launch these five biosimilars in the U.S., what are some of
+                      the learnings that you're seeing the first wave players have gone through the
+                      challenges, and when you arrive in the markets, what are you trying to do
+                      differently to kind of achieve the kind of stated shares that you have probably
+                      achieved on the small molecule side? Is there something that you need to
+                      keep in mind from a philosophy perspective of how we approach biosimilars
+                      in the U.S.?
+Vinita Gupta:         Our first one, Pegfilgrastim, has launched through our partner Valorum, so we
+                      look forward to learning from that experience. As we have seen companies in
+                      the market over the last couple of years, it is pretty clear that what tactics and
+                      strategies succeed on the biosimilars front are very different from small
+                      molecule.
+
+
+
+                                          Page 11 of 15
+
+                                                                               November 4, 2026
+
+
+                    The erosion on the pricing standpoint, discounting by manufacturers really
+                    does not help much on the biosimilars front relative to our small molecule
+                    generics. One really needs to carefully look at the incentives to the payers on
+                    the biosimilars front that really drive substitution on biosimilar.
+                    We are very pleased that we are going to ramp up these products over the
+                    next few years at a time when there is significant openness relative to five to
+                    eight years ago. Biosimilars were still nascent.
+                    Today, there is a pretty active adoption of biosimilars in the marketplace, and
+                    a lot of learnings of companies that have exited products as well as come back
+                    into the market with different strategies that really inform how we launch the
+                    products that we plan to launch over the next few years.
+Shyam Srinivasan:   On your U.S. guidance, we have done one half at USD 683 million. So even if I
+                    take the midpoint of your full year guidance, USD 1.1 billion – USD 1.2 billion,
+                    we are talking about like a quarterly run rate of USD 230 million per quarter,
+                    right? Is that the kind of like USD 100 million loss that we envisage, or you
+                    think Q2 probably has come in far better than what you thought? And the
+                    reason to just hold onto that guidance maybe, is there upside risk is the
+                    question I am asking?
+Vinita Gupta:       Q2 and Q1 was above our plan. Therefore, we will maintain our guidance and
+                    see if we get any upside.
+Shyam Srinivasan:   On India, prescription business was called out at 14% with 6% volume growth.
+                    Chronic business growing faster. If you could help us disaggregate how the
+                    chronic business volume growth has been happening as well, and if I were to
+                    just keep overall anti-diabetes out - since it's a category, especially
+                    semaglutide, started this year. I just want to see excluding that, if you could
+                    give us some qualitative colour on the growth?
+Nilesh Gupta:       I have the value, not the volume. The chronic value growth in H1 is 19.5%, and
+                    Q2 is 17.4%. Overall, MAT volume is 8.6%, and H1 was 6.1% volume growth. I
+                    would presume most of it would be from chronic. The Semaglutide number is
+                    not very large. We are the third-largest generic, but the Semaglutide number
+                    is not very large in that volume. I would presume that the volume would be
+                    close to that. We can get you a more specific answer.
+Moderator:          The next question is from Rashmi Shetty.
+Rashmi Shetty:      What is the addressable market size of Apixaban oral suspension?
+Vinita Gupta:       The overall brand is USD 10 - plus billion. And we have certain channels that
+                    we have targeted that are a good percentage of the market.
+Rashmi Shetty:      Is it fair to understand that EBITDA margin will not be similar to substitutable
+                    generic exclusivity?
+Vinita Gupta:       The EBITDA margin should be attractive. We are expecting a margin like an
+                    exclusive product, but with some investment on the commercial front.
+Rashmi Shetty:      For the full year, as you have given the guidance of USD 1.1 billion – USD 1.2
+                    billion for the U.S. market, for FY 2028, when you are saying that you would
+
+
+                                        Page 12 of 15
+
+                                                                                  November 4, 2026
+
+
+                      be able to maintain at least USD 1 billion plus, that includes your Apixaban
+                      estimates?
+Vinita Gupta:         Yes.
+Moderator:            The next question is from Tushar Manudhane.
+Tushar Manudhane:     Could you share your thoughts on further development work in the peptide
+                      segment, apart from what we have launched for regulated markets,
+                      specifically the U.S.?
+Vinita Gupta:         On peptides, the products launched so far are Glucagon and Liraglutide. Over
+                      the next couple of years, these will continue to be the material products. We
+                      don't expect to get products like semaglutide and others, the newer peptides,
+                      the GLP-1s, into the market anytime soon, just given the patent expiry is
+                      beyond the five-year timeframe for those products. In the near term, the
+                      injectable products that are turning out to be really attractive for us. Risperdal
+                      Consta® is one of them. Sugammadex that we just launched is a nice
+                      opportunity for us. Dalbavancin, both the 505(b)(2) as well as generic
+                      opportunities are nice opportunities for us. Broadly, we look at biosimilars,
+                      also injectables. We see larger opportunity on the biosimilars front, even
+                      compared to injectables in the next three to five years.
+Tushar Manudhane:     Similarly, on the iron colloid side?
+Vinita Gupta:         We expect some niche product launches on the iron colloid side as well.
+Tushar Manudhane:     Without product-specific details, could you share the addressable market and
+                      launch timeline?
+Vinita Gupta:         We will get back to you.
+Moderator:            The next question is from Foram Parekh.
+Foram Parekh:         First question is on the company-level EBITDA margin. Since we have
+                      mentioned about couple of pipeline products, and Apixaban launch would be
+                      there in FY28, whose margins would also be like an exclusive product margin.
+                      Do we see a company-level EBITDA margin going back to 29%-30% in a span
+                      of five years with so many products in pipeline?
+Ramesh Swaminathan:   Yes, if you were to take 2029-30. We could get to those levels. There are
+                      investments coming up, but the areas we are entering have very good
+                      realizations: 505(b)(2)s, biosimilars and specialty products across the globe,
+                      including Yuvezzi. As these scale, we could get to those levels. Secular growth
+                      is expected over several quarters, whilst FY28 could potentially be a period of
+                      consolidation.
+Foram Parekh:         On the U.S. run rate, if you could highlight something. In FY29, I understand
+                      in FY28 we have Apixaban, but in FY29, with the help of specialty and complex
+                      injectables and respiratory products, would it be fair to assume that we will
+                      maintain a USD 1 billion run rate?
+Vinita Gupta:         Yes.
+
+
+
+                                          Page 13 of 15
+
+                                                                                 November 4, 2026
+
+
+Foram Parekh:         My last question is on the India market. I read in the presentation that on the
+                      chronic side, we will max out at 70%, and we have already achieved 66% of
+                      our chronic contribution. Assuming that we will achieve target in near term,
+                      we will not go beyond 70% on the chronic side. Is that a fair understanding?
+Nilesh Gupta:         I would love to prove you wrong. Our plans add up to around 70%, but that
+                      does not mean we stop there. We are a chronic story and that is where growth
+                      will come from. Consistently, the growth on that side has been higher. Acute
+                      and semi-acute parts will also grow, but the focus remains chronic, so
+                      theoretically chronic share will keep growing.
+Moderator:            The next question is from Alankar Garude.
+Alankar Garude:       Are you evaluating the possibility of a partner for Apixaban?
+Vinita Gupta:         We looked at all opportunities and options and believe we have a strong
+                      commercial strategy here.
+Alankar Garude:       On manufacturing front, given the product is filed from Somerset, there is
+                      enough capacity available to drive the best outcome in FY28?
+Vinita Gupta:         Yes. Our global operations and supply chain team, as well as the Somerset
+                      team, have worked very hard to ensure we can meet our upside scenario.
+Alankar Garude:       On costs, are there levers such as discretionary spends that could reverse as
+                      Tolvaptan contribution comes down?
+Ramesh Swaminathan:   The expenditure increase is essentially because of settlement-related costs
+                      on account of Mirabegron which would reverse out. The second is, we are
+                      also investing ahead of the curve in terms of IT, a number of platforms and Al
+                      spends. We would expect a lot of outcomes to come in from there. There is
+                      an investment phase, that would play out over the next few quarters. So, if
+                      you were to take a period of time, say three, four years, you would expect the
+                      IT spends would increase, but as a percentage of sales, to be much lower. The
+                      outcomes from those are visible across various other lines.
+Alankar Garude:       So, these are more about productivity gains rather than discretionary spends
+                      coming down or staying flat in absolute basis?
+Ramesh Swaminathan:   Well, discretionary spends, so it is essentially with better ways of looking at,
+                      they are ways of looking at productivity. So clearly, with the advent of
+                      technology and the like, a number of things would be made possible.
+Moderator:            Since we do not see any raised hands, I will now hand the conference over to
+                      the management for closing comments.
+Vinita Gupta:         Thank you, friends, for all your questions. Hopefully, we were able to give you
+                      all the answers; otherwise, our team will be in touch with any additional
+                      clarifications you need. We remain confident in growing our business in a
+                      more sustainable manner. Investments in areas like specialty, particularly in
+                      Europe, as well as biosimilars and 505(b)(2)s, give us confidence that we
+                      should be able to evolve our developed markets business toward a more
+                      durable and sustainable portfolio, as opposed to one-off exclusives. Our
+                      consistent performance and increased investment in India continue to be a
+
+
+                                          Page 14 of 15
+
+                                                                        November 4, 2026
+
+
+             strong anchor for growth. We remain excited about our prospects over the
+             next five years and look at the next year as a year of investment and capability
+             building to create a more resilient business. Thank you again for your time
+             today, and we look forward to connecting with you soon.
+Moderator:   Thank you, ma'am, and thank you to all the participants. On behalf of Lupin
+             Limited, that concludes this conference. Thank you for joining us, and you may
+             now exit the webinar.
+
+
+
+
+                                 Page 15 of 15
+

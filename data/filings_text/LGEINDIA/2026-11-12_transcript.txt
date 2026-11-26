@@ -1,0 +1,920 @@
+LG Electronics India Limited
+(16th to 20th Floor) C- 001, Tower D, KK Project, Sector-16 B.
+Noida - 201301 Dist. Gautam Buddha Nagar, UP (India)
+T: 91-120-651-6700 Website: www.lg.com/in
+Email id: cgc.india@lge.com
+
+LGEIL/CGC/2026-27/71
+
+Date: November 12, 2026
+
+National Stock Exchange of India Limited                                     BSE Limited
+Exchange Plaza, C-1, Block G                                                 Phiroze Jeejeebhoy Towers
+Bandra Kurla Complex,                                                        Dalal Street,
+Bandra (E), Mumbai – 400 051                                                 Mumbai – 400 001
+
+NSE Symbol: LGEINDIA                                                         Scrip Code: 544576
+
+Sub: Transcript of Earnings Call in respect of Un-Audited Financial Results for the quarter and
+half year ended September 30, 2026
+
+Dear Sir/Madam,
+
+This is in reference to the Company’s intimation dated October 28, 2026 filed with the Stock
+Exchanges pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, regarding the Earnings call held to discuss the Un-audited financial results of the
+Company for the quarter and half year ended September 30, 2026, which was scheduled on Friday,
+November 06, 2026.
+
+Further to the audio recording already submitted to the Stock Exchanges, we hereby enclose the
+Transcript of the said Earnings Call.
+
+The      same      is     also       available      on                 the      Company’s         website   at:
+https://www.lg.com/in/investorrelations/quarterly-reports/
+
+You are requested to take the same on record.
+
+
+Thanking You,
+
+Yours truly,
+For LG Electronics India Limited
+Anuj
+                  Digitally signed by Anuj Goyal
+                  DN: c=IN, st=Delhi,
+                  2.5.4.20=cd884a46ddb4083faaa8aa529316f5b5fa750437
+                  82a7029c66b232e76d747c0c, postalCode=110092,
+                  street=J EXT 110 LAXMI NAGAR GALI NO2 NEAR JAGAT
+                  RAM PARK Laxmi Nagar east Delhi,
+
+
+
+Goyal
+                  pseudonym=20250625144403137, title=5591,
+                  serialNumber=523087c1d87cd3a4becfec89071a399096c
+                  f9d22867419e0779cce796472add4, o=Personal, cn=Anuj
+                  Goyal
+                  Date: 2026.11.12 17:23:23 +05'30'
+
+
+
+
+(Anuj Goyal)
+Company Secretary and Compliance Officer
+
+Encl: As above
+
+
+
+
+  Regd. Office: A-24/6, Mohan Cooperative Industrial Estate, Mathura Road, New Delhi – 110044
+                               CIN: L32107DL1997PLC220109
+
+             “LG Electronics India Limited
+          Q2 FY27 Earnings Conference Call”
+                  November 06, 2026
+
+
+
+
+MANAGEMENT: MR. HONG JU JEON –MANAGING DIRECTOR– LG
+            ELECTRONICS INDIA LIMITED
+            MR. DONGMYUNG SEO – WHOLE TIME DIRECTOR &
+            CHIEF FINANCIAL OFFICER – LG ELECTRONICS INDIA
+            LIMITED
+            MR. SANJAY CHITKARA – CO-CHIEF SALES &
+            MARKETING OFFICER – LG ELECTRONICS INDIA
+            LIMITED
+            MR. ATUL KHANNA – CHIEF ACCOUNTING OFFICER –
+            LG ELECTRONICS INDIA LIMITED
+            MR. GAGANJEET SINGH – CHIEF MANUFACTURING
+            OFFICER – LG ELECTRONICS INDIA LIMITED
+            MR. GURPINDERJEET SINGH – HEAD, FINANCIAL
+            PLANNING – LG ELECTRONICS INDIA LIMITED
+            MR. SOONJOO SEO – INVESTOR RELATIONS OFFICER –
+            LG ELECTRONICS INDIA LIMITED
+            MR. JUNG WON BYUN – EXPORT HEAD – LG
+            ELECTRONICS INDIA LIMITED
+            MR. ADITYA BHASIN – HEAD, INVESTOR RELATIONS –
+            LG ELECTRONICS INDIA LIMITED
+
+MODERATOR:   MR. TANAY SHAH – DAM CAPITAL
+
+                         Page 1 of 15
+
+                                                                                   LG Electronics India Limited
+                                                                                            November 06, 2026
+
+
+
+
+Moderator:       Ladies and gentlemen, good day and welcome to the LG Electronics India Q2 FY27 Earnings
+                 Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there
+                 will be an opportunity for you to ask questions after the presentation concludes. Should you need
+                 assistance during the conference call, please signal an operator by pressing star, then zero on
+                 your touchtone phone. Please note that this conference is being recorded.
+
+
+                 I now hand the conference over to Mr. Tanay Shah from DAM Capital. Thank you, and over to
+                 you, Mr. Shah.
+
+
+Tanay Shah:      Thank you so much. On behalf of DAM Capital, I would like to welcome you all to the Q2 FY27
+                 Earnings Conference Call of LG Electronics India Limited. I would like to inform you that the
+                 call is being recorded, and the audio call and transcript will be available on the company website.
+                 I would like to thank the LG Electronics management for giving us the opportunity to host the
+                 call
+
+
+                 And now would like to hand over the call to Mr. Aditya Bhasin, Head Investor Relations of LG
+                 Electronics India. Thank you, and over to you, sir.
+
+
+Aditya Bhasin:   Thank you, Tanay. A very good evening to everyone. I would like to welcome you to the Q2
+                 FY27 earnings conference call of LG Electronics India Limited. Hope you have gone through
+                 our earnings presentation uploaded on our website and stock exchange. I also want to remind
+                 you of the safe harbor. We may be making some forward-looking statements that have to be
+                 understood in conjunction with the uncertainties and the risks that company faces.
+
+
+                 We have our senior management here today with us, being represented by Mr. Hong Ju Jeon,
+                 Managing Director , Mr. Dongmyung Seo, Whole Time Director & Chief Financial Officer, Mr.
+                 Sanjay Chitkara, Co-Chief Sales and Marketing Officer, Mr. Atul Khanna, Chief Accounting
+                 Officer, Mr. Gaganjeet Singh, Chief Manufacturing Officer, Mr. Gurpinderjeet Singh, Head
+                 Financial Planning, Mr. Soonjoo Seo, Investor Relations Officer, and Mr. Jung Won Byun , our
+                 Export Head.
+
+
+                 Without further delay, I would like to invite our respected MD Sir, Mr. Hong Ju Jeon, to share
+                 his opening remarks and take us through the LG Electronics India's performance and strategic
+                 highlights for the quarter and the full year. Thank you, and over to you, sir.
+
+
+Hong Ju Jeon:    Good evening, everyone. Today is a very special moment for LG Electronics India, as we
+                 celebrate one year since our successful listing. First of all, I would like to sincerely thank all of
+                 our shareholders for your continued trust and support. The past year has been challenging for
+                 the entire industry.
+
+
+                 Despite these challenges, we continued to deliver strong results. In the first half of the year, we
+                 achieved double-digit growth and double-digit profitability. We also maintained our market
+                 leadership and delivered meaningful value to our shareholders.
+
+
+                                          Page 2 of 15
+
+                                                              LG Electronics India Limited
+                                                                       November 06, 2026
+
+For almost 30 years, LG Electronics India has led the Indian consumer electronics and home
+appliance market as a global company operating in India. Today, however, we are no longer just
+a global company operating in India.
+
+
+We are deeply rooted company in India that understands Indian consumers and brings value to
+their lives. Over the past year, we have grown together with India, guided by three key visions:
+Make for India, Make in India, and Make India Global. Today, I would like to share our progress
+with you. First, Make for India.
+
+
+Our greatest strength is our ability to understand the needs and lifestyles of Indian customers
+and offer products that best meet their needs. In India, home appliance ownership is still
+relatively low, while the middle class continues to grow. As a result, more first-time customers
+are entering the market.
+
+
+At the same time, demand for premium products continues to increase. To meet these needs, LG
+continues to lead the premium market. We have also launched the LG Essential Series, designed
+for the needs and living conditions of Indian customers. Through this series, we are reaching a
+wider group of customers.
+
+
+For example, we offer fully automatic washing machines that work well even with low water
+pressure. We also offer double-door refrigerators that automatically adjust their cooling
+temperature to changes in outside temperature. By providing these essential features, we are
+getting closer to customers who are buying their first home appliances.
+
+
+Second, Make in India. Construction of our third manufacturing plant in Sri City is progressing
+very well. In fact, preparations are moving at record speed, impressing even the state
+government. We plan to start compressor production by the end of this year, followed by air
+conditioner production.
+
+
+Going forward, we will work closely with the LG Electronics global headquarters to bring our
+combined strengths and capabilities to India. From product planning and development to
+manufacturing, we will provide one solution in India. Through this approach, we will continue
+to lead Make in India.
+
+
+Finally, Make India Global. Our exports are no longer limited to neighboring countries. We are
+expanding our exports to major markets around the world. We understand that India has vision
+to become more than just a market that buy products from the world. India aims to become a
+global manufacturing hub that makes products for the world.
+
+
+LG Electronics India will do its best to support this vision by working closely with the Indian
+government. Based on these three visions, Make for India, Make in India, Make India Global,
+we will continue to achieve sustainable long-term growth. Now, I'd like to share a few more key
+strategies for our future growth.
+
+
+
+
+                           Page 3 of 15
+
+                                                                               LG Electronics India Limited
+                                                                                        November 06, 2026
+
+               First, our entry into the Vehicle Solutions business. Today, I am very proud to announce that we
+               are entering the Vehicle Solutions business in India. Vehicle Solutions is one of LG Electronics'
+               key global B2B business, covering automotive infotainment and telematics products.
+
+
+               We will bring these products to India and plan to manufacture and supply them for our new third
+               plant in Sri City. This is an important milestone in our journey beyond the consumer electronics
+               and home appliances. It will also strengthen our position in the fast-growing B2B market.
+
+
+               We expect this business to become another growth engine for LG Electronics India. It will help
+               us expand our business portfolio and create long-term value for our shareholders. For almost 30
+               years, LG has been part of everyday life in Indian homes. Now, we want LG to be part of
+               everyday life on Indian roads as well. Second, expansion into new product segments.
+
+
+               We plan to introduce new products, including Chest Freezers and built-in kitchen solutions. This
+               will give our customers more choices. We are also actively exploring opportunities in new areas
+               where we don't currently operate. Through these efforts, we will find new growth opportunities
+               and further strengthen our future business portfolio.
+
+
+               Third, our export performance and future plans. This year, we have expanded our export market
+               from 50 to 68 countries. We also expect significant growth in export revenue. In line with the
+               Indian government's policies, we plan to further expand our exports.
+
+
+               This will help us strengthen our competitiveness in the domestic market and improve
+               profitability. It will also support our business operations in several ways, including helping us
+               manage foreign exchange risks.
+
+
+               Finally, growing together with our employees in India. LG Electronics India has received the
+               Great Place To Work Award for the third time in a row. This is very meaningful achievement
+               for us. It shows that we are not only creating value for our external customers, but also providing
+               workplace where our employees can grow.
+
+
+               It also reflects the mutual trust we have built with our employees. Going forward, we will
+               continue to build a healthy corporate culture and a stable, strong company. We are building LG
+               Electronics India not only for the India of today, but also for the India of tomorrow.
+
+
+               With our talented people, future technologies, and strong commitment to the Indian market, I
+               firmly believe that LG's best days are still ahead of us. We will continue to build strong company
+               and deliver the greatest value to our customers and the shareholders. Thank you very much.
+
+
+Atul Khanna:   Thank you, sir, for sharing your strategic message. Namaste and very good evening once again
+               to everyone joining us today. I am Atul Khanna, and I will take you through our financial
+               performance for the quarter, a quarter that reflects consistent execution, disciplined cost
+               management, sustainable margin growth, and continued strength of our business fundamentals.
+
+
+
+
+                                        Page 4 of 15
+
+                                                                 LG Electronics India Limited
+                                                                          November 06, 2026
+
+I am pleased to share that Q2 FY27, marks our second consecutive quarter of strong double-
+digit growth, and in fact, our highest growth quarter since our listing last year. A clear and
+encouraging sign of sustained momentum across our business.
+
+
+Revenue from operations came in at a robust INR73.8 billion, growing a healthy 19.5% year-
+on-year, with every key category growing in high teen double digits. Our profitability kept pace
+with this growth, with EBITDA rising sharply by 28% to INR7.01 billion and margin expanding
+meaningfully by 63 basis points to 9.5%. Profit after tax grew an impressive 25.7% to INR4.89
+billion, reflecting the quality of our earnings.
+
+
+Looking at the first half of the year, revenue from operations grew 17.5% to INR146.13 billion.
+EBITDA grew a strong 27.9% to INR16.16 billion, with margin improving 11.1%, and PAT
+rose to 26.5%, which is INR11.42 billion, giving us a solid and confident platform as we head
+into the festive season.
+
+
+I wanted to highlight that this margin expansion came through even as we navigated a
+challenging external environment marked by elevated commodity prices, forex fluctuation
+headwinds, and go-to-market investments made during the quarter to ensure channel readiness
+ahead of the festive season.
+
+
+Strong operating leverage from healthy volume growth, combined with a richer premium mix
+across both our segments, offset these pressures , highlighting the strength and flexibility of our
+cost structure. Moving to our balance sheet, our cash and bank balance stood at a healthy
+INR50.51 billion as of September 2026, compared to INR57.07 billion at the start of the quarter.
+
+
+This reflects a well-planned buildup in our working capital of INR6.56 billion, as we invested
+proactively in channel stocking ahead of the festive and wedding season. We view this as a
+thoughtful and efficient use of capital, one that positions us well for a strong sell-through in the
+quarter ahead.
+
+
+On capital expenditure, we invested a meaningful INR8.7 billion during the quarter towards
+tangible assets, compared to INR2.3 billion in Q2FY’26, as work on our ambitious state-of-the-
+art manufacturing facility at Sri City, Andhra Pradesh, is continues to progress steadily and in
+line with our internal targets.
+
+
+Backed by a committed investment of INR50 billion over the next few years, Sri City will
+become our third and most advanced manufacturing base, which will double our existing
+production capacities and serve as a dedicated hub for both domestic and export market.
+
+
+We remain firmly on track to commence compressor manufacturing at the facility in the third
+quarter of this fiscal year, a milestone that will strengthen our cost competitiveness, deepen our
+localization levels, and support the next phase of our growth, both domestically and in global
+markets.
+
+
+
+
+                           Page 5 of 15
+
+                                                                                   LG Electronics India Limited
+                                                                                            November 06, 2026
+
+                 With that, I will hand over to Mr. Aditya Bhasin, our investor relations head, to walk you through
+                 our segment performance and outlook in greater detail. Over to you, Aditya.
+
+
+Aditya Bhasin:   Thank you, Atul- ji. Namaste, and a very good evening once again to everyone. Let me take you
+                 through our segment performance and outlook for the quarter ahead. Starting with Home
+                 Appliance and Air Solution, in Q2 FY27, we registered our highest quarterly growth since
+                 listing, with revenue of INR47.72 billion, up by a strong 20.9% year-on-year.
+
+
+                 I want to spend a moment on what's really driving this rather than just the headline number. All
+                 our key categories, washing machines, refrigerators, and room air conditioners, grew in double
+                 digits, while dishwashers delivered a genuine breakout quarter.
+
+
+                 Along with that, growth came from both volume and value, with our premium and our Essential
+                 range moving together is the clearest sign of the strength of our two-track strategy. On margins,
+                 we did something a bit different this year.
+
+
+                 Rather than raising the prices across the board, we went category by category, absorbing the rise
+                 in copper, aluminum, and plastic costs in more targeted way. We also moved early, ahead of the
+                 rest of the industry, and we were careful to protect our mass segment while letting our premium
+                 range carry more of that burden.
+
+
+                 That discipline, combined with strong operating leverage from volume growth across the
+                 categories, is exactly why segment EBIT grew a healthy 28.4% to INR4.16 billion, with margin
+                 improving to 8.7% from 8.2%, even in a cost environment that was challenging for the entire
+                 industry.
+
+
+                 I also want to call out our LG Essential range specifically. It started as an affordability play, but
+                 it's become a real contributor to profit in its own right, and it's bringing in the first-time LG
+                 buyers who we expect will trade up into a premium range over time.
+
+
+                 Add to that our newly launched premium French Door Refrigerators and Chest Freezers.
+                 Together, they've widened our reach and strengthened our leadership across key categories.
+                 Underneath all of this is something simple. We have built strong India-focused R&D over the
+                 years, and that let us move quickly on what Indian consumers actually want.
+
+
+                 The LG Essential range is a good example, conceived and designed specifically for this market,
+                 and it is now paying back handsomely in both volumes and profitability. This segment is also
+                 where our export story is becoming most visible.
+
+
+                 The Essential range is now traveling well beyond our borders, and our large-size refrigerators
+                 and washing machines have started reaching key global markets as well. Exports are steadily
+                 becoming a second demand lever for this segment, alongside our domestic growth.
+
+
+                 Looking at the third quarter, as we head into the festive quarter, we go in with a lean, healthy
+                 channel inventory and strong partner confidence built on our track record of price stability.
+
+
+                                          Page 6 of 15
+
+                                                                 LG Electronics India Limited
+                                                                          November 06, 2026
+
+Premium categories such as French Door and side-by-side refrigerators, 8 kg plus washing
+machines, and dishwashers are expected to sustain their momentum, while upcoming
+compressor facility at Sri City plant will power the next phase of growth for this segment.
+
+
+Turning to home entertainment, revenue grew a solid 17.2% year-on-year to INR26.08 billion
+on a high base, our third consecutive quarter of double-digit growth. The real story here is a shift
+in what Indian households want in their living rooms. Indian consumers are moving towards
+larger screens, and we don't think this is a one-season spike. It looks like a structural change,
+and we believe we are still early in that curve.
+
+
+Our offline value market share climbing to an all-time high tells us we are capturing our fair
+share of this upgraded cycle. On margins, we were managing a genuine balancing act this
+quarter. Elevated memory chip and currency pressures on one side, the need to invest in the go-
+to-market activity to win shelf space ahead of the festive season on the other.
+
+
+Segment EBIT still grew a healthy 19.9% to INR3.37 billion, with a margin improving to 12.9%
+from 12.6%, helped by strong volume growth that gave us real operating leverage on top of a
+richer mix of larger screen size doing the uplifting on margin, rather than relying on the price
+increase alone. I also want to flag our B2B Information Display business specifically.
+
+
+It has moved to a second profit engine sitting alongside television, which carries a steadier
+margin profile and gives the segment a cushion that is not always visible from the outside. With
+our television market share at a record high, the addition of Mini LED models this quarter is a
+deliberate move to capture consumers who want premium picture quality without stepping all
+the way up to the OLED, widening our funnel rather than cannibalizing it.
+
+
+Heading into the festive quarter, our go-to-market investments position us well for strong
+channel readiness, and we expect our B2B business to sustain its improved profitability through
+the season.
+
+
+Looking ahead to Q3, the festive and the wedding season should be the single biggest driver for
+this category, as consumers keep trading up to larger, more advanced screens, and we expect
+that to support the healthy value growth across the industry, and not just for us. On the B2B side,
+our order pipeline for Information Display remains healthy, and we expect institutional demand
+to stay steady throughout the quarter.
+
+
+Taken together, we go into the festive season with a portfolio, Mini LED, QNED, and OLED,
+that is built to capture demand at every price point a consumer wants to trade up to. Stepping
+back from the segment performance, I want to leave you with a bigger picture. Our Make for
+India, Make in India, and Make India Global vision continues to come together in a way that
+feels increasingly real and not just aspirational.
+
+
+We have now entered more than 20 new export countries since our listing, and our Sri City plant
+remains firmly on track to commence compressor manufacturing in the third quarter, a milestone
+
+
+
+                         Page 7 of 15
+
+                                                                                     LG Electronics India Limited
+                                                                                              November 06, 2026
+
+                   that strengthens our localization and gives us more firepower for both domestic and export
+                   demand.
+
+
+                   Our entry into Vehicle Solutions is a good example of where this vision is heading next. It is
+                   genuinely new growth avenues for us, well outside our traditional categories, and it reflects the
+                   confidence we have in India's manufacturing ecosystem.
+
+
+                   We see this as the first of several such moves as we build out Sri City into a true multi-category
+                   hub. Backed by a strong first half, though our guidance for full year FY27 was in mid-teens
+                   revenue growth and early double-digit EBITDA margin remains same.
+
+
+                   However, our endeavor is to perform better than the stated guidance and industry. We go into
+                   the second half with real confidence, built on broad-based growth across both our segments, as
+                   a fast-scaling export business and a festive season that is shaping up well on the ground.
+
+
+                   With that, I conclude our prepared remarks, and we will now open floor for the questions.
+
+
+Moderator:         Thank you very much, sir. We will now begin the question-and-answer session. We will take
+                   the first question from the line of Natasha Jain from Phillip Capital. Please go ahead.
+
+
+Natasha Jain:      Thank you for the opportunity. My first question is, how is demand trending across your key
+                   categories, your AC, ref, washing machine, and TV, as you enter second half of FY27? And
+                   within each category, what are the sub-segments or formats driving growth, and how has the
+                   festive season shaped up so far? Also, given that quarter three is typically an off-season for RAC,
+                   are you seeing any change in the seasonality pattern this year?
+
+
+Aditya Bhasin:     This question will be translated into the Korean language first. This question will be addressed
+                   by our Co-CSMO, Mr. Sanjay Chitkara.
+
+
+Sanjay Chitkara:   Thanks, Natasha, for this question. In fact, these questions, there are so many questions. The
+                   demand picture of all of our categories heading towards Q3 and Q4 is actually quite encouraging.
+                   We have just come out from Q2, where our every single product category has delivered a double-
+                   digit revenue growth.
+
+
+                   And our appliances category registered highest ever growth since our listing. So what we are
+                   seeing now is the momentum has continued into the other ongoing quarters, and that gives us a
+                   lot of confidence.
+
+
+                   Now talking about each individual categories, regarding television, the festival season is playing
+                   out very well for television. Our newly introduced QNED range is helping to grow 55 inch and
+                   above segment, and which is now contributing more than half of our TV revenue.
+
+
+                   Interestingly, the mass segment, which is 32 inch, is also seeing pickup, and that tells us that
+                   consumer across all income level are participating in this festive cycle, which is very healthy
+                   sign for the industry. On washing machines, we have seen the highest growth in last eight
+
+
+
+                                            Page 8 of 15
+
+                                                                                   LG Electronics India Limited
+                                                                                            November 06, 2026
+
+                 quarters, mainly led by fully automatic washing machines, because the upgrade cycle of semi-
+                 automatic to the fully automatic cycle, to the machines is helping us very fast.
+
+
+                 Our fully automatic portion has now crossed 60% of our overall washing machine sales.
+                 Regarding refrigerator, premium multi-door format, that is side-by-side refrigerator and a French
+                 Door Refrigerator, are growing more than 50%. And single-door refrigerator has been also, the
+                 growth is double digit. So this is indicating a strong recovery from the mass market as well. It
+                 also demonstrate that LG is a formidable player across all price point.
+
+
+                 Lastly, the RAC, which is perhaps the most interesting phenomenon we are seeing this year,
+                 because our Q2 sale is better than Q1, despite of its being off-season. It is mainly driven by
+                 elevated temperature across many part of India.
+
+
+                 For LG, Q4 is our biggest RAC sales period, where we do roughly 55% of our yearly sale, and
+                 we believe that the current momentum will continue for Q4 also. To meet this demand, our Sri
+                 City plant is getting ready to deliver the new range of AI air conditioners with in-house
+                 compressor. We believe that the coming two quarters will be better than H1 of this year. Thank
+                 you very much.
+
+
+Natasha Jain:    Understood. Sir, my second question is, I would like to ask about the new Vehicle Solutions
+                 business. This is a new area since LG Electronics India has primarily been a consumer
+                 electronics company. So could you explain why you decided to enter this business in India and
+                 what strength LG categorically brings, and how do you plan to build and grow this, and how
+                 does it fit into your long-term strategy?
+
+
+Aditya Bhasin:   This question first will be translated into the Korean language. This question will be addressed
+                 by our respected CFO, Mr. Dongmyung Seo.
+
+
+Dongmyung Seo:   Thank you for the question. Let me start with why we are entering this business. India is one of
+                 the largest and fastest-growing automotive markets in the world. Vehicles in India are also
+                 evolving, becoming more connected, digital, and intelligent. This is creating significant
+                 opportunities in automotive electronics, and LG Electronics India wants to be part of this growth
+                 story.
+
+
+                 For LG Electronics India, this also marks an important step in our business diversification
+                 journey. We have built a strong consumer durables business over the past 30 years, but as we
+                 look to our next phase of growth, expanding into the B2B business is a strategic priority. The
+                 VS business represents one of the most attractive B2B opportunities for us and fits naturally
+                 with our broader vision of becoming a more diversified company.
+
+
+                 LG has built a strong Vehicle Solutions business globally and works with many of the world's
+                 leading automakers. We are a global leader in telematics, a key technology that connects vehicles
+                 to the digital world. Bringing these capabilities to India is therefore a natural next step for us.
+
+
+
+
+                                          Page 9 of 15
+
+                                                                                 LG Electronics India Limited
+                                                                                          November 06, 2026
+
+                 In line with the Make in India initiative, we will manufacture locally at our Sri City plant. Local
+                 manufacturing will strengthen our competitiveness and help us better meet the needs of
+                 automakers in India. This will provide a solid platform for the long-term growth of our Vehicle
+                 Solutions business in India.
+
+
+                 Our plan is to grow the VS business in phases. We will start with telematics and gradually
+                 expand into other Vehicle Solutions for the Indian market. With the support of LG's global
+                 technology, engineering, and quality capabilities, we are confident we can build a strong
+                 foundation.
+
+
+                 Our Home Appliance business will remain a core growth engine, while the VS business will
+                 provide an additional growth pillar, helping LG Electronics India become a stronger company
+                 over the long term. We will share more details as the business progresses. Thank you. Next
+                 question, please.
+
+
+Moderator:       Thank you. We will take the next question from the line of Umang Mehta from Kotak Securities.
+                 Please go ahead.
+
+
+Umang Mehta:     Hi. Thank you for the opportunity. My first question is that your EBITDA margins have held up
+                 well despite several headwinds. Can you explain the key drivers behind the same, and what gives
+                 you confidence that this margin trend can continue?
+
+
+Aditya Bhasin:   This question first will be translated into the Korean language. This question will be addressed
+                 by our respected CFO, Mr. Dongmyung Seo.
+
+
+Dongmyung Seo:   Thank you for the question. While we don't provide specific margin guidance, we remain
+                 confident in the long-term profitability of the business. That confidence is based not only on the
+                 traditional drivers of localization and premiumization, but also on the quality of our earnings.
+                 Our premiumization strategy continues to strengthen on the back of rising demand for high-
+                 value, technology-led products, which is further improving our product mix.
+
+
+                 The quality of our revenue is also improving steadily through a more profitable channel mix and
+                 the growing contribution from B2B exports and service-related businesses such as AMCs. These
+                 businesses diversify our revenue and generate margins that are generally above the company
+                 average. As their share of our portfolio grows, they will further strengthen both profitability and
+                 earnings stability.
+
+
+                 Importantly, our focus is not simply on expanding margins, but on building a structurally
+                 stronger business. Through benefits of scale, a higher-quality revenue mix, operational
+                 efficiencies, and continued portfolio diversification, we believe we are building a sustainable
+                 foundation for healthy long-term profitability. This gives us confidence that margins will keep
+                 strengthening as the business grows. Thank you. Next question, please.
+
+
+
+
+                                         Page 10 of 15
+
+                                                                                  LG Electronics India Limited
+                                                                                           November 06, 2026
+
+Umang Mehta:     Thank you. The second question is that in your Sri City plant, when exactly is the production
+                 expected to start for different phases, and what kind of cost benefits are you expecting once the
+                 business is fully up and running?
+
+
+Aditya Bhasin:   Question will be translated into the Korean language first. This question will be addressed by
+                 our CAO, Mr. Atul Khanna.
+
+
+Atul Khanna:     Thank you for this question. On timelines, I am pleased to confirm that we are well on track.
+                 Commercial production for compressor begins in quarter three of this financial year, and air
+                 conditioner manufacturing follows in quarter four, around January 2027. So by end of financial
+                 year 2027, both lines will be fully operational.
+
+
+                 On cost benefits, we currently take some part of compressors from outside LG, and that comes
+                 with supply chain risk as well as forex fluctuation headwinds. Once we start producing locally
+                 in our plant, with the additional capacity of 2 million units, those costs reduce significantly, and
+                 saving flows directly into our margins.
+
+
+                 It builds as volume ramp up, so it is a permanent and growing benefit, which will be enduring
+                 to the organization. I would also add that Sri City is not just a cost story. It supports our export
+                 ambitions as well.
+
+
+                 As we scale our Essential Series range and premium products, having strong domestic
+                 manufacturing give us a real edge on cost and supply reliability. Overall, this is one of the most
+                 important investment we have made, and we are very confident that it will improve our margins
+                 and competitiveness going forward. Thank you.
+
+
+Umang Mehta:     Thank you, sir.
+
+
+Moderator:       Thank you. The next question is from the line of Vishal Goel from HSBC Securities and Capital
+                 Markets India Private Limited. Please go ahead.
+
+
+Vishal Goel:     Thanks for giving me the opportunity to ask questions. I have two questions. My first question
+                 is that you have mentioned exports, premiumization, and now the new business area as core
+                 drivers, within which you have announced this Vehicle Solutions business as well. Now looking
+                 ahead three years, how do you envision the overall transformation of LG Electronics India as a
+                 company? That is my first question.
+
+
+Aditya Bhasin:   This question will be translated into the Korean language. This question will be addressed by
+                 our IRO, Mr. Soonjoo Seo.
+
+
+Soonjoo Seo:     Thank you for the question. When I look at LG Electronics India today and where we expect the
+                 business to be, the first thing that comes to mind is the sheer scale of the change. We have a
+                 clear plan, investments have already been made, and execution is already underway. The
+                 transformation is taking shape across three key areas.
+
+
+
+
+                                         Page 11 of 15
+
+                                                                                       LG Electronics India Limited
+                                                                                                November 06, 2026
+
+                       First, exports. India is our home market, but the world is our market. We are committed to
+                       becoming an export powerhouse. Our premium products are being exported to the world's
+                       leading markets, and the Essential Series is expanding into high-growth economies such as
+                       Africa and Southeast Asia.
+
+
+                       Our new Sri City plant will give us the manufacturing scale needed to compete globally. LG
+                       Electronics India is uniquely positioned with a robust manufacturing and export platform that
+                       supports both domestic growth and global expansion.
+
+
+                       Second, premiumization remains at the core of our domestic strategy. We lead in every premium
+                       category we operate in, and we continue to gain market share. Appliance penetration in India is
+                       still relatively low, and millions of consumers are buying their first refrigerator, first washing
+                       machine, or first air conditioner.
+
+
+                       We have products for them as well, and as they upgrade over time, LG will be the brand that
+                       grows with them. Indian consumers' aspiration to raise their standard of living provides us with
+                       a very long growth runway, and we are well-positioned to capture opportunities at both ends.
+
+
+                       Third, beyond our existing consumer durables business, we have a significant advantage in being
+                       able to draw on the global technology portfolio of LG's headquarters in Korea. Our VS business
+                       is a good example. LG is already a global leader in in-vehicle infotainment and EV components,
+                       and we now plan to bring these capabilities to India as a new line of business.
+
+
+                       The combination of global technology and deep India market expertise is very powerful, and we
+                       intend to make the most of it. This is only the beginning, and we look forward to sharing more
+                       with you.
+
+
+                       By FY30, LG Electronics India will be a fundamentally stronger company, and we look forward
+                       to sharing that journey with all of our investors. Thank you. Next question, please.
+
+
+Moderator:             Thank you. We will take the next question from the line of Achal Lohade from Nuvama. Please
+                       go ahead.
+
+
+Achal Lohade:          Yeah, thank you for the opportunity. So two questions. First, you have announced price increases
+                       across AC, washing machines, refrigerator, and kitchen appliances. How much of this is being
+                       driven by input cost pressure versus a strategic decision to protect margins? Do you see any risk
+                       of demand moderation as these hikes flow through to the consumer?
+
+
+Aditya Bhasin:         This question will also be translated into the Korean language. This question will be addressed
+                       by our Planning Head, Mr. Gurpinderjeet Singh.
+
+
+Gurpinderjeet Singh:   Thank you for this question. Let me explain how we think about pricing. In recent months, the
+                       cost of raw materials such as steel, aluminum, copper, and resin has increased. We have also
+                       faced some pressure from exchange rate movements. However, our first approach is not to pass
+                       these higher costs directly to consumers.
+
+
+                                               Page 12 of 15
+
+                                                                                 LG Electronics India Limited
+                                                                                          November 06, 2026
+
+                 We first try to reduce the impact through better efficiency, higher localization, and negotiation
+                 with suppliers. When cost pressures continue for a long time and become significant, some price
+                 increase become necessary.
+
+
+                 This year, we have already taken two rounds of price increase. These were selective increases,
+                 not same across all products. While making these decisions, we carefully considered three
+                 factors, mainly our brand position, customer affordability, and profitability.
+
+
+                 Regarding demand, we have not seen any major slowdown after the price increase. In fact, our
+                 recent Q2 performance was strong with all our major product categories delivering double-digit
+                 growth driven by volume and value both.
+
+
+                 Important point for us is that premiumization trend also supports demand. Many consumers are
+                 choosing higher-end products and are willing to pay more because they see good value and
+                 benefit in our products.
+
+
+                 Going forward, we will continue to closely monitor raw material costs and market conditions. If
+                 further price adjustments are needed, we will take them carefully and responsibly without
+                 disrupting customer demand or affecting our competition position. Thank you.
+
+
+Aditya Bhasin:   I'll take your next question.
+
+
+Achal Lohade:    My next question is with respect to the exports. What was the LG Electronics India's export
+                 contribution in Q2? What levels do you expect to reach in FY27, and how much impact is the
+                 geopolitical situation having?
+
+
+Aditya Bhasin:   This question will be first translated into the Korean language. This question will be addressed
+                 by our Export Head, Mr. Jung Won Byun .
+
+
+Jung Won Byun:   Thank you for the question. Exports have been a very important part of our growth story this
+                 year, and we are quite pleased with the performance. We have expanded our presence from 50-
+                 68 countries, and our distribution network has grown from 112-151 partners. In particular, the
+                 Essential Series range has been entering new markets rapidly since its launch and is now
+                 available in 21 countries, with plans to expand to more.
+
+
+                 Our export strategy rests on two pillars. The first is premiumization. Leveraging LG's brand
+                 positioning, we are bringing premium products to key global markets where consumers
+                 recognize higher value.
+
+
+                 The second is the Essential Series range, designed specifically for consumers who want reliable
+                 quality at a reasonable price. We believe this two-track approach allows us to address a broad
+                 range of markets and consumer segments.
+
+
+                 As for the geopolitical environment, uncertainties remain, and we are not immune to their
+                 effects. However, by strengthening our country portfolio through geographic expansion, we are
+                 not overly dependent on any single country or region. We have built our export strategy so that
+
+                                            Page 13 of 15
+
+                                                                                   LG Electronics India Limited
+                                                                                            November 06, 2026
+
+                  if a few countries or markets face difficulties, others can offset them. This year, we expect to
+                  deliver significant year-on-year growth. Thank you, and next question, please.
+
+
+Moderator:        Thank you. Ladies and gentlemen, in the interest of time, this will be the last question. We will
+                  take one last question for today from the line of Deepak Agarwal from Axis Capital. Please go
+                  ahead.
+
+
+Deepak Agarwal:   Yeah, thank you. My question is on particular B2B category. Earlier, we have guided for a 20%
+                  kind of growth in this segment. Can you help us how one should look at B2B segment
+                  performing for us, particularly any sub-segment in that which is performing well? Any orders
+                  that we have gained from data center or any specific large order when we witnessed during the
+                  quarter? Yeah, thank you so much.
+
+
+Aditya Bhasin:    This question will be translated into the Korean language first. Deepak, I will take this question.
+                  Our B2B business has continued to grow well, and our ambition of 20% plus growth over the
+                  long run remains intact. This business is something that we are investing in, and we see it as one
+                  of the most important growth engines for LGE India over the next several years.
+
+
+                  With B2B Information Display is our strongest performing segment right now, with commercial
+                  TV leading the way. We are seeing very good traction in the corporate offices, retail, hospitality,
+                  and public spaces. In system AC, it is the other segment that is growing well for us, specifically
+                  in large commercial projects.
+
+
+                  Also, government projects are becoming increasingly important part of our B2B business,
+                  whether it is public infrastructure, smart city initiatives, or government buildings. We are
+                  actively participating in these opportunities.
+
+
+                  Today, B2B is approximately 10%-11% of our total revenue, and over the next three years, our
+                  goal is to meaningfully grow this share, and we believe 15% plus is a realistic and achievable
+                  target, given the pipeline of the opportunities we see across commercial, government, and
+                  infrastructure segments. You also asked about the data centers.
+
+
+                  On data centers specifically, this is a space we are actually watching very closely, and we have
+                  the product capability in terms of chillers and cooling solutions to participate with. Yet it is too
+                  early to tell you more about this, and we see this as an interesting opportunity for sure for the
+                  future, and we will have more to share as we progress further.
+
+
+                  But definitely, this is a long-term story in B2B straightforward that India's infrastructure,
+                  commercial real estate, government spendings, and hospitality sectors are growing, and we see
+                  that LG is very well placed to serve this demand, the kind of portfolio and the commercial
+                  solutions we have. I hope I answered your question.
+
+
+Moderator:        Thank you, sir, for answering those questions. As that was the last question, I will now hand the
+                  conference back to Mr. Aditya Bhasin for closing comments. Thank you, and over to you.
+
+
+
+
+                                          Page 14 of 15
+
+                                                                                LG Electronics India Limited
+                                                                                         November 06, 2026
+
+Aditya Bhasin:   Thank you, Tanay, and thank you, Michelle. And of course, thank you to all the participants who
+                 attended the LG Q2 FY27 earnings call. With this, we conclude today's discussion, and should
+                 you have any pending questions or require further clarification, please don't hesitate to call us
+                 directly. Thank you once again. Have a nice day. Happy Dhanteras and a very happy Diwali.
+                 Thank you.
+
+
+Moderator:       Thank you, members of the management. Ladies and gentlemen, on behalf of LG Electronics
+                 India and DAM Capital, that concludes this conference. We thank you for joining us, and you
+                 may now disconnect your lines. Thank you.
+
+
+
+
+                                        Page 15 of 15
+

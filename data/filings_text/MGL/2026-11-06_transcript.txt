@@ -1,0 +1,789 @@
+Ref: MGL/CS/SE/2026/737                                                        Date: November 06, 2026
+
+To,
+
+ Head, Listing Compliance Department                     Head, Listing Compliance Department
+ BSE Limited                                             National Stock Exchange of India Limited
+ P. J. Towers,                                           Exchange Plaza, Bandra – Kurla Complex,
+ Dalal Street,                                           Bandra (East),
+ Mumbai – 400 001                                        Mumbai – 400 051
+ Scrip Code: 539957                                      Symbol: MGL
+
+Dear Sir / Madam,
+
+Sub: Transcript of Earnings Conference Call for the quarter and half year ended
+     September 30, 2026
+
+Pursuant to Regulation 30 and Schedule III of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we submit herewith the transcript of the Earnings
+Conference Call held on November 04, 2026 on the Unaudited Standalone and Consolidated
+Financial Results and Operational performance of the Company for the quarter and half
+year ended September 30, 2026.
+
+The said transcript is                also   available    on   the   website    of   the   Company   at
+www.mahanagargas.com.
+
+You are requested to take the above information on record.
+
+Thanking you,
+
+Yours sincerely,
+
+For Mahanagar Gas Limited
+                Digitally signed by
+Atul Trimbak Atul Trimbak Prabhu
+Prabhu       Date: 2026.11.06
+             16:12:21 +05'30'
+
+
+Atul Prabhu
+Company Secretary & Compliance Officer
+
+Encl.: as above
+
+               Mahanagar Gas Limited
+             Q2 FY27 Earnings Conference Call
+                       November 04, 2026
+
+
+
+
+MANAGEMENT: MR. PRAVEER KUMAR SRIVASTAVA – MANAGING
+            DIRECTOR
+            MR. AJAY SINHA – DEPUTY MANAGING DIRECTOR
+            MR. RAJESH PATEL – CHIEF FINANCIAL OFFICER
+
+
+MODERATOR:    MR. NITIN TIWARI – PHILLIPCAPITAL INDIA PRIVATE
+              LIMITED
+
+
+
+
+                          Page 1 of 13
+
+                                                                                           Mahanagar Gas Limited
+                                                                                              November 04, 2026
+
+
+
+
+Moderator:            Ladies and gentlemen, good day and welcome to Mahanagar Gas Q2 FY27 Earnings Conference
+                      Call hosted by PhillipCapital India Private Limited. As a reminder, all participant lines will be
+                      in the listen-only mode and there will be an opportunity for you to ask questions after the
+                      presentation concludes. Should you need assistance during the conference call, please signal an
+                      operator by pressing star then zero on your touchtone phone. Please note that this conference is
+                      being recorded.
+
+
+                      I now hand the conference over to Mr. Nitin Tiwari from PhillipCapital India Private Limited.
+                      Thank you, and over to you, sir.
+
+
+Nitin Tiwari:         Thank you, Nitesh. Good day, ladies and gentlemen. Best wishes to everyone in advance for
+                      Diwali. On behalf of PhillipCapital India Limited, I welcome everyone to Mahanagar Gas
+                      Limited's Q2 FY27 earnings call. Today, we have the pleasure of having with us the senior
+                      management of MGL led by Mr. Praveer Kumar Srivastava, Managing Director, Mr. Ajay Sinha,
+                      Deputy Managing Director, and Mr. Rajesh Patel, Chief Financial Officer.
+
+
+                      Before we begin, I would like to mention that some of the statements made in today's discussion
+                      may be forward-looking in nature, and we believe that expectations contained in the statement
+                      are reasonable. However, these statements involve a number of risks and uncertainties that may
+                      lead to different results. We urge you to consider that quarterly numbers are not a reflection of
+                      long-term trends or indication of full-year results. With that said, I will now hand over the call
+                      to the management. Over to you, sir.
+
+
+Praveer Srivastava:   Thank you. A very good day and best wishes in advance for Diwali and welcome to the earnings
+                      call of Mahanagar Gas Limited for the second quarter of the financial year 2026-27. I would like
+                      to thank all of you for attending our earnings call today. The ongoing West Asia conflicts and
+                      uncertainties surrounding the Strait of Hormuz continue to affect global LNG availability and
+                      prices.
+
+
+                      India's natural gas supply situation is gradually improving, though with the LNG imports
+                      showing signs of recovery. However, 100% of our domestic PNG, DPNG requirement and the
+                      major portion of our CNG requirements are sourced from domestically produced natural gas
+                      ensuring uninterrupted supply to our domestic PNG customers and continued reliable supply to
+                      our CNG consumers.
+
+
+                      Gas supplies to industrial and commercial customers are partly curtailed. Gas prices may remain
+                      volatile in the near term, but are expected to gradually decline as geopolitical tensions ease. We
+                      continue to closely monitor the situation and remain committed to maintain uninterrupted gas
+                      supply to our customers.
+
+
+                      Currently, we are into PNG Drive 3.0 that builds on the achievements of PNG Drive 2.0,
+                      focusing on accelerating domestic PNG connections, activating dormant connections, improving
+                      infrastructure utilization, and expanding PNG adoptions through strong stakeholder
+                      coordination. MGL continues to create CGD infrastructure across its business segments in the
+                      licensed area.
+
+                                                 Page 2 of 13
+
+                                                                                     Mahanagar Gas Limited
+                                                                                        November 04, 2026
+
+                During the quarter, 70,501 DPNG conversions were achieved taking the cumulative DPNG
+                conversions to 2.24 million as on 30th September 2026. We have laid 65 km of steel and PE
+                pipeline, taking the total length to over 8,500 km. We added 9 CNG stations during this quarter
+                and with this, we have 528 stations as on 30th September 2026. We added 248 industrial and
+                commercial customers during this quarter. As on 30th September 2026, we have 6,409 industrial
+                and commercial customers. During the quarter, there is an addition of 29,524 CNG vehicles and
+                now we have more than 1.34 million CNG vehicles registered in our geographies as of 30th
+                September 2026.
+
+
+                Coming to MGL's operations compared to the corresponding quarter of the last year, overall
+                sales volumes has increased by 6.49% and that is from 4.59 to 4.89 million standard cubic meter
+                per day. Sales volume of CNG has increased by 9.14% from 3.26 MMSCMD to 3.55
+                MMSCMD.
+
+
+                Sales volume for domestic DPNG has increased by 9.84% from 0.58 MMSCMD to 0.64
+                MMSCMD. In case of industrial and commercial, mainly due to the supply restrictions and
+                higher Brent, there is a decrease in sales volume of 7.48% from 0.76 MMSCMD to 0.70
+                MMSCMD.
+
+
+                During the quarter, we achieved overall sales volume of 4.892 MMSCMD as against 4.766
+                MMSCMD in the previous quarter, which is an increase of 2.63%. Sales volume in case of CNG
+                has increased from 3.496 MMSCMD to 3.552 MMSCMD, which is an increase of 1.63%.
+
+
+                Sales for domestic DPNG have increased from 0 .623 MMSCMD to 0 .639 MMSCMD, which
+                is an increase of 2.62%. In case of industrial and commercial sales, volume were 0.70
+                MMSCMD as compared to 0.648 MMSCMD in the previous quarter, an increase of 8.07%.
+                EBITDA from operations for this quarter is INR287 crores as compared to previous quarter's
+                EBITDA of INR343 crores.
+
+
+                H1 EBITDA is INR630 crores compared to previous year H1 EBITDA of INR839 crores. Net
+                profit after tax for the quarter is INR137 crores as compared to previous quarter net profit after
+                tax of INR194 crores. Net profit after tax is INR331 crores for the H1 as compared to INR513
+                crores in the H1 of previous year. With this, I conclude and would like to now like to open the
+                floor for the questions. Thank you very much for your patient listening and once again wish you
+                a very Happy Diwali. Thank you.
+
+
+Moderator:      Thank you very much. We will now begin the question and answer session. We have first
+                question from the line of Mr. Probal Sen from ICICI Securities. Sir, please go ahead.
+
+
+Probal Sen:     Yes. Sir, very Happy Diwali to all of you in advance, first of all. Two or three questions from
+                my side. Firstly, as far as the sourcing is concerned, sir, can we get a sense of how much was
+                spot LNG as a percentage of our total volume sourcing for this quarter and what was sort of the
+                blended price of the same in this quarter?
+
+
+Rajesh Patel:   Our at the company level volume, if you compare spot was around 4%. When I'm saying spot,
+                I'm referring to other than HPHT spot, which comes through IGX. If we include spot through
+                IGX HPHT also, then it was around 11%. Okay?
+
+                                           Page 3 of 13
+
+                                                                                     Mahanagar Gas Limited
+                                                                                        November 04, 2026
+
+Probal Sen:     So, 11% including exchange spot volumes, but pure spot LNG per se was only about 4% for the
+                quarter.
+
+
+Rajesh Patel:   Yes. And that too I'm saying with respect to, CNG volumes, this is 4% is with respect to CNG
+                volume. If you take it at company level, then it is hardly 2.5% of the overall company volumes.
+                Pure spot RLNG.
+
+
+Probal Sen:     Okay. And sir, what was sort of roughly the range of the pricing that we saw in the quarter for
+                LNG?
+
+
+Rajesh Patel:   LNG was hovering, $22 to $23.
+
+
+Probal Sen:     Right. So just as a follow-up, sir, we have seen a sharp escalation in LNG prices, particularly in
+                the spot markets in Q3. So how are we sort of looking at it now and are we planning any further
+                pricing actions to protect margins? Anything being looked at?
+
+
+Rajesh Patel:   We would have even completely avoided spot during Q2 also, but I don't know whether you are
+                aware there was a circular on HPHT gas allocation formula. That was changed in favor of the
+                larger CGD entities. Okay? But probably because of the sudden change, the earlier formula
+                which was benefiting all entities equally when the HPHT used to come up for bidding, when it
+                was removed, sudden vacuum happened at, smaller entities probably and some benefit accrued
+                to larger entities because of higher HPHT availability through IGX mainly.
+
+
+                So, then I think there was a reconsideration of that formula and formula remains same, but it has
+                been phased out over up to June. So let's say next two months, November, December, it will be
+                25%, then next three months it will be 50%, then another 75% and then 100% from July. So
+                with this phasing out, we see that good amount of HPHT allocation will be available to us.
+
+
+                Now, when, suddenly some amount of HPHT was removed and this was applied, we ended up
+                buying some spot. So, having said that, some increase will happen on account of HPHT. Other
+                than that, we have already tied up new term gas with some tweaking of formula for this shorter
+                time of turmoil and then matching with the long-term contracts which is in the range of around
+                40,000 MMBTU. So that will help us in managing the cost.
+
+
+                Of course, depending on how the imported LNG supply remains in India, there has been plus
+                and minuses on the actual supply despite having a term contract with all the suppliers. So that
+                will determine whether, costs remains or we may have to again fall back on spot for a interim
+                period.
+
+
+                So, we are doing a fine tune management of the cost by mostly ensuring that term contracts are
+                available and dependence on spot is minimum. And that is what you can see our gas cost also.
+
+
+Probal Sen:     Yes, absolutely. No, fair enough, sir. The second question was about in the industrial and
+                commercial segment. Can we get a sense or at least of blended pricing that was there for the
+                industrial and commercial? I know that there is differential pricing for different segments, but
+                just a rough cut idea what was it for industrial and what was it for commercial in this quarter?
+                We can get a sense?
+
+
+                                           Page 4 of 13
+
+                                                                                      Mahanagar Gas Limited
+                                                                                         November 04, 2026
+
+Rajesh Patel:   Industrial commercial prices has been ranging anywhere between 65 to 100, sometimes more
+                than 100 also, depending on the type of consumer, depending on the combination of fuel to
+                which we are billing and depending on the Brent in that month, because the pricing is reset every
+                month, depending on the contract with individual customer. So, I'm talking about this is the
+                range.
+
+
+Probal Sen:     Got it. Sir, one last question, if I may, on the overall volume guidance, if you can kindly help
+                us, what kind of volume growth guidance is now there for FY27 and 28? And if you can break
+                up the growth that was seen in the MMR region and for the outside areas for this quarter?
+
+
+Rajesh Patel:   So I'll talk about in overall at company level, if you see compared to last half -- this half. We
+                have at a company level grown by around 6.75%, okay? Now that could have been much better
+                than 6.75%. Why I'm saying so because be it CNG, domestic and even small commercial
+                customers. All CNG and domestic we have grown by 9.5% almost. Okay? In case of small
+                commercial we have grown by almost 12%.
+
+
+                The overall dip you see is because of cut in the industrial supplies, mainly because of the
+                curtailment of the supplies because of the West Asia crisis. So, once gas availability and pricing,
+                if to a certain extent pricing also impacts the offtake by the existing customers. So, the sign
+                contract and normal level consumption during normal if -- restores, our growth will be definitely
+                more than 8% to 9% for both the years. That is what the trend is being -- currently.
+
+
+Moderator:      We have next question from the line of Achal from Axis Capital.
+
+
+Achal:          So, I just wanted to know clarification so when like when a year back when UEPL was
+                amalgamated. So, did MGL had to pay any penalty with respect to the non-achievement of
+                MWP, especially with respect to UEPL targets on DPNG and any other PNG pipeline layout?
+
+
+Rajesh Patel:   So while the control is transferred by PNGRB, at that time they review the MWP and the actual
+                achievement. So, at the time of transferring those GA authorization from Unison to MGL,
+                certainly PNGRB had asked for the shortfall of MWP. However, while signing the JV agreement
+                with Unison, the agreement we had covered recovery of the same through the erstwhile
+                promoters, partly and some small portion was borne by us post takeover.
+
+
+Achal:          And that portion has been recovered, sir? Like from the promoters?
+
+
+Rajesh Patel:   The manner in which the contract was structured with the erstwhile promoters was some
+                understanding was there. So up to that level they have borne. Beyond that a nominal amount was
+                borne by us. But, the company only, but not out of the price which was committed to the
+                promoters. Ultimately it went from the Unison accounts only. Because there was a cash also in
+                the balance sheet, right? It was an operating company.
+
+
+Achal:          And sir, secondly, on this HPHT norm. So, sir, can you give a detailed sense of what is the rule
+                which is currently in place? And in volume terms if how much volumes are you expecting in,
+                let's say, next few quarters and then next year, especially from the HPHT allocation change now?
+
+
+
+
+                                           Page 5 of 13
+
+                                                                                     Mahanagar Gas Limited
+                                                                                        November 04, 2026
+
+Rajesh Patel:   So, just to reiterate, earlier HPHT was getting allocated between all the legal entities who are
+                bidding for the gas equally irrespective of how much they consumed for priority segment, CNG
+                and domestic, okay? The new formula is that allocation will happen in the ratio of whatever is
+                your previous consumption for CNG and domestic.
+
+
+                So obviously, if I am selling CNG of 3.5 million and another 0.7 million of domestic, 4.2, and
+                somebody else is selling 2 million, say, I will get double than what he is getting. This is the
+                current formula.
+
+
+                Now, with this current formula, if you do a sudden change, then there will be slightly hiccups
+                for people who have reduction in the HPHT to tie up for another gas because the times are
+                slightly difficult. So the formula remains the same, but formula has been phased out over next
+                7, 8 months.
+
+
+                For the first 2 months, that is November and December, the new formula will be applied for 25%
+                of the quantity, and 75% will be allocated based on the number of legal entities bidding. Then
+                for January, February, and March, it will be 50/50. 50% based on the proportion of consumption,
+                50% based on the number of entities bidding for the gas.
+
+
+                And then April, May, June, it will be 75% based on proportion of gas consumption, and 25%
+                will be based on the number of legal entities. From July onwards, it will be 100% on the new
+                formula. That is the way it is set up.
+
+
+                Now, coming to what is my allocation, if you consider legal entity, it would have depended on
+                how many entities have bid for. But usually, most of the entities were bidding, so even if there
+                are 17, 18 entities, we were getting in the range of 4.5%-5%, which in absolute terms was in the
+                range of 5,000 to 6,000 MMBtu per day. Now, with the change of the formula, if the full order
+                is implemented, if the flow of monthly HPHT through IGX remains at similar level, I should get
+                at 3.5 times, around 16,000 to 18,000 MMBtu, most likely. Okay?
+
+
+                In between because of this change and step up, I think initially, instead of 5,000, 6,000, I will
+                start getting around 7,000 to 8,000. And then every, this two months, three months, another
+                2,500 will be added, assuming that the quantity which is coming up for spot sale through IGX
+                remains in the same range.
+
+
+                Another thing to be noted here is probably for the, either the term contracts may not come during
+                this period or term contract if comes, will be divided into two portions, the time up to June 2027
+                and beyond June, that means July onwards, so that the formula is added by the suppliers who
+                are producing HPHT and coming up for bidding.
+
+
+Moderator:      Thank you. We have next question from the line of Yogesh Patil from Dolat Capital. Please go
+                ahead.
+
+
+Yogesh Patil:   Thanks for an opportunity, sir, and a couple of questions from my side. Can we get the gas details
+                in terms of the MMSCMD, how much was APM, NWG, HPHT, Henry Hub, Crude like LNG
+                during the quarter? And how much it has been in the month of November now?
+
+
+
+                                           Page 6 of 13
+
+                                                                                      Mahanagar Gas Limited
+                                                                                         November 04, 2026
+
+Rajesh Patel:   You that way know what is my total sales, okay?
+
+
+Yogesh Patil:   Yes.
+
+
+Rajesh Patel:   Even if we discuss percentage, I think it should be more than sufficient.
+
+
+Yogesh Patil:   Yes, sir.
+
+
+Rajesh Patel:   Yes. So first of all, domestic PNG is 100% APM, okay? Industrial commercial 100% through
+                RLNG term contracts mostly. Mainly HH and some small quantity through Brent link contract,
+                okay? When it comes to CNG, you can broadly divide 60% as domestically produced gas and
+                40% out of term which is maximums term gas and 4% is around spot gas.
+
+
+                Within that 60% I am saying domestically produced, APM and NWG is 40% and HPHT is
+                around 40%, which includes HPHT through term as well as HPHT through IGX at the current
+                level. So, which is going to increase in the month of November and going forward based on this
+                new formula.
+
+
+Yogesh Patil:   Okay. Sir, next question, like HPHT allocation policy, do we expect the government will also
+                frame the NWG allocation policy in which the CNG transport will get a priority? Any discussion,
+                any updates on that side?
+
+
+Rajesh Patel:   We have been always requesting that or, you know, representing at the forum or the at individual
+                level whenever there is a chance to do that. But no clue on whether anything will be implemented
+                on that front. But yes, I do recognize that there is not much difference between NWG price under
+                current scenario and any other RLNG or any other term contract. So, there is a need to do
+                something on NWG.
+
+
+Yogesh Patil:   So, sir, question on the unit EBITDA margin side, you generally guide the unit EBITDA
+                margins. What will be for this year current year FY27 and the next year FY28? And based on
+                the current gas sourcing mix and the gas prices, how much CNG price hike is required to
+                maintain a minimum INR7 per SCM kind of unit EBITDA in FY27?
+
+
+Rajesh Patel:   If you look at, I think my current quarter margin also, it is slightly lower than INR7. Around
+                6.77. So, we are not very far. You can guess how much increase I should do considering tax at
+                the rate of 25%. So, even if I do INR1, INR1.5, if everything remains same, INR7 is achievable.
+
+
+Yogesh Patil:   Okay. And sir, any guidance for FY27 and FY28 EBITDA margins?
+
+
+Rajesh Patel:   I think it's a very difficult question to answer under current scenario where lot of factors are so
+                much volatile that nobody is able to predict. Say, I might have tied up in terms of whatever I can
+                do tying up term contracts or I can undertake some amount of hedging also, which we have done
+                partly through changing the contract from index-based to fixed contract.
+
+
+                So some part of index, even if it goes a little higher in winters, we are protected partly. But on
+                the factor of how much will be the supply of RLNG and what will be cut on the sign term
+                contracts, we don't have any control. So, I think we are also evaluating situation every fortnight
+                every month and taking a call on how should we move.
+
+                                            Page 7 of 13
+
+                                                                                      Mahanagar Gas Limited
+                                                                                         November 04, 2026
+
+                 Our endeavor is always to maintain reasonable profitability under the scenario with an eye on it
+                 should not impact consumers adversely so that the momentum of CNG vehicle addition on CNG
+                 gets impacted. Though if you look at current petrol diesel prices, with respect to petrol we are
+                 almost offering 45% discount, which I am saying probably the blended petrol ethanol blended
+                 petrol.
+
+
+                 So, the discount in actual terms could be much more than this if you consider pure petrol. With
+                 respect to even diesel, I am offering at the current level 10% to 11% discount. So I think with
+                 this, I can't really give you a number on what will happen, but our endeavor is to maintain
+                 whatever we have been giving the guidance.
+
+
+Yogesh Patil:    Okay. Lastly, sir, any particular reason why the operating expenses are much higher during the
+                 quarter, any one-off item?
+
+
+Rajesh Patel:    There are two, three reasons. You can see that volumes have gone up, but margins have remained
+                 same or gone down slightly because of current scenario. The moment situation improves,
+                 margins will go up. Now, when I say volumes go up, there are a lot of expenses which are linked
+                 to volume directly, like power and fuel, LCV transportation, dispensing charges, etcetera. If I
+                 am not able to recover those, those will recover once things normalize and the margins should
+                 come to normalcy.
+
+
+                 Other than that, generally July is the month where you get promotions, increment, etcetera and
+                 in our case, we do have a long-term pay correction for all the employees, which was
+                 implemented in the quarter and though it was provided, but the actuarial valuation impact
+                 because of the interest rate changes in the market and the salary revision has an impact of around
+                 INR10 crores, INR12 crores, which is one-time in this quarter likely to go away. Maybe in the
+                 subsequent quarter it will not be so high.
+
+
+Moderator:       We have next question from the line of Vanshika Jain from Aequitas Investment. Please go
+                 ahead.
+
+
+Vanshika Jain:   Hi, sir. So, I just had one question. And it was that the PNG commercial and industrial volumes
+                 they have fallen about 7% in both the quarters given the current war situation. So what is the
+                 outlook for volume growth and margins in this segment?
+
+
+Rajesh Patel:    See as I said earlier in the beginning of the call itself, that commercial volumes have actually
+                 grown, when I am saying commercial small category restaurants, who are, you know, otherwise
+                 consuming LPG bottles, 19 kg LPG bottles. There the volumes have gone up actually by around
+                 9%-10%. Okay?
+
+
+                 Whereas it is industrial volumes where there is a cut. Two reasons, the supply was also restricted
+                 in the first quarter and second quarter also RLNG supplies were restricted in the range of 70%.
+                 So, that has impacted this and Brent being so high and our pricing formula is linked to the
+                 alternate fuel pricing, okay?
+
+
+                 So, if the prices go up slightly, people become cautious and they consume less. And as such,
+                 there was a cut from our side also because of the restriction in the first quarter. Predominantly
+
+
+                                              Page 8 of 13
+
+                                                                                      Mahanagar Gas Limited
+                                                                                         November 04, 2026
+
+                my customer base with the DCQ, they have signed the daily optic they have signed has not gone
+                down, it has increased. Okay? So, the moment situation comes to normalcy, this volumes will
+                bounce back by more than double-digit. And margin is dependent on the gas cost and the Brent-
+                link realization.
+
+
+Moderator:      We have next question from the line of Varatharajan from Antique Limited. Please go ahead.
+
+
+Varatharajan:   Thank you for the opportunity, sir. You had given the APM plus New Well Gas, if we can give
+                a split between APM and new well gas as well. And secondly, like you know, in terms of the
+                incentivization of commercial vehicles, where do we stand and is the program still on and what
+                has been the expense there?
+
+
+                And in terms of run rate, we see round about 600 to 700 vehicles a month, which has gone up
+                from 300, 400, which is a good thing. But still, what we see is that you know, why is it that it is
+                not expanded into the diesel or like you know, other vehicles available? That proportion is still
+                fairly high. Why are we not making a bigger dent on that front?
+
+
+Rajesh Patel:   So, to your first question, my answer is that for APM and NWG available for CNG is roughly
+                50-50. Both put together if it is 40, it is 50-50 divided.
+
+
+                Coming to marketing scheme, yes, we have continued with the large-size commercial vehicle,
+                the schemes and almost there is a registration and commitment for more than 800 vehicles, okay?
+                But we actually disbursed only when the vehicle is delivered and it starts consuming gas on our
+                gas stations, okay?
+
+
+                So, by now out of those 800, roughly 110 vehicles have been delivered and expenses incurred
+                in the range of, you know, if you consider roughly 3.5 lakh is per vehicle, around INR3.5 crores
+                to INR4 crores expenses has been incurred in this quarter. Okay?
+
+
+                So, balance around 700-800, and if any more new registration comes, that will be addition. This
+                I am talking excluding the type of vehicle like Tata Sumo and those small vehicles which are
+                running and getting added on the fleet without any scheme. These are larger fleet size and larger
+                vehicles, above 10 tons.
+
+
+Varatharajan:   If I have to understand it right, so you have discontinued on the LCVs, you are moving more
+                towards the larger ones? Is that the way it is? So, LCVs we are not incentivizing as of now.
+
+
+Rajesh Patel:   Yes, the model which are anyway selling on CNG and have a very good market share, we need
+                not sponsor them, right? It is the higher segment where we want penetration more.
+
+
+Moderator:      We have next question from the line of Bineet Banka from Nomura. Please go ahead.
+
+
+Bineet Banka:   Hi, sir. Thanks for the opportunity. Sir, on the INC margin for 2Q, was there a decline on a
+                quarter-on-quarter basis because your gas costs have gone up and the alternate fuel prices, which
+                is Brent and propane was down on an average basis quarter-on-quarter?
+
+
+Rajesh Patel:   If you look at LPG cylinder, the prices went up by almost more than 25% compared to the last
+                quarter. But if you look at LDO and FO, the prices went down by around 6%. So, in the similar
+
+                                            Page 9 of 13
+
+                                                                                      Mahanagar Gas Limited
+                                                                                         November 04, 2026
+
+                range, my prices have also moved. So, in case of commercial, there was definitely an upside in
+                that percentage. And in case of industrial and the large customers, there was a reduction
+                compared to the previous quarter Q1. But it still remains higher than the same quarter last year.
+                Or maybe Q4 as well.
+
+
+Bineet Banka:   So, you said margins are higher or prices are higher? I think margins, right? Prices are anyway
+                higher, which is understandable.
+
+
+Rajesh Patel:   No, no. See, I bill, let's say, some customers bill to 19 kg LPG cylinder. Okay? Compared to Q1,
+                Q2 LPG cylinder prices have gone up by more than 25%, which is publicly available data. So,
+                my realization also to such customer has gone up by 25%. Whereas customers whom I am billing
+                either on FO, LDO, or combination of FO and LDO, these both the fuels have gone down by
+                from the range of 6% to 15%. And so, compared to Q1, in case of large customer, yes, there is
+                a reduction. On the sales realization.
+
+
+Bineet Banka:   Okay. And margins will be largely similar or there will be a slight cut, I think because…
+
+
+Rajesh Patel:   Term gas and I have used. More or less, I think it has remained slightly better or equal to previous
+                quarter, not much change in the gas cost.
+
+
+Bineet Banka:   Okay. And sir, second question is on capex. So, I think first half capex is around INR643 crores
+                and I think earlier you gave a guidance of INR1,500 to INR1,800 crores. So, will that guidance
+                still hold because the first half run rate has been slightly, I think lower than what you would have
+                wanted?
+
+
+Rajesh Patel:   Generally, first half run rate is always lower. Reason is post mid of May till October monsoon
+                season, you don't get permissions to lay pipeline. Okay? So, our actual work starts picking up
+                from October onwards only. So, you will see, we still maintain that run rate of INR1,500 to
+                1,800 crores. However, I have been earlier also saying and adding –that the wish and ambition
+                of the company is to do more and more capex and capture the market.
+
+
+                However, there could be a lot of impediments in terms of availability of manpower, material,
+                etcetera, etcetera, because you can't scale up operations and get the manpower at one shot.
+                Though you may make a lot of effort because most of the CGDs are doing the similar thing, so
+                segment may be under pressure for same material, same labor skill, etcetera. So, our endeavor
+                is to do that and we still maintain it should be in the range of INR1,500 crores plus.
+
+
+Bineet Banka:   Sir and because of this high capex run rate, I think for at least next couple of years the FCF will
+                be negative. So, how do you plan to fund this?
+
+
+Rajesh Patel:   You mean cash flow generated out of business and capex?
+
+
+Bineet Banka:   Yes, sir, yes. Operating cash flow minus capex that would be negative for, I think, FY27 and 28.
+
+
+Rajesh Patel:   Negative by INR200-300 crores, you are right.
+
+
+Bineet Banka:   So, are you going to raise some debt, I think because on the balance sheet, right now there is no
+                debt? Or will you be liquidating mutual funds?
+
+                                           Page 10 of 13
+
+                                                                                           Mahanagar Gas Limited
+                                                                                              November 04, 2026
+
+Rajesh Patel:        Debt may not be warranted. Okay? Some part gets funded through the customer deposit as well.
+                     Okay? So, debt may not get warranted as such because I have still surplus of almost INR1,000
+                     crores. And my cash inflow from operations should be in the range of more than INR1,000
+                     crores, INR1,000 to INR1,200 crores.
+
+
+Moderator:           We have next question from the line of Mayank Maheshwari from Morgan Stanley. Please go
+                     ahead.
+
+
+Mayank Maheshwari:   So, thank you for the call. Just one question around your I&C customers. Would you have a bit
+                     of a break up in terms of what percentage of your customers are now on fuel oil, what percentage
+                     is linked to LPG bottles, and how you're thinking about the strategy around pricing for these
+                     customers going forward, considering the growth and now the supply constraint that you've
+                     seen?
+
+
+Rajesh Patel:        For a number of customers, I don't have bifurcation that way. But majority is small customer,
+                     commercial customers, but their volumes are lower.
+
+
+Mayank Maheshwari:   Do you have a volume-wise percentage?
+
+
+Rajesh Patel:        Volume-wise, it could be 22% to balances large customers. 20%-22% is smaller customer and
+                     balances industrial larger customer. And as far as pricing is concerned, I think our strategy is a
+                     very simple alternate fuel-based pricing. There is no change as of now.
+
+
+Mayank Maheshwari:   Okay, so no change there at all. So, for these 80% of the customers, you will be kind of doing
+                     on an alternative fuel-based pricing.
+
+
+Rajesh Patel:        100% of the INC customers, It is formula linked, every month formula prices reset based on the
+                     LPG bottle LPG price. And it is not that some customers are buying 100% linked to FO and
+                     LDO, there is a combination also in the pricing. There's a part of the price is linked to LDO, part
+                     is linked to FO. Those kinds of customers are also there.
+
+
+Moderator:           We have next question from the line of Khushboo Ravalani from Aquarius Securities Private
+                     Limited. Please go ahead.
+
+
+Khushboo Ravalani:   Yes, so given the current scenario, can you elaborate a bit on the long-term gas sourcing strategy
+                     and the expected sourcing mix over the next two, three years, maybe? And more about the 40,000
+                     MMBTU which you said in your opening remarks that you have signed, the clarity on the
+                     counterparty or the tenure or the terms or the supply has started already. So that is kind of RLNG
+                     which I understand is the long-term RLNG. So, whether it is brand-linked or Henry Hub-linked
+                     or anything on that.
+
+
+Rajesh Patel:        I think on the counterparty, we don't share the data. Okay? But it is both, it is smaller quantity
+                     of Brent and higher quantity linked to Henry Hub. And on the strategy, generally we sign small
+                     trenches of contract as and when my sales volume base stabilizes, and only by spot for peaking
+                     requirement. And during current period, we have been tying up more term LNG, more than our
+                     requirement because there is a supply restriction also in the range of 70%, sometimes 80%. But
+                     majority of these contracts have a threshold for take-or-pay. So, generally, if there is a take-or-
+
+
+                                                 Page 11 of 13
+
+                                                                                                  Mahanagar Gas Limited
+                                                                                                     November 04, 2026
+
+                            pay threshold, if I am able to minimum consume that based on my requirement, then I am able
+                            to leverage better if there is a change in the trend compared to say spot and the term prices.
+
+
+                            So, we should have leverage in our hand to switch to any of these depending on the prices. Okay?
+                            So, currently whatever term contracts we are signing, they are in the similar line as the old
+                            contracts, but there is a marginal tweaking in the formula for this difficult period when
+                            availability of gas and the prices are because of the supply consent going up.
+
+
+Khushboo Balani:            Okay, sir. So, this volume actually has started flowing in, that 40,000 MMBTU which you said?
+
+
+Rajesh Patel:               Signed and is already flowing in, yes.
+
+
+Khushboo Balani:            Yes, okay. So, my second question will be on if you have any like your internal like something
+                            like targeted discount versus the petrol and diesel prices and how much price and headroom does
+                            the company has actually against these fuels because at the end of the day, it depends on the
+                            alternate fuel.
+
+
+Rajesh Patel:               I think in the earlier question also, I said that compared to petrol today, we are almost at 45%
+                            discount and compared to diesel around 10%-11% discount is there. And that has been for a very
+                            long time, maybe with some 5% movement here and there, depending on when was the petrol
+                            diesel prices gets revised and when we have done the price change.
+
+
+Moderator:                  We have next question from the line of Achal Shah from Axis Capital. Please go ahead.
+
+
+Achal Shah:                 Yes. So, can you give a total CNG compression charge for FY26 or if possible, for 2Q FY27,
+                            rupees per SCM or absolute number would work?
+
+
+Rajesh Patel:               There is nothing called compression charges as of now as far as regulation is concerned. But
+                            yes, small amount of quantity, if suppose I have a facility of, you know, CGS in my GA, and
+                            any adjacent GA does not have CGS in their area, then we do some amount of gas receiving on
+                            behalf of those other CGD entities. But those are very, very minuscule volumes. It does not
+                            impact you know, a company with INR10,000 crores turnovers.
+
+
+Moderator:                  And as there are no further questions from the participants, I now hand the conference over to
+                            management for closing comments.
+
+
+Ajay Sinha:                 Yes, thank you very much Nitin from PhillipCapital and wish you all a very happy Diwali. The
+                            results have been better we feel than the market expectations. We are growing at a rate of almost
+                            9% to 10% in terms of sales volume. And we hope we will maintain the same in the current year
+                            also coming financial year also. So, thank you once again and wish you once again a very happy
+                            Diwali.
+
+
+Moderator:                  Thank you. Participants, on behalf of PhillipCapital India Private Limited, that concludes this
+                            conference. Thank you for joining us. Thank you.
+
+
+         (This transcript has been edited, without altering the content, to ensure clarity and improve readability.)
+
+
+
+
+                                                       Page 12 of 13
+
+                                                                      Mahanagar Gas Limited
+                                                                         November 04, 2026
+
+
+
+Registered Address: MGL House, G-33 Block,
+Bandra-Kurla Complex, Bandra (East),
+Mumbai – 400051, Maharashtra
+
+
+
+
+Contact details: investorrelations@mahanagargas.com
+Website: www.mahanagargas.com
+CIN: L40200MH1995PLC088133
+
+
+
+
+                                                      Page 13 of 13
+

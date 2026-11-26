@@ -1,0 +1,1066 @@
+Date: November 06, 2026
+To,
+National Stock Exchange of India Limited
+BSE Limited
+Symbol: NSE: GRANULES: BSE: 532482
+
+Dear Sir,
+Sub: Transcript of the Earnings Conference call for Q2 and the half-year of FY27.
+Ref: Our letter dated 26.10.2026 for intimation of the schedule of the Earnings
+Conference call for Q2 and the half-year of FY27.
+Pursuant to regulation 46 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, the transcript of the earnings conference call of the Company for the Q2
+and half year of FY27 is enclosed with this letter.
+Kindly take the above information on record.
+For GRANULES INDIA LIMITED
+CHAITANYA Digitally signed by
+          CHAITANYA TUMMALA
+
+TUMMALA Date:   2026.11.06
+          10:20:35 +05'30'
+CHAITANYA TUMMALA
+(COMPANY SECRETARY &
+COMPLIANCE OFFICER)
+Enclosure: Transcript of the Earnings call
+
+
+
+
+REGISTERED OFFICE
+Granules India Limited
+CIN: L24110TG1991PLC012471
+15th Floor, Granules Tower, Botanical Garden Road, Kondapur, Hyderabad – 500084, Telangana, India
+Contact Us: Tel: +91 40 69043500 | Fax: +91-40-23115145 | mail@granulesindia.comwww.granulesindia.com
+
+                “Granules India Limited
+       Q2 H1 FY27 Earnings Conference Call”
+                  November 02, 2026
+
+
+
+
+MANAGEMENT: DR. KRISHNA PRASAD CHIGURUPATI – CHAIRMAN AND
+            MANAGING DIRECTOR – GRANULES INDIA LIMITED
+            MS. PRIYANKA CHIGURUPATI – EXECUTIVE DIRECTOR
+            – GRANULES INDIA LIMITED
+            MR. MUKESH SURANA – CHIEF FINANCIAL OFFICER –
+            GRANULES INDIA LIMITED
+            DR. P.V. SRINIVAS – CHIEF TECHNOLOGY OFFICER–
+            GRANULES INDIA LIMITED
+            MR. SANJAY KUMAR – CHIEF EXECUTIVE OFFICER –
+            SENN TIDES INDIA PRIVATE LIMITED
+
+
+
+
+MODERATOR:   MS. PRACHI AMBRE – MUFG INVESTOR RELATIONS
+
+
+                        Page 1 of 17
+
+                                                                                          Granules India Limited
+                                                                                             November 02, 2026
+
+
+
+
+Moderator:          Ladies and gentlemen, good day, and welcome to the Granules India Limited Q2 H1 FY27
+                    Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode
+                    and there will be an opportunity for you to ask questions after the presentation concludes. Should
+                    you need assistance during this conference call, please signal an operator by pressing star then
+                    zero on your touchtone phone. Please note that this conference is being recorded.
+
+
+                    I now hand the conference over to Ms. Prachi Ambre from MUFG Investor Relations. Thank
+                    you, and over to you, ma'am.
+
+
+Prachi Ambre:       Thank you, Swapnali. On behalf of Granules India Limited, I extend a very warm welcome to
+                    all the participants on the Q2 and H1 FY27 financial results discussion call. Today on the call,
+                    we have Dr. Krishna Prasad Chigurupati, Chairman and Managing Director; Ms. Priyanka
+                    Chigurupati, Executive Director; Mr. Mukesh Surana, Chief Financial Officer; Dr. P.V. Srinivas,
+                    Chief Technology Officer; and Mr. Sanjay Kumar, CEO of Senn Tides India Private Limited.
+
+
+                    Before we begin the call, I would like to give a short disclaimer. This call contains some of the
+                    forward-looking statements, which are completely based on our expectations, beliefs and
+                    opinions as of today. The statements are not a guarantee of our future performance and involve
+                    unforeseen risks and uncertainties.
+
+
+                    With this, I would like to hand over the call to Krishna Prasad Sir, for his opening remarks. Over
+                    to you, sir. Thank you.
+
+
+K.P. Chigurupati:   Thank you, Prachi, and a very good evening, ladies and gentlemen. Thank you for joining us
+                    today and for your continued interest in Granules. We have uploaded our detailed quarterly
+                    presentation, and I trust you have had a chance to go through it.
+
+
+                    Let me first provide an update on our Gagillapur facility. The U.S. FDA conducted a cGMP
+                    inspection of the facility from October 19 to October 30. This was the first FDA inspection since
+                    the warning letter issued in February '25, following the 2024 inspection. The inspection
+                    concluded with a Form 483 containing eleven observations.
+
+
+                    Based on our assessment, none of the observations relate to data integrity, cross-contamination
+                    or facility upkeep. They concern investigations, change control, process and recruitment
+                    qualification, visual inspection controls and documentation practices.
+
+
+                    There is no impact on manufacturing or distribution of products from this site. We will submit
+                    a comprehensive response within the stipulated 15 business days detailing our corrective and
+                    preventive actions. We believe these observations are addressable and remain focused on
+                    demonstrating the effectiveness and sustainability of our quality systems. Coming to our
+                    performance. Q2 was another strong quarter for Granules.
+
+
+
+
+                                              Page 2 of 17
+
+                                                                         Granules India Limited
+                                                                            November 02, 2026
+
+Revenue grew 20% year-on-year to INR15,600 million, crossing INR15,000 million in quarterly
+revenue for the first time in our history. EBITDA grew 21%, while PAT increased 39% to
+INR1,818 million. This also marks our eighth consecutive quarter of sequential revenue growth.
+These results were delivered despite a challenging operating environment. Geopolitical
+developments continue to put pressure on input and logistics costs across the industry.
+
+
+We expect some of these pressures to persist with customer price adjustments following with a
+lag. Against this backdrop, the consistency of our performance gives us confidence in the
+underlying strength and momentum of the business. In our September investor presentation, I
+spoke about our return to growth as the beginning and beginning to a new journey.
+
+
+Our growth strategy has multiple pillars: controlled substances under our Make in America
+platform, complex generics and early market opportunities, geographical expansion, oncology
+and peptide CDMO. The progress across our business is beginning to validate this direction.
+
+
+North America, our largest market, continued to grow, led by controlled substances. Europe
+sustained its growth momentum, while our efforts to develop the rest of the world markets are
+beginning to contribute. Our peptide CDMO business through Senn also grew year-on-year. This
+platform remains in its build-out phase with a near-term focus on strengthening execution,
+customer delivery and profitability. One of the most significant changes within Granules is the
+evolution of our R&D and product development strategy.
+
+
+We are pursuing differentiated opportunities, addressing greater technical complexity and
+building the potential for early market entry. Our first-to-file strategy is a visible outcome of this
+transformation. Over the last 3 quarters, we have announced filings for 3 potential sole first-to-
+file ANDAs, generic DYANAVEL XR or Amphetamine-based extended-release OTT, Sodium
+oxybate ER and Ruxolitinib ER. Several more such products are under development with filings
+targeted over the next 6 to 7 quarters. These opportunities have a different commercial profile
+from conventional generics.
+
+
+Successful early entry, particularly into products with significant technical or regulatory barriers
+can create substantial value. The timing and extent of this contribution will depend on regulatory
+and litigation outcomes and the upside may be uneven across quarters. Alongside these
+opportunities, we have 26 ANDAs awaiting approval, providing a strong pipeline for the next
+wave of launches.
+
+
+On sustainability, we continue to make steady progress through our SEDEX assessments and
+CRISIL scores. 4 of our facilities have also achieved zero waste to landfill certification. We
+remain focused on making these improvements an integral part of how we operate.
+
+
+Granules today is fundamentally different from the company we were a few years ago. We have
+a broad portfolio, deeper development capabilities and multiple avenues for growth. Our focus
+remains on disciplined execution, strengthening quality, delivering reliability to customers and
+translating our investments into sustained growth and earnings.
+
+
+
+
+                         Page 3 of 17
+
+                                                                                       Granules India Limited
+                                                                                          November 02, 2026
+
+                 With this, I hand over to Sanjay to provide a more detailed update on the progress of the peptide
+                 vertical. Over to you, Sanjay.
+
+
+Sanjay Kumar:    Thank you, sir. Coming to Senn Tides, we continue to make progress across regulatory
+                 compliance, commercial development and expansion of our capabilities in Switzerland and
+                 India. During the quarter, Senn Chemical site in Zurich successfully completed its Swiss medic
+                 GMP inspection with no critical findings and acceptable GMP compliance status. This reflects
+                 a meaningful progress in strengthening our quality system and regulatory capabilities compared
+                 with previous inspection 2 years ago. On the commercial front, we are seeing strong momentum.
+
+
+                 A theranostics-reated pharmaceutical project has been revived after nearly 2 years, driven by
+                 progress in its clinical development. We have also renewed engagement on supply partnership
+                 with 2 major peptide CDMO players and initiated discussions for a second-year manufacturing
+                 campaign with another CDMO partner following successful delivery last year.
+
+
+                 Importantly, our increased business development efforts, industry outreach and reengagement
+                 with long-standing customer relationships have resulted in a strong inflow of RFPs and RFQs
+                 during the recent months. Our focus now is on converting these expanding opportunity funnel,
+                 leveraging sales expertise and our extended development capabilities. In parallel, we are
+                 advancing our CRDMO platform.
+
+
+                 Our oligonucleotide scientific leadership is now on board with additional team members
+                 expected to join over the next quarter. The R&D teams in Zurich and Hyderabad are already
+                 collaborating closely as we prepare to expand our footprint across both peptides and
+                 oligonucleotides. On the manufacturing side, our India project team is in place and progressing
+                 the planning and design of our proposed integrated peptide manufacturing facility at Vizag.
+
+
+                 At Zurich, our immediate priority remains operational execution and delivery readiness as we
+                 prepare for a more active fourth quarter of this financial year. We are aligning our manufacturing
+                 plans and resources with scheduled customer offtakes, while accommodating customary
+                 December holidays and the planned maintenance break during December.
+
+
+                 Overall, our priorities are focused towards strengthening customer engagement, converting our
+                 growing pipeline into the business and building an integrated CRDMO platform capable of
+                 supporting the next phase of growth for Senn Tides. With this, I hand it over to Mukesh, our
+                 CFO, for taking us through financials.
+
+
+Mukesh Surana:   Thank you, CMD and Sanjay. Good evening, everyone. I will now walk you through the
+                 financial performance for Q2 FY27. Revenue for the quarter was INR15,600 million, up 20%
+                 year-on-year and 6% quarter-on-quarter. Growth was broad-based across our businesses and key
+                 markets, supported by steady demand for our product portfolio and higher growth of complex
+                 generics.
+
+
+                 Gross margins was INR10,039 million, up 18% year-on-year and 4% quarter-on-quarter as the
+                 business continued to scale. Goss margin stood at 64.4%, down 134 basis points year-on-year
+                 and 126 basis points quarter-on-quarter. The moderation primarily reflected higher input costs
+
+                                         Page 4 of 17
+
+                                                                          Granules India Limited
+                                                                             November 02, 2026
+
+    arising from the ongoing conflicts in West Asia, partly offset by lower cost safety inventory
+    carried into the quarter in U.S.A.
+
+
+    We continue to monitor input costs and freight costs closely and are engaging with the customers
+    to pass on increases wherever possible, although with a time lag.
+
+
+
+
+    EBITDA and profitability, EBITDA was INR3,376 million, up 21% year-on-year and stable
+    quarter-on-quarter.
+
+
+    EBITDA margin stood at 21.6%, up 19 basis points year-on-year and down 131 basis points
+    quarter-on-quarter. The quarter-on-quarter movement in margin was driven by higher input costs
+    and logistic costs due to the ongoing conflicts in West Asia.
+
+
+    R&D, R&D expenses were INR885 million about 5.7% of sales, up 26% year-on-year and 1%
+    quarter-on-quarter.
+
+
+    R&D is the engine of our transformation from a volume led to a value-led innovation-driven
+    company. We have intentionally focused our efforts on high barrier areas such as CII, ADHD,
+    oncology, MUPS and complex formulations, where limited competition allow us to build a
+    differentiated and lasting position.
+
+
+    PBT, PBT was INR2,434 million, up 38% year-on-year and 1% quarter-on-quarter. PBT margin
+    improved to 15.6% from 13.6% in Q2 FY26, an improvement of around 200 basis points.
+
+
+    Net debt, we closed the quarter with a net cash position of INR8,280 million compared with net
+    debt of INR1,012 million in Q1 FY27. Receipt of balance proceeds of warrants moved us into a
+    net cash position, strengthening our balance sheet and supporting growth, capacity expansion
+    and R&D.
+
+
+    Working capital: Net working capital to sales was 30% compared with 29% in Q1 FY27 and
+    29% in Q2 FY26 and remained stable in this range.
+
+
+Cash conversion cycle was 231 days compared with 229 days in Q1 FY27. This movement was a
+    result of a deliberate inventory buildup, mainly in the U.S. to ensure supply continuity in line
+    with the demand.
+
+
+    Cash flow from operations: Cash flow from operation was INR650 million compared with
+    INR3,874 million in Q1 FY27 and INR1,937 million in Q2 FY26. This was mainly due to a
+    planned increase in working capital to support the business growth.
+
+
+    Capex: Capex was INR1,304 million compared with INR890 million in Q1 FY27 and INR2,112
+    million in Q2 FY26. We continue to strengthen our manufacturing and packaging capabilities.
+
+
+
+
+                             Page 5 of 17
+
+                                                                                      Granules India Limited
+                                                                                         November 02, 2026
+
+                ROCE: ROCE was 17.6%, up 138 basis points year-on-year and broadly stable quarter-on-
+                quarter compared with 18%. This improvement was achieved even as we continue to invest in
+                working capital and capex to support our next phase of growth.
+
+
+                With this, I open the floor for questions.
+
+
+Moderator:      Thank you, sir. We will now begin with the question-and-answer session. We have the first
+                question from the line of Sajal Kapoor from Antifragile Thinking.
+
+
+Sajal Kapoor:   I've got two sets of questions, one for the Gagillapur and one set of question for CDMO. So
+                maybe I can start with CDMO. So, Sanjay, on the operating performance, first half peptide
+                revenue is coming out at INR109 crores with a cumulative EBITDA loss of about INR28 crores,
+                right? To reach the target of INR240 crores, which was the minimum target, we need 21% bigger
+                H2 and about -- or about INR131 crores. And you also kind of committed to PAT profitability
+                for FY27 end. Are both targets still on track?
+
+
+Sanjay Kumar:   So thank you, Sajal, for the question. So typically, as you would have seen in the last year, our
+                H2 is heavier than the H1. With the revenue that you projected will be somewhere between an
+                EBITDA neutrality to the PAT neutrality, depending -- it largely depends on the kind of
+                product/project mix that we do. We are hopeful to close near our stated ambition and all the key
+                to that lies in our smooth Q4 executions, where the offtakes are the maximum from the customer.
+                So we are absolutely hopeful of meeting our target that we have set ourselves at the beginning
+                of the year.
+
+
+Sajal Kapoor:   That's helpful. And Sanjay, regarding the customer wins and capital allocation, so there was a
+                target of 3 customer wins worth about $200 million plus annually. How many have been signed
+                so far? And is the INR300 crores India capex investment contingent on securing these
+                relationships or that's going to proceed regardless?
+
+
+Sanjay Kumar:   Sajal, I cannot comment on the first part where you spoke about a few customers and a few
+                hundred million. We have never gave that number or we never projected that. So I'll let it pass.
+                The second one is the investment in India facility being contingent upon any particular tie-up
+                with the customers? No.
+
+
+                We are absolutely going ahead with our investment in India facility at Vizag operations. That's
+                the minimum that we need to build because now the next set of growth has to come from the
+                supporting capacity that we'll be building, both in India and expansion of our capacity in the
+                Zurich as well. So they're not contingent, and we are going ahead with our Vizag plan. The
+                planning is already underway with our project team on board with us.
+
+
+Sajal Kapoor:   So Sanjay, that 10 million thing is coming out of the Q1 call. So you said I count customer wins
+                only if they get into a potential annual size of 10 million plus and I think -- something along
+                those lines.
+
+
+Sanjay Kumar:   So Sajal, in your commentary, I heard a couple of hundred million references.
+
+
+
+                                        Page 6 of 17
+
+                                                                                               Granules India Limited
+                                                                                                  November 02, 2026
+
+Sajal Kapoor:           Okay. Okay. No, fair enough. Yes, yes. Okay.
+
+
+                        But anything signed there or still under discussion?
+
+
+Sanjay Kumar:           So they are under discussions. We are absolutely seeing traction. As I announced in my opening
+                        remarks, the theragnostic project revival post the customer progressing its assets in the clinical
+                        pipeline, and that can be supported from Zurich itself. The couple of partnering with the other
+                        large CDMO players requires investment in capacity. We have seen a very positive uptick on
+                        multiple fronts so -- with those 2 large CDMO players. That requires support of capacity from
+                        India as well.
+
+
+Sajal Kapoor:           No, that's helpful. And on the Gagillapur, so the existing products can continue, but it kind of
+                        hampered our CMO -- CDMO relationship because new products, I believe, and a couple of
+                        them were on patent manufacturing assignments that cannot now start because the observation,
+                        the warning letter has not been lifted. So the question is what did the U.S. FDA inspection reveal
+                        about CAPA effectiveness that our internal reviews and 330 audits kind of missed?
+
+
+Priyanka Chigurupati:   I'll take that question, Sajal. The FDA -- the remediation plan was completed except for 2
+                        CAPAs. And like CMD mentioned, I think even in the press release, we did not get any
+                        observations on the points that were stated in the warning letter.
+
+
+Sajal Kapoor:           Right. So Priyanka, so these are all fresh observations that were not part of the original.
+
+
+Priyanka Chigurupati:   Yes.
+
+
+Sajal Kapoor:           Okay. And so on that basis, are we getting a sense that because we had the warning letter is U.S.
+                        FDA making it kind of harder. I mean, "teach us a lesson because I've seen this pattern with
+                        every company, almost every company who gets a warning letter or an import alert never gets
+                        to clear the reinspection in the first attempt.
+
+
+K.P. Chigurupati:       Sajal, all I can tell you is I cannot comment on what you said, but this was a 2-week audit with
+                        three inspectors.
+
+
+Sajal Kapoor:           And stringent.
+
+
+K.P. Chigurupati:       It was stringent. That's all I can say.
+
+
+Moderator:              We will take next question from the line of Tushar Manudhane from Motilal Oswal Financial
+                        Services.
+
+
+Tushar Manudhane:       Sir, just -- sir two questions on Gagillapur What is the current capacity utilization given that we
+                        have the inspection going on or the remediation measures, which we are going to implement. So
+                        what is the current capacity utilization?
+
+
+Mukesh Surana:          Tushar, the current capacity utilization are similar what it was earlier, which we said around
+                        75% is what we are using GGP.
+
+
+
+                                                  Page 7 of 17
+
+                                                                                                    Granules India Limited
+                                                                                                       November 02, 2026
+
+Tushar Manudhane:           While we would respond to US FDA within 15 working days, if you could share what kind of
+                            time line we will require to address the issues.
+
+
+K.P. Chigurupati:           Tushar, typically, it takes about -- it should be about 90 to 100 days for response, but it all
+                            depends how things go.
+
+
+Tushar Manudhane:           And lastly, on the complex products in terms of upcoming products, if you could share what are
+                            the interesting products that will come in the next 12 months? And subsequently, if you could
+                            also share what would be the FY27 guidance for revenue growth and EBITDA margin. That's it
+                            from me, please.
+
+
+Priyanka Chigurupati:       I'll take the first question. I'll speak about the next 6 months because when you consider
+                            regulatory landscape, 12 months is a little bit farther away. But overall, we have about 26
+                            pending approvals with the FDA. In the next 6 months and to clear this out also, we have about
+                            8 pending launches from GGP at this point. We've transferred a few of those products to various
+                            sites, and we will be launching them -- a few of the products in Q3 and Q4.
+
+
+                            You asked us about the interesting products. We have 3 products being launched from GPI, 2 of
+                            which are controlled products. Those are very exciting, very limited competition and the markets
+                            are big. So we're very excited to launch those 2 products in Q3 and Q4, respectively. And on the
+                            revenue guidance, Mukesh will answer.
+
+
+K.P. Chigurupati:           Let me address that, on the revenue guidance, Tushar. As you know, we don't give guidance, but
+                            all I can tell you is our current rate of growth and the current progress we are making will
+                            continue. There will be no change in that.
+
+
+Moderator:                  We have the next question from the line of Shashank Krishnakumar from Emkay Global.
+
+
+Shashank Krishnakumar: Just the first one on other expenses this quarter, which went up Q-o-Q. I think R&D was broadly
+                            flat. So what is it that drove this increase in other expenses? Yes. Yes.
+
+
+                            Also, I just wanted to check. So broadly, the assumption we are working with is probably certain
+                            onetime expenses like remediation, etc, might start moderating going forward. So in the current
+                            scenario, is that still a reasonable assumption to sort of work with.
+
+
+Mukesh Surana:              Yes, Shashank. I'll address both of your questions. In other expenses, the significant increase in
+                            the current quarter is freight cost, which has gone up because of the West Asia conflict. The
+                            freight rates of the shipments have gone up. Second question with respect to remediation
+                            expenses, Q4 onwards, it will moderate significantly. Q3 also will be similar to Q2.
+
+
+Shashank Krishnakumar: And the second one on the share of complex generics. I think there was a marginal decline Q-o-
+                            Q. Now is this got to do with any quarter-to-quarter variation in complex generics? Or -- and
+                            given that Q3, Q4, we'll see some newer controlled substance launches, should we expect this to
+                            sort of again increase going forward?
+
+
+
+
+                                                     Page 8 of 17
+
+                                                                                                 Granules India Limited
+                                                                                                    November 02, 2026
+
+Priyanka Chigurupati:   Absolutely. This will be on an upward trajectory. Quarter-on-quarter, some -- there's a lot of
+                        compliance-related ups and downs that you can see like for any other products. And when I say
+                        compliance, sometimes the pickup is a little low, sometimes it goes much higher than historical
+                        numbers, etc. So, this is quarter-on-quarter. The short-term, medium-term, long-term projection
+                        for the U.S. products is just on an upward trajectory.
+
+
+Moderator:              We have the next question from the line of Rashmi Shetty from Dolat Capital.
+
+
+Rashmi Shetty:          Just on the API and PFI segment, the growth is pretty strong during the quarter and also in the
+                        first half. Earlier this API and PFI segment were used mainly for the captive consumption. But
+                        is it fair to assume that this time we are getting better pricing and therefore, the sales are higher.
+
+
+Mukesh Surana:          Yes. Rashmi, yes, predominantly it's still captive and some of the opportunities in terms of
+                        geographic expansion we're looking at, particularly in LATAM region, we are growing better in
+                        PFI.
+
+
+Rashmi Shetty:          Okay. And are we seeing a higher volume growth or the entire growth is mainly coming from
+                        the better pricing.
+
+
+Mukesh Surana:          It is primarily volume and pricing is also better. With the cost increase, the prices also have been
+                        recovered.
+
+
+Rashmi Shetty:          Okay. So should we assume that similar kind of growth momentum to continue even in second
+                        half in terms of API and PFI segment?
+
+
+Mukesh Surana:          Yes, similar trajectory, but we are not giving guidance.
+
+
+Rashmi Shetty:          Okay. Understood. And on the U.S. front, Priyanka, you mentioned that 8 launches are expected,
+                        right, in Q3 and Q4 total.
+
+
+Priyanka Chigurupati:   No. I said 8 products pending from GGP. And those approvals, once they are approved, we'll
+                        launch. Out of this, we filed 2 to 3 products from GPI. Those will be launched in Q3, Q4, Q5
+                        depending on when we receive the approvals.
+
+
+                        But in total, we have about 5 launches within the next 2 quarters. 3 launches are -- well, all of
+                        them are in the U.S. market. 2 products are controlled and the other products are uncontrolled,
+                        but we have non-controlled. We have 5 products coming up.
+
+
+Rashmi Shetty:          Understood. So out of 5 launches are planned in U.S. and out of the 3 launches, 2 are controlled
+                        systems?
+
+
+Priyanka Chigurupati:   All of them are planned in the U.S., not -- see all of them are planned in the U.S.
+
+
+Rashmi Shetty:          Okay. And in the first half, how many launches have we done?
+
+
+Priyanka Chigurupati:   First half, we haven't done any launches.
+
+
+
+
+                                                 Page 9 of 17
+
+                                                                                                  Granules India Limited
+                                                                                                     November 02, 2026
+
+Rashmi Shetty:          No launches.
+
+
+Priyanka Chigurupati:   But one thing I do want to just state is that even through the warning letter, even now, there is
+                        no disruption to the existing -- the growth in the existing products, existing business. So even
+                        H1, etcetera, we have seen an increase in demand for the Gagillapur site. That is still on the
+                        ramp-up, which means we have received certain awards this past H1, which we are going to start
+                        servicing, say, December, January. So there will be an increase in GGP as planned. And of
+                        course, growth from the U.S. will be ongoing for the GPI site.
+
+
+Rashmi Shetty:          And on the gross margin front for this quarter, obviously quarter-on-quarter, it is down because
+                        of higher cost increases, the inflationary pressure. Is it fair to assume that in the subsequent
+                        quarters also, the gross margin would be similar in range or you feel the pressure could increase
+                        and probably we might see a decline in gross margins compared to quarter 2?
+
+
+Mukesh Surana:          See currently, the cost pressures are continuing and we are continuously working with customers
+                        to pass on the prices. But even if I pass on 100 out of 100, the percentage arithmetically will
+                        come down. But what we are working on is making sure that we are able to grow the profit as
+                        expected whatever internal plans are.
+
+
+K.P. Chigurupati:       And Rashmi, let me add some of these pressures are being made up as of today and in future too
+                        by the ratio of complex products to the legacy products. And that's also going to help us. And
+                        like Mukesh said, nothing changes in our growth trajectory.
+
+
+Rashmi Shetty:          Understood. So you mean that the better business mix can offset some of the cost pressure. So
+                        at least this kind of gross margin is expected to sustain?
+
+
+K.P. Chigurupati:       It vary a little bit here and there. But yes, overall, the profits will be as expected.
+
+
+Moderator:              We have the next question from the line of Siddhesh Parekh from Unifi Mutual Fund.
+
+
+Siddhesh Parekh:        My question is from controlled-substance business. Your ADHD portfolio is mostly extended
+                        release product and you have gained a good market share there. I want to understand your plan
+                        for immediate release. Are you planning upcoming filing for immediate release or what?
+
+
+Priyanka Chigurupati:   We primarily have extended release products. And by nature of what you said, it falls within a
+                        complex category. We do have a few immediate release products also, but we'll launch them as
+                        needed. It all depends on the quota allocation. We just want to maximize the utilization of the
+                        quota and maximize the earnings per kg of quota received.
+
+
+Siddhesh Parekh:        Okay. The upcoming two launches are immediate release or extended release?
+
+
+Priyanka Chigurupati:   Extended release.
+
+
+Moderator:              We have the next question from the line of Yash Mehta from Grit Securities.
+
+
+Yash Mehta:             I have a few set of questions. So firstly, so with complex generics now contributing around 47%
+                        of the formulations revenue and also the 3 potential sole first-to-file ANDAs already filed. So
+
+
+                                                 Page 10 of 17
+
+                                                                                                 Granules India Limited
+                                                                                                    November 02, 2026
+
+                        how should we assess the earning potential of this pipeline over the next 2 to 3 years? And more
+                        importantly, like do you see this opportunity structurally resetting the company's margin profile?
+                        Or will profitability remain dependent on episodic high-value launches?
+
+
+Priyanka Chigurupati:   This is just the beginning. That's all I'll say. Our margins are going to be on an upward trajectory
+                        going forward. I think we'll start seeing our first to file within the next 2.5 years to 3 years max.
+                        And after that, it will be on an upward trajectory.
+
+
+                        You see a big change going forward even on the quality of the R&D filing. We already have a
+                        few complex filings that we have done that we're expected to launch. So yes, it will all keep
+                        going upwards going forward.
+
+
+Yash Mehta:             Understood. Understood. And also, while the underlying business is generating like nearly
+                        around 25% of ROCE, so the consolidated ROCE remains at around 17.6% with Genome Valley
+                        operating at just 25% utilization. And also like the peptide CDMO business is still loss-making.
+                        So given the planned INR2,000 crores organic capex, what gives you guys confidence that
+                        incremental investments will generate superior returns? And when should investors expect the
+                        gap between core and consolidated ROCE to meaningfully narrow?
+
+
+Mukesh Surana:          See our hurdle rate for investment is not to drag down the ROCE. So as the investment matures,
+                        we'll get better ROCE and ROCE will keep inching up. Currently, GLS is only 25% utilization.
+                        And once it goes to optimal utilization, that will generate additional double-digit ROCE,
+                        similarly to all other assets as well. And we will expect the same trend for the next INR2,000
+                        crores also that all will give a strong double-digit ROCE.
+
+
+Moderator:              We have the next question from the line of Shreya Chatterjee from Ageless Capital.
+
+
+Shreya Chatterjee:      I have a couple of questions. Of that the first one is just wanted to confirm out of the 5 launches
+                        that's happening in the next 2 quarters, are those of generic Lumryz and sodium oxybate, those
+                        include those 2? Or are they going to be launched in 2028? And when Ruxolitinib is going to be
+                        launched?
+
+
+Priyanka Chigurupati:   What was the last product? I'm sorry, what was the last product.
+
+
+Shreya Chatterjee:      Ruxolitinib. Ruxolitinib.
+
+
+Priyanka Chigurupati:   See all these are litigation-based products. I cannot guide on any of them. So to answer your
+                        question, no, but that's all I can say.
+
+
+Shreya Chatterjee:      So among these products that are going to be launched or the products that you're filing, are
+                        these majorly FTF products? Like how many FTF products are there and how many complex
+                        generics, if I may ask in that way?
+
+
+Priyanka Chigurupati:   They're all complex generics. These are not first-to-file.
+
+
+Shreya Chatterjee:      Okay. And what is your current market share right now in the U.S. in CNS?
+
+
+
+                                                 Page 11 of 17
+
+                                                                                               Granules India Limited
+                                                                                                  November 02, 2026
+
+Priyanka Chigurupati:   Market share depends product to product, but we are #3 in the U.S. with respect to controlled-
+                        substances.
+
+
+Shreya Chatterjee:      Got it. Got it. And with the launch of -- steady state of launch of these complex generics and
+                        integrated generics, how do you see your margins evolving like the EBITDA margins evolving?
+                        And with the remediation cost also hopefully going away with the Gagillapur like remediation
+                        going away. So how do you see the EBITDA margins evolving in the mid like in the shorter
+                        term this year and also in the medium term?
+
+
+Mukesh Surana:          Yes. So the EBITDA margin currently we are at 21.6% which was much higher in Q1. So we
+                        dipped by 130-plus basis points. That is primarily because of West Asia conflict. Once this
+                        situation settles down, the margin percentage will continue to improve. More importantly, this
+                        year, we will try to work hard to ensure that our profit trajectory moves on. So absolute profit
+                        will grow.
+
+
+Shreya Chatterjee:      Got it. Any sort of quantification you want to give like for the medium term, how much basis
+                        points should we expect for the year?
+
+
+Mukesh Surana:          It's very dynamic. So what price of crude today may not be the same crude price 1 week down
+                        the line. So it's very dynamic. It is difficult for me to give some number. Second is we are having
+                        a continuous efforts to discuss with customers to get a price pass on. That is also very dynamic.
+
+
+Shreya Chatterjee:      But in the longer term, how much should it improve or like over the course of 3 years?
+
+
+K.P. Chigurupati:       Yes. Shreya, let me summarize. Our growth will continue to be there. Whatever we have been
+                        growing it and whatever we have planned will happen, and there's not going to be any big impact
+                        in spite of whatever happen.
+
+
+Shreya Chatterjee:      Got it. And you are not -- like you don't want to comment right now on the longer-term growth
+                        of EBITDA margin.
+
+
+K.P. Chigurupati:       No.
+
+
+Shreya Chatterjee:      Okay. And lastly, how should we look at the capacity utilization ramp-up for your Gagillapur
+                        plant going from here and your like Genome Valley plant going from here?
+
+
+Mukesh Surana:          So Genome Valley is under 25% or roughly 25% as of now, which we are expecting by Q4, it
+                        will cross 50%. And with respect to Gagillapur, currently, it is around 75%, but there is a good
+                        room for maximizing the product mix as well as utilization. So that also will have additional
+                        potential revenue from both sites.
+
+
+Moderator:              We have the next question from the line of Suhani Singh from ROS Capital.
+
+
+Suhani Singh:           So I had a few questions. So following the recent U.S. FDA inspection at Gagillapur, how could
+                        investors assess the potential implications of the observations on upcoming product approvals
+                        and commercial operations?
+
+
+
+                                                Page 12 of 17
+
+                                                                                              Granules India Limited
+                                                                                                 November 02, 2026
+
+K.P. Chigurupati:       Suhani, we are very glad that there are no observations regarding data integrity, cross-
+                        contamination or facilities. So all the observations, we believe are addressable, and we have --
+                        we are going to have a good dialogue with the FDA, and we are quite positive about the outcome.
+
+
+Suhani Singh:           So are there any dependencies that could affect the near-term launch pipeline?
+
+
+K.P. Chigurupati:       No, the business in Gagillapur will continue as it is and growing with existing products. And --
+                        but the overall growth will not change. There are a lot of sites. Gagillapur is just one site. The
+                        growth is driven -- mostly the future growth is driven by the U.S., onco in India and also GLS.
+                        So there will be no impact. It will actually be positive.
+
+
+Suhani Singh:           While the revenue and EBITDA have grown strongly, the operating cash flow declined sharply
+                        to INR65 crores this quarter from INR387 crores in Q1. So how much of this working capital
+                        absorption is temporary versus structural? And when could we expect the operating cash
+                        conversion to realign with earnings growth?
+
+
+Mukesh Surana:          We have to see Q1 and Q2 together, at H1 level because some of the expenditure or cash outflow
+                        which we have incurred in Q2 have to be seen as H1 outflow. Secondly, the investment in
+                        working capital, we have consciously increased from 29% to 30%, but it is in this range currently
+                        plus/minus 100 basis points here and there. We have built some inventory in U.S.A for safety
+                        stock, both for controlled substances as well as other complex generics.
+
+
+Moderator:              We have the next question from the line of Giovganne, an Individual Investor.
+
+
+Giovganne:              I have a question regarding the recent FDA inspection of Gagillapur. Do you expect a NAI or
+                        VAI classification following their CAPA response? Or will any observation require another on-
+                        site inspection? And could you provide an estimate time line for resolving the warning letter
+                        unblocking the 9 pending applications?
+
+
+Priyanka Chigurupati:   I'll answer your question in 2 bits. Like CMD said multiple times earlier in this -- on this call,
+                        we think the inspection progressed constructively. And we believe that we can the observations
+                        can be fully addressed through our responses and the CAPA that we put in place. With response
+                        -- with respect to the launches, assuming the observations -- sorry, the observations can be
+                        addressed through the responses, we should start receiving them immediately.
+
+
+Moderator:              We have the next follow-up question from the line of Sajal Kapoor from Antifragile Thinking.
+
+
+Sajal Kapoor:           Just two quick questions, team. One is on the net cash and one is on the gross margin. So I've
+                        been looking at the historic trend that Granules has reported on the gross margins. So March of
+                        2016, we were around 46%, 47% gross margin, gross as an end product minus the raw material
+                        cost, so material gross margin. Today, we are 65% plus.
+
+
+                        So broadly, we have gained 1,900 bps, give or take, on the gross margin side. When we were at
+                        46%, 47%, because our capacities were fully utilized and our cost base perhaps was leaner, we
+                        were reporting 20%, 21% EBITDA today at a significantly higher gross, we are still reporting
+                        very close to that 21%, 22% number on the EBITDA side. So what I'm trying to understand is
+
+
+                                                Page 13 of 17
+
+                                                                                             Granules India Limited
+                                                                                                November 02, 2026
+
+                    how significantly our cost base has gone up. That's one. And there is definitely significant
+                    deleverage in the system.
+
+
+                    So both points, if Mukesh, you can clarify. One is on the cost base, how different is our cost
+                    base today relative to where we were in 2016, '17? And how significant is the deleverage in the
+                    system?
+
+
+Mukesh Surana:      Thank you for this question. And some of the answer you have given yourself, the cost base has
+                    changed, business model has changed. So our gross margin has expanded significantly. And that
+                    also would mean I have started investing in R&D to continuously have the sustainable gross
+                    margin for future pipeline. And also my business model has changed from API to formulation
+                    and now I'm focusing more on complex generics.
+
+
+                    And also, if you see, we never had U.S. operations manufacturing site run what the current size
+                    levels are. The employee cost in U.S.A. geography, employee cost in the newly acquired entity
+                    Senn Tides, all are significantly higher, the cost of employees, right? And you have already
+                    answered, there is a significant room for deleverage.
+
+
+                    Once we start increasing our capacity utilization, some of the opportunities and cost leverage
+                    will move into EBITDA margin improvements.
+
+
+Sajal Kapoor:       That's helpful, Mukesh. And then given that we are sitting on INR800 crores plus of net cash on
+                    the balance sheet, and of course, we are operating cash flow positive. So every year, we will be
+                    adding to that minus the capex that we do. I think net-net, is it fair to say that if a customer comes
+                    to you for CDMO or otherwise, cash will not be a constraint on the system in terms of deploying
+                    growth capex because as far as I remember, Granules balance sheet has never been so healthy
+                    on the net cash.
+
+
+                    Even if we go back 20 years, 30 years since the IPO, we have always carried debt, sometimes
+                    excess debt on the books, but this where we are today on the net cash, that should give us a lot
+                    of flexibility to undertake growth capex without diluting equity or taking leverage?
+
+
+Mukesh Surana:      You are absolutely right. That is also the intent when we have raised this money. So currently,
+                    we have a good amount of cash, which will be used for both organic growth as well as inorganic
+                    growth. Organic growth, you can see the way we are adding the pipeline would mean additional
+                    revenue and also additional working capital for the additional revenue and also the continuous
+                    growth capex. And in addition to that, we are open and continuously exploring inorganic
+                    opportunities.
+
+
+Moderator:          We have the next question from the line of Sameer Baisiwala from Sakman Capital.
+
+
+Sameer Baisiwala:   Priyanka, I just wanted to make sure that I heard it correctly that the first FTF launch is 2.5 years
+                    or so away. Is that correct?
+
+
+
+
+                                             Page 14 of 17
+
+                                                                                               Granules India Limited
+                                                                                                  November 02, 2026
+
+Priyanka Chigurupati:   Roughly around 2.5 years away, 2.5 to 3 years away, subject to litigation. But there's also another
+                        product that we're going to be filing shortly, which has been an open FTF for a while. That is
+                        the product that I'm saying it will be roughly 2.5, 3 years away.
+
+
+Sameer Baisiwala:       Okay. And in that case, Priyanka just wondering how do you -- how do we think about fiscal '28
+                        and '29, the gap years, if I can say that? What's going to drive growth in those 2 years because
+                        FTF is quite back-ended in that sense?
+
+
+Priyanka Chigurupati:   So as soon as we get approvals for the launches that are still pending, we will start launching
+                        them in the U.S. In the prior calls, we've mentioned that we are focusing on global expansion of
+                        all our products. We've started filing a few products around the world. We've done about 6 filings
+                        in the last -- no, about 8 filings in the last 6 months.
+
+
+                        These are the products that will give us midterm revenues -- short to midterm revenues. There's
+                        a lot of potential there. And going forward, that will contribute to a large percentage of the
+                        overall sales as well.
+
+
+K.P. Chigurupati:       And again, Sameer, just like Priyanka mentioned a little while ago, we have 5 new launches
+                        coming in the second half, out of which 2 are controlled substances and all complex products,
+                        and there's a lot of potential in these products.
+
+
+Priyanka Chigurupati:   Sorry, just to add to what CMD said, outside of the first-to-file that we have done, we are also
+                        doing other products that are still in the works. And those products -- and we're licensing a few
+                        products as well. So all these products put together will give us short to medium-term revenues.
+
+
+Sameer Baisiwala:       Priyanka, I think there are some disturbance. So when you first said 6 to 8 products will drive
+                        growth, you're saying non-U.S. filings that you have done. Is that -- was that correct?
+
+
+Priyanka Chigurupati:   These are a few products that we've done only in H1. But depending on the country that we are
+                        expanding to strategically and the regulations in those countries, there are some products that
+                        are subject to approvals within 6 months, within 12 months, etcetera. So we're very carefully
+                        filing key products across geographies, and those are the products that will start yielding
+                        revenues in the short to midterm as well.
+
+
+                        And that will also go on. While the U.S. continues to be the biggest market for the foreseeable
+                        future, these markets will contribute quite significantly as well. These are pure global expansions
+                        of existing products. So there's a huge market out there that is still untapped, and that's what
+                        we're looking at doing strategically.
+
+
+Sameer Baisiwala:       Okay. Excellent. Very clear. And just finally, can you provide some color on this INR2,000
+                        crores upcoming capex?
+
+
+Mukesh Surana:          Yes. This INR2,000 crores growth capex over the next 3 - 4 years will be largely into one,
+                        expansion of infrastructure and capacity for peptide CDMO both in Zurich as well as India. And
+                        other capex will be going towards U.S. platform, enhancing the manufacturing capability and
+                        overall distribution. Third is on oncology side, where we have certain plans of launches. So
+
+
+                                                 Page 15 of 17
+
+                                                                                             Granules India Limited
+                                                                                                November 02, 2026
+
+                    accordingly, we need some capacity expansions. And we are also working on multiple API
+                    expansions based on the capacity utilization levels. So there are multiple broad-based capex
+                    programs are there for the next 3- 4 years.
+
+
+Sameer Baisiwala:   I mean, it looks like most of them are brownfield expansions. Is that the way we should think
+                    about it?
+
+
+Mukesh Surana:      Not necessarily. So complex and oncology are more of our new formulations. And there will be
+                    also, as you rightly said, downstream in terms of API or it can be downstream in terms of
+                    improving the warehouse and distribution. And there will also be a good amount of investment
+                    in IT digitalization to improve our quality management system, improve our manufacturing
+                    capability.
+
+
+Moderator:          We have the next question from the line of Pehal Sharma from DD Capital.
+
+
+Pehal Sharma:       I have some set of questions with me. So my first question is that on the peptide CDMO
+                    opportunity. Could management provide an update on customer engagements development
+                    programs and expected time line for commercial scale revenues?
+
+
+Sanjay Kumar:       I'll take that question. See, we are bound by confidentially agreement with most of our
+                    customers, and we cannot disclose that, and I hope you would understand that. In terms of
+                    commercial, I think what -- the journey from an RFP and RFQs to commercial translation takes
+                    a while. We have already waited for some time. And we are -- I mean, the last 4 months has
+                    been one of the -- is a period of our highest inquiry that we have seen, and that has been on a
+                    result of certain measures that we took on a BD outreach.
+
+
+                    We are seeing a validation of that. And it all comes to execution over the next few quarters that
+                    we translate them to a material movement on our revenue side. I'm afraid I cannot provide any
+                    additional details on this, and we'll take one at a time when it does start to translate.
+
+
+Pehal Sharma:       And my next question is like while complex generics revenue grew by 38% Y-o-Y in Q2 FY27
+                    and its share in the overall portfolio declined to 47% from 50%, right, in Q1 FY27. So like with
+                    integrated generics increasing to 48% from 46%, so like could management elaborate on the
+                    factors driving this shift in the portfolio mix?
+
+
+                    And also is this largely attributable to the growth trajectory of the like integrated generics? Or
+                    were there any specific factors impacting complex generics during the quarter? And how should
+                    we expect the portfolio mix to evolve going forward?
+
+
+Mukesh Surana:      Yes. So our medium path we guided is 50% of our formulation portfolio will be around complex
+                    generics. So quarter-on-quarter, a few basis points here and there is expected, but we will have
+                    to see year-on-year basis. And I would say we are ahead of what we have stated. And probably
+                    we will be doing more than 50% in the medium term.
+
+
+Moderator:          Do you have any further questions. We have the next question from the line of Giovganne an
+                    Individual Investor.
+
+
+                                             Page 16 of 17
+
+                                                                                                 Granules India Limited
+                                                                                                    November 02, 2026
+
+Giovganne:              I have a follow-up question. I probably asked about the Gagillapur FDA inspection and the 9
+                        pending applications. You mentioned that they would be progressively unblocked. Did you mean
+                        that CAPA responses are submitted or only once FDA assess the corrective actions? And would
+                        another on-site inspection be required? Sorry, it's very confused for me.
+
+
+Priyanka Chigurupati:   Sorry, I didn't quite understand the second half of your question. Can you please repeat that?
+
+
+Giovganne:              Yes. If another on-site inspection would be required for Gagillapur?
+
+
+Priyanka Chigurupati:   At this point, I don't believe that's required, but it's the FDA. We leave it to the FDA to decide.
+
+
+Giovganne:              And the first part of my question, where do you guys expect to get those 9 application
+                        unblocked? Do you have any time line approximately?
+
+
+Priyanka Chigurupati:   The general process is that after you receive an EIR with a VAI or an NAI, the FDA takes a few
+                        weeks, a few months to provide approval. It's usually between 30 and 90 days after receiving
+                        the EIR.
+
+
+K.P. Chigurupati:       And Giovganne, let me also add here, it's 9 that are filed from there. But out of that, 2 are already
+                        transferred to our U.S. facility out of 8. So actually, we don't need to get those approvals here.
+                        They will be -- continue to made in U.S.
+
+
+Moderator:              Ladies and gentlemen, that was the last question. And with that, we conclude the question-and-
+                        answer session. I now hand the conference back to the management for their closing remarks.
+                        Thank you, and over to you, sir.
+
+
+K.P. Chigurupati:       Thank you once again, ladies and gentlemen, for patiently listening to us. And let me conclude
+                        by saying we are on a continued growth path, and you will keep hearing better and better things
+                        from us in the future. Thank you, once again.
+
+
+Moderator:              Thank you, members of the management. On behalf of MUFG Investor Relations, we conclude
+                        this conference. Thank you, everyone, for joining with us today, and you may now disconnect
+                        your lines.
+
+
+
+
+                                                Page 17 of 17
+

@@ -1,0 +1,1112 @@
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+
+
+
+             November 9, 2026
+
+             The Manager, Listing                                   The Manager, Listing
+             BSE Limited                                            National Stock Exchange of India Limited
+             Phiroze Jeejeebhoy Towers,                             Exchange Plaza, Plot No. C/1,
+             Dalal Street,                                          G-Block, Bandra-Kurla Complex,
+             Mumbai – 400 001                                       MUMBAI – 400 051
+
+             Scrip Code: 526299                                     Scrip Symbol: MPHASIS
+
+            Dear Sir/Madam,
+
+            Sub: Transcript of the Investors/Analysts call
+
+            Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,
+            please find enclosed the transcript of the Investors/Analysts Earnings Conference Call held on Friday, November
+            6, 2026, in connection with the financial results of the Company for the quarter and half year ended September
+            30, 2026.
+
+            The transcript is also uploaded on the website of the Company and can be accessed at the weblink:
+
+            https://www.mphasis.com/content/dam/mphasis-com/global/en/investors/financial-results/2027/transcript-
+            of-earnings-call-q2-2027.pdf.
+
+            The above intimation is also available on the website of the Company at: www.mphasis.com.
+
+            We request you to kindly take the above intimation on record.
+
+            Yours faithfully,
+
+            For Mphasis Limited
+              MAYANK Digitally signed by
+                     MAYANK VERMA
+
+              VERMA Date:  2026.11.09
+                     14:53:23 +05'30'
+
+            Mayank Verma
+            Senior Vice President and Company Secretary
+            Membership No.: ACS 18776
+
+            Encl: As above
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+
+
+
+                                                 “Mphasis Limited
+                            Q2 FY 2027 Earnings Conference Call”
+                                                November 6, 2026
+
+
+
+
+            MANAGEMENT:               MR. NITIN RAKESH – CHIEF EXECUTIVE OFFICER –
+                                      MPHASIS LIMITED
+                                      MR. ARAVIND VISWANATHAN – CHIEF FINANCIAL OFFICER
+                                      – MPHASIS LIMITED
+                                      MR. VINAY KALINGARA – HEAD INVESTOR RELATIONS –
+                                      MPHASIS LIMITED
+
+
+
+
+                                                             Page 1 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+            Moderator:                Good morning, ladies and gentlemen. Thanks for joining the Mphasis Q2FY2027
+                                      Earnings Conference Call. I'm Neerav, your moderator for the day. We have with us
+                                      today, Mr. Nitin Rakesh, CEO of Mphasis; Mr. Aravind Viswanathan, CFO; and Mr.
+                                      Vinay Kalingara, Head of Investor Relations.
+
+
+                                      As a reminder, there is a webcast link in the call invite email that the Mphasis
+                                      management team will be referring to today. The same presentation is also available on
+                                      the Mphasis website, www.mphasis.com, in the Investors section under Financial and
+                                      Filings as well as both on BSE and NSE websites. I request you to have the presentation
+                                      handy.
+
+
+                                      As a reminder, all participant lines will be in the listen -only mode and there will be an
+                                      opportunity for you to ask questions after the presentation concludes. Should you need
+                                      assistance during this conference call, please signal an operator by pressing star then zero
+                                      on your touch-tone phone. Please note that this conference is being recorded.
+
+
+                                      Before we begin, I would like to state that some of the statements made in today's
+                                      discussion may be forward-looking in nature and may involve certain risks and
+                                      uncertainties. A detailed statement in this regard is available in the Q 2 results release
+                                      that was sent out to all of you earlier.
+
+
+                                      I now hand over the floor to Mr. Nitin to begin the proceedings of this call. Thank you,
+                                      and over to you, Nitin.
+
+
+            Nitin Rakesh:             Thank you, Neerav, and thank you all for joining us today.
+
+
+                                      Q2 delivered what we said it would: our strongest sequential growth in three years, broad -
+                                      based across verticals and segments. Our pipeline is at a record, and today we are raising
+                                      our growth guidance for the year. I will take you through the numbers, but first, the thesis
+                                      behind them.
+
+
+                                      At our Analyst Meet in May, we said the value in enterprise AI is moving from adoption
+                                      to economic outcomes. AI is not only changing how services are delivered; it is changing
+                                      what enterprises buy. Agentic AI asks what systems can do. Enterprise Agency asks what
+                                      the enterprise can now do better. We built Mphasis Tria TM to close what we call the
+                                      Agency Gap: the distance between having AI and having AI make governed decisions
+                                      that move revenue, margin and risk. Five months on, we see three things.
+
+
+                                      First, the buyer has changed. Business and operations leaders now fund AI alongside the
+                                      CIO, and their questions are about revenue leakage, planning latency and slow execution,
+                                      not just technology cost. That is where Mphasis Modernize TM and Mphasis Optimize TM
+                                      meet them, and where outcome-linked commercial constructs follow.
+
+
+                                      Second, Tria works as a closed loop: understand, decide, act, measure and improve, with
+                                      humans governing the exceptions rather than signing off routine work. Every governed
+                                      decision feeds back into the models, so enterprise context compounds.
+
+
+
+                                                                Page 2 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                              Mphasis Limited
+                                                                                                            November 6, 2026
+
+
+                                      Third, the moat is not the models. Frontier Models will continue to improve and
+                                      commoditize. Our enduring differentiation lies in understanding enterprise context,
+                                      causal decision intelligence, orchestration and governance, and the organizational
+                                      capability to continuously learn, deploy & scale these capabilities across our client
+                                      enterprises.
+
+
+                                      Independent research points the same way. ISG's September report, ‘The AI Value Gap’,
+                                      found that AI is widely used but outcomes lag, that nearly half of AI budgets now sit
+                                      outside IT, and that model cost is only about a third of total investment. We welcome the
+                                      corroboration, but we did not need it to set our course; it is the course we h ave been on
+                                      since May, and it is visible in our results.
+
+
+                                      What I want to spend time on today is not only what we believe, but how we have
+                                      organized to deliver it.
+
+
+                                      Last quarter we said Mphasis Tria was off to a stronger start than we anticipated. In Q2,
+                                      that early traction began to scale. Tria is now a proof point in large-deal evaluations
+                                      because it demonstrates governed, measurable outcomes, not just capability. And it is
+                                      taking us into the operating core of the enterprise: the run of the business, not just the
+                                      technology estate. In BFS, it is opening business-process budgets in lending origination,
+                                      payment exception processing and client onboarding as examples. Beyond BFS, it is
+                                      driving conversations on AI-led operations transformation at large insurers, on-demand
+                                      intelligence for technology clients and so on. These budgets sit with business and
+                                      operations leaders, and this has significantly increased our TAM.
+
+
+                                      You will want to know how big our pipeline with Tria is. We are not breaking that out
+                                      today, so let me describe its shape. Tria-led opportunities are a growing part of our
+                                      pipeline, and they are different in kind: larger and multi-year deals, combining
+                                      optimization and transformation with ongoing operations, sponsored by business leaders,
+                                      and increasingly starting with a proof of value on the client's own process es. As each
+                                      first deployment lands, it leaves reusable assets and foundation s for expansion within
+                                      that client.
+
+
+                                      That brings me to what matters most for execution. We have organized our talent to turn
+                                      this pipeline into scaled delivery.
+
+
+                                      •    Value streams: We have packaged the recurring business problems in Banking,
+                                           Insurance and Healthcare, for example into defined offers, each with a clear buyer,
+                                           outcome measures and reusable assets. Opportunities start from a vertically
+                                           packaged offering.
+                                      •    Forward deployed and engineering solutions teams sit in one team, alongside
+                                           delivery, embedded within the client, working through four steps: frame the
+                                           problem, compose the capabilities, prove it with evidence, and scale.
+                                      •    A dedicated product and platform team institutionalizes learnings through a
+                                           continuous feedback loop, turning every deployment into reusable capabilities that
+                                           accelerate the next.
+
+                                                                  Page 3 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                               Mphasis Limited
+                                                                                                             November 6, 2026
+
+
+                                      We are investing in people to run this: certifying our client-facing technology leaders on
+                                      the value-stream playbooks and expanding deployment capacity through our FDE team.
+                                      Together, these give us a repeatable path from first conversation to scaled outcome, and
+                                      that is why we are confident in the trajectory.
+
+
+                                      Since the launch of Mphasis.ai, three years ago, our pipeline has grown to 3x its original
+                                      size, and AI-led deals have grown from 12% of the pipeline to 71%.
+
+
+                                      Net new TCV for Q2 was $466 million. With net new TCV above $400 million for six
+                                      consecutive quarters, we have established a higher baseline for deal closures. That
+                                      baseline supported the growth we delivered in Q2 and underpins our confidence in the
+                                      trajectory for the rest of FY27.
+
+
+                                      The pipeline composition is broad-based across verticals and deal sizes. Total pipeline
+                                      reached a new high, growing 4.4% sequentially and 23% YoY. We continue to see a high
+                                      share of proactively originated opportunities, shaped by our point of view on clien ts’
+                                      businesses and our ability to identify and define opportunities before they become formal
+                                      asks.
+
+
+                                      Growth was broad-based, with the BFS pipeline up 4.1% and the non-BFS pipeline up
+                                      4.8% sequentially. Opportunities below $20 million grew 35% year-on-year and 9%
+                                      sequentially, reflecting the increase in shorter-cycle deal activity we called out last
+                                      quarter, which continues to play out.
+
+
+                                      On a year-on-year basis, Modernization and XaaP, now aligned to our Tria product lines,
+                                      recorded the strongest growth in the pipeline. Agile IT Ops and Next Ops are also
+                                      significant contributors to the overall pipeline, reflecting the deals in process
+                                      modernization and business-outcome budgets we described earlier.
+
+
+                                      As I mentioned earlier, net new TCV for the quarter was $466 million, with trailing -
+                                      twelve-months TCV at $1.8 billion. 66% of our TCV wins in Q2 were AI -led, up from
+                                      63% last quarter. We closed five large deals in Q2. One of them nicely illustrates the
+                                      shift in how the outcome deals are being structured: a large broker -dealer selected
+                                      Mphasis to scale its advisor administration business across front and middle -office
+                                      services. It is a large deal with a recurring revenue-share model and significant expansion
+                                      potential across the client's advisor network.
+
+
+                                      Deal wins continue to convert to revenue at a consistent pace. As we said last quarter,
+                                      the trend of shorter-cycle deals is holding, with TCV for deals below $20 million up 26%
+                                      on a TTM basis. Meanwhile, the backlog we built over prior quarters and the steady TCV
+                                      wins provides ongoing support to in-quarter and near-term revenue conversion as well.
+
+
+                                      Moving to our segment performance. In the Direct business, we grew 3.5% sequentially
+                                      and 11.3% year-over-year in constant currency terms.
+
+
+                                      From a geographic perspective, Americas continued to be our primary growth engine. It
+                                      grew 3.1% sequentially and 12.4% YoY in Direct, driven by ramp-ups in large deal wins
+
+                                                                Page 4 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      and contributions from new logos. The Rest of the World delivered strong growth of
+                                      16.4% sequentially and 23.5% YoY in constant currency terms. This was led by our
+                                      growing participation in the GCC ecosystem with our global clients. EMEA declined
+                                      3.3% sequentially and 9.0% YoY. As we have explained before, we classify geographies
+                                      by the origin of contract. This quarter's EMEA numbers reflect revenue from a globally
+                                      structured engagement that was allocated across regions. The underlying health of the
+                                      business there remains intact.
+
+
+                                      From a service line perspective, Enterprise Applications remains our core growth engine
+                                      and contributed to 75.6% of our revenue. Direct revenue grew 3.7% sequentially and
+                                      14.4% YoY in constant currency, driven predominantly by AI -led modernization deals.
+                                      BPO sustained its momentum, growing 6.6% sequentially and 18.7% YoY in Direct on
+                                      new deal wins and AI-led propositions. Tria-led process modernization has become a
+                                      defining theme in business reimagination since launch, driving pipeline and wins across
+                                      APPS and BPO.
+
+
+                                      ITO declined 4.9% sequentially and 21.3% YoY. This mainly reflects transformation
+                                      projects moving into a steady phase. These were integrated build-plus-run programs, and,
+                                      as the build components finish, the work moves into the run phase. This impact is also
+                                      reflected in the Others vertical.
+
+
+                                      Moving to performance by vertical, BFS Direct grew 4.5% sequentially and 15.0% YoY
+                                      in constant currency, with an eight-quarter CQGR of 3.8%. Growth continues to come
+                                      from wallet share gains in existing accounts and new deal wins, reflecting our domain
+                                      depth and right to win in Financial Services.
+
+
+                                      Insurance returned to sequential growth of 1.8% and grew 14.7% YoY in Direct,
+                                      supported by Tria-led optimization programs across underwriting, claims and risk
+                                      operations. Based on last quarter's recovery and new deal ramp ups, TMT grew 10.9%
+                                      sequentially and 14.5% YoY in Direct.
+
+
+                                      On a TTM basis, BFS, Insurance and TMT, the verticals we identified as growth drivers,
+                                      have all delivered, showing that our strategic focus is translating into results. In Direct -
+                                      BFS, Insurance and TMT delivered 15%, 28% and 12% growth respectively on a TTM
+                                      basis.
+
+
+                                      Logistics and Transportation declined 12.0% sequentially, on a smaller base. It continues
+                                      to feel some impact from ongoing geopolitical uncertainty. It is now a smaller unit for
+                                      us, so small changes in revenue produce larger percentage swings. While the Others
+                                      segment declined 6.4% sequentially and grew 1.8% YoY, Healthcare within that segment
+                                      delivered healthy growth. On the back of recent deal wins, including a large deal win this
+                                      quarter, we expect Healthcare to emerge as a growth driver.
+
+
+                                      Moving on to client metrics, they show growth across the portfolio. On a TTM basis, our
+                                      Top 5 clients grew 15.1% YoY, and our Top 10 grew 13.0% YoY. Our Top 11–20 clients
+                                      grew faster, at 22.7% YoY. That reflects the investment we made to widen our account
+
+
+                                                                Page 5 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      coverage from the top 10 to the next 20. Sequentially, the Top 5 grew 4.1% and clients
+                                      ranked 6–10 grew 4.9%. This growth has been driven largely by strong in -account
+                                      execution - winning new deals and ramping them up.
+
+
+                                      Our client buckets are aligned the same way. We added two clients in the $50 million -
+                                      plus bracket sequentially, three in the $20 million-plus bracket year-on-year, and five in
+                                      the $5 million-plus bracket year-on-year, three of them on a sequential basis as well. As
+                                      new accounts scale, they keep feeding the upper tiers of the pyramid.
+
+
+                                      Moving to our financial metrics performance. Q2 EBIT margin remained flat. EPS
+                                      increased 14.6% sequentially to INR 29.4. Operating Cash flow generation was USD
+                                      34Mn after normalizing USD 39.5Mn of remittances initiated on 30th September and
+                                      received in October.
+
+
+                                      DSO for the quarter was 105 days after normalizing for the delayed remittances I just
+                                      mentioned on the previous slide. This is more of a quarterly aberration and is expected
+                                      to get to double digit levels in Q3.
+
+
+                                      In summary: in July we said Q2 would deliver our best sequential constant -currency
+                                      growth in three years, and that it would be broad-based and it did.
+
+
+                                      Direct revenue grew 3.5% sequentially and 11.3% year-on-year. BFS grew 4.5%
+                                      sequentially and 15.0% year-on-year, and TMT grew 10.9% sequentially. The Americas
+                                      and the Rest of the World delivered strong sequential growth. Applications and BPO
+                                      were driven by AI-led modernization and new deal wins. Our Top 5 clients grew 15.1%
+                                      year-on-year, and our Top 11 to 20 grew 22.7%, with additions across client bands, both
+                                      sequentially and year-on-year.
+
+
+                                      The pipeline is at a record, up 23% year-on-year, with 71% of the pipeline being AI-led,
+                                      and it spans verticals, deal sizes and archetypes. TCV wins were $466 million for the
+                                      quarter, 66% AI-led, including five large deals, taking trailing-twelve-month TCV to
+                                      $1.8 billion. And we delivered stable margins within our stated range.
+
+
+                                      That performance, and the visibility behind it, is why we are raising our outlook. Let me
+                                      turn to how we see the rest of the year.
+
+
+                                      The first half has set a strong foundation for FY27, and we expect the second half to
+                                      carry this momentum forward. Four things give us that confidence: a record and broad -
+                                      based pipeline; six consecutive quarters of net new TCV above $400 million, with the
+                                      backlog converting to revenue; steady execution from signing to revenue; and an
+                                      organization built to scale the work we are winning.
+
+
+                                      On that basis, we are raising our FY27 guidance. We now expect revenue growth in the
+                                      low double digits for the full year. Last quarter, our guidance was high single digits to
+                                      low double digits. We are doing so despite an uncertain macro environment, because it
+                                      rests on results already delivered and on visibility we can see in the pipeline and the
+                                      backlog.
+
+                                                                Page 6 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                   Mphasis Limited
+                                                                                                                 November 6, 2026
+
+
+                                      On profitability, we continue to expect stable margins within the target band of 14.75%
+                                      to 15.75%, while we invest in the capabilities that drive the next phase of growth. We
+                                      continue to target 80% conversion of net income to operating cash flow in FY27, further
+                                      normalizing in FY28.
+
+
+                                      With that, I will open the call for questions. Operator, over to you.
+
+
+            Moderator:                First question is from the line of Gaurav Rateria from Morgan Stanley. Please go ahead.
+                                      Gaurav, may I request to unmute your line and proceed with your question, please?
+
+
+            Gaurav Rateria:           Hi. Congrats on good revenue performance. I have three questions. My first question is
+                                      on your confidence for upgrading the guidance in the current macro. And the reason I'm
+                                      asking is because your deal wins have been in that particular range, so within the same
+                                      deal win range, why upgrade of guidance or giving more confidence on the second half?
+                                      So, is that conversion ratio improving versus the past? Is that giving you more
+                                      confidence?
+
+
+                                      My second question is on pipeline. Historically, we have seen, Nitin, that pipeline has
+                                      been a lead indicator for your deal win numbers to inch up. You started building on
+                                      pipeline and deal win numbers eventually started to inch up with a lag. Now, given that
+                                      the pipeline is building up now, is it fair to say that some of that will start reflecting in
+                                      step up in the deal win numbers over a period of next two or three quarters?
+
+
+                                      And the last question is that where are we in the investment cycle on building these IPs
+                                      and deal archetype that we had talked about on Tria and other things? At some point in
+                                      time, will that investment phase plateau out and will that lead to margin accretion for the
+                                      company as a whole? Thank you.
+
+
+            Nitin Rakesh:             Thanks, Gaurav. I think the upgrade question linked to TCV, let me take it in two
+                                      different ways. As I mentioned in my script, the confidence is really coming from what
+                                      we have in the backlog combined with the pipeline and the deal propensity. And of
+                                      course, we've added some healthy revenue in-quarter in Q2 that gives us a starting base
+                                      from a run rate perspective. That is also reflected in the client addition, especially when
+                                      you see the client metrics of top five, top 10 and next 10. I think all of those metrics are
+                                      green. So, there's a fair amount of that run rate confidence that's coming in.
+
+
+                                      On the question around linking it to TCV, while the TCV has stayed in the $400 million
+                                      range, this is still a little bit higher than what we've had in the last three or four quarters,
+                                      as I mentioned in the commentary itself, it's not just the TCV that matters. The shape and
+                                      nature of the TCV matters as well when it comes to short-term growth and revenue
+                                      performance.
+
+
+                                      As I mentioned, if you look at just the trailing 12 months, there's a 26% increase in small
+                                      deal TCV. Even if you look at the pipeline, we've seen a disproportionate increase in the
+                                      less than $20 million TCV in the pipeline at 35%, when the overall pipeline is up about
+
+
+
+
+                                                                 Page 7 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      23%. So, what's happening is a fair amount of work and priority from clients is focused
+                                      on three areas right now.
+
+
+                                      First is all AI engineering work. Almost every large enterprise is very rapidly focused on
+                                      building the AI foundations, the AI harness, the AI infrastructure layer that will
+                                      effectively enable them to adopt AI at scale, and that's leading to a fair amount of work
+                                      in aligning and helping them design, build, deploy, and scale these harnesses and
+                                      foundations. Tria plays a role there as well because in many cases there's an opportunity
+                                      for us to help them expand their thinking on what the foundation should look like. So
+                                      that's the first bucket of work. Again, corroborated by headcount addition and growth in
+                                      applications and growth in top accounts. Not a phenomenon that's happening across client
+                                      segments, but definitely the more mature, the larger clients are spending a fair amount of
+                                      time, effort, and money. And these are typically the short-cycle deals. So, I'll give you
+                                      an example. A $10 million, six-month deal has the same propensity as a $100 million,
+                                      five-year deal when it comes to revenue growth.
+
+
+                                      Second thing that is in focus is kind of linked to the first one, is the whole investment
+                                      that is going into hardening the cyber estate. Also, fairly AI engineering led because it
+                                      isn't just about adopting a new AI tool or AI platform. It's also about hardening the way
+                                      that they deal with everything from detection to remediation and everything in between
+                                      from identity and access management, non-human identity, the Mythos, post-Mythos
+                                      world. So, there's a fair amount of engineering work that's going in there as well, and we
+                                      have a very strong positioning with that, including the work we've done in the post -
+                                      quantum cryptography side over the last few years that's starting to get monetized here
+                                      as well.
+
+
+                                      And the third thing that is driving the pipeline and the deal wins is what we used to call
+                                      Savings-led Transformation TM. And Tria has really strengthened that thesis where the
+                                      client's not just looking to save money, they're also looking to see how they can transform
+                                      the way they run the business. Both operations and IT. So, there are very many themes
+                                      of that. Vendor consolidation is the theme of that, right? But the outcome that the client
+                                      is looking for is savings and transformation combined together. So that's kind of what's
+                                      going on in the client side, and that's what's driving the pipeline and the TCV wins, but
+                                      the shape of those TCV wins is what's driving the confidence in revenue, and you've seen
+                                      that performance play out in the last two quarters.
+
+
+                                      Pipeline is definitely a lead indicator, as you mentioned, going to your second question.
+                                      Of course, at some point we see large deal conversion ramp up. So, are we expecting
+                                      TCV ramp up in the next two to four quarters? The short answer is yes, because we have
+                                      to obviously keep the conversion rate as high as it is or higher, and hence that will reflect
+                                      into some of those deals converting, but large deals by definition are lumpy. You can't
+                                      really put a finger on, say, this deal we close on this date, but as we continue to execute
+                                      the pipeline, I think we expect that the TCV numbers will stay healthy or inch up as well.
+
+
+                                      On the investment cycle for Tria and the IP buildout, I think it's too early to say that at
+                                      what point will we mature because the pace of change and the propensity of change is
+
+                                                                  Page 8 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      very, very fast. While we are not really focusing on trying to compete on the tool stack,
+                                      but we also have to make sure that everything we're doing from a Tria perspective across
+                                      the layers doesn't really get commoditized. So, we'll continue to invest at least for the
+                                      near future. As we see ramp-ups happening on adoption of Tria, we called out some - in
+                                      the shape of what's going on. You can definitely expect them. I think the impact of
+                                      enabling Tria-led delivery will definitely have a tailwind to margins more than just the
+                                      investment we're making in Tria. So, we are more focused on driving gross margin higher
+                                      through adoption of Tria versus driving margin higher by choking investment in Tria.
+
+
+            Gaurav Rateria:           All right. Thank you. All the best. I'll fall back in queue.
+
+
+            Moderator:                Thank you very much. Next question is from the line of Sandeep Shah from Equirus
+                                      Securities. Please go ahead.
+
+
+            Sandeep Shah:             Congrats on a good set of numbers despite difficult macro times. The first question, you
+                                      partly answered about Tria. So just wanted to understand, can you give some color in
+                                      terms of the revenue coming through Tria or outcome-based business model?
+
+
+            Nitin Rakesh:             I think a little bit premature, Sandeep, to give you that metric as we mentioned back in
+                                      May, that we will use FY27 as a foundational year to drive the right set of metrics. That's
+                                      the reason I expanded on where we are seeing the uptick and where we are se eing the
+                                      impact. So definitely the Tria-led opportunities are not just in the pipeline, they're also
+                                      in the deal wins. We have our first set of deployments going live as we speak. Remember
+                                      we launched the platform in May. We've already got first set of deployments going live.
+                                      So, we will definitely have really good, not just learnings but more importantly a set of
+                                      validated deployments that we can then scale. So little bit premature to give you
+                                      percentage of revenue or pipeline or TCV but we'll evolve those metrics over the next
+                                      two quarters and definitely create a list that we can share with you.
+
+
+            Sandeep Shah:             Okay. And just some bookkeeping question on the cash generation in this quarter. So,
+                                      Aravind, if I look at to achieve the guidance of 80% OCF to PAT, the second half ask
+                                      rate is very high, upwards of 100%/ 110% even if I adjust the $39.5 million collection
+                                      which got delayed from September to October. So, what will drive this?
+
+
+            Aravind Viswanathan:      So, you know Sandeep, if you look at it there has been a little bit of, our DSOs even on
+                                      a normalized basis have gone up by about 10 days. If you look at it between Q1 and Q2.
+                                      So, in many ways that is disappointing and we are trying to get that back. So, as we move
+                                      and get some of that back on trajectory; that is the basis for the improvement in cash flow
+                                      for the coming quarters.
+
+
+            Sandeep Shah:             Okay. And Aravind, if I look at last year payment for purchase consideration of acquired
+                                      contracts has been INR432 Cr while in this year first half it has been at INR143 Cr. And
+                                      your statement to normalize OCF to PAT in FY28, this could be a bigger contributor
+                                      where this kind of a payment for contract acquisition consideration may come down
+                                      materially next year versus this year?
+
+
+
+
+                                                                 Page 9 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                 Mphasis Limited
+                                                                                                               November 6, 2026
+
+
+            Aravind Viswanathan:      So, if you look at that actually goes below OCF if you are looking at it.
+
+
+            Sandeep Shah:             Sorry FCF.
+
+
+            Aravind Viswanathan:      So, you are right, but having said that - you know that we have announced one on Red
+                                      Oak which the closing conditions are expected to be concluded in November. So that's a
+                                      $28 million kind of commitment. So, to some extent, all of the deals in the table are
+                                      visible to you. So, I don't think it'll go up for sure. But it'll be lower, but how much lower
+                                      will be dependent on, how many deals we do. But right now, at least I think it's fair to
+                                      assume that it will be lower in FY28 than in FY27.
+
+
+            Sandeep Shah:             And the last question, in terms of margin, the first half margin is at the lower end of the
+                                      comfort range. How do we see the second half of the margin in terms of full year
+                                      guidance?
+
+
+            Aravind Viswanathan:      No, I think our guidance range - beginning of the year last year also has been 14.75% to
+                                      15.75%. I'm not really going to break down further within the range as to where we will
+                                      be for H1 and H2. You're right that we are around 14.8% and we've talked about some of
+                                      the investments that have really set down. So, if you look at it, we made an acquisition
+                                      for Tria with TAP and that has certain amortization cost that has come in this year. We've
+                                      seen a stronger growth momentum, especially in short cycle deals where there is a
+                                      significant shift towards onsite. Particularly with these AI programs where the initial
+                                      portion of the business starts onsite. We've seen a big shift in onsite mix. So, some of
+                                      those have put stretch on margins and frankly, we will have to make those investments
+                                      for growth. So that is where we are. We remain committed to the guidance range. And I
+                                      will leave it at that.
+
+
+            Nitin Rakesh:             Sandeep, just to put it in perspective, when Gaurav asked me that question around what
+                                      gives us the confidence to drive growth and upgrade the guidance? I think we are sitting
+                                      at the intersection of some of these really interesting, large enterprise programs. And if
+                                      we have to capture that wallet share, I think we are making sure that we have the ability
+                                      to optimize and, monetize every opportunity that we see on the table. And if that means
+                                      that we are not at the ideal midpoint of the margin range, we have more control on
+                                      normalizing that than leaving revenue on the table. So that's kind of the mindset, while
+                                      we continue to invest in building IP and investing in both coverage, sales and platforms.
+                                      So, I think all-in-all we'll continue to prioritize growth. Margins are something we can
+                                      absolutely fix because that's more of an optimization exercise that can happen internally,
+                                      but growth is really what is client dependent and that's where our focus is.
+
+
+            Sandeep Shah:             Thanks. Got it. Fair enough. All the best.
+
+
+            Moderator:                Next question is from the line of Vibhor Singhal from Nuvama. Please go ahead.
+
+
+            Vibhor Singhal:           Thanks for taking my question and congrats on the solid performance yet again , Nitin
+                                      and team. So, there's a couple of questions from my side, mainly on the AI cycle and then
+                                      one on the portfolio. If you look at the commentary by various players, I think there are
+
+
+                                                                Page 10 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      two very different kind of commentary that we are hearing. One is of course a lot of
+                                      vendors are focusing on consolidation deals. But there have also been pockets in which
+                                      vendors have mentioned that the new AI deals are smaller in size and in value and they
+                                      basically are kind of get a foot in the door kind of deals with the client. And then once
+                                      the deal gets over, the client renews that deal and gives you more work. But that basically
+                                      impacts the overall TCV number in terms of the deal sizes. So, are we also seeing that
+                                      our deals wins and if that's the case, which kind of deals are we focusing on? Which do
+                                      you think is going to drive the market going forward?
+
+
+                                      And the second question again on the AI part is we've seen the token cost come down
+                                      almost 50% in the past six months. So, in your conversation with the clients, is that kind
+                                      of helping vendors like us, as in it frees up the money that the client was kind of spending,
+                                      as you mentioned, outside the IT budget. So, it frees up that budget and does that help us
+                                      in any way? If not today, then tomorrow? Just your view on these two things?
+
+
+            Nitin Rakesh:             Sure, Vibhor, both are great questions. I think the way to think about AI-led deals is in
+                                      two buckets. One I addressed when I answered to Gaurav as well earlier that we are
+                                      seeing an uptick in short cycle, short burst deals because there's a lot of AI engineering
+                                      activity that's going on, whether it's around data mod, whether it's around building the
+                                      harness or cyber. That's one category of AI-led deals where you have the propensity to
+                                      capture in-year budget, immediate spend patterns because those are highly prioritized,
+                                      time sensitive programs.
+
+
+                                      The other way to capture AI-led deals is essentially through a combination of what I call
+                                      Savings-led Transformation, which is AI infused with operations. And those deals are
+                                      not necessarily small deals. Vendor consolidation is one instantiation of those kind of
+                                      deals. Not every deal that we have that is AI-led is an RFP or a vendor consolidation deal
+                                      because there is new TAM, we are opening up there as well. But there are deals here in
+                                      our pipeline that are vendor consolidation deals where the theme of AI-led
+                                      transformation, driving savings is very much alive as well. So those are not necessarily
+                                      small deals. The propensity and the ability to win those deals depends on three or four
+                                      things. The ability to drive that kind of transformation with AI, number one. Number
+                                      two, meeting the financial objectives of the client has set out. And number three, of
+                                      course, there is an element of deal structuring and, making sure that it works for both
+                                      parties. And of course, those kind of deals are highly competitive because everyone,
+                                      especially the large players are very happy to use their balance sheet to drive some of
+                                      those deal structuring cycles. We have to obviously be very, very cautious in how far we
+                                      go. But when it comes to capability, when it comes to AI-led transformation with
+                                      operations and IT, I think we are very much in the mix, and we'll continue to drive
+                                      pipeline and closures.
+
+
+                                      On the second question around token cost, I think we predicted the token costs will
+                                      continue to go down. I think they will go down even more. That absolutely releases some
+                                      pressure from the enterprises on where their AI investment is going. But that's a di fferent
+                                      category than tapping into a new segment that our industry wasn't playing in earlier. The
+
+
+
+                                                                 Page 11 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                               Mphasis Limited
+                                                                                                             November 6, 2026
+
+
+                                      traditional BPO business had a very defined boundary around it. With this kind of an
+                                      approach where we are doing, reimagining the business, we are able to penetrate things
+                                      that were not traditionally seen as BPO able. So, those are the two different buckets that
+                                      we are seeing. But absolutely your answer is right. Releasing a pressure on token costs,
+                                      adopting these programs at scale, building some real smart intelligence and scientific
+                                      way of managing what workload goes to which language model to optimize token costs,
+                                      all of those things will, will become part of the harnesses I talked about. And that's the
+                                      phase we are in right now.
+
+
+            Vibhor Singhal:           Got it. Thank you so much for that. Just one last question on the Logistics vertical. How
+                                      to look at this vertical hereafter? I mean the vertical continues to decline even after the
+                                      top client issue that we had seen last year. It's now less than 4% of our revenue.
+                                      Historically, what we have seen earlier with DXC and later with the mortgage business,
+                                      that once those business started declining, they never recovered and then they became
+                                      too small to become relevant in the larger scheme of things. Is that the way to look at
+                                      Logistics vertical also? Today it is less than 4% of revenue, maybe a few quarters down
+                                      the line it becomes 2% to 3% and then we stop looking at it altogether in terms of any
+                                      revival in this segment.
+
+
+            Nitin Rakesh:             I would not compare the Logistics trajectory to what happened with the other two units
+                                      that you mentioned. I mean mortgage business is still very much part of our overall value
+                                      proposition in BFS. It is cyclical in nature. I don't think it's about structurally us
+                                      disinvesting from that business or moving away from saying that we will take this
+                                      offering. I think the way to think about the Logistics business is that we've seen some
+                                      headwinds over the last five or six quarters. We've done a fair amount of effort, and we
+                                      continue to do a fair amount of effort in rebuilding the foundations for that vertical. The
+                                      nature of customers is still very much enterprise and top tier. We have some best brands
+                                      in the business in that vertical already that we are working with a cross Airlines,
+                                      Transportation and Logistics. I think we have to do whatever it takes for us to continue
+                                      to find pathway around expansion of wallet share. There are already clients where we are
+                                      top two, top three providers. They're not quite at the scale where we think the potential
+                                      is. So, we may have a $20 million a year customer in that vertical that we think can go
+                                      to $50 million, $60 million, $80 million or $100 million as well. So, I think we are very
+                                      much committed to that vertical. It's an execution and maturity phase that we are try ing
+                                      to drive out of that business. So, I would not compare them to us getting disinterested
+                                      and it falling by the wayside. If anything, we are actually making even bigger investments
+                                      in some of these accounts because our account motion that has worked very well across
+                                      other verticals is working here as well.
+
+
+            Vibhor Singhal:           Got it. Great. Thank you so much for taking my questions and I wish you all the best.
+
+
+            Moderator:                Next question is from the line of the Dipesh Mehta from Emkay Global. Please go ahead.
+
+
+            Dipesh Mehta:             Thanks for the opportunity. A couple of questions. First about how many clients let's say
+                                      might have adopted Tria. You said revenue difficult, but can you give some sense about
+                                      let's say how the client traction is playing out and among our top 20, top 40 how many
+
+                                                                 Page 12 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                Mphasis Limited
+                                                                                                              November 6, 2026
+
+
+                                      clients where we have already some inroad in adoption? Second question is about the
+                                      furlough. How you expect furlough to play out in this year? Maybe if you can give
+                                      relative comparison or absolute, whichever you can give some sense on it. Third question
+                                      is about the cybersecurity practice. Can you give some sense about size and scale of our
+                                      cybersecurity practice and how it is growing in terms of revenue trajectory perspective?
+                                      And last is about the short-term tenure deal. We are seeing significant improvement
+                                      compared to earlier trajectory. How to interpret that from revenue conversion
+                                      perspective? Earlier we used to give some correlation between revenue and TCV,
+                                      considering we are seeing some shift in terms of the n ature of deal, how one should
+                                      expect revenue trajectory compared to TCV reported. If you can give some growth sense
+                                      around that metric. Thanks.
+
+
+            Nitin Rakesh:             On the first question Dipesh around how many clients have adopted Tria? I think it's too
+                                      early for us to give you an exact number because as I said we are in phase where we have
+                                      live deployments that are undergoing as we speak. But all I will tell you is that it is not
+                                      just one client, it's a multiple number of customers and they are across verticals. As we
+                                      scale those from initial deployments to multiple different lines of businesses or replicate
+                                      what we built as foundation to additional businesses within the client, we'll have a better
+                                      idea of what the size, potential and revenue shape will look like for Tria platform. So, be
+                                      a little bit more patient. I don't think we can we are ready yet to share any metrics or
+                                      numbers. One it's too premature and two, there is work to be done in making sure that
+                                      we are well established to drive that on a sustainable basis. I’ll let Aravind answer the
+                                      question on furlough and short-term deals and the correlation that you asked me.
+
+
+                                      But on the cyber practice - we are not a very big cyber operations shop but we definitely
+                                      have a fair amount of work that we do in areas like our identity and access management
+                                      as well as we have a cyber fusion center that we launched in our ODC two or three years
+                                      ago that has become the foundation for us to do a lot of work there. But the real interesting
+                                      work that we are doing in cyber really happens to be around the AI enablement of the
+                                      entire cyber ops and vulnerability operation side. And of course, I mentioned the post-
+                                      quantum cryptography capability that we built that is now sitting right in the middle of
+                                      that as well. So, it sits in our apps business more than anything because in the end all the
+                                      work we are really doing is around application remediation, and IAM. It's a fast-growing
+                                      business. I don't think we will break it out. We are not breaking out anything by service
+                                      line outside of APPS, BPO and ITO. As we reset some metrics for FY28, we may think
+                                      about giving some additional color on it. But at this point absolutely a fast-growing
+                                      business driven primarily in the apps bucket. Aravind, you want to answer on furlough ?
+
+
+            Aravind Viswanathan:      Dipesh, on furlough, right now nothing to call. Historically we've seen about 2% kind of
+                                      impact at an organization level of furlough. That's really been what we've seen. Right
+                                      now, as we stand, we have no reason to believe it's going to be different this year. So,
+                                      there is nothing to comment. Obviously, a lot of work happens on furlough mitigation
+                                      and finalization in December, and fingers crossed we will have to see how that plays out.
+
+
+
+
+                                                               Page 13 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                   Mphasis Limited
+                                                                                                                 November 6, 2026
+
+
+                                      As far as correlation of deal cycle is concerned. When there is a shift in terms of intensity
+                                      on a TCV basis between long tenure and short tenure, you can do more growth with lesser
+                                      absolute TCV. So, in a way it kind of takes correlation out of whack because you would
+                                      find that maybe last year we had much larger TCV in Q1, Q2 compared to this year, but
+                                      our growth trajectory is actually better this year than last year. And that's because the
+                                      TCV to ACV conversion changes. And that's really not factored in the correlation
+                                      between TCV and revenue growth. Which is why, that metric kind of becomes a little off
+                                      key when there is such a sharp shift in the nature of TCV won. So, you've seen an
+                                      acceleration on revenue growth, Nitin talked about confidence for H2 which resulted in
+                                      us upping the guidance and that has happened without necessarily a big uplift in TCV
+                                      but consistent TCV growth of, $400 million plus. So that's really wh at has happened,
+                                      Dipesh.
+
+
+            Dipesh Mehta:             Thank you.
+
+
+            Moderator:                Next question is from line of Prateek Maheshwari from HSBC Securities. Please go
+                                      ahead.
+
+
+            Prateek Maheshwari:       Hi. Thank you for the opportunity. I have a follow up question on the operating margins.
+                                      So, I just wanted to understand particularly for the deals that were Savings-led
+                                      Transformation. Basically, I think that you guys have been ahead on these and my
+                                      understanding was that these deals would have lower margins initially than your average
+                                      and improve as you apply in delivery and later turn the work more IP or platform led. So,
+                                      I just wanted to understand, do you see that we are at a point in many of such ongoing
+                                      deals which can soon provide a tailwind to margin expansion.
+
+
+            Nitin Rakesh:             Prateek, the thesis you're mentioning is the right thesis. That's the right way to think
+                                      about it. The only caveat I will make to that is, there is likely to be a steady stream of
+                                      deals of that nature. So, while we normalize and apply transformation and automation to
+                                      a deal that we would have signed in Q1 or Q4, there is a pipeline of such deals that will
+                                      continue to run through and which will mean that, we need the ability to continue to
+                                      apply that to the next set of deals. But as we accumulate a bunch of these deals and the
+                                      platform gets deployed and matures in steady state, that's absolutely when the target, the
+                                      margin tailwind will start showing up.
+
+
+                                      Just to give you another data point that substantiates it, if there is a Tria-led or a platform-
+                                      led Savings-led Transformation deal, the sold margin shape is actually likely to be
+                                      different than the traditional sold margin that we've seen in the previous year. So that's
+                                      kind of the way to think about it. But will it show up immediately in Q3 or Q4? It's hard
+                                      to tell because we are still building pipeline and deals and deploying the platform.
+
+
+            Prateek Maheshwari:       Thanks, Nitin. Just one more question around the TCV. So, just comparing your TCV
+                                      explanation and also the guidance increase on the revenue. While the new deal wins are
+                                      very similar to what was the average for the last four quarters , is it the short cycle deal
+                                      which will probably improve the revenue conversion and so like overall the deal wins are
+                                      still better than even the average?
+
+
+                                                                Page 14 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                   Mphasis Limited
+                                                                                                                 November 6, 2026
+
+
+            Nitin Rakesh:             I think it's a combination. It's not just the short cycle deals that are converting better. It's
+                                      even the TCV sold even in larger deals. There was a period of time where conversion
+                                      took time, especially middle of FY 2026 or late 2026. But at this point the conversion
+                                      seems to be pretty robust and nothing else to call out for in saying that there is a delay.
+                                      Of course, decision cycles are not easy especially for long term deals given the fair
+                                      amount of complexity our clients are dealing with when it comes to making those
+                                      decisions in the uncertainty - there's a fair amount of AI noise and the speed of change
+                                      also scares the customer from committing. But that aside, I don't think there's anything
+                                      else to call out from a conversion slowness. If anything, that steady conversion rate has
+                                      really helped us deliver the numbers that we delivered.
+
+
+            Prateek Maheshwari:       Right. And Aravind, just as these short cycle deals become more in the overall deal win s,
+                                      I understand that in the larger deals probably it, it had some of the larger investments on
+                                      the cash side. So as that mix changes, do you think that drives more confidence on the
+                                      cash conversion later on?
+
+
+            Aravind Viswanathan:      You're right. That's a fair point. You will not have any kind of concern. Having said that,
+                                      I don't think in this year we've had any deals which has necessitated a big cash investment
+                                      from our side. We've done $900 million plus of net new TCV in H1. I don't think any of
+                                      those deals really had a material kind of cash flow investment. I think we did that in a
+                                      meaningful way in FY26 and some of that impact is playing out in FY27. Which is why
+                                      even from a commentary standpoint we expect FY28 to go back to historic levels. A
+                                      combination of both pickup in these short cycle deals as well as the other large deals like
+                                      what Nitin mentioned where we didn't really have to make this kind of investment.
+
+
+            Prateek Maheshwari:       Okay, thank you so much. Those are my questions I'll pull back in the queue.
+
+
+            Moderator:                Thank you. Next question is from Aditi Patil from ICICI Securities. Please go ahead.
+
+
+            Aditi Patil:              Thank you for the opportunity. The first question is - you mentioned about the large deal
+                                      with the large broker which also has a recurring revenue sharing model. So how big or
+                                      how large could be that revenue sharing component in the mature phase? And what could
+                                      be the margin profile of this revenue sharing component? Will it be similar to the IP
+                                      margin profile? And do you see more such outcome-based revenue sharing deals in your
+                                      pipeline today? Second question is on the top client. We have seen a strong sequential
+                                      and YoY growth in our top client. What has driven this growth, and do you expect the
+                                      run rate with top client to sustain? And my last question is on the TMT vertical for the
+                                      last few quarters we are seeing a good growth in this vertical. Can you share the client
+                                      subsegments we are serving within this vertical? Like which kind of clients and what
+                                      type of work we are doing is driving growth for us because several industry peers have
+                                      flagged slower spends from Tech clients as they prioritize AI capex and how durable is
+                                      this growth outlook for the TMT vertical?
+
+
+            Nitin Rakesh:             Thanks Aditi. I think on the deal where the outcome-based deal where we talked about a
+                                      revenue share, I don't think it is appropriate for me to share the details given competitive
+                                      intensity. I think there is a certain effort that has gone into constructing a deal of that
+
+
+                                                                Page 15 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                 Mphasis Limited
+                                                                                                               November 6, 2026
+
+
+                                      nature. A lot of our peers have talked about outcome-based deals but, they are really
+                                      recasting output-based deals as outcome-based deals. So let the model mature. As we
+                                      have more, examples to share at some point we will talk a little bit more about it. But it's
+                                      a percentage of revenue share. In a way this is an alignment to the growth initiative of
+                                      the broker dealer. This is not on the cost side and the reason for that is that they felt that
+                                      capacity constraint in servicing the broker dealer network, especially middle and back
+                                      office, without having a strong tech platform capability was what was constraining their
+                                      growth. And hence they have aligned incentives on both sides, and we worked hard at
+                                      making sure that we have the ability to give them the scale, the speed and the efficiency
+                                      that they need in onboarding and servicing these new advisors on their network. So it's
+                                      as interesting deal. It's definitely one of the five large deals that we've announced in the
+                                      quarter. It is, on the larger side. We’ve made some estimates on where we think we can
+                                      end up with that, over the next five years or so. It definitely has the potential to be bigger
+                                      than what we've estimated it to be. But right now, it's too early for us to call. We’ve
+                                      already operationalized it. We need to kind of stabilize it and get to a rhythm and see we
+                                      can follow the growth pattern - as they grow, we grow.
+
+
+                                      On top client, I think it's not fair to answer a client specific outlook. We are very happy
+                                      that we've grown top five, top 10 and next 10 clients very well, next 20 in fact. As I
+                                      mentioned earlier, wherever we see opportunity, we have the ability and the trust with
+                                      those clients to be able to monetize those opportunities short term and long term. Given
+                                      that many of our top clients are sophisticated large buyers, I think I'm ver y proud of the
+                                      fact that the teams continue to become very large provider and partner to those clients
+                                      and hence we've seen that kind of execution show up consistently in the last few quarters
+                                      in that segment.
+
+
+                                      TMT is an interesting one. We have three or four sub-segments in that, there's device
+                                      makers, given our heritage of ownership, we have a very strong footprint in R&D as well
+                                      as driving product engineering work there. We do a fair amount of work on the embedded
+                                      software side. Second sub-segment is Hi-tech. Think of all the big tech names. That's a
+                                      client segment. It was small, it's starting to grow. A lot of potential to grow. Our
+                                      positioning there isn't that of a scaled provider with rate cards. We are trying to make
+                                      sure that wherever we go in we have the ability to differentiate and find our own
+                                      capability and specialization. The third sub-segment there is Telecom. We've seen rapid
+                                      expansion in that segment with some clients breaking into our top 10 client category.
+                                      Driven again by the fact that they see us as a refreshing transformation -led software
+                                      engineering partner versus many of the incumbents that they've been dealing with and
+                                      the usual names that used to service that sector. And the fourth segment there is still
+                                      small, but we'll continue to find ways to expand our book of business with the ISVs. So,
+                                      I would say in that order, device makers, Telecom, High tech companies and ISVs are
+                                      the four sub-segments in TMT. Given the track record, not just of the last two quarters,
+                                      but of the last three years in that segment, I think there is a significant opportunity for us
+                                      to continue to make that bigger. It's already the second biggest vertical after Banking,
+                                      close to Insurance size, but very happy with the performance of that unit.
+
+
+
+
+                                                                Page 16 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                 Mphasis Limited
+                                                                                                               November 6, 2026
+
+
+            Aditi Patil:              Okay, got it. Thank you for answering my question.
+
+
+            Moderator:                Next question is from Kumar Rakesh from BNP Paribas Mutual Fund. Please go ahead.
+
+
+            Kumar Rakesh:             Hi. Thank you for taking my question. My question was around the free cash flow during
+                                      the quarter. So usually, the visibility on free cash flow in a contractual business is much
+                                      higher than that would be on revenue, especially when we are talking about it in terms of
+                                      as percentage of PAT. So, the last two quarters, this increased level of uncertainty and
+                                      the volatility around free cash flow is a little difficult to understand. We started the year
+                                      with talking about 80% OCF to PAT conversion. Last quarter we spoke about that for the
+                                      rest of the year it would be improving and within a quarter it turned into negative. So,
+                                      what exactly is driving this increased level of uncertainty? Is there any fundamental
+                                      change in the way we are doing business by going into outcome-based model pricing and
+                                      the commitments? I'm just trying to figure out that cash flow for a contractual business
+                                      in a service industry should not be this volatile. It could be understandable for an
+                                      industrial company, but not for a services.
+
+
+            Nitin Rakesh:             No, I understand. Rakesh. I don't think there is any structural shift, and I don't think it is
+                                      linked to any outcome-based deals. We talked about normalized cash flow that spilled
+                                      from 30th to 1st, cash in transit is no longer allowed as OCF in terms of the way we do
+                                      this. So, if you normalize for that, the cash flow is actually in the range we expected it
+                                      to be. The only reason I stepped in is I don't think you should link that to any structural
+                                      change or any contractual decision. Yes, there is an execution rigor that we need to
+                                      continue to drive. And as Aravind said, it was disappointing to us as well that we spil led
+                                      over. On the rest of the year, Aravind you can just reiterate what you mentioned earlier ?
+
+
+            Aravind Viswanathan:      I’ll just make a point. In a contractual business, forecasting revenues are always easier
+                                      than forecasting cash flows. If you look at across the industry, quarterly fluctuations in
+                                      cash flows by a margin are much more frequent than on revenue. So, hypothesis wise,
+                                      because of days changes cash flow significantly. Revenue for example, doesn't have the
+                                      same volatility that cash flow has. But cash flow normalizes over a period of time. And
+                                      that really is what is happening here. So, what we've said is that we've made certain
+                                      investments from a deal standpoint in last year which is kind of playing out in FY27 also.
+                                      And that is why we've seen a little bit of reduction in our cash flow conversions from
+                                      historic levels. And our commentary is such that, for FY28 we will go back to our historic
+                                      levels of cash flow generation. So, I don't think volatility is uncommon in cash flow,
+                                      even in IT services. But I think from a year basis you will not see that kind of volatility.
+                                      And frankly this quarter was very, very extreme situation. Not seen very often of almost
+                                      $39 million initiated on 30th, some challenge which is coming with value date of 30th
+                                      but hitting our bank account on 1st. That's actually a pretty anomaly, event. So, it won't
+                                      happen very often or happen at all.
+
+
+            Kumar Rakesh:             Even for the full year, it looks like there would be a sharp decoupling between what your
+                                      top-line growth would be and what your OCF or FCF growth would be. So, I'm just trying
+                                      to understand that going forward as well. While we are accelerating our growth and which
+                                      has been quite remarkable in the last four quarters, we are starting to see on the margin ,
+
+                                                                Page 17 of 18
+
+Docusign Envelope ID: 783C3A27-8D91-8DBD-8038-5B3411D9F742
+
+                                                                                                                 Mphasis Limited
+                                                                                                               November 6, 2026
+
+
+                                      in the last couple of quarters that has come down to the lower end of our guidance range
+                                      and that is understandable. All the companies are making investment, and we should be
+                                      doing that at this point. But the impact on cash flow and not having full visibility on
+                                      where it ends for the full year, it just makes me a little worried. Is that how we are looking
+                                      at converting all the growth that we are generating into cash?
+
+
+            Nitin Rakesh:             Again, Aravind gave you a good roadmap and path out. Let's just continue to follow that
+                                      path over the next two quarters and FY28. So, I think as we normalize it to normal levels
+                                      in '28, none of this will be a concern because we are not worried about it.
+
+
+            Kumar Rakesh:             That's good.
+
+
+            Moderator:                Thank you very much ladies and gentlemen. We'll take that as a last question. I'll now
+                                      hand the conference over to Mr. Nitin Rakesh for closing comments.
+
+
+            Nitin Rakesh:             Thank you. Neerav. Let me close with what I said last quarter. We are not in the business
+                                      of chasing AI trend cycles. We are building the capability that makes AI adoption at scale
+                                      real for large enterprises. AI-led business modernization and business reimagination are
+                                      now clearly emerging as themes that drive pipeline and wins, unlocking budgets beyond
+                                      the technology function and widening the set of problems we can solve for clients. We
+                                      organized our people and our offerings to deliver that at scale and today's guidance
+                                      reflects our confidence in it. Thank you all for joining the call today, just ahead of
+                                      Dhanteras and Diwali. Wishing you, your teams and your families a joyful Diwali and
+                                      steady growth in the year ahead. We are grateful for your trust and continued association
+                                      and look forward to growing together in the years ahead.
+
+
+            Moderator:                Thank you very much. On behalf of Mphasis Limited, that concludes this conference. If
+                                      you have any further questions, please reach out to the Mphasis Investor Relations at
+                                      investor.relations@mphasis.com. Thank you for joining us, and you may now disconnec t
+                                      your lines. Thank you.
+
+
+
+
+                                                                Page 18 of 18
+

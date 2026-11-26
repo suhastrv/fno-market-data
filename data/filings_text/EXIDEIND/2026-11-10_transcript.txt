@@ -1,0 +1,1222 @@
+                                                                                               &EXIDE
+
+Ref no.: EIL/SEC/2026-27/52
+
+I O th November 2026
+ The Secretary                                                      The Secretary
+ The Calcutta Stock Exchange Limite_d                               BSE Limited
+ 7 Lyons Range                                                      Phiroze Jeejeebhoy Towers
+ Kolkata - 700 001                                                  Dalal Street, Mumbai - 400 00 I
+ CSE Scrip Code: 15060 & 10015060                                   BSE Scrip Code: 500086
+ The Secretary                                                      -
+ National Stock Exchange of India Limited
+ Exchange Plaza, 5th Floor,
+ Plot no. Cl l, G Block
+ Bandra-Kurla Complex, Bandra (E),
+ Mumbai - 400 051
+ NSE Symbol: EXIDEIND
+
+Sub: Transcript of the Earnings Call of Q2 FY 2026-27
+
+Dear Sir/Madam,
+
+This is in furtherance to our letter dated 05th November 2026 wherein the Company had submitted
+the link of the audio recording of the Earnings Call held for Q2 FY 26-27 business update.
+
+Pursuant to the Regulation 30 read with Part A of Schedule III of the SEBI (Listing Obligations
+and Disclosure Requirements), Regulations 2015, please find enclosed the transcript of the said
+earnings call, for your information and records.
+
+The transcript of the earnings call is also available on the Company's website at
+http ://ww,. .exideindustrie .com/inve tor /earning -call.asp,.
+
+We request you to kindly take the same on record.
+Thanking you.
+
+Yours faithfully,
+For Exide Industries Limited
+                      Digitally signed by JITENDRA
+JITENDRA KUMAR KUMAR MOHANLAL
+MOHANLAL       Date: 2026.11.10 12:35:10
+               +05'30'
+
+Jitendra Kumar
+Company Secretary and
+President- Legal & Corporate Affairs
+ACS No. 11159
+Encl: as above
+
+
+
+             Exide Industries Limited, Exide House, 59E Chowringhee Road, Kolkata-700 020
+             Phone: (033) 2302-3400, 2283-2171, 2283-2118
+             e-mail : exideindustrieslimited@exide.co.in, www.exideindustries.com
+             CIN: L31402WB1947PLC014919
+
+       “Exide Industries Limited
+Q2 FY27 Earnings Conference Call”
+         November 05, 2026
+
+
+
+
+   .
+
+
+
+
+               Page 1 of 19
+
+                                                                                      Exide Industries Limited
+                                                                                          November 05, 2026
+
+Moderator:      Ladies and gentlemen, good day and welcome to Exide Industries Limited Q2 FY27 Earning
+                Conference Call. As a reminder, all participant lines will be in the listen-only mode, and there
+                will be an opportunity for you to ask a question. Should you need assistance during the
+                conference call, please signal an operator by pressing star, then zero on your touchtone
+                telephone. Please note that this conference is being recorded.
+
+
+                I now hand the conference over to Mr. Raghunandhan from Nuvama Wealth Management.
+                Thank you, and over to you, Mr. Raghu.
+
+
+Raghunandhan:   Thank you, Sid. Good afternoon and Happy Diwali to everyone. From Exide Industries, we have
+                with us MD and CEO, Mr. Avik Roy; Director Finance and CFO, Mr. Manoj Kumar Agarwal;
+                President Legal and Corporate Affairs and Company Secretary, Mr. Jitendra Kumar, and Head
+                of Investor Relations, Mr. Prashant Saraswat. Before we proceed, here is a disclaimer for the
+                call. Few statements by the company's management in the call may be forward-looking in nature,
+                and we request you to refer to the disclaimer in the earnings presentation for further details.
+
+
+                We will start the call with brief opening remarks from the management, followed by Q&A
+                sessions. I would like to congratulate the entire management team for robust results, and
+                especially Mr. Avik Roy and Mr. Pravin Saraf for commissioning of 6 GWh lithium cell giga
+                factory at Bengaluru. I now invite Mr. Avik Roy for opening remarks. Over to you, sir.
+
+
+Avik Roy:       Thank you, Raghu. Good afternoon, ladies and gentlemen, and a warm welcome to you all to
+                the Exide's quarter two earnings call. Just to add, our MD and CEO, Pravin Saraf, for the
+                Lithium-Ion Project is also on call, in addition to the participants mentioned before. Today, I
+                will cover how the market shaped up in quarter two, our business performance in quarter two,
+                and the commissioning of our lithium-ion cell plant at Bengaluru, before closing with the near
+                and mid-term market outlook.
+
+
+                Overall, the demand held up well across our addressable markets during the quarter two. The
+                affordability gains from GST rationalization supported the automotive demand, aided by healthy
+                replacement market. Festive season buying has started, creating further demand since the end of
+                the quarter. Vehicle registrations data of Vahan bears this out. Registrations rose by 1.3 million
+                year-on-year for two-wheelers, which is an increase of 32%, and 0.3 million year-on-year for
+                passenger vehicles, which is an increase of 27% year-on-year in quarter two. Partly on a soft
+                base, last year's quarter two was pretty low, as buyers held back last year September purchases
+                ahead of GST 2.0 implementation. Electric two-wheelers reached 11.6% of the two-wheeler
+                retail in September, which is directly relevant for our lithium-ion business.
+
+
+                We expect that two to three years from now, this automotive OEM demand will translate into
+                aftermarket demand, for which we are getting prepared. Some of the new capacity expansions
+                announcements by major OEMs are also encouraging us in this direction. Solar and infra push
+                by the government is likely to drive our solar and stationary storage business in a big way. Now
+                turning to company's performance.
+
+
+                Standalone revenue for quarter two was INR5,026 crores, which is up 20.3% year-on-year. The
+                growth momentum of quarter one carried into quarter two, taking our half-yearly revenue to
+
+                                         Page 2 of 19
+
+                                                                     Exide Industries Limited
+                                                                         November 05, 2026
+
+INR10,331 crores, up by 18.9% year-on-year. This is the first time we have crossed INR10,000
+crores revenue milestone in half year. Input costs remained elevated vs last year due to prolonged
+geopolitical challenges, especially across West Asia, as well as a weaker rupee.
+
+
+Crude oil prices went up significantly, resulting in an overall inflationary environment. On a
+sequential quarter basis, the full benefits of softer lead or softer LME for lead and antimony
+prices could not be fully realized due to continuous weakening of rupee against the U.S. dollar.
+The company undertook various cost optimization initiatives to absorb this cost pressure. Further
+calibrated price increases and volume-led growth enabled the EBITDA margin expansion on a
+year-on-year basis.
+
+
+EBITDA came in at INR606 crores, up 53.6% year-on-year, and EBITDA margin improved to
+12.1% from 9.4% in the quarter two, resulting in an expansion of about 270 basis points on a
+low base. Last year's base of quarter two was pretty low for us. That also helped us. As you
+know, last year's quarter two was extraordinarily impacted by the sudden pre-GST 2.0-led
+demand slowdown, where we had to ramp down production to improve capital efficiency, and
+that had led to certain under absorption in our operations.
+
+
+For half year, EBITDA margin was 12.2%, up 130 basis points year-on-year. Half year pre-tax
+profits grew by 46.5% year-on-year. The balance sheet remains strong. We continue to be debt-
+free and generate healthy operating cash flows. Let me take you through a bit deeper in the
+business insights for the quarter two of 2027.
+
+
+The automotive OEM business grew by over 25% for the fourth consecutive quarter, as vehicle
+makers stepped up production and dispatches. We gained high share across key upcoming OEM
+launches, the new launches, for example, MG Hector Tomahawk, and Tata Aeris.
+
+
+The two-wheeler and four-wheeler replacement business delivered its fourth consecutive quarter
+of double-digit growth, helped by a steadily expanding vehicle parc and the reach of our
+distribution network. Home inverters grew by 20% year-on-year, while solar grew by 40%+,
+supported by the favourable seasonal demand as well as the government initiatives, including
+the PM Surya Ghar Yojana. Exports grew by over 20% year-on-year for the second consecutive
+quarter on a low base.
+
+
+We have informed you in the past that last year, the exports business went through a deep decline
+because of global issues, and that is why on a low base, we have delivered 20% growth for the
+second consecutive quarter. This reflects our sustained efforts on geographic expansion and new
+product introductions. In September, we signed a long-term strategic cooperation agreement
+with the ExCom Energy Solutions GmbH, Germany. This is to expand our industrial battery and
+energy storage business across the European Economic Area.
+
+
+Industrial infrastructure, excluding telecom, grew by a high- single digit, supported by the
+industrial UPS as well as the traction motive power business. However, government tenders,
+mainly railways and power sector segment, continued to remain muted during the quarter.
+
+
+
+
+                         Page 3 of 19
+
+                                                                                      Exide Industries Limited
+                                                                                          November 05, 2026
+
+                I would also like to touch upon the progress made through our ‘One Exide' operating model,
+                which we have been communicating to the market for the last couple of years. This is an effort
+                to bring the full strength of the organization together. We are increasingly sharing assets across
+                businesses, combining our lead-acid market reach with emerging lithium-ion capabilities, and
+                building a common digital engine across key functions.
+
+
+                These actions have already unlocked substantial amount of additional four-wheeler battery
+                capacity through which we are able to meet both the OEM as well as the aftermarket demand
+                concurrently. This has accelerated the scale-up of our go-to-market of our lithium-ion last-mile
+                solutions and improved productivity across the organization. Together, these initiatives are
+                helping us to operate as one integrated company with a sharper customer focus, greater market
+                outreach, and of course, last but not the least, much more efficient use of capital.
+
+
+                Let me share an update on Exide Energy Solutions, our wholly owned subsidiary for lithium-
+                ion cells. 23rd September was a milestone for us. Exide Energy completed commissioning of 6
+                GWh of lithium-ion cell plant in Bengaluru. In coming quarters, our focus is on stabilizing the
+                lines and lifting the yields and ramping up the revenue. Customer qualification is progressing.
+
+
+                We expect approvals from a few OEMs and telecom players in the near term. With E2-wheelers
+                now close to 12% of the two-wheeler retail, this opportunity is growing. As of today, Exide's
+                cumulative equity investment in EESL stands at INR5,352 crores, including INR550 crores
+                invested in the current financial year. With this, I close my opening remarks. Over to you,
+                Raghunandhan. We can now proceed with the Q&A.
+
+
+Moderator:      Thank you. We will now begin the question and answer session. The first question comes from
+                the line of Raghunandhan from Nuvama Wealth Management. Please go ahead.
+
+
+Raghunandhan:   Congratulations again, sir. Thank you for the detailed opening remarks presentation and also
+                thanking the support of investor relations team. My first question is on the lithium business to
+                Mr. Avik Roy and Mr. Pravin Saraf. On the lithium cell line, can you indicate how has been the
+                response from customers on the cell sample acceptance? What is the progress for auto wins in
+                both NMC and LFP lines? Can you highlight opportunities in auto, BESS, telecom, and other
+                segments over the next two, three years?
+
+
+Avik Roy:       I will take the first part of the question, Raghunandhan, and then I will request Pravin to take
+                over on the outlook. As we mentioned in the previous quarters that we have been giving customer
+                samples for their validation. As we speak, for some of the leading two-wheeler OEMs, the
+                performance testing is over. Now they are doing the lifecycle testing. There is a process, there
+                is a sequence.
+
+
+                Lifecycle testing takes time, and once lifecycle testing is over, they will do the pack and the
+                vehicle level testing. That is the next phase. So far, the performance testing has been very
+                satisfactory. We got positive feedback. This is on the NMC side. On the LFP side, the 102 Ah
+                LFP cells we are already making.
+
+
+
+
+                                         Page 4 of 19
+
+                                                                                       Exide Industries Limited
+                                                                                           November 05, 2026
+
+                We have given it to some telecom operators for validation, as well as we have started using it in
+                our e-rickshaw packs, which is our own pack. These packs have been delivered to the market,
+                they are running, and we have got quite positive response on the performance of the LFP cell as
+                well. We expect the various validations of both NMC two-wheeler OEMs as well as the telecom
+                towers to close concurrently very soon.
+
+
+                Meanwhile, we have also started supplying two-wheeler samples to some more OEMs beyond
+                the leading OEMs. This is the status as of now. As of now, if you look at the market outlook, I
+                will talk about the current outlook and then I will hand over to Pravin for the future outlook.
+                Currently, the two-wheeler market, you have seen last three months, Vahan registrations of
+                electric two-wheeler.
+
+
+                They have ramped up to about two lakh vehicles per month, which was roughly 1.2 lakh last
+                year. In the quarter two, we saw about close to two lakh per month. Which translates to about
+                7.5 GWh- 8 GWh of market, which is existing today from new vehicles. With that, we feel we
+                have adequately put up our capacity and we can take a share of the market, even not looking at
+                the future penetration, even at the current penetration level. I will hand over to Pravin to add his
+                views on this, on the outlook on BESS and telecom.
+
+
+Pravin Saraf:   Thank you, Avik. All the cells we have are addressing two-wheeler, three-wheeler, also the four-
+                wheeler, some applications, as well as telecom and BESS. With the outlook for telecom, already
+                we have contacted and given the samples to the few customers, and we expect it to release soon.
+
+
+                For BESS cell, we have the possibility to make the cell, but as you all know that we have the
+                PLI scheme announced. We are waiting for the PLI, we will of course apply for the PLI. As
+                under the PLI scheme, we will need to wait, and once the clarity is there, then we can go ahead
+                with the manufacturing of the cell. We will wait for that only. But otherwise, our internal
+                validations are showing positive results for BESS cell also.
+
+
+Avik Roy:       Thank you, Pravin.
+
+
+Raghunandhan:   Thank you, sir. My second question was on capital allocation.
+
+
+Avik Roy:       Yes.
+
+
+Raghunandhan:   The core business generates strong cash and funds the new energy investments while staying
+                debt-free. Over the next five years, how is the board thinking about balancing reinvestment in
+                the core business, building the new energy business, and returns to shareholders? What are the
+                return thresholds which guide your choices?
+
+
+Avik Roy:       So, at this moment, I think I have mentioned this before also, our capital allocation strategy
+                revolves around three elements beyond the dividend payout. The first is protecting the core.
+                Protecting the core has two elements. Every year, we invest close to our depreciation, which is
+                about INR400 crore-INR500 crores every year on our core business.
+
+
+
+
+                                         Page 5 of 19
+
+                                                                                        Exide Industries Limited
+                                                                                            November 05, 2026
+
+                That has been consistently which we have been doing in the past. But in the past, we were mostly
+                investing on our manufacturing technology to improve productivity, to reduce cost. We will
+                continue to do that. Today, we have added one more element, which is also debottlenecking our
+                existing lead-acid capacity to cater to the market after two to three years. See, today is a unique
+                sweet spot for lead-acid because both OEM as well as aftermarket is growing concurrently. In
+                the past, it never used to happen like this.
+
+
+                If the OEM was growing, aftermarket would be slow, aftermarket growing, OEM would be slow.
+                Now we see both the segments growing strongly concurrently. Therefore, we are investing
+                capital in debottlenecking each of our factory. Thankfully, we have multiple factories where
+                brownfield expansion and brownfield debottlenecking is possible. So we are doing that.
+                Substantial capital has been allocated to squeeze out every line, every asset.
+
+
+                And we are also in the discussion of putting up additional capacity because a lot of automotive
+                OEM has approached us because they have announced their capacity expansions as well in
+                conventional IC engines. And we will have to respond to their requests as well. The other part
+                of capital allocation is basically factory automation. This we are doing continuously over the
+                last couple of years to digitize, automate our operations, and improve our productivity.
+
+
+                As well as this is not only productivity, but we have seen positive benefit in our quality, in our
+                warranty management. We have seen this automation contributing majorly. And the third most
+                important capital allocation strategy is, of course, the Advanced Chemistry Cell, which you have
+                seen. Now, most of our, I would say, the capex requirement for phase one for 6 GWh is over.
+
+
+                But you have to understand, you have to still run this factory for next two to three years. We
+                have to fund the working capital so that we have to ramp up revenue. So the requirement of
+                working capital will increase now, and we are building up an organization. So that third pillar
+                of capital allocation in form of equity will continue for the next couple of years. So that is broadly
+                our capital allocation strategy at this moment.
+
+
+Raghunandhan:   Thank you, sir, for the comprehensive answer. Just a last question before I fall back to the queue.
+                Hyundai has been highlighting that they are fully focused on localization in India for electric
+                vehicles. On the Hyundai-Kia tie-up, when can we expect progress on the co-investment
+                announcement relating to the separate dedicated line?
+
+
+Avik Roy:       See, on this topic, Raghunandhan, you have to understand that at some point, this is a material
+                disclosure. At some point, both of us have to make a joint statement. It is not fair for me to give
+                you details unilaterally, because you need to have a view of Hyundai as well. All I can tell you,
+                the discussions are in very accelerated way, I would say.
+
+
+                The Hyundai leadership, Hyundai India leadership is extremely bullish and trying to work with
+                us. It slowed down in the recent past, but it again accelerated with Pravin taking a lead as well
+                as the Hyundai India management collaborating together. Beyond this, I think we have decided
+                that regarding Hyundai-Kia, we will make a joint statement when we reach the milestone, instead
+                of one party making a statement in the public domain. Pravin, would you like to add anything
+                on this?
+
+                                          Page 6 of 19
+
+                                                                                        Exide Industries Limited
+                                                                                            November 05, 2026
+
+Pravin Saraf:    No, thank you. This is exactly, that is very serious, and we can only say that we are working
+                 closely with them to meet their roadmap for their implementation, considering the localization
+                 aspect.
+
+
+Avik Roy:        Yes.
+
+
+Raghunandhan:    Good to hear that, sir. We look forward to the announcements. I will fall back to the queue. Sid,
+                 can you take other questions?
+
+
+Avik Roy:        Thank you.
+
+
+Moderator:       Thank you. The next question comes from the line of Vibhav Zutshi from JP Morgan. Please go
+                 ahead.
+
+
+Vibhav Zutshi:   Yes. Hi, sir. Thanks for the opportunity, and congratulations for both the good results and the
+                 Giga factory commissioning. The first question is on the lithium-ion business. If you can better
+                 help us understand this comment on life cycle testing and vehicle testing. So, have you started
+                 recognizing the revenue for the lithium-ion cells, or it is still subject to approvals from the
+                 customers? If you can name some of the customers across automotive and stationary, that would
+                 be really helpful as well.
+
+
+Avik Roy:        Some of the names we will not be able to tell you because of various NDAs. Pravin can highlight.
+                 Briefly speaking, yes, as we said in the past, we have started generating revenue. As I said, we
+                 started with LFP. This was also our plan because LFP commercialization or revenue would have
+                 a shorter cycle time of validation. Therefore, we started doing that from October, not in Q2, but
+                 from October. Now, NMC, because it has a longer validation time, it will come next. Pravin,
+                 you add on it that there are questions on.
+
+
+Pravin Saraf:    Yes.
+
+
+Avik Roy:        What kind of engagements we have with customers?
+
+
+Pravin Saraf:    Sure. I can just add saying that all the OEMs, major OEMs, let's say, they already have a huge
+                 interest in localization. There are very good interactions, very structured interactions at various
+                 levels like R&D, operations, and procurement, in all functions. As you know, all know that
+                 there's a validation steps, so it is really going in very good progress.
+
+
+                 Few of the customers, even major customers, expected to give the release soon for few of the
+                 applications. Few applications like NMC may take more time. Few small-time customers have
+                 also given firm orders even for NMC. I can only summarize this saying that we are going in
+                 right direction, and there is all positive feedback from all the customers. There are frequent
+                 audits at the plant.
+
+
+                 Like example, one process I can tell you, if customer comes, identifies the sample in the process,
+                 and after completion, the same sample has to be given to customer. That process also we have
+                 successfully done, and the results are also encouraging.
+
+
+
+                                          Page 7 of 19
+
+                                                                                        Exide Industries Limited
+                                                                                            November 05, 2026
+
+Vibhav Zutshi:   Got it. Thank you. That's helpful. Just a follow-up here. Is it fair to say that NMC revenue for
+                 the two-wheelers might start to come in the March quarter, in all likelihood?
+
+
+Avik Roy:        Pravin?
+
+
+Pravin Saraf:    Yes, for small customers, we can even start from next month in a small quantity. For the LFP,
+                 we already started, like I mentioned.
+
+
+Avik Roy:        I think the major OEMs, we are hoping will start in from beginning of quarter four or maybe
+                 February.
+
+
+Pravin Saraf:    Yes.
+
+
+Avik Roy:        But surely this fiscal year.
+
+
+Vibhav Zutshi:   Okay, that's very helpful.
+
+
+Avik Roy:        Yes.
+
+
+Vibhav Zutshi:   Second question is on the core business, on the lead- acid business. Now, base is not so
+                 favourable in the second half, and we've talked about it in prior calls as well. I mean, can we do
+                 a similar margin trajectory of 12% and maybe a growth of high- single digits? Is that possible in
+                 the second half?
+
+
+Avik Roy:        Yes, surely. I think, in percentage terms, it might come down, but you have to also understand
+                 that in absolute values, it has gone to a next level, both OEM and aftermarket. If you look at the
+                 OEM market, the passenger vehicles have gone up from an average of 1.3 million to 1.6 million
+                 in a quarter. It is almost 16 lakh. So, absolute value will remain at that stage.
+
+
+                 In percentage terms, yes, you are right. If you look at the Vahan registrations, last year, quarter
+                 two, passenger vehicle was -1%, and this quarter two was +22%. This is not us. I am talking
+                 about the vehicle registrations, retail sales. Two-wheeler was -6% last year, declined. This year,
+                 it is +27%. So obviously, there is a demand boom which is happening now. In Q3, these
+                 percentages might change.
+
+
+                 But in October, as we have already completed October, actually, we have not seen that signal.
+                 October was even stronger than September. In percentage terms, I still feel I should take a
+                 cautious view that it might come down moderate to maybe low double-digit growth. But still at
+                 a very high level.
+
+
+                 Aftermarket, I think it will, on a H2 level basis, it will normalize to the same level as we achieved
+                 in H1, because the seasonal demand is also coming up. I do not see that moderating too much
+                 on the aftermarket side. OEM, in percentage terms, will moderate down in second half.
+
+
+Vibhav Zutshi:   Okay. Got it. Thank you so much. Yes.
+
+
+
+
+                                           Page 8 of 19
+
+                                                                                        Exide Industries Limited
+                                                                                            November 05, 2026
+
+Avik Roy:        The other question was on margin trajectory. I think I missed out. I think we have said this, that
+                 we are clearly at the current lead level, at the current exchange rupee and lead level, we have
+                 decided that we will try to remain within our corridor of 12%-12.5%. In some quarters, it will
+                 be at lower end of corridor, some quarters it will be at higher end of the corridor. This will remain
+                 for the next two quarters, so it will not be impacted.
+
+
+                 As you know, in the past also, we have mitigated this input cost through calibrated price
+                 increases whenever required. We are only doing it when we are under input cost pressure. We
+                 will continue to do that in the current quarter as well as the upcoming quarter as well. So, we are
+                 fairly successful in passing through these input pressures.
+
+
+Vibhav Zutshi:   Great. Thank you so much, sir, and happy Diwali to the entire team.
+
+
+Avik Roy:        Thank you, Vibhav.
+
+
+Moderator:       Thank you. A reminder to all the participants, please restrict yourself to two questions. The next
+                 question comes from the line of Kapil Singh from Nomura. Please go ahead.
+
+
+Kapil Singh:     Yes. Hi. Good afternoon, sir. My first question is on the core business itself, the lead-acid
+                 business. It appears that we are gaining some market share both in the OEM and replacement
+                 segment. Is that a correct observation, and what are the reasons that we are able to do that, if I'm
+                 correct?
+
+
+Avik Roy:        See, I mean, gaining market share, of course, we get in segment level wherever we are weak.
+                 There are some places where we are already market leaders, some segments or some SKUs or
+                 some categories, and in some categories where we are weak, both in terms of category as well
+                 as in terms of geographies.
+
+
+                 For sure, we are gaining market share over there. It is not our sole objective to buy market share.
+                 We have not done in the past quarters or past one year. We will not buy market share.
+                 Conventional wisdom says that when a market is growing, booming, you do not buy market
+                 share. You buy market share when the market is stagnant or declining.
+
+
+                 Since the automotive OEM market is growing, and we already had a very high market share, I
+                 mean, we are close to 60% in automotive OEM, so we are growing along with the growth of the
+                 market. This helps us in two ways. One is that it gives us a favourable mix, because my trade
+                 business to OEM business ratio remains robust. Secondly, it also helps me in allocating my
+                 capacity to the markets where the margins are higher.
+
+
+                 For example, I will not sacrifice my aftermarket volumes just to feed OEM, and then, because
+                 the margin, the profit pools are different in two markets. So, we keep this in mind, and we take
+                 a very calibrated view when we allocate capacities and when we take pricing decisions. So, one
+                 thing is clear, Kapil, we will not buy market share just for the sake of it.
+
+
+Kapil Singh:     Understood, sir. Second question is on the cell business. What we also note is there is constant
+                 evolution of technology happening on various parameters like energy density or the fast charging
+
+
+                                          Page 9 of 19
+
+                                                                                       Exide Industries Limited
+                                                                                           November 05, 2026
+
+                or cell lifespan. What is the roadmap for us to stay updated with the technology, both on the
+                current technology as well as new chemistries as well?
+
+
+                We had last time also mentioned that there might be some export of raw material restrictions
+                that might come from November in China, and there might be a requirement for export licenses.
+                Have we applied for those licenses? What is the status over there?
+
+
+Avik Roy:       No, no, I think it's not export, it's import. It's not licenses for us, it's for the vendors, for our
+                suppliers, because we are importing raw material.
+
+
+Kapil Singh:    Yes, yes. That's what I mentioned, that…
+
+
+Avik Roy:       As of now…
+
+
+Kapil Singh:    They have to take export license.
+
+
+Avik Roy:       So that's what I'm saying. As of now, on raw material side, no announcements or suspension
+                notices, nothing has come up. We are getting raw material, importing from our global sources.
+                In case of those kind of controls, if it comes in the future, the lead time will increase possibly,
+                the lead time of delivery. In those cases, we will have to keep higher inventory to meet our
+                production demand, which we are already discussing. This is one. I'll ask Pravin to add some
+                more, and then I will come back to the future technology. Pravin, something on this raw material
+                side?
+
+
+Pravin Saraf:   Sure. On raw material, like Avik already mentioned, we are keeping a track, plus the restriction
+                may come on energy densities. Today, we are very clear, and if necessary, the lead time may go
+                on. That's the only point. To safeguard ourselves, we have also done a long-term purchase
+                agreements with the suppliers. This is one which is giving security to us, and second, of course,
+                keeping the inventory for the lead time.
+
+
+Avik Roy:       Regarding future technologies, future energy densities, and chemistry, Kapil, let us learn and
+                master the current technology first. We are the first in this business, and India has to learn. It's
+                not Exide has to learn. India has to first master this advanced chemistry, which is in hand. The
+                licensed products, we must manufacture it consistently, shift- after- shift, month- after- month,
+                quarter- after- quarter.
+
+
+                Let us master this, because still the whole India, I have not seen any kind of excitement around
+                knowledge development on the current ACC technology which is available. Once we master
+                this, we are setting up a pilot line where we are making cion cells and making our own roadmap
+                for future products, and that will go concurrently.
+
+
+                But first, the five products which we have licensed will have to ramp up revenue and reach a
+                point where we utilize our full capacity. On the raw material roadmap, it is still, I would say,
+                two to three years. I have mentioned this before, that 50%-60% of the bill of material should be
+                our target to localize in India in two to three years' time.
+
+
+
+
+                                           Page 10 of 19
+
+                                                                                        Exide Industries Limited
+                                                                                            November 05, 2026
+
+                 But then it depends on a couple of things. It is just not localization for the sake of localization.
+                 You have to understand the technical criticality of that component, number one. Secondly, how
+                 much cost impact it has on the complete BOM, whether it is a minuscule component, a minuscule
+                 contributor, or is a large-scale contributor in the whole BOM cost.
+
+
+                 You have to also see the shelf life of the component, that whether importing and stocking
+                 technically helps us or it is against us. So we have to prioritize the raw material basis multiple
+                 criteria, which we are doing. Pravin is carrying out pilots with a lot of Indian manufacturers now.
+                 Maybe, Pravin, one sentence on that, on your localization.
+
+
+Pravin Saraf:    Yes. So we have more than 20+ local suppliers already working with them closely, giving them
+                 the inputs. So typically, it starts with material testing, then have the first check on the
+                 specifications, like coin cell, and then prototype cell manufacturing. Then you go to performance
+                 check, and then the cell validation. So, in few cases, we are already at the stage of performance
+                 checking. In few stages, it is at the first stage.
+
+
+                 So, important will be all these suppliers at a pilot stage. So they also need to further go on large-
+                 scale manufacturing. Yes. This is, we are closely working. Like Avik mentioned, it is a two to
+                 three years roadmap. We are closely working with them, as we know that today the supply chain
+                 is from outside India, and localization will certainly help us.
+
+
+                 Here only request what we are always looking at is for the cost competitiveness of local suppliers
+                 is some kind of support from government. There is already, if you are knowing discussion about
+                 the PLI scheme, so we are also looking forward that support for the local suppliers.
+
+
+Kapil Singh:     Okay. Thank you so much, sir, and best wishes.
+
+
+Avik Roy:        Thank you.
+
+
+Moderator:       Thank you. The next question comes from the line of Arvind Sharma from Citi. Please go ahead.
+                 Mr. Sharma, please go ahead.
+
+
+Arvind Sharma:   Yes. Hi, can you hear me?
+
+
+Moderator:       Yes, you are audible.
+
+
+Arvind Sharma:   Thanks. Good afternoon. Thank you for taking my question. First question, the lithium-ion cell
+                 business. You are not naming the OEMs, but since you said some of the smaller OEMs have
+                 placed orders, could you shed some more light on the order book, if any?
+
+
+Avik Roy:        Arvind, you have to go by the capacities that we have. We are not sharing order book at this
+                 moment, but we have commissioned two lines of NMC. First line is 1.5 GWh, and the second
+                 line is also 1.5 GWh. First we will utilize the first line. Once we reach our 1.5 GWh, then we
+                 will shift to the second line. At this moment, you have to make your assessment of revenue
+                 through our capacity.
+
+
+
+
+                                          Page 11 of 19
+
+                                                                                          Exide Industries Limited
+                                                                                              November 05, 2026
+
+Arvind Sharma:   Got it, sir. Sir, second, sorry to the OEM part, since you have supplied some samples, for an
+                 OEM, what is the price difference between getting a cell from Exide and importing it?
+
+
+Avik Roy:        This is a part of the negotiation. There is no hard and fast rule. There are other strategic
+                 advantages of having a local supplier or having a second supplier. There are some price
+                 dynamics, cost dynamics on the imported cell also happening in China, duty withdrawal, some
+                 additional tariffs.
+
+
+                 This is a part of negotiation, and you have to understand, no OEM or no large OEM will spend
+                 so much of time and resource on validating our cell unless they have a strategic interest in having
+                 a second source and a local source. That is how we are working right now. But frankly speaking,
+                 at a very high level, at lithium-ion, I will not segregate NMC and LFP here.
+
+
+                 We still have a 5%-10% cost gap with imported Chinese on landed basis, based on the form
+                 factor and chemistry. That's a very high-level statement. We still have that gap on a landed basis.
+                 But still, there are other strategic benefits which sometimes offset this. Yes.
+
+
+Arvind Sharma:   Sure, sir. Sir, the second question would be on something you highlighted, that you got orders
+                 from the Hector Tomahawk and an auxiliary battery maker, and an auxiliary battery supplier in
+                 EV and PHEV. Are there any more models where you could-
+
+
+Avik Roy:        Yes, yes. The work is going on, and the typical way the OEM works is that it's not that all new
+                 launches will come to us. Some of them, they will also work together with our competitors also.
+                 But they select which platforms to go with whom. Fortunately, in these auxiliary batteries, we
+                 are the leaders, so we are the preferred choice for most of the OEMs. But even other than
+                 auxiliary batteries for SLI batteries, starter batteries also, they select us.
+
+
+                 There are so many new launches coming in. They work on different platforms with different
+                 OEMs. Here in this case, in the last two quarters, the names I mentioned, we are 100% with
+                 them, because that is how they develop the product along with us. So there are many such SKUs
+                 in the pipeline of many OEMs.
+
+
+Arvind Sharma:   Got it, sir.
+
+
+Avik Roy:        I mean, even in the previous quarters, we had this kind of 100% share. Tata Sierra, I think, when
+                 they relaunched, they worked with us. But this is their standard way of product development.
+
+
+Arvind Sharma:   If you could just share what would be the average…
+
+
+Moderator:       Sorry for interrupting, Mr. Arvind. Please rejoin the queue for more questions.
+
+
+Arvind Sharma:   All right. Thank you.
+
+
+Moderator:       Thank you. The next question comes from the line of Jinesh Gandhi from Oaklane Capital.
+                 Please go ahead.
+
+
+
+
+                                          Page 12 of 19
+
+                                                                                           Exide Industries Limited
+                                                                                               November 05, 2026
+
+Jinesh Gandhi:       Yes. Hi, sir. My question is for BESS cell. So you indicated that we are doing internal testing.
+                     So is this on 314 Ah or there is different voltage?
+
+
+Avik Roy:            Yes, yes. I have never said that we are testing BESS cells right now. We have said that in the
+                     fourth line, the line four which we have, that is the line where we will make this BESS cell. So,
+                     it is 300 + Ah . I am not giving you the exact ampere hour, which is not in public domain. But
+                     yes, you are in the ballpark.
+
+
+                     What we are developing is slightly higher than that. So this is what we are setting up. The plant
+                     is ready. And actually, in this line, we will make multiple products for prismatic. But the demand
+                     from other applications are more. BESS at this moment, whatever, unless we see the future of
+                     the PLI, we will not declare our BESS roadmap. But we can use that line for other products also
+                     if the PLI does not happen.
+
+
+                     Having said that, you have to also understand that whatever localization content government has
+                     announced for BESS, I think they have said 60%. I am not very sure whether that 60% is at the
+                     AC level or DC level, but they have excluded batteries. BESS without batteries, it is like, people
+                     are busy drilling and welding freight containers now.
+
+
+                     If that is localization, we are not in that game. We will stick to batteries and cells. We have a
+                     cell in the pipeline, which we will make on the line four. But we will see the market developing,
+                     we will see the PLI shaping up, and then we will go full throttle. But obviously, our other
+                     priorities, like three-wheeler, telecom, two-wheeler, this will come before BESS.
+
+
+Jinesh Gandhi:       Got it. This BESS cell is one of those five products?
+
+
+Avik Roy:            Yes.
+
+
+Jinesh Gandhi:       BESS systems?
+
+
+Avik Roy:            Yes, yes. Yes.
+
+
+Jinesh Gandhi:       Got it. When we talk about the PLI incentive—
+
+
+Moderator:           Sorry for interrupting, Mr. Gandhi. Please rejoin the queue for more questions. Thank you. The
+                     next question comes from the line of Krupashankar N.J. from Avendus. Please go ahead.
+
+
+Krupashankar N.J.:   Good afternoon, and thank you for the opportunity. My first question is on the lead-acid
+                     business. Just wanted to get a sense of what would be the quantum of price hikes which were
+                     taken in the second quarter, and what is planned for the third quarter, sir?
+
+
+Avik Roy:            We have taken calibrated price increases, and we were taking since January. It is important that
+                     last year, quarter three, after the GST 2.0 was announced, we purposely did not take any price
+                     hikes in quarter three because we wanted to pass through the entire benefit to the end consumer.
+                     But since the input costs started shooting up from January, we started taking price increases step
+                     by step across the segments.
+
+
+
+                                             Page 13 of 19
+
+                                                                                              Exide Industries Limited
+                                                                                                  November 05, 2026
+
+                       I think between January and October, I would say, because in October also we have taken one
+                       round. In January and October, we have taken about more than 10%, I would say. That is the
+                       year-on-year effect, about 9%-10%, particularly on the vehicular side. Two-wheeler is lesser
+                       than that. Two-wheeler will be about 5%. That is what I think it is about 10%, 9%-10% on four-
+                       wheeler and about 5% in two-wheeler.
+
+
+                       But we have also taken price hikes in the OEMs, which is outside the lead formula. We were
+                       forced to do that. We have taken price hikes in our tubular batteries, our inverter batteries also.
+                       So across the segments, I think across use cases, we have taken calibrated price hikes to offset
+                       the input cost rise.
+
+
+Krupashankar N.J.:     Yes. Sir, slightly forward-looking question. What do you think will be the inflection point for
+                       phase two capex in lithium-ion? And given that the current INR is depreciating, do you see that
+                       the cost per incremental gigawatt-hour to be higher than the first 6 GWh we have set up?
+
+
+Avik Roy:              Could be, could be. Because we already see this happening at the tail end of our capex phase
+                       one also, because dollar has appreciated by 10%. So the first one year, two year, whatever our
+                       capex was, at the tail end of the capex, we found that weak rupee hitting us. So in phase two, we
+                       do not know at what level the exchange rate will be. But yes, it can work negatively regarding
+                       our capex per kilowatt-hour. Unless the equipment prices go down, basic prices go down.
+
+
+Krupashankar N.J.:     Got it. And the inflection point for phase two, sir?
+
+
+Avik Roy:              Inflection point, I think, as you know, we have bought the land for 12 GWh. We have put up all
+                       the utilities, the power substations, the boilers, chillers, everything for 12 GWh. We have
+                       everything in the same campus, our giga campus. Our lead time for phase two will be much
+                       lower than phase one, because phase one, it started from greenfield. Since the lead time for phase
+                       two will be lower, we should be waiting for about, let's say, 80% utilization level. At that point,
+                       we should make a decision. This is my personal view.
+
+
+Krupashankar N.J.:     Got it. All right. Thank you. Those are my questions.
+
+
+Avik Roy:              Thank you.
+
+
+Moderator:             Thank you. A reminder to all the participants, please restrict yourself to two questions. The next
+                       question comes from the line of Pradip Pandey from Axis Capital. Please go ahead.
+
+
+Pradip Pandey:         Hello, sir. Thank you for taking my question. I had a question on investment. I noted that you
+                       have invested about INR500 crores in the new energy solution sub. But your standalone
+                       investments are more or less flattish at about INR10,000 crore. Wanted to understand if you
+                       have taken any impairment on any of the investments and what would that relate to?
+
+
+Avik Roy:              I will hand over this question to our CFO, Manoj Agarwal, please.
+
+
+Manoj Kumar Agarwal:   If I got your questions correctly, see, two part. One is that your fixed asset, which is our capital
+                       asset, has not been reduced per se, both in the core business and anyway we are investing in the
+                       new business. If you are talking about investment side, on that part, yes, there is a mark-to-
+
+                                               Page 14 of 19
+
+                                                                                              Exide Industries Limited
+                                                                                                  November 05, 2026
+
+                       market loss on HDFC Life in this six months of around INR600 crore. That may be the reason
+                       you are talking about the base of the investment, which has changed from X to X minus. This is
+                       only mark-to-market.
+
+
+Pradip Pandey:         Okay, sir. Thank you so much. That answers my question.
+
+
+Manoj Kumar Agarwal:   Thank you.
+
+
+Moderator:             Thank you. The next question comes from the line of Amish Thakkar from 2380 Capital. Please
+                       go ahead. Mr. Thakkar, please go ahead. Mr. Thakkar, please go ahead.
+
+
+Amish Thakkar:         Hello?
+
+
+Moderator:             Please unmute yourself.
+
+
+Amish Thakkar:         Hello?
+
+
+Moderator:             Sorry, yes, you are audible now.
+
+
+Amish Thakkar:         Yes. I just have a very simple question on the core business, lead-acid battery business. What is
+                       the three to five-year guidance on both flat plate technology that goes into automotive and the
+                       tubular lead-acid batteries that go into industrial batteries across inverters, e-rickshaws?
+
+
+Avik Roy:              Yes. As you know, IC engines, on the automotive side, the IC engines are here to stay, both from
+                       aftermarket side because of the parc, as well as for the new investments which the top three
+                       automotive OEMs have announced on the conventional vehicles as well. This will remain flat
+                       plate, but this will not remain as a standard flooded battery, starter battery as we have mostly
+                       today. Because more and more we see trend on enhanced flooded battery, EFB battery as we
+                       call it, as well as the AGM batteries, which is absorbent glass mat. So we have both, we have
+                       this portfolio. We are exporting it, we are selling this to our OEMs big time. Even in aftermarket,
+                       the EFB sales have picked up big time. So the technology in automotive will shift, I believe,
+                       from the standard flat plate flooded battery to EFB and AGM.
+
+
+                       Like, it is the same with Europe and U.S.A., everywhere. On the inverter side, tubular, you know,
+                       we are the largest tubular battery manufacturer. Tubular does not only go to inverter, it also goes
+                       to solar, multiple applications. It is a seasonal business, but the technology will stay like this,
+                       because India is the largest tubular manufacturer in the world. Nobody else uses tubular. But in
+                       our kinds of use cases, in Indian conditions, where you need both longer life as well as longer
+                       backup, I think tubular is more suitable for the market. So this will stay, we still feel. Yes.
+
+
+Amish Thakkar:         I had a follow-up question on that as well. So, we picked up some news from the ground on
+                       China that some of the telecom power operators and industrial customers are moving back to
+                       tubular lead-acid batteries instead of lithium, given the higher insurance costs which lithiums
+                       are rising because of fire hazards that lithium presents. So do you see—
+
+
+Avik Roy:              We have also heard this. But in India, just with about one year, the operators have shifted from
+                       AGM batteries to lithium-ion batteries. I think they are still going through the learning curve.
+
+                                               Page 15 of 19
+
+                                                                                             Exide Industries Limited
+                                                                                                 November 05, 2026
+
+                       Maybe when they see the life cycle and the abuses. In India, it is virtually, what they did is that
+                       they replaced lithium-ion, sorry, they replaced the AGM batteries, VRLA batteries with lithium-
+                       ion and removed the backup DG set, and they are draining the battery.
+
+
+                       That is the application. Because now they do not put the diesel generator in the BTS towers.
+                       Probably they will go through their life experience, and then they will take a call. But whatever
+                       rumors you are hearing, I have also heard from certain quarters. I do not know whether it is right
+                       or wrong.
+
+
+                       But the economics of lithium-ion in telecom tower only holds without the diesel generator. That
+                       is what I have been given to understand. If somebody has to put back the diesel generator, then
+                       the economics is not as attractive as it is now.
+
+
+Amish Thakkar:         Do you see a similar trend playing out in India where insurance premiums are rising?
+
+
+Moderator:             Sorry for interrupting, Mr. Thakkar. Please rejoin the queue if you have more questions. A
+                       reminder to all the participants, please restrict yourself to one question. The next question comes
+                       from the line of Viren Deshpande from Alphapeak Investments. Please go ahead.
+
+
+Viren Deshpande:       Hello.
+
+
+Avik Roy:              Yes, please.
+
+
+Viren Deshpande:       Congratulations for the very good results posted in Q1 as well as Q2.
+
+
+Avik Roy:              Thank you.
+
+
+Viren Deshpande:       The new plant which has been commissioned. Actually, I had a question that our property, plant,
+                       and equipment in our balance sheet now is around INR8,140 crore, including the capital WIP of
+                       INR160 crore. But the depreciation provided in the consolidated results has come down.
+
+
+Avik Roy:              Mm-hmm. Yes, what is your question?
+
+
+Viren Deshpande:       No, my question is that actually after the commissioning of the plant in September end, the
+                       depreciation should go up, no?
+
+
+Avik Roy:              It should. The balance sheet items are generally responded by the CFO, so I will hand over to
+                       Manoj Agarwal.
+
+
+Viren Deshpande:       Okay. Okay.
+
+
+Manoj Kumar Agarwal:   See, here, two parts we should see. One is that there was depreciation already in our Prantij plant
+                       in the books, right? The entire depreciation incremental is not the full value of the capex what
+                       we have done. It is only for seven days, number one. Number two, for our core business,
+                       depreciation is gone down because of the assets has completed their life. That is the reason.
+                       Now, you will going to see in the H2 fully, where you see that depreciation will be higher than
+                       the first half of this year.
+
+
+                                                 Page 16 of 19
+
+                                                                                          Exide Industries Limited
+                                                                                              November 05, 2026
+
+Viren Deshpande:   Yes. Because the INR5,000 crores, almost we have invested some INR5,300 crores in our phase
+                   one. So major part has to go to the property machinery, no? Plant and machinery.
+
+
+Avik Roy:          You have to please remember, we announced the commissioning on 23 rd of September, when
+                   we capitalized these assets. So actually, the full impact you will see in H2.
+
+
+Viren Deshpande:   Okay. That will appear in H2. Yes. And sir, secondly, this…
+
+
+Moderator:         Sorry for interrupting, Mr. Deshpande. We are currently doing one question per participant.
+                   Please rejoin the queue for more questions.
+
+
+Viren Deshpande:   Actually, this was just a bookkeeping question. I wanted to know about the second half.
+
+
+Avik Roy:          Sure, that the management decide. Yes, yes. The second half, you are talking about the outlook
+                   of the second half?
+
+
+Viren Deshpande:   Yes, yes. Outlook for the margins also.
+
+
+Avik Roy:          Yes, yes. This I think I have answered. You will see in the transcript. I think in the beginning
+                   someone asked. We said that we will stay within the margin corridor as we are today.
+
+
+Viren Deshpande:   Okay, good. Okay, thank you and all the best.
+
+
+Avik Roy:          Thank you.
+
+
+Moderator:         Thank you so much. A reminder to all the participants, please restrict yourself to one question.
+                   The next question comes from the line of Kevin Gandhi from CapGrow Capital. Please go ahead.
+
+
+Kevin Gandhi:      Yes. Hi, sir. Thanks for taking my question. Just wanted to know the time to optimize this
+                   particular, what our plan, and what are the margins expected? I think you had said that towards
+                   the 80% utilization, you will actually go for the second phase. So how much time do you think
+                   it will take to optimize the first plant, and what are the margins expectation, broad-based range
+                   would be helpful?
+
+
+Avik Roy:          No, there is no margin guidance on the lithium-ion side as yet. We do not know what will be the
+                   dollar per kilowatt-hour price at that point. So it is dynamic. All I can tell you, I can tell you in
+                   gigawatt-hour, in terms of our output in 6 GWh. And we can maximize that output as much as
+                   we improve our yield. So this is our plan. I have said this in the past that our plan is we have to
+                   make it cash neutral in two to three years' time, which is, I think, a very fair ask by global
+                   standards. And we will see beyond that.
+
+
+Kevin Gandhi:      Okay. So, sir, like in two to three years, like being cash neutral, can we expect full utilization of
+                   80% in two to three years?
+
+
+Avik Roy:          Should be. Yes, you are right. It depends upon our operational excellence also.
+
+
+
+
+                                           Page 17 of 19
+
+                                                                                      Exide Industries Limited
+                                                                                          November 05, 2026
+
+Kevin Gandhi:   Okay. And sir, just another question, just a follow-up question on this. Exide is the first one who
+                actually commercialized the lithium battery process, but there were many large players who are
+                actually starting it. So, where are the other players in this race? Have they started any
+                commercialization?
+
+
+Avik Roy:       I cannot comment on other players. I think you have better insights on competitors, so I will not
+                comment on the plans of what others are doing. Thank you very much. We move to the next
+                question.
+
+
+Kevin Gandhi:   Okay.
+
+
+Moderator:      Thank you. The next question comes from the line of Animesh Jain from Dalal & Broacha.
+                Please go ahead.
+
+
+Animesh Jain:   Hello. Thank you for the opportunity. You have mentioned that holding cell material for longer
+                than normal because of China restriction. So, how much inventory cover will be required to
+                support this ramp-up, and how much additional working capital is required to ramp up this thing?
+
+
+Avik Roy:       No, the working capital, whatever is required, has already been factored in our annual capital
+                allocation budget, which we already declared officially. Our board has approved for that amount
+                already. So in terms of working capital requirement, we are well covered within our approved
+                limit. Regarding the time, I think, Pravin, you can add for till what month you want to hold
+                inventory.
+
+
+Pravin Saraf:   Yes. So, we are looking for three months inventory holding, because of the increase in maybe
+                the because of the restriction, it will take some time.
+
+
+Animesh Jain:   Many of the raw material are imported from China. So the worst switching supplier requires test
+                OEM validation, and how would it affect our timeline?
+
+
+Avik Roy:       No, no. Gentlemen, we have said this many times that these materials are 100% from the
+                approved vendors of our technical partner, SVOLT. We have not ventured out and tried to
+                develop our own low-cost vendors. So all the prototypes, all the samples are being tested through
+                the same raw material vendor-supplied material. Okay? Have I answered your question?
+
+
+Animesh Jain:   No, no. I was asking the test OEM validation if we switch to Indian supplier, so it required again
+                a validation from the OEM.
+
+
+Avik Roy:       Possibly, it will take, obviously. But that is the activity you have to do. You have to localize
+                your supply chain. You can't avoid that. Yes. But that's maybe two to three years from now.
+                First, we have to be satisfied with their performance.
+
+
+Animesh Jain:   Okay. Thank you. That's fine.
+
+
+Avik Roy:       I think we can take one or two more questions. Last question.
+
+
+
+
+                                        Page 18 of 19
+
+                                                                                                      Exide Industries Limited
+                                                                                                          November 05, 2026
+
+ Moderator:                     Thank you so much. The next question comes from the line of Jinesh Gandhi from Oaklane
+                                Capital. Please go ahead.
+
+
+ Jinesh Gandhi:                 Yes. Hi. On the lithium cell side, you indicated that we have already started supplying to small
+                                OEMs, and even for the larger OEMs. On the pricing front, would pricing be similar to lead-
+                                acid, where it is indexed to underlying commodity or RM basket? Would it be on similar lines,
+                                or it would be not linked to the underlying commodity?
+
+
+ Avik Roy:                      No, so far, I think lithium is also well indexed. So I will hand over to Pravin to answer this to
+                                the extent possible, whichever we can say in public domain. Pravin, go ahead.
+
+
+ Pravin Saraf:                  Yes. So it is exactly, it depends on the indexing mechanism, and also always the reference as in
+                                today is the landed price from China.
+
+
+ Jinesh Gandhi:                 Okay. Lastly, can you talk about capex for FY 2027 and FY 2028?
+
+
+ Avik Roy:                      No, that we have not yet. We will not be able to tell you now because we have not presented to
+                                our board. Of course, we roughly know. But as you know, going forward, it will be mostly for
+                                the working capital, land, loss funding, things like that. Not so much for capital equipment. But
+                                we will…
+
+
+ Jinesh Gandhi:                 At a consol level, what should be capex for FY 2027?
+
+
+ Avik Roy:                      As I said, I mean, for the lead-acid core business, we will still continue to invest about INR400
+                                crore-INR500 crores every year, which is the same as our annual depreciation. So we have to do
+                                it for our core business, for protecting the core business. As far as the new advanced chemistry
+                                investment is concerned, I think we are just in the process of presenting it to the board. Possibly
+                                in the next quarter, we will be able to tell you.
+
+
+ Jinesh Gandhi:                 Okay, great. Got it. Thanks. Thanks a lot.
+
+
+ Moderator:                     Thank you, ladies and gentlemen. That was the last question for today. We have reached the end
+                                of question and answer session. I now hand the conference over to management for closing
+                                comments.
+
+
+ Avik Roy:                      Thank you, gentlemen. I mean, there were a lot of interesting questions, and I hope I have been
+                                able to answer all of them. In case you have further questions or if you would like to know more
+                                about the company, please reach out to us, to our investor relations department, and we would
+                                be happy to be of assistance. Thank you very much for joining in.
+
+
+ Moderator:                     Thank you. On behalf of Nuvama Wealth Management, that concludes this conference. Thank
+                                you for joining us, and you may now disconnect your line.
+
+
+______________________________________________________________________________________________________
+
+
+ This transcript may contain edited or paraphrased statements for clarity. Forward-looking statements included here are subject
+ to risks and uncertainties that could cause actual results to differ materially.
+
+                                                         Page 19 of 19
+

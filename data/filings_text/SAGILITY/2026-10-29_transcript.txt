@@ -1,0 +1,1138 @@
+Date: October 29, 2026
+
+To,
+
+The Manager                                                      The Manager
+Listing Department                                               Listing Department
+National Stock Exchange of India Limited (NSE)                   BSE Limited (BSE)
+Exchange Plaza, 5th Floor                                        Phiroze Jeejeebhoy Towers
+Plot No. C/1, G-Block                                            Dalal Street
+Bandra-Kurla Complex                                             Mumbai - 400 001
+Bandra (E), Mumbai - 400 051                                     Scrip Code:544282
+Symbol: SAGILITY
+
+
+Dear Sir/Ma’am,
+
+Subject: Transcript of Investors Call held on October 22, 2026
+
+This is in continuation of the Investors/Analyst Webinar conducted on October 22, 2026, to discuss the
+unaudited financial results of the Company for the quarter and half year ended September 30, 2026.
+
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, we hereby attach the transcript of the aforementioned webinar.
+
+This information is also available on the Company’s website https://sagility.com/
+
+This is for your kind information and record.
+
+Thanking You,
+
+For Sagility Limited
+SATISHKUMAR     Digitally signed by SATISHKUMAR
+
+SAKHARAYAPATTAN SAKHARAYAPATTANA
+                SEETHARAMAIAH
+A SEETHARAMAIAH Date: 2026.10.29 09:56:01 +05'30'
+Satishkumar Sakharayapattana Seetharamaiah
+Company Secretary & Compliance Officer
+M. No. A16008
+
+Encl: a/a
+
+
+
+
+                                                    Sagility Limited
+                                     (Formerly Sagility India Limited)
+ Registered Office - No. 23 & 24, AMR Tech Park, Building 2A, First Floor Hongasandara Village, Off Hosur
+                       Road, Bommanahalli, Bengaluru – 560068, Karnataka, India
+                       Corporate Identification Number: L72900KA2021PLC150054
+       Tel. No.: 080-71251500, E-mail: investorservices@sagility.com, Website: www.sagility.com
+
+                    Sagility Limited.
+            Q2 FY27 Earnings Conference Call Transcript
+               Thursday, 22 October, 2026 at 7:30 pm
+
+
+MANAGEMENT              •   Ramesh Gopalan - Managing Director and Group CEO
+                        •   Srinivas Rathnam Mattapalli – Executive Vice President
+                            and Group Chief Financial Officer
+
+
+MODERATOR               •   Siddharth Rangnekar - CDR India
+
+QUESTIONERS             •   Chirag Kachhadiya - Motilal Oswal
+                        •   Rishi Jhunjhunwala - IIFL
+                        •   Dipesh Mehta - Emkay Global
+                        •   Rohit Thorat - Axis Capital
+                        •   Vamshi Krishna - Kotak Institutional
+                        •   Akshat Agarwal - Jefferies
+                        •   Sujay Chavan - Prabhudas Lilladher
+                        •   Vibhor Singhal - Nuvama
+                        •   Madhuchanda Dey - MC Pro
+                        •   Ruchi Mukhija - ICICI Securities
+
+Siddharth Rangnekar:   Good evening and welcome to the Quarter Two FY '27 Earnings Webinar
+                       of Sagility Limited. This is Siddharth Rangnekar from CDR India, and I shall
+                       be your host for today. As a reminder, all attendee lines will be in the
+                       listen-only mode, and there shall be an opportunity for you to ask
+                       questions after the presentation concludes. Please note that this webinar
+                       is being recorded.
+
+                       To introduce the management we have with us today, Mr. Ramesh
+                       Gopalan, Managing Director and Group CEO; and Mr. Srinivas Mattapalli,
+                       Executive Vice President and Group Chief Financial Officer.
+
+                       Before we begin, I would like to state that some of the statements made
+                       on today's call could be forward-looking in nature and may involve certain
+                       risks and uncertainties. A detailed statement in this regard is available at
+                       the quarter two and H1 FY '27 earnings presentation that has been
+                       uploaded to the stock exchanges.
+
+                       I would now like to hand over the forum to Mr. Ramesh Gopalan to begin
+                       the proceedings of this webinar. Over to you.
+
+Ramesh Gopalan:        Thank you, Siddharth. Good evening, everyone, and thank you for joining
+                       us for our Q2 FY '27 earnings call. U.S. healthcare is still navigating steep
+                       cost increases overall. However, many of the national payers reported a
+                       significant improvement in their profitability in the first half of 2026 as a
+                       result of right sizing of membership and decrease in medical utilisation
+                       rates. In order to retain these margins, they need to continue to focus on
+                       managing medical costs, improving clinical and care outcomes, and
+                       driving operational efficiency. To help them achieve these objectives,
+                       they turn to large scale domain specialist players like Sagility, that
+                       combine deep healthcare expertise with AI capabilities and flexible
+                       partnership models, and greater accountability for outcomes.
+
+                       We are pleased with the progress that we have made through the first half
+                       of FY '27. The business momentum has been strong. We are expanding
+                       within our existing relationships. The clients we added in FY '26 are
+                       growing well, and our pipeline is robust.
+
+                       Let me start with what we are seeing in the market. Demand remains
+                       healthy, and clients are more deliberate in how they make decisions.
+                       Clients are prioritising investments that address immediate business
+                       pressures and show a clear path to measurable value. This is creating
+                       opportunities across our core business, managed services, and AI. For
+                       larger transformational deals, the buying process is more rigorous. More
+                       senior stakeholders are involved, and clients want a compelling business
+
+
+
+                                                                                           Page | 2
+
+case, clear evidence of value, and confidence that their partner can
+execute at scale.
+
+Increasingly, they are choosing partners who combine deep domain
+expertise with practical AI and a willingness to take accountability for
+outcomes. Our pipeline reflects the shift. It includes more managed
+service deals and a healthy set of opportunities with Blues and other mid-
+market plans. This quarter, we won a large payment integrity engagement
+from a Big Ten health plan covering over 10 million members. This win
+demonstrates our growing ability to secure larger, higher value
+engagements. The deal has a minimum potential of over $10 million in
+ACV and could possibly be much more.
+
+In payment integrity deals, which are contingency-based linked to
+payment recovery, revenue will build progressively over time. Our other
+managed services deals are also progressing well. By their very nature,
+they take longer to negotiate and close, but they lead to deeper, longer-
+term relationships. AI is now central to these transformation
+conversations with clients. We are seeing this momentum translate into
+new SOW wins and more solutions moving into production.
+
+Our focus is on practical healthcare-specific solutions such as SmarTec
+Appeals Assist, Nurse Assist, and Claims Assist, which address real
+client priorities. We are gradually progressing from narrow AI use cases to
+a larger end-to-end workflow transformation using agentic AI. For
+example, for a client, we are implementing Synchrony Claims Lifecycle,
+an agentic workflow for claims adjudication, where multiple agents
+working in tandem with human in the loop handle extraction from
+unstructured inputs, drive workflows basis SOP for each scenario, do
+reasoning and decisioning, all of this in order to adjudicate a claim
+adhering to all compliance requirements.
+
+Similarly, in RCM, we are deploying Synchrony RCM Lifecycle, an agentic
+solution to handle denials, including identification, evidence collection,
+determination of appealability, and writing the appeal letters, again with
+humans reviewing at distinct checkpoints. We are also leveraging AI in
+how we go to market. It's helping us develop solutions faster, align more
+closely with client priorities, and have more strategic value focused
+conversations with clients.
+
+We are making progress on our other strategic priorities as well,
+broadening our capabilities across the healthcare value chain, and
+expanding our addressable market. The CareSeed acquisition
+announced last quarter is now integrated into our clinical practice. It
+
+
+
+                                                                  Page | 3
+
+strengthens our healthcare quality capabilities, particularly in the
+Medicare Advantage market, and gives us access to a broader base of
+mid- and small-sized clients.
+
+Yesterday, we announced the acquisition of Chirok Health LLC. Providers
+are a clear growth focus for us, and Chirok fits in line with that strategy.
+Chirok's mid-cycle revenue solutions are a natural complement to
+Sagility's proven front-end and back-end revenue cycle offerings, helping
+Sagility generate improved financial and operational outcomes for health
+providers from patient access through final payment. I will talk about
+Chirok a little more in detail later. Along with this, we are also scaling our
+provider go-to-market team to accelerate growth in the provider segment.
+
+With this, let me get into the specifics of our Q2 and H1 performance.
+Consolidated revenue for Q2 came in at INR 20,321 million, or $212.6
+million, representing a year-on-year growth of 22.5% in INR terms and
+12.2% in constant currency. Excluding the CareSeed acquisition, organic
+revenue growth remains strong at 22.2% in INR terms and 11.9% in
+constant currency.
+
+Operating profitability remains strong with Q2 adjusted EBITDA at INR
+5,353 million, or $56 million, representing a year-on-year growth of 23%,
+with a margin of 26.3%, the highest in six quarters. Net profitability also
+remained healthy. Adjusted PAT for Q2 was INR 3,254 million, or $34
+million, up 8.1% year-on-year, with a margin of 16%.
+
+Turning to the half year performance. H1 FY '27 was INR 39,956 million, or
+$420.4 million, representing on a year-on-year growth of 25% in INR terms
+and 13.7% in constant currency. H1 adjusted EBITDA was INR 10,069
+million, or $105.9 million, growing 25.2% year-on-year with a margin of
+25.2%, while adjusted PAT was INR 5,951 million, or $62.6 million,
+growing 18.9% year-on-year with a margin of 14.9%.
+
+Moving to new deal wins, deal ACV increased 18.2% year-on-year to $40.2
+million, with wins across 31 existing clients and one new client. I am also
+happy to announce that the board has approved an interim dividend of
+INR 0.15 or 15 paise per share to be paid in Q3. Before I move on, I'd like
+to highlight some of the external recognition we received this quarter.
+Industry analysts are increasingly recognizing our healthcare depth and
+our ability to deliver transformation at scale. Sagility received the 2026
+Everest Group Elevate Honor for Voice of the Customer in the Healthcare
+and Life Sciences Service Specialist category.
+
+
+
+
+                                                                     Page | 4
+
+The Elevate Honors are grounded in Everest Group's independent
+research and recognize top performing service providers based on direct
+client feedback. In addition to this, Avasant named us as leader in the
+healthcare payer business process transformation. Our SmarTec Nurse
+Assist Solution won a Stratus Awards for Cloud Computing. On the
+people front, Sagility ranked 57th in the 100 Best Large Workplaces in Asia
+2026 by Great Place to Work, and we were also recognized amongst the
+Top 10 India's Best Places for Women in 2026. Sagility also earned its
+Great Place to Work certification for a second year in a row. We also won
+a Bronze Stevie Award for AI adoption with headcount growth in the U.S.
+
+On sustainability, we are proud to have won the Golden Peacock Award
+for ESG, which recognises our commitment to responsible business
+practices. Together, these awards recognise our healthcare expertise,
+our progress on AI, and the culture of doing right for all stakeholders that
+our teams have built.
+
+Moving on to the next slide. In Q2 FY '27, payers accounted for 89.9% of
+revenue and providers for 10.1%. Employee strength stood at 51,486 at
+the end of Q2. Quarterly voluntary attrition improved to 25.7% from 28.6%
+in Q1 FY '27 and was also lower than in Q2 FY '26.
+
+Moving to the next slide. The annual KPIs. At the end of Q2, we had 105
+active client groups, and for the first time, each of our top 10 client groups
+are now more than $20 million in revenue on a trailing 12-month basis.
+Now let me spend a few minutes on Chirok.
+
+Moving to the next slide. We closed the Chirok acquisition yesterday. Chirok
+is a specialised provider of clinical documentation improvement solutions,
+along with medical coding, risk adjustment, and HEDIS and quality services.
+As you can see, the trailing 12-month revenue up to September 2026 was $13
+million, with an adjusted EBITDA margin of 35.8%. and a net revenue
+retention rate of over 115%. They have 750-plus employees, most of them in
+India and a few of them in the U.S. And the consideration was $20 million that
+was paid up front, with an ability to earn an additional $12.35 million, payable
+subject to achievement of certain revenue targets over CY '27 and CY '28.
+
+As you know, Sagility has strong capabilities in the front end and the back
+end of the revenue cycle operations, and Chirok complements that with
+its mid-revenue cycle expertise. They have prestigious clients that
+include large health systems, Physician groups and value-based care
+organisations. Like I said, they have a 700-plus strong team of specialised
+coding staff in India, along with a small team in the U.S.
+
+
+
+
+                                                                       Page | 5
+
+                               Moving to the next slide. This shows the complementary nature of our
+                               capabilities. Like I said, while Sagility is strong in the front end, which is
+                               the patient access, and the back end, which is around denials and AR
+                               follow-up, Chirok is strong in the middle office, which is around clinical
+                               documentation and coding. With the acquisition of Chirok, our end-to-
+                               end capability in RCM is vastly enhanced. The complementarity of the
+                               services means that we have an opportunity to cross-sell each
+                               organisation services to the other's clients. The risk adjustment and HCC
+                               capture for risk-bearing providers and VBC companies pairs well with
+                               Sagility's care management offerings. The small footprint on the payer
+                               side and quality doing chart review can be extended to HEDIS abstraction
+                               and care gap closures. So we are very confident that Chirok will help us
+                               grow our provider business going forward.
+
+                               Moving to the next slide. A little bit on marketing and our thought
+                               leadership. This slide highlights how we are using marketing and thought
+                               leadership to accelerate our go-to-market solution motion. We are
+                               increasing go-to-market velocity. Our AI-led tools and workflows are
+                               helping teams bring together healthcare insights, Sagility capabilities,
+                               and relevant proof points faster, improving the speed and quality of
+                               solutioning. We are focusing our thought leadership on issues that matter
+                               most to our clients. Our perspectives cover priority areas such as CMS-
+                               0057-F compliance, payment accuracy, claims, and the application of
+                               intelligence across healthcare operations. This is helping us engage
+                               clients around their immediate business priorities.
+
+                               We are also making our capabilities more visible and easier to
+                               understand. Through CoreIQ, Sagility Synchrony, and SmarTec solutions
+                               we are showing the market how Sagility brings together deep healthcare
+                               expertise and practical AI to address real operational challenges.
+
+                               With that, I'll hand it over to MR to walk us through the financials, and then
+                               I will come back for closing comments. Over to you, MR.
+
+Srinivas Rathnam Mattapalli:   Thank you, Ramesh. Good evening, everyone, and thank you for joining
+                               us. Let me begin with the financial highlights for Q2 and H1 FY '27. Q2
+                               revenues were INR 20,321 million, or $212.6 million. This represents a
+                               year-on-year growth of 22.5% in INR terms and 12.2% in constant
+                               currency. Excluding our CareSeed acquisition, organic revenue growth
+                               was 22.2% in INR terms and 11.9% in constant currency. Our profitability
+                               also remained healthy. Adjusted EBITDA grew 23% year-on-year to INR
+                               5,353 million, with a margin of 26.3%. Adjusted PAT increased 8.1% to INR
+                               3,254 million, with a margin of 16%.
+
+
+
+
+                                                                                                    Page | 6
+
+Turning to the first half, H1 FY '27 revenue was INR 39,956 million,
+representing a year-on-year growth of 25% in INR terms and 13.7% in
+constant currency. Adjusted EBITDA was INR 10,069 million, with a
+margin of 25.2%, while adjusted PAT was INR 5,951 million. Cash
+generation also remained robust. In Q2, we generated operating cash
+flow of INR 3,182 million and a free cash flow of INR 2,760 million. For H1,
+the same numbers, operating cash flow was INR 6,343 million and free
+cash flow was at INR 5,176 million. This resulted in OCF to reported
+EBITDA conversion of 64.9%. Collections also improved with our DSO
+declining from 80 days in Q1 to about 78 days in Q2. Overall, the first half
+delivered strong growth, healthy margins, and a robust cash generation.
+
+Moving to the next slide. Let me talk about the sequential revenue movement
+in the context of our normal seasonality. The first half is typically the lower
+half of our annual revenue cycle, with AEP and open enrolment revenues
+concentrated in Q3 and Q4. Q2 revenues have increased to $212.6 million
+from $207.8 million in Q1, reflecting continued growth in our steady-state
+business.
+
+As we move into our second half, AEP and open enrolment volumes will
+begin to contribute revenue. We are working closely with clients to
+capture available volumes and grow their steady-state business. Our
+focus remains on operational readiness and consistent execution across
+key programs to help drive growth across the broader portfolio.
+
+Turning to our margins, we delivered our highest adjusted EBITDA margins
+in six quarters, improving from 24% in quarter one to 26.3% in quarter two.
+This improvement reflects stronger operating leverage, disciplined cost
+management, delivery efficiencies, and favourable foreign exchange
+movements. This was despite the continued impact of statutory wage
+revisions and our annual compensation increases.
+
+Overall, our steady-state business continues to grow at a healthy rate,
+supported by the resilience of our operating model. As we execute
+through the second half, we will remain focused on balancing growth
+investment with sustainable profitability.
+
+Moving to the next slide. Stepping back a little from the quarterly
+performance, this slide highlights the progress we have made over the
+past few years. Revenue increased from INR 47,536 million in FY '24 to
+INR 79,910 million on a trailing 12-month basis through September 2026.
+Over the same period, adjusted EBITDA grew from INR 11,436 million to
+INR 20,229 million, while adjusted PAT more than doubled from INR 5,896
+million to INR 12,250 million.
+
+
+
+                                                                      Page | 7
+
+Currently, our profitability has grown faster than revenue, reflecting
+improved operating leverage, disciplined execution, and lower finance
+and G&A costs. This performance demonstrates our ability to scale
+business while sustaining healthy margins, strengthening our cash
+generation, and creating greater capacity to invest in our future growth.
+
+On this slide, turning to the other indicators, adjusted EPS increased to
+INR 2.62 on a trailing 12-month basis through September 2026, supported
+by continued growth in adjusted PAT. Our adjusted ROCE remains strong
+at 55.4%, reflecting disciplined capital allocation and the strength of our
+asset-light business model.
+
+For H1 FY '27, operating cash flow conversion was 64.9%, while free cash
+flow conversion was 52.9%. This was achieved while continuing to fund
+growth and acquisition-related commitments. The most significant
+development in this slide is our continued strengthening of our balance
+sheet. We moved from a net debt of INR 1,962 million at the end of FY '26
+to a net cash position of INR 1,127 million by September 2026. This
+provides greater flexibility to invest in growth, technology, and selective
+strategic opportunities.
+
+This slide is a little busy, and it sets out the detailed consolidated profit
+and loss for Q2 and H1 FY '27. I have already covered the key movements
+of numbers of this slide, so I will just pause a couple of seconds to allow
+you to review these numbers. The only item I would want to highlight at
+this point is the impact of statutory minimum wage revisions. Quarter two
+reflects the full quarter impact of about INR 148 million compared to
+about INR 70 million in quarter one.
+
+Moving to the next slide. This slide provides a bridge from our reported
+EBITDA and reported PAT to our adjusted EBITDA and adjusted PAT for Q2
+and H1 FY 2027. For quarter two, reported EBITDA of INR 5,252 million
+reconciles to adjusted EBITDA of INR 5,353 million after adjusting for
+acquisition-related earnouts, share-based payment awards, other
+income, and foreign exchange movements. Similarly, reported PAT of INR
+2,842 million reconciles to our adjusted PAT of INR 3,254 million,
+adjusting for acquisition-related items, share-based payment awards,
+and amortisation of intangible assets.
+
+For H1, the bridge also includes exceptional past service costs included
+in Q1. There is no corresponding exceptional adjustment in Q2. These
+adjustments are consistent with our historical presentation and provide
+a comparable view of the underlying performance.
+
+
+
+
+                                                                    Page | 8
+
+                  Moving to next slide. This represents our forward-looking position and
+                  summarises the expected movements relating to debt payment, share-
+                  based payment awards, acquisition awards, earn-outs, and amortisation
+                  of intangible assets. We continue to remain on track to repay our
+                  outstanding debt fully during FY27 which will further strengthen the
+                  balance sheet and reduce our finance costs. The key movement in this
+                  slide reflects the CareSeed acquisition, scheduled debt repayments, and
+                  foreign exchange movements.
+
+                  Turning to our balance sheet. Again, the strength and flexibility of our
+                  financial position is a key takeaway from this slide. Our net cash position
+                  at the end of September 2026 gives us the capacity to fund our strategic
+                  priorities while retaining our flexibility for selective opportunities. We will
+                  continue to take a disciplined approach to capital allocation, balancing
+                  investment in technology, AI, and domain-led growth with appropriate
+                  returns to shareholders.
+
+                  Finally, let me close with our cash flow performance in the next slide.
+                  Cash flow performance for H1 FY '27, we generated operating cash flow
+                  of INR 6,343 million during our first half. After fixed asset additions of INR
+                  1,168 million, free cash flow was INR 5,176 million. Cash flow for
+                  acquisitions was INR 1,338 million. Net cash used for financing activities
+                  was INR 3,123 million, primarily reflecting the repayment of promoter
+                  borrowings and lease liabilities, as well as the dividend payment.
+
+                  Overall, our cash generation remains healthy and provides the flexibility
+                  to continue investing in growth.
+
+                  With that, I conclude my remarks. Thank you for your time. I'll now hand
+                  over the call back to Ramesh for his closing comments. Ramesh, over to
+                  you.
+
+Ramesh Gopalan:   Thanks, MR. As we enter the second half of FY '27, our immediate focus is
+                  AEP and open enrolment. This is a critical season for our payer clients.
+                  Across our key programs, our teams have been preparing for the expected
+                  increase in activity with a clear focus on capacity, operational readiness,
+                  and consistent delivery. We expect OE and AEP revenue to be slightly
+                  lower than last year. But in spite of this, we are continuing with our
+                  guidance of low double-digit organic revenue growth in constant currency
+                  for FY '27.
+
+                  Building on the strong Q2 execution, including our highest adjusted
+                  EBITDA margin in six quarters, despite minimum wage increases in
+
+
+
+
+                                                                                        Page | 9
+
+                       Karnataka and Telangana, we are raising our FY '27 adjusted EBITDA
+                       margin guidance from our earlier 24% to 25% to a new 25% to 26%.
+
+                       With that, I am happy to take questions, and for now, I'll hand it back to
+                       Siddharth.
+
+
+
+Question-and-Answer Session
+Siddharth Rangnekar:   Thank you. Participants who wish to ask a question, kindly click the raise
+                       hand icon at the bottom centre of your screen. We will wait for the
+                       questions to assemble. I'll repeat. Participants who wish to ask the
+                       question, kindly click the Raise Hand icon at the bottom centre of your
+                       screen. We shall wait for the queue to assemble.
+
+                       The first question comes from the line of Chirag Kachhadiya from Motilal
+                       Oswal. Chirag, your line has been unmuted.
+
+Chirag Kachhadiya:     Yeah. So congrats on a good set of performance in terms of profitability.
+                       Just couple of questions. The margin guidance which you increased. I
+                       mean what levers have contributed during the quarter irrespective of the
+                       wage hike impact or wage bill impact, we were able to post a good set of
+                       margins. And also, what gives you confidence that this margin trajectory
+                       will continue?
+
+                       And second, the acquisition which you announced on provider side, how
+                       large it can be from next two to three years perspective? Yeah.
+
+Ramesh Gopalan:        Yeah, I'll take the question on acquisition, and I'll ask MR to talk about the
+                       margin guidance in more detail. Like I said, I mean we've mentioned in the
+                       previous calls that growing the provider space is an increased focus for
+                       us. We've done a couple of things. We have reorganised our go-to-market
+                       in the provider space. We are giving it additional focus by creating a
+                       separate go-to-market team in the providers. And the acquisition of
+                       Chirok is also in line with that strategy.
+
+                       So like I said, Chirok fits the gap that we had in the mid-revenue cycle. And
+                       so with this, it kind of gives us an end-to-end capability in the revenue
+                       cycle and pretty strong at all components of that revenue cycle. So we are
+                       hoping to grow providers at a much faster clip than we've grown in the
+                       past. But Chirok, like I said, the trailing 12 months is about $13 million.
+                       And Chirok is also growing at a healthy clip. So combined with our
+                       capabilities and our ability to cross-sell each other's services, I'm
+                       expecting the provider to pick up its growth momentum.
+
+
+
+                                                                                           Page | 10
+
+Srinivas Rathnam Mattapalli:   Thanks, Ramesh. On the margin numbers, yes, it's been a combination of
+                               very good operating efficiencies that's kicked in during this quarter. Plus,
+                               a little bit of FX tailwind that we have got from quarter one to quarter two,
+                               and we also added a favourable geo mix that happened. So I think
+                               considering what we have been able to achieve in quarter two, we do feel
+                               that the full-year we'll be able to continue to leverage those efficiencies,
+                               and we expect the FX also to be remain at broadly the same levels. And
+                               that gives us a confidence to be able to raise our guidance to the 25% to
+                               26%.
+
+Chirag Kachhadiya:             Thank you.
+
+Siddharth Rangnekar:           Thank you. We move to the next question from the line of Rishi
+                               Jhunjhunwala from IIFL. Rishi, your line has been unmuted.
+
+Rishi Jhunjhunwala:            Yes. Thanks for the opportunity. Just going back to that question around
+                               the acquisition of Chirok, and just trying to understand a little bit more on
+                               the longer-term side. Historically, we have been predominantly on the
+                               payer side, and provider has been around that 10% odd. That is a space
+                               which has very different dynamics or industry dynamics in terms of being
+                               highly fragmented. You could still make decent margins, but competition
+                               also is higher. And there are a lot of assets which are otherwise available.
+                               So just wanted to understand the current acquisition is mostly to
+                               augment whatever we have. Or do you think there could be a thought
+                               process to increase the provider segment meaningfully over a period of
+                               time?
+
+Ramesh Gopalan:                Sorry, I didn't get the last part, Rishi. Can you repeat the last sentence?
+
+Rishi Jhunjhunwala:            Yes. I just wanted to understand whether the Chirok acquisition is only to
+                               augment whatever we have today, or can we potentially think of
+                               increasing the provider segment substantially for us over a medium-to-
+                               long-term as a proportion?
+
+Ramesh Gopalan:                Like I said, it's exactly to accelerate the growth in the provider segment.
+                               So like I've always maintained, provider market is also large. What you
+                               said is absolutely right. It's a lot more fragmented. But having said that,
+                               there are enough physician groups which are large in size, and there are a
+                               number of health systems which can be a good size in terms of revenue
+                               for us. The capability that Chirok brings in, and not just the capabilities
+                               and even the current set of clients, like I said, includes certain large health
+                               systems, includes some very large physician groups, and very uniquely
+                               some value-based care organisations. And all of these have tremendous
+                               potential for us to cross-sell some of our services, not just on the provider
+
+
+
+                                                                                                    Page | 11
+
+                      side, but also on the services that we've specialised on the payer side, like
+                      care management and quality and so on.
+
+                      Overall, I've been telling all of you that, yes, historically our focus on the
+                      provider segment has been lower than the payer, because we've been
+                      heavily indexed on the payer side. But we wanted to change that and give
+                      equal focus on the provider. So along with the Chirok acquisition, like I
+                      said, we've also made some changes in the go-to-market structure,
+                      created a very focused provider go-to-market engine. And so with the
+                      combination of these two, the idea is to accelerate the growth in the
+                      provider segment, so that it's a much larger percentage of our revenues
+                      going forward. It will take some time because we are still, like you said, at
+                      10% of our total revenues, but we want to accelerate that journey.
+
+Rishi Jhunjhunwala:   Got it. The other thing is, I think you mentioned that the enrolment season
+                      this year, the overall impact on growth may be potentially slightly lower.
+
+Ramesh Gopalan:       Yeah.
+
+Rishi Jhunjhunwala:   I think you had mentioned somewhere around six percentage point last
+                      year?
+
+Ramesh Gopalan:       Yeah.
+
+Rishi Jhunjhunwala:   If I'm not wrong.
+
+Ramesh Gopalan:       Yeah.
+
+Rishi Jhunjhunwala:   Any sense of how much lower could that be?
+
+Ramesh Gopalan:       Look, the open enrolment, the AEP season has just started, right. So these
+                      numbers could change a little bit. But basis current visibility, we think, like
+                      you said, it was 6% of our total revenues last year. We think it may be
+                      lower by 100 basis points or so. But all of this could change over the next
+                      several weeks. Because, I mean, we are staffing to capacity. We may have
+                      some flex capacity available, so if there are volumes to pick up, we'll pick
+                      up those volumes. But this could change. But, as we see today, we think
+                      it could be about 100 basis points or so lower than last year.
+
+Rishi Jhunjhunwala:   Understood. So not material that ways. And lastly, on the margin now that
+                      you have upgraded the margin guidance for the year, but slightly from a
+                      two to three-year perspective. Do you think this is where we should
+                      structurally be, or do you believe some of it could potentially be utilised
+                      to either gain more volumes or business, or offset any kind of AI-related
+                      productivity benefits that typically companies have to pass through? So
+
+
+
+
+                                                                                           Page | 12
+
+                       just wanted to understand whether this is more for this year or
+                       structurally.
+
+Ramesh Gopalan:        No. I mean, historically, our response has been that, look, we've always
+                       done between 24% and 26%, and we are happy to be in that range while
+                       trying to accelerate our top-line growth. So broadly, that is still the
+                       sentiment, right? So the improvement in operational efficiency coupled
+                       with FX tailwinds has increased our margin performance in Q2.
+
+                       On the AI front, like I said, a lot of the productivity gains that we gain from
+                       AI will basically be passed on to our clients. However, we will still retain
+                       some portion of those benefits, obviously, to fund our investments, and
+                       to compensate for the operating cost of some of those. But that's also
+                       likely to improve our margin a little bit. So there is a potential to increase
+                       margin, but a large part of the AI-based benefits are things that will flow
+                       back to the client.
+
+                       So to answer your question more specifically, I think it will still continue
+                       to be in the 24% to 26% range, but over a period of time, it could
+                       marginally increase if we manage to retain the benefits of AI.
+
+Rishi Jhunjhunwala:    Understood. Thank you. All the best.
+
+Siddharth Rangnekar:   Thank you. We take the next question from the line of Dipesh Mehta from
+                       Emkay Global. Your line has been unmuted, Dipesh.
+
+Dipesh Mehta:          Yeah. Thank you for the opportunity. A couple of questions. First off, on
+                       the provider side, I am listening to the organic business. It seems to be
+                       slightly weaker even on YoY basis. Can you help us understand, because
+                       earlier we were hopeful about growth returning in that business after four,
+                       five quarters of relatively absolute numbers remaining flattish. Just trying
+                       to understand, what is working there?
+
+                       Second, on the Chirok acquisition. If I look at the revenue trajectory over
+                       last three years, remained relatively weaker. But TTM revenue showing
+                       significant acceleration in growth compared to last calendar number
+                       reported. So can you help us understand what led to growth and the
+                       sustainability of that growth momentum? And how one should
+                       understand medium term growth profile of that business?
+
+                       And related question on there, we indicated adjusted EBITDA margin of
+                       35.8%. What kind of adjustment we made in that number when we say
+                       adjusted EBITDA? Thank you.
+
+
+
+
+                                                                                            Page | 13
+
+Ramesh Gopalan:                Okay. You asked a whole bunch of questions. So I'll leave the adjusted
+                               EBITDA question to MR. But I'll try and answer some of your other
+                               questions. Hopefully, I got them all.
+
+                               Yeah, on the Chirok acquisition, you are right. There was a dip in revenue,
+                               I think between '23 and '24 because volumes from one of their clients
+                               went down. But subsequently, growth has been back on track. And if you
+                               see the difference between CY '25 and the TTM numbers that we've
+                               presented, you can see that the growth has been pretty good. We expect
+                               Chirok to continue to grow at a healthy clip. I mean, I'll possibly give more
+                               guidance, hopefully, towards the end of FY '27. We just closed the deal
+                               yesterday.
+
+                               But overall, from the other question, yes, our provider business has also
+                               been in the 10% to 11%. And while we have grown clients and we've grown
+                               revenue, we've also had some revenue tapering off from some discrete
+                               projects from one of our provider clients. That's offset some part of the
+                               growth that we had in the provider business. And that's why you see that
+                               the rate of growth in the provider has been lower than that of the payer.
+                               And that's what we are trying to reverse going forward with the acquisition
+                               of Chirok and the combined capability that Sagility and Chirok now have.
+
+                               I'll ask MR to answer the adjusted EBITDA question. So the adjustments,
+                               historically, we've given you the list of adjustments we make, but it's there
+                               in one of the slides. MR, can you just…
+
+Srinivas Rathnam Mattapalli:   Yeah, it's there on Slide 17, the reconciliation between adjusted EBITDA
+                               and reported EBITDA.
+
+Dipesh Mehta:                  So it is like this only, there is no other adjustment in their adjusted EBITDA
+                               margin?
+
+Srinivas Rathnam Mattapalli:   No, there is no change that we have done this particular quarter. It
+                               continues to remain the same.
+
+Dipesh Mehta:                  No, I am asking for the acquired entity adjusted EBITDA margin. The way
+                               we define adjusted EBITDA, they also follow the same way, 35.8%?
+
+Srinivas Rathnam Mattapalli:   Yeah, yeah. We have equated what we report to what they do broadly.
+                               There might be minor differences, but broadly, yes. The 35.8% is broadly
+                               in line with what we have.
+
+Dipesh Mehta:                  And whether it would be largely linked with kind of revenue they make or
+                               last three year’s margin remained within that range, upwards of 30%?
+
+Ramesh Gopalan:                The margin has broadly remained the same.
+
+
+
+                                                                                                   Page | 14
+
+Dipesh Mehta:          Thank you.
+
+Siddharth Rangnekar:   Thank you. We move to the next question from the line of Rohit Thorat
+                       from Axis Capital. Your line has been unmuted, Rohit.
+
+Rohit Thorat:          Yeah. Thank you for the opportunity. So you mentioned that your
+                       endeavour is to grow provider segment much faster than payer going
+                       forward. But inherently, see there is a conflict of interest between payers
+                       and providers. Like if one entity is benefiting, the other one loses. So do
+                       you believe there is any friction from clients for giving business to
+                       outsourcer which is operating in both segments? Or are they more
+                       comfortable giving RCM business to purely RCM payers only? So could
+                       you give some colour on that, or that really doesn't matter, like clients
+                       usually don't have any issues due to this?
+
+Ramesh Gopalan:        Yeah. So, Rohit, the first hypothesis that if one wins other has to lose, is
+                       not true. So the work that we do is we help clients run their operations
+                       more efficiently. So that's what we do for payers, that's what we do for
+                       providers. Each party can run their operations more efficiently without it
+                       having to have a negative effect on the other.
+
+                       In terms of, I mean, we've had our provider business for almost 15 years
+                       along with the payer business, and there is no inherent conflict, because
+                       it's not that we bypass the traditional ways of how payers and providers
+                       work with each other. On the other hand, the fact that we work for both
+                       providers and payers have, in fact, helped us bridge some of the issues
+                       between providers and payers in terms of the friction around claims
+                       denials, and delays in payments, and so on. So we've brought them
+                       together, and we've devised new ways of working by which both parties
+                       could gain efficiency. So there is absolutely no reason why we can't grow
+                       both of the businesses together. And like I said, we've run both those
+                       businesses for at least 15 years together.
+
+Rohit Thorat:          Okay. Second question is regarding Chirok acquisition. If I look at revenue
+                       per headcount for Chirok, and if I compare it to the provider-focused
+                       player which is listed in India, the revenue per headcount is significantly
+                       lower compared to another listed peer in provider space. So what could
+                       explain such a significant difference in that metric?
+
+Ramesh Gopalan:        I mean I can't answer the question very specifically at this point in time. I
+                       mean we can come back to you once we understand more details.
+                       However, from our diligence, the pricing for their services, when we did
+                       our commercial diligence, our understanding is the pricing is at market.
+                       So it's not that they are much lower priced for their services compared to
+
+
+
+                                                                                          Page | 15
+
+                       competition. But beyond that, if you say that the revenue per headcount
+                       is lower, that's something that I need to look into and come back later.
+
+Rohit Thorat:          Thank you for the opportunity.
+
+Siddharth Rangnekar:   Thank you. We next move to the line of Vamshi Krishna of Kotak
+                       Institutional. Vamshi, your line has been unmuted.
+
+Vamshi Krishna:        Sure. Yeah. Thanks. Thanks, Ramesh, and really strong execution this
+                       quarter. So my first question was on your starting comments that there
+                       has been some let-up in the medical costs. At least they have stabilised
+                       and not increasing for most of the providers. And then it appears that the
+                       star ratings are also favourable for some of the large nationwide payers.
+                       So does that mean that the extent of productivity or the cost pressures
+                       that the suppliers would have had to share with the clients, would that be
+                       lower compared to what it was in the last couple of years?
+
+Ramesh Gopalan:        Sorry. I understood your question. So is your question, will the cost
+                       pressures on my clients be lower? Is that what you are asking?
+
+Vamshi Krishna:        No. Since the medical costs of the clients are stabilising, or at least
+                       coming off slightly, does it mean that the vendors such as you will have
+                       lower cost pressures in engagements?
+
+Ramesh Gopalan:        No. This is all relative, right? So like I said, while the medical utilisation
+                       rates have eased off a bit, that's also because of some recalibration of
+                       membership and so on. The focus continues to remain cost takeout from
+                       operations. And so that's something that most of our clients are still
+                       focused on, right? So their need to take out cost and take the help of
+                       partners like us has not gone down.
+
+                       In terms of pressures on us because of that, I mean, those pressures will
+                       always be there because now with the availability of AI and other
+                       transformational opportunities, clients are expecting service providers
+                       like us to take out more costs from the work that we do. So I don't think
+                       that is going to go away. And like I said, even with that, we still have ways
+                       to help clients take out cost while not impacting our margins. And as you
+                       can see from our numbers, that's not really impacted our margins.
+
+Vamshi Krishna:        Okay, perfect. Thanks for the response. And second is on the Chirok
+                       acquisition. So just wanted your thoughts on the mid-cycle RCM space,
+                       where it appears that there are some elevated pressures of new
+                       competition or even disruption from AI appears to be a little elevated
+                       compared to the back end or the other parts of the RCM. So just wanted
+                       to get your thoughts on the asset that you have acquired. So what led to
+
+
+
+                                                                                           Page | 16
+
+                               that? Is it some commonality in clients which has led you to acquire this
+                               asset?
+
+Ramesh Gopalan:                No. So the answer to the last question, no, there are no common clients.
+                               The answer to your first question, yes. I mean, AI is a disruptor in almost
+                               any aspect of operations, right? So when you say disruptor, AI can
+                               improve efficiencies in almost every single thing that we do for either a
+                               payer client or a provider client. And what Chirok does is no exception.
+
+                               Having said that, even in coding, the areas that are most vulnerable are
+                               outpatient coding. Whereas clients still today feel that inpatient coding is
+                               something that AI is still not very good at, right? And so while AI will
+                               continue to play a role in terms of improving the efficiency of the work that
+                               we do and Chirok does, it is unlikely to eliminate it completely, right? So
+                               we've had a lot of conversation not only with Chirok, but also some of their
+                               clients, and they continue to believe that the services that Chirok
+                               provides will continue to be relevant even into the future.
+
+Vamshi Krishna:                Good. And last question, have you included Chirok in your guidance, or is
+                               the low double-digit growth guidance entirely on that?
+
+Ramesh Gopalan:                No, that's organic growth. But, yes, Chirok and CareSeed will be on top of
+                               that.
+
+Vamshi Krishna:                Got it. Thanks.
+
+Siddharth Rangnekar:           Thank you. We move to the next question from the line of Akshat Agarwal
+                               from Jefferies. Akshat, your line has been unmuted.
+
+Akshat Agarwal:                Thank you, gentlemen. Congratulations on a good set of numbers,
+                               Ramesh, Srini. I had a couple of questions. Firstly, following up on Rishi's
+                               question on open enrolment. So if the contribution is going to be 100 basis
+                               points lower, given that your overall revenue base has expanded year-on-
+                               year, effectively, you are talking about flattish revenues from open
+                               enrolment on a year-on-year basis. Is that understanding correct?
+
+Ramesh Gopalan:                Probably, yes. Flattish revenues. MR, is that right? Or it may be little less
+                               than flattish, yeah.
+
+Srinivas Rathnam Mattapalli:   Marginally lower than flattish, I would say, at this point of time. As Ramesh
+                               said earlier, obviously, it's still the early start of the season. We might pick
+                               up, but at this point, yeah, it is slightly lower.
+
+Akshat Agarwal:                Perfect. The second bit is, last quarter you talked about minimum wages
+                               being raised in Telangana and Karnataka, and its impact on your margins.
+                               And from what we understand, it's not been fully implemented, right? Or
+
+
+
+                                                                                                     Page | 17
+
+                               there has been a stay which has been put. So when do you expect this to
+                               be implemented, if at all? And if it's not going to be implemented, can
+                               there be potential upsides to our margin guide? That's the first question.
+
+                               Second one is, there is a consistent decline in your delivery centres. Last
+                               year it was 33 in FY '25. March '26, it fell to 31. And this quarter, we are
+                               seeing the number to go down to 28. Is there any potential upside to
+                               further reduction in delivery centres? And if that's the case, what kind of
+                               margin expansion could that lead to for you guys?
+
+Ramesh Gopalan:                So…
+
+Srinivas Rathnam Mattapalli:   Let me. Can I take that, Ramesh?
+
+Ramesh Gopalan:                Yeah, please. Go ahead.
+
+Srinivas Rathnam Mattapalli:   So on the minimum wage, obviously the impact has been fully baked in
+                               our numbers. At this point, what we have talked about in terms of
+                               guidance reflects the impact from end May and 1st June respectively for
+                               Karnataka and Telangana. Yeah, I mean, if there is some change in what
+                               has been called out, I mean, there could be a potential upside of those
+                               numbers. But at this point, we have fully baked in those numbers.
+
+                               On the other point on facilities, some of those change in the numbers is
+                               also reflection of the way we are counting our facilities. For example, if
+                               there are multiple facilities in one sort of park or one campus, we are now
+                               counting that as one. So if you look at the number of seats, that's
+                               definitely continued to increase. The number of sites might technically be
+                               down more because multiple sites are counted as one now, because it's
+                               in one campus.
+
+Akshat Agarwal:                I see now. The reason I was making this point is because there is a sharp
+                               reduction in your lease liabilities and right-of-use assets. I thought maybe
+                               some of these leased facilities are being let go of, which is driving this.
+                               Which shows up in the delivery centre numbers as well.
+
+Srinivas Rathnam Mattapalli:   Yeah. There are a couple of sites that we had closed earlier, in places like
+                               our Jamaica operations. But again, as I said, it's more from a
+                               consolidation perspective and increasing our footprint in the same site.
+                               There is also a temporary movement from our short-term leases for a few
+                               of the sites as we are in the process of consolidating and maybe moving
+                               to newer sites. So that would reflect as short term rent and not be part of
+                               the lease assets.
+
+
+
+
+                                                                                                 Page | 18
+
+Akshat Agarwal:                Perfect. That's all from my side. Thank you so much, and congratulations
+                               on a good set of numbers again.
+
+Srinivas Rathnam Mattapalli:   Thank you.
+
+Siddharth Rangnekar:           Thank you. We move to the next question from the line of Sujay Chavan
+                               from Prabhudas Lilladher. Your line has been unmuted, Sujay.
+
+Sujay Chavan:                  Yeah. Thank you for the opportunity. Most of my questions have been
+                               answered, so I will just focus on the provider segment. Now we have said
+                               that we want to explicitly increase our provider segment. Now this has
+                               been hovering for about 10% for quite some years. So is there any goal or
+                               any internal target that we have said that we want to expand to? And
+                               taking it forward, what are the sort of investments that we would like to
+                               make and any impact on the margins, if there are any?
+
+Ramesh Gopalan:                Sujay, there is no explicit target that I can give you at this point. Like I said,
+                               we want to accelerate the growth in our provider segment, and we want it
+                               to be a higher percentage of our total revenue. But beyond that, there is
+                               no explicit two-year or three-year target that I can give you at this point. In
+                               terms of investment in Chirok is the big investment, right? As you know,
+                               one of the things in wanting to grow is also to plug any gaps in capability,
+                               which is what Chirok will help do for us. So that's a big investment that
+                               we've already done. We have also, like I said, basically created a
+                               dedicated go-to-market team.
+
+                               These investments in sales and marketing is not going to have a major
+                               impact on our margins. So all of that is baked into our regular SG&A. So to
+                               answer your question, no, it's not going to have a direct impact on the
+                               margin. But the aim is to accelerate the growth in the provider space.
+
+Sujay Chavan:                  Yeah. Okay. Thank you. That's it from my side.
+
+Siddharth Rangnekar:           Thank you. We move to Vibhor Singhal from Nuvama. Vibhor, your line has
+                               been unmuted.
+
+Vibhor Singhal:                Yeah. Hi. Thanks for taking my question, and congrats to the team for a
+                               very solid performance. So Ramesh, just a couple of questions from my
+                               side. On the ACV number that we have seen that stands quite solid this
+                               quarter. So just trying to get a hang of this number. Does this include deals
+                               from the payers as well as the provider segment? And if yes, is there any
+                               major difference between the kind of deals that we win in payers and
+                               provider segment? Are the provider deals, let's say, longer duration or
+                               shorter duration? Are they higher margins? Do they have a higher GenAI
+                               component? Any colour on that would be really helpful.
+
+
+
+                                                                                                      Page | 19
+
+                  And my second question is on the acquisition. As you mentioned, the
+                  Chirok Health acquisition that we've done is in the middle cycle of RCM
+                  providers that we are looking at. So taking that into account, given that we
+                  are not necessarily acquiring revenues, just we are acquiring capabilities.
+                  Any other white spaces that come to the mind immediately that you
+                  would be probably looking for in terms of acquisition in the near to
+                  medium term?
+
+Ramesh Gopalan:   Yeah. I forgot what the first question was. Sorry.
+
+Vibhor Singhal:   The deal wins across payers and providers.
+
+Ramesh Gopalan:   Yeah. Deal wins. So look, the deal wins on the payer side is a combination
+                  of large and smaller deals. When you win additional opportunities with
+                  existing clients, some of them could be a small tuck-in deal. Like the
+                  payment integrity deal that I spoke about, over $10 million in ACV. That's
+                  a very large deal. However, the deals on the provider side tend to be
+                  smaller so far. Because we either get the front end of the RCM for a
+                  midsize provider or the back end. So they tend to be smaller in size.
+
+                  Having said that, with the new capability, I think we can go for a slightly
+                  larger deal size on the provider side also. But historically, the provider
+                  deals has been smaller. Margin, I don't think is very different between a
+                  payer and provider business. So roughly, I would say the gross margin
+                  level, plus or minus 200 to 300 bps would be the difference, and that's
+                  very deal specific. So we could make slightly higher margin on one deal
+                  and lower margin on other. But structurally, there is not a big difference in
+                  the margins between the two segments. The other question that you
+                  asked was, sorry?
+
+Vibhor Singhal:   The white spaces in the portfolio that you might…
+
+Ramesh Gopalan:   Look, at this point, we continue to look at if there are things in the clinical
+                  space that we can continue to fill gaps in, right? But broadly, I would say,
+                  both payer and provider side, we are reasonably, from a capability point
+                  of view, we are at a really good spot, right? So while I'll never say no to
+                  another acquisition if it comes with either a specific capability that we
+                  don't have or a set of clients that are attractive. At this point, I can't tell
+                  you any specific capability that we are still looking to specifically fill.
+
+Vibhor Singhal:   Got it. Just as a follow-up bookkeeping question, in the $40 million at ACV,
+                  what part would be the payer and provider if there is a breakup, a broad
+                  number, if we could have?
+
+Ramesh Gopalan:   I don't have that number offhand, but we can get back to you.
+
+
+
+                                                                                       Page | 20
+
+Vibhor Singhal:        Okay. Sure, I will take that offline.
+
+Ramesh Gopalan:        Thanks.
+
+Vibhor Singhal:        Great. Yep, sure. Thanks for taking my questions, and wish you all the
+                       best.
+
+Siddharth Rangnekar:   Thank you. We move to the line of Madhuchanda Dey from MC Pro. Your
+                       line has been unmuted, Madhuchanda.
+
+Madhuchanda Dey:       Hi. Good evening, and congratulations on a very solid quarter. My
+                       question is on the Chirok acquisition. So I wanted to understand from you
+                       qualitatively, what are the inefficiencies that Sagility plans to address to
+                       start with in Chirok? Because the margins of Chirok, as you have
+                       mentioned, is already pretty high. It is a very decent margin. So basically,
+                       what are the low-hanging fruits that you plan to address, to start with?
+
+Ramesh Gopalan:        So the simple answer to your question is this is not an acquisition where
+                       we want to try and improve the margins of Chirok. So that isn't the goal of
+                       this acquisition. The acquisition was to increase our capabilities in the
+                       revenue cycle. So the main focus of this acquisition is the revenue
+                       synergies and how we can use this complementary set of skills to grow
+                       the overall business. So that's going to be the focus. Along the way, if
+                       there are any efficiencies that we can get through shared services and so
+                       on, we'll obviously look at those efficiencies. But that's not the prime
+                       focus of this acquisition. The focus, like I said, is more on revenue
+                       synergies and trying to grow the revenue line.
+
+Madhuchanda Dey:       Got it. So in terms of, say, if I may just ask this question. You mentioned
+                       that $13 million was the trailing 12 months revenue. So what kind of
+                       potential does it have? What kind of scaling up potential is there for this
+                       entity under Sagility?
+
+Ramesh Gopalan:        Look, Sagility, like I said, first to an earlier question, I had said we don't
+                       have any overlapping clients. So the very first potential is whether we can
+                       cross-sell each other's services. We don't do the set of services that
+                       Chirok does today, and Chirok doesn't do a lot most of what we do. So, is
+                       there a potential to cross-sell each other's services to each other's
+                       clients? So that's the first potential.
+
+                       And two, when you combine the mid-cycle along with the front and the
+                       back office, and you have an end-to-end revenue cycle capability, what
+                       kind of new opportunities that it presents to us? Can we increase the size
+                       of deal wins to the earlier question? If I have an end-to-end capability in
+                       RCM, can I leverage that to increase the deal win sizes? So those are the
+
+
+
+                                                                                           Page | 21
+
+                       obvious tracks that we'll be working on. Plus the one thing that I also said
+                       is it also comes with some capabilities that are of use in value-based care
+                       organisation, which is also then transferable to payer organisation.
+
+                       While the focus of Chirok was mainly to accelerate our provider journey,
+                       some of the capabilities that Chirok has is also something that we can
+                       take to some of our payer clients. But that's another track that we will be
+                       working on. So all of these has tremendous potential. But like I said, the
+                       acquisition closed yesterday. We will come back and give you a better set
+                       of guidance as we go along.
+
+Madhuchanda Dey:       Great. Thank you.
+
+Siddharth Rangnekar:   Thank you. We move next to the line of Ruchi Mukhija from ICICI
+                       Securities. Your line has been unmuted, Ruchi.
+
+Ruchi Mukhija:         Many congratulations on a very good execution Ramesh and team. My
+                       question was on the acquisition and your provider of business. Could you
+                       help us identify the client characteristics for your provider business and
+                       how, for the combined entity, the client profile would look now, possibly
+                       the skew between large hospital systems and clinicians?
+
+Ramesh Gopalan:        So Ruchi, it's not that we don't have this nature of the clients that Chirok
+                       has, right? We also, Sagility also has large health systems as clients.
+                       Traditionally, we didn't have too many physician groups as clients. Chirok
+                       also has physician groups as clients. So that could be one nature of client
+                       group that will be new to us. Sagility has large health systems as clients.
+                       It has got ancillary providers like lab companies, durable medical
+                       equipment companies, radiology companies as clients. Whereas Chirok
+                       is more focused, like I said, on large health systems, physician groups,
+                       and some value-based care organisations, which is again, something that
+                       we don't have in our client base. So there are a couple of client groups
+                       that may be new to us, but then health systems is something that Sagility
+                       also has in its portfolio.
+
+Ruchi Mukhija:         And going forward, as we build on our provider practice, do you expect our
+                       intensity for solutioning and maybe platform buildup for provider to go
+                       up?
+
+Ramesh Gopalan:        Yeah. From a capability point of view, like I said, it gives us more of an end-
+                       to-end capability. I spoke to you about the Synchrony lifecycle solutions.
+                       We are also using AI to improve the efficiency of what we do in the RCM
+                       space. We will extend those capabilities to the mid-cycle through Chirok.
+                       So both from a service capability as well as from a technology capability,
+
+
+
+
+                                                                                            Page | 22
+
+                               we think, as a combined group, we will have a lot to offer to provider
+                               clients.
+
+Ruchi Mukhija:                 Got it. Thank you, and all the best.
+
+Ramesh Gopalan:                Thank you.
+
+Siddharth Rangnekar:           Thank you. That concludes the last of the questions for the day. On behalf
+                               of Sagility, we thank you for your time. And you may now log off the event.
+
+Ramesh Gopalan:                Thank you, everyone.
+
+Srinivas Rathnam Mattapalli:   Thank you, everyone.
+
+
+Disclaimer: This is a transcription and may contain transcription errors. The transcript has been
+edited for clarity. The Company takes no responsibility of such errors, although an effort has been
+made to ensure high level of accuracy.
+
+
+
+
+                                                                                                Page | 23
+

@@ -1,0 +1,47 @@
+                                                                                                                www.stl.tech
+
+
+     To,
+     The Listing Department,
+     National Stock Exchange of India Limited (NSE)
+
+     Subject: Clarification regarding deficiency in Standalone Financial Results (XBRL) filed for the Financial
+     Year ended March 31, 2026.
+
+     Ref: NSE Email dated May 05, 2026 - Clarification for Financial results – STLTECH
+
+     Dear Sir/Madam,
+
+     This is with reference to the query raised regarding the non-mentioning of EPS in the Standalone XBRL
+     filing submitted on April 29, 2026.
+
+     We wish to clarify that the EPS figures were duly included in the Audited Standalone Financial Results
+     filed on stock exchanges on April 29, 2026 as a part of Board Meeting Outcome. However, due to
+     typographical oversight during the conversion/tagging process of the XBRL instance file, the EPS values
+     were not captured in the Standalone XBRL submission.
+
+     We have now rectified this discrepancy and are herewith submitting the revised XBRL instance file after
+     including the EPS data.
+
+     We request you to kindly take the same on record.
+
+     Thanking you,
+
+     For Sterlite Technologies Limited
+      MRUNAL    Digitally signed by
+                MRUNAL
+      ASAWADEKA ASAWADEKAR
+                Date: 2026.05.06
+      R         11:53:58 +05'30'
+
+     Mrunal Asawadekar
+     Company Secretary & Compliance Officer
+     Membership No.: A 24346
+
+
+
+
+Sterlite Technologies Limited
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411001, India.
+CIN - L31300PN2000PLC202408
+

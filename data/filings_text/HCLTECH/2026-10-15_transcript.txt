@@ -1,0 +1,1111 @@
+                                                                                                                   October 15, 2026
+
+
+The General Manager                                            The Manager
+BSE Limited                                                    National Stock Exchange of India Limited
+Listing Department                                             Listing Department
+Phiroze Jeejeebhoy Towers                                      Exchange Plaza
+Dalal Street                                                   5th Floor, Plot No. C-1, Block-G
+Mumbai- 400 001                                                Bandra-Kurla Complex, Bandra(E)
+                                                               Mumbai-400 051
+
+BSE Scrip Code: 532281                                         NSE Scrip Code: HCLTECH
+
+
+
+Subject: Transcript of the Conference Call held on October 12, 2026
+
+
+Dear Sir / Madam,
+
+
+In terms of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, enclosed
+please find a copy of the transcript of the Conference Call held on October 12, 2026, post the
+announcement of the financial results of the Company for the quarter ended September 30, 2026.
+
+
+The is also available on our Company’s website https://www.hcltech.com/investor-relations.
+
+
+This is for your information and records.
+
+
+Yours faithfully,
+For HCL Technologies Limited
+ MANISH Digitally signed by
+        MANISH ANAND
+
+ ANAND 22:24:56 +05'30'
+        Date: 2026.10.15
+
+
+
+Manish Anand
+Company Secretary
+
+
+Encl.:a/a
+
+
+
+
+HCL Technologies Ltd.
+Technology Hub, Special Economic Zone                Corporate Identity Number:    L74140DL1991 PLC046369
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India   Registered Office:
+t: +91 120 4306000                                   806 Siddharth, 96, Nehru Place, New Delhi   - 110019, India
+
+Classification: Internal
+
+
+
+
+                           “HCL Technologies Limited Q2 FY'27 Earnings Conference Call”
+
+
+                                                October 12, 2026
+
+
+
+
+            Management:
+            Mr. C. Vijayakumar – Chief Executive Officer & Managing Director
+            Mr. Shiv Walia – Chief Financial Officer
+            Mr. Nitin Mohta – Senior Vice President & Head - Investor Relations
+
+
+                                                        1
+
+                                                                    HCL Technologies Limited
+                                                                           October 12, 2026
+
+
+Moderator:       Ladies and gentlemen, good day, and welcome to HCLTech's Q2
+                 FY27 Earnings Conference Call. As a reminder, all participant lines will
+                 be in the listen-only mode, and there will be an opportunity for you
+                 to ask questions after the presentation concludes. Should you need
+                 assistance during this conference, please signal an operator by
+                 pressing star then zero on your touch-tone phone. Please note that
+                 this conference is being recorded. I now hand the conference over to
+                 Mr. Nitin Mohta, Head, Investor Relations. Thank you, and over to you.
+
+Nitin Mohta:     Thank you, Dorwin. Good morning, and good evening, everyone. A
+                 very warm welcome to HCLTech's Quarter 2 FY27 Earnings
+                 Conference Call. We have with us Mr. C Vijayakumar, CEO and
+                 Managing Director, HCLTech; Mr. Shiv Walia, Chief Financial Officer;
+                 along with the broader leadership team to discuss the performance
+                 of the company during the quarter, followed by a Q&A.
+
+                 In the course of this call, certain statements that will be made are
+                 forward-looking, which involve a number of risks, uncertainties,
+                 assumptions, and other factors that could cause actual results to
+                 differ materially from those in such forward-looking statements. All
+                 forward-looking    statements     made    herein     are   based     upon
+                 information presently available to the management, and the
+                 company does not undertake to update any forward-looking
+                 statement that may be made in the course of this call.
+
+                 In this regard, please do review the safe harbor statements in the
+                 formal investor release documents and all the factors that can cause
+                 a difference. Over to you, CVK.
+
+C Vijayakumar:   Thank you, Nitin. Good day, everyone. Thank you for joining us for
+                 HCLTech's Q2 FY27 earnings call. We delivered a solid quarter, and I
+                 would like to begin with the key headlines of the quarter. First, our
+                 Advanced AI services continues to scale rapidly and is becoming a
+                 key growth driver for HCLTech.
+
+
+
+                                         2
+
+                                                 HCL Technologies Limited
+                                                        October 12, 2026
+
+
+Number two, new bookings were the second highest in our history
+and the strongest first half of any financial year. Number three,
+margins expanded significantly through disciplined execution and
+higher-margin Advanced AI revenue. Before I go through the
+numbers, please note that all growth rates that I mention are in
+constant currency, except for bookings and ARR.
+
+Our services business, which is more than 90% of our business,
+delivered a strong performance. Services grew 3% sequentially and
+4% YoY, with
+
+growth of 2.3% sequentially. IT and Business Services grew 2.7%
+sequentially and 4.4% YoY, while Engineering and R&D Services grew
+4.1% sequentially and 2.1% YoY.
+
+Growth was broad-based across verticals and geographies,
+reflecting how closely our portfolio is aligned with the clients -- with
+what the clients are prioritizing today, be it AI, cloud, data,
+cybersecurity, or application modernization. Advanced AI revenue
+reached $219 million this quarter, up 28.4% sequentially and 78% YoY.
+And the annualized Advanced AI revenue is now $876 million.
+
+This quarter's performance validates our strategy and advances our
+ambition to become the leading AI solutions company for the global
+enterprises. You can also see that we are able to offset AI-driven
+deflation by gaining market share in our core services and through
+our Advanced AI offerings, which is helping us capture a share of the
+rapidly expanding AI spend across the technology ecosystem.
+
+This is the growth template we aim to consistently replicate going
+forward. Overall revenue grew 2.3% sequentially and 2.6% YoY.
+Software revenue declined 5.8% sequentially and 11.2% YoY, and this
+weighed on our overall growth. HCLSoftware's ARR stood at $1.134
+billion, up 7.8% YoY, which is the best measure of the health of this
+business, and it is growing.
+
+
+                        3
+
+                                                  HCL Technologies Limited
+                                                         October 12, 2026
+
+
+A little later, Shiv will share more details on the factors driving the
+software performance this quarter. Our EBIT margin was 18.2%, an
+improvement of 131 basis points sequentially and 71 basis points YoY,
+and it came ahead of our expectations. This expansion was driven by
+higher margins in Advanced AI and gains from AI across our
+operations. We achieved this while continuing to invest in AI
+capabilities, IP, and talent.
+
+Let me now turn to bookings. New deal bookings reached $3.3 billion,
+up 27% YoY and 35% sequentially. This is the second-highest
+bookings quarter we have ever recorded and gives us our strongest
+first half bookings. Clients are working with us on more strategic
+programs and are choosing us to shape their technology agenda. AI
+was a central theme in every large deal we won. I will discuss them
+when I go through the pillars of our AI strategy.
+
+Our people count stood at 230,339 as of the end of last quarter, a net
+increase of 6,450 sequentially. Attrition was 12.8% on LTM basis.
+Revenue per employee improved by 2.4% YoY, a clear sign that our AI
+strategy is improving productivity across the business.
+
+I would also like to touch upon another topic. Over the last many
+years, we've ramped up our in-country recruiting efforts to build a
+significant local talent base. This is part of our talent strategy, and we
+will continue with this.
+
+In the last couple of years, the number of PERM applications we have
+filed is a very small number. Hence, we do not expect the US
+Department of Labor decision to suspend the PERM program to have
+any material impact on our talent plans or client engagements.
+
+Turning to our AI strategy, we continue to execute against the five
+pillars of our AI strategy, and this quarter, we saw them contribute as
+one integrated growth model. Pillar 1 is proactively transforming our
+services, where we are systematically embedding AI across our
+
+
+                           4
+
+                                                 HCL Technologies Limited
+                                                        October 12, 2026
+
+
+delivery model. And as AI adoption expands from targeted
+deployments to enterprise-wide transformation across engineering,
+operations, and modernization, we have seen three clear benefits.
+
+First, AI is improving productivity, quality and client outcomes. For
+example, for a leading private bank's complex core banking
+migration, we built an agentic AI solution that converts functional
+specifications into validated, review-ready code for the target
+platform in about 10 minutes per routine, with engineers approving
+every output. It averaged 87% accuracy for an estimated 9x
+productivity gain.
+
+Second, it is deepening client relationships and driving larger
+engagements. Guardian Life Insurance selected us to accelerate its
+AI-driven technology transformation and deliver seamless customer
+experience. In this multiyear partnership, Guardian will use HCLTech's
+AI Force, our service transformation platform, to drive innovation
+across the enterprise.
+
+The third benefit we are seeing is AI-led transformation is now a key
+enabler of almost all our large wins. For example, a leading global
+industry technology company selected us to modernize its mobile
+application ecosystem.
+
+Using AI Force and through a smart migration factory, we will deliver
+AI-led assessment, disposition, conversion, upgrade, and testing. This
+platform-as-a-service outcome-based model is expected to enable
+rapid and largely touchless modernization and support the
+transformation of 7,500-plus applications.
+
+Pillar 2 is building differentiated AI IP. As AI becomes universal, we
+believe differentiation will come not from models and compute, but
+from platforms, agents, and engineering IP that lets enterprises
+deploy AI securely, responsibly, and at scale.
+
+
+
+
+                         5
+
+                                                 HCL Technologies Limited
+                                                        October 12, 2026
+
+
+We have matured AI Force into a platform supporting software
+engineering, legacy and product modernization, data engineering,
+COTS migration, business operations, and IT operations. We released
+a new version this quarter, and AI Force Agent Store now offers 900-
+plus agents, enabling reuse of proven capabilities and greater
+autonomy across enterprise workflows.
+
+Legacy and product modernization is emerging as an important
+growth vector. By combining AI Force with our engineering expertise,
+we apply AI across code analysis, documentation, remediation,
+testing, migration, and support, lowering the cost, risk, and time these
+programs have traditionally required. This opens a substantial pool of
+client spending, with adjacent opportunities in cloud, data, and
+operations.
+
+Our IP is also gaining recognition. HCL DevOps Loop from
+HCLSoftware, powered by AI Force, was named a Visionary in the
+2026 Gartner Magic Quadrant for DevSecOps platforms. We've built
+more than 20 industry AI solutions, moving us from horizontal
+capabilities to industry-specific processes and outcomes. And in
+physical AI, VisionX 3.0 introduced a fully agentic architecture with
+new releases for oil and gas and mobility industries.
+
+Finally, in our Software business, we announced our intent to acquire
+Robotiq.ai, a Croatia-based enterprise RPA platform provider, to
+strengthen    orchestration   across    AI   agents     and   enterprise
+applications in HCL GuNo.
+
+Pillar 3 is expanding our AI services. This is an important growth
+engine and a strong area of momentum. The opportunity spans the
+full enterprise AI life cycle, defining strategy and governance,
+building compute foundations, our software IP, and deploying and
+operating agentic AI, Physical AI, and industry solutions.
+
+
+
+
+                        6
+
+                                                      HCL Technologies Limited
+                                                             October 12, 2026
+
+
+Our agentic AI offerings has crossed $100 million per quarter this
+quarter. Clients increasingly want a partner that can integrate
+infrastructure, data, models, applications, and operations. Our AI
+factory proposition answers that need and enables HCLTech to
+participate across the AI value chain, from compute infrastructure
+through applications and business outcomes.
+
+Working closely with NVIDIA's AI factory specialists, our AI factory
+specialists were among the first and had built, validated, and
+benchmarked complete rack-scale GB200 NVL72 systems end-to-
+end. Our AI factory proposition grew 64% QoQ and is a meaningful
+growth driver.
+
+An AI research company based in the US selected HCLTech as its
+strategic partner for a large AI factory program. The company is
+focused on radically improving AI data efficiency and making AI
+models mirror human cognition.
+
+HCLTech will leverage its expertise in networking, cybersecurity, HPC
+infrastructure,    and    AI   platform    software     to     integrate   and
+operationalize a production-ready AI factory. This win reflects an
+emerging category in which clients want a single partner to integrate,
+operationalize,     and    ultimately     manage      highly     complex    AI
+environments.
+
+A US-based neocloud provider selected HCLTech to build and scale
+its AI-native architecture and infrastructure capabilities that enable
+hyperscalers and enterprises to unlock the full potential of AI at
+scale.
+
+A Europe-based financial services provider selected HCLTech to
+deploy an agentic solution to provide commercial relationship
+managers with real-time portfolio insights and proactive covenant
+monitoring,       increasing   capacity,    reducing         manual    effort,
+
+
+
+
+                          7
+
+                                                HCL Technologies Limited
+                                                       October 12, 2026
+
+
+strengthening risk management, and unlocking new cross-sell
+opportunities to support up to 2x revenue growth.
+
+A US-based healthcare provider selected HCLTech to deploy
+ChatGPT Enterprise and establish a governed AI operating model
+that enables secure integration of AI capabilities across enterprise
+applications, delivering context-aware experiences that enhance
+employee productivity while maintaining enterprise-grade security,
+risk management, and compliance.
+
+A US-based global power technology company selected HCLTech to
+build an AI-powered digital thread that combines agentic AI and
+intelligent orchestration to connect engineering, manufacturing,
+supply chain, and service operations, enabling faster decision-
+making, accelerated time-to-market, and enterprise-wide AI
+transformation.
+
+There are several other deals in the investor release. Physical AI
+continues to deliver encouraging revenue growth across Robotics,
+IoT, and Edge AI, building on our engineering and operational
+technology heritage. We're also continuing to find strong traction
+with our semiconductor propositions. A global semiconductor leader
+picked us to run a turnkey silicon development program, from design
+through delivery, for high-performance compute workloads aimed at
+the AI market.
+
+AI Advisory is gaining traction. This enables us to help our clients at
+the start of the AI journey and then extend into helping clients
+transform their operating model and change management for an AI-
+native world. For example, this is playing a key role in the large deal
+that we won with a global retailer and is currently under execution.
+
+In sovereign AI, demand is shaped by data residency, regulations,
+security, and national capability. In India, we announced our plans for
+our first AI data center in Bhubaneswar in partnership with Sarvam
+
+
+                       8
+
+                                                  HCL Technologies Limited
+                                                         October 12, 2026
+
+
+and Government of Odisha. It marks a significant step in building the
+infrastructure layer of our full-stack AI strategy.
+
+Our fourth pillar is scaling strategic partnerships, combining leading
+technology innovation with our engineering depth, industry
+expertise, IP, and global delivery. This quarter, we achieved OpenAI
+Advanced Partner status and joined its Cyber Defense initiative,
+jointly developed AI factory deployment and validation capabilities
+with NVIDIA, announced a family of Gemini enterprise offerings and
+a joint transformation program with Google Cloud, and are scaling
+Enterprise AI with ServiceNow, and signed a partnership with Cohere
+focused on Canada and Germany.
+
+Today, we announced a global Premier partnership with Anthropic to
+accelerate enterprise adoption of agentic AI, with a focus on safety,
+cybersecurity, and governance. We will establish a dedicated
+Anthropic business unit and a Center of Excellence to accelerate
+deployments of Claude in enterprise environments.
+
+HCLSoftware will become an Anthropic ISV partner, embedding
+Claude and Claude Code into select enterprise products with frontier
+safety guardrails. We're utilizing all our ecosystem relationships to
+develop engineering capabilities and new offerings that create new
+sources of growth.
+
+The fifth pillar of our strategy is developing AI talent on a large scale.
+This pillar enables the other four. We believe leadership in AI will
+depend on combining AI skills with deep engineering, solutioning,
+and industry expertise. We continue to enable our employees to
+become AI builders, AI super users, and AI operators.
+
+We are scaling a differentiated Forward Deployed Engineer
+capability that combines deep AI engineering with customer
+discovery, solution architecture, and rapid prototyping—taking
+opportunities from use case to production. We are developing a
+
+
+                        9
+
+                                                HCL Technologies Limited
+                                                       October 12, 2026
+
+
+centralized FDE Academy with tracks aligned to OpenAI, Anthropic,
+AWS, Google, and NVIDIA.
+
+We are also investing in the next wave through an applied research
+program with MIT focused on safety and agentic systems, and
+working with Microsoft to build a frontier transformation engineer
+program that further strengthens specialized talent aligned to
+strategic ecosystem platforms.
+
+Our focus now is to leverage these five pillars to create long-term
+growth through deeper adoption in existing accounts, new
+relationships through Advanced AI, and participation in large
+transformation programs.
+
+Beyond these five pillars, we made several other moves this quarter
+that will support our future growth. We launched HCLTech Pulse, a
+dedicated business unit for fast-growing enterprises with an annual
+revenue of $500 million to $5 billion, a segment we believe is
+underserved. It brings together our AI competencies to help these
+clients modernize and unlock value faster. We completed the
+acquisition of HPE's Telco Solutions Group, adding differentiated IP
+across OSS and 5G subscriber data management.
+
+We also expanded our India footprint. Alongside our AI data center in
+Bhubaneswar, we announced a Global Technology Center there to
+deliver AI solutions for global enterprises. We opened a new Global
+Technology Center in GIFT City, Gujarat, focused on financial services
+clients. And we launched our advanced semiconductor lab in
+Bengaluru with an investment of INR185 crores, providing post-silicon
+engineering, testing, validation, and failure analysis aligned with our
+spec-to-part business. Each of these will contribute to our future
+growth.
+
+Now coming to the pipeline and the demand environment and
+outlook, our pipeline remains strong and is quite balanced across
+
+
+                       10
+
+                                                              HCL Technologies Limited
+                                                                     October 12, 2026
+
+
+              service lines, verticals, and geographies. We saw healthy demand
+              towards the end of the quarter. However, we know that the
+              environment has been fluid and very dynamic, and the demand is
+              influenced by various factors, so we remain cautious.
+
+              As we see today, clients are prioritizing AI, data, and operating model
+              transformation whenever there is a clear case for efficiency,
+              innovation, and business resilience. We have strong propositions to
+              address these. As we look ahead, we are optimistic, driven by record
+              first-half bookings, strong demand for our Advanced AI propositions,
+              improved margin performance, and our full-stack AI offerings that is
+              being built incrementally.
+
+              We will continue to invest the gains out of our operational efficiency
+              to expand our AI advantage by investing in capabilities, IP, and AI
+              talent. Our FY27 growth guidance is now 2.5% to 4%, and our EBIT
+              margin guidance remains at 17.5% to 18.5%. Services revenue growth
+              guidance is 3% to 4%. Our revenue guidance includes impact of our
+              acquisitions, and Shiv will provide you more details. Our confidence
+              in this guidance rests on our strength of booking, our healthy
+              pipeline, and sustained momentum in AI-led services.
+
+              With that, I would now request Shiv to take us through the detailed
+              numbers.
+
+Shiv Walia:   Thank you, CVK. Good morning, good afternoon, and good evening
+              to all of you. Thank you for joining our Q2 financial year '27 earnings
+              call. Let me walk you through our financial performance for the
+              quarter. Starting with the revenue performance, please note that all
+              growth numbers quoted are in constant currency, unless noted
+              otherwise.
+
+              Total revenue for the quarter is $3,724 million, a growth of 2.3% QoQ
+              and 2.6% YoY. Services revenue for the quarter came in at $3,442
+              million, a growth of 3% QoQ and 4% YoY. Our ITBS services grew by
+
+
+                                     11
+
+                                                 HCL Technologies Limited
+                                                        October 12, 2026
+
+
+2.7% QoQ and 4.4% YoY. The ERS segment grew by 4.1% QoQ and 2.1%
+YoY. HCLSoftware revenue for the quarter is $294 million,
+representing decline of 5.8% QoQ and 11.2% YoY.
+
+Let me provide some additional context on HCLSoftware's revenue
+performance this quarter. At the beginning of FY'27, we had
+anticipated a softer performance in the software business. I want to
+explain the reasons behind it. This year, and particularly in Q2, we had
+lesser multiyear licenses that were due for renewal compared to last
+year. The same is visible in the additional disclosure in the investor
+release this quarter. You would notice that the revenue recognized
+from Multi Year Subscription license has gone down from 81 million
+in Q2 FY26 to 39 million in Q2 FY27.
+
+As you would know, the revenue recognition for an on-premise term
+license vary based on the term of the licenses. Typically, upfront
+revenue recognition is around 80% for a one-year license and as
+much as 60% to 70% of the entire term for a two-to-three-year
+license, with the balance recognized over the contract term. The
+reported revenue decline does not accurately reflect the underlying
+health of the software business. The same is evident in the healthy
+ARR growth that we have witnessed even in this quarter.
+
+Now let me break out the inorganic revenue contribution in the
+quarter. HPE Telco Solutions were consolidated for 2 months in Q2
+and contributed approximately 21 million in revenue, helping services
+sequential growth by 62 basis points.
+
+Jaspersoft was consolidated for the full quarter, giving us
+approximately 15 million. Total inorganic contribution in the quarter
+stands at $35.6 million, which aided sequential revenue growth by 97
+basis points.
+
+In terms of geographies, during the quarter, the USA grew 3.5% YoY,
+Europe declined by 0.3%, Rest of World grew 11.4%, and India grew
+
+
+                       12
+
+                                                  HCL Technologies Limited
+                                                         October 12, 2026
+
+
+21.8%. Moving on to vertical performance, our Q2 growth was broad-
+based, with 5 out of 7 verticals registering YoY growth. Growth was
+led by Retail and CPG and Financial Services, which grew 14% and 7.1%
+YoY, respectively.
+
+In terms of clients, our continued focus on deepening customer
+relationships has helped us expand the numbers of large client
+relationships. On a YoY basis, we added 1 client in the $100 million-
+plus category, 8 clients in the $50 million-plus category, 10 clients in
+the $20 million-plus category, and 33 clients in the $10 million-plus
+category.
+
+Let me now share the details on the profitability. Our EBIT is at $677
+million, representing 18.2% of revenue. Adjusting for restructuring
+expenses of 84 basis points during the quarter, our Q2 EBIT margin
+was 19% compared with 17.5% in the previous quarter. Net income for
+the quarter is $538 million, representing 14.4% of revenue.
+
+In terms of EBIT margin walk, there is a sequential improvement of 131
+basis points in the company margin in Q2. The margin bridge
+explaining the same is as follows. Project Ascend, including AI-driven
+efficiencies, gave us 73 basis points, superior margin of services
+offering under our Advanced AI revenue gave us 32 basis points,
+operating leverage at SG&A level due to growth acceleration gave us
+50 basis points, and forex gave us 23 basis points.
+
+On the headwinds, there was 22 basis points impact on account of
+higher restructuring costs in this quarter compared to previous
+quarter, and 25 basis points impact due to HPE Telco Solutions
+acquisition. Moving on to Return on Invested Capital – our ROIC
+continues to remain strong, supported by our ongoing focus on
+profitability and efficient capital management.
+
+The last 12 months ROIC is at 41.2% for the company, up 261 basis
+points YoY. Services ROIC is at 49.4%, up 411 basis points YoY.
+
+
+                       13
+
+                                                             HCL Technologies Limited
+                                                                    October 12, 2026
+
+
+             HCLSoftware ROIC is at 19.2%, down 264 basis points YoY. In terms
+             of cash generation, over the last 12 months, Free Cash Flow has been
+             at $1.78 billion, whereas Operating Cash Flow is at $1.96 billion.
+             Operating Cash Flow to Net Income conversion is 95%, while Free
+             Cash Flow to Net Income conversion is at 87% for the last 12 months.
+
+             Our Balance Sheet remains strong, with Gross Cash at $2.66 billion
+             and Net Cash at $2.56 billion as on 30th September 2026. Total DSO,
+             including unbilled receivables, is at 84 days, representing a decrease
+             of 2 days QoQ. Now for our shareholders, normalized diluted EPS for
+             the last 12 months came in at INR70.22, representing growth of 5%
+             QoQ and 12.2% YoY.
+
+             Including the one-time impact of New Labor Codes, Diluted EPS was
+             INR67.56. The Board has declared an interim dividend of INR12 per
+             share for the quarter. The record date is October 16, 2026, and the
+             payment date shall be October 26, 2026. This brings our last 12
+             months payout to INR60 per share, effectively distributing 88.6% of
+             our Net Income.
+
+             Now on an update on our guidance, FY27 guidance. For FY27,
+             constant currency revenue growth is expected to be between 3% to
+             4% for the Services business and at the Company level the revenue
+             growth is expected to be between 2.5% to 4%. The full-year revenue
+             growth guidance now includes inorganic contribution of 62 basis
+             points for Services and 87 basis points for the Company.
+
+             This implies that midpoint of our organic growth guidance both at
+             services and company level is broadly unchanged. EBIT margin is
+             expected to be between 17.5 and 18.5 for FY27. That is all from my side
+             for now, and I would now like to hand over to this session to our
+             moderator for a Q&A session. Thank you.
+
+Moderator:   Thank you very much. Our first question comes from the line of
+             Abhishek Pathak with Motilal Oswal. Please go ahead.
+
+
+                                    14
+
+                                                                    HCL Technologies Limited
+                                                                           October 12, 2026
+
+
+Abhishek Pathak:   Yeah. Hi, CVK. Congrats on the Anthropic partnership. We also
+                   announced something very similar with OpenAI sometime back. My
+                   question is, are we seeing some sort of structure being formed on AI
+                   implementation taking a form like cloud migration, where ecosystem
+                   partners kind of had some benefit? How is the value being shared
+                   between frontier labs and managed services right now? And let's say
+                   in the steady state, how do you expect this value to be shared as we
+                   implement or as we kind of integrate more and more of the AI frontier
+                   labs products or services into our into our offerings?
+
+                   The second question is on our AI revenues. They seem to be
+                   accelerating quite handsomely. My question is, who are we
+                   competing with here? Are these deals kind of more consulting-led
+                   with existing clients, where we're showcasing our own proactive sort
+                   of initiatives, or are they more competed a little bit on the market?
+                   And how do you see these deals going forward, where clients will
+                   have more and more vendors coming in to gain their attention?
+
+                   And lastly, on the FCF, Shiv, there was some weakness over there on
+                   the TTM basis. I understand there's a couple of one-offs in the past
+                   couple of quarters. So when can we expect to kind of get our cash
+                   conversion back to our 3 to 4 year average? Thank you so much.
+
+C Vijayakumar:     Yeah. Thank you, Abhishek. Let me start with the first question. You
+                   have mentioned AI partnerships with OpenAI, which we established
+                   almost a year ago. And early days were a little bit trying to just
+                   understand and see how enterprises can leverage OpenAI. But now
+                   we are seeing a very good pipeline and deals for enterprise
+                   implementation of the enterprise ChatGPT and number of other
+                   solutions that OpenAI has.
+
+                   I think our value here is largely in the FDE motion, the services around
+                   it. There is always a small piece of ongoing work, because most of
+                   these platforms are still early days within an enterprise, so there is
+
+
+
+                                          15
+
+                                                    HCL Technologies Limited
+                                                           October 12, 2026
+
+
+going to be a long tail of work that will come once we are inside an
+enterprise with one partner trying to scale.
+
+While we achieved the Global Premier status with Anthropic
+partnership, we've been working with them for some time. Again, it is
+largely the services model. I think the biggest non-linearity comes
+from the fact that some of our products, like AI Force, is getting
+integrated, and a number of software products are having native
+integrations into OpenAI, and now we propose to build it with
+Anthropic as well.
+
+I think we have a pricing which includes the token cost as well. So
+there, I think the equation will be a little not so people centric. It will
+be non-linear.
+
+On the AI Advanced AI revenue scaling well – there are certain
+components of this Advanced AI services where in fact, the two of
+the largest deals that we won are all single sourced, primarily driven
+by our relationship with our partners. Where we have come across
+some kind of competition, is with some boutique providers.
+
+There   are   some     other   components      of    Advanced     AI,   like
+semiconductors, inferencing, chip design, where we see some of the
+service providers in the mix. The third category will be implementing
+an Agentic AI solution, building an Agentic AI solution. That is a place
+where we find a lot of service providers.
+
+And the fourth is all the IP platform that we build. We have been
+continuously focusing on monetizing the IP. While there is always a
+permission issue for a services vendor to go and monetize the IP, but
+I think we have crossed that hurdle. Many of the large deals that we
+have signed, we have specific line item for AI Force platform.
+
+And then there is this operating model transformation of trying to
+transform the application landscape. While the application
+landscape infusing AI is part of our regular AI business, but the
+
+                        16
+
+                                                                    HCL Technologies Limited
+                                                                           October 12, 2026
+
+
+                   change management associated with it and the operating model
+                   consulting, these two elements come under Advanced AI. In addition,
+                   we are building these capabilities as well, and couple of large
+                   engagements have that in.
+
+                   And I will refer to Shiv for the FCF question.
+
+Shiv Walia:        Yes. Thanks, CVK. Abhishek, the LTM calculation this quarter on FCF
+                   to NI conversion has two one-time impact. One is the BAPA tax
+                   payment, which is a bilateral advance pricing agreement where we
+                   participate. It's a government-to-government transfer pricing
+                   agreement, and linked to that, there was there was some tax
+                   payment.
+
+                   The second is the shift from in-house to an external gratuity trust,
+                   which contributed to some money being paid to the trust. Both
+                   contributed to cash out outflow on LTM basis. So we should be able
+                   to see that this FCI to NI revert to maybe 100% plus level as these one-
+                   off roll over from LTM calculation.
+
+                   I just want to add also that we have managed our cash conversion
+                   cycle very well despite headwinds from expiry of MAT credits last year
+                   and lower non-cash amortization in Software business, which you
+                   would have seen in the P&L also.
+
+Abhishek Pathak:   Thank you so much. That was very clear. Thanks.
+
+Shiv Walia:        Thank you.
+
+Moderator:         Thank you. Our next question comes from the line of Ravi Menon with
+                   Axis Capital. Please go ahead.
+
+Ravi Menon:        Hi. Thanks for the opportunity, and congrats on a strong growth and
+                   good margins. Shiv, you talked about a 32 basis point contribution to
+                   the margin improvement from Advanced AI services. Looking at it, it
+                   seems high margin.
+
+
+
+                                          17
+
+                                                                  HCL Technologies Limited
+                                                                         October 12, 2026
+
+
+                 So then it implies like high 30s EBIT margins for that segment on an
+                 ongoing basis. Should we think about it being that high, or is this also
+                 due to some investments that you had in people that now have
+                 gotten utilized, or maybe even investments in platforms where there
+                 was no corresponding revenue, but now you actually have the
+                 revenue, and the costs are getting spread over a larger revenue base?
+                 How should we think about that going forward?
+
+C Vijayakumar:   Yeah, there are two components to this, Ravi. One is the services
+                 component, and the second one is this IP and platform component.
+                 For IP and platform components, the margins will be very high, very
+                 similar to that of the Software business. So the gross margins will be
+                 upwards of 70%.
+
+                 For the services component, I think the margins will be at least 7% to
+                 10% higher than traditional services. That is how we are thinking of
+                 this at this point. That's how we see this play out as well. At least so
+                 far in all the deals, we have been able to generally do this at a better
+                 realization and margin.
+
+Ravi Menon:      Great. Thanks, CVK. And, you know, just to clarify, this IP component
+                 is not classified as part of software product revenue, correct?
+
+C Vijayakumar:   No, it's not. Just one clarification – all our AI Force and Industry AI
+                 Solutions, we continue to classify them under Services, and then
+                 under Advanced AI services as well. There are couple of products in
+                 the Software business which are completely AI-native, like HCL UnO,
+                 which is a universal orchestrator platform, and the Zeenea, data
+                 intelligence platform. These two are software products revenue,
+                 which are classified under Advanced AI.
+
+Ravi Menon:      Perfect. All right. Thanks so much. And, you know, just clarification on
+                 the guidance. I mean, the top end, I understand you've wanted to
+                 maintain like a narrow band, and that's why the top end has been
+                 trimmed. But you're already at 4% YoY growth in your Services
+
+
+                                        18
+
+                                                                      HCL Technologies Limited
+                                                                             October 12, 2026
+
+
+                    business in CC terms, and you have a strong pipeline, and you’re
+                    saying the outlook also is good. Generally in Q3, anyway seasonally,
+                    you don't have the weakness that your peers have. So, why not really
+                    raise or keep the top end the way it was at 4.5%?
+
+C Vijayakumar:      Yeah. I mean, you are right. We have a strong quarter on multiple
+                    fronts, and obviously, Q3 will be a strong quarter due to the Software
+                    step-up. But, the environment remains fluid. Like, last year in
+                    February, we thought we were in a normal situation, and I met a lot of
+                    investors. And the day after that is when the Middle East conflict
+                    happened. Then, a lot of things went in a different direction.
+
+                    So, I think we are in a volatile world, and we don't want to increase our
+                    guidance. Things can change fast, both on the positive and negative
+                    side. We are seeing a good environment, and we hope it will continue.
+                    For Services, we feel confident to be slightly above the midpoint.
+
+Ravi Menon:         Thanks. One last question. For some of these AI deals where you
+                    talked about how clients are trying to adopt, maybe whether it's
+                    Anthropic or OpenAI, I would assume that there is no real TCV
+                    attached to some of this yet, because these are more on an
+                    exploratory basis and maybe on a time-and-material basis. Would
+                    that be right?
+
+C Vijayakumar:      It's a mix of both. I think the whole change management related, OMT,
+                    which is operating model transformation, that we have signed a
+                    couple of engagements on a fixed-price basis as well, but agentic
+                    implementation on Google and other things largely comes as T&M.
+
+Ravi Menon:         Perfect. Thanks so much, and best of luck.
+
+Moderator:          Thank you. Our next question comes from the line of Rishi
+                    Jhunjhunwala with IIFL Capital. Please go ahead.
+
+Rishi Jhunjhunwala: Yes. Thanks for the opportunity. Couple of questions. One, our top
+                    clients buckets across Top 5, 10, and 20 still don't seem to be growing.
+
+
+                                           19
+
+                                                                   HCL Technologies Limited
+                                                                          October 12, 2026
+
+
+                   I know you had called out in the past that there were three clients
+                   where there were ramp-downs, but just trying to understand, are
+                   those ramp-downs behind us, and when can we expect these buckets
+                   to start growing?
+
+C Vijayakumar:     Whatever challenges we kind of highlighted in the three of our Top
+                   20 clients, we had already factored that in our guidance. Two telco
+                   customers where discretionary spending was under pressure, one
+                   Manufacturing customer where there is a steep ramp-down due to
+                   their own budget reductions.
+
+                   Whatever we had in mind has already played out. But still, you cannot
+                   be sure, because there is a lot of discretionary spend in the two telco
+                   clients. What you should see is, despite these headwinds, we're very
+                   pleased with the upselling to our existing customer base, as is
+                   reflected in the addition of 100 million, 50 million, 20, 10 client
+                   buckets on a YoY basis.
+
+                   So, I think whatever assumptions we had, that has played out. I hope
+                   that answers.
+
+Rishi Jhunjhunwala: Understood. Yes. Thank you so much. The second question is on
+                   margins. I just wanted to understand, how do we read the margin
+                   movements across services and the software businesses? In this
+                   quarter we have seen, and if we look at even on a YoY basis, a fairly
+                   sharp expansion in services business margins.
+
+                   Software, on the other hand, has declined sequentially, and still there
+                   is an expansion. So, just wanted to understand, how do we read the
+                   divergent performance in margins versus revenues?
+
+C Vijayakumar:     Shiv, why don't you take this?
+
+Shiv Walia:        Yes, sure. For Software, in Q1 we had a one-off restructuring cost that
+                   impacted the margins in Q1. In the absence of that restructuring cost,
+                   benefit we got because of optimization in the employee-related
+
+
+                                          20
+
+                                                                       HCL Technologies Limited
+                                                                              October 12, 2026
+
+
+                   expenses, along with lower amortization helped us in the sequential
+                   margin expansion in this quarter.
+
+                   So, our plan for Software is to continue to plan and rationalize the
+                   cost to align it with the growth outlook. That's how you would see the
+                   margin expansion in Software business.
+
+                   On the Services side, as I said, Project Ascend, when I explained the
+                   margin walk, helped us. The uptick in the Advanced AI revenue has
+                   been helping us to improve margins as well.
+
+Rishi Jhunjhunwala: Okay. Thank you so much.
+
+Moderator:         Thank you. Our next question comes from the line of Surendra Goyal
+                   with Citi. Please go ahead.
+
+Surendra Goyal:    Yeah, thanks. So just a clarification on the Software business first. So
+                   the organic decline seems to be like 15%, 16% YoY. So what is the
+                   outlook here? The ARR would anyway also have benefited from the
+                   Jaspersoft acquisition.
+
+C Vijayakumar:     Excluding the impact of Jaspersoft, our ARR has grown 2.6% YoY
+                   despite a 15% YoY decline in revenue. All of this is in constant
+                   currency. So, I think ARR is the right metric. I would request KK to talk
+                   a little bit on this. KK is the President of our Software business. I would
+                   request KK to provide a little bit outlook on the software segment.
+
+Kalyan Kumar:      Sure, CVK. As Shiv said earlier that the revenue decline does not
+                   accurately reflect the underlying factors of the Software business,
+                   and as CVK just alluded on the ARR number, if you take Jaspersoft
+                   out, it is still at about 2.6%. If you add Jaspersoft, it's about 7.8%. This
+                   is the right metric on which we are trying to operate, because as Shiv
+                   explained previously, the impact of Single year and Multi Year and
+                   other factors continues to have that piece.
+
+                   In this quarter, we did not have many Multi Year renewals that were
+                   available compared to the previous quarter. But I think a lot of these
+
+                                             21
+
+                                                                     HCL Technologies Limited
+                                                                            October 12, 2026
+
+
+                  renewals will come back in FY28 and FY29 as part of our renewal
+                  cycle. On an overall mix of the Software portfolio, we do not see much
+                  impact of AI in this, except we have a small footprint of application
+                  software, or application software products which is in there.
+
+                  Over the last few years, we have been pivoting on two big areas in our
+                  Software business. One is what we call as intelligent operations,
+                  which is around products around IT operations, cybersecurity, and
+                  business process operations. Second is revamping our modern data
+                  stack, modern data AI stack, which is around the HCL Data
+                  Intelligence Platform.
+
+                  A lot of our acquisitions which we have done, including the likes of
+                  Zeenea, Wobby, and the recent Robotic, which CVK mentioned in the
+                  start of the call and the capabilities which we have built organically,
+                  these are all feeding into the direction where we want to grow the
+                  business.
+
+Surendra Goyal:   Thanks for that. Just a clarification, like last six quarters, I am looking
+                  at the data, the ARR has been growing. So I am just trying to
+                  understand, how long can this disconnect between ARR and the
+                  reported growth continue?
+
+C Vijayakumar:    Yeah, so I think if you look at the revenue profile, there is two
+                  components which can be fluctuating. One is the Perpetual License
+                  revenue. The second one is the impact of Upfront revenue
+                  recognition of a Multi Year license. I think, as Shiv said, almost 60% of
+                  a three-year license will get recognized upfront. So that can cause
+                  some kind of cyclicality in this.
+
+                  Other than this, if you really take out the multiyear piece, then there
+                  should be a proper correlation between ARR and revenue.
+
+Surendra Goyal:   Understood. And just one more clarification. Is there any seasonality
+                  in the HPE CTG business, because the run rate of revenues seems to
+                  be lower than most expectations?
+
+                                           22
+
+                                                                    HCL Technologies Limited
+                                                                           October 12, 2026
+
+
+C Vijayakumar:    We have not called out CTG revenue. The only thing we called out is
+                  the acquisition, which is Telco Solutions Group of HPE, which is a
+                  recent acquisition. It's called Aruba TS. That had two months impact.
+                  I think Shiv called out the impact of that. You kind of extrapolate it to
+                  three months, it should largely give you the right number. There could
+                  be some small seasonality, but nothing major.
+
+Surendra Goyal:   Sure. Thank you.
+
+Moderator:        Thank you. Our next question comes from the line of Gaurav Rateria
+                  with Morgan Stanley. Please go ahead.
+
+Gaurav Rateria:   Hi, thanks for taking my question. My first question is on the outlook.
+                  It looks like there is a sharp deceleration in the revenue growth in
+                  Services business on a sequential basis in the second half compared
+                  to Q2. If you look at Q2, organic growth has been around 2.4%. So is
+                  there any higher-than-usual seasonality we are building? Is there any
+                  slower conversion of deals into revenue that we are building in, or is
+                  it just conservatism that we have kept in our guidance?
+
+C Vijayakumar:    So, I mean, as we called out when we announced the mega deal, it's
+                  not going to contribute to any revenue in Q3 or Q4. It is going to come
+                  in Q1 of next year. So that is one outlier. Other than that, we do not
+                  see anything to be very different.
+
+                  Generally, we have been conscious not to kind of create any
+                  expectations of higher growth. I mean, the environment has some
+                  uncertainties, and it's been a volatile last few quarters so we are being
+                  cautious there, so. And Services most likely will be better than the
+                  midpoint.
+
+Gaurav Rateria:   The ecosystem partnerships have contributed significant amount of
+                  revenues over the years, right? It could be very large number. It will
+                  be great if you could highlight what percentage of our revenues
+                  come from our partnerships right now. And keeping that in the
+                  context, how do you think the partnerships with these frontier model
+
+                                         23
+
+                                                                    HCL Technologies Limited
+                                                                           October 12, 2026
+
+
+                  companies like OpenAI or Anthropic would translate into material
+                  revenue from -- let's say, next 12 month to 24-month point of view?
+
+C Vijayakumar:    Yes, we are not very precisely tracking all the revenue that comes
+                  through the partner channel, because, a lot of things, we work in our
+                  client environment, we also take it to the partners to scale different
+                  solutions and things like that. So, I know there are industry players
+                  calling out how much is coming from ecosystem partners, but I don't
+                  think we have a reliable mechanism to track it.
+
+                  A lot of it could be what we call as influenced revenue rather than
+                  really a revenue coming from. If we are migrating somebody from on-
+                  premise to let's say Azure, that will be treated as an influenced
+                  revenue for Azure, and that is one measure that they use. We
+                  obviously are focused on services and the annuity revenue that
+                  comes out of it. We're not directly tracking that.
+
+                  And there is definitely one channel where we are operating as a
+                  professional services partner for almost all the cloud hyperscalers,
+                  and now for the frontier companies and GPU companies. I think that's
+                  still a small number in the overall scheme of things, but growing very
+                  well.
+
+Gaurav Rateria:   Got it. And last question is your comments, CVK, you made on
+                  margins, that operating efficiency, you will be plowing back in the
+                  business. So what's the broad philosophy on the margins, right?
+                  Because a couple of years back, we had an aspiration to get to 19%,
+                  20%, and then we were in the investment phase, so we brought down
+                  our overall margin number to 17.5% to 18.5% in that range. We had
+                  some restructuring charges this year, which I am presuming may not
+                  be sustained charge for the next year. So, keeping the puts and takes
+                  variety of tailwinds that you talked about on the Advanced AI being
+                  higher on the margin side and multiple investment that you have
+                  outlaid for yourself, what's the range that one should think about
+                  from a medium-term perspective?
+
+
+                                         24
+
+                                                                  HCL Technologies Limited
+                                                                         October 12, 2026
+
+
+C Vijayakumar:    I think our earlier aspiration was 18% to 19%, and this year, we
+                  specifically called out the restructuring charges, and then we had
+                  reduced the guidance to 17.5% to 18.5%. But 18% to 19% is our desired
+                  band, but I wouldn't want to kind of comment on it now, because the
+                  industry is changing significantly, and we would always want to invest
+                  to gain more capability and differentiation, rather than optimize
+                  margins in this phase of the industry.
+
+Gaurav Rateria:   Got it. Thank you so much. All the very best.
+
+C Vijayakumar:    Thank you.
+
+Moderator:        Thank you. Ladies and gentlemen, we will take that as our last
+                  question for today. I would now like to hand the conference over to
+                  Mr. C Vijayakumar, CEO and MD, for closing comments. Over to you,
+                  sir.
+
+C Vijayakumar:    Thank you, everyone, for joining the joining our earnings conf call.
+                  We've delivered a strong quarter on multiple fronts, and we have a
+                  strong execution plan. Obviously, our strongest quarter in any year,
+                  and we're all geared up to execute well and deliver a good outcome.
+                  And our guidance is also well informed by all the things that are
+                  happening both within the business and in the external environment.
+                  And as I close, I wish all of you a very happy festive season ahead.
+                  Thank you and good evening.
+
+Moderator:        Thank you. On behalf of HCLTech that concludes this conference.
+                  Thank you all for joining us. You may now disconnect your lines.
+
+
+
+
+                                         25
+

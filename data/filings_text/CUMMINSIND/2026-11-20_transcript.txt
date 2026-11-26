@@ -1,0 +1,1052 @@
+Ref: STEX/SECT/2026
+November 20, 2026
+
+ BSE Limited,                                 National Stock Exchange of India Limited
+ P.J. Towers,                                 Exchange Plaza, 5th Floor,
+ Dalal Street, Fort,                          Plot No. C/1, G Block, Bandra – Kurla Complex,
+ Mumbai – 400 001                             Bandra (East), Mumbai – 400 051
+
+ BSE Scrip Code: 500480                       NSE Symbol: CUMMINSIND
+
+Sub: Transcript of Q2 and H1 FY 2026-27 Results Conference Call
+
+Dear Sir/ Madam,
+
+Pursuant to Regulation 30 read with Para A of Schedule III and Regulation 46(2) of the
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (“SEBI Listing Regulations”) and with reference to our stock exchange
+intimation dated October 28, 2026, regarding Q2 and H1 FY 2026-27 Results Conference
+Call, please find enclosed herewith transcript of the said conference call held on
+November 16, 2026.
+
+Kindly take this intimation on your record.
+
+Thanking you.
+
+
+Yours faithfully,
+For Cummins India Limited
+Vinaya Digitally  signed
+         by Vinaya Abhijit
+Abhijit Date: 2026.11.20
+         Joshi
+
+Joshi    13:02:52 +05'30'
+
+
+Vinaya A. Joshi
+Company Secretary & Compliance Officer
+Membership No.: A25096
+
+Encl.: As above
+
+
+
+
+Cummins India Limited
+Registered Office
+Cummins India Office Campus
+Tower A, 5th Floor, Survey No. 21, Balewadi
+Pune 411 045 Maharashtra, India
+Phone +91 20 67067000 Fax +91 20 67067015
+cumminsindia.com
+cil.investors@cummins.com                       CIN: L29112PN1962PLC012276
+
+             “Cummins India Limited
+          Q2 FY27 Earnings Conference Call”
+                  November 16, 2026
+
+
+
+
+MANAGEMENT: MR. GBILE ADEWUNMI – MANAGING DIRECTOR –
+            CUMMINS INDIA LIMITED.
+            MS. SOMA GHOSH – CHIEF FINANCIAL OFFICER –
+            CUMMINS INDIA LIMITED
+
+
+
+
+                           Page 1 of 16
+
+                     Cummins Internal Use Only
+
+                                                                                        Cummins India Limited
+                                                                                           November 16, 2026
+
+
+
+
+Moderator:        Good morning, ladies and gentlemen, and welcome to Cummins India Limited Q2 FY27
+                  Earnings Conference Call. We hope you all are keeping safe and healthy. As a reminder, all
+                  participant lines will be in the listen-only mode, and there will be an opportunity for you to ask
+                  questions after the presentation concludes. Should you need assistance during this conference
+                  call, please signal an operator by pressing star then zero on your touchtone phone. Please note
+                  that this conference is being recorded. I now hand the conference over to Mr. Gbile Adewunmi,
+                  Managing Director, Cummins India Limited. Thank you, and over to you, sir.
+
+
+Gbile Adewunmi:   Thank you. Good morning, ladies and gentlemen. I am Gbile Adewunmi, Managing Director of
+                  Cummins India Limited, and together with me is Soma Ghosh, our Chief Financial Officer.
+                  Having assumed responsibility as Managing Director on November 1st, I had the opportunity to
+                  engage with the board on November 4th.
+
+
+                  As the Diwali holiday period began immediately thereafter, we had to schedule the earnings call
+                  following the festive break. I hope you and your families had a joyful Diwali and thank you for
+                  joining us today. With that context, I will start with a few highlights from the second quarter of
+                  the financial year 2027. Demand continues to be robust in all the segments across our key end
+                  markets, and we have sustained order execution supporting year-over-year revenue growth.
+
+
+                  We recently launched the QSK60-powered G34 and G37 genset solutions at the bauma
+                  CONEXPO INDIA 2026 and showcased our CPCB IV+ compliant 125 kVA generator set, along
+                  with a host of aftermarket solutions, highlighting our focus on cleaner power solutions aligned
+                  with India's evolving regulatory requirements. Amidst all of this, the prolonged geopolitical
+                  uncertainty and evolving supply chain challenges have continued to create inflationary pressures
+                  on commodity and input costs, affecting our profitability.
+
+
+                  As indicated earlier, we are responding through phased pricing actions combined with
+                  operational efficiencies and cost control measures, which we believe will mitigate these
+                  pressures over time. Now I would like to share the financial results for Q2 financial year 2027
+                  through this call.
+
+
+                  For the quarter ended September 30th, 2026, with respect to the same quarter last year, our sales
+                  at INR3,247 crores are higher by 4% compared to INR3,122 crores in the same quarter last year.
+                  Domestic sales at INR2,692 crores are higher by 5%. Exports at INR555 crores are higher by
+                  2%. Profit before tax at INR601 crores is lower by 28.4%.
+
+
+                  For the quarter ended September 30th, 2026, with respect to the previous quarter, our sales at
+                  INR3,247 crores are lower by 4% compared to INR3,375 crores recorded in the previous quarter.
+                  Domestic sales at INR2,692 crores are lower by 6%. Exports at INR555 crores are higher by
+                  6%. Profit before tax at INR601 crores is lower by 16.6%. Segment-wise breakups for the quarter
+                  ended September 30th, 2026. Domestic sales.
+
+
+                  Power generation domestic sales are at INR1,308 crores, a 2% decrease over last year and an
+                  8% decrease over last quarter. Distribution business sales are at INR900 crores, a 13% increase
+
+
+
+                                          Page 2 of 16
+
+                                        Cummins Public
+
+                                                                                             Cummins India Limited
+                                                                                                November 16, 2026
+
+                     over last year and a 2% increase over last quarter. Industrial domestic business sales are at
+                     INR406 crores, a 5% increase over last year and an 11% decrease over last quarter. For exports,
+                     high horsepower exports are at INR268 crores, a 4% decrease over last year and a 10% decrease
+                     over last quarter. LHP exports are INR226 crores, a 3% increase over last year and a 25%
+                     increase over last quarter. With that, we now open the session for questions. Thank you.
+
+
+Moderator:           Thank you very much. We will now begin the question-and-answer session. First question is
+                     from the line of Parikshit Kandpal from HDFC Securities. Please go ahead.
+
+
+Parikshit Kandpal:   Hi, Gbile. Congratulations on assuming the leadership role in India. My first question is, since
+                     the second quarter where we are seeing the raw material pressure hitting our gross margins and
+                     profitability, what are the pricing actions we have taken over the last few months to mitigate
+                     this. In the distant future, whether this is the bottoming out of the EBITDA margin in this quarter,
+                     and from here on, will you see sustained increases towards more like historical margins. How
+                     much, what is the way we are from historical margins. That is my first question.
+
+
+Gbile Adewunmi:      Thank you, Parikshit. We continue to review our pricing regularly and take actions to ensure
+                     that we can, to try to mitigate the cost. As you said, we are seeing significant material cost
+                     inflation. The geopolitical issues have not helped. As you can see, that is not just a problem in
+                     India, it is a problem across the world. Our focus is on three things. It is on pricing and getting
+                     better price realization, so continue to take actions and see how the market adjusts to that.
+
+
+                     Second is working with our suppliers to figure out how we can mitigate these costs. Then the
+                     third piece is just operational efficiencies. In terms of your second question, I can't provide any
+                     forward-looking statements in terms of where margins will go, but what I want to assure you is
+                     the team is working very hard to continue to improve our margins.
+
+
+Parikshit Kandpal:   My second question is on QSK60 data center engine. What we are hearing is that this is done
+                     under CPL and as a global allocation for India and other geographies. Do we have sufficient
+                     capacities to service Indian demand, given what we've been hearing on the ground that the lead
+                     times for delivery of this engine has increased by a few months? Do you think there is a case
+                     where demand is outpacing supply and you'll start losing market share to the competition? How
+                     are you mitigating this allocation for the Indian demand?
+
+
+Gbile Adewunmi:      We're seeing really robust demand across the world for this product. For data center demand is
+                     not just unique to India. From a Cummins perspective, we continue to work aggressively on
+                     increasing our capacity, but it's not just the capacity of the manufacturing plants. A lot of the
+                     capacity that's required is also with our suppliers, so we're working closely with our suppliers to
+                     be able to ramp up.
+
+
+                     The thing is, we've got to do this in a sustainable manner so that we, from a long-term
+                     perspective, we have the right utilization across all our facilities. Yes, demand is moving, is
+                     much more robust given the AI boom than anybody would have expected. We're working very
+                     hard to ramp up with our suppliers.
+
+
+
+
+                                              Page 3 of 16
+
+                                            Cummins Public
+
+                                                                                              Cummins India Limited
+                                                                                                 November 16, 2026
+
+                     This is the same for everybody around the world, and we'll continue to work with our customers
+                     to do that. Nothing specific that is unique to India, but from a Cummins perspective and a
+                     Cummins India Limited perspective, we're focused on getting the right demand for our
+                     customers. What I'll also say is that we have, on the data center perspective, we have really good
+                     collaboration with our customers and looking at when projects will be executed so that we can
+                     ensure that we have the right products for them to support their execution.
+
+
+Parikshit Kandpal:   Okay. This is the last question. Since you come from the global leadership, you have been
+                     allocated to India and CCP, so what will be your top three, four priorities? So how do you think,
+                     is there any changes you think required in the business? So, what will be your way forward as a
+                     leader to drive the Indian business growth?
+
+
+Gbile Adewunmi:      Okay. I am excited to be leading Cummins India Limited, and I would say initial focus of my
+                     priorities are, one, just talent and leadership. Always believe at Cummins that sustainable
+                     performance starts with the right leadership and the right culture, and so working with a great
+                     team that is already on ground to do that.
+
+
+                     The second is stronger partnerships across, whether it is with our suppliers, customers, investors,
+                     community partners, just ensuring that I understand those and can continue to strengthen those
+                     partnerships. And that, in my view, leads to what I know many of you on the call care about,
+                     which is sustained profitable growth. So, if we have the first two, then we are in a position to
+                     ensure that we are creating long-term value for our customers and take advantage of the strong
+                     growth that the India market provides.
+
+
+Parikshit Kandpal:   Okay. Thank you and wish you the best.
+
+
+Gbile Adewunmi:      Thank you, Parikshit.
+
+
+Moderator:           Thank you. Next question is from the line of Mohit Kumar from ICICI Securities. Please go
+                     ahead.
+
+
+Mohit Kumar:         Good morning, and thanks for your opportunity. My first question is, sir, there has been decline
+                     in gross margin by 400 basis points. How much would you attribute it to inflationary pressures,
+                     and how much would you attribute to product mix or, let's say, lack of data center sales in this
+                     particular quarter?
+
+
+Gbile Adewunmi:      Yes. Good question, Mohit. I would say most of it is inflationary pressures. There's only a
+                     relatively small portion of it, right, relative to the drop in margins that is the mix. And product
+                     mix, given the variety of products that we sell, the variety of end markets that we sell into, some
+                     of those are lumpy, as you said, data centers, others that are lumpy. But for this particular quarter,
+                     most of the deterioration was on inflationary commodity costs.
+
+
+Mohit Kumar:         Understood. My second question is, can you talk about the inquiry pipeline, especially for the
+                     data center? How is it looking, and has the inquiry pipeline improved in the last six months?
+
+
+Gbile Adewunmi:      Sorry, when you say improved, what do you mean?
+
+
+
+
+                                               Page 4 of 16
+
+                                             Cummins Public
+
+                                                                                          Cummins India Limited
+                                                                                             November 16, 2026
+
+Mohit Kumar:      In the sense, let's say your inquiry pipeline was, let's say, 100 MW at the beginning of fiscal,
+                  and in the last six months, you've seen the building of the pipeline.
+
+
+Gbile Adewunmi:   Okay, got it, I just want to make sure, improved. So, we continue to have a robust pipeline. The
+                  data center boom hasn't slowed down meaningfully, so we're happy where the pipeline is, and
+                  we're happy with the work that we're doing with our customers to be able to meet their requests.
+
+
+Mohit Kumar:      Understood. My last question is, given the strong demand for data centers, like a genset in this
+                  country, are you looking to expand the production of QSK60 or, at some point of time, indigenize
+                  the production of QSK95 engines in this country?
+
+
+Gbile Adewunmi:   It is a good question. The approach that we take is really a disciplined approach to our overall
+                  network. We want to make sure that we are not just creating value and solving the problems
+                  today, but we are solving long term. We are regularly assessing our network. We are looking at
+                  what we are doing in terms of where the demand is and where our supply is, and if there are
+                  things that we will do differently, we will let you know. But it is something that is constantly on
+                  our minds, and we are trying to figure out how we best satisfy our customers across the globe.
+                  No major changes at this point, but we continue to assess that.
+
+
+Mohit Kumar:      Understood. Thank you, and all the best. Thank you.
+
+
+Gbile Adewunmi:   Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Mohit Pandey from Citi. Please go ahead.
+
+
+Mohit Pandey:     Yes. Good morning, sir, and thank you for the opportunity. First question is around price hikes.
+                  You seem to suggest demand environment is quite robust. In that context, what kind of price
+                  hikes have been taken already, and what are the factors at play for future price hikes in the near
+                  term?
+
+
+Gbile Adewunmi:   Yes. I cannot be specific about pricing as you would expect, but we continue to review our
+                  pricing and work very closely with our customers. One of the things that we have mentioned in
+                  the past is we are executing orders today that we have had in the pipeline for a while, and any
+                  price changes that we will make, they will take some lag for us to start realizing those prices.
+
+
+                  When you have a cost increase that happens right away, versus the pricing that happens a little
+                  later, there is going to be some mismatch and some lag there. We continue to be focused on
+                  driving the right pricing, but really more than pricing, the way we think about it is long-term
+                  value for our customers.
+
+
+                  We want to make sure that at the end of the day, we are providing solutions that meet the total
+                  cost of ownership, and it is a combination of managing our costs, managing our pricing, and also
+                  our operational execution effectiveness. That is how I would respond, Mohit.
+
+
+Mohit Pandey:     Understood, sir. Sir, a follow-up to that is, can you qualitatively indicate of the current orders at
+                  hand, how much of them pertain to the time before the first price hikes were taken last quarter?
+                  Is it like 30%, 40% of the orders at hand still, or is it a lower number? Yes.
+
+
+                                             Page 5 of 16
+
+                                         Cummins Public
+
+                                                                                          Cummins India Limited
+                                                                                             November 16, 2026
+
+Gbile Adewunmi:   No, I don't have that breakdown. I can't give you that estimate. I'll just say we continue to have
+                  a robust order intake, and we're excited about that. What that means, though, is that there will
+                  always be a lag versus the pricing that we have.
+
+
+Mohit Pandey:     Understood, sir. Sir, you did mention two other points apart from pricing with regards to cost
+                  mitigation. That was around working with the suppliers and also around operating efficiencies.
+                  If you could give more color around these, because I understand historically also, we have prided
+                  ourselves on operating efficiencies. Is there a sizable element of efficiencies still left? How
+                  should we think about that? Yes.
+
+
+Gbile Adewunmi:   No. No, good question. I would say it's an area we continue to push. No matter how much you
+                  find, you always feel like there's more to go there. So, nothing specific to say, only that that's an
+                  area of focus for the management team. In terms of suppliers, maybe one dynamic I will add to
+                  that is we have very strong partnerships with our suppliers. At this time, though, all the suppliers
+                  are also ramping up and investing.
+
+
+                  So, it's a fine balance between investing for the demand as well as pushing on reducing cost and
+                  efficiency. So, we're working with our suppliers to be able to ride that fine line where we want
+                  them to have the adequate capacity, but we also are trying to manage costs. This is where the
+                  partnership with our suppliers really matters, and we feel like we do a good job there.
+
+
+Mohit Pandey:     Understood. The last question, were there any one-offs in this quarter in any of the line items?
+                  Other expenses are up QOQ while sales are not up. Any one-offs there? Yes. One-off costs.
+
+
+Gbile Adewunmi:   Maybe, Soma, that is something you can help me with. Nothing specific that I would say that is
+                  meaningful to our quarter-over-quarter or sustain. I would not describe it anything as specific
+                  one-offs at this time.
+
+
+Soma Ghosh:       Yes. Thank you so much.
+
+
+Gbile Adewunmi:   Soma, is there anything you would add to that? Yes.
+
+
+Soma Ghosh:       Yes. Thanks, Gbile. I think, Mohit, we have had one major one-off on the corporate cost
+                  allocations, the management cross charges that come. Primarily, they come because of the
+                  support that is increasing due to business growth in India, and that is the data centers for us. So,
+                  there has been a true-up there.
+
+
+Mohit Pandey:     Okay. Is it possible to quantify this one-off, ma'am? It would be under other expenses or in the
+                  raw material cost?
+
+
+Soma Ghosh:       No, it is only in the other expenses.
+
+
+Mohit Pandey:     Okay. Thank you so much and wish you all the best.
+
+
+Soma Ghosh:       Thanks.
+
+
+Moderator:        Thank you.
+
+
+
+                                            Page 6 of 16
+
+                                           Cummins Public
+
+                                                                                          Cummins India Limited
+                                                                                             November 16, 2026
+
+Gbile Adewunmi:   Thank you.
+
+
+Moderator:        Next question is from the line of Amit Anwani from PL Capital. Please go ahead.
+
+
+Amit Anwani:      Thank you for the opportunity. So, first question on the domestic power gen system. If you could
+                  highlight how was the growth across categories, and we saw this quarter even in the power gen
+                  system, which is performing very well because of the data center contribution. Is it purely the
+                  data center lag in this quarter? And if you could highlight how much was the contribution from
+                  data center and how was the growth without data center in this business, and any particular
+                  reasons for the muted performance in power gen this quarter?
+
+
+Gbile Adewunmi:   Yes. So, I would say our data center continues to be about between 30% and 40% of our power
+                  gen sales. And then maybe I'll ask Soma to provide the specific breakdown for the domestic
+                  sales for this quarter.
+
+
+Soma Ghosh:       Standpoint.
+
+
+Gbile Adewunmi:   Yes.
+
+
+Soma Ghosh:       Thanks, Gbile. From a LHP standpoint, we did INR98 crores this quarter. From a mid-range
+                  standpoint, INR236 crores. Heavy duty, INR142 crores, and the remaining is all the data center
+                  business, including the high horsepower.
+
+
+Amit Anwani:      Right. How was the kind of performance on the non-data center business?
+
+
+Gbile Adewunmi:   Go ahead, Soma.
+
+
+Soma Ghosh:       Yes. From a non-D.C. business, we already spoke about 30%-40% of our power gen business
+                  attributing to the data center growth. In fact, this quarter, we did actually better from a non-D.C.
+                  growth in terms of realty, manufacturing, residential, and normal realty projects did pretty well
+                  in comparison this quarter.
+
+
+Amit Anwani:      Right. My second question on data center. Sorry, on the exports. If we see the six months to six
+                  months exports, still this marginal decline. Just directionally, if you could give some sense which
+                  geographies are contributing, which geographies are still a challenge, and can we expect some
+                  growth by the end of this year in exports business for FY27?
+
+
+Gbile Adewunmi:   I will ask Soma Ghosh to share the specific numbers in a few minutes, Amit Anwani. I would
+                  say from an export perspective, this is business where it is mostly generated from pull from other
+                  regions and segments, so it depends on what is going on with them. We cannot provide any
+                  forward-looking statements, but it is fair to say that all the disruption and stuff that is going on
+                  around the world definitely does make it a little more difficult from an export business standpoint
+                  in each particular, in a quarter that when you look at it from one quarter to the next. However, I
+                  think overall, though, we still expect a solid export performance going forward.
+
+
+Amit Anwani:      Thank you. Thank you so much.
+
+
+
+
+                                             Page 7 of 16
+
+                                            Cummins Public
+
+                                                                                         Cummins India Limited
+                                                                                            November 16, 2026
+
+Gbile Adewunmi:   Soma, do you want to share the details for exports?
+
+
+Soma Ghosh:       Yes, I will briefly share the percentages on. In terms of Europe, we had 29%. In terms of LAU,
+                  we did 28%. Asia-Pacific, 22%, and Middle East, 15%.
+
+
+Amit Anwani:      That's helpful. Thanks.
+
+
+Soma Ghosh:       Thank you.
+
+
+Moderator:        Thank you very much. Next question is from the line of Jason Soans from IDBI Capital. Please
+                  go ahead.
+
+
+Jason Soans:      Yes, thank you so much for taking my question. I just wanted to know, there is a lot of talk
+                  about, of course, you did speak about robust growth prospects of data center. Now, there is some
+                  talk all over the world in terms of a slowdown in the data centers in terms of power shortages
+                  and what has happened in the U.S. elections and things like that. Now, in the near term, demand
+                  may be robust, but when you look going ahead, how do you see this panning out?
+
+
+                  Do you expect any moderation in the demand to come in? You can talk about Indian geography
+                  as well as overseas. Just some color on that would be helpful. My second question just pertains
+                  to, are we looking at finalizing some large hyperscaler orders in H2 of this year?
+
+
+Gbile Adewunmi:   Hey, Jason. I think we always have a pretty strong order book. We cannot talk specifically about
+                  any particular customers, but we are excited about the orders that we have in hand and the
+                  inquiries and the orders that continue to come in. From that perspective, we are pretty happy.
+                  From a global perspective, I think it is way too early to be able to see what happens in terms of
+                  everything or to see the impact of everything that has happened in the last couple of weeks from
+                  an AI and data center perspective.
+
+
+                  As you mentioned, in the short to medium term, the order books are fixed and projects are being
+                  executed. In the medium to long term, there may be, there may not be any impact. It is really
+                  difficult to say. I think what I would say is the environment remains dynamic.
+
+
+                  We are really engaged with all our customers around the world and ensuring that we understand
+                  what their needs are, and then we are focused on delivering solutions, right, that support their
+                  needs. So, that is what I will say, Jason.
+
+
+Jason Soans:      Sure. Thanks for that. Just to touch upon the industrial side, I wanted to understand that, I mean,
+                  first of all, wanted just a breakup for the industrial sub-segments in terms of construction, rail,
+                  mining, et cetera. Just wanted to know, we have single-digit growth there. Just wanted to know
+                  from a management perspective, what can we do to basically fasten the growth there? Are there
+                  any measures we are taking to grow that segment of the business?
+
+
+Gbile Adewunmi:   Soma will provide the numbers in a little bit. But in terms of the industrial market, we are pretty
+                  excited about what we are doing across the board, right? So, whether it is the compressor, the
+                  rail, mining, marine, we continue to pursue opportunities in that space. Many of those
+
+
+
+
+                                            Page 8 of 16
+
+                                         Cummins Public
+
+                                                                                          Cummins India Limited
+                                                                                             November 16, 2026
+
+                  opportunities are government infrastructure or government funding related, so they are tender
+                  based.
+
+
+                  As those tenders come in, we are well-positioned to be able to win or at least to compete for
+                  those tenders. So, I would say from a management perspective, this remains an area of focus for
+                  us. India is a fast-growing economy, and as a result of that, the government infrastructure
+                  projects provide an opportunity for us.
+
+
+                  We have the products, we have got a good understanding of the customers, and then we also
+                  have, in the industrial markets, a lot of times the service and support network is really critical to
+                  long-term success, right? To be able to add value, because customers want to make sure that you
+                  can take care of whatever equipment or solutions you sell them. So, our distribution business
+                  allows us to do that. So, we are well-positioned, we are excited about the growth opportunities,
+                  and we are focused on going after them. So, Soma, I will turn it over to you to provide the
+                  breakdown.
+
+
+Soma Ghosh:       Sure. Thanks, Gbile. So, we had 131 crores in construction, rail 117 crores, compressor 54
+                  crores, mining 49, marine 27, and the rest is defense, oil and gas, and parts.
+
+
+Jason Soans:      Sure. Thank you so much for answering my questions.
+
+
+Soma Ghosh:       Thank you.
+
+
+Moderator:        Thank you.
+
+
+Gbile Adewunmi:   Thank you, Jason.
+
+
+Moderator:        Next question. Next question is from the line of Rahul Gajare from Macquarie Capital. Please
+                  go ahead.
+
+
+Rahul Gajare:     Yes. Thanks for the opportunity. I have got two questions. One, I do understand that the cost of
+                  diesel gensets for customers has seen a material increase. We do understand that a significant
+                  part of this is actually coming from the price increase taken by alternator players. While engines
+                  have seen a very small, maybe single-digit price hike. Given that the underlying demand is so
+                  strong, I mean, why have you been so cautious on taking more price hike, when you clearly see
+                  that it is required? Is it competition, market share? Your thoughts on what is stopping you from
+                  taking more price hikes? I will appreciate that. Thanks.
+
+
+Gbile Adewunmi:   Hey, thanks, Rahul. I would not make any assumptions on the breakup because we do not
+                  provide that between the different components on cost and pricing, because we sell a single
+                  solution to our customers. I think a couple of things, right? We want to ensure that we can
+                  provide value to our customers in the long term.
+
+
+                  So, yes, we have the cost increase, and we are working very hard to mitigate those. We are
+                  working through pricing and actions. We are not saying we are shying away from those. By the
+                  end of the day, we want to ensure that we can deliver solutions to our customers in the long term
+
+
+
+
+                                           Page 9 of 16
+
+                                         Cummins Public
+
+                                                                                          Cummins India Limited
+                                                                                             November 16, 2026
+
+                  that are aligned with their total cost of ownership, as well as the opportunities that we have in
+                  front of us.
+
+
+                  Whether it is technology, the partnerships, the execution, our services support, all of those things
+                  factor into how we think about our product positioning and our pricing. We are excited about
+                  where we are today. We recognize that the costs are coming in and inflation is faster than or
+                  higher than anyone would want, but we are working very closely, and we are engaging with our
+                  customers to be able to support.
+
+
+                  The other thing, like we have said, is that orders that we take today, when we think about pricing
+                  realization, any price changes that we make, it is going to take some time for that to reflect
+                  because we have orders in hand that we are executing at contracted prices.
+
+
+Rahul Gajare:     Okay. And how much time is the Given that you have a backlog, how much time for you all to
+                  deliver QSK60 and imported gensets today, if the customers are walking in today?
+
+
+Gbile Adewunmi:   We don't share specifically time
+
+
+Rahul Gajare:     No worries.
+
+
+Gbile Adewunmi:   What I can tell you is that we work very closely with the customers, right? It just depends on
+                  project execution. And our goal is always to ensure that our customers can execute their projects
+                  on time. So, that's kind of what we do, but we can't share lead time with you, unfortunately.
+
+
+Rahul Gajare:     Sure. My second question is specific on the power gen. You did indicate that data center makes
+                  up about 30%-40% of power gen. If you were to assume data center contribution at 30%, power
+                  gen ex-data center, we would see a mid-teen kind of growth. But if you were to take that at 40%,
+                  the situation drastically changes to negative growth in ex-data center. I think a better color on
+                  this, how power gen is doing ex-data center would be very important. Thank you.
+
+
+Gbile Adewunmi:   Yes. I think data center ex-power gen ex-data center is growing pretty well. We've given you a
+                  range because every quarter it changes, right? Like we said, we serve a wide variety of markets.
+                  We have a variety of products, so it just depends on what's going on in that particular quarter.
+                  Quarter over quarter is really not the right way to think about this, but we have really good
+                  growth in our G-Drive business, and we're happy with that.
+
+
+Rahul Gajare:     Sure. This is very helpful. Thank you very much, and all the very best.
+
+
+Gbile Adewunmi:   Yes. Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Aditya Mongia from Kotak Institutional Equities.
+                  Please go ahead.
+
+
+Aditya Mongia:    Yes. Good morning, everyone, and thank you for the opportunity. My first question was just a
+                  subjective assessment as to in which segments is it becoming difficult to pass on the price
+                  increases? For instance, is this a power gen-specific problem, and maybe within that is even data
+                  centers seeing this issue? Or is this more broad-based beyond power gen as well, and maybe on
+
+
+
+                                          Page 10 of 16
+
+                                         Cummins Public
+
+                                                                                             Cummins India Limited
+                                                                                                November 16, 2026
+
+                  the exports and the industrial side as well, there are issues that one is seeing. Just trying to get a
+                  sense of where the customer pushback is a lot more.
+
+
+Gbile Adewunmi:   I wouldn't call it issues. I think it's just the reality of the markets that we play in. So, on the power
+                  gen side, we have orders in hand that we're executing, and so the pricing, any price changes we'll
+                  make will impact new orders that we get. On the industrial side, a lot of it is tender-type business,
+                  and so when you win the tender, you're also winning those tenders at executed prices, agreed
+                  prices. Unless there's some price change mechanism, which they're few and far between, that is
+                  difficult to implement right away. So, I wouldn't call it issues. I think it's the nature of our
+                  business. So, there are no particular segments where we say we struggle. It's just the nature of
+                  the business, and we're working through it.
+
+
+Aditya Mongia:    Sure. Maybe just a related question. As in every such cycle, wherein cost prices, cost goes up
+                  and it has to be passed on, makes us also aware of how competition has shaped up over time and
+                  whether the product gap between us and competition has reduced, and whether there is a need
+                  for taking the pricing premium that Cummins enjoys because of its reliability, design, low-cost
+                  base, that much lower. Has the company seen this kind of product gap kind of lessen, and is
+                  there a need for the company to be taking any cuts versus a pricing premium of 10%-15% that
+                  it enjoys in the power gen segment?
+
+
+Gbile Adewunmi:   There's a lot of assertions that you're making there on the numbers, which I will not speak to.
+                  But what I would say in terms of from a product perspective, it's a good question. So how do we
+                  think about the evolution of our product portfolio relative to the market? The way we think about
+                  it is really based on our customer needs. So, our approach is we're working closely with our
+                  customers. We're looking at solutions that are aligned to their total cost of ownership.
+
+
+                  We're not just starting that today. We're not just reacting to what's happening in the short term.
+                  We're constantly engaging, thinking about not just today, but also the future. I think we have a
+                  robust process for looking at products and releasing products, and we're good with that. I think
+                  our customer engagement remains robust, and we'll continue to take that approach.
+
+
+Aditya Mongia:    Thanks. Maybe the last question from my side. This is more from the perspective of exports, but
+                  maybe broader than that. The company has talked about substitutes to power gen or diesel
+                  gensets, not being perfect substitutes in natural gas gensets and in their solution in other forms.
+                  Just on the recent developments that have happened on the fuel cell part, is there an internal
+                  discussion whether there could be a bigger threat that would happen to the diesel genset product?
+                  Maybe starting with the U.S., wherein there is a supply of natural gas and other forms of fuel for
+                  fuel cells but then becoming more broad-based. Any thoughts on that part?
+
+
+Gbile Adewunmi:   I would think, we expect from a company overall global perspective, that natural gas will play
+                  an increasing role. But honestly, that is only in places where natural gas is readily available. So,
+                  what we think about when we think about any new technologies, there are three things that need
+                  to be true. One, the infrastructure has to be available. Two, the technology has to be right. And
+                  three, the cost has to be right. So, everyone is trying to figure that out, given energy security
+                  concerns, given cost concerns, given availability of fuel concerns.
+
+
+
+
+                                           Page 11 of 16
+
+                                          Cummins Public
+
+                                                                                             Cummins India Limited
+                                                                                                November 16, 2026
+
+                  They're trying to figure out what the right solution is in their market. So, for us, we think that
+                  diesel gensets particularly will continue to be a major part of solutions in many places, and in
+                  particular in India, will still be the primary solution. If there is a different fuel that is available,
+                  then we will look at different products. But right now, in India, we see diesel gensets as being
+                  the primary product for backup power.
+
+
+Aditya Mongia:    Can you just clarify one thing before I log off? As in just one clarification to what you have said,
+                  as in not a future question.
+
+
+Gbile Adewunmi:   Yes, go ahead.
+
+
+Aditya Mongia:    Thank you. As in, you have refrained from giving a guidance on gross margins bottoming out.
+                  Just wanted to clarify whether that is coming out of there being a sense that you do not want to
+                  guide for the future, or do you think there could be variables at play which can make the gross
+                  margins volatile even from current levels here?
+
+
+Gbile Adewunmi:   The way I would frame it is, there is a lot of uncertainty in the world today, right? The
+                  geopolitical issues have not gone away. Inflation, despite the attempts of many to try to tame it,
+                  has not slowed down. You are also in an environment where we are rapidly growing, so suppliers
+                  are trying to add capacity. We are trying to grow at the same time. There is a lot of things at
+                  play, right? The uncertainty of the global environment is real, and what we are doing is just
+                  working very hard to be able to manage through that.
+
+
+Aditya Mongia:    Thank you. That will be all from my side, and thanks for taking all my questions.
+
+
+Gbile Adewunmi:   Thanks, Aditya.
+
+
+Moderator:        Thank you. Next question is from the line of Ankur Periwal from Axis Capital. Please go ahead.
+
+
+Ankur Periwal:    Yes. Hi, sir. Thanks for the opportunity. First question on our medium-term growth strategy,
+                  more on the capital allocation side. Considering that we are sitting at a INR38 billion-INR40
+                  billion cash, and given your comments on very strong demand outlook, plus our earlier initiative
+                  of expanding into BESS as well, how should one look at the capital allocation going ahead in
+                  terms of capex, growth outlook, etcetera?
+
+
+Gbile Adewunmi:   From a capex perspective, I would say not major changes, right, in our philosophy. We continue
+                  to invest in sustenance, we continue to invest in growth, in our facilities, in safety. I would say
+                  nothing major from that perspective, Ankur.
+
+
+Ankur Periwal:    Okay, sure. On the industrial side, last year we were largely flattish, given that construction was
+                  lower. Even in the first half, we are somewhere in the mid-single digit sort of a growth there. Is
+                  there any segment specific which is seeing a slightly softer demand, or it is more competition,
+                  or it is general growth trend being at this level?
+
+
+Gbile Adewunmi:   I think I can maybe shed a little bit of color. I would say on the rail side for this particular quarter,
+                  we were a little softer because we've got the coach factories have a lot more inventory. On the
+
+
+
+
+                                           Page 12 of 16
+
+                                          Cummins Public
+
+                                                                                             Cummins India Limited
+                                                                                                November 16, 2026
+
+                  marine side, this is a projects business, right? It's a little lumpy. This quarter, we're a little slower
+                  on execution of certain projects.
+
+
+                  Then, I would say on the compressor side, there's a lot of demand, but we had some supply chain
+                  constraints which made it difficult. What I just always caution is, let's not just look at stuff
+                  quarter-over-quarter. In any particular quarter, the dynamics might be different, but if we look
+                  over long term, we see we're excited about the opportunities in the industrial markets.
+
+
+Ankur Periwal:    Sure, sir. And just one data which I missed out. The project revenue for this quarter, what will
+                  that number be?
+
+
+Gbile Adewunmi:   Project revenue? What projects are we talking about?
+
+
+Ankur Periwal:    As a part of the power gen business segment, we did give a breakup of the LHP, MHP side. I
+                  missed the number on the services and other projects revenue.
+
+
+Gbile Adewunmi:   Yes. What we will say is overall data center is 30%-40%. We don't break down the projects
+                  specifically.
+
+
+Ankur Periwal:    Okay, sure. No worries. Last year, same quarter last year, this number was again around 30%
+                  share.
+
+
+Gbile Adewunmi:   Yes, I think it's just going to be around that, right? It will fluctuate quarter-to-quarter given some
+                  of the projects, execution, and delivery, but it's always, at least for now, it's in the range of the
+                  30%-40%. That's a good range to have.
+
+
+Ankur Periwal:    Sure, sir. That's it from my side. Thank you and all the best.
+
+
+Gbile Adewunmi:   Thank you.
+
+
+Moderator:        Thank you. Next question is from the line of Sandesh Shetty from HSBC. Please go ahead.
+
+
+Sandesh Shetty:   Thank you, sir, for the opportunity. My first question is, what is the time duration between order
+                  to delivery on a company level, and has it changed over time? If you can give some colour on
+                  that.
+
+
+Gbile Adewunmi:   I would say it depends on the project. This is really driven by the customer and the site readiness,
+                  Sandesh. It's not really driven by us. Each project will be somewhat unique. I wouldn't say there
+                  are any meaningful changes, but each project, it just depends on the project. Our goal is to work
+                  with our customers to ensure that they can meet their project timelines.
+
+
+Sandesh Shetty:   Okay. On the export side, if you can give some outlook, some color on if you're seeing any green
+                  shoots, any challenges on the exports side of the business.
+
+
+Gbile Adewunmi:   I cannot really give you anything forward-looking at this point, Sandesh. I think where we have
+                  geopolitical issues all around, and that level of uncertainty means that kind of quarter-to-quarter,
+                  we will see what happens. But right now, there is nothing more I can share. But for the most
+
+
+
+                                           Page 13 of 16
+
+                                          Cummins Public
+
+                                                                                                Cummins India Limited
+                                                                                                   November 16, 2026
+
+                         part, they have remained stable, right? So, if you look at the long-term trend of exports, it has
+                         been largely stable.
+
+
+Sandesh Shetty:          Okay. Thank you, and all the best.
+
+
+Gbile Adewunmi:          Thanks, Sandesh.
+
+
+Moderator:               Thank you. Next question is from the line of Aritra Banerjee from Nomura. Please go ahead.
+
+
+Aritra Banerjee:         Yes. Thank you for the opportunity. So, sir, I just wanted to understand one thing. So, we have
+                         taken, I think, positive pricing actions in the past few quarters, and I understand there is a lag
+                         between the pricing action and that being translated into our revenue. So, would you say those
+                         pricing actions have started translating into our revenues in 2Q? Or if not, then by when do you
+                         think that will start having some sort of effect on the revenue going forward from Q3, Q4? If
+                         you could provide some colour on that.
+
+
+Gbile Adewunmi:          Yes. So, Aritra, we have been taking pricing actions, and they are starting. When on new orders,
+                         you start to realize the value there, but those new orders don't get executed for a while. We have
+                         strong order books, which is good for us, but it also means that pricing lags a little longer. The
+                         other thing that you get hit instantly with, or at least somewhat instantly with, is the cost, and
+                         the costs have been much more significant.
+
+
+                         So even when you change pricing, we are just seeing higher-than-expected cost increase come.
+                         So, the uncertainty, again, I don't really want to sound like a broken record, I apologize if I do,
+                         but there is just so much uncertainty in the supply base with commodity costs, and it is going to
+                         take a while for pricing to start showing up. And it also depends on how much increase we
+                         continue to see in terms of the ability to catch up.
+
+
+Aritra Banerjee:         No, sir. Sure. Thank you for the response.
+
+
+Moderator:               Thank you. Next question is from the line of Pathanjali Srinivasan from Sundaram Mutual Fund.
+                         Please go ahead.
+
+
+Pathanjali Srinivasan:   Hi. Thank you for the opportunity. Congrats, Billy, for coming here. I would like to know why,
+                         with respect to the current quarter, our growth is only 4%, and is there any deferment of any
+                         orders or anything of that sort, which is why this quarter was a bit lower in terms of growth?
+
+
+Gbile Adewunmi:          Thank you, Pathanjali. I would say a couple of things. One, we kind of just, from a data center
+                         perspective, there was a difference in mix in some of our, what do you call it, on what we
+                         delivered. This is also, again, based on project execution. We also mentioned the same in rail,
+                         given inventory, and then in marine, also slow execution. Then on the compressor side, we also
+                         had some supply shortages that made it difficult for us to deliver to the demand. So, it is a
+                         combination of things across the board, not any one particular thing, I would say.
+
+
+Pathanjali Srinivasan:   If my understanding is right, broadly, this-
+
+
+Moderator:               Pathanjali, sorry to interrupt. Your audio is not clear. Can you speak through the handset, please?
+
+
+
+                                                 Page 14 of 16
+
+                                                Cummins Public
+
+                                                                                               Cummins India Limited
+                                                                                                  November 16, 2026
+
+Pathanjali Srinivasan:   Yes, I'm speaking through a handset. Am I audible now?
+
+
+Moderator:               Little better. Go ahead.
+
+
+Pathanjali Srinivasan:   Hello? Yes. No, so I wanted to know, when you mentioned that there's a bit of a challenge with
+                         inventory or something, so is this a bit of a delay in only the execution, which should happen
+                         better in the second half? Is that the right way to understand it?
+
+
+Gbile Adewunmi:          Yes, I think over time, that's a problem. So, it's not a fundamental change in demand, it's just
+                         more of a timing issue. So yes, over time, it should resolve.
+
+
+Pathanjali Srinivasan:   Got it. Thank you.
+
+
+Gbile Adewunmi:          Thank you.
+
+
+Moderator:               Thank you very much. Next follow-up question is from the line of Jason Soans from IDBI
+                         Capital Markets. Please go ahead.
+
+
+Jason Soans:             Yes, thanks for taking my question again. I just wanted to know some color on what traction
+                         BESS as a solution is getting. Just some color on that.
+
+
+Gbile Adewunmi:          Jason, just to make sure I am clear, you are asking about BESS, correct?
+
+
+Jason Soans:             Yes, that is right.
+
+
+Gbile Adewunmi:          Yes. We are continuing to see good inquiries in the BESS space, right? We started making
+                         inroads with customers in anything from shopping malls, hospitality, educational institutions.
+                         We are not there in any numbers at this point, but we are making good progress. We are happy
+                         with the product, and we are happy with the team's engagement with our customers.
+
+
+Jason Soans:             Yes. Okay, sure. From a strategic perspective, I just wanted to understand, of course, we have
+                         our high horsepower portfolio, which is the main portfolio which we have. And we have a little
+                         lesser the MHP and the LHP side of the portfolio as well. Just wanted to understand from a
+                         perspective, so LHP, MHP will be more probably volume-led, and HHP is more like a
+                         customized and a more specialized portfolio?
+
+
+                         Just wanted to understand, in terms of both these segments, how are we seeing competitive
+                         intensity, and whatever you can share in terms of what we are doing to basically enhance growth
+                         in both the sides, the LHP, MHP side as well, which will be more volume-led, and the HHP side,
+                         where you'll have the stronger players trying to gain market share there. Just wanted some colour
+                         on that and how you're trying to basically protect your turf there?
+
+
+Gbile Adewunmi:          Yes. So, Jason, our approach is pretty similar across the board, right? We think that the
+                         capabilities that we have at Cummins allow us to be successful in both of those segments. So, it
+                         always starts with deep customer engagement and understanding what their needs are. We've
+                         got great technologies; we've got innovative products. We believe we're really good partners.
+
+
+
+
+                                                    Page 15 of 16
+
+                                                Cummins Public
+
+                                                                                       Cummins India Limited
+                                                                                          November 16, 2026
+
+                  And then execution in delivering the product, making sure that it gets there and installed and
+                  commissioned, and then the services support. So, regardless of the type of customer that we're
+                  dealing with, our framework or approach is similar. And then the capabilities we have across the
+                  various parts of the business, in our product, in our distribution businesses, also help us win.
+                  And so, that's our fundamental approach.
+
+
+Jason Soans:      Okay. Thank you so much. Thank you, sir.
+
+
+Moderator:        Thank you very much. Ladies and gentlemen, that was the last question. I would now like to
+                  hand the conference over to Mr. Gbile Adewunmi for closing comments.
+
+
+Gbile Adewunmi:   Thank you all for your active participation and engagement in the call today. Looking ahead, we
+                  expect demand across our key end markets to remain resilient. Persistent geopolitical
+                  uncertainty, plus commodity and inflationary pressures, are expected to continue in the near
+                  term. We are remaining focused on appropriate pricing actions, driving cost discipline,
+                  operational efficiency, supply chain resilience, and delivering for our customers. With this, I
+                  close this call. Thank you.
+
+
+Moderator:        Thank you very much. On behalf of Cummins India Limited, that concludes this conference.
+                  Thank you all for joining us, and you may now disconnect your lines. Thank you.
+
+
+
+
+                                          Page 16 of 16
+
+                                        Cummins Public
+

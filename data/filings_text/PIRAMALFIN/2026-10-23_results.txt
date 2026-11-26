@@ -1,0 +1,904 @@
+23rd October, 2026
+
+BSE Limited                                   National Stock Exchange of India Limited
+1st Floor, New Trading Wing,                  Exchange Plaza, 5th Floor,
+Rotunda Building, P.J. Towers,                Plot No. C/1, G – Block,
+Dalal Street, Fort,                           Bandra Kurla Complex, Bandra (East),
+Mumbai – 400 001                              Mumbai – 400 051
+BSE Scrip Code: 544597                        NSE Symbol: PIRAMALFIN
+
+Dear Sir / Madam,
+
+Sub.: Transcript of conference call on the Unaudited Financial Results (Standalone &
+      Consolidated) for the quarter and half-year ended 30th September, 2026
+
+In continuation of our letter dated 12th October, 2026 and pursuant to Regulation 30(6) of the
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the conference call held on
+19th October 2026, on the Unaudited Financial Results (Standalone & Consolidated) of the
+Company for the quarter and half year ended 30th September, 2026.
+
+The transcript of the said conference call is also hosted on the website of the Company
+https://www.piramalfinance.com/content/dam/piramalfinance/pdf/financial-results/piramal-
+finance-limited/quarterly-results/2027/earnings-conference-call-transcript/p6.pdf
+
+Kindly take the same on record.
+
+Thanking you.
+
+Yours faithfully,
+For Piramal Finance Limited
+(Formerly known as Piramal Capital & Housing Finance Limited)
+ BIPIN
+         Digitally signed
+         by BIPIN SINGH
+         Date:
+ SINGH   2026.10.23
+         14:22:43 +05'30'
+
+Bipin Singh
+Company Secretary
+
+Encl.: As above
+
+                       “Piramal Finance Limited
+            Q2 and H1 FY27 Earnings Conference Call”
+                            October 19, 2026
+
+
+
+
+MANAGEMENT:
+
+
+MR. ANAND PIRAMAL – CHAIRMAN
+MR. JAIRAM SRIDHARAN – MANAGING DIRECTOR AND CHIEF EXECUTIVE OFFICER
+MR. RUPEN JHAVERI – GROUP PRESIDENT
+MR. YESH NADKARNI – CHIEF EXECUTIVE OFFICER, WHOLESALE LENDING
+MR. VIKASH SINGHLA – CHIEF FINANCIAL OFFICER
+MR. RAVI SINGH – HEAD, INVESTOR RELATIONS AND STRATEGY
+
+
+
+
+                                  Page 1 of 14
+
+                                                                                                          Piramal Finance Limited
+                                                                                                               October 19, 2026
+Moderator:       Ladies and gentlemen, good day, and welcome to the Q2 and H1 FY27 Earnings Conference Call hosted by
+                 Piramal Finance Limited.
+
+
+                 As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask
+                 questions after the presentation concludes. Should you need assistance during this conference call, please signal
+                 an operator by pressing star then zero on your touchtone phone. Please note that this conference is being recorded.
+
+
+                 The result materials are available on the exchange and the company's website, and you may refer to them during
+                 the discussion. Please note that today's discussion may include certain forward-looking statements, which must
+                 be viewed in conjunction with the risks and uncertainties that the company faces. These statements are based on
+                 the management's current expectations and are subject to uncertainty and changes.
+
+
+                 On the call today, we have with us Mr. Anand Piramal, Chairman; Mr. Jairam Sridharan, MD and CEO; Mr.
+                 Rupen Jhaveri, Group President; Mr. Yesh Nadkarni, CEO, Wholesale Lending; Mr. Vikash Singhla, CFO; and
+                 Mr. Ravi Singh, Head, IR and Strategy.
+
+
+                 I now hand the conference over to Mr. Anand Piramal for his comments. Thank you, and over to you, sir.
+
+
+Anand Piramal:   Good afternoon, everyone, and thank you for joining us today on this call to discuss Q2 FY27 Results of Piramal
+                 Finance. I hope you and your families are enjoying the ongoing festive season, and I wish you all happiness and
+                 prosperity.
+
+
+                 An important announcement before we get into Q2 results discussion. I'm delighted to welcome Mr. Dinesh
+                 Kumar Khara, who joins today as an Independent Director for a 5-year term. Mr. Khara has been one of the
+                 most respected CEOs in the financial services sector. During his tenure, the market cap of SBI moved from $20
+                 billion to $90 billion at a CAGR of 47%.
+
+
+                 During his career, particularly as Chairman of SBI, he strengthened one of India's most important financial
+                 institutions and expanded access to formal banking and credit for millions of Indians. His experience, judgment
+                 and deep understanding of financial services will be invaluable, and we look forward to his counsel and guidance.
+                 With that, let me now begin with a few observations on the macroeconomic environment and take you through
+                 our performance during the quarter.
+
+
+                 India's financial sector has remained resilient and despite geopolitical upheavals, NBFC Gross NPAs have
+                 declined significantly over the last few years alongside robust credit growth, particularly among upper layer
+                 institutions. This resilience reflects the strength of the broader Indian economy. International institutions like
+                 IMF have revised India's GDP growth projections for FY27 and FY28 upwards, supported by robust
+                 consumption, capital expenditure and stable forex reserves.
+
+
+                 However, rising global inflation will exert pressure on India's cost of capital. H2 FY27 is likely to see a broad-
+                 based increase in borrowing costs in line with the RBI shift from a neutral stance to calibrated tightening.
+                 Nevertheless, we do not expect any notable slowdown in borrowing activity with liquidity conditions remaining
+                 adequate. Emerging global risks warrant close monitoring, particularly rising U.S. and Japanese sovereign bond
+                 yields and the prospect of crude oil prices remaining high for longer, which could amplify inflationary pressures
+                 and tighten global financial conditions.
+
+
+                 Moving on to our company's Q2 performance. Our Growth AUM now stands at 98.5% of total AUM. In Q2,
+                 Growth AUM increased by a healthy 30% year-on-year. Total AUM grew by 24% year-on-year to INR1,13,112
+                 crores. Q2 FY27 RoAUM of Growth business was at 2% annualized, 34 bps higher than 1.7% RoAUM in Q2
+                                                  Page 2 of 14
+
+                                                                                                              Piramal Finance Limited
+                                                                                                                   October 19, 2026
+                    FY26.
+
+
+                    In Q2 FY27, our PAT was up 67% year-on-year to INR545 crores with underlying Growth business PBT of
+                    INR538 crores. Thus, our H1 FY27 PAT is also up 67% year-on-year and crossed the INR1,000 crores mark.
+                    Asset quality was stable and healthy across both our retail and wholesale businesses, and we will share more
+                    details later on this call.
+
+
+                    In Q2, we completed a total equity fundraise of INR3,850 crores, including a QIP of INR2,100 crores and
+                    preferential allotment of warrants of INR1,750 crores to the promoter group. This was our first fund raise as
+                    Piramal Finance, and we are encouraged to see the response to QIP in terms of demand from investors and
+                    eventual participation of several marquee domestic and international investors.
+
+
+                    In September, we completed 5 years since the merger of DHFL in September 2021. In every possible way, this
+                    merger has proven to be a transformational one for the company. It provides us a platform on which we could
+                    steadily build up further.
+
+
+                    The acquired product suite of mortgages and real estate lending has expanded to more than 10 key product
+                    categories, diversified across secured and unsecured retail and mid-market corporate lending.
+
+
+                    In 5 years post the merger, our branch network and employee base have further grown by 3x, while AUM have
+                    grown 5x in 5 years from INR23,000 crores to INR1.1 lakh crores for the Growth business, making us one of the
+                    fastest-growing retail finance stories in the country.
+
+
+                    While a large part of what we recorded on day 1 of the merged balance sheet has naturally run down, the imprint
+                    of this arguably the most consequential FS mergers in India is visible across our businesses, balance sheet and
+                    P&L.
+
+
+                    In these years, we made gains of more than INR3,000 crores from DHFL's stress book. The large pool of long-
+                    term low-cost fixed rate borrowing rolled over from erstwhile DHFL continues to support our liabilities base.
+                    There is a tax shield of INR16,000 crores of assessed carry-forward losses, mostly arising from DHFL still
+                    available to us.
+
+
+                    As the youngest NBFC among India's upper layer NBFCs, we are privileged to be serving over 6.5 million
+                    customers across semi-urban India, combining physical distribution with technology and AI in our processes.
+                    With a AA+ rating and demonstrated retail-led diversified business model at scale, we are confident in our ability
+                    to deliver steady and healthy earnings growth.
+
+
+                    With that, I'll hand over to Jairam to share more details on the results.
+
+
+Jairam Sridharan:   Thank you, Anand. Good afternoon, everyone. I will begin by providing some details on our performance for the
+                    quarter, our progress against strategic priorities and some special topical matters for this quarter.
+
+
+                    Let's start with growth on Slide Number 4. At the start of the year, we had guided for a 25% AUM growth in
+                    FY27. Over the medium term as well, we expect our AUM to double every 3 years, implying an AUM of INR1.5
+                    lakh crores by FY28. Against these aspirations, in Q2 FY27, our AUM was up 24% year-on-year to INR1,13,112
+                    crores. Growth AUM was up 30% year-on-year, while the legacy book came down by 69% year-on-year.
+
+
+                    With our Growth AUM at 98.5% of the total AUM now and scaling up at 30-plus percent year-on-year for the
+                    past several quarters, we remain on track for our FY27 and FY28 AUM growth expectations. Our retail AUM
+
+                                                      Page 3 of 14
+
+                                                                                        Piramal Finance Limited
+                                                                                             October 19, 2026
+growth remains strong. The strong pickup seen in Q1 in disbursement growth continued to get even stronger in
+Q2.
+
+
+Disbursements were up 34% year-on-year in the second quarter. Retail AUM grew by 30% year-on-year to
+INR97,462 crores. Our mortgage business comprising housing loans and loan against property grew by 27%
+year-on-year to INR64,650 crores. Mortgages account for 57% of the company's AUM.
+
+
+If you look at Slide 25, which has product level details, you will note that there are substantially higher growth
+rates that are visible for mass affluent housing loans and larger ticket LAP plus business within our HL and LAP
+books. With our rating upgrade, our ability to serve these segments is significantly higher.
+
+
+With risk performance under control, AUM growth in our 4 unsecured product categories -- personal loans,
+unsecured business loans, digital loans and rural micro loans all gained momentum. These AUMs were up 46%
+year-on-year to INR23,764 crores and now form 21% of the company's AUM.
+
+
+If you look at Slide 31, you will see that our customer franchise grew by 26% year-on-year to 6.5 million. With
+the uptick in unsecured disbursements, both our overall customer franchise and our cross-sell franchise growth
+have been improving. Our sourcing from cross-sell in unsecured disbursements was at 30%, which we expect to
+keep improving over the coming years. Our cross-sell portfolio, of course, comes with significantly lower opex
+and credit risk.
+
+
+In the second quarter, we did not add any full-service urban branch. We did instead expand our network for gold
+loans and rural loans. The gold loans network expanded to 100 branches from 67 in the previous quarter, and we
+aim to have 200 gold loan branches by the end of March 2027. On the rural side, we expanded from 178 branches
+last quarter to 203 branches by the end of this quarter. The company's total branch network now stands at 838.
+
+
+Wholesale AUM was up 24% year-on-year in the second quarter to INR13,978 crores. The mix between real
+estate and mid-market lending stands at 68:32.
+
+
+Moving on from growth towards profitability. I'd like to start from Slide Number 5. Return on AUM for our
+Growth business increased to 2% per annum in the second quarter versus 1.7% in Q2 FY26. Leverage, i.e., AUM
+to equity was at 3.6x in the second quarter compared to 3.7x in the first quarter.
+
+
+In the second quarter, of course, we completed a capital raise that Anand mentioned. We have structured the raise
+in a manner so as not to take a very large hit on leverage in that quarter. With continued AUM growth, leverage
+should continue to progress towards our goal of 4.5x to 5x in the medium term. Let's go now into some of the
+components of our return on AUM, starting with margins.
+
+
+The company's net income margin was flat quarter-on-quarter at 6.5%, which you can see on Slide 50. This is
+very close to the level for our overall Growth book net interest margin at 6.8%. And of course, it will get closer
+still as the legacy book goes off our portfolio.
+
+
+Cost of borrowing. Of course, a lot of attention has been placed justifiably on the liability side of NBFC books.
+I'd like to draw your attention to Slides 16, 17 and 18 for a discussion on our cost of borrowing.
+
+
+Our incremental cost of borrowing at Piramal Finance continues to decline steadily. Following our domestic
+rating upgrades to AA+ between January and March 2026, cost of incremental long-term borrowing has declined
+from 9.36% in H1 FY26 to 8.67% in H2 and further to 8.46% in H1 FY27. We have roughly INR37,500 crores
+of long-term borrowings, which are due for maturity in the next 18 months.
+                                  Page 4 of 14
+
+                                                                                             Piramal Finance Limited
+                                                                                                  October 19, 2026
+If you look at Slide 17, the bottom left chart shows that our current incremental cost of borrowing is meaningfully
+lower than the carrying cost of these borrowings that are going to mature and retire over the next 18 months. This
+continues to provide us a strong tailwind on the cost of borrowing side.
+
+
+Our market-linked borrowings are less than one-third of our total borrowings. We also have variable rate
+liabilities, which are slightly lower than our total variable rate assets, as you can see in the top right chart of Slide
+Number 16. This again positions us well in a rising rate environment.
+
+
+Despite the way market rates have moved in recent months and the RBI's recent and likely upcoming repo hikes,
+we believe that our overall cost of borrowing at Piramal Finance on a stock basis will continue to be at similar or
+lower levels over the next 12 months.
+
+
+Moving to retail income, Slide 22. You'll see that total retail income was 14.6% of loans versus 14.7% in the
+first quarter. This small delta is largely driven by the higher number of days in the second quarter versus the first
+quarter. Other income was stable Q-o-Q. If you recall, in Q1, we had made and disclosed a considered strategic
+choice to perform fewer debt assignment transactions, resulting in a reduction in our other income line and an
+increase in ongoing annuity.
+
+
+Moving on to insurance. Following the 23rd September consultation paper from IRDAI, we had disclosed on
+24th September, our initial assessment of how our insurance commission income is likely to be impacted. The
+company currently exclusively distributes life insurance products of Pramerica Life Insurance, where we have
+50% stake as a promoter. If the consultation paper is implemented as it is with an effective date of 1st April 2027,
+we estimate a gross reduction in insurance commissions, potentially having 18 to 24 basis points of impact on
+FY28 return on assets. However, that is at a gross level. Any improvement in economics of Pramerica Life
+Insurance will flow back proportionately to Piramal Finance during consolidation. Thus, the company has a
+natural hedge and a claw-back available in the way the company is structured.
+
+
+Apart from this, there are other levers that are available to the company as well. For instance, rationalization of
+sales incentives for selling of insurance and other forms of product claw-backs. We believe this can significantly
+cushion the impact on profitability on a net basis in FY28 and beyond. In the near term, the company remains
+confident of meeting our earlier stated FY27 profit growth guidance of 50% profit growth year-on-year.
+
+
+Retail opex to AUM declined by 5 basis points on a quarter-on-quarter basis to 3.48%. You will see this on Slide
+22. You will notice that we have now consistently reduced our opex to AUM for almost 4 years. While we are
+now well in the target range of retail opex to AUM, the ratio continues to move downwards. The continued
+productivity gains for our employees and branches, we believe, have the potential to take retail opex to AUM to
+further lower levels over FY27. The reduction in retail opex to AUM has driven Growth business opex to AUM
+down 33 basis points year-on-year to 3.2%.
+
+
+At a company level, our cost to income was 52% in the second quarter, down from 61% in the second quarter
+last year and 65% in second quarter of FY25, as you will see on Slide 52.
+
+
+Tech and AI have been key enablers of both our growth and our productivity enhancements. Slides 33 and 34
+show some details of our enterprise AI strategy, which we have called Piramal.ai. On Slide 33, the dashboard
+that we regularly share shows progress of AI use cases across all aspects of our business, such as sales,
+underwriting, collections, audit and compliance, customer experience and people management. Like every
+quarter, this quarter, we have put a spotlight on one area heavily impacted by AI. And this time, on Slide 34, we
+have covered customer experience, CX.ai.
+
+                                   Page 5 of 14
+
+                                                                                         Piramal Finance Limited
+                                                                                              October 19, 2026
+Most impactful use cases of AI in customer experience have been Gen AI-powered automation of routine service
+e-mails, allowing human agents to focus more on cross-sell to these customers, leading to a 5x increase in cross-
+sell productivity of human agents versus what it looked like before AI took over e-mail response.
+
+
+PIA, our self-service AI assistant, interacts with customers across WhatsApp and Piramal app, resulting in 6.3
+lakh interactions in the second quarter for queries, payments and new loan offers. PIA also generated 20% of our
+total cross-sell leads during the quarter.
+
+
+Our conversational AI powered bots resulted in INR102 crores of PIA's cross-sell in the second quarter and
+INR172 crores of end-to-end collection of overdue EMIs and fees in a human-free manner. You can see how
+CX.ai is boosting our productivity, digital engagement and cross-sell.
+
+
+Moving to risk. Credit risk across the portfolio continued to see the strength that we witnessed in Q1. All risk
+metrics, both early and late across both secured and unsecured continue to look very strong. Our overall retail
+90-plus delinquency is at 0.7%, stable in a narrow range of 0.6% to 0.8% over the last 4 years. Growth business
+credit cost was down by 10 bps quarter-on-quarter to 1.5%. Unsecured, in particular, shows risk at multiyear
+lows and delinquencies at one-third of peak levels. There are 4 additional dimensions, which I would like to share
+specific risk insights on.
+
+
+First, in the IT sector, the last quarter, I had mentioned emerging risk challenges in home loans for IT sector
+customers from South India. That situation persists. The good news, however, is that it has not spread to other
+adjacent segments.
+
+
+The second is on the monsoon impact. The weak monsoon does not seem to have had a negative impact on
+Agri income customers, at least so far. Bounce rate in this customer segment was the same as in the first quarter
+FY27 and 110 basis points lower than the second quarter FY26.
+
+
+Leverage at the customer level, overall leverage levels continue to be low. We have indeed seen some increase
+in leverage in digital lending business in Q4 and Q1, but that has subsided back down in the second quarter. As
+of this quarter, leverage of customers applying for loans from us is lower than it was 2 years ago in every single
+product category.
+
+
+The fourth dimension on which I want to add some risk insight is on gold loans. This is an important area of
+emerging risk in our mind, which is the rapidly increasing presence of gold loans on customer files. Two years
+ago, on our portfolio, depending on product, 20% to 25% of customers had an active gold loan outside. That
+number is now above 35% in all product categories. Secondly, in financial year '26, across the industry,
+approximately INR4.7 lakh crores of gold loan disbursements happened to customers in deep delinquency, i.e.,
+more than 90 days past due. Today, presence of a gold loan on files is not yet an indicator of higher risk in the
+portfolio. However, we believe that these data points that I just shared are worth noting and tracking.
+
+
+Lastly, along with growth and profitability, we have been equally focused on predictability and consistency. If
+you look at Slide Number 6, our second quarter PAT of INR545 crores has kept up the steady and predictable
+earnings trajectory of the last 8 to 10 quarters. Our trailing 12-month EPS growth is currently running at 155%
+year-on-year. We disclosed long-term 4-year plus quarterly data across most key parameters, showing the
+discipline and rigor that go into delivering predictability and consistency. Our risk chart, for example, cover both
+vertical and horizontal risk across the portfolio and across individual products for 4-plus years.
+
+
+With the transformation journey of the last 5 years since DHFL merger behind us, the recently concluded capital
+
+                                  Page 6 of 14
+
+                                                                                                          Piramal Finance Limited
+                                                                                                               October 19, 2026
+                  raise demonstrating the confidence of promoters and other investors and the strong performance in the first 2
+                  quarters of financial year '27, we remain confident of meeting our near-term FY27 and medium-term guidance
+                  on growth, profitability and stability of earnings and risk performance.
+
+
+                  With that, let me hand over the call to Yesh to discuss our wholesale business.
+
+
+Yesh Nadkarni:    Thanks, Jairam. As at September 2026, the wholesale book stood at INR13,978 crores, which was a growth of
+                  24% year-on-year. Real estate to CMML mix stood at 68:32. Average ticket size of the book was INR55 crores
+                  and average yield of the portfolio was 14.1%. During the second quarter, we disbursed INR2,615 crores across
+                  91 separate transactions, including 41 new transactions and 50 transactions which were sanctioned in the previous
+                  quarters, but were partly disbursed during this quarter.
+
+
+                  Repayments continued to be elevated as we received INR1,889 crores or about 72% of the disbursed amounts
+                  during the quarter. Due to high rate of prepayments to date, about 74% of our contractual repayments due in
+                  FY27 have already been paid by our borrowers to us as of today.
+
+
+                  The strong prepayment trend continues as we have seen over the past few quarters as well and is proving to be a
+                  growth headwind for our wholesale business, but it also highlights robust portfolio performance.
+
+
+                  Separately, our legacy AUM decreased significantly by INR780 crores or 32% quarter-on-quarter, leading to an
+                  AUM of INR1,673 crores, which is now just 1.5% of our total AUM, as Jairam alluded to earlier. With sharply
+                  falling share of legacy book, we expect to discontinue its separate disclosures after the December quarter. The
+                  chunky reduction in legacy book in Q2 was PBT neutral. We carry ECL provision of INR459 crores on the legacy
+                  book. With this, I'll hand over to Vikash to cover financials.
+
+
+Vikash Singhla:   Thank you, Yesh. Moving to our financial performance. In Q2 FY27, we reported consolidated net profit of
+                  INR545 crores as against INR327 crores in Q2 FY26, which is up by 67% year-on-year.
+
+
+                  Pro forma PBT for Growth business stood at INR538 crores in Q2 FY27 versus INR344 crores in Q2 FY26. The
+                  net income margin for company level is at 6.5%, which is up 35 basis points year-on-year and flat quarter-on-
+                  quarter. Growth business NIM was 6.8% versus 6.9% in Q2 FY26 and 6.8% in Q1 FY27. The capital raise in Q2
+                  had a positive impact of 5 basis points on our NIM. Our total income thus grew 33% year-on-year to INR1,767
+                  crores. Operating expense growth was contained at 13% year-on-year.
+
+
+                  Pre-provisioning operating profit thus grew by 64% year-on-year to INR846 crores. Gross business credit cost
+                  was 1.5% versus 1.6% in Q1 FY27. In Q2, along with the reduction in legacy book, we had a profit of INR90
+                  crores from recovery in legacy business. With this, the company's overall credit cost was at 1.1% versus 1.8% in
+                  Q1 FY27. Our total GNPA and NNPA were at 2.4% and 1.7%, respectively.
+
+
+                  Our net worth stands at INR31,180 crores. Our capital adequacy is at 20.1% at the end of September 2026. In
+                  Q2, the QIP added almost 200 basis points to our capital adequacy. It also had a positive impact of 5 bps on our
+                  RoAUM and it led to a reduction of just 0.1x in our Q2 end leverage.
+
+
+                  We are confident to stay comfortable on capital adequacy over the next few years while funding our growth and
+                  expanding the leverage. As discussed in previous quarters, there are opportunity of non-dilutive regulatory capital
+                  release in our balance sheet, likely over the next 12 to 24 months. That, combined with our recent capital raise
+                  implies enough runway for growth capital for some years.
+
+
+                  With these remarks, I would now like to open the floor for questions. Thank you.
+                                                   Page 7 of 14
+
+                                                                                                                Piramal Finance Limited
+                                                                                                                     October 19, 2026
+Moderator:          We have the first question from the line of Shreya Shivani from Nomura Securities.
+
+
+Shreya Shivani:     I have 2 questions. First is on the cost of funds. Now that we are officially in the rate hike cycle, what is our
+                    view on what product segments will we be passing on the higher rates to our end customers? When will we do
+                    it? Will we wait for another MPC before we take that decision? Any color around that would be helpful.
+
+
+                    My second question is on the yield movement. So there has been a significant sequential decline in the legacy
+                    book. However, the yields were sort of flattish between Q1 to Q2. Is it fair to say that once it's completely out of
+                    the base, from Q3 onwards, it will start showing up in the yields? Any thought process around that?
+
+
+                    And sorry, one more question. The third question is while your asset quality trends, which is Slide 23 is stable.
+                    But if you see the vintage risk, there is a slight pickup in probably the digital loans and the housing loans. I guess
+                    the housing loans probably is explained by the IT sector employees, if that's correct. Any other color around that
+                    would be useful.
+
+
+Jairam Sridharan:   Perfect. Great question. Thank you, Shreya. Question number one, cost of funds and passing it on to customers.
+                    See, unlike banks, NBFCs are on a PLR regime. So we will pass on rates when our PLRs change, which will
+                    happen once our cost of borrowing falls. So essentially, we will wait for our cost of borrowings to fall, which
+                    will take a little bit of a lag.
+
+
+                    After that, there will be a little bit of a lag before we pass it on to our customers. In the last cycle, we saw the lag
+                    impact on our cost of borrowing to be almost 1 year and then about a 3-month further lag for us to actually pass
+                    things on to our customers.
+
+
+                    50% of our assets roughly are going to be of this variety where we can pass on mostly our home loans and loan
+                    against property customers. So, I don't expect anything being passed on yet. We need to first see the impact on
+                    our cost of borrowing. If it starts increasing, then we will go ahead and increase rates.
+
+
+                    Otherwise, you shouldn't expect to see much action on that front. Your second question was on yields. And what
+                    happened to yields and why didn't yields go up if legacy book came down.
+
+
+                    To some extent, your hypothesis is correct, but also there's a simpler explanation, which is a simple technical
+                    explanation, which is that number of days in this quarter was higher by 1 day compared to the previous quarter.
+                    That takes away almost 11 basis points of yield if calculated for the retail business.
+
+
+                    And since mostly our book is retail, that shows as a compression in NIM, it's not real. So don't worry about it.
+                    It's just optical based on the number of days. Your third question was on risk and particularly, you spoke about -
+                    - Vintage risk, see, the digital loans, there is nothing there, the Q4 was low. Otherwise, actually, there is nothing
+                    much there. Risk is looking very good.
+
+
+                    And by the way, in digital loans, 90%-plus of our lending is on FLDG. So anyway, it's not credit risk on our
+                    book. Whatever increase happens here, unless we breach the 5%, it's basically on the partners' book, not on our
+                    book. So I'm not worried at all on the digital lending side.
+
+
+                    Your catch on housing loans is absolutely the right one. That is appropriate to look at. That is a real increase that
+                    has actually happened there. There is one big case. There is a INR4 crores case from Q2 of FY26, which turned
+                    out to be fraudulent, which is there in that number. So that number has ticked up because of that one case.
+
+
+                    I expect that number to come back down in Q3 because we are seeing the Q2 numbers at the 9-month level,
+
+                                                       Page 8 of 14
+
+                                                                                                              Piramal Finance Limited
+                                                                                                                   October 19, 2026
+                    they're looking a lot better. So I expect that number will come back down. But that one is a real uptick driven by
+                    one fraud case.
+
+
+Shreya Shivani:     Right. That's useful. Sir, on the commentary that you made on the gold loan -- that the gold loan disbursals are
+                    towards customers in deep 90 plus, etcetera. Any thought process around your own strategy? I mean, how are
+                    you thinking about it about your own?
+
+
+Jairam Sridharan:   So depending on how you count. On a gross disbursement basis, anywhere from 15% to 22%, 23% of gross
+                    disbursements in gold loans over the last year have happened to customers who are 90 days plus past due on at
+                    least one of their live trades. A shockingly high number.
+
+
+                    That number for Piramal for October so far is less than 1%. We do not disburse gold loans to customers who are
+                    more than 90 days past due. We just don't do it, even though that's almost 1/5 of the market today.
+
+
+                    So of course, we are a very, very, very small player in gold loans. We just started. But this is not an area where
+                    we are going to compromise. So it's less than 1% of our disbursements.
+
+
+Moderator:          The next question is from the line of Renish from ICICI Securities.
+
+
+Renish:             Congrats team for the good set of numbers. Sir, just 2 things again on this vintage risk slide. So when we look
+                    at HL and LAP, both these segments, we have seen a very stark increase in 90-plus on a sequential basis. So just
+                    wanted to know what is happening here. I mean I heard you on this IT related issue on the HL side. But more
+                    specifically on the LAP, what is happening? And also when we look at the used car also, there is some increase.
+                    So just wanted to understand why our new book asset quality is basically inferior to our period and book quality?
+
+
+Jairam Sridharan:   If you look at Page 24, you can see the small uptick in housing loans and kind of in LAP as well. Everything else
+                    is going down. So like overall, as you can see, the overall numbers are down, not up. So new business quality is
+                    all significantly better than it has been, unless I misunderstood your question.
+
+
+Renish:             Yes. So I will just maybe repeat my question. So sir, I'm referring to your Slide Number 23. In that slide, if we
+                    look at the used car loan, right, which is 5% of the book, there last 3 quarters, our 90-plus is 1.2%, which is flat.
+                    But when I look at the vintage risk slide, the same segment used car, there the 90-plus is actually running higher
+                    than the book quality, I mean, the period-end book. So I'm just wondering, does that mean the incremental
+                    business is being booked at inferior 90-plus.
+
+
+Jairam Sridharan:   I understand what you're saying. This is a different metric. So see, when you look at a full stock, what happens
+                    is you have clients who are 0 months on book, 1 month, 2 months, 3 months, 7 months, all the way to 9, 10, 11,
+                    12 and then 23, 24, 25, etcetera. 12 months on book is about the peak of where risk is going to be at its peak,
+                    right?
+
+
+                    But the full portfolio, when you see it, it will have both the peak as well as a bunch of non-peak vintages out
+                    there. And hence, the portfolio numbers are going to be lower than that because it's an average of many, many
+                    guys. This metric, the horizontal metric essentially just shows 1 vintage, 1 tranche and looks at them when their
+                    risk is likely to have peaked, which is around 12 months mark and says, okay, what is that peak of risk?
+
+
+Renish:             Okay. Got it. So, it's on a rolling basis, right?
+
+
+Jairam Sridharan:   On a rolling basis, absolutely right.
+
+
+
+                                                       Page 9 of 14
+
+                                                                                                              Piramal Finance Limited
+                                                                                                                   October 19, 2026
+Renish:             Got it. No, I thought it's a static full 12 months and not rolling, hence. But I understood completely, sir. And
+                    again, going back to the same question what Shreya has asked on the NIM side, right? So again, when we look
+                    at the Growth business NIM, which is at 6.8% and when we look at the company NIM, it is 6.5% and also as per
+                    our Slide Number 51, the legacy book share is just 1.5%.
+
+
+                    So just wanted to know optically, maybe over the next 2 to 3 quarters, your Growth NIM should be the company
+                    NIM, which is obviously 30 basis points higher. So does that give you a natural hedge against the rising rate
+                    cycle and hence, despite the rising rate, our NIM actually should expand from here on, the only reason being
+                    legacy book coming down.
+
+
+Jairam Sridharan:   That is absolutely correct. Mathematically, that is bound to happen.
+
+
+Renish:             Okay. Got it. So we are not too worried on the rising rate cycle?
+
+
+Jairam Sridharan:   Not really. I mean, I don't want to be too cocky about this, but in our business, there are 2 or 3 natural hedges
+                    that exist on the rate cycle. One is this legacy book. The other is our recent ratings and hence, ratings upgrade
+                    and hence, our incremental cost of borrowing being significantly lower than what our book is and what our
+                    retiring debt cost is. These 2 things are material items, which provide a natural hedge against a rising rate cycle.
+
+
+Renish:             Got it. And maybe just last thing. So given we also heard one of the largest prime housing financiers is rising its
+                    PLR rate just in the month of October. And if that happens, then is that upside risk over rates?
+
+
+Jairam Sridharan:   Not really. See, I don't expect us to raise rates for customers because our rates are not increasing. So, it would be
+                    unfair for me to just pass on a rate increase to customers when I'm not seeing that rate increase. So, in our case,
+                    neither will we increase it, nor will we increase it for the customer.
+
+
+Moderator:          We have the next question from the line of Abhijit Tibrewal from Motilal Oswal Financial Services.
+
+
+Abhijit Tibrewal:   First a clarification. If I look at our consolidated P&L, we had reported loan loss provisions and fair value loss
+                    of about INR300 crores. While if I look at our Growth business, there the credit cost upwards of INR400 crores.
+
+
+Jairam Sridharan:   Correct.
+
+
+Abhijit Tibrewal:   So just trying to understand, is there some write-back from the legacy book? Or is it some other business
+                    subsidiary, which is contributing to this?
+
+
+Jairam Sridharan:   No, it's all legacy book.
+
+
+Abhijit Tibrewal:   Related to write-backs.
+
+
+Jairam Sridharan:   Exactly. Write-backs that come, which we are using to create other buffers elsewhere.
+
+
+Abhijit Tibrewal:   Second question that I had was around liabilities, the last 2 participants, you would remember we were all asking
+                    about margins and how they could trend in a rising rate cycle. But I could also see in one of your slides, you have
+                    mentioned you have about INR29,000 crores of debt coming up for maturity next year, which are at a higher rate
+                    than your incremental cost of borrowings. So at least that maturing debt should bring down your cost of
+                    borrowings irrespective of where your incremental is.
+
+
+Jairam Sridharan:   So, your point is absolutely straight forward, Abhijit. Debt is maturing at 9.1%, we are borrowing at 8.4%, there
+                    is a gap of 60-70 bps. Even if the rate is increasing, my maturity is still going on. So, my gross cost of borrowing
+                                                     Page 10 of 14
+
+                                                                                                                Piramal Finance Limited
+                                                                                                                     October 19, 2026
+                    of the stock will come down.
+
+
+Abhijit Tibrewal:   And lastly, sir, if I look at this quarter, we have reported a 2% kind of RoAUM for our Growth business and we
+                    had given out an exit quarter target of about 2.5%. And the long-term goal is to take it above 3%. So now with
+                    the retail opex to AUM already settling below 3.5%, credit cost stable at 1.5%, what are going to be the key
+                    incremental levers to bridge this gap from current 2% to 3% over the longer term? Basically, what I'm trying to
+                    understand is how much of this improvement can come from operating leverage, margin expansion, product mix,
+                    credit costs?
+
+
+Jairam Sridharan:   Yes. So, the big delta comes in kind of comes under 3 heads. One is the mix shift away from legacy towards
+                    everything else. But let's keep that aside for a minute, let us just look at the Growth economics for a moment.
+
+
+                    Within Growth economics, there are 2 big drivers. opex will continue to come down. We believe there's another
+                    30-35 bps that is possible over the next 6 quarters. And then there is cost of funds or cost of borrowing kind of
+                    resulting in cost of funds.
+
+
+                    And then there is the whole mix shift of us becoming more unsecured. You saw me comment earlier that we are
+                    21% unsecured today. We were 20% till 2 quarters ago, now we are 21%. Eventually, we want to be 25%, 26%
+                    unsecured, right?
+
+
+                    So that delta will happen over the coming quarters, right, coming quarters and couple of years. So that will
+                    continue to happen. That will continue to push the margins. So basically, there is opex, there is cost of borrowing,
+                    and a little bit is this mix towards unsecured. Those are the main components that will get out there. You want to
+                    add, Vikash? Sorry, just give Vikash one minute.
+
+
+Vikash Singhla:     We mentioned we are increasing gold, which is a high-yield product. And all this will come at the cost of
+                    mortgage product, which is low yielding.
+
+
+Abhijit Tibrewal:   Got it. So basically, the mix, not just secured-unsecured, but also gold which is secured but higher yielding and
+                    higher margin.
+
+
+Jairam Sridharan:   Correct.
+
+
+Abhijit Tibrewal:   Got it. And last thing, when you look at the bureau data, are you seeing increase in delinquencies, particularly in
+                    lower ticket size loans? And I'm not referring to any particular product, but across products, lower ticket size
+                    loans, are you seeing delinquencies inching up?
+
+
+Jairam Sridharan:   You saw this very strongly in 2024, right, calendar year '24, you saw risk increases in the small ticket and not as
+                    much risk increases in the large ticket. That sort of shape of risk, which is small tickets are much higher risk than
+                    large ticket, that shape has persisted throughout. It has not changed at all. Even today, the small ticket in any
+                    product, whether it is PL, HL, LAP, just take any product, doesn't matter. As you go up towards higher ticket
+                    size, risk is actually decreasing, right? And the smaller tickets, risk is quite a lot higher.
+
+
+                    The situation is a little bit different in gold loans, where kind of some of the large end as well risk is increasing,
+                    or risk is higher. So the shape is a little different in gold loans. But apart from that, in every product, smaller
+                    tickets are higher risk. That has been the case. It was very, very steep in 2024. It's slightly less steep now.
+
+
+Moderator:          We have the next question from the line of Nischint Chawathe from Kotak.
+
+
+
+                                                      Page 11 of 14
+
+                                                                                                                Piramal Finance Limited
+                                                                                                                     October 19, 2026
+Nischint Chawathe:   Just a short one. If I look at your market linked borrowings, so these would largely be linked to repo, right?
+
+
+Jairam Sridharan:    No. We almost have nothing which is linked to repo. But repo has a very direct impact on the 10-year G-Sec or
+                     some of the other rates in the market. We have almost no borrowing that is directly linked with Repo.
+
+
+Nischint Chawathe:   Got it. And MCLR linked, which is, I think, around one-third, these would largely be linked to 1 year or 1 month?
+
+
+Jairam Sridharan:    It's largely 1 year, but we have some 6 months also.
+
+
+Nischint Chawathe:   Okay. Because when you say that last time around, I know you mentioned that the rate transmission took almost
+                     a year and then you took, I think, a couple of months after that to transmit the rates. But looking at this profile, it
+                     appears that probably the transmission could be much faster this time.
+
+
+Jairam Sridharan:    Yes. So basically, when I say last cycle, I actually mean the down part of the cycle. In down part of the cycle,
+                     generally transmission takes longer. In up part of the cycle, transmission happens a little bit quicker. So you
+                     should expect to see that. Market rates are already rising. But the way we are combating it and the way you see
+                     many others combating it as well is reducing market-linked borrowing.
+
+
+                     So like this quarter, the amount of money we have raised, almost nothing we have raised from the capital markets.
+                     Because capital markets have directly shown the increase in rates or reflected the increase in rates.
+
+
+                     So we have basically moved our mix away from market-linked towards more MCLR linked, right? So this type
+                     of mix shift within liabilities is something else that should expect NBFCs to do in the coming months.
+
+
+Moderator:           We have the next question from the line of Anand Dama from Nuvama.
+
+
+Anand Dama:          Congrats on great set of results. I had a question related to RoAUM. You said that there are multiple levers which
+                     will drive the RoAUM to about 2.5%. How confident you are now that we have already entered into a rate hike
+                     cycle to get to that 2.5% AUM?
+
+
+                     And then second is that next year, we have a headwind in terms of insurance commission capping. You said
+                     that there are mitigants which are available. So should we then, in that case, look at a flattish kind of RoAUM in
+                     FY28 given that we have this headwind from the insurance commission capping or you have a better number to
+                     guide over there?
+
+
+Jairam Sridharan:    See, 2.5% in Q4, we feel fine. I don't think there's much anxiety that we have around it. We feel pretty good, and
+                     we have all the levers that we think we need to deliver 2.5% in Q4 of this year. For next year, we have not, of
+                     course, offered guidance yet. I did mention the 18 to 24 bps gross impact. If we are able to mitigate it somewhat,
+                     let's say, half of it, we are able to mitigate it, that is still meaningful.
+
+
+                     Our hope would have otherwise been to actually get pretty close to the 3% number as we exit next year. But now
+                     with this, we have to now recalibrate ourselves. Let's see what we come up with. We'll be close enough as we
+                     exit the year. I don't know whether we'll get all the way there or not in light of the insurance capping thing. But
+                     we'll have specific guidance to offer in Q4. As of now, for the second half of this year, our confidence levels are
+                     fairly high.
+
+
+Vikash Singhla:      And we have not factored any impact of cost of borrowing to come down. Even if the cost of borrowing rate
+                     continues at the current level, we are confident to achieve 2.5% for the exit Q4 '27.
+
+
+
+                                                        Page 12 of 14
+
+                                                                                                              Piramal Finance Limited
+                                                                                                                   October 19, 2026
+Anand Piramal:      Also the insurance capping is a draft yet. It's not still come into as a known policy. So, we have to see what
+                    happens.
+
+
+Anand Dama:         Sure. And any initial discussions which you had with the regulator because you also have insurance company,
+                    I'm sure you'll have a far better understanding in terms of like where the draft rules could be basically liberalized.
+                    Any thoughts for that?
+
+
+Jairam Sridharan:   Yes. See, we are having conversations at multiple levels with the regulators, both as ourselves as Piramal Finance,
+                    but also as PLI, our life insurance company. So we had multiple rounds of conversations that we continue to
+                    have. We will, of course, also be formally giving in our feedback next week to the regulator, as asked for the
+                    NBFC industry together is giving a representation as well through FIDC. So we are participating in that as well.
+
+
+                    So multiple levels of representation are happening. The IRDAI Chairman has indicated openness to listen to the
+                    feedback. And we all saw, I'm sure his comment that the intent was not to do anything very dramatic or very
+                    disruptive. So let us see what happens. I mean your guess is as good as ours at this point.
+
+
+Anand Dama:         Okay. And the current environment is good enough for you to grow into unsecured loans? Or you believe that
+                    maybe you'll just wait and watch and then press the pedal. I mean any thoughts over there in most of the unsecured
+                    loan products that you do?
+
+
+Jairam Sridharan:   I mean you have seen us for a while. You know our philosophy on this. We don't take macro calls. We don't take
+                    decisions on everyday credit choices because of how the macro looks. We take decisions based on how the micro
+                    looks, how each sub-segment is looking like from its delinquency trend perspective, etcetera. And based on that,
+                    we change our credit risk criteria.
+
+
+                    Growth is an outcome of our framework. It is not an input to our framework. We are not targeting any growth
+                    rate. The growth rate is what it is depending on what our credit criteria are. As it happens, there is improvement
+                    that we are seeing in many subsegments in unsecured. So our credit filtration changes are resulting in higher
+                    growth rate in that segment. If tomorrow at the micro segment level, risk start moving in the other direction, our
+                    processes automatically will cut down growth rate. We won't have to make any macro choice in that regard.
+
+
+Anand Dama:         Sure. And lastly, what percent of your portfolio will be linked to rural customers directly or indirectly maybe
+                    going to the farmers?
+
+
+Jairam Sridharan:   So we have about INR2,300 crores or something in exposure, which is primarily in the rural segment.
+
+
+Moderator:          We have the next question from the line of Rakesh Kumar from Valentis Advisors.
+
+
+Rakesh Kumar:       Just a few questions on the interest rate movement. So firstly, like we have 60% of borrowings on a floating
+                    basis and 50% of assets on floating basis. So this difference of 10%, so does that mean that we would increase
+                    our lending rate by the higher pace as compared to the increase in the borrowing cost that we are going to have?
+
+
+Jairam Sridharan:   No, just look at the absolute value. There is INR56,000 crores of assets, which are variable rate and there is
+                    INR51,000 crores of liabilities, which are variable rate, which essentially means that I have more assets where I
+                    can reprice up than liabilities where I will get repriced up. So essentially, it's positioned well for a rising rate
+                    environment.
+
+
+Rakesh Kumar:       Okay. Secondly, this credit rating improvement that we are anticipating and which might be going to happen.
+                    In the rising rate scenario, how well we are positioned like with this event happening. So how much really would
+
+                                                     Page 13 of 14
+
+                                                                                                             Piramal Finance Limited
+                                                                                                                  October 19, 2026
+                    this help us in containing or reducing the borrowing cost because the rates are rising, so I don't know how much
+                    market will take care of the credit risk premium changing with the difference in the credit rating across the
+                    institutions?
+
+
+Jairam Sridharan:   Yes. I'm sure you can just go to Bloomberg and look at our credit risk spread versus any competitor, any kind of
+                    AA+ player or a AA player, like pick anybody and look at our spreads over the last few months, and you will see
+                    clearly that our spreads have come down. There is no question about it. The spreads are around 40 to 45 basis
+                    points lower over the last few months against any benchmark that you look at.
+
+
+                    We've shown on Page 17, our incremental cost of borrowing and how it has actually reduced, right? So in a rising
+                    rate market, our incremental cost of borrowing is falling. That is happening because our ratings have gotten better,
+                    right? And this narrative is likely going to continue.
+
+
+Rakesh Kumar:       Okay. Thirdly, like the expected change in our borrowing cost vis-a-vis our competition and the kind of breakup
+                    that we have on the asset side. So how does this breakup mix putting us vis-a-vis or as compared to other
+                    competition when the rates are rising because any competition like which is going to witness faster or maybe
+                    slower rate of change in the borrowing side, they might be slightly better off as compared to you. So any thoughts
+                    on that?
+
+
+Jairam Sridharan:   See, I'll reiterate a couple of messages that I mentioned before. A, our variable rate assets are higher in absolute
+                    terms than our variable rate liabilities, which means rising rate helps us, right? This is not true for many, many
+                    players in the competition. It is true for us. So that helps us.
+
+
+                    Number two, we have the tailwind of a rating improvement, which essentially means our credit risk spread across
+                    practically all competitors, except those who themselves have gotten upgraded, our credit spreads are decreasing
+                    and will continue to decrease. That is number two.
+
+
+                    Number three is that our retiring debt is at least 60 basis points higher priced than where we are currently
+                    borrowing. This, again, will not be true for most players in the market. These 3 tailwinds all help us in a rising
+                    rate environment.
+
+
+Moderator:          Ladies and gentlemen, that will be the last question. And that concludes the question-and-answer session. I now
+                    hand the conference over to Mr. Jairam Sridharan for the closing comments.
+
+
+Jairam Sridharan:   Thank you very much, everybody, for joining our call. Have a great festive season. Happy Dussehra to everyone,
+                    Bye.
+
+
+Moderator:          Thank you, members of the management. On behalf of Piramal Finance Limited, we conclude this conference.
+                    Thank you, everyone, for joining with us today, and you may now disconnect your lines.
+
+
+
+
+                                                      Page 14 of 14
+

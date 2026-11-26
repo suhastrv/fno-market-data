@@ -1,0 +1,1176 @@
+November 20, 2026
+
+BSE Limited                                              National Stock Exchange of India Limited
+Corporate Relationship Dept.,                            Exchange Plaza, Plot no. C/1, G Block,
+14th floor, P. J. Tower,                                 Bandra-Kurla Complex,
+Dalal Street, Fort                                       Bandra (E),
+Mumbai - 400 001                                         Mumbai - 400 051
+
+Scrip Code – 543664                                      Scrip Symbol – KAYNES
+
+Dear Sir/Madam,
+
+Subject: Intimation of Earnings call transcript of Q2 FY2026-27
+
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, please find the link for the transcript of Earnings Call for Q2 FY2026-27, conducted on Monday
+November 16, 2026 and uploaded on the Company’s website.
+
+ Particulars      Website link
+ Transcript       https://www.kaynestechnology.co.in/doc/Regulation-46-of-sebi-lodr-
+                  regulation/EarningsCallTranscript16Nov26.pdf
+
+We request you to kindly take the above information on record and acknowledge it.
+
+Thanking You,
+
+Yours faithfully,
+For Kaynes Technology India Limited
+
+ ADDEPALLI Digitally signed by
+           ADDEPALLI SUDHASRI
+
+ SUDHASRI 13:26:17 +05'30'
+           Date: 2026.11.20
+
+
+
+
+Sudhasri Addepalli
+Company Secretary & Compliance Officer
+ICSI Membership No. ACS 79832
+
+Enclosed:
+• Transcript of the Earnings Call
+
+
+
+
+                                  KAYNES TECHNOLOGY INDIA LIMITED
+                                       CIN: L29128KA2008PLC045825
+          Website: www.kaynestechnology.co.in Email ID: kaynestechcs@kaynestechnology.net
+  H.O & Regd Office: 23-25, Belagola, Food Industrial Estate Metagalli PO, Mysore 570016, Karnataka, India
+                                Telephone No: +91 8212582595
+
+             “Kaynes Technology India Limited
+                Q2 FY27 Conference Call”
+                    November 16, 2026
+
+
+
+
+MANAGEMENT:    MRS. SAVITHA RAMESH – CHAIRPERSON, BOARD – KAYNES
+               TECHNOLOGY INDIA LIMITED
+               MR. RAMESH KUNHIKANNAN – EXECUTIVE VICE
+               CHAIRMAN – KAYNES TECHNOLOGY INDIA LIMITED
+               DR. MUTHUKUMAR NARAYANASWAMY – MANAGING
+               DIRECTOR – KAYNES TECHNOLOGY INDIA LIMITED
+               MR. JAIRAM P. SAMPATH – WHOLE-TIME DIRECTOR AND
+               CHIEF FINANCIAL OFFICER – KAYNES TECHNOLOGY INDIA
+               LIMITED
+               MR. SUMIT VERMA – INVESTOR RELATIONS – KAYNES
+               TECHNOLOGY INDIA LIMITED
+               MR. SENTHILKUMAR – VICE PRESIDENT FINANCE– KAYNES
+               TECHNOLOGY INDIA LIMITED
+               MUFG IR – INVESTOR RELATIONSHIP PARTNERS –
+               KAYNES TECHNOLOGY INDIA LIMITED
+
+
+MODERATOR:     MR. MAYANK PANDEY – EMKAY GLOBAL FINANCIAL
+               SERVICES LIMITED
+
+
+                           Page 1 of 19
+
+                                                                                  Kaynes Technology India Limited
+                                                                                              November 16, 2026
+
+Moderator:            Ladies and gentlemen, good day and welcome to the Kaynes Technology India Limited's Q2
+                      FY27 Conference Call hosted by Emkay Global Financial Services Limited. As a reminder, all
+                      participant lines will be in the listen-only mode and there will be an opportunity for you to ask
+                      questions after the presentation concludes. Should you need assistance during the conference
+                      call, please signal an operator by pressing star then zero on your touch-tone phone. Please note
+                      that this conference is being recorded.
+
+
+                      I now hand the conference over to Mr. Mayank Pandey from Emkay Global Financial Services
+                      Limited. Thank you, and over to you, Mr. Pandey.
+
+
+Mayank Pandey:        Thank you, Renju. Good morning, everyone. On behalf of Emkay Global, I welcome you all to
+                      the Q2 FY27 earnings conference call of Kaynes Technology India Limited. Today, we have
+                      with us management represented by Mrs. Savitha Ramesh, Chairperson, Mr. Ramesh
+                      Kunhikannan, Executive Vice Chairman, Dr. Muthukumar Narayanaswamy, Managing
+                      Director, and Mr. Jairam P. Sampath, Whole-Time Director and Chief Financial Officer.
+
+
+                      Now, I will hand over the floor to management for the opening remarks, post which we will
+                      open the floor for Q&A. Thank you, and over to you, sir.
+
+
+Ramesh Kunhikannan:   Good morning, everyone, and thank you for joining us. On behalf of Kaynes Technology team,
+                      I would like to welcome all of you to our Q2 FY27 earnings call. Joining me, Ramesh
+                      Kunhikannan, Mrs. Savitha Ramesh, Chairperson of our board, our Managing Director, Dr.
+                      Muthukumar Narayanaswamy, our Whole Time Director and CFO, Mr. Jairam Sampath, Mr.
+                      Sumit Verma from the investor relationship, and Vice President Finance, Mr. Senthilkumar our
+                      investor relations partners, I would like to thank the Emkay team for hosting this call.
+
+
+                      Let me begin with a brief overview of our financial performance. For Q2 FY27, our consolidated
+                      revenue stood at INR9,525 million. EBITDA for the quarter was INR1,256 million, with an
+                      EBITDA margin of 13.2%. Profit after tax was INR398 million. For the first half of the financial
+                      year, FY27, revenue stands at INR18,987 million. H1 EBITDA was INR2,681 million, with an
+                      EBITDA margin of 14.1%.
+
+
+                      Our order book remains robust at around INR106,252 million*. At this stage of our company
+                      and our journey, the quality of our growth matters as much as its pace. This quarter, we choose
+                      to put balance sheet strength and cash discipline ahead of short-term revenue, while continuing
+                      to invest ahead of time in the capabilities that will define Kaynes over the next decade.
+
+
+                      *Note: During the call, order book was inadvertently said INR 106,252 million kindly note
+                      that it should read INR 105,635 million as a factual figure, reported in financials, investor
+                      presentation & other filings.
+
+
+                      Before I hand over, I want to step back and talk about where Kaynes is headed. When we started
+                      this journey, Kaynes was known as a PCBA company. Over the years, we have steadily moved
+                      up the value chain from electronic manufacturing service to engineering and high-tech
+                      manufacturing. Our aspiration now is to become a true design and product company with a
+                      global presence. That has always been my vision for Kaynes.
+
+
+
+                                               Page 2 of 19
+
+                                                              Kaynes Technology India Limited
+                                                                          November 16, 2026
+
+Not just a contract manufacturer, but a company that designs, develops, and builds its own
+critical electronic products for India and for the world. We are making steady progress towards
+this goal. Our OSAT and PCB businesses, our growing design and engineering capabilities, and
+our entry into higher value segments such as aerospace, railways, space, and medical electronics
+are all building blocks of this journey. Each step takes us deeper into the electronics value chain,
+brings us closer to becoming a high-tech manufacturing, design, and product company, and
+makes Kaynes a more strategic partner to our customers.
+
+
+An important step in this direction this quarter is our acquisition of Toyokawa joint venture. This
+gives us an entry into the thin-film transistor display modules market, which is one of the fastest-
+growing segments in the vehicle electronics. There is a direct synergy here because we already
+manufacture PCB assemblies for automotive displays.
+
+
+With Toyokawa, we can offer our customer a more complete solution, combining display
+technology with our existing electronics manufacturing strength and capturing a large share of
+value per vehicle.
+
+
+Our two strategic growth engines, Kaynes Semicon and Kaynes Circuits, continue to progress
+well. This is despite a difficult global environment, with global tensions, volatile Brent crude
+prices, a weaker rupee, and supply chain disruptions affecting the entire industry. Last quarter,
+I told you that Kaynes Semicon Unit 2 and Kaynes Circuits would be operational by Q3 FY27.
+
+
+I am pleased to report that both are now operational, and multiple products are receiving
+customer approvals. Equally important, both businesses are adding marquee customers. These
+important customers win, tell us global customers see Kaynes as a credible long-term supplier
+in these new businesses.
+
+
+Dr. Muthukumar will speak in more detail about our partnership with Vishay, our latest semicon
+addition as a strategic partner. I want to say just one thing about it. This is not a short-term
+arrangement. It is a long-term strategy to take not only Kaynes, but the Indian semiconductor
+ecosystem deep into the global semiconductor value chain.
+
+
+With Vishay as a strategic partner, we gain faster scale, global market access, and credibility
+that comes with working alongside a global leader. Alongside this transition, we will continue
+to expand our global footprint. Given the uncertainties in the world today, from conflicts to trade
+disruptions to currency volatility, a diverse global presence is no longer optional. It is a strategic
+necessity.
+
+
+Being present across multiple geographies lets us serve customers closer to where they are,
+reduces our dependence on any single market or supply route, and helps us manage these
+uncertainties far better. Our August Electronics acquisition in North America is one part of this.
+We will keep building on it.
+
+
+With that, I would like to hand over the call to Dr. Muthukumar, our Managing Director, who
+will take you through our business performances, our new businesses, and our partnership with
+Vishay in greater detail. Thank you.
+
+
+
+                           Page 3 of 19
+
+                                                                           Kaynes Technology India Limited
+                                                                                       November 16, 2026
+
+Muthukumar N.:   Thank you, Mr. Ramesh, and a very good morning to everyone. Thank you all for joining us
+                 today early in the morning. Before we take you through the quarter, I want to first address the
+                 restatement that you would have seen in the Notes 9 and 10 of the results. In line with the
+                 expectation from the wider investing community and with the objective to strengthen the
+                 reporting process, we have transitioned to a larger audit firm and have completed our first
+                 quarterly limited review with our new auditor, Walker Chandiok & Co LLP.
+
+
+                 The process followed a detailed review with our prior period numbers with them, and after
+                 extensive discussion with the audit committee, the management team felt a restatement under
+                 Ind AS 8 was the right way to deal with it.
+
+
+                 The comparatives of Q1 FY27, Q2 and H1 FY26, and FY26, and the opening balance sheet of
+                 1st April 2025 also have been restated and shown in our filing. At the consolidated level, the
+                 FY26 PAT now stands at INR392 crores against the INR364 crores earlier reported, which
+                 shows how conservatively the organization has been doing in terms of the profitability. The net
+                 worth is marginally higher.
+
+
+                 A good part of the adjustment and reclassification, including the bank-funded receivable and
+                 supplier financing line, which was not shown as a part of the borrowing, are now shown as under
+                 the borrowings. The consolidated adjustment impacting the P&L were mainly on account of
+                 change in accounting of one of the contracts for the Smart Metering business, followed by some
+                 accruals and provision, following a detailed review with the auditing teams.
+
+
+                 Wherever the adjustment corrected genuine errors, we have tightened our control, and I will take
+                 you through those. I just wanted to restate the entire reclassification were done due to the
+                 interpretation of Ind AS accounting standard and to achieve the better governance and
+                 compliance. No significant accounting policies have been changed.
+
+
+                 Having said that, we would like to highlight this exercise undertaken with our new auditors is
+                 intended to strengthen the reliability, governance, and compliance. Both the review reports,
+                 consolidation standalone, carry an emphasis of matter, drawing attention to the restatement. The
+                 review conclusion is not modified on this account.
+
+
+                 With that, ladies and gentlemen, let me share some of the key highlights of the quarter, because
+                 these developments are what we will drive our growth in the second half of the financial year
+                 and beyond.
+
+
+                 Let me start with our new business, OSAT and PCB, which I know all of you are following
+                 closely. I am happy to share that the unit two of both OSAT and PCB is now operational, and
+                 multiple products are receiving customer approvals as we speak. This is an important milestone
+                 for Kaynes because approvals are the gateway to steady repeat business at this industry.
+
+
+                 Of course, the product validation at the end customers is going on, and which will give more
+                 confidence about how our products are performing better than our competition. The sense of
+                 Kaynes on the key manufacturing will definitely demonstrate the product reliability is going to
+                 be much better than our competition. It has been very satisfying to see how quickly our team has
+
+
+
+                                         Page 4 of 19
+
+                                                            Kaynes Technology India Limited
+                                                                        November 16, 2026
+
+moved from building the facility to product validation, and now a customer validation and
+approval for commercial production.
+
+
+With Kaynes Semicon manufacturing base now in place, the question in front of is how to scale
+in the shortest possible time. Because taking a new product from validation to commercial
+production, which means the application engineering, typically takes about 12 months- 14
+months.
+
+
+This is where our partnership with Vishay, we have worked on, and it is getting into the situations
+today. It helped us to reach scale much faster than what we had originally anticipated. Vishay's
+global presence across both active and passive components is a serious advantage for us, not
+only for Kaynes, but also for Indian semiconductor ecosystem as a whole.
+
+
+Most importantly, as our strategic partner, Vishay will take up about 75%-90% of the capacity,
+which gives us a direct access to the global market other than China. On PCB Unit 1, we will
+start generating revenue from Q3 FY27 itself.
+
+
+As I mentioned last time, PCB is a component which is a global shortage today, with lead times
+of six to eight months and supplier asking for advance payments. Kaynes is entering this market
+at the right time, and our engagement with one of the largest EV manufacturers globally
+continues to progress well. Could even say North American market.
+
+
+Now, coming to the Smart Meter business, as we shared last quarter, our priority here has been
+collection, installation. I am glad to report that the Smart Meter receivables have come down
+from INR1,300 million to INR1,000 million, which is what we committed in two quarters before
+during the investor call. By end of second quarter, we will see the results of this. Our team has
+done an extensively good job in terms of bringing down the receivables.
+
+
+Of course, at the same time, we took a hit on our growth because we were very, very conscious
+of making a balance sheet look better. To get there, we took a conscious decision to moderate
+our Smart Meter revenue. The Smart Meter revenue declined by about 12% in Q1, and of course,
+80% in Q2 FY27, because balance sheet is priority for us.
+
+
+Though this period, our EMS team has continued to grow consistently, even though our overall
+revenue is flat or about single-digit growth. We continue to work on collecting all pending Smart
+Meter dues. At the same time, I am pleased to share that a couple of players have shown serious
+interest in our business, and we are at advanced stage of closing the deal with partner that is
+most beneficial for Kaynes, both financially and strategically.
+
+
+We had committed earlier by the February investor call, we will give a proposal on how we are
+going to do that. I just wanted to reconfirm to you that we are on track for this, and by next
+quarter end, please, next quarter investor call, please be rest assured that we will come out with
+a plan. At the same time, our team has worked on several cost improvements in the Smart Meter
+business.
+
+
+Once the deal is closed, we will be able to supply Smart Meters in a way we support steady
+revenue growth, and equally important, to protect our margin. So the Smart Meter business will
+
+
+                         Page 5 of 19
+
+                                                            Kaynes Technology India Limited
+                                                                        November 16, 2026
+
+come in a more disciplined and more profitable part of the portfolio going forward for Kaynes.
+It has been over a year we acquired August Electronics, the foreign entities, and the company
+has performed in line with our expectation.
+
+
+Last July was our acquisition. Its growth could have been higher, but due to the conflicts of
+various parts of the world, we continue to focus on winning larger share of business in North
+America through August Electronics. We are committed to increasing our export revenue from
+about current 10% to about 25% plus by 2030, as communicated to you as part of the Mission
+30. We are also sharpening our focus to future growth areas that comes under the higher margin.
+
+
+Aerospace and railways are the two segments which we are seeing a strong traction, and we have
+grown more than 50% in these two segments, where our capabilities in high-reliability
+electronics gives us a clear edge. In railways, two of our innovation-led initiatives are
+progressing well. One, Kavach, one product has received approval, and we are now eligible for
+commercial production.
+
+
+I will keep you updated on the development in the next quarter. Several of you had also asked
+about Sensonic, the entity which we acquired in Europe. I wanted to bring it to your notice that
+Sensonic works on sensing and signaling system that detects people and animals crossing the
+railway tracks, which is a serious concern for both railway operation and passenger safety, and
+also animal safety.
+
+
+This is a pure innovation play, and we believe it can bring significant value in the coming years,
+not only for India, but also across the globe. We are also actively looking at opportunities in
+areas where we have not contributed much in the past, such as medical electronics, where we
+believe there is a significant opportunity for Kaynes to grow. Keeping all this in mind, I want to
+reiterate the confidence of the full year.
+
+
+We are targeting the growth of doubling the market, as we said. At this point of time, as the
+market growth is about more than 15%, we are confident of growing the electronic business
+itself with more than 30% for FY27 as a whole. On the macro environment, friends, before I
+come to the numbers, let me briefly talk about the macro environment, because it has a direct
+bearing on our revenues and markets.
+
+
+The impact of higher crude oil prices will take some time to ease. Brent has been very volatile
+and moved back above $100 in September. The rupee also weakened from about INR85 in June
+25 to around INR95-INR96 in this quarter, a depreciation of more than 12%, though recent RBI
+measures have brought it back to around INR95. Commodity prices remain elevated.
+
+
+Copper and aluminum are at multi-year highs, as the wholesale inflation stayed close to 10%
+during the quarter, with manufactured product inflation at a serious high of 8.4%. All of these
+have led to cost escalation across the supply chain, which has an impact on margins in the short
+term.
+
+
+As I said last quarter, we expect profitability to normalize over the coming quarters, and the cost
+improvement initiatives that our team has done is remarkable. I have earlier indicated the
+
+
+
+                         Page 6 of 19
+
+                                                           Kaynes Technology India Limited
+                                                                       November 16, 2026
+
+reduction in the Smart Metering revenue, and all of you know that the Smart Metering revenue,
+because it is a product, the margins were higher.
+
+
+In spite of the fact that the team has dropped the revenue in the first half of the year by more
+than 50% of the revenue, the profitability drop has substantially improved because the EMS
+team continued to do VAVE and has grown up the margin. On a positive note, with global
+conflict condition now showing signs of easing, we expect supply chain to gradually return to
+normal if this trend holds in the next two quarters.
+
+
+This would bring down the lead times and input costs and allow us to release some of the
+inventory which we have built. As I told you in the last quarter, we have strategically built an
+inventory of INR200 crores-INR250 crores during April, which is continued to be there in this
+quarter.
+
+
+We will look at the situation by end of December, and if things go smoothly in the market, we
+will ease it out. Because of this strategic inventory buildup, we could able to deliver to the
+customer much better than our competition this point of time.
+
+
+On terms of financial performance, our Executive Vice Chairman has already taken you through
+the revenue and profitability numbers of the quarter, so I will not repeat them again, and I will
+wait for your questions if you have any. I would only add two points.
+
+
+First, the revenue trend reflects a deliberate decision to moderate the Smart Meter revenue in
+favor of stronger balance sheet. Second, the margin this quarter absorbed the higher commodity
+crude-linked cost, along with the initial ramp-up of OSAT and PCB. With this, let me take you
+through some of the other data points that we have.
+
+
+I also wanted to bring to your notice, while the Smart Meter number has come down, which is
+running with a higher margin, the team has done an extensively good job in terms of doing this.
+And we are not only making Kaynes competitive, but also making sure that our customers whom
+we are serving are also competitive by giving this benefit to them.
+
+
+In terms of working capital on a rolling 12-month plan, the net working capital on total is 169
+days from the company compared to 163 days of last quarter. I think you all know that on a
+rolling plan, this is the one which we are trying to flatten now and start it coming down.
+
+
+Inventory remained elevated, as we said, about INR150 crores on strategy, but when this is going
+to come down by end of the year, we will be in a much better situation than what we are in.
+Receivables through EMS business stand at INR868 million when compared to INR807 million
+in Q1 FY27.
+
+
+The receivables from Smart Meter business went down compared to previous quarter at
+INR1,091 crores, compared to INR1,402 crores in last quarter. The outlook for the second half
+of the FY27. Let me now explain why we are confident of second half of the FY27. First, revenue
+from OSAT has started. The PCB unit went contributing to Q3, and both are moving to full
+operation by Q4.
+
+
+
+                         Page 7 of 19
+
+                                                                             Kaynes Technology India Limited
+                                                                                         November 16, 2026
+
+                 The only thing that we are keeping our fingers crossed is on the end product validation, but our
+                 team is confident of hitting whatever the targets that we have set in. The third is our focus on
+                 high-margin segments like aerospace, which we have grown by more than 70%, and railways,
+                 which is growing more than 50%, along with the new areas of medical, improves our business
+                 mix.
+
+
+                 Rest assured that whatever the business mix impact that we are going to have in the metering
+                 business, the team at Kaynes is working to make sure that our products in EMS business moves
+                 away from 8% of product to about 32% of product. When this happens, this will neutralize the
+                 impact of any metering business exit from us.
+
+
+                 Together, these gives us the confidence that second half is stronger, first in terms of revenue and
+                 also in terms of margins, and that will deliver the growth of double of market growth. With this,
+                 I complete my initial remarks. I would like to thank Emkay team for hosting the earnings call
+                 and all of you for joining early in the day.
+
+
+                 I will now hand it back to the question-and-answer session, and my team here will be very glad
+                 to answer your questions. Thank you very much.
+
+
+Moderator:       Thank you. We will now begin the question-and-answer session. The first question comes from
+                 the line of Sameet Sinha with Macquarie. Please go ahead.
+
+
+Sameet Sinha:    Yes. Thank you very much. A couple of questions. Thanks for the details on the restatement.
+                 Can you talk about the changes, the thought process behind moving receivables to a bank loan?
+                 How does that work? What was the change in accounting there?
+
+
+                 My second question is basically about the OSAT and PCB business. Can you tell us exactly, I
+                 mean, considering the scale, the new Vishay project, is the Vishay project, is it going to be a
+                 dedicated capacity or incremental to what you have right now, or it is going to be from the
+                 existing capacity? Then I have a follow-up. Thank you.
+
+
+Muthukumar N.:   Thank you, Mr. Sinha, for giving this. In terms of receivable, if you see in the past, whatever the
+                 bill discounting that we are doing for receivables were shown in a separate line item as bill
+                 discounting that we have done. Currently, we have restated as a part of the borrowing. This was
+                 part of our presentation earlier in investor presentation, and today it has been moved to the
+                 borrowing. That is the reason why it is showing that our loans as the thing going up.
+
+
+                 Second thing, in terms of OSAT and PCB business, specifically the Vishay business is going to
+                 come from the existing capacity that we have created. That doesn't mean that we are going to
+                 drop the existing customer that we have. 75% to 90% of the capacities will go to the Vishay, and
+                 the rest of the capacities will continue to serve our customer whom we are committed.
+
+
+                 We are going to be very fair, and we thank our partner for accepting this, and we are going to
+                 support them also. Hope this clarifies the question.
+
+
+Sumit Sinha:     I mean, the past commentary has been about how more than 50% of capacity has been committed
+                 to certain other customers that you had mentioned previously. So I'm just trying to understand,
+
+
+                                          Page 8 of 19
+
+                                                                              Kaynes Technology India Limited
+                                                                                          November 16, 2026
+
+                 are those contracts going down in value, and then Vishay is going to soak up the excess capacity
+                 that's left, or how does that work?
+
+
+Muthukumar N.:   It's not that commitment is coming down. We started working with some customers for getting
+                 the capacity, and we said we can commit up to this number. Whatever the validation had been
+                 done is what we have agreed now, and we are going to keep about 10% to 25% for those
+                 customers. However, the faster rate of what is going to come from Vishay is taking the customer
+                 to 75%.
+
+
+                 We'll be focusing on validating this product and applicating this so that the speed to go to market
+                 will be much faster. I think that is why we have taken the strategic initiatives, and we will ensure
+                 that if the other customers want this, we'll expand it more than what we have planned and make
+                 sure that we serve those customers also, while validation will continue to happen.
+
+
+Sumit Sinha:     Got it. Okay. Thank you.
+
+
+Moderator:       Thank you. Next question comes on the line of Renu Baid with IIFL. Please go ahead.
+
+
+Renu Baid:       Yes. Hi, good morning, team. Few questions from my side. First, if you can highlight, you did
+                 mention that alongside the change of auditors and certain accounting policies, what are the kind
+                 of strategic initiatives and reset that you're doing to ensure the balance sheet and cash flows
+                 improve from here?
+
+
+                 That is the first question. Second, if you can highlight a bit more clearly in terms of how was the
+                 performance of the core EMS business, ex of metering, in terms of revenue and EBITDA for the
+                 second quarter? With respect to your guidance of 30% growth for the EMS ex of metering, what
+                 would also be the expected margins from this business?
+
+
+Muthukumar N.:   Thank you. I will answer the second and third question much faster and then come to the first
+                 question. In terms of the core EMS business in the second quarter, what you asked, the core
+                 EMS business for the Q2 has grown at 34% in terms of revenue. For a similar quarter last year,
+                 which about INR595 crores, we have taken it to INR799 crores in this quarter.
+
+
+                 Whereas the metering business, I am just giving the reference, which was INR228 crores the
+                 earlier, it has come down to INR54 crores. This talk about how we have, that is why the overall
+                 numbers coming to about a single-digit growth, while our growth in EMS business is more than
+                 34%. For H1, the overall growth between first quarter and second quarter is at 42%.
+
+
+                 The team did a good validation of utilizing the existing capacity of meter into EMS business and
+                 thereby able to quickly ramp it up the production. Having done this in second quarter, I am sure
+                 that the next quarter EMS business, even if we do not get into the metering business, our team
+                 is confident of expanding the capacity to EMS and grow faster.
+
+
+                 In terms of margin, all of you know the metering business, by default of being sold as a product,
+                 the margin was higher. Almost someone of you has estimated that even it is 80% more than the
+                 EMS business. Last year, with about 15.8% of EBITDA, if you see, the EMS business stood at
+                 around 10.5% and metering business around 22%.
+
+
+                                          Page 9 of 19
+
+                                                             Kaynes Technology India Limited
+                                                                         November 16, 2026
+
+Currently, though the metering business has come down, I think last time our Executive Vice
+Chairman told about various VAVE initiatives that what we are doing with the customers, which
+has substantially improved in spite of the metering business has gone down by 50%.
+
+
+Our profitability for the first half of the year stood at about 14.1%, which gives us the confidence
+that if we continue the VAVE for the EMS business, by the time we even exit from the metering
+business, our team will be able to meet up to the expectation what we have been doing in a
+overall. Hope that clarified your answer. Now I will come back to the restatements.
+
+
+In the restatement, some of the points that we have done is, I just wanted to make the first
+statement on restatement as, the entire restatement exercise, reclassification were done due to
+the interpretation of Ind AS accounting standard by the incoming auditors to achieve the better
+presentation of the financial statement and also in a better governance and compliance. No
+significant accounting policies have been changed.
+
+
+The other thing that I wanted to tell you on specifics is, there are different headings. I want to
+take a little time so that the other people also will listen to this. Most of you have been
+questioning that on our revenue recognition, whether we are doing right in terms of the metering
+business. PCGL business in metering, which is a major business for us, last year out of INR970
+crores, about INR870 crores has gone with PGCIL.
+
+
+The new auditor also felt that we are following and complying all Ind AS standard, and we have
+not restated any revenue recognition or our receivable recognition because there is no significant
+financial impact. That's the first point which has not come in. However, the West Bengal
+metering business, which we have taken it as a capex model, we have not shown in our revenue.
+
+
+The auditors felt that this is not the right way to do it. We should go for a service concession
+agreement. Because of that, from the originally stated INR3,620 crores revenue of last year, our
+total revenue has gone to INR3,680 crores. Our revenue has gone up than what we have shown
+during the last year. However, because of some timing errors and inventory provision errors or
+the inventory overhead validation.
+
+
+Some changes has happened in this, which has led to a small drop in our EBITDA percentages
+from 15.8%, what we have originally given, to 14.2%. Having said that, the line items have
+changed. The 1.6% drop in EBITDA, when it comes to the PBT level, it has dropped only by
+0.4%. When it comes to PAT level, it has gone up by 0.9%.
+
+
+This has gone significantly, the earning per share, what we have given earlier, it has gone up.
+Which is what we thought that, okay, this is a good model. While the auditors identify some of
+the areas, they also recognize that Kaynes is not taking what are the things that we can take it up
+to add to the profitability. That is why, if you look at the overall, the PAT has gone up by about
+more than 0.5%- 0.6%.
+
+
+These practices, Kaynes is always open to the best practices there in the industry. I think, the
+previous auditor has done a good job in migrating this company from a MSME company to a
+bigger company. Now we are going into a global company, we thought these type of global
+practices will help us to compete in the global market, not only looking at the Indian market.
+
+                        Page 10 of 19
+
+                                                                                  Kaynes Technology India Limited
+                                                                                              November 16, 2026
+
+                     The management, the audit committee, the team have taken it to the very positive note and said,
+                     "Hey, hassling if we are doing for the global best practices, this will make Kaynes to become a
+                     global player, not only as an India and EMS player." With all these things, we have taken this
+                     restatement.
+
+
+                     That's why I started my answer or talk with what are the changes that we have done this. There
+                     is a clear note. We want to be as transparent as possible. If you read the notes, what we are given,
+                     every line item change we are given, whether it's a judgmental error or it is an accounting
+                     standards error. 75% of the changes we have done is a judgmental.
+
+
+                     We said, "this is a good practices. We are okay to do it," rather than saying that we will stay with
+                     this. With that, the last year EBITDA was 14.2%. The current year, what we have done for the
+                     half year is 14.1%, even though the metering business has gone down.
+
+
+                     If we continue to run the same metering business share, the product mix at 75/25, our EBITDA
+                     would have been at about 18% at this point of time. That is what our team has done a wonderful
+                     job. Even though the metering business has come down, the team has done more on a VAVE
+                     and EMS business and brought to this level. This is not going to be end of the time. We are very,
+                     very confident that our journey towards value engineering, our journey toward productivity
+                     improvement will continue to do.
+
+
+                     With OSAT and the PCB business going to start generating revenue from the next quarter,
+                     whatever the commitment we have made will come back. It's not a denied, it's going to be
+                     delayed. Maybe couple of quarters we'll get delayed, but we are there on our target for Mission
+                     30 to achieve the numbers. Thank you, and if you have any other question, please do ask.
+
+
+Moderator:           Thank you. We have lost line of the participant. We'll promote the next, that is Santhosh Seshadri
+                     with Avendus Spark. Please go ahead.
+
+
+Santhosh Seshadri:   Hi, sir. Good morning. Thanks for the opportunity. My first question is on the JV with Vishay.
+                     The 49% equity pickup by the JV partner will be at Kaynes Semicon level, or will that be any
+                     other subsidiary that you will be creating to transfer that 49% stake?
+
+
+Muthukumar N.:       Thank you, Santhosh Seshadri, for asking this question. I am sure that this will also create clarity.
+                     At this point of time, we have signed an initial agreement with them, and we have to wait for the
+                     definitive agreement to come. Getting into Vishay, at this point in time, the 49% is going to be
+                     part of the Semicon business, and whether we are going to have a separate subsidiary or not is
+                     not yet decided at this point of time.
+
+
+                     We are working on this model, and I am sure that it is a win-win partnership between both of
+                     us, and we will take it to the next level. Having said that, I also wanted to clarify some of the
+                     questions that you might have. Some of you have already asked the question, what is going to
+                     happen with the existing customer?
+
+
+                     I have already told that existing customer will continue to be serviced, and if at all needed, we
+                     will bring more capex into that. What we understood is, this equity participation of 49% at this
+                     point of time, is it Semicon or whether it is Semicon subsidiaries, we will work on this model
+
+
+                                             Page 11 of 19
+
+                                                                                  Kaynes Technology India Limited
+                                                                                              November 16, 2026
+
+                      and come back. You have to wait for a definitive agreement, which will take in next two to three
+                      months, and we will come to you with the more detail.
+
+
+                      Today is an understanding between us, in terms of a term sheet is what we have listed out. What
+                      was our objective is, while we were very, very optimistic, and we continue to be optimistic on
+                      our manufacturing capability of the first company to launch the groundbreaking ceremony to the
+                      proto build within 14 months and inaugurated by Honorable Prime Minister on March 31.
+
+
+                      We also understood the challenges in the Semicon ecosystem of going to the customer and
+                      making the product reliable, tested at the end customer application. This is taking another 12--
+                      14 months, and people wanted to change not only for the semiconductor assembly that we are
+                      doing, but every company has their own policy. For example, the Japanese has a policy of doing
+                      at the end of the year, all the changes into one validation and do.
+
+
+                      The validation time was taking little more time. That is at that point in time when we saw that
+                      we want to grow the revenue faster to make sure that not only Kaynes ecosystem, but also overall
+                      Semicon system. We took a special approval from government to see that whether we can look
+                      at a partner who is a global player.
+
+
+                      We evaluated with more, and we found that Vishay is the right person, a $4 billion company,
+                      who has got serving across the world, and they have both active and passive component. We got
+                      a regular approvals on this model with the respective government organization, and we said we
+                      are moving on this. This is going to give an access to the global market. We have also agreed
+                      that we will do it at the rest of China with the global market.
+
+
+                      The access to the global market is going to be faster. Because of their experience, the validation
+                      process is going to be faster, and this is also going to take up more than 75%-90% of our capacity
+                      to them, and rest of the capacity we have blocked for our existing customers whose product has
+                      already been validated.
+
+
+                      We believe that this is going to be a strategic advantage, even though it looks like in the short
+                      term it may not be there. Ladies and gentlemen, this is also going to bring cash into the system,
+                      which some of you have a concern, maybe our debt is going up.
+
+
+                      This is going to ease away that pressure also. Kaynes is always believing that we want to become
+                      a bigger company in the global level, not restricting our ownerships or something. I think that's
+                      what the Executive Vice Chairman has said in his vision of 2047, Viksit Bharat, when it is going
+                      to be there. He said, "We should be a bigger company and should not shy of what is it we are
+                      holding back the wealth is for the society." So we'll continue to move on this direction and
+                      continue to work with Vishay and make sure that it becomes a very, very win-win partnership
+                      for both the organizations.
+
+
+                      But please wait for our next quarter update on the definitive agreement, wherein we'll share with
+                      you more details.
+
+
+Ramesh Kunhikannan:   Yes, we have worked out, we will be working out in detail the definitive agreement and the
+                      structure, everything. So kindly hold on, we will come back to you.
+
+
+                                                Page 12 of 19
+
+                                                                                 Kaynes Technology India Limited
+                                                                                             November 16, 2026
+
+Santhosh Seshadri:   Sure, sir. While we wait for that, are we envisaging to transfer the OSAT business as well to
+                     the JV? I understand that a lot of other there are moving parts, but what is your thought process
+                     here? So, is that under consideration wherein you can transfer the OSAT business to the new
+                     JV, or how can you structure this possibly?
+
+
+Jairam P. Sampath:   Yes, hi. This is Jairam Sampath here. Basically, there are two parts to this whole thing. One is a
+                     definitive agreement, like Dr. Muthukumar said about Vishay particular project. That takes some
+                     time before more details can come out. Obviously, the entity in which Vishay will be housed
+                     will be a Vishay-focused entity, let me put it this way.
+
+
+                     There will be one line which is Vishay's line because they are very much scared about the
+                     intellectual property and all that. So one line will be firewall for them, and other line they can
+                     do other businesses. Now, the important thing about this particular move that Kaynes
+                     Technology has made is that we open out ourselves for other potential JVs in the future as and
+                     when they happen.
+
+
+                     That is the structure that our Executive Vice Chairman was talking about, that between Kaynes
+                     Technology and the current company KSTS, would we have an affiliate or would we go for
+                     some other structure. Those are the things that Dr. Muthukumar also mentioned during his call
+                     .
+
+
+                     So that is yet to be decided. But let me put it this way, in a very broad sense, we would have
+                     other global players coming into discussion and signing out JVs with us. And the current
+                     structure that we are envisaging, which is still under progress for development, will provide for
+                     all of that. Let me put it this way, we don't get stuck with only one direction of growth.
+
+
+                     Kaynes Technology, if you notice, from the day of our listing, we've been talking about us being
+                     a quite well-diversified company, and we continue to do that in every business that we are doing.
+                     More details you will get to know over the next quarter or so.
+
+
+Santhosh Seshadri:   Thank you, sir. My second question is on the Smart Metering business. Can you quantify the
+                     revenue derecognition here because of the changes in the recognition method? Was all of that
+                     impact taken in the current quarter? If you can explain that, how much of that 80% decline was
+                     explained by this policy change and how much is because of production stoppage?
+
+
+Muthukumar N.:       Thanks for asking this question, which will give clarity to more people. The major customer's
+                     contract that we had, 90% of whatever the last year revenue which we got is PCGL contract,
+                     where there is no revenue derecognition has happened, and the way what Kaynes has been
+                     revenue recognition shown and accounting is okay.
+
+
+                     The second thing is, in terms of West Bengal contract, the revenue recognition what we have
+                     shown was very, very conservative, and in the restatement, it has gone up by INR41.8 crores,
+                     because we have been taking it under capex model, and they said on the service concession.
+                     Actually, in the Smart Meter business, if you take the last year revenue has gone up, whatever
+                     you are seeing an increase in revenue is because of the additional revenue that has come from
+                     the Smart Metering business.
+
+
+
+                                             Page 13 of 19
+
+                                                                                  Kaynes Technology India Limited
+                                                                                              November 16, 2026
+
+Ramesh Kunhikannan:   This is one of the doubts that most of the investors, most of the analysts had, that the way in
+                      which we are accounting. In fact, I have been explaining this earlier that what we have been
+                      following is as per the Ind AS standards, and also we have taken the opinion from Big Four at
+                      that point of time.
+
+
+                      The change in auditor has come and then reconfirmed that the way what we have accounted is
+                      right, and it has given an upside for us in terms of the metering business to the level of INR40
+                      crores-INR50 crores. Hope the answer clarified your question.
+
+
+Moderator:            Thank you. Next question comes from the line of Achal Lohade with Nuvama Institutional
+                      Equities. Please go ahead.
+
+
+Achal Lohade:         Good morning, sir. Thank you for the opportunity. First question, in terms of the Smart Meter
+                      business, if you could give us some sense in terms of the full year number, how should we look
+                      at, and if you could also help us with the receivable.
+
+
+                      You mentioned couple of numbers in terms of INR1,300 million going to INR1,000 million, and
+                      then you mentioned about INR1,400 crores going down to INR1,091 crores. If you could help
+                      us with in terms of the receivable as of September 30 from Smart Meters, current plus non-
+                      current vs Q1, which is June 26. Also, how should we look at the revenue and receivables by
+                      FY27 and FY28, please?
+
+
+Muthukumar N.:        Okay. Sir, first of all, last year our revenue was INR960 crores in the Smart Metering business,
+                      approximately. This year, in the first half of the year, the total put together, the revenue is
+                      INR290 crores*. During the start of the financial year, our total receivable was INR1,252 crores
+                      by end of the financial year.
+
+
+                      *Note: During the call, revenue from smart metering business was inadvertently said INR
+                      290 crore kindly note that it should read INR 270 crore as a factual figure, reported in
+                      financials, investor presentation & other filings.
+
+
+                      Now, that has gone up after the first quarter sales of INR220 crores to INR1,402 crores, and now
+                      it has come down to INR1,091 crores. This is both current and non-current put together because
+                      we wanted to give you. We are not splitting between current and non-current. This is a total
+                      receivable from the Smart Meter business.
+
+
+                      If you look at again the year starting with about INR1,252 crores by end of the financial year,
+                      now it has come down to INR1,091 crores. Though we have spent about INR270 crores as a
+                      revenue, that means the team has collected about more than INR400 crores. Just wanted to tell
+                      you.
+
+
+                      Even though there is an order available with us, even though there is a requirement of meter, we
+                      also got a clearance from government because the installation is going slow. We don't want the
+                      supply till this is getting cleared. We are working with the government much faster to install the
+                      meters. This is what is giving us the confidence that going forward, we will continue even though
+                      it is going to come down a little.
+
+
+
+                                              Page 14 of 19
+
+                                                                                   Kaynes Technology India Limited
+                                                                                               November 16, 2026
+
+                      We will continue to focus on EMS business till we bring down the receivables to a reasonable
+                      level. This is as part of the Smart Metering business. You ask us what is going to be the revenue
+                      for the current year. We did about INR270 crores in first half of the year. The second half of the
+                      revenue is purely based on the amount of collection that we need to bring in.
+
+
+                      We wanted to bring in the total receivables to less than INR750 crores. If it is going to come less
+                      than INR750 crores, then we will do additional sales. The sales is available, capacity is available,
+                      material is available. We will continue to do depending on the receivables.
+
+
+                      So within next two quarters, if the receivables is going to come good, the government is going
+                      to support us more and more of installation, we will do. I also wanted to bring it to the notice of
+                      the entire investor community. Though we are talking about the metering installation, why delay
+                      and all, even though we are not the largest supplier of metering business to the government, we
+                      are number two or number three, we are number one in the installation.
+
+
+Ramesh Kunhikannan:   I would request you to please open up the website of PGCIL and see. We are the ones who have
+                      been installing more meters, and the second in the line is 40% lower than our installation. We
+                      are efficient, but not to the level of we are efficient in our manufacturing. So we have to improve
+                      our installation capacity, which is what we are doing now. Hope that answers both your
+                      questions.
+
+
+Achal Lohade:         Sure. With the existing business, let's assume hypothetically, INR750 crores of receivable. That
+                      means basically you are talking about INR400- odd crores kind of a reduction and that much
+                      revenue, let's say theoretically, INR700 crores of revenue. What is the margin profile here?
+
+
+                      For FY28 also, why I am focusing on this, because this has been actually a fair amount of concern
+                      expressed by this investor community. So if you could help us, the existing order book, what
+                      kind of margin visibility you would have? Is there any risk to the margin for the Smart Meter
+                      business, including the installation or the EPC piece? If you could help us on that as well, sir.
+
+
+Muthukumar N.:        Thanks for asking this question. I am sure that it will clarify to many of the investors who have
+                      been listening to us. On a business split, model mix split of about 75% and 25% approximately
+                      last year, INR2,700 crores were our EMS revenue, INR900 crores is about our revenue. If you
+                      ask me the exact numbers, I would say 67/33 was the split up of last year revenue, and we made
+                      an X percent net margin.
+
+
+                      Currently in this quarter, our revenue of EMS business is more than 92%, and in the quarter two
+                      I am saying, or the full year it says, it's about less than 10% of metering business on the overall
+                      revenue. With that, we are able to give a half year EBITDA of about 14%-14.1%. This has
+                      become because of the VAVE exercises that have been done in the EMS business.
+
+
+                      At the same time, the management's ability to convert the PCB assembly into the box build. The
+                      reason for why we are making more margins in the metering business, because it's sold as a
+                      product. The same way I have explained in our Mission 30 statement when we explained in
+                      couple of quarters before, that Kaynes has an aspiration to go to 25%- 30% of our sales as a
+                      product sale, other than metering.
+
+
+
+                                              Page 15 of 19
+
+                                                                              Kaynes Technology India Limited
+                                                                                          November 16, 2026
+
+                 Once this happened, we are pretty confident that whatever the profit margin that we have shown
+                 with the metering, even without metering, we'll be able to do. The proof of pudding is in the last
+                 two quarters, when the metering business has come down substantially, we are still able to
+                 manage.
+
+
+                 Maybe we know there is a paucity of time today because we have another 10 minutes to go, but
+                 any of the questions that you have, we can set up a separate call and we can discuss later. I just
+                 want to tell you only one point. For the half year one, our EBITDA is about 14.1%. The product
+                 mix is 90% EMS and 10% metering business. If you go back with the same, with the last year's
+                 product mix of 75/25 if we had gone, our EBITDA should stay somewhere around 17.5% or
+                 something.
+
+
+                 Simple arithmetic without any changes. So we are pretty confident that our team is capable of
+                 working out value engineering. Our team is capable of producing productivity improvement, so
+                 that we will drive towards this and get back into the margin, which is an aspirational margin,
+                 which most of you have set it.
+
+
+                 I also wanted to bring it to the notice. I think the people feel that our profitability has come only
+                 because of meter. It is not because of meter business, it's because of a product sale. That is why
+                 as a backup last year itself, we clearly said our aspiration is go to 30% of product sales in EMS
+                 business also, which will really help the company to build more and more IPs, more and more
+                 box build, and that will add up to the bottom line. Thank you very much.
+
+
+Achal Lohade:    Sir, thank you. Last question, if I may ask, with respect to capex on gross basis, if you could call
+                 out for FY27 and 2028 and which segments? Thank you.
+
+
+Muthukumar N.:   In terms of capex, during the start of the year, we said we will be extremely cautious in terms of
+                 the capex that we do. At this point of time, between quarter one and quarter two, we added an
+                 incremental of INR221 crores to the capex, wherein the increase is about INR115 crores in
+                 Semicon, INR140 crores in terms of circuits, and INR21 crores in terms of EMS.
+
+
+                 You can understand that how prudent we are employing it. Net of subsidy, we also able to get
+                 the subsidy back from the government in Semicon. So incremental net of subsidy is INR59
+                 crores in Semicon, INR140 crores in circuits, and INR21 crores in EMS, totaling about INR221
+                 crores for this quarter. Most of you also have a doubt that with the amount of borrowing that we
+                 have, what we are going to do.
+
+
+                 With the Vishay restructuring and metering restructuring, we are pretty confident of what we
+                 are committed to you. We are going to get into that.
+
+
+Moderator:       Thank you. The next question comes on the line of Mr. Mayank Pandey with Emkay Global
+                 Financial Services Limited. Please go ahead.
+
+
+Mayank Pandey:   Hi, sir. Thank you for the opportunity. I have two questions. Can you explain one on the Vishay
+                 investment? Will that investment be used towards our ISM 1.0 commitments, or are we looking
+                 to use that for our ISM 2.0 or something similar along those lines? That is question one.
+
+
+
+                                         Page 16 of 19
+
+                                                                             Kaynes Technology India Limited
+                                                                                         November 16, 2026
+
+                 Secondly, on the Smart Metering side, can you tell us what kind of You're saying that we'll have
+                 a solution by February. So if you could explain the broad contours of that solution, what kind of
+                 a partner are we looking at over there? Is it like another AMISP player or a system integrator?
+                 If you can throw some light on that.
+
+
+Muthukumar N.:   Thank you. On the Vishay, sir, I will reserve the comment to our definitive agreement where
+                 we'll have more clarity. But what the current thing that we are saying is whatever the investment
+                 that is going to come down, this was a loan given by the parent company, it will go back into
+                 the parent company. So this will also ease out the cash situation at the parent company.
+
+
+                 This is step one. But for rest of the things on ISM 2.0, where the investment is going to come,
+                 Kaynes Technology has the ability and we will be able to invest further at the partnership level
+                 what we are going to have at an appropriate time. Because we are going to maintain the 51%,
+                 51/49 majority control, and we'll continue to manage that business. In terms of Smart Metering
+                 business, the Smart Metering business model is three.
+
+
+                 The manufacturing of Smart Meters, the installation of Smart Meters, and of course, O&M of
+                 Smart Meters. What we are planning to hive off at this point of time is keeping the manufacturing
+                 with you, because we are a product company and we know how to do a better manufacturing.
+
+
+                 At the same time, give the installation and O&M to a third party who will have a right to buy
+                 from us for the initial time, and later he can buy it from anybody if they are competitive. We are
+                 very, very confident that we are always competitive and we will be able to give them the better
+                 price. This is the model we are going to do.
+
+
+Moderator:       Thank you. Next question comes on the line of Deep Master with One Up Financial Consultants.
+                 Please go ahead.
+
+
+Deep Master:     Hi, sir. You have mentioned the Vishay investment and a potential Smart Meter sale. Just
+                 looking for some more clarity. Can you confidently say that you will not need to raise funds over
+                 the next 6 to 12 months? I think we were looking for clarity on that account?
+
+
+Muthukumar N.:   If you are asking for funds of QA, like a QIP you are asking, we are very confident that we are
+                 not going to go to the market for the money. Okay?
+
+
+Deep Master:     Okay. Yes, Yes. That confidence helps.
+
+
+Muthukumar N.:   We are confident of working in this. We have strategically increased our inventory by INR250
+                 crores because of the global market situation. Depending on the, from December, we will start
+                 easing out the inventory. That is going to come out INR250 crores. Our collections are better in
+                 the Smart Metering. We will continue to put the same pressure.
+
+
+                 With the dilution that is going to happen with Vishay and also in the Smart Metering business,
+                 we are going to generate cash. With all these things, I am pretty sure that we will not go into
+                 QIP. You asked for six months something. For the next one year, I can assure you, we will not
+                 go.
+
+
+
+
+                                         Page 17 of 19
+
+                                                                                 Kaynes Technology India Limited
+                                                                                             November 16, 2026
+
+Deep Master:         Yes. Okay, that clarity helps. Just on Vishay, I think there were two different comments made.
+                     The Vishay investment will be in the Kaynes Semicon entity, but will it be at the Semicon level,
+                     or will it be an SPV within Kaynes Semicon?
+
+
+Muthukumar N.:       It is a Kaynes Semicon level at this point in time, sir. We will wait for the definitive agreement
+                     to see what are the other ways of doing it. The structuring is we need to, we are still working
+                     out.
+
+
+Deep Master:         Understood. Sir, just one bookkeeping question on page 21 of the presentation. If you look at
+                     the mix of business, it appears your PCBA business has declined significantly and box build has
+                     gone up significantly. Is that a change in mix in the business in the first half? Box build, which
+                     was 22% last year, has become 60%. PCBA, which was 49% last year, has become 25%.
+
+
+Muthukumar N.:       Sir, actually, if you see, whatever the drop is because of the metering business production that
+                     we have brought it down. business at last year at about more than 30%, it has come down to
+                     less than 10% this year. That is considered under the, y ou are talking about OEM turnkey box
+                     build. Metering doesn't come under the OEM turnkey box build.
+
+
+Deep Master:         OEM turnkey has become 60%.
+
+
+Muthukumar N.:       That we are improving our existing product into that, so it is coming in more.
+
+
+Jairam P. Sampath:   No, if you notice, the railway and the aerospace and all of those things have increased. They are
+                     mostly box builds. What has happened is, after establishing all the new businesses, we were a
+                     little optimistic about their turnaround very quickly into revenues. But of course, every beast has
+                     its own life cycle. So, we realized that later. But our original business is back now.
+
+
+                     If you see the EMS business, with high margin, high mix, high-tech business, it's like railway,
+                     etcetera, everything has gone up actually. So that gives us confidence that very quickly all this
+                     cash-draining story will also get reversed.
+
+
+                     When we meet next time, you will have much more positive, let's say, confidence about the new
+                     investments that we have made. Many of you have also gone and seen the progress in terms of
+                     factories, and you guys will have some fairly good understanding of it. Much more has happened
+                     over the last six months.
+
+
+                     So almost last one year, we've been building the future. I think we have said in the past too, we
+                     do not build the future for a quarter. We build it for long term, five to 10 years timeframe, and
+                     we hold the same view. Broadly, all the numbers that we talked about in the past will happen.
+
+
+Deep Master:         Correct. Great, sir. That's very encouraging. Thank you for your comments.
+
+
+Moderator:           Thank you. Ladies and gentlemen, that was the last question for today. We have reached the end
+                     of question-and-answer session. I now hand the conference over to the management for closing
+                     comments.
+
+
+Muthukumar N.:       Ladies and gentlemen, thank you for the question that you asked, and thanks for your confidence
+                     kept on Kaynes. We will continue to work on our DNA of growth by bringing in more strategies,
+
+                                             Page 18 of 19
+
+                                                                         Kaynes Technology India Limited
+                                                                                     November 16, 2026
+
+             but with a not little focus. I would say that to keep up the balance sheet also clean at this point
+             of time.
+
+
+             The various factors and the input that you have given, either in terms of balance sheet or working
+             capital management or the loans, we will keep all these factors under control to make sure that
+             whatever the decision we take is in the interest of Kaynes and Kaynes stakeholders. With that,
+             ladies and gentlemen, thank you very much, and thanks for the confidence you report on the
+             management. Thank you.
+
+
+Moderator:   Thank you. On behalf of Emkay Global Financial Services Limited, that concludes this
+             conference. Thank you for joining us. You may now disconnect your lines.
+
+
+
+
+                                     Page 19 of 19
+

@@ -1,0 +1,43 @@
+May 20, 2026
+
+To,
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E)
+Mumbai – 400 051
+Company Scrip Code: THERMAX EQ
+
+
+
+Sub: Clarification on Financial results for the quarter and year ended March 31, 2026 filed on
+     May 7, 2026
+Ref:   Your email dated May 19, 2026 seeking clarification on Financial Results
+
+Dear Sir / Madam,
+
+This is with reference to your captioned email seeking clarification regarding mismatch in the
+standalone PBT and PAT figures mentioned in the XBRL file submitted with the Stock Exchanges on
+May 7, 2026. In this regard, we wish to clarify that the mismatch in the PBT and PAT figures occurred
+due to the following inadvertent errors:
+
+-   “Other Income” was incorrectly entered as Rs. 32.86 crores instead of Rs. 32.96 crores.
+-   Certain “Other Expenses” were inadvertently reported under “Depreciation, depletion and
+    amortization expense”.
+
+As advised, we are also submitting the revised standalone financial results – XML with the exchanges.
+You are requested to kindly take the same on record. We sincerely regret this oversight.
+
+Thanking you,
+
+Yours faithfully,
+For THERMAX LIMITED,
+SANGEET         Digitally signed by
+                SANGEET KAUR
+KAUR            HUNJAN
+                Date: 2026.05.20
+HUNJAN          17:47:21 +05'30'
+Sangeet Hunjan
+Company Secretary & Compliance Officer
+Membership No: A23218
+

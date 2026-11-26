@@ -1,0 +1,1055 @@
+October 31, 2026
+
+To,
+BSE Limited                                      National Stock Exchange of India Limited
+(BSE: 542726)                                    (NSE: INDIAMART)
+
+
+
+Subject: Transcript of Earnings Conference Call on financial results and developments for
+         the quarter and half year ended September 30, 2026
+
+Dear Sir/Ma’am,
+
+Pursuant to Regulation 30 read with Part A of Schedule III of the Listing Regulations, we wish to
+inform that the Transcript of Earnings Conference Call for Analysts and Investors held on Tuesday,
+October 27, 2026, with respect to the financial results and developments of the Company for
+quarter and half year ended September 30, 2026, is enclosed herewith.
+
+The copy of transcript is also available on the                       Company’s     website     at
+https://investor.indiamart.com/FinancialResultsStatements.aspx.
+
+Kindly take note of the same.
+
+Yours faithfully,
+For IndiaMART InterMESH Limited
+ Manoj Digitally   signed by
+          Manoj Bhargava
+
+ Bhargava Date: 2026.10.31
+          11:26:59 +05'30'
+
+(Manoj Bhargava)
+Company Secretary
+Membership No: F5164
+
+Encl: As above.
+
+Webinar Transcript
+
+Event: IndiaMART Q2 FY2027 Earnings Webinar
+
+Event Date/Time: Oct 27, 2026 at 17:00 hrs
+
+
+
+CORPORATE PARTICIPANTS:
+
+
+
+Mr. Dinesh Chandra Agarwal - Chief Executive Officer
+
+Mr. Brijesh Kumar Agrawal - Whole-Time Director
+
+Mr. Jitin Diwan - Chief Financial Officer
+
+Mr. Prateek Chandra - Chief Strategy Officer
+
+Mr. Avijit Vikram - Head Investor Relations
+
+                                                                      IndiaMART InterMESH Limited
+                                                                                      Oct 27, 2026
+
+
+    Avijit Vikram:        Good evening, ladies and gentlemen. I am Avijit Vikram, Head of
+                          Investor Relations. On behalf of IndiaMART InterMESH Limited, I
+                          welcome you all to the company's quarter two FY '27 earnings
+                          webinar. As a reminder, all participant lines will be in the listen-only
+                          mode, and there will be an opportunity to ask questions after the
+                          presentation concludes.
+
+                          Joining us today from the management side, we have Mr. Dinesh
+                          Agarwal, Chief Executive Officer; Mr. Brijesh Agrawal, Whole-Time
+                          Director; Mr. Jitin Diwan, Chief Financial Officer; and Mr. Prateek
+                          Chandra, Chief Strategy Officer.
+
+                          Before we begin, I would like to remind you that some of the
+                          statements made in today's call may be forward-looking in nature and
+                          may involve risks and uncertainties. Kindly refer to Slide 3 of the
+                          earnings presentation for the detailed disclaimer.
+
+                          Now, I would like to hand over the call to Mr. Dinesh Agarwal for his
+                          opening remarks. Thank you, and over to you Sir.
+
+Dinesh Chandra Agarwal:   Thank you, Avijit. Good evening, everyone, and welcome to
+                          IndiaMART's quarter two FY '27 earnings webinar. We have
+                          circulated our earnings presentation, which is available on our website
+                          as well as the website of the stock exchanges. We are sure you would
+                          have gone through the same, and we would be happy to take any
+                          questions afterward.
+
+                          IndiaMART has delivered consolidated revenue from operations of
+                          Rs. 429 crores in the quarter two, representing a year-on-year growth
+                          of 10%. Consolidated collection from customers grew to Rs. 443
+                          crores, representing a 9% year-on-year growth for the quarter two.
+                          Consolidated deferred revenue grew to Rs. 2,029 crores, representing
+                          a 16% year-on-year growth. In quarter two, unique business enquiries
+                          were 27 million. Our total paying supplier base was 2,17,000 at the
+                          end of quarter two, reflecting a net decline of 615 suppliers during the
+                          quarter. This decrease can primarily be attributed to an elevated churn
+                          at the Silver subscription.
+
+                          Our Platinum and Gold customers, which contribute approximately
+                          50% of our customer base and about 75% of revenue, continue to have
+                          good upsell and retention rate. We are consistently working to
+                          enhance our artificial intelligence capabilities across the platform by
+                          refining our intelligent matchmaking and standardising cataloguing,
+
+
+                                          Page 2 of 21
+
+                                                                    IndiaMART InterMESH Limited
+                                                                                    Oct 27, 2026
+
+
+                         and leveraging AI for voice-based applications. We are focusing on
+                         providing a seamless discovery experience.
+
+                         Parallel to those technological advancement, building a trusted
+                         marketplace remains a fundamental strategic priority. We are actively
+                         enhancing our multi-layered user verification and platform protection
+                         features to foster a highly secure, transparent environment. Through
+                         these core improvements, we are strengthening our overall
+                         matchmaking ecosystem. Our primary goal remains unchanged, to
+                         serve as the highly reliable digital partner of MSMEs, providing the
+                         robust ecosystem they need today to grow sustainability tomorrow.
+
+                         Now, I will hand over the call to Brijesh to update about BUSY
+                         Infotech. Thank you, and over to you, Brijesh.
+
+Brijesh Kumar Agrawal:   Hi. Good evening, everyone. At BUSY, we have done a billing of Rs.
+                         46 crores in Q2. This represents a YoY growth of 20%. The revenue
+                         from operations are at Rs. 37 crores, which is a 27% year-on-year
+                         growth. The deferred revenues are at about Rs. 155 crores, and that
+                         shows a 40% year-on-year growth, while the cash from operations
+                         stood at about Rs. 12 crores.
+
+                         In Q2, we sold approximately 11,000 new licenses, bringing our total
+                         licenses sold to 4,66,000. We recently launched BUSY Magic, which
+                         has a new UI interface for BUSY. This is something which is seeing
+                         an encouraging market adoption. We are in the process of revamping
+                         the entire technology base of BUSY, and we are entering the last leg
+                         of doing those changes now.
+
+                         Beyond this specific rollout, we continue to broaden our overall
+                         product portfolio so that our customers can get better values and more
+                         intelligent capabilities by using BUSY. And apart from the
+                         developments on the product side, we actively work to expand the
+                         sales and the distributive channels that we have, so that we can
+                         continue to maintain decent growth in the business.
+
+                         With this, I will request Jitin to take over and discuss about the
+                         financial performance.
+
+ Jitin Diwan:            Sure. Thank you. Good evening, everyone. I will take you through the
+                         financial performance for the quarter ending September 2026.
+                         Consolidated collections from customer was Rs. 443 crore in the
+                         quarter, representing YoY growth of 9%. IndiaMART standalone
+
+
+                                         Page 3 of 21
+
+                                                                  IndiaMART InterMESH Limited
+                                                                                  Oct 27, 2026
+
+
+                      collection from customer for the quarter was Rs. 394 crores,
+                      registering YoY growth of 8%. Consolidated deferred revenue stood
+                      at Rs. 2,029 crores, an increase of 16% on YoY basis.
+
+                      Consolidated revenue from operations was Rs. 429 crores for the
+                      quarter, registering YoY growth of 10%. Consolidated EBITDA was
+                      Rs. 159 crore for the quarter, representing margin of 37%.
+                      Consolidated other income was negative Rs. 8 crores during the
+                      quarter, primarily due to increase in bond yields, which led to MTM
+                      losses. We believe that it is notional loss and will reverse in the next
+                      few quarters.
+
+                      Consolidated net profit for the quarter was Rs. 91 crores. And the cash
+                      generated from operations was Rs. 135 crores for the quarter.
+                      Consolidated cash and treasury balance as at the end of the quarter
+                      was Rs. 3,234 crores.
+
+                      Thank you very much, and now we are ready to take questions. Over
+                      to you, Avijit.
+
+Question-and-Answer Session
+
+Avijit Vikram:        We will now begin the Q&A session. If you wish to ask a question to
+                      the panellists, kindly raise your hand and allow camera and
+                      microphone access. Alternatively, you may type your questions in the
+                      chat menu and we will revert on that. Please restrict to two questions
+                      so that we will be able to address questions from all the participants.
+                      We will wait for a few seconds while the question queue assembles.
+
+Moderator:            First question is from the lines of Kunal Thanvi from Banyan Tree
+                      Advisors. Please unmute yourself and go ahead with your question.
+
+Kunal Thanvi:         Hi, thanks for the opportunity. I had two questions. One was regarding
+                      some of the operational parameters. When we look at, say, net active
+                      buyers and the unique business enquiries, we see a declining trend on
+                      a YoY basis, and this has been trend for a while now. How should one
+                      look at it, and how long do we think this trend will continue, given the
+                      fact that we have been tightening the verification process, etc., etc.?
+                      And like would you attribute any of this decline to searches coming
+                      through GenAI rather than, say, the traditional Google searches? Like
+                      is there any element of that in this decline?
+
+
+
+
+                                      Page 4 of 21
+
+                                                                        IndiaMART InterMESH Limited
+                                                                                        Oct 27, 2026
+
+
+                          And the second question is, one of our competitor recently talked
+                          about morphing or moving towards a marketplace kind of model,
+                          platform kind of model from just classified. Your thoughts on the
+                          same is something that we are looking to hear. Thanks.
+
+Dinesh Chandra Agarwal:   Kunal, which platform are you referring to going from classified to
+                          marketplace model? JustDial?
+
+Kunal Thanvi:             Yeah, just that. There is a change in management in that company.
+                          They recently talked about that they are looking that they aspire to
+                          make sure that the entire transaction is done on their platform, and
+                          they plan to move towards that direction.
+
+Dinesh Chandra Agarwal:   Okay. Yeah, on the daily business unique enquiries or the active
+                          buyers that you are saying, that active buyer and daily business
+                          enquiries have been declining a little bit for the past two quarters now.
+                          And yes, you are right. One, sometime in the JFM with so much of
+                          LLM-based agentic thing happening, everyone wants to protect his
+                          own data and unique advantage.
+
+                          So one, we ourselves also went ahead and started putting many things
+                          behind the login. Also, we started putting that you can't just scrape my
+                          website forever without doing any login. And third, certain
+                          information which we thought is very strategic and very proprietary to
+                          IndiaMART that we were displaying, that we stopped displaying on
+                          the search engine and to all the LLM certain things, and we kept it all
+                          behind the login.
+
+                          So yes, there might be certain losses that are occurring from Google
+                          landing. And you would remember that at the same time, Google AI
+                          Overviews had expanded from 10%, 20% now to 50% of the searches
+                          or even higher. So, yes, 10%, 15% decline on that is happening. Some
+                          of it is strategic to us and because we want to save our proprietary
+                          data, because most of these LLMs are now absorbing the data and
+                          suggesting the results in their own words.
+
+                          So since these are early days and there is no protection, we are not
+                          freely going to distribute our strategic data easily. So that's the reason.
+                          And so we are okay to let go of this 10%, 20% of the current business
+                          enquiry, and that's why we are spending where it matters. So if I look
+                          at 100,000 categories, the top quartile of the categories, where the
+                          maximum amount of business happens at IndiaMART, that's where
+                          we spend time, money, energy to derive more enquiries and more buy
+
+
+                                           Page 5 of 21
+
+                                                              IndiaMART InterMESH Limited
+                                                                              Oct 27, 2026
+
+
+                leads by doing advertising specifically on the search, and we will be
+                expanding on to other mediums also.
+
+                So if you really see, there is a little bit growth in Q2 from Q1. But yes,
+                we have lost about 10% to 15% from the best ever highs. Now,
+                coming to the marketplace kind of model. So I will not jump to the
+                conclusion that we aspire to do the complete transaction, means
+                completely doing away from the listing model, going to the
+                marketplace model. But yes, if you remember our history, we have
+                been trying to do multiple things slightly secluded from IndiaMART.
+
+                We had done a Tolexo also about a decade ago, and then we had a
+                payment platform which tried to complete transactions. We only
+                closed the payment platform sometime around '21, '22. And we are
+                also trying to get into credit facilitation. So whether you want to call it
+                as a complete end-to-end 100% marketplace movement, no. But do we
+                want to go closer to the transaction? Do we want to make sure that
+                buyer and supplier fulfilment is better? Yes. Every classified and
+                listing platform wants to know more and more details about the buyer
+                and seller, and that makes it more effective and better experience for
+                everyone. Thank you.
+
+Kunal Thanvi:   Yeah. Thank you. Just one follow-up. On the first part, when you said
+                you have stopped giving the entire data to the AI engines, etc. So now
+                this is one big thing that you have spoken in the past also, which is
+                like fight for data, like who will share what with whom, right? In this
+                crossfire, how does a platform, classified platform, like one should
+                think about. Today, that this number is, say, 10%, 15%? Say, going
+                ahead, will it become a higher number or it will even become bigger
+                because people can't do it on, say, AI platforms, so they have to come
+                back to these classified websites itself. How should one think it from a
+                longer term perspective? Because as you said, more and more Google
+                searches are moving towards AI-led searches.
+
+                Then for our business model, how do we think about this and like is
+                there any possibility of a partnership with these AI models? Because
+                now we are looking at some of the FMCG companies who are
+                working closely with AI models to get some revenue out of them
+                rather than competing with them. How do one think about this entire
+                position of sharing some data, not sharing some data, and letting go
+                some customers from a longer term perspective? Thank you.
+
+
+
+
+                                 Page 6 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+Dinesh Chandra Agarwal:   Three different questions here. One, on a month-on-month basis or on
+                          an immediate quarter-on-quarter basis, how is this going to fan out?
+                          Nobody knows because there's a huge technological shift going on and
+                          huge fight for data going on right now. And everybody is trying to
+                          know where it will land and how it will land and what would be the
+                          steady state situation in a couple of quarters or couple of years' time.
+
+                          The second part is how it is going to affect or give benefit or loss to
+                          our buyers and sellers or users. Users are going to adopt to these
+                          things slowly and slowly. And that's why I'm saying, the technology is
+                          going to happen much faster in months, in quarters, while the actual
+                          landing will happen in years. So over the next couple of quarters to
+                          couple of years, this will remain a little volatile.
+
+                          Having said that, it is the judgment of the management and to see
+                          where we feel what data is proprietary to us and what data we should
+                          distribute for the purpose of training and what data we should give for
+                          the purpose of RAG. All three are totally different. For the purpose of
+                          training, I think redacted data which is not PII data should be given,
+                          and if there is an opportunity to earn revenue, should be taken. And
+                          even we would be open to doing such things. But for the purpose of
+                          training using the PII data or identifiable information, I don't think one
+                          should be able to give it for the purpose of free learning to anybody
+                          and everybody.
+
+                          For the purpose of RAG, we will have to think who becomes useful
+                          for what. For the purpose of actual agency or agents, it is still to be
+                          seen what kind of agents we will allow and what kind of agents we
+                          will not, and at what frequency we will allow and what frequency we
+                          will not.
+
+Kunal Thanvi:             Sure. Thank you, and all the very best.
+
+Moderator:                Thank you. Next question is from the lines of Amit Chandra from
+                          HDFC Securities. Please unmute yourself and go ahead with the
+                          question.
+
+Amit Chandra:             Thanks for the opportunity. Just the continuation on the AI thing. So
+                          where we are in terms of our AI journey, in terms of implementation
+                          of tools and agents in our platform, and where exactly we are seeing
+                          the benefits of the AI adoption. Is it primarily on the like margins
+                          expansion because we automate the back end, or is it also used as a
+
+
+
+                                           Page 7 of 21
+
+                                                                        IndiaMART InterMESH Limited
+                                                                                        Oct 27, 2026
+
+
+                          primary tool for enhancing the buyer and the seller experience? So
+                          where we are in that journey and where we aspire to be?
+
+Dinesh Chandra Agarwal:   Yeah, all round. I think there must be almost like 20 plus AI things are
+                          going on. You can say from starting from pre-sales, data preparation
+                          to sales data meeting fixation, to service ticket resolution, to catalogue
+                          design and production, to category mapping, to category audit, to user
+                          verification, to automatic verification, to category intelligence.
+
+                          And then, if you remember, we have been the pioneer at the large
+                          scale voice AI. Almost 1 lakh buyers are being served for the past one
+                          year now. Almost past one year, every day, almost 80,000 to 100,000
+                          buyers are being served by our voice AI agent. And on those buy leads
+                          and RFQs are posted live on IndiaMART platform for the last more
+                          than a year now. So many different experiments are going on. Some of
+                          them are cost advantage, some of them are better intelligence for us,
+                          and some of them are time advantage.
+
+                          Many different benefits will occur to us over a period of time. We are
+                          very hopeful and very delighted to have this technology. I think every
+                          quarter we are learning many new things. Today itself in the board
+                          meeting, I think we are the first time used, instead of slides, we used
+                          videos. Something which is we discovered only one month ago. So
+                          there are so many things. At BUSY also, the entire BUSY 21, BUSY
+                          Magic as a platform, its UX was designed almost nine months ago. It
+                          was designed using AI-based technologies. So I think AI is
+                          everywhere. I mean now it is hard to distinguish where it is not.
+
+Amit Chandra:             No. That is right. But what I am trying to understand is that, whether
+                          we are experimenting with AI with multiple things or are we very
+                          certain about that these things will be a kind of a differentiator for us.
+
+Dinesh Chandra Agarwal:   We are very certain, and we are not experimenting. It is all deployed.
+                          It is being deployed, continuously being deployed. It is being
+                          improved, continuously being improved. And it is not only deployed
+                          at one place, it is deployed for the last. I mean, we have been using AI
+                          since 2018, but I think over the last two, three years, every process,
+                          every place, AI is being deployed.
+
+Amit Chandra:             In terms of the impact that we are seeing this on our business, so what
+                          are the areas like? Obviously, the margins are higher, so maybe we
+                          can attribute it that some of the cost is not increasing because the AI is
+                          taking care of some of the cost increases. Plus, in terms of
+
+
+                                           Page 8 of 21
+
+                                                                        IndiaMART InterMESH Limited
+                                                                                        Oct 27, 2026
+
+
+                          matchmaking, the experience is improving, but it is not reflecting in
+                          terms of the higher number of enquiries or the increase in the net
+                          additions. So whether, is it still those benefits are yet to accrue to us?
+
+                          And also in terms of the investments that we are doing in this AI, this
+                          is being expensed out in terms of the P&L and also the models that we
+                          are using, these models are all in-house models, or we want to
+                          outsource or partner with some of the larger like model companies to
+                          enhance the experience?
+
+Dinesh Chandra Agarwal:   Yeah, just hold on. Let me answer those many, then you can add
+                          more. Otherwise, I will forget. First of all, in terms of model, now
+                          there is an entire model garden, I guess. We are using all kind of
+                          things. From Gemini to Claude to ChatGPT, to Gemma, to Alibaba
+                          Qwen, to Grok, to whatnot. And my general tendency is to not
+                          develop these inside, but some of the times we have to. But mostly,
+                          my general tendency is as to this is not our core area of operation.
+
+                          Your second question was, should it be reflected into revenue or
+                          repeat buyer behaviour, or more customer sign up, or reduced churn,
+                          or reduced cost? See, it has been last two years or so, the AI is as
+                          much as it is helping people, as much as it is also taking away from
+                          people. While it is helping us heavily in many opportunities which we
+                          could never do, it is taking away or giving those similar tools which
+                          we were distributing in the hands of public, where a lot of things they
+                          can do on their own.
+
+                          So I guess a net-net benefit, as I said, over the next two, three years,
+                          four years, can remain very volatile. The good part is that with the
+                          tighter understanding and deeper understanding of ours in this
+                          particular area, I think if we don't grow too much, at least we are not
+                          going to go heavily in the red or completely do away. So I think
+                          there's a downside protection that I can definitely offer to you that we
+                          understand the technology well, we are using it well. We can see lot of
+                          opportunities, while there is other things that are going.
+
+                          The greatest part that I've heard, most of our consultants and some of
+                          them are PhD consultants, some of them are dean at well-known top
+                          10 universities in the world, have told us that your data at IndiaMART
+                          is very, very valuable. And AI and your IndiaMART data, if used
+                          effectively, can actually become a very useful force in protecting your
+                          turf and growing your turf in the times to come. We have started to
+                          slowly integrate BUSY and Livekeeping and IndiaMART altogether
+
+
+                                           Page 9 of 21
+
+                                                                      IndiaMART InterMESH Limited
+                                                                                      Oct 27, 2026
+
+
+                          at the back end. If you remember, four, five years ago when we
+                          acquired BUSY, we said for the first three years, we are not going to
+                          touch anything, because this is the first ever large acquisition that we
+                          did, and we didn't want it to go wrong.
+
+                          In the last two years, we have started to understand how it works, and
+                          first we started to make some changes at BUSY itself. Now we have
+                          started to see what kind of data exchanges that we can do, what kind
+                          of technology integration that we can do. There are many things that
+                          we will do and we can do. The good part is that we understand this
+                          whole ecosystem and technology. The bad part is nobody can predict,
+                          given the pace is too much and too many opportunities and too many
+                          players are in the system today. Nobody can predict next two, three
+                          quarters or next two, three years.
+
+Amit Chandra:             As such, one more question lastly, the most awaited one. What's
+                          happening to the churn?
+
+Dinesh Chandra Agarwal:   Yeah. Amit, as I said, the Silver level churn, until it improves, we are
+                          not pressing pedal on the gross addition. So 500 here and there, and
+                          we know that last two years we have been flatter on the total customer
+                          base, and most of our growth has come in from the ARPU growth and
+                          from the upsell growth. But as soon as we get a better handle on the
+                          Silver customer sign up, I mean churn, I think we will press pedal on
+                          the growth as well.
+
+Amit Chandra:             Okay, sir. Thank you and all the best.
+
+Moderator:                Thank you. Next question is from the lines of Ritvik Agrawal from 3P
+                          Investment Managers. Please unmute yourself and go ahead with the
+                          question.
+
+Ritvik Agrawal:           Yeah. Thank you for the opportunity. Wanted to understand on the
+                          quality of growth, maybe going forward over in two, three years down
+                          the line, how do we see majority of growth coming from? Will we
+                          continue with this ARPU hike trend, or do we also expect some
+                          growth to come from paid suppliers going forward?
+
+                          And secondly, on BUSY, incrementally, I am able to see, you can
+                          correct me if I'm wrong, the collection growth has been declining. As
+                          in terms of what we saw in the fourth quarter '25 to somewhere around
+                          fourth quarter '26, that collection growth has been declining. I mean,
+
+
+
+                                          Page 10 of 21
+
+                                                                      IndiaMART InterMESH Limited
+                                                                                      Oct 27, 2026
+
+
+                          just wanted to understand, is this something which is one-off, and do
+                          we expect this to come back? And if yes, then how?
+
+Dinesh Chandra Agarwal:   Yeah. Let me first, on a longer term basis, I think we expect value
+                          growth and volume growth to go hand-in-hand. We always had about
+                          10% odd value growth and 10% odd volume growth in the longer run.
+                          In the last two, three years, most of the growth has been coming from
+                          value, not from volume. But in the next two, three years' timeframe, if
+                          you want to see, it has to be balanced value and volume growth.
+
+                          On the BUSY, I think we had made some accounting changes, which
+                          has resulted into very high collection of 80%, 90% that you see. On a
+                          like-to-like basis, I think we have already given commentary then.
+                          Brijesh can clarify more on that. But if you see the net billing or the
+                          revenue numbers, they are all okay.
+
+Brijesh Kumar Agrawal:    So just to clarify, if you're referring to the overall growth of billing
+                          that we saw in Q1 and Q2 of this year, you would have seen a 10%
+                          and a 20% increment in this year. This has also happened because of,
+                          one, when we looked at billing in the last year, right? The overall
+                          changes that we had done in the methodology of the billing, as well as
+                          we had done a specific focus on customer win back during that time
+                          period. Both of these two things have resulted into a higher base for
+                          last year, quarter one, quarter two. And you can already see that as we
+                          move from quarter one to quarter two, our quarterly growth rates have
+                          improved. From Q3 onwards, you will actually be able to see far more
+                          comparable growth rates, which should be in line with the 20% to
+                          30% overall growth rates that we have been seeing. Both of those
+                          resulted into higher growth.
+
+Ritvik Agrawal:           Understood. One more question, if I may. On the margin side, I can
+                          see our margins have been improving sharply. In a steady state, any
+                          trajectory or where do we envisage this can go? Any comparable from
+                          global peers would be helpful here.
+
+Dinesh Chandra Agarwal:   You are talking about IndiaMART or BUSY?
+
+Ritvik Agrawal:           IndiaMART.
+
+Dinesh Chandra Agarwal:   IndiaMART, we have been guiding 33% margin, and I think that is the
+                          margin we are comfortable with in the long run. On EBITDA margin,
+                          IndiaMART, we have been guiding long-term 33% margin.
+
+
+
+                                          Page 11 of 21
+
+                                                                      IndiaMART InterMESH Limited
+                                                                                      Oct 27, 2026
+
+
+Ritvik Agrawal:           This quarter, I can see we had 40%.
+
+Dinesh Chandra Agarwal:   Yeah, because it is quarterly. Our margins are cost is upfront, revenue
+                          comes from behind, from 18 months past. That is why the margins are
+                          never comparable. If you have to compare, we have to compare, I
+                          mean last year same, this particular quarter, because we are not
+                          investing heavily on the sales side. So that's why you are seeing
+                          elevated margin. As we get better understanding of the churn, we will
+                          start to invest in the sales side heavily.
+
+Ritvik Agrawal:           So from 1Q '25 onwards, I can see it has always been ahead of 35%,
+                          except for 2Q FY '26. So 33% sounds to be a little lower, right?
+
+Dinesh Chandra Agarwal:   We can be a little conservative.
+
+Ritvik Agrawal:           Conservative. Okay. Okay, got it. Thank you.
+
+Moderator:                Thank you. Next question is from the lines of Abhisek Banerjee from
+                          ICICI Securities. Please unmute yourself and go ahead with your
+                          question.
+
+Abhisek Banerjee:         Yeah. Quickly, just a couple of questions. First, on the margin bit,
+                          right? The ESOP costs have actually gone down this quarter from
+                          what has been the trend. So do you expect ESOP cost to be around this
+                          level only for the remaining quarters, at least for this year? And given
+                          we have been talking about AI allowing a lot of efficiencies to be built
+                          in, right? So is there going to be any leverage that we will get on
+                          personnel cost as a proportion of revenues from, say, next year or
+                          something, or at least in the foreseeable future?
+
+Dinesh Chandra Agarwal:   Yeah. Let me first answer the AI thing, and then ESOP thing Jitin can
+                          answer. So on the AI part, I have been saying since last year, in the
+                          short run, the cost of experimentation and not being behind, I think it
+                          will add to the overall cost. In the longer run, it may improve our
+                          margins substantially, and it may improve our revenues also
+                          substantially. So I am saying in the short run.
+
+                          Whatever saving that we get, we end up spending at some other place
+                          for the more opportunity spend, or sometimes even higher. So that's
+                          why you see many large tech companies are actually running at the
+                          lowest ever profit margin today, because they are investing a lot on the
+                          AI experiments. Many of those people are capitalising it. So I think
+
+
+
+                                          Page 12 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+                          somebody had asked the question, are we capitalising any of the
+                          expenses?
+
+                          So we are not. 100% of our expense are expensed out, whether it is in
+                          the manpower, whether it is in the AI research or anywhere else. None
+                          of the expenses at BUSY or IndiaMART or Livekeeping or IIL
+                          Digital, any of our subsidiaries are ever being capitalised. At least, no
+                          manpower expenses, no software expenses. Only the real capital
+                          nature of expenses like a fixed asset or others which are required by
+                          law, those are the only ones being capitalized.
+
+                          So many of those are seen as capitalization expenses by large tech
+                          companies. In our case, it is all being expensed out immediately. In
+                          terms of ESOP, I think it is purely timing effect.
+
+Jitin Diwan:              Yeah. Just a couple of points on ESOP. One is the way ESOP is
+                          designed, every year the expense goes lower. So we are in the second
+                          year of when we had our first ESOP scheme. So that's how the
+                          expense was supposed to be lower. Second is about the organic churn
+                          of the employees, which goes, and it depends if the employee has
+                          gone, which had longer ESOPs, that gets adjusted in the overall
+                          expense. But the ESOP expense which you are looking at now is the
+                          baseline. So it should remain as is.
+
+Dinesh Chandra Agarwal:   As and when we will create new pool. And then it will increase
+                          suddenly and then slowly, slowly go down.
+
+Jitin Diwan:              Then we will have our next review.
+
+Dinesh Chandra Agarwal:   Yes.
+
+Abhisek Banerjee:         Understood. And when is that going to be?
+
+Dinesh Chandra Agarwal:   What?
+
+Abhisek Banerjee:         Any idea on the timelines of when that can happen?
+
+Dinesh Chandra Agarwal:   On the ESOP?
+
+Abhisek Banerjee:         Yeah.
+
+Dinesh Chandra Agarwal:   I mean, last ESOP, we did some time around last year, right?
+
+
+
+                                          Page 13 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+Jitin Diwan:              Yes, last year.
+
+Dinesh Chandra Agarwal:   And at the end of the financial year, the board will decide when and
+                          how much to allocate as an ESOP. We generally avoid every year. So
+                          at the end of two year or three year, we do it mostly like that. If there
+                          are any specific hirings that have happened with the promise of stock-
+                          based compensation, that little bit we keep doing every year. But other
+                          than that, any larger ESOP pools, we do. So for example, last we did
+                          in 2022, and then we did it in 2025. Before that, we did it in 2018. I
+                          think between two, three years gap, you can see one stock-based
+                          compensation scheme.
+
+Abhisek Banerjee:         Understood. On the lending business, lending facilitation business,
+                          rather. Could you, please provide some colour? I just wanted to
+                          understand, like, see on your platform, you have never really had
+                          transactions. And there are now quite a few B2B platforms which
+                          allow transactions. So does that make you kind of slightly weaker in
+                          terms of the data that you have? And what kind of traction can you get
+                          from the lenders atleast? If you could give some colour on that, please.
+
+Dinesh Chandra Agarwal:   So I mean, everybody has his own strength. The transactional
+                          platforms have their own weaknesses and strength. As a large
+                          horizontal, multi-industry, classified and directory platform, we have
+                          our own strengths. We get the intent to purchase. If we capture the
+                          intent with the eligibility to get eligibility of financing, I think and
+                          when it goes to BUSY or Livekeeping, it is finally the actual account
+                          booking. We get the supply chain information at the firsthand before
+                          anybody else gets that information. So there are certain inherent
+                          strengths that we have.
+
+                          Having said that, are we going to go into every opportunity that we
+                          have? No. I think our objective is very clear. It is not to do the
+                          lending, lending. It is to support the marketplace because at
+                          IndiaMART, there are so many large equipments that are bought and
+                          sold. And they cannot be bought like a B2B marketplace with the
+                          transaction. So I think at those places, you need some kind of a credit
+                          facilitation systems because we get the intent at the time where
+                          nobody has seen the transaction.
+
+Abhisek Banerjee:         Got it. But would you be able to kind of give pre-approved credit lines
+                          or something of that sort, or would it be just kind of a lead generation
+                          exercise? And if you have started any pilots, etc., and if you can share
+                          some colour on that that would be great.
+
+
+                                            Page 14 of 21
+
+                                                                      IndiaMART InterMESH Limited
+                                                                                      Oct 27, 2026
+
+
+
+
+Dinesh Chandra Agarwal:   No. I mean, I think we will keep doing smaller experiments, and then
+                          we will see whatever comes. We will keep telling you quarter-on-
+                          quarter.
+
+Abhisek Banerjee:         Understood. Thank you. This is very helpful.
+
+Avijit Vikram:            So we have some questions from the chat box, so I will take a few of
+                          them. First question is from Ravi Purohit. When we look at other
+                          classified companies like Naukri.com, CarTrade, OLX, etc., they have
+                          started monetising buyers on their platform by offering them
+                          significant value-added services. Broad question is, can we remain just
+                          a pure play classifieds company only?
+
+Dinesh Chandra Agarwal:   Yeah. So I think, if I understood the question correctly, what you are
+                          asking, that B2C classified businesses have started to monetise a large
+                          base of their consumer side also. So either in terms of Prime
+                          membership or in terms of candidate membership.. But at least
+                          Naukri.com and the earlier version of Zomato, or Amazon Prime or
+                          something like that.
+
+                          On the B2B side also, there are examples in the world where Alibaba
+                          in China has a membership for buyers also at a very small, some $20
+                          or something like that. Once our markets mature to that layer, as I
+                          said, we have started to now verify the buyers, started asking for the
+                          PAN, GST, and Udyam of the buyers also. So in order to increase
+                          trust and repeat business, some point of time, we will have a verified
+                          business buyer program and a paid verified business buyer program.
+
+                          We are currently in the process of doing certain pilots. As and when
+                          anything becomes significant enough, we will come back and tell you.
+                          If you go to the platform and explore, there are many different
+                          experiments that keep on running time-to-time.
+
+Avijit Vikram:            Okay. Thank you. So we have a couple of questions from Ashwin R.
+                          So first one is, Gold and Platinum are roughly half our customer base,
+                          but 75% of revenue. And you have said growth will be ARPU-led
+                          until churn is fixed. ARPU growth has historically run 5% to 10%. At
+                          what point does ARPU expansion hit a saturation ceiling if the Silver
+                          pool keeps shrinking? And is there a limit on how much price and mix
+                          means ARPU can carry revenue growth without customer additions?
+
+
+
+
+                                         Page 15 of 21
+
+                                                                        IndiaMART InterMESH Limited
+                                                                                        Oct 27, 2026
+
+
+Dinesh Chandra Agarwal:   So two parts to it. Yes, 5% to 10% in the natural system has been
+                          growing, and that's what we are also getting to 8% to 10% revenue
+                          growth. But how much can it be stressed or not stressed? Do I really
+                          want to stress that more? No. In terms of the Silver side churn, can I
+                          improve certain quality of Silver acquisition, which can actually go to
+                          Gold and Platinum, rather than trying to get all the similar kind of. If I
+                          can do a better targeting on Silver, that this particular customer is
+                          more likely to stay, and this particular customer is less likely to stay or
+                          medium likely to stay.
+
+                          If I can actually go and pinpoint and target the actual green, super
+                          green customer set, either by turnover or by industry or by geography,
+                          triangulated into all three of them, I think we can continue to feed
+                          Gold onboarding or Gold and Platinum onboarding. Having said that,
+                          in the last two years or so, our overall Silver numbers have not
+                          improved, and thus the overall Gold and Platinum numbers are also
+                          stagnant. So we are trying our level best. As and when something
+                          happens, you will start to see.
+
+Avijit Vikram:            Kshitij, you can continue with the queue.
+
+Moderator:                Sure. Next question is from the lines of Shreya Chatterjee from
+                          Ageless Capital. Please unmute yourself and go ahead with your
+                          question.
+
+Shreya Chatterjee:        Hi. Thank you for taking my question. So I wanted to have a more
+                          nuanced understanding of what is happening, like what all measures
+                          are you taking to reduce the Silver churn. Like you had mentioned,
+                          verification of buyers and doing like mobile verification, PAN card
+                          verification. What all measures are you taking, and what all qualitative
+                          metrics are you seeing on the Silver churn side?
+
+Dinesh Chandra Agarwal:   I think if you see the last three years chronology, what all we have
+                          done, the first thing that we tried to improve was the service levels,
+                          because many of our employees were new. So we improved the
+                          service level. The second phase, if you look at 2024, most of the time,
+                          '24, '25, I think we worked on the quality of buy leads and quality of
+                          RFQs, where we worked on high intent, we worked on quantity,
+                          specification, enquiry relevancy, feedback was the thing, which
+                          actually improved. Customers actually loved it. But then most of the
+                          benefit again accrued to the Gold and Platinum customers because
+                          they were the highest user of buy leads and RFQs and enquiries. Then
+                          because the traffic was also not growing much, we thought how we
+
+
+                                          Page 16 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+                          can increase the overall buyer numbers. We took two different
+                          approaches.
+
+                          We started to experiment and invest into the performance marketing.
+                          If you see our advertising expenses in the entire of last year are now
+                          running at Rs. 8 crores, Rs. 9 crores per quarter, and this is almost
+                          touching the Rs. 10 crore per quarter budget. And we are spending
+                          most of this advertising money on the top quartile of the categories.
+                          Another thing that we did is reduce the overall unique business buyers
+                          to the enquiry delivered. We are reducing the competition as well as
+                          reducing the headache for the buyer, how many people he has to speak
+                          to. Multiple things that we did. We also tried to improve on the trust
+                          side, where TrustSEAL verification and trust communication. We
+                          have also launched a trust assurance program. Now every buyer is
+                          actually protected up to Rs. 5 lakh of purchase, if the purchase is truly
+                          taken from the verified bank accounts and from the TrustSEAL
+                          suppliers. So multiple initiatives we are doing. Most of that benefit is
+                          accruing to Gold and Platinum suppliers, and some of it is coming to
+                          the Silver suppliers also. It is not that the Silver suppliers are
+                          completely not happy. The overall 12-month retention of the Silver
+                          supplier, which used to be four or five years ago versus today, is 10%
+                          lower, and that is the only difference. Otherwise, we would be looking
+                          at 10% volume growth and 10% value growth.
+
+Shreya Chatterjee:        Got it. And any sense on when this churn would improve even slightly
+                          for Silver buyers? Also you were mentioning that you are planning to
+                          start some buyer monetisation program, so what is the status on that?
+
+Dinesh Chandra Agarwal:   I did not say I am planning to start. I am experimenting with this.
+                          Because the world over, Alibaba has done some good job, Amazon
+                          has done some good job, Costco has done some good job. Back in
+                          India, even Zomato has done some good job on that. I think it is not
+                          easy to crack. Asking of Rs. 1,000 to Rs. 10,000 per buyer per year.
+                          Anyway, this is something as a program needs to finally scale
+                          automatically. We have started to experiment. If at all any experiment
+                          becomes successful, we will definitely be more than happy to come
+                          and let you know.
+
+Shreya Chatterjee:        Any sense on the numbers like the Silver churn declining in the next
+                          few quarters, or you want to keep an open view and see how is it
+                          going, how is it evolving?
+
+
+
+
+                                          Page 17 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+Dinesh Chandra Agarwal:   Yeah, I mean, last two, three years, or two years, I have stopped
+                          giving any guidance on that because there has not been any certainty. I
+                          can only say that on a best effort basis, we are trying to honestly do
+                          multiple efforts. Exactly when it will result into a better outcome, we
+                          don't know.
+
+Shreya Chatterjee:        Got it. And lastly, your employee count has increased slightly quarter-
+                          over-quarter. Is it more on the sales side that you are onboarding
+                          employees or how is it?
+
+Dinesh Chandra Agarwal:   Yeah, mostly on the business side. I don't think it has grown anything.
+                          In fact, from the last-
+
+Jitin Diwan:              Just 30 plus got added in last quarter vs previous quarter..
+
+Dinesh Chandra Agarwal:   Business as usual.
+
+Shreya Chatterjee:        Okay. Got it. Thank you. Thank you for taking my questions.
+
+Avijit Vikram:            Thank you, Shreya. We have a question from the chat box from
+                          Ashwin R. Will IndiaMART Finance operate strictly as a zero-risk,
+                          fee-based distribution marketplace for partner banks and NBFCs, or
+                          will it commit balance sheet capital through FLDG arrangements or
+                          seek an NBFC license? What is the maximum capital and maximum
+                          first loss exposure you are willing to underwrite, and how will this be
+                          disclosed?
+
+Prateek Chandra:          Sure. On this entire initiative of credit, as Dinesh also said, our
+                          primary objective of looking at this credit enablement is that how can
+                          we improve the buying experience of people on the IndiaMART
+                          platform?
+
+                          As we kind of go along, I am sure a lot of products will evolve. In that
+                          case, as we are running kind of in a couple of pilots currently, but
+                          those are really saying they are early stages currently. I think once it
+                          scale up, we would be having a much more evolved business model
+                          wherein we can kind of now talk about as to what kind of capital and
+                          those will be kind of committed. Currently, there is no significant
+                          amount of capital that has kind of been getting committed on these
+                          initiatives.
+
+
+
+
+                                          Page 18 of 21
+
+                                                                         IndiaMART InterMESH Limited
+                                                                                         Oct 27, 2026
+
+
+Dinesh Chandra Agarwal:   Yeah, but rest assured, anything even to the tune of few crores a
+                          quarter, I will come and tell you first. Rest assured, there is no
+                          question of us taking a huge capital risk.
+
+Avijit Vikram:            I think we can take one more, Kshitij, yeah.
+
+Moderator:                Sure. Next question is from the lines of Pranaya Jain from Banyan
+                          Tree Advisors. Please unmute yourself and go ahead with your
+                          questions.
+
+Pranaya Jain:             Thank you for the opportunity, sir. I have a few questions. One is, sir,
+                          can you throw some light on the growth in Gold and Platinum supplier
+                          base of ours? Can you talk about how that is trending?
+
+Dinesh Chandra Agarwal:   So since the overall subscriber numbers has not increased, we do, I
+                          think, publish overall number on a yearly basis. In the last year, it had
+                          grown by 1,000-2,000. Previous to previous year, it was about 3,000
+                          or so, in the Platinum segment. Platinum and Gold segment together, I
+                          don't think we have been giving a detailed outcome. We always give
+                          that top 10% customer base, top 1% customer base, and top overall
+                          customer base. There are pools. We have not been giving exact details.
+                          On approximate numbers, it is about 50% of the customer base, Gold
+                          and Platinum, and about 75% of the revenue. If there is a material
+                          change in that number, we will come back and tell you for sure.
+
+Pranaya Jain:             Understood. Got it. My second question is on organic versus paid
+                          traffic. You answered in the previous question as well, that you've
+                          been spending on paid advertising. Can you talk about what
+                          percentage of your traffic currently on the buyer side is now coming
+                          through organic channels versus due to paid advertising? Going
+                          forward, is there any plan to ramp up on marketing spends?
+
+Dinesh Chandra Agarwal:   On the 26 million unique business inquiry, 27 million unique business
+                          inquiry that you see. I think about a million odd would probably every
+                          month, so that is about 3 million in a quarter. 10% of our traffic,
+                          approximately, is now coming through the organic paid thing. It also
+                          does a little bit of a cannibalisation. There could be almost 20%-40%
+                          cannibalization depending upon which particular area. The good part
+                          is that that 10% traffic that I bring using the paid versus this overall
+                          unique business enquiry. The unique business inquiry is across all the
+                          100,000 categories, across all the tier one, tier two, tier three cities,
+                          across all the GST, non-GST customer, consumer business, super
+                          business category.
+
+
+                                          Page 19 of 21
+
+                                                                       IndiaMART InterMESH Limited
+                                                                                       Oct 27, 2026
+
+
+
+
+                          The 1 million that we are able to get is more targeted customer, which
+                          is the top quartile of the category, which is the typical Tier 1, Tier 2
+                          mix, with little bit of a tier three mix. I think we are getting more and
+                          more sophisticated on where to spend money, rather than saying that
+                          out of the 10 million odd unique buyers every month, we now get 20%
+                          coming from paid advertising. We will probably continue to get a
+                          lower percentage of that, but more useful traffic than what we attract
+                          from the normal organic.
+
+                          In the organic term, I do not say no to anybody, but in the advertised
+                          traffic, I think I would be very conscious of the fact where am I
+                          spending money and what kind of traffic am I getting, what kind of
+                          conversion am I getting, which industry I am getting from, what kind
+                          of quantities I am getting from. I think those are the things. As we will
+                          get better and better at that, because unlike a single brand doing
+                          advertising, we are a multi-brand, multi-category, multi-geography
+                          thing. We have to do a local matchmaking for each one of them. That
+                          makes it very difficult. It is one step even more difficult than what
+                          best in the world Amazon would do. Amazon is a multi-category,
+                          multi thing. It still fulfils everybody nationally or at least regionally.
+                          While in our case, it has to be fulfilled at locally.
+
+                          It is now our data science team that has been able to understand that
+                          how to run this in such a small patches of category plus geography
+                          plus demography. All of these three combined together, we spend Rs.
+                          10,000 a month on that segment. It is a very little, very highly targeted
+                          segment that we are able to do. Once we get a better handle on that, I
+                          think we will spend maybe double the investment on that side.
+
+Pranaya Jain:             Right. Understood. That is very helpful. Just one last question from
+                          my side. Sir, any thoughts on buyback?
+
+Dinesh Chandra Agarwal:   Capital allocation decisions, including buybacks, are for the Board to
+                          consider. We will convey your suggestion to the Board.
+
+Pranaya Jain:             Understood, sir. Thank you so much, and all the best.
+
+Moderator:                Thank you. That was the last question for the day. I would now hand
+                          over the call to Dinesh Agarwal for his concluding remarks. Over to
+                          you Sir.
+
+
+
+
+                                          Page 20 of 21
+
+                                                                                                     IndiaMART InterMESH Limited
+                                                                                                                     Oct 27, 2026
+
+
+Dinesh Chandra Agarwal:                    Thank you, Kshitij. Thank you, ladies and gentlemen, for joining our
+                                           quarter two FY '27 conference call. We have tried to address your
+                                           queries in the time available. But if you still have any questions,
+                                           please feel free to contact with our investor relation team, sir. Happy
+                                           Diwali, and happy prosperous New Year to everybody for the
+                                           upcoming season. Have a great day and a great evening. Thank you.
+
+Moderator:                                 On behalf of IndiaMART, we thank everyone for joining us on this
+                                           webinar. You may now disconnect your lines. Thank you.
+
+
+
+Notes:
+         1. This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings.
+         2. No part of this publication may be reproduced or transmitted in any form or by any means without the prior written consent of
+             IndiaMART InterMESH Limited.
+
+
+
+
+                                                                Page 21 of 21
+
