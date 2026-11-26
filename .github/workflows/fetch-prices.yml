@@ -1,0 +1,84 @@
+name: Fetch price history
+on:
+  workflow_dispatch:
+    inputs:
+      symbols:
+        description: 'Company symbols, comma separated'
+        default: 'TCS,INFY,LT,RELIANCE,ASIANPAINT,SUNPHARMA,TITAN,MARUTI'
+      from_date:
+        description: 'Start date (YYYY-MM-DD)'
+        default: '2024-04-01'
+concurrency:
+  group: prices
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Download prices
+        env:
+          SYMBOLS: ${{ github.event.inputs.symbols }}
+          FROM: ${{ github.event.inputs.from_date }}
+        run: |
+          cat > prices.js <<'JS'
+          // Daily close and previous close per stock from NSE. Saves data/prices/SYMBOL.csv. Logs every failure.
+          const fs = require('fs');
+          const UA = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36', 'Accept': 'application/json,text/plain,*/*', 'Accept-Language': 'en-US,en;q=0.9', 'Referer': 'https://www.nseindia.com/' };
+          const sleep = ms => new Promise(r => setTimeout(r, ms));
+          let cookie = '';
+          async function seed() { try { const r = await fetch('https://www.nseindia.com', { headers: UA }); cookie = (r.headers.getSetCookie ? r.headers.getSetCookie() : []).map(c => c.split(';')[0]).join('; '); } catch (e) {} }
+          const dmy = d => String(d.getUTCDate()).padStart(2, '0') + '-' + String(d.getUTCMonth() + 1).padStart(2, '0') + '-' + d.getUTCFullYear();
+          async function chunk(sym, a, b) {
+            const url = 'https://www.nseindia.com/api/historical/cm/equity?symbol=' + encodeURIComponent(sym) + '&series=%5B%22EQ%22%5D&from=' + dmy(a) + '&to=' + dmy(b);
+            let last = '';
+            for (let i = 0; i < 3; i++) {
+              try {
+                const r = await fetch(url, { headers: Object.assign({}, UA, { Cookie: cookie }) });
+                if (!r.ok) { last = 'HTTP ' + r.status; if (r.status === 401 || r.status === 403) await seed(); await sleep(1500 * (i + 1)); continue; }
+                const j = await r.json(); return { rows: j.data || [] };
+              } catch (e) { last = 'error ' + e.message; await sleep(1500 * (i + 1)); }
+            }
+            return { error: last };
+          }
+          (async () => {
+            await seed(); fs.mkdirSync('data/prices', { recursive: true });
+            const syms = (process.env.SYMBOLS || '').split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+            const start = new Date(process.env.FROM + 'T00:00:00Z'), end = new Date();
+            let okc = 0;
+            for (const sym of syms) {
+              const all = {}; let fails = 0;
+              for (let a = new Date(start); a < end; a = new Date(a.getTime() + 85 * 86400000)) {
+                const b = new Date(Math.min(a.getTime() + 84 * 86400000, end.getTime()));
+                const r = await chunk(sym, a, b);
+                if (r.error) { fails++; console.log('FAIL ' + sym + ' ' + dmy(a) + ' to ' + dmy(b) + ' ' + r.error); }
+                else r.rows.forEach(x => { all[x.CH_TIMESTAMP] = [x.CH_TIMESTAMP, x.CH_PREVIOUS_CLS_PRICE, x.CH_CLOSING_PRICE, x.CH_TOT_TRADED_QTY]; });
+                await sleep(700);
+              }
+              const days = Object.values(all).sort((p, q) => p[0] < q[0] ? -1 : 1);
+              if (days.length) { fs.writeFileSync('data/prices/' + sym + '.csv', 'date,prev_close,close,volume\n' + days.map(d => d.join(',')).join('\n') + '\n'); okc++; }
+              console.log((days.length ? 'OK   ' : 'FAIL ') + sym + ': ' + days.length + ' days' + (days.length ? ' (' + days[0][0] + ' to ' + days[days.length - 1][0] + ')' : '') + (fails ? ', ' + fails + ' chunks failed' : ''));
+            }
+            if (!okc) process.exit(1);
+          })();
+          JS
+          node prices.js
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "filings-bot"
+          git config user.email "filings-bot@users.noreply.github.com"
+          git add data/prices
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Update price history"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
