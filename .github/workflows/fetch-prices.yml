@@ -1,0 +1,100 @@
+name: Fetch price history
+on:
+  workflow_dispatch:
+    inputs:
+      symbols:
+        description: 'Company symbols, comma separated'
+        default: 'TCS,INFY,LT,RELIANCE,ASIANPAINT,SUNPHARMA,TITAN,MARUTI'
+      from_date:
+        description: 'Start date (YYYY-MM-DD)'
+        default: '2024-04-01'
+concurrency:
+  group: prices
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Download prices
+        env:
+          SYMBOLS: ${{ github.event.inputs.symbols }}
+          FROM: ${{ github.event.inputs.from_date }}
+        run: |
+          cat > prices.js <<'JS'
+          // Reads NSE's daily archive files (all stocks, and index closes), keeps the chosen symbols plus NIFTY 50.
+          // Saves data/prices/SYMBOL.csv and data/prices/_NIFTY50.csv. Logs counts and failures.
+          const fs = require('fs');
+          const UA = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36', 'Accept': '*/*', 'Accept-Language': 'en-US,en;q=0.9', 'Referer': 'https://www.nseindia.com/' };
+          const sleep = ms => new Promise(r => setTimeout(r, ms));
+          const syms = (process.env.SYMBOLS || '').split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+          const pad = n => String(n).padStart(2, '0');
+          async function get(url) {
+            let last = '';
+            for (let i = 0; i < 3; i++) {
+              try {
+                const r = await fetch(url, { headers: UA });
+                if (r.status === 404) return { missing: true };
+                if (!r.ok) { last = 'HTTP ' + r.status; await sleep(1500 * (i + 1)); continue; }
+                const t = await r.text();
+                if (t.slice(0, 15).toLowerCase().includes('<html') || t.slice(0, 15).toLowerCase().includes('<!doc')) { last = 'got a web page, not data'; await sleep(1500 * (i + 1)); continue; }
+                return { text: t };
+              } catch (e) { last = 'error ' + e.message; await sleep(1500 * (i + 1)); }
+            }
+            return { error: last };
+          }
+          const rows = {}; syms.forEach(s => rows[s] = []); const nifty = [];
+          let nDays = 0, nFail = 0, nMiss = 0, firstErr = '';
+          (async () => {
+            const start = new Date(process.env.FROM + 'T00:00:00Z'), end = new Date();
+            for (let d = new Date(start); d <= end; d = new Date(d.getTime() + 86400000)) {
+              const wd = d.getUTCDay(); if (wd === 0 || wd === 6) continue;
+              const dd = pad(d.getUTCDate()) + pad(d.getUTCMonth() + 1) + d.getUTCFullYear(), iso = d.toISOString().slice(0, 10);
+              const r = await get('https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_' + dd + '.csv');
+              if (r.missing) { nMiss++; continue; }
+              if (r.error) { nFail++; if (!firstErr) firstErr = iso + ' ' + r.error; console.log('FAIL ' + iso + ' ' + r.error); continue; }
+              nDays++;
+              const lines = r.text.split('\n'); const hdr = lines[0].split(',').map(x => x.trim().toUpperCase());
+              const ix = n => hdr.indexOf(n);
+              const iS = ix('SYMBOL'), iSer = ix('SERIES'), iP = ix('PREV_CLOSE'), iC = ix('CLOSE_PRICE'), iV = ix('TTL_TRD_QNTY');
+              for (const l of lines.slice(1)) {
+                const c = l.split(',').map(x => x.trim()); if (c.length < 8) continue;
+                if (rows[c[iS]] && c[iSer] === 'EQ') rows[c[iS]].push([iso, c[iP], c[iC], c[iV]]);
+              }
+              const q = await get('https://nsearchives.nseindia.com/content/indices/ind_close_all_' + dd + '.csv');
+              if (q.text) {
+                for (const l of q.text.split('\n').slice(1)) { const c = l.split(','); if ((c[0] || '').trim().toLowerCase() === 'nifty 50') { nifty.push([iso, c[5] || '', c[5] || '']); } }
+              }
+              await sleep(250);
+            }
+            fs.mkdirSync('data/prices', { recursive: true });
+            let ok = 0;
+            for (const s of syms) {
+              console.log((rows[s].length ? 'OK   ' : 'FAIL ') + s + ': ' + rows[s].length + ' days');
+              if (rows[s].length) { fs.writeFileSync('data/prices/' + s + '.csv', 'date,prev_close,close,volume\n' + rows[s].map(r => r.join(',')).join('\n') + '\n'); ok++; }
+            }
+            if (nifty.length) fs.writeFileSync('data/prices/_NIFTY50.csv', 'date,close\n' + nifty.map(r => r[0] + ',' + r[1]).join('\n') + '\n');
+            console.log('NIFTY 50: ' + nifty.length + ' days. Trading days read: ' + nDays + ', not found (holidays): ' + nMiss + ', failed: ' + nFail + (firstErr ? '. First failure: ' + firstErr : ''));
+            if (!ok) process.exit(1);
+          })();
+          JS
+          node prices.js
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "filings-bot"
+          git config user.email "filings-bot@users.noreply.github.com"
+          git add data/prices
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Update price history"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
